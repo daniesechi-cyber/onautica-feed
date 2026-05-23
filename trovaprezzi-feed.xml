@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-22T18:11:06.417Z -->
-<!-- Offerte: 2674 -->
+<!-- Generato: 2026-05-23T06:30:59.558Z -->
+<!-- Offerte: 2671 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1652,7 +1652,7 @@
     <Name>Falsa Maglia Inox AISI 316 8 Perni 12 mm per Catena Calibrata</Name>
     <Brand>Osculati</Brand>
     <Description>Falsa Maglia Inox AISI 316 a 8 Perni 12 mm – per Catena Calibrata per Argani e Salpa Ancore La falsa maglia inox AISI 316 a 8 perni da 12 mm è il componente indispensabile per il collegamento sicuro e affidabile tra la catena di ancoraggio e gli altri ele</Description>
-    <OriginalPrice>9.52</OriginalPrice>
+    <OriginalPrice>9.53</OriginalPrice>
     <Price>6.35</Price>
     <Code>01.672.12</Code>
     <Link>https://www.onautica.com/products/falsa-maglia-inox-aisi-316-8-perni-12-mm-per-catena-calibrata?variant=53050887176539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -5702,6 +5702,7 @@
     <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-piastra-zinco-carena-vetus-095kg.webp?v=1774523862</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>1957000007753</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-piastra-zinco-carena-vetus-095kg_misura.webp?v=1774523859</Image2>
     <Condition>nuovo</Condition>
     <ParentID>anodo-piastra-zinco-carena-vetus-095kg</ParentID>
@@ -11306,6 +11307,42 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-C a USB-C - 2 mt.</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
+    <OriginalPrice>10.50</OriginalPrice>
+    <Price>7.03</Price>
+    <Code>309906</Code>
+    <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083592539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3571211472865</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-A a Lightning - 1 mt. (Apple)</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
+    <OriginalPrice>25.20</OriginalPrice>
+    <Price>16.83</Price>
+    <Code>309908</Code>
+    <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083658075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3571211433583</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavo Elettrico Banchina 32A 220V – Tripolare 3x6 mm² Blu (Sea Water Resistant)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Cavo Elettrico Sea Water Resistant (Cod. 14.593.01) è la soluzione professionale per collegare l&apos;imbarcazione alla colonnina di banchina in totale sicurezza, garantendo una portata fino a 32 Ampere . Progettato secondo le più severe norme europee (IEC </Description>
@@ -11929,8 +11966,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Blue Navy – Per Parabordi a Pera - A1 - Ø 28-31 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>I Copriparabordi Navishell A-Type in colorazione Blue Navy sono la soluzione ideale per rivestire e proteggere i parabordi sferici (a pera o a boa) della serie A. Confezionati in pregiato tessuto marino 100% Acrilico lavorato a maglia, questi rivestimenti</Description>
-    <OriginalPrice>16.80</OriginalPrice>
-    <Price>9.34</Price>
+    <OriginalPrice>17.70</OriginalPrice>
+    <Price>9.83</Price>
     <Code>3813101</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-blue-navy?variant=52513515405659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -11947,11 +11984,11 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Blue Navy – Per Parabordi a Pera - A2 - Ø 38-41 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>I Copriparabordi Navishell A-Type in colorazione Blue Navy sono la soluzione ideale per rivestire e proteggere i parabordi sferici (a pera o a boa) della serie A. Confezionati in pregiato tessuto marino 100% Acrilico lavorato a maglia, questi rivestimenti</Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>13.52</Price>
+    <OriginalPrice>25.60</OriginalPrice>
+    <Price>14.23</Price>
     <Code>3813102</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-blue-navy?variant=52517221499227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-a-type-blue-navy.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -11965,8 +12002,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Blue Navy – Per Parabordi a Pera - A4 - Ø 54-60 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>I Copriparabordi Navishell A-Type in colorazione Blue Navy sono la soluzione ideale per rivestire e proteggere i parabordi sferici (a pera o a boa) della serie A. Confezionati in pregiato tessuto marino 100% Acrilico lavorato a maglia, questi rivestimenti</Description>
-    <OriginalPrice>48.00</OriginalPrice>
-    <Price>26.69</Price>
+    <OriginalPrice>50.60</OriginalPrice>
+    <Price>28.10</Price>
     <Code>3813104</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-blue-navy?variant=52800172163419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -11982,8 +12019,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Rosso Vino (Bordeaux) – Per Parabordi a Pera - A1 - Ø 28-31 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Proteggi i tuoi parabordi sferici con stile grazie ai Copriparabordi Navishell A-Type nella sofisticata colorazione Rosso Vino (Bordeaux) . Specifici per i modelli a pera (Serie A), questi rivestimenti uniscono un&apos;estetica di pregio a prestazioni tecniche</Description>
-    <OriginalPrice>16.80</OriginalPrice>
-    <Price>9.34</Price>
+    <OriginalPrice>17.70</OriginalPrice>
+    <Price>9.83</Price>
     <Code>3813101BO</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-rosso-vino?variant=52513515438427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -12017,8 +12054,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Sabbia – Per Parabordi a Pera - A1 - Ø 28-31 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Scegli la raffinatezza dei Copriparabordi Navishell A-Type nella tonalità Sabbia , ideale per vestire i tuoi parabordi sferici (Serie A) con un tocco di classe che si sposa perfettamente con il teak e le linee classiche dell&apos;imbarcazione. Realizzati in te</Description>
-    <OriginalPrice>16.80</OriginalPrice>
-    <Price>9.34</Price>
+    <OriginalPrice>17.70</OriginalPrice>
+    <Price>9.83</Price>
     <Code>3813101SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-sabbia?variant=52513515471195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -12034,8 +12071,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Sabbia – Per Parabordi a Pera - A2 - Ø 38-41 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Scegli la raffinatezza dei Copriparabordi Navishell A-Type nella tonalità Sabbia , ideale per vestire i tuoi parabordi sferici (Serie A) con un tocco di classe che si sposa perfettamente con il teak e le linee classiche dell&apos;imbarcazione. Realizzati in te</Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>13.52</Price>
+    <OriginalPrice>25.60</OriginalPrice>
+    <Price>14.23</Price>
     <Code>3813102SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-sabbia?variant=52517211373915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -12052,8 +12089,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell A-Type Sabbia – Per Parabordi a Pera - A3 - Ø 46-50 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Scegli la raffinatezza dei Copriparabordi Navishell A-Type nella tonalità Sabbia , ideale per vestire i tuoi parabordi sferici (Serie A) con un tocco di classe che si sposa perfettamente con il teak e le linee classiche dell&apos;imbarcazione. Realizzati in te</Description>
-    <OriginalPrice>35.70</OriginalPrice>
-    <Price>19.82</Price>
+    <OriginalPrice>37.50</OriginalPrice>
+    <Price>20.86</Price>
     <Code>3813103SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-a-type-sabbia?variant=52517211406683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -12634,6 +12671,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/duralac-green-isolante-sigillante-anticorrosione-galvanica-metalli-dissimili115.webp?v=1778065185</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>5060484880074</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/duralac-green-isolante-sigillante-anticorrosione-galvanica-metalli-dissimili2501000.webp?v=1778065185</Image2>
     <Condition>nuovo</Condition>
     <ParentID>duralac-green-isolante-anticorrosione-galvanica-metalli-dissimili</ParentID>
@@ -14990,11 +15028,11 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
     <Brand>FDF</Brand>
     <Description>La Valigetta Segnali di Soccorso per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnico è rigorosamente allineato alle r</Description>
-    <OriginalPrice>102.19</OriginalPrice>
-    <Price>88.86</Price>
+    <OriginalPrice>106.42</OriginalPrice>
+    <Price>92.54</Price>
     <Code>KIT6/12/50</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24084,10 +24122,11 @@ L 320mm. - Ø22</Name>
     <Price>13.63</Price>
     <Code>11137</Code>
     <Link>https://www.onautica.com/products/antigelo-star-brite-premium?variant=52577376731483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ANTIGELOSTARBRITEPREMIUMANTIFREEZE.png?v=1773341523</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>071247314083</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>antigelo-star-brite-premium</ParentID>
   </Offer>
@@ -27135,8 +27174,8 @@ L 320mm. - Ø22</Name>
     <Name>Pompa autoclave Seaflo 3,8 lt/min. 12V</Name>
     <Brand>Seaflo</Brand>
     <Description>Questa pompa autoclave compatta SeaFlo Mini 21 è la soluzione perfetta per impianti idrici di piccole dimensioni, progettata per alimentare in modo efficiente fino a due utenze di bordo (come lavelli o doccette). Caratteristiche Principali: Funzionamento </Description>
-    <OriginalPrice>34.22</OriginalPrice>
-    <Price>24.44</Price>
+    <OriginalPrice>38.37</OriginalPrice>
+    <Price>27.41</Price>
     <Code>10082</Code>
     <Link>https://www.onautica.com/products/pompa-autoclave-seaflo-3-8lt?variant=52577473724763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -27326,8 +27365,8 @@ L 320mm. - Ø22</Name>
     <Name>Pompa di sentina Europump II automatica | Osculati - G750 - 48 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>Protezione Compatta, Automatica e Certificata per la Tua Sentina La pompa di sentina Europump II è la soluzione moderna e affidabile per mantenere la sentina sempre asciutta. Il suo design estremamente compatto la rende ideale per installazioni anche in s</Description>
-    <OriginalPrice>31.68</OriginalPrice>
-    <Price>26.40</Price>
+    <OriginalPrice>29.51</OriginalPrice>
+    <Price>24.59</Price>
     <Code>10943</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-europump-ii-automatica-osculati?variant=52513436336475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -31831,22 +31870,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>portagomma-maschio-ottone</ParentID>
   </Offer>
   <Offer>
-    <Name>Portagomma maschio in ottone per tubi e raccordi filettati, attacco resistente - 1&quot;-1/4 / 40 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Raccordo portagomma con filettatura maschio, progettato per collegare in modo rapido e sicuro tubi flessibili a prese a mare, scarichi, serbatoi e dispositivi con filettatura femmina. Una soluzione affidabile per impianti idraulici di bordo e applicazioni</Description>
-    <OriginalPrice>11.23</OriginalPrice>
-    <Price>8.02</Price>
-    <Code>1430040</Code>
-    <Link>https://www.onautica.com/products/portagomma-maschio-ottone?variant=51595088167259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137008399</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>portagomma-maschio-ottone</ParentID>
-  </Offer>
-  <Offer>
     <Name>Portagomma maschio in ottone per tubi e raccordi filettati, attacco resistente - 1&quot;-1/4 / 38 mm</Name>
     <Brand>Osculati</Brand>
     <Description>Raccordo portagomma con filettatura maschio, progettato per collegare in modo rapido e sicuro tubi flessibili a prese a mare, scarichi, serbatoi e dispositivi con filettatura femmina. Una soluzione affidabile per impianti idraulici di bordo e applicazioni</Description>
@@ -31876,22 +31899,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626038708</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>portagomma-maschio-ottone</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portagomma maschio in ottone per tubi e raccordi filettati, attacco resistente - 1&quot;-1/2 / 45 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Raccordo portagomma con filettatura maschio, progettato per collegare in modo rapido e sicuro tubi flessibili a prese a mare, scarichi, serbatoi e dispositivi con filettatura femmina. Una soluzione affidabile per impianti idraulici di bordo e applicazioni</Description>
-    <OriginalPrice>15.64</OriginalPrice>
-    <Price>11.17</Price>
-    <Code>1430045</Code>
-    <Link>https://www.onautica.com/products/portagomma-maschio-ottone?variant=51595088265563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137008290</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>portagomma-maschio-ottone</ParentID>
   </Offer>
@@ -36278,7 +36285,7 @@ bocche Ø 14 mm.</Name>
     <Price>6.29</Price>
     <Code>290091615</Code>
     <Link>https://www.onautica.com/products/nastro-adesivo-solas-riflettente?variant=52577453408603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nastro-riflettente-adesivo-solas-rina-metro.webp?v=1773476707</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36394,8 +36401,8 @@ bocche Ø 14 mm.</Name>
     <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 380x280 mm.</Name>
     <Brand>CAN</Brand>
     <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
-    <OriginalPrice>41.83</OriginalPrice>
-    <Price>23.24</Price>
+    <OriginalPrice>44.75</OriginalPrice>
+    <Price>24.86</Price>
     <Code>20.291.00</Code>
     <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52513551614299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39097,23 +39104,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
     <Condition>nuovo</Condition>
     <ParentID>capottina-tendalino-3-archi-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 150 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
-    <OriginalPrice>208.78</OriginalPrice>
-    <Price>160.60</Price>
-    <Code>3265265</Code>
-    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953695067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
   </Offer>
   <Offer>
     <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
@@ -43920,22 +43910,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710098</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52513582383451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120783</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
     <Brand>TKline Professional</Brand>
     <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
@@ -43948,22 +43922,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626151216</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Marine Blue 84</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710051</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52517133025627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151223</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
   </Offer>
