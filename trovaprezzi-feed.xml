@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-25T06:31:53.763Z -->
-<!-- Offerte: 2669 -->
+<!-- Generato: 2026-05-25T10:30:53.385Z -->
+<!-- Offerte: 2668 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1220,6 +1220,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettone-inox100-200.png?v=1770048050</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>3015063</EanCode>
+    <Weight>480.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-1moschettone-inox.png?v=1770048051</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettoni-inox.png?v=1770048051</Image3>
     <Condition>nuovo</Condition>
@@ -11432,24 +11433,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cavo-elettrico-marino-per-batterie-in-rame-stagnato-rosso</ParentID>
   </Offer>
   <Offer>
-    <Name>Cerniera a Libro Grande in Acciaio Inox 316 (100x100 mm)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Cerniera a Libro Grande (100x100 mm) è il componente di ferramenta heavy-duty per eccellenza, progettato specificamente per le applicazioni navali che richiedono il massimo della resistenza e del supporto strutturale. Realizzata in fusione di Acciaio I</Description>
-    <OriginalPrice>12.19</OriginalPrice>
-    <Price>8.71</Price>
-    <Code>0401385</Code>
-    <Link>https://www.onautica.com/products/cerniera-libro-grande-acciaio-inox-316-100x100?variant=52560218030427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniera-libro-grande-acciaio-inox-316-100x100.webp?v=1773238317</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626005724</EanCode>
-    <Weight>100.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniera-libro-leggera-acciaio-inox-316dimensioni.webp?v=1773237435</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cerniera-libro-grande-acciaio-inox-316-100x100</ParentID>
-  </Offer>
-  <Offer>
     <Name>Chiave di avviamento 3 terminali 3 posizioni</Name>
     <Brand>Motomarine</Brand>
     <Description>Chiave di avviamento con corpo in Ottone, cappuccio in Gomma. Per motori a benzina. 3 Terminali - 3 Posizioni. Collo ø mm 20 Caratteristiche principali Costruzione robusta con corpo in ottone e cappuccio protettivo in gomma, resistente agli agenti atmosfe</Description>
@@ -12420,6 +12403,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>150.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-sabbia</ParentID>
@@ -12437,6 +12421,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352286</EanCode>
+    <Weight>160.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-sabbia</ParentID>
@@ -13503,22 +13488,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannello_new_classic_5_USB_5.png?v=1773341734</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-new-classic-5-interruttori-presa</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello Elettrico Orizzontale 4 Interruttori – Alluminio IP56</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Pannello Elettrico Orizzontale a 4 Interruttori (Cod. 14.707.00) è la soluzione ideale per le consolle di guida e i cruscotti dove lo spazio disponibile si sviluppa principalmente in larghezza (140x80 mm). Costruito con una solida piastra in alluminio </Description>
-    <OriginalPrice>56.18</OriginalPrice>
-    <Price>39.27</Price>
-    <Code>14.707.00</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56?variant=52577411268955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56.webp?v=1773341607</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137002113</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Orizzontale 7 Interruttori – Policarbonato Grigio IP56</Name>
@@ -15438,6 +15407,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cerniera-75x37-mm-biscotto-sq-l-inox</ParentID>
   </Offer>
   <Offer>
+    <Name>Cerniera a Libro Grande in Acciaio Inox 316 (100x100 mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Cerniera a Libro Grande (100x100 mm) è il componente di ferramenta heavy-duty per eccellenza, progettato specificamente per le applicazioni navali che richiedono il massimo della resistenza e del supporto strutturale. Realizzata in fusione di Acciaio I</Description>
+    <OriginalPrice>12.19</OriginalPrice>
+    <Price>8.71</Price>
+    <Code>0401385</Code>
+    <Link>https://www.onautica.com/products/cerniera-libro-grande-acciaio-inox-316-100x100?variant=52560218030427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniera-libro-grande-acciaio-inox-316-100x100.webp?v=1773238317</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626005724</EanCode>
+    <Weight>100.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniera-libro-leggera-acciaio-inox-316dimensioni.webp?v=1773237435</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cerniera-libro-grande-acciaio-inox-316-100x100</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cerniera a sfilo DX 60x50 mm. ottone cromato</Name>
     <Brand>Motomarine</Brand>
     <Description>Cerniera a sfilo DX 60x50 mm. ottone cromato La cerniera a sfilo DX in ottone cromato da 60x50 mm è un elemento di giunzione rimovibile, progettato per applicazioni che richiedono praticità di smontaggio rapido senza l&apos;uso di attrezzi. A chi è rivolto Ide</Description>
@@ -16136,22 +16123,6 @@ L 320mm. - Ø22</Name>
     <ParentID>lastrina-giunzione-angolare-hd-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Lucchetti acciaio inox 30 mm. in SET 3 pz. acciaio inox con master key</Name>
-    <Brand>FNI</Brand>
-    <Description>Questi lucchetti in acciaio inox, venduti in set da 3 con chiave maestra, sono progettati per resistere agli ambienti esterni più impegnativi. Dotati di molla e arco in acciaio inox 316 e corpo in ottone cromato, offrono un’eccellente resistenza alla corr</Description>
-    <OriginalPrice>48.00</OriginalPrice>
-    <Price>26.65</Price>
-    <Code>P203970</Code>
-    <Link>https://www.onautica.com/products/lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key?variant=52577370997083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetti.png?v=1773341949</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>3701600405840</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key</ParentID>
-  </Offer>
-  <Offer>
     <Name>Lucchetti acciaio inox 40 mm. in SET 3 pz. acciaio inox con master key</Name>
     <Brand>FNI</Brand>
     <Description>Questi lucchetti in acciaio inox, venduti in set da 3 con chiave maestra, sono progettati per resistere agli ambienti esterni più impegnativi. Dotati di molla e arco in acciaio inox 316 e corpo in ottone cromato, offrono un’eccellente resistenza alla corr</Description>
@@ -16734,23 +16705,6 @@ L 320mm. - Ø22</Name>
     <ParentID>raccordo-per-pulpiti-o-25-mm-a-croce-acciaio-inox-aisi-316-da-fusione</ParentID>
   </Offer>
   <Offer>
-    <Name>Serratura a cilindro 25 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Serratura a cilindro da 25 mm con chiave, realizzata interamente in ottone cromato. Priva di componenti in ferro o zama, è fornita di un cappuccio protettivo impermeabile per garantire durata e affidabilità. Lunghezza (C) mm Ø mm 25 20 Caratteristiche pri</Description>
-    <OriginalPrice>31.50</OriginalPrice>
-    <Price>17.51</Price>
-    <Code>11044</Code>
-    <Link>https://www.onautica.com/products/serratura-a-cilindro-25-mm?variant=52577370702171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/38.131.82.png?v=1773341502</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033020587482</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/38.131.82b.png?v=1773341503</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>serratura-a-cilindro-25-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serratura da accostare con pomolo DX/SX 98x58 mm. H. 25 mm. 3.656P</Name>
     <Brand>Motomarine</Brand>
     <Description>Serratura da accostare con cilindro di sicurezza, ideale per porte e portelli a bordo. Dotata di scontro piano e pomolo interno per l&apos;apertura dall&apos;interno senza chiave. Il corpo è realizzato in ottone cromato con componenti in acciaio inossidabile, garan</Description>
@@ -17165,23 +17119,6 @@ L 320mm. - Ø22</Name>
     <EanCode>071247930320</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-additivo-benzina-sb-startron-benzina-946-ml</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
-    <OriginalPrice>50.72</OriginalPrice>
-    <Price>36.23</Price>
-    <Code>11.140.02</Code>
-    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca?variant=52577416839515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_bianca.png?v=1773341623</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137019616</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_1_360_plastica_bianca.png?v=1773341624</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica nera</Name>
@@ -17999,22 +17936,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626065155</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanale-testa-albero-rosso-nero-360-thin-r-i-n-a-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale testa d&apos;albero 360° a led con basetta bianco</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di testa d&apos;albero a 360° con luce bianca, progettato per imbarcazioni fino a 20 metri. Certificato secondo la normativa internazionale COLREG 72 , garantisce piena conformità alle regole per la prevenzione degli abbordi in mare. Colore fanale: bian</Description>
-    <OriginalPrice>23.70</OriginalPrice>
-    <Price>20.64</Price>
-    <Code>11.132.89</Code>
-    <Link>https://www.onautica.com/products/fanale-testa-dalbero-360-a-led-con-basetta-bianco?variant=52577366770011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.89.png?v=1773341483</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137030673</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-testa-dalbero-360-a-led-con-basetta-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale testa d&apos;albero 360° con basetta acciaio inox (R.I.N.A.)</Name>
@@ -22018,6 +21939,22 @@ L 320mm. - Ø22</Name>
     <ParentID>linea-grassi-tecnici-manutenzione-nautica</ParentID>
   </Offer>
   <Offer>
+    <Name>Lucchetti acciaio inox 30 mm. in SET 3 pz. acciaio inox con master key</Name>
+    <Brand>FNI</Brand>
+    <Description>Questi lucchetti in acciaio inox, venduti in set da 3 con chiave maestra, sono progettati per resistere agli ambienti esterni più impegnativi. Dotati di molla e arco in acciaio inox 316 e corpo in ottone cromato, offrono un’eccellente resistenza alla corr</Description>
+    <OriginalPrice>48.00</OriginalPrice>
+    <Price>26.65</Price>
+    <Code>P203970</Code>
+    <Link>https://www.onautica.com/products/lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key?variant=52577370997083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetti.png?v=1773341949</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3701600405840</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key</ParentID>
+  </Offer>
+  <Offer>
     <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 30 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
@@ -23389,6 +23326,23 @@ L 320mm. - Ø22</Name>
     <ParentID>salvagente-autogonfiabile-professionale-275n-iso-12402-2-uml5</ParentID>
   </Offer>
   <Offer>
+    <Name>Serratura a cilindro 25 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Serratura a cilindro da 25 mm con chiave, realizzata interamente in ottone cromato. Priva di componenti in ferro o zama, è fornita di un cappuccio protettivo impermeabile per garantire durata e affidabilità. Lunghezza (C) mm Ø mm 25 20 Caratteristiche pri</Description>
+    <OriginalPrice>31.50</OriginalPrice>
+    <Price>17.51</Price>
+    <Code>11044</Code>
+    <Link>https://www.onautica.com/products/serratura-a-cilindro-25-mm?variant=52577370702171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/38.131.82.png?v=1773341502</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033020587482</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/38.131.82b.png?v=1773341503</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>serratura-a-cilindro-25-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serratura in kit con maniglia sporgente</Name>
     <Brand>Osculati</Brand>
     <Description>In ottone cromato + nylon cromato + acciaio inox, da appoggiare, con blocco dall’interno e scontro a incasso o a cassetto. Ideale per WC e cabine. Caratteristiche principali Kit completo incluso di maniglia sporgente, pronta all&apos;installazione senza acquis</Description>
@@ -24128,6 +24082,23 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aspiratore-ventilatoreAttwoodb.png?v=1773341878</Image2>
     <Condition>nuovo</Condition>
     <ParentID>aspiratore-ventilatore-attwood-turbo-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
+    <Brand>Osculati</Brand>
+    <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
+    <OriginalPrice>50.72</OriginalPrice>
+    <Price>36.23</Price>
+    <Code>11.140.02</Code>
+    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca?variant=52577416839515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_bianca.png?v=1773341623</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137019616</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_1_360_plastica_bianca.png?v=1773341624</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>ATF Red Oil – Olio per Invertitori Idraulici ad Alta Stabilitài</Name>
@@ -24960,6 +24931,22 @@ L 320mm. - Ø22</Name>
     <Weight>800.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>disincrostante-gel-ferrotone-750-ml</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale testa d&apos;albero 360° a led con basetta bianco</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale di testa d&apos;albero a 360° con luce bianca, progettato per imbarcazioni fino a 20 metri. Certificato secondo la normativa internazionale COLREG 72 , garantisce piena conformità alle regole per la prevenzione degli abbordi in mare. Colore fanale: bian</Description>
+    <OriginalPrice>23.70</OriginalPrice>
+    <Price>20.64</Price>
+    <Code>11.132.89</Code>
+    <Link>https://www.onautica.com/products/fanale-testa-dalbero-360-a-led-con-basetta-bianco?variant=52577366770011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.89.png?v=1773341483</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137030673</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-testa-dalbero-360-a-led-con-basetta-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali di Navigazione 360° DHR - Per Barche fino a 20 Metri - Verde 360°</Name>
@@ -26197,23 +26184,6 @@ L 320mm. - Ø22</Name>
     <ParentID>olio-motore-quicksilver-premium-tcw3-2-tempi</ParentID>
   </Offer>
   <Offer>
-    <Name>Olio per Teak Star Brite – Protettivo Sigillante UV (Lunga Durata)</Name>
-    <Brand>Star Brite</Brand>
-    <Description>Lo Star Brite Teak Oil è un olio di qualità premium formulato specificamente per sigillare, proteggere e nutrire il teak marino e altri legni pregiati a bordo. La sua formula avanzata è progettata per chi cerca una protezione professionale che duri nel te</Description>
-    <OriginalPrice>45.28</OriginalPrice>
-    <Price>32.34</Price>
-    <Code>5735202</Code>
-    <Link>https://www.onautica.com/products/olio-per-teak-star-brite-protettivo-uv?variant=52577464320347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/star-brite-teak-oil-protettivo-uv.webp?v=1773341744</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>071247816365</EanCode>
-    <Weight>950.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>olio-per-teak-star-brite-protettivo-uv</ParentID>
-  </Offer>
-  <Offer>
     <Name>Orologio GARMIN Quatix® 7 PRO</Name>
     <Brand>Garmin</Brand>
     <Description>Vivi il Mare in Pieno Stile: Schermo AMOLED, Torcia LED e Massima Integrazione Lo smartwatch GPS multisport quatix® 7 Pro è dotato di un luminoso schermo AMOLED e di una comoda Torcia a LED integrata . Questo orologio ti permette di navigare in pieno stil</Description>
@@ -26538,6 +26508,7 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>1.72</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
     <Condition>nuovo</Condition>
     <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
@@ -28014,23 +27985,6 @@ L 320mm. - Ø22</Name>
     <Weight>1.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pulitore-skai-750-ml</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pulitore Teak Concentrato / Trigger 750 ml - Rimuove Oli e Macchie</Name>
-    <Brand>CFG</Brand>
-    <Description>Il Pulitore Teak in formato Trigger 750 ML è una formula speciale concepita per il lavaggio profondo e il ripristino del teak in coperta. Potente Azione Ristrutturante: Questo pulitore è particolarmente indicato quando sia necessaria una azione molto ener</Description>
-    <OriginalPrice>17.20</OriginalPrice>
-    <Price>12.73</Price>
-    <Code>N03</Code>
-    <Link>https://www.onautica.com/products/pulitore-teak-trigger-750ml?variant=52577375486299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulitore-teak-trigger-750ml.png?v=1773341521</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8016818027698</EanCode>
-    <Weight>950.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pulitore-teak-trigger-750ml</ParentID>
   </Offer>
   <Offer>
     <Name>Punta Mezzo Marinaio in Ottone - Ø 27 mm.</Name>
@@ -31523,6 +31477,23 @@ L 320mm. - Ø22</Name>
     <ParentID>nipples-ridotto-maschio-maschio-in-ottone-1</ParentID>
   </Offer>
   <Offer>
+    <Name>Olio per Teak Star Brite – Protettivo Sigillante UV (Lunga Durata)</Name>
+    <Brand>Star Brite</Brand>
+    <Description>Lo Star Brite Teak Oil è un olio di qualità premium formulato specificamente per sigillare, proteggere e nutrire il teak marino e altri legni pregiati a bordo. La sua formula avanzata è progettata per chi cerca una protezione professionale che duri nel te</Description>
+    <OriginalPrice>45.28</OriginalPrice>
+    <Price>32.34</Price>
+    <Code>5735202</Code>
+    <Link>https://www.onautica.com/products/olio-per-teak-star-brite-protettivo-uv?variant=52577464320347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/star-brite-teak-oil-protettivo-uv.webp?v=1773341744</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>071247816365</EanCode>
+    <Weight>950.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>olio-per-teak-star-brite-protettivo-uv</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pilette a gomito per lavelli 90° Ø 20 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Pilette a gomito ricambio per lavelli, uscita 20 mm: \n1501040/1501023/1501028/1501037 \n1501039/1501837/1501844/1501560 \n1501660/1501759/1501859/1501949/1502049 \n1502280/1502380/1502510/1502610 Caratteristiche principali Angolazione a 90° che permette </Description>
@@ -32072,6 +32043,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8016818027735</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>proteak-protettore-teak-flacone-1l</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pulitore Teak Concentrato / Trigger 750 ml - Rimuove Oli e Macchie</Name>
+    <Brand>CFG</Brand>
+    <Description>Il Pulitore Teak in formato Trigger 750 ML è una formula speciale concepita per il lavaggio profondo e il ripristino del teak in coperta. Potente Azione Ristrutturante: Questo pulitore è particolarmente indicato quando sia necessaria una azione molto ener</Description>
+    <OriginalPrice>17.20</OriginalPrice>
+    <Price>12.73</Price>
+    <Code>N03</Code>
+    <Link>https://www.onautica.com/products/pulitore-teak-trigger-750ml?variant=52577375486299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulitore-teak-trigger-750ml.png?v=1773341521</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8016818027698</EanCode>
+    <Weight>950.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pulitore-teak-trigger-750ml</ParentID>
   </Offer>
   <Offer>
     <Name>Raccordi per filtro diesel Ø 10 mm. gomito - Racor e Griffin</Name>
@@ -33736,150 +33724,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpa-ancora-quick-custom-cl1-500wmisura.webp?v=1773757616</Image2>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpa-ancora-quick-custom-cl1-500w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 500W - 12V Barbotin 6 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>803.50</OriginalPrice>
-    <Price>692.66</Price>
-    <Code>02.408.01</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057934171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 700W - 12V Barbotin 6 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>854.40</OriginalPrice>
-    <Price>736.58</Price>
-    <Code>02.408.02</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057966939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 700W - 12V Barbotin 8 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>854.40</OriginalPrice>
-    <Price>736.58</Price>
-    <Code>02.408.03</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057999707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1000W - 12V Barbotin 8 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>1632.00</OriginalPrice>
-    <Price>1406.89</Price>
-    <Code>02.408.05</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058032475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 12V Barbotin 8 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>1715.40</OriginalPrice>
-    <Price>1478.76</Price>
-    <Code>02.408.08</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058065243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 12V Barbotin 10 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>1715.40</OriginalPrice>
-    <Price>1478.76</Price>
-    <Code>02.408.09</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058098011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 24V Barbotin 8 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>1759.80</OriginalPrice>
-    <Price>1517.09</Price>
-    <Code>02.408.10</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058130779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 24V Barbotin 10 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
-    <OriginalPrice>1759.80</OriginalPrice>
-    <Price>1517.09</Price>
-    <Code>02.408.11</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058163547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Smart-R3 Inox (1000W 12V)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Smart-R3 rappresenta l&apos;evoluzione di potenza della linea ad asse verticale, concepito per offrire prestazioni di ancoraggio eccellenti su imbarcazioni fino a 12 metri di lunghezza . L&apos;intera struttura e la base tonda son</Description>
-    <Price>934.78</Price>
-    <Code>02.414.01</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-smart-r3-1000w?variant=52607581323611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r3-1000w.webp?v=1773738352</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r3-1000w_misura.webp?v=1773738362</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r3-1000w_misura2.webp?v=1773738376</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-smart-r3-1000w</ParentID>
   </Offer>
   <Offer>
     <Name>A44 INOX snodo per timoneria</Name>
@@ -36328,96 +36172,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-portello-contenitore-radio-cd-vhf</ParentID>
   </Offer>
   <Offer>
-    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 380x280 mm.</Name>
-    <Brand>CAN</Brand>
-    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
-    <OriginalPrice>44.75</OriginalPrice>
-    <Price>24.86</Price>
-    <Code>20.291.00</Code>
-    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52513551614299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626278340</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 375x375 mm.</Name>
-    <Brand>CAN</Brand>
-    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
-    <OriginalPrice>53.95</OriginalPrice>
-    <Price>29.97</Price>
-    <Code>4000142</Code>
-    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935148379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626278371</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 600x350 mm.</Name>
-    <Brand>CAN</Brand>
-    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
-    <OriginalPrice>85.39</OriginalPrice>
-    <Price>47.44</Price>
-    <Code>20.292.00</Code>
-    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935181147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137109775</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 600x250 mm.</Name>
-    <Brand>CAN</Brand>
-    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
-    <OriginalPrice>78.52</OriginalPrice>
-    <Price>43.62</Price>
-    <Code>20.295.00</Code>
-    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935213915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misurec.webp?v=1777050946</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137109881</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 520x465 mm.</Name>
-    <Brand>CAN</Brand>
-    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
-    <OriginalPrice>91.71</OriginalPrice>
-    <Price>50.95</Price>
-    <Code>20.294.00</Code>
-    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935246683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626278388</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
-  </Offer>
-  <Offer>
     <Name>Portello d’Ispezione Estraibile Bianco 375x375 mm – Chiusura a Baionetta</Name>
     <Brand>Osculati</Brand>
     <Description>Il Portello d’Ispezione con Frontale Estraibile (cod. 20.302.30) è la soluzione ideale per sfruttare spazi dove l&apos;apertura a cerniera tradizionale risulterebbe scomoda o impossibile, come ad esempio su console con panca di guida molto vicina. Il sistema d</Description>
@@ -37750,42 +37504,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Sportello</Name>
-    <Brand>CAN</Brand>
-    <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
-    <OriginalPrice>132.07</OriginalPrice>
-    <Price>73.37</Price>
-    <Code>4000442</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-con-box-bt-medium?variant=52513566949723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium.png?v=1773341782</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626278623</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_misura.png?v=1773341782</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_attacco.png?v=1773341782</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-con-box-bt-medium</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Serratura (Optional)</Name>
-    <Brand>CAN</Brand>
-    <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
-    <OriginalPrice>16.79</OriginalPrice>
-    <Price>11.99</Price>
-    <Code>0343300</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-con-box-bt-medium?variant=52519932559707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium.png?v=1773341782</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685134379</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_misura.png?v=1773341782</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_attacco.png?v=1773341782</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-con-box-bt-medium</ParentID>
-  </Offer>
-  <Offer>
     <Name>Stand Up Paddle JOBE Mira 10.0 Package SUP</Name>
     <Brand>JOBE</Brand>
     <Description>Superficie antiscivolo per una maggiore stabilità. Duttile, leggero, ma robusto. Può sostenere un peso raccomandato fino a 120 kg. Resistente struttura in pvc, drop stichting ad elevata resistenza (pressione 15 psi). Completo di pagaia, gonfiatore manuale</Description>
@@ -38296,6 +38014,134 @@ bocche Ø 14 mm.</Name>
     <ParentID>vano-porta-estintore-scatto-abs-anaf-1kg</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 500W - 12V Barbotin 6 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>803.50</OriginalPrice>
+    <Price>692.66</Price>
+    <Code>02.408.01</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057934171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 700W - 12V Barbotin 6 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>854.40</OriginalPrice>
+    <Price>736.58</Price>
+    <Code>02.408.02</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057966939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 700W - 12V Barbotin 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>854.40</OriginalPrice>
+    <Price>736.58</Price>
+    <Code>02.408.03</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057999707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1000W - 12V Barbotin 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>1632.00</OriginalPrice>
+    <Price>1406.89</Price>
+    <Code>02.408.05</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058032475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 12V Barbotin 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>1715.40</OriginalPrice>
+    <Price>1478.76</Price>
+    <Code>02.408.08</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058065243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 12V Barbotin 10 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>1715.40</OriginalPrice>
+    <Price>1478.76</Price>
+    <Code>02.408.09</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058098011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 24V Barbotin 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>1759.80</OriginalPrice>
+    <Price>1517.09</Price>
+    <Code>02.408.10</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058130779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 1500W - 24V Barbotin 10 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <OriginalPrice>1759.80</OriginalPrice>
+    <Price>1517.09</Price>
+    <Code>02.408.11</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058163547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello Salpancora ITALWINCH Smart &quot;V&quot; - 500W 12V (Catena 6mm)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Smart &quot;V&quot; è un dispositivo di ancoraggio affidabile e performante, studiato per ottimizzare lo spazio in coperta grazie alla sua compatta architettura ad asse verticale. Caratterizzato da una robusta carcassa realizzata </Description>
@@ -38345,6 +38191,22 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r1_misura2.webp?v=1773737607</Image3>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-italwinch-smart-r1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora ITALWINCH Smart-R3 Inox (1000W 12V)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Smart-R3 rappresenta l&apos;evoluzione di potenza della linea ad asse verticale, concepito per offrire prestazioni di ancoraggio eccellenti su imbarcazioni fino a 12 metri di lunghezza . L&apos;intera struttura e la base tonda son</Description>
+    <Price>934.78</Price>
+    <Code>02.414.01</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-smart-r3-1000w?variant=52607581323611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r3-1000w.webp?v=1773738352</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r3-1000w_misura.webp?v=1773738362</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r3-1000w_misura2.webp?v=1773738376</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-smart-r3-1000w</ParentID>
   </Offer>
   <Offer>
     <Name>Volante poliuretano bianco Ø 350 mm.</Name>
@@ -40267,22 +40129,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>kit-tubo-lavaggio-barca-tricotex-pistola-raccordi</ParentID>
   </Offer>
   <Offer>
-    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
-    <OriginalPrice>41.70</OriginalPrice>
-    <Price>24.53</Price>
-    <Code>57.176.09</Code>
-    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007422</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
     <Brand>Osculati</Brand>
     <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
@@ -40899,6 +40745,96 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137124068</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>portachiavi-parabordo-tondo-blu-rosso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 380x280 mm.</Name>
+    <Brand>CAN</Brand>
+    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
+    <OriginalPrice>44.75</OriginalPrice>
+    <Price>24.86</Price>
+    <Code>20.291.00</Code>
+    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52513551614299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626278340</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 375x375 mm.</Name>
+    <Brand>CAN</Brand>
+    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
+    <OriginalPrice>53.95</OriginalPrice>
+    <Price>29.97</Price>
+    <Code>4000142</Code>
+    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935148379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626278371</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 600x350 mm.</Name>
+    <Brand>CAN</Brand>
+    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
+    <OriginalPrice>85.39</OriginalPrice>
+    <Price>47.44</Price>
+    <Code>20.292.00</Code>
+    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935181147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137109775</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 600x250 mm.</Name>
+    <Brand>CAN</Brand>
+    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
+    <OriginalPrice>78.52</OriginalPrice>
+    <Price>43.62</Price>
+    <Code>20.295.00</Code>
+    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935213915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misurec.webp?v=1777050946</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137109881</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 520x465 mm.</Name>
+    <Brand>CAN</Brand>
+    <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
+    <OriginalPrice>91.71</OriginalPrice>
+    <Price>50.95</Price>
+    <Code>20.294.00</Code>
+    <Link>https://www.onautica.com/products/portello-ispezione-flush-ce-bianco-pedonabile-5-misure?variant=52519935246683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misured.webp?v=1777050946</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626278388</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misure.webp?v=1777050947</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
   </Offer>
   <Offer>
     <Name>Posacenere acciaio inox blu</Name>
@@ -41587,6 +41523,42 @@ bocche Ø 14 mm.</Name>
     <ParentID>spazzole-roca-extraflex-in-acciaio-brunito-l-455-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Sportello</Name>
+    <Brand>CAN</Brand>
+    <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
+    <OriginalPrice>132.07</OriginalPrice>
+    <Price>73.37</Price>
+    <Code>4000442</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-con-box-bt-medium?variant=52513566949723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium.png?v=1773341782</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626278623</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_misura.png?v=1773341782</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_attacco.png?v=1773341782</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-con-box-bt-medium</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Serratura (Optional)</Name>
+    <Brand>CAN</Brand>
+    <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
+    <OriginalPrice>16.79</OriginalPrice>
+    <Price>11.99</Price>
+    <Code>0343300</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-con-box-bt-medium?variant=52519932559707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium.png?v=1773341782</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685134379</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_misura.png?v=1773341782</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_attacco.png?v=1773341782</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-con-box-bt-medium</ParentID>
+  </Offer>
+  <Offer>
     <Name>Stereo Marino Boss Marine MGR250B Bluetooth – Design Tondo Senza Display</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Boss Marine MGR250B è lo stereo ideale per chi cerca semplicità, robustezza e ottime prestazioni audio senza complicazioni. Progettato con un formato tondo &quot;Gauge&quot; (da incasso cruscotto standard), si distingue per l&apos;assenza del display e la presenza di</Description>
@@ -41685,24 +41657,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137165603</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>strozzascotta-fibra-di-carbonio-lega-leggera-o-3-8-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strozzascotte Clamcleats Ø 2&lt;&gt;5 mm. CL260 nylon speciale per fare cappi e per legature</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Clamcleat® CL260 Line-Lok® è un tenditore per tiranti (guy runner) ad alte prestazioni, progettato per superare i limiti dei tradizionali sistemi in lega e plastica. Il suo design innovativo blocca la cima in modo che non scivoli con il vento e non si </Description>
-    <OriginalPrice>11.77</OriginalPrice>
-    <Price>8.72</Price>
-    <Code>56.260.00</Code>
-    <Link>https://www.onautica.com/products/clamcleats-2-5-mm-cl260-strozzascotte?variant=52577512456539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL260.png?v=1773341885</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5024220126000</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL260c.png?v=1773341886</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL260b.png?v=1773341887</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>clamcleats-2-5-mm-cl260-strozzascotte</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzatore a Camme LEWMAR per Cime 2-8 mm - Strozzatore</Name>
@@ -44407,6 +44361,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>guida-posteriore-per-strozzascotta-via25-10-e-via25-50</ParentID>
   </Offer>
   <Offer>
+    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
+    <OriginalPrice>41.70</OriginalPrice>
+    <Price>24.53</Price>
+    <Code>57.176.09</Code>
+    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007422</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Pavimento Nautico Lario (Variante 290 Azzurro) è un rivestimento tecnico in PVC di alta qualità, progettato per coniugare estetica e massima funzionalità a bordo. Questo modello si distingue per il suo caratteristico disegno a &quot;effetto bouclé&quot; , che co</Description>
@@ -44418,6 +44388,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Accessori;Zerbini Nautici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pavimento-pvc-nautico-lario-290-azzurro-boucle.webp?v=1775663554</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pavimento-pvc-nautico-lario-290-azzurro-boucle_montato.webp?v=1775663554</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pavimento-pvc-lario-290-azzurro-boucle</ParentID>
@@ -44678,6 +44649,24 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL263.png?v=1773341864</Image2>
     <Condition>nuovo</Condition>
     <ParentID>clamcleats-1-4-mm-cl263-strozzascotte</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strozzascotte Clamcleats Ø 2&lt;&gt;5 mm. CL260 nylon speciale per fare cappi e per legature</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Clamcleat® CL260 Line-Lok® è un tenditore per tiranti (guy runner) ad alte prestazioni, progettato per superare i limiti dei tradizionali sistemi in lega e plastica. Il suo design innovativo blocca la cima in modo che non scivoli con il vento e non si </Description>
+    <OriginalPrice>11.77</OriginalPrice>
+    <Price>8.72</Price>
+    <Code>56.260.00</Code>
+    <Link>https://www.onautica.com/products/clamcleats-2-5-mm-cl260-strozzascotte?variant=52577512456539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL260.png?v=1773341885</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5024220126000</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL260c.png?v=1773341886</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL260b.png?v=1773341887</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>clamcleats-2-5-mm-cl260-strozzascotte</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzascotte in Carbonio (5-14 mm) e Accessori Modulari - Strozzascotte Cime 5-14 mm. Carbonio</Name>
