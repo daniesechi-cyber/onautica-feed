@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-26T06:31:02.409Z -->
+<!-- Generato: 2026-05-26T10:31:34.884Z -->
 <!-- Offerte: 2676 -->
 <Products>
   <Offer>
@@ -6637,6 +6637,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-trim-tab-alluminio-yamaha-20-50hp.png?v=1773341568</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>6283091006500</EanCode>
+    <Weight>100.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-trim-tab-alluminio-yamaha-20-50hpsotto.png?v=1773341569</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-trim-tab-alluminio-yamaha-20-50hpmisura.png?v=1773341570</Image3>
     <Condition>nuovo</Condition>
@@ -12010,6 +12011,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-a-type-sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352682</EanCode>
+    <Weight>0.18</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-A-type.png?v=1769536424</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-a-type-sabbia</ParentID>
@@ -12027,7 +12029,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-a-type-sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352736</EanCode>
-    <Weight>180.00</Weight>
+    <Weight>0.18</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-A-type.png?v=1769536424</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-a-type-sabbia</ParentID>
@@ -21212,7 +21214,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura100n.png?v=1773341965</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626177964</EanCode>
-    <Weight>400.00</Weight>
+    <Weight>0.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura100nb.png?v=1773341965</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cintura-salvagente-100n</ParentID>
@@ -22577,6 +22579,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Morsetto_per_tubo_per_faro_2121014_-_2121016.png?v=1773341706</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626025784</EanCode>
+    <Weight>150.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Morsetto_per_tubo_per_faro_2121014_-_2121016_1.png?v=1773341707</Image2>
     <Condition>nuovo</Condition>
     <ParentID>morsetto-per-tubo-per-faro-2121014-2121016</ParentID>
@@ -28546,7 +28549,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00.png?v=1773341481</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033731052538</EanCode>
-    <Weight>360.00</Weight>
+    <Weight>0.36</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00b.png?v=1773341481</Image2>
     <Condition>nuovo</Condition>
     <ParentID>spazzola-a-mano-osculati</ParentID>
@@ -37540,6 +37543,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Specchietto_retrovisore_100x300_mm..png?v=1773341819</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>4710587820972</EanCode>
+    <Weight>520.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
   </Offer>
@@ -37606,7 +37610,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Taniche_UN_per_carburante_trasporto.png?v=1773341665</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8053329700351</EanCode>
-    <Weight>510.00</Weight>
+    <Weight>0.51</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tanica-benzina-hdpe-omologata-un-anti-uv</ParentID>
   </Offer>
@@ -37623,7 +37627,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Taniche_UN_per_carburante_trasporto.png?v=1773341665</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8053329700368</EanCode>
-    <Weight>1050.00</Weight>
+    <Weight>1.05</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tanica-benzina-hdpe-omologata-un-anti-uv</ParentID>
   </Offer>
