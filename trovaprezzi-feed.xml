@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-26T18:10:56.485Z -->
-<!-- Offerte: 2676 -->
+<!-- Generato: 2026-05-27T06:31:01.733Z -->
+<!-- Offerte: 2677 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -4352,7 +4352,7 @@
     <Price>11.62</Price>
     <Code>02.040.83</Code>
     <Link>https://www.onautica.com/products/staffa-bloccaggio-per-tubo-rulli-laterali?variant=51650499346779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4484,7 +4484,7 @@
     <Price>11.85</Price>
     <Code>02.029.32</Code>
     <Link>https://www.onautica.com/products/staffa-rullo-laterale-rialzata-per-carrelli?variant=52513567342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_rialzata_per_rullo_laterale_30_mm..png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -9585,22 +9585,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
   </Offer>
   <Offer>
-    <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 100</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
-    <OriginalPrice>30.51</OriginalPrice>
-    <Price>21.79</Price>
-    <Code>2100980</Code>
-    <Link>https://www.onautica.com/products/interruttore-magnetotermico-hi-amp-superficie-ip67-nautica?variant=52887875453275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/interruttore-magnetotermico-hi-amp-superficie-waterproof-ip67-nautica.webp?v=1777388833</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626060716</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
-  </Offer>
-  <Offer>
     <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 135</Name>
     <Brand>Motomarine</Brand>
     <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
@@ -10549,6 +10533,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>veneziani-gummipaint-antivegetativa-gommoni-carena-elastica</ParentID>
   </Offer>
   <Offer>
+    <Name>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica - Grigio</Name>
+    <Brand>Veneziani</Brand>
+    <Description>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica in Neoprene, PVC e Hypalon La Veneziani Gummipaint A/F è un&apos; antivegetativa specifica per gommoni con carena elastica , formulata con una matrice elastica ad alto potere antivegetat</Description>
+    <OriginalPrice>80.85</OriginalPrice>
+    <Price>56.54</Price>
+    <Code>65.009.12GR</Code>
+    <Link>https://www.onautica.com/products/veneziani-gummipaint-antivegetativa-gommoni-carena-elastica?variant=52516126622043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/veneziani-gummipaint-antivegetativa-gommoni-carena-elastica.webp?v=1776179125</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099725005</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>veneziani-gummipaint-antivegetativa-gommoni-carena-elastica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica - Nero</Name>
     <Brand>Veneziani</Brand>
     <Description>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica in Neoprene, PVC e Hypalon La Veneziani Gummipaint A/F è un&apos; antivegetativa specifica per gommoni con carena elastica , formulata con una matrice elastica ad alto potere antivegetat</Description>
@@ -11082,6 +11082,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
   </Offer>
   <Offer>
+    <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 50 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
+    <OriginalPrice>217.00</OriginalPrice>
+    <Price>166.94</Price>
+    <Code>01.373.06-050</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass?variant=51836792766811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>40.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
+  </Offer>
+  <Offer>
     <Name>Catena Calibrata Zincata a Fuoco 8 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 25 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Catena Calibrata Zincata a Fuoco 8 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 8 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
@@ -11544,6 +11562,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>cima-ormeggio-excelsior-doppia-treccia-poliestere-blu-navy</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato Blu – 6 Misure Disponibili - Ø 12 mm x 7 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato a Mano Blu – Doppia Treccia Poliestere per Ormeggio Professionale La cima di ormeggio ad alta tenacità con occhio impiombato blu è la soluzione professionale per chi cerca massima affidabilità e prat</Description>
+    <OriginalPrice>16.70</OriginalPrice>
+    <Price>12.81</Price>
+    <Code>06.444.43</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-alta-tenacita-occhio-impiombato-blu?variant=52898682962267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-alta-tenacita-occhio-impiombato-blu-6-misure.webp?v=1777545307</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>780.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-alta-tenacita-occhio-impiombato-blu-6-misurematassa.webp?v=1777545308</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-alta-tenacita-occhio-impiombato-blu-6-misureocchio.webp?v=1777545308</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-alta-tenacita-occhio-impiombato-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato Blu – 6 Misure Disponibili - Ø 14 mm x 9 mt.</Name>
@@ -12365,7 +12401,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577412972891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12379,8 +12415,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell F-Type Sabbia – Tessuto Acrilico - F4 - Ø 21-23 cm. - L 100-108 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Scegli l&apos;eleganza discreta dei Copriparabordi Navishell F-Type nella tonalità Sabbia , perfetta per integrarsi armoniosamente con scafi bianchi, crema o con i toni caldi del teak. Questi rivestimenti non sono solo un accessorio estetico, ma una vera barri</Description>
-    <OriginalPrice>24.65</OriginalPrice>
-    <Price>16.44</Price>
+    <OriginalPrice>24.64</OriginalPrice>
+    <Price>16.43</Price>
     <Code>3813004SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577413005659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -12978,6 +13014,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8051015130376</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>grillo-diritto-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Grillo diritto acciaio inox AISI 316 per applicazioni nautiche e fissaggi resistenti - Ø 16 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Affidabilità, resistenza e precisione: questo grillo a “D” in acciaio inox è progettato per garantire collegamenti sicuri in ambito nautico, ancoraggio e rigging, offrendo performance costanti anche in ambienti marini aggressivi. Costruzione premium per u</Description>
+    <OriginalPrice>15.63</OriginalPrice>
+    <Price>11.17</Price>
+    <Code>A521B16</Code>
+    <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601336667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051015130383</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-diritto-inox-aisi-316</ParentID>
@@ -13600,6 +13653,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannello_new_classic_5_USB_5.png?v=1773341734</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-new-classic-5-interruttori-presa</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello Elettrico Orizzontale 4 Interruttori – Alluminio IP56</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico Orizzontale a 4 Interruttori (Cod. 14.707.00) è la soluzione ideale per le consolle di guida e i cruscotti dove lo spazio disponibile si sviluppa principalmente in larghezza (140x80 mm). Costruito con una solida piastra in alluminio </Description>
+    <OriginalPrice>56.18</OriginalPrice>
+    <Price>39.27</Price>
+    <Code>14.707.00</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56?variant=52577411268955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56.webp?v=1773341607</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137002113</EanCode>
+    <Weight>270.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Orizzontale 7 Interruttori – Policarbonato Grigio IP56</Name>
@@ -16639,7 +16709,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Moschettone inox con fibbia 25 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Moschettone inox con fibbia 25 mm. Il moschettone inox con fibbia da 25 mm è un elemento di connessione in acciaio inossidabile, pensato per garantire affidabilità e resistenza alla corrosione in ambiente marino. A chi �� rivolto Adatto a armatori, velist</Description>
+    <Description>Moschettone inox con fibbia 25 mm. Il moschettone inox con fibbia da 25 mm è un elemento di connessione in acciaio inossidabile, pensato per garantire affidabilità e resistenza alla corrosione in ambiente marino. A chi è rivolto Adatto a armatori, velisti</Description>
     <OriginalPrice>12.66</OriginalPrice>
     <Price>9.05</Price>
     <Code>09.250.20</Code>
@@ -17749,22 +17819,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626095237</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Dischetti con velcro Ø 45 mm. per tessuti e rivestimenti 5 cp.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Dischetti maschio+femmina con velcro per fissare tessuti e rivestimenti. Caratteristiche: Ø 45 mm. Pezzi 5 coppie Caratteristiche principali Sistema di fissaggio a doppia componente: dischetto maschio e femmina per una chiusura sicura e rimovibile Forma c</Description>
-    <OriginalPrice>12.54</OriginalPrice>
-    <Price>9.29</Price>
-    <Code>3215006</Code>
-    <Link>https://www.onautica.com/products/dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp?variant=52577502298459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Guarnizioni</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3215006.png?v=1773341863</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626095244</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
@@ -23992,21 +24046,6 @@ L 320mm. - Ø22</Name>
     <ParentID>tubo-acciaio-inox-316-al-metro</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo in Acciaio Inox AISI 316 Lucidato a Specchio – Barre - Ø 22 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Tubo in Acciaio Inox AISI 316 Lucidato a Specchio è la soluzione ideale per realizzare bimini, cappottine, tientibene e strutture personalizzate a bordo. Realizzato in lega Marine Grade (AISI 316) , garantisce resistenza totale alla corrosione e una fi</Description>
-    <OriginalPrice>27.40</OriginalPrice>
-    <Price>16.11</Price>
-    <Code>41.613.01</Code>
-    <Link>https://www.onautica.com/products/tubo-acciaio-inox-316-al-metro?variant=52516622827867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-acciaio-inox-316-lucidato.png?v=1770055623</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-acciaio-inox-316-al-metro</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tubo in Acciaio Inox AISI 316 Lucidato a Specchio – Barre - Ø 25 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Tubo in Acciaio Inox AISI 316 Lucidato a Specchio è la soluzione ideale per realizzare bimini, cappottine, tientibene e strutture personalizzate a bordo. Realizzato in lega Marine Grade (AISI 316) , garantisce resistenza totale alla corrosione e una fi</Description>
@@ -24052,6 +24091,22 @@ L 320mm. - Ø22</Name>
     <EanCode>8412355200035</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>velcro-brand-general-use-20-mm-5-mt-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Velcro Brand GENERAL USE 20 mm. - 5 mt. nero</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Velcro Brand General Use è un nastro adesivo a strappo nero di qualità professionale, composto da parte ad asola e parte ad uncino, progettato per garantire un altissimo ciclo di vita. L&apos;adesivo integrato permette un posizionamento rapido e immediato, </Description>
+    <OriginalPrice>30.41</OriginalPrice>
+    <Price>21.72</Price>
+    <Code>65.452.02</Code>
+    <Link>https://www.onautica.com/products/velcro-brand-general-use-20-mm-5-mt-nero?variant=52577500103003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Guarnizioni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Velcro_Brand_GENERAL_USE_20_mm._-_5_mt._nero.png?v=1773341856</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8412355200028</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>velcro-brand-general-use-20-mm-5-mt-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Ammortizzatore d&apos;Ormeggio UNIMER Classic a Labirinto in Gomma EPDM – 3 Misure Disponibili - Ø 14&lt;&gt;18 mm.</Name>
@@ -24192,23 +24247,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aspiratore-ventilatoreAttwoodb.png?v=1773341878</Image2>
     <Condition>nuovo</Condition>
     <ParentID>aspiratore-ventilatore-attwood-turbo-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
-    <OriginalPrice>50.72</OriginalPrice>
-    <Price>36.23</Price>
-    <Code>11.140.02</Code>
-    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca?variant=52577416839515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_bianca.png?v=1773341623</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137019616</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_1_360_plastica_bianca.png?v=1773341624</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica nera</Name>
@@ -25841,39 +25879,6 @@ L 320mm. - Ø22</Name>
     <ParentID>mezzomarinaro-telescopico-alluminio-60-100cm</ParentID>
   </Offer>
   <Offer>
-    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 5 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
-    <OriginalPrice>17.52</OriginalPrice>
-    <Price>12.79</Price>
-    <Code>3136505</Code>
-    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52513541521755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626008046</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 6 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
-    <OriginalPrice>23.03</OriginalPrice>
-    <Price>16.45</Price>
-    <Code>3136506</Code>
-    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450046811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626008053</EanCode>
-    <Weight>760.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
-  </Offer>
-  <Offer>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 9 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
@@ -25887,6 +25892,23 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626008060</EanCode>
     <Weight>1.40</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 11 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
+    <OriginalPrice>74.40</OriginalPrice>
+    <Price>52.03</Price>
+    <Code>3136509</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450112347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137065859</EanCode>
+    <Weight>2.42</Weight>
     <Condition>nuovo</Condition>
     <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
   </Offer>
@@ -26642,6 +26664,23 @@ L 320mm. - Ø22</Name>
     <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF2 - 21x61 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
+    <OriginalPrice>35.00</OriginalPrice>
+    <Price>23.33</Price>
+    <Code>33.212.10</Code>
+    <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459001691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.83</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF3 - 25x74.5 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
@@ -26895,6 +26934,24 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Parabordo_piatto_parafiancata_flat_ferders_blue_650x300x80_mm._3.png?v=1773341735</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-parabordo-piatto-parafiancata-flat-ferders-blue-650x300x80-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA1 - Ø 29 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Parabordo Sferico Heavy Duty in PVC – Corpo Bianco Testa Blu per Protezione Fiancate e Boa da Ormeggio Il parabordo sferico Heavy Duty in PVC morbido di alta qualità è la soluzione di protezione superiore per chi non scende a compromessi sulla sicurezza d</Description>
+    <OriginalPrice>32.37</OriginalPrice>
+    <Price>20.23</Price>
+    <Code>33.300.12</Code>
+    <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52513546273115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misure.webp?v=1776246779</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137194450</EanCode>
+    <Weight>1.24</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-sferico-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA2 - Ø 36 cm.</Name>
@@ -27532,22 +27589,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_a_membrana_AA_per_paratia_35_lt_m._bocche_25_1_mm._2.png?v=1773341772</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-a-membrana-aa-per-paratia-35-lt-m-bocche-o-25-1-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di sentina manuale a membrana AA standard 40 lt/min.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Pompa di sentina manuale compatta a membrana. AA compact 40 lt/m. CARATTERISTICHE Lt/min→ 40 Bocche ∅ mm → 25 (1&apos;&apos;) Caratteristiche principali Azionamento completamente manuale, senza bisogno di alimentazione elettrica a bordo Tecnologia a membrana per un</Description>
-    <OriginalPrice>33.57</OriginalPrice>
-    <Price>23.98</Price>
-    <Code>1834020</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-a-membrana-aa-standard-40-lt-min?variant=52577473757531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_a_membrana_AA_standard_40_lt_min..png?v=1773341770</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626055811</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-a-membrana-aa-standard-40-lt-min</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di sentina manuale a membrana AA standard 55 lt./m</Name>
@@ -31883,6 +31924,22 @@ L 320mm. - Ø22</Name>
     <ParentID>portagomma-maschio-ottone</ParentID>
   </Offer>
   <Offer>
+    <Name>Portagomma maschio in ottone per tubi e raccordi filettati, attacco resistente - 1&quot;-1/4 / 40 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Raccordo portagomma con filettatura maschio, progettato per collegare in modo rapido e sicuro tubi flessibili a prese a mare, scarichi, serbatoi e dispositivi con filettatura femmina. Una soluzione affidabile per impianti idraulici di bordo e applicazioni</Description>
+    <OriginalPrice>11.23</OriginalPrice>
+    <Price>8.02</Price>
+    <Code>1430040</Code>
+    <Link>https://www.onautica.com/products/portagomma-maschio-ottone?variant=51595088167259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137008399</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>portagomma-maschio-ottone</ParentID>
+  </Offer>
+  <Offer>
     <Name>Portagomma maschio in ottone per tubi e raccordi filettati, attacco resistente - 1&quot;-1/4 / 38 mm</Name>
     <Brand>Osculati</Brand>
     <Description>Raccordo portagomma con filettatura maschio, progettato per collegare in modo rapido e sicuro tubi flessibili a prese a mare, scarichi, serbatoi e dispositivi con filettatura femmina. Una soluzione affidabile per impianti idraulici di bordo e applicazioni</Description>
@@ -31912,6 +31969,22 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626038708</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>portagomma-maschio-ottone</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portagomma maschio in ottone per tubi e raccordi filettati, attacco resistente - 1&quot;-1/2 / 45 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Raccordo portagomma con filettatura maschio, progettato per collegare in modo rapido e sicuro tubi flessibili a prese a mare, scarichi, serbatoi e dispositivi con filettatura femmina. Una soluzione affidabile per impianti idraulici di bordo e applicazioni</Description>
+    <OriginalPrice>15.64</OriginalPrice>
+    <Price>11.17</Price>
+    <Code>1430045</Code>
+    <Link>https://www.onautica.com/products/portagomma-maschio-ottone?variant=51595088265563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137008290</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>portagomma-maschio-ottone</ParentID>
   </Offer>
@@ -33171,23 +33244,6 @@ L 320mm. - Ø22</Name>
     <ParentID>stucco-metallico-per-riparazioni</ParentID>
   </Offer>
   <Offer>
-    <Name>Stucco Vetroresina per riparazioni - 750 ml.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Quando i danni sullo scafo vanno oltre il semplice graffio, lo stucco in vetroresina bicomponente offre una soluzione robusta e definitiva. Scopri perché è indispensabile nel kit di manutenzione di ogni diportista e come utilizzarlo per riparazioni strutt</Description>
-    <OriginalPrice>24.10</OriginalPrice>
-    <Price>14.89</Price>
-    <Code>LASSTVET750</Code>
-    <Link>https://www.onautica.com/products/stucco-vetroresina-per-riparazioni?variant=52513570750811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccovetroresina.png?v=1773341949</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033745210177</EanCode>
-    <Weight>800.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>stucco-vetroresina-per-riparazioni</ParentID>
-  </Offer>
-  <Offer>
     <Name>Succhiarola di Fondo in Ottone con Filtro Inox – Per Sentina - Orizzontale Ø 25 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Succhiarola in Ottone Marino è un componente indispensabile per l&apos;efficienza e la sicurezza dell&apos;impianto di sentina. Progettata per essere collegata al tubo di aspirazione, impedisce a detriti, scarti e sporcizia di raggiungere la pompa, prevenendo in</Description>
@@ -34235,23 +34291,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164301636</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 10 ft. - 3.00 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>44.93</OriginalPrice>
-    <Price>32.09</Price>
-    <Code>30164F</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270251867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301643</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
@@ -37317,25 +37356,6 @@ L 320mm. - Ø22</Name>
     <ParentID>serbatoio-acqua-potabile-rettangolare-polietilene</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>136.07</OriginalPrice>
-    <Price>93.84</Price>
-    <Code>52.033.01</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627493211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.01.png?v=1767117332</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965095525</EanCode>
-    <Weight>5.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 55 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
@@ -37598,11 +37618,27 @@ L 320mm. - Ø22</Name>
     <ParentID>supporto-salvagente-anulare-inox-316-clip-boetta</ParentID>
   </Offer>
   <Offer>
+    <Name>Tanica per Benzina in HDPE - Serie Completa Omologata UN (5, 10, 20 Litri) - 5 litri</Name>
+    <Brand>Viridex</Brand>
+    <Description>Questa serie di taniche è essenziale per lo stoccaggio e il trasporto sicuro di benzina, sia su strada che in mare. Sono progettate con materiali di alta qualità per garantire massima tenuta e durata. Caratteristiche di Sicurezza e Materiali: Omologazione</Description>
+    <OriginalPrice>6.88</OriginalPrice>
+    <Price>5.10</Price>
+    <Code>4020005</Code>
+    <Link>https://www.onautica.com/products/tanica-benzina-hdpe-omologata-un-anti-uv?variant=52513572389211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Taniche_UN_per_carburante_trasporto.png?v=1773341665</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8053329700344</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tanica-benzina-hdpe-omologata-un-anti-uv</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tanica per Benzina in HDPE - Serie Completa Omologata UN (5, 10, 20 Litri) - 10 litri</Name>
     <Brand>Viridex</Brand>
     <Description>Questa serie di taniche è essenziale per lo stoccaggio e il trasporto sicuro di benzina, sia su strada che in mare. Sono progettate con materiali di alta qualità per garantire massima tenuta e durata. Caratteristiche di Sicurezza e Materiali: Omologazione</Description>
-    <OriginalPrice>8.61</OriginalPrice>
-    <Price>6.15</Price>
+    <OriginalPrice>10.37</OriginalPrice>
+    <Price>7.41</Price>
     <Code>4020010</Code>
     <Link>https://www.onautica.com/products/tanica-benzina-hdpe-omologata-un-anti-uv?variant=52543820955995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -37618,8 +37654,8 @@ L 320mm. - Ø22</Name>
     <Name>Tanica per Benzina in HDPE - Serie Completa Omologata UN (5, 10, 20 Litri) - 20 litri</Name>
     <Brand>Viridex</Brand>
     <Description>Questa serie di taniche è essenziale per lo stoccaggio e il trasporto sicuro di benzina, sia su strada che in mare. Sono progettate con materiali di alta qualità per garantire massima tenuta e durata. Caratteristiche di Sicurezza e Materiali: Omologazione</Description>
-    <OriginalPrice>13.17</OriginalPrice>
-    <Price>9.41</Price>
+    <OriginalPrice>15.86</OriginalPrice>
+    <Price>11.33</Price>
     <Code>4020022</Code>
     <Link>https://www.onautica.com/products/tanica-benzina-hdpe-omologata-un-anti-uv?variant=52543820988763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -37868,24 +37904,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_5.png?v=1773341748</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T85 standard type Ultraflex coprimozzo bianco</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>La Timoneria T85 standard type di Ultraflex è la soluzione ideale per chi cerca affidabilità e precisione nel controllo della barca. Il coprimozzo bianco offre una finitura elegante e resistente, progettata per garantire durata nel tempo anche in condizio</Description>
-    <OriginalPrice>123.86</OriginalPrice>
-    <Price>85.42</Price>
-    <Code>39213M</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco?variant=52577465565531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco.png?v=1773341746</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164392139</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_7.png?v=1773341746</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_5.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Timoneria T85 standard type Ultraflex coprimozzo nero</Name>
