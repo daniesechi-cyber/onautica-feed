@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-27T10:31:03.595Z -->
+<!-- Generato: 2026-05-27T14:31:23.676Z -->
 <!-- Offerte: 2677 -->
 <Products>
   <Offer>
@@ -15225,23 +15225,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>aeratore-da-coperta-a-fungo-pl-base-o-150-mm-collo-o-100-mm-1</ParentID>
   </Offer>
   <Offer>
-    <Name>Aeratore da coperta Deck Roca Ø 200 mm. inox</Name>
-    <Brand>Roca</Brand>
-    <Description>Aeratore da coperta Roca con chiusura interna, acciaio. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n mate</Description>
-    <OriginalPrice>80.71</OriginalPrice>
-    <Price>56.44</Price>
-    <Code>1703052</Code>
-    <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-roca-o-200-mm-inox-1?variant=52577413529947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._inox.png?v=1773341612</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>7320394872209</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._inox_7.png?v=1773341613</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-inox-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Aeratore da coperta Deck Roca Ø 200 mm. polimero</Name>
     <Brand>Roca</Brand>
     <Description>Aeratore da coperta Roca con chiusura interna. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n materiale → p</Description>
@@ -17337,6 +17320,23 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-additivo-benzina-sb-startron-benzina-946-ml</ParentID>
   </Offer>
   <Offer>
+    <Name>Aeratore da coperta Deck Roca Ø 200 mm. inox</Name>
+    <Brand>Roca</Brand>
+    <Description>Aeratore da coperta Roca con chiusura interna, acciaio. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n mate</Description>
+    <OriginalPrice>80.71</OriginalPrice>
+    <Price>56.44</Price>
+    <Code>1703052</Code>
+    <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-roca-o-200-mm-inox-1?variant=52577413529947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._inox.png?v=1773341612</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>7320394872209</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._inox_7.png?v=1773341613</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-inox-1</ParentID>
+  </Offer>
+  <Offer>
     <Name>Base inox montaggio per faretti</Name>
     <Brand>Motomarine</Brand>
     <Description>Base inox montaggio per faretti La base in acciaio inossidabile per faretti è un supporto di montaggio progettato per installare in modo sicuro e stabile i faretti a bordo, garantendo resistenza alla corrosione tipica degli ambienti marini. A chi è rivolt</Description>
@@ -17663,7 +17663,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Cornice di Finitura per Frigorifero Nautico Frigo° 50L</Name>
     <Brand>Osculati</Brand>
-    <Description>La Cornice di Finitura a 4 Lati è l&apos;accessorio opzionale originale specificamente dedicato al Frigorifero Nautico Osculati Frigo° da 50 Litri . Studiata per integrarsi perfettamente con il moderno design del pannello frontale del frigo, questa cornice è l</Description>
+    <Description>La Cornice di Finitura a 4 Lati è l&apos;accessorio opzionale originale specificamente dedicato al Frigorifero Nautico Osculati Frigo° da 50 Litri . Studiata per integrarsi perfettamente con il moderno design del pannello frontale del frigo, questa cornice �� </Description>
     <OriginalPrice>63.90</OriginalPrice>
     <Price>58.09</Price>
     <Code>50.961.30</Code>
@@ -17821,22 +17821,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626095237</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Fanale di Coperta Inox Rosso 112,5° è un fanale di navigazione in acciaio inossidabile, progettato per segnalare il lato di babordo dell&apos;imbarcazione con un angolo di copertura di 112,5°, in piena conformità con le normative internazionali COLREG . Gar</Description>
-    <OriginalPrice>29.85</OriginalPrice>
-    <Price>21.32</Price>
-    <Code>11.507.06</Code>
-    <Link>https://www.onautica.com/products/fanale-di-coperta-inox-rosso-112-5?variant=52577432797531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_Coperta_Inox_Rosso_112_5.png?v=1773341651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011313</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-di-coperta-inox-rosso-112-5</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale di Coperta Inox Verde 112,5°</Name>
@@ -25102,6 +25086,22 @@ L 320mm. - Ø22</Name>
     <ParentID>disincrostante-gel-ferrotone-750-ml</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Fanale di Coperta Inox Rosso 112,5° è un fanale di navigazione in acciaio inossidabile, progettato per segnalare il lato di babordo dell&apos;imbarcazione con un angolo di copertura di 112,5°, in piena conformità con le normative internazionali COLREG . Gar</Description>
+    <OriginalPrice>29.85</OriginalPrice>
+    <Price>21.32</Price>
+    <Code>11.507.06</Code>
+    <Link>https://www.onautica.com/products/fanale-di-coperta-inox-rosso-112-5?variant=52577432797531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_Coperta_Inox_Rosso_112_5.png?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011313</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-di-coperta-inox-rosso-112-5</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale testa d&apos;albero 360° a led con basetta bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Fanale di testa d&apos;albero a 360° con luce bianca, progettato per imbarcazioni fino a 20 metri. Certificato secondo la normativa internazionale COLREG 72 , garantisce piena conformità alle regole per la prevenzione degli abbordi in mare. Colore fanale: bian</Description>
@@ -28448,23 +28448,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626059536</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-riduttore-tensione-vrs25-23a-quick-switching</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rigeneratore Colore Osculati Teak Two – Step 2 (Effetto Naturale)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Osculati Teak Two è il rigeneratore professionale che costituisce il Secondo Step del ciclo di restauro del teak. La sua funzione specifica è quella di neutralizzare l&apos;ossidazione e far riaffiorare istantaneamente il colore naturale dorato del legno appen</Description>
-    <OriginalPrice>11.84</OriginalPrice>
-    <Price>9.11</Price>
-    <Code>65.743.00</Code>
-    <Link>https://www.onautica.com/products/rigeneratore-colore-teak-two-osculati?variant=52513557578075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rigeneratore-colore-teak-two-osculati.webp?v=1770916414</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rigeneratore-colore-teak-two-osculati5lt.webp?v=1770916414</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>rigeneratore-colore-teak-two-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Rinnovatore per plastiche trasparenti IOSSO 250 ml.</Name>
@@ -32587,6 +32570,23 @@ L 320mm. - Ø22</Name>
     <ParentID>riduzione-ottone-maschio-femmina</ParentID>
   </Offer>
   <Offer>
+    <Name>Rigeneratore Colore Osculati Teak Two – Step 2 (Effetto Naturale)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Osculati Teak Two è il rigeneratore professionale che costituisce il Secondo Step del ciclo di restauro del teak. La sua funzione specifica è quella di neutralizzare l&apos;ossidazione e far riaffiorare istantaneamente il colore naturale dorato del legno appen</Description>
+    <OriginalPrice>11.84</OriginalPrice>
+    <Price>9.11</Price>
+    <Code>65.743.00</Code>
+    <Link>https://www.onautica.com/products/rigeneratore-colore-teak-two-osculati?variant=52513557578075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rigeneratore-colore-teak-two-osculati.webp?v=1770916414</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rigeneratore-colore-teak-two-osculati5lt.webp?v=1770916414</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>rigeneratore-colore-teak-two-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Rubinetto Carburante a 3 Vie in Ottone con Flangia (1/4&quot; e 3/8&quot; NPT) - 1/4&quot; NPT</Name>
     <Brand>Osculati</Brand>
     <Description>Il Rubinetto Carburante a 3 Vie in Ottone è un deviatore idraulico essenziale per le imbarcazioni equipaggiate con sistemi multi-serbatoio. Questo componente consente di collegare in modo pratico e sicuro due serbatoi di carburante separati a un&apos;unica lin</Description>
@@ -35836,22 +35836,6 @@ L 320mm. - Ø22</Name>
     <ParentID>kit-serbatoio-acqua-autoclave-12v</ParentID>
   </Offer>
   <Offer>
-    <Name>Kit Serratura Opzionale con Chiave per Sportelli in ABS</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo Kit Serratura Opzionale è l&apos;accessorio indispensabile per chi desidera maggiore sicurezza a bordo. Progettato specificamente per la linea di Sportelli in ABS (come i modelli QT, BT e simili), permette di sostituire o integrare il sistema di chiusur</Description>
-    <OriginalPrice>16.79</OriginalPrice>
-    <Price>11.99</Price>
-    <Code>0343300</Code>
-    <Link>https://www.onautica.com/products/kit-serratura-sportelli-abs-0343300?variant=52577451475291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serratura-sportello-abs-box-bt-medium.png?v=1773341702</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685134379</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-serratura-sportelli-abs-0343300</ParentID>
-  </Offer>
-  <Offer>
     <Name>L7 terminale a snodo sferico inox</Name>
     <Brand>Ultraflex</Brand>
     <Description>Terminale a snodo sferico in acciaio inossidabile per cavi di controllo motore. Compatibile con i sistemi C2 , MACHZero e C8 , garantisce una connessione precisa e affidabile tra il cavo e l&apos;attuatore, assorbendo le variazioni angolari e riducendo gli str</Description>
@@ -36307,40 +36291,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale5.png?v=1773341968</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portello contenitore radio/cd/vhf</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Portello stagno progettato per l&apos;installazione a bordo di apparati radio, CD o VHF. Costruito per garantire protezione e ordine nella sistemazione della strumentazione di comunicazione, si adatta perfettamente alle esigenze dei diportisti che cercano una </Description>
-    <OriginalPrice>105.34</OriginalPrice>
-    <Price>58.52</Price>
-    <Code>4000417</Code>
-    <Link>https://www.onautica.com/products/offerta-portello-contenitore-radio-cd-vhf?variant=52577464189275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_portello_contenitore_radio_cd_vhf.png?v=1773341740</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626115621</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_portello_contenitore_radio_cd_vhf_3.png?v=1773341741</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_portello_contenitore_radio_cd_vhf_8.png?v=1773341742</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-portello-contenitore-radio-cd-vhf</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portello d’Ispezione Estraibile Bianco 375x375 mm – Chiusura a Baionetta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Portello d’Ispezione con Frontale Estraibile (cod. 20.302.30) è la soluzione ideale per sfruttare spazi dove l&apos;apertura a cerniera tradizionale risulterebbe scomoda o impossibile, come ad esempio su console con panca di guida molto vicina. Il sistema d</Description>
-    <OriginalPrice>42.97</OriginalPrice>
-    <Price>23.87</Price>
-    <Code>20.302.30</Code>
-    <Link>https://www.onautica.com/products/portello-ispezione-estraibile-bianco-375x375?variant=52577462747483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-estraibile-bianco-375x375.png?v=1773341738</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137109973</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>portello-ispezione-estraibile-bianco-375x375</ParentID>
   </Offer>
   <Offer>
     <Name>Pulsante a Piede Quick Serie 900 per Verricelli (Coperchio Bianco) – Salita / Discesa - SALITA (UP)</Name>
@@ -37569,6 +37519,43 @@ L 320mm. - Ø22</Name>
     <Weight>520.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
+    <OriginalPrice>102.56</OriginalPrice>
+    <Price>56.98</Price>
+    <Code>4000150</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685133754</EanCode>
+    <Weight>2.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Serratura (optional)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
+    <OriginalPrice>15.72</OriginalPrice>
+    <Price>11.23</Price>
+    <Code>0343300</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52519930888539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685134379</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Stand Up Paddle JOBE Mira 10.0 Package SUP</Name>
@@ -40158,6 +40145,22 @@ L 320mm. - Ø22</Name>
     <ParentID>kit-fissaggio-pavimento-porta-potti-qube-thetford</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit Serratura Opzionale con Chiave per Sportelli in ABS</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo Kit Serratura Opzionale è l&apos;accessorio indispensabile per chi desidera maggiore sicurezza a bordo. Progettato specificamente per la linea di Sportelli in ABS (come i modelli QT, BT e simili), permette di sostituire o integrare il sistema di chiusur</Description>
+    <OriginalPrice>16.79</OriginalPrice>
+    <Price>11.99</Price>
+    <Code>0343300</Code>
+    <Link>https://www.onautica.com/products/kit-serratura-sportelli-abs-0343300?variant=52577451475291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serratura-sportello-abs-box-bt-medium.png?v=1773341702</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685134379</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-serratura-sportelli-abs-0343300</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit Tubo Lavaggio Barca Tricotex® con Pistola e Raccordi Rapidi - 15 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Il Kit Tubo Lavaggio Barca è la soluzione professionale e completa per la pulizia della tua imbarcazione. Fornito di un tubo di alta qualità Tricotex® Antitorsione e di tutti gli accessori necessari per il collegamento universale. Caratteristiche Principa</Description>
@@ -40781,6 +40784,24 @@ L 320mm. - Ø22</Name>
     <ParentID>portachiavi-parabordo-tondo-blu-rosso</ParentID>
   </Offer>
   <Offer>
+    <Name>Portello contenitore radio/cd/vhf</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Portello stagno progettato per l&apos;installazione a bordo di apparati radio, CD o VHF. Costruito per garantire protezione e ordine nella sistemazione della strumentazione di comunicazione, si adatta perfettamente alle esigenze dei diportisti che cercano una </Description>
+    <OriginalPrice>105.34</OriginalPrice>
+    <Price>58.52</Price>
+    <Code>4000417</Code>
+    <Link>https://www.onautica.com/products/offerta-portello-contenitore-radio-cd-vhf?variant=52577464189275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_portello_contenitore_radio_cd_vhf.png?v=1773341740</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626115621</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_portello_contenitore_radio_cd_vhf_3.png?v=1773341741</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_portello_contenitore_radio_cd_vhf_8.png?v=1773341742</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-portello-contenitore-radio-cd-vhf</ParentID>
+  </Offer>
+  <Offer>
     <Name>Portello d&apos;Ispezione FLUSH CE Bianco Pedonabile – 5 Misure Disponibili - 380x280 mm.</Name>
     <Brand>CAN</Brand>
     <Description>Portello d&apos;Ispezione FLUSH CE Bianco – Design Carenato Pedonabile con Apertura 180° per Imbarcazioni da Diporto Il portello d&apos;ispezione FLUSH CE rappresenta il top di gamma per estetica e funzionalità a bordo. Grazie al suo design Flush , il coperchio car</Description>
@@ -40869,6 +40890,22 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-ispezione-flush-ce-bianco-pedonabile-5-misureb.webp?v=1777050947</Image3>
     <Condition>nuovo</Condition>
     <ParentID>portello-ispezione-flush-ce-bianco-pedonabile-5-misure</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello d’Ispezione Estraibile Bianco 375x375 mm – Chiusura a Baionetta</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Portello d’Ispezione con Frontale Estraibile (cod. 20.302.30) è la soluzione ideale per sfruttare spazi dove l&apos;apertura a cerniera tradizionale risulterebbe scomoda o impossibile, come ad esempio su console con panca di guida molto vicina. Il sistema d</Description>
+    <OriginalPrice>42.97</OriginalPrice>
+    <Price>23.87</Price>
+    <Code>20.302.30</Code>
+    <Link>https://www.onautica.com/products/portello-ispezione-estraibile-bianco-375x375?variant=52577462747483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portello-estraibile-bianco-375x375.png?v=1773341738</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137109973</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-ispezione-estraibile-bianco-375x375</ParentID>
   </Offer>
   <Offer>
     <Name>Portello Stagno Universale per Radio e VHF – Protezione Strumentazione - Senza Chiave</Name>
@@ -41591,43 +41628,6 @@ L 320mm. - Ø22</Name>
     <ParentID>spazzole-roca-extraflex-in-acciaio-brunito-l-455-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
-    <OriginalPrice>102.56</OriginalPrice>
-    <Price>56.98</Price>
-    <Code>4000150</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685133754</EanCode>
-    <Weight>2.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Serratura (optional)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
-    <OriginalPrice>15.72</OriginalPrice>
-    <Price>11.23</Price>
-    <Code>0343300</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52519930888539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685134379</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Sportello</Name>
     <Brand>CAN</Brand>
     <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
@@ -41681,23 +41681,6 @@ L 320mm. - Ø22</Name>
     <ParentID>stereo-marino-boss-mgr250b-bluetooth</ParentID>
   </Offer>
   <Offer>
-    <Name>Stopper Antal Cam 611 Doppio – Per Cime 6-11 mm</Name>
-    <Brand>Antal</Brand>
-    <Description>Lo Stopper Antal Cam 611 Doppio è la soluzione ideale per razionalizzare le manovre in tuga, permettendo di gestire due cime distinte (es. drizza randa e drizza genoa) in un unico blocco compatto. Dotato dello stesso affidabile meccanismo della versione s</Description>
-    <OriginalPrice>222.70</OriginalPrice>
-    <Price>164.96</Price>
-    <Code>3703020</Code>
-    <Link>https://www.onautica.com/products/stopper-antal-cam-611-doppio?variant=52577537065307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-doppio.png?v=1773341976</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626107930</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>stopper-antal-cam-611-doppio</ParentID>
-  </Offer>
-  <Offer>
     <Name>Stopper Antal Cam 611 Triplo – Per Cime 6-11 mm</Name>
     <Brand>Antal</Brand>
     <Description>Lo Stopper Antal Cam 611 Triplo è la soluzione compatta e definitiva per centralizzare le manovre sulla tuga, consentendo la gestione ordinata di tre linee separate (es. drizza randa, drizza fiocco e amantiglio o borosa) in un unico corpo. Questo modello </Description>
@@ -41713,22 +41696,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
     <Condition>nuovo</Condition>
     <ParentID>stopper-antal-cam-611-triplo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strozzascotta fibra di carbonio per scotte Ø 3&lt;&gt;8 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Questo strozzascotte di alta gamma è la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise e</Description>
-    <OriginalPrice>21.90</OriginalPrice>
-    <Price>13.68</Price>
-    <Code>VIA25.10</Code>
-    <Link>https://www.onautica.com/products/strozzascotta-fibra-di-carbonio-o-3-8-mm?variant=52577517863259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzascotte.png?v=1773341975</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137165597</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>strozzascotta-fibra-di-carbonio-o-3-8-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzascotta fibra di carbonio/lega leggera per scotte Ø 3&lt;&gt;8 mm.</Name>
@@ -44688,6 +44655,23 @@ L 320mm. - Ø22</Name>
     <ParentID>puleggia-nylon-sfere-delrin</ParentID>
   </Offer>
   <Offer>
+    <Name>Stopper Antal Cam 611 Doppio – Per Cime 6-11 mm</Name>
+    <Brand>Antal</Brand>
+    <Description>Lo Stopper Antal Cam 611 Doppio è la soluzione ideale per razionalizzare le manovre in tuga, permettendo di gestire due cime distinte (es. drizza randa e drizza genoa) in un unico blocco compatto. Dotato dello stesso affidabile meccanismo della versione s</Description>
+    <OriginalPrice>222.70</OriginalPrice>
+    <Price>164.96</Price>
+    <Code>3703020</Code>
+    <Link>https://www.onautica.com/products/stopper-antal-cam-611-doppio?variant=52577537065307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-doppio.png?v=1773341976</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626107930</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>stopper-antal-cam-611-doppio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Stopper Antal Cam 611 Singolo – Per Cime 6-11 mm</Name>
     <Brand>Antal</Brand>
     <Description>Lo Stopper Antal Cam 611 (Modello Singolo) è un blocca-scotte di alta qualità progettato per gestire carichi di lavoro medi su imbarcazioni a vela, garantendo fluidità e sicurezza nella gestione delle manovre correnti. La caratteristica distintiva di ques</Description>
@@ -44703,6 +44687,22 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
     <Condition>nuovo</Condition>
     <ParentID>stopper-antal-cam-611-singolo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strozzascotta fibra di carbonio per scotte Ø 3&lt;&gt;8 mm.</Name>
+    <Brand>Viadana</Brand>
+    <Description>Questo strozzascotte di alta gamma è la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise e</Description>
+    <OriginalPrice>21.90</OriginalPrice>
+    <Price>13.68</Price>
+    <Code>VIA25.10</Code>
+    <Link>https://www.onautica.com/products/strozzascotta-fibra-di-carbonio-o-3-8-mm?variant=52577517863259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzascotte.png?v=1773341975</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137165597</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>strozzascotta-fibra-di-carbonio-o-3-8-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzascotte Clamcleat Ø 3&lt;&gt;6 mm. CL211MK1 alluminio</Name>
