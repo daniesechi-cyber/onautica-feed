@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-27T06:31:01.733Z -->
+<!-- Generato: 2026-05-27T10:31:03.595Z -->
 <!-- Offerte: 2677 -->
 <Products>
   <Offer>
@@ -332,6 +332,7 @@
     <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>6.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
@@ -4357,6 +4358,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>0204083</EanCode>
+    <Weight>1080.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_per_tubi_rulli_laterale.png?v=1761935882</Image2>
     <Condition>nuovo</Condition>
     <ParentID>staffa-bloccaggio-per-tubo-rulli-laterali</ParentID>
@@ -24992,6 +24994,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5732948.png?v=1773341723</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8017369502238</EanCode>
+    <Weight>800.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>offerta-detergente-iosso-raft-cleaner-750-ml</ParentID>
   </Offer>
@@ -34201,7 +34204,7 @@ L 320mm. - Ø22</Name>
     <Price>18.26</Price>
     <Code>3020005</Code>
     <Link>https://www.onautica.com/products/offerta-boetta-luminosa-solas-med-vega?variant=52577456980315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Boetta_luminosa_Solas_med_vegav_2.png?v=1773341716</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -37075,7 +37078,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm.jpg?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137009136</EanCode>
-    <Weight>300.00</Weight>
+    <Weight>0.30</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
     <Condition>nuovo</Condition>
@@ -39146,6 +39149,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutob.png?v=1769926880</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626215994</EanCode>
+    <Weight>110.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessuto.png?v=1769926880</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutoc.png?v=1764941678</Image3>
     <Condition>nuovo</Condition>
@@ -41599,6 +41603,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8057685133754</EanCode>
+    <Weight>2.47</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
     <Condition>nuovo</Condition>
@@ -41984,7 +41989,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburantebianco.png?v=1765380193</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>802-00186</EanCode>
-    <Weight>100.00</Weight>
+    <Weight>0.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShuntbianco.png?v=1765380193</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometrodigitaleconShuntbianco.png?v=1765380193</Image3>
     <Condition>nuovo</Condition>
@@ -42428,6 +42433,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216052</EanCode>
+    <Weight>160.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
@@ -42606,6 +42612,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield.png?v=1773341745</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626215918</EanCode>
+    <Weight>2.65</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield_borsa.png?v=1773341744</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield_dettaglio.png?v=1773341745</Image3>
     <Condition>nuovo</Condition>
