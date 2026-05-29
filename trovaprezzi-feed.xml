@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-29T10:31:31.692Z -->
-<!-- Offerte: 2671 -->
+<!-- Generato: 2026-05-29T14:30:56.155Z -->
+<!-- Offerte: 2690 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1191,6 +1191,25 @@
     <EanCode>8033626095534</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>chiusura-lampo-zip-marina-42mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cinghia di Sicurezza Navigazione CE ISO12401 – Moschettoni Inox - 100&lt;&gt;200 cm. con 2 moschettone</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Cinghia di Sicurezza (o &quot;ombelicale&quot;) è il dispositivo di protezione individuale fondamentale per prevenire la caduta fuoribordo durante la navigazione notturna, in solitaria o con mare formato. Questo modello è realizzato in nastro di Poliestere ad al</Description>
+    <OriginalPrice>59.10</OriginalPrice>
+    <Price>36.96</Price>
+    <Code>3015063</Code>
+    <Link>https://www.onautica.com/products/cinghia-sicurezza-ce-inox?variant=52516818157915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettone-inox100-200.png?v=1770048050</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3015063</EanCode>
+    <Weight>480.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-1moschettone-inox.png?v=1770048051</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettoni-inox.png?v=1770048051</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cinghia-sicurezza-ce-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Cinghia tensionatrice 6 mt. con gancio e cricchetto CR1000Kg.</Name>
@@ -9539,6 +9558,38 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>interruttore-impermeabile-unipolare-on-off-ip55-signal-3-terminali</ParentID>
   </Offer>
   <Offer>
+    <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 50</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
+    <OriginalPrice>30.51</OriginalPrice>
+    <Price>21.79</Price>
+    <Code>2100974</Code>
+    <Link>https://www.onautica.com/products/interruttore-magnetotermico-hi-amp-superficie-ip67-nautica?variant=52887875354971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/interruttore-magnetotermico-hi-amp-superficie-waterproof-ip67-nautica.webp?v=1777388833</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626060686</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 60</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
+    <OriginalPrice>30.51</OriginalPrice>
+    <Price>21.79</Price>
+    <Code>2100975</Code>
+    <Link>https://www.onautica.com/products/interruttore-magnetotermico-hi-amp-superficie-ip67-nautica?variant=52887875387739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/interruttore-magnetotermico-hi-amp-superficie-waterproof-ip67-nautica.webp?v=1777388833</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626060693</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 80</Name>
     <Brand>Motomarine</Brand>
     <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
@@ -9551,6 +9602,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/interruttore-magnetotermico-hi-amp-superficie-waterproof-ip67-nautica.webp?v=1777388833</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626060709</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 100</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
+    <OriginalPrice>30.51</OriginalPrice>
+    <Price>21.79</Price>
+    <Code>2100980</Code>
+    <Link>https://www.onautica.com/products/interruttore-magnetotermico-hi-amp-superficie-ip67-nautica?variant=52887875453275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/interruttore-magnetotermico-hi-amp-superficie-waterproof-ip67-nautica.webp?v=1777388833</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626060716</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
   </Offer>
@@ -10119,6 +10186,21 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>6283092091796</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>rondelle-di-sicurezza-inox-per-ogiva-radice-asse-o-40-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rondelle di sicurezza inox per ogiva radice asse Ø 45 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Rondelle di sicurezza in acciaio inox, progettate per il fissaggio dell&apos;ogiva sull&apos;asse elica da Ø 45 mm . Garantiscono un ancoraggio stabile e resistente alla corrosione in ambiente marino. Materiale: Acciaio inox Diametro esterno: 66 mm Diametro interno</Description>
+    <OriginalPrice>10.51</OriginalPrice>
+    <Price>7.51</Price>
+    <Code>5165045</Code>
+    <Link>https://www.onautica.com/products/rondelle-di-sicurezza-inox-per-ogiva-radice-asse-o-45-mm?variant=52577483882843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Assi ed Eliche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rondelle_di_sicurezza_inox_per_ogiva_radice_asse_45_mm..png?v=1773341803</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>rondelle-di-sicurezza-inox-per-ogiva-radice-asse-o-45-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Rondelle di sicurezza inox per ogiva radice asse Ø 50 mm.</Name>
@@ -12069,7 +12151,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>9.94</Price>
     <Code>3813002</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264458075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12087,7 +12169,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12122,7 +12204,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>16.09</Price>
     <Code>3813005</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264556379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12190,7 +12272,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52517249319259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12262,6 +12344,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626169723</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>copriparabordi-navishell-f-type-rosso-vino</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Copriparabordi Navishell F-Type Rosso Vino (Bordeaux) – Tessuto Acrilico - F3 - Ø 21-24 cm.</Name>
+    <Brand>Navishell</Brand>
+    <Description>Dona un tocco di classe distintivo alla tua imbarcazione con i Copriparabordi Navishell F-Type nella raffinata colorazione Rosso Vino (Bordeaux) . Oltre all&apos;estetica curata, questi rivestimenti garantiscono una protezione eccellente grazie al tessuto mari</Description>
+    <OriginalPrice>17.28</OriginalPrice>
+    <Price>11.52</Price>
+    <Code>3813003BO</Code>
+    <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52517264851291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626352156</EanCode>
+    <Weight>230.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-rosso-vino</ParentID>
@@ -12359,7 +12459,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>16.43</Price>
     <Code>3813004SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577413005659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12507,7 +12607,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>21.26</Price>
     <Code>3813103BK</Code>
     <Link>https://www.onautica.com/products/copriparabordo-navishell-a-type-nero-in-acrilico-marino-uv-resistant?variant=53069565428059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordo-navishell-a-type-nero.webp?v=1779702673</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14708,8 +14808,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Sigillante Marino Ibrido Sikaflex® 591 – Cartuccia 300 ml - Bianco</Name>
     <Brand>Sikaflex</Brand>
     <Description>Il Sikaflex® 591 è il sigillante multifunzione di nuova generazione basato sull&apos;avanzata tecnologia dei Polimeri a Terminazione Silanica (STP) . Progettato specificamente per l&apos;ambiente marino, offre un perfetto equilibrio tra prestazioni tecniche ed ecol</Description>
-    <OriginalPrice>26.40</OriginalPrice>
-    <Price>16.47</Price>
+    <OriginalPrice>26.30</OriginalPrice>
+    <Price>16.46</Price>
     <Code>11440</Code>
     <Link>https://www.onautica.com/products/sikaflex-591-sigillante-marino-300ml?variant=52517464375643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -14798,7 +14898,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il SikaSeal®-174 / 175 è un sigillante siliconico monocomponente a reticolazione neutra , progettato per offrire una sigillatura elastica e duratura in una vasta gamma di applicazioni, sia in interni che in esterni. A differenza dei siliconi acetici tradi</Description>
     <OriginalPrice>13.60</OriginalPrice>
-    <Price>8.49</Price>
+    <Price>8.48</Price>
     <Code>11444</Code>
     <Link>https://www.onautica.com/products/sigillante-silicone-neutro-sikaseal-174-175?variant=52513436959067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -17276,6 +17376,24 @@ L 320mm. - Ø22</Name>
     <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-inox-1</ParentID>
   </Offer>
   <Offer>
+    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
+    <Brand>Osculati</Brand>
+    <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
+    <OriginalPrice>50.72</OriginalPrice>
+    <Price>36.23</Price>
+    <Code>11.140.02</Code>
+    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca?variant=52577416839515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_bianca.png?v=1773341623</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137019616</EanCode>
+    <Weight>450.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_1_360_plastica_bianca.png?v=1773341624</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
+  </Offer>
+  <Offer>
     <Name>Base inox montaggio per faretti</Name>
     <Brand>Motomarine</Brand>
     <Description>Base inox montaggio per faretti La base in acciaio inossidabile per faretti è un supporto di montaggio progettato per installare in modo sicuro e stabile i faretti a bordo, garantendo resistenza alla corrosione tipica degli ambienti marini. A chi è rivolt</Description>
@@ -18568,6 +18686,22 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-acqua-pipe-1-2-portagomma</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro acqua con portagomma 3/4&quot;</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Filtro per acqua sanitaria ideale per installazioni a bordo, progettato per trattenere impurità e residui presenti nell&apos;acqua. Il cesto filtrante in acciaio inox garantisce durata e resistenza alla corrosione in ambiente marino. I raccordi di entrata e us</Description>
+    <OriginalPrice>11.20</OriginalPrice>
+    <Price>8.00</Price>
+    <Code>4132013</Code>
+    <Link>https://www.onautica.com/products/filtro-acqua-pipe-3-4-portagomma?variant=52577436860763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Filtri</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/onautica_49.png?v=1773341657</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626010438</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-acqua-pipe-3-4-portagomma</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro acqua di mare 1&quot; RGL 1162 ottone conforme R.I.N.A.</Name>
     <Brand>Motomarine</Brand>
     <Description>Filtro per acqua di mare realizzato in ottone e acciaio inox , omologato RINA per l&apos;impiego a bordo di imbarcazioni da diporto e professionali. Progettato per garantire una grande portata , è ideale per la protezione di pompe e circuiti di raffreddamento </Description>
@@ -19615,6 +19749,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051899</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-parsun</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 4/5 HP</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
+    <OriginalPrice>15.30</OriginalPrice>
+    <Price>10.20</Price>
+    <Code>1814250</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718339931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051585</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
     <Condition>nuovo</Condition>
@@ -21132,8 +21284,8 @@ L 320mm. - Ø22</Name>
     <Name>Giubbotto di Salvataggio 100N entro 6 Miglia - Oltre 40 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Assicurati la massima tranquillità a bordo con questo giubbotto di salvataggio, progettato per offrire protezione affidabile a tutta la famiglia durante la navigazione costiera. Questo salvagente, con una galleggiabilità di 100 Newton , è omologato second</Description>
-    <OriginalPrice>23.20</OriginalPrice>
-    <Price>12.23</Price>
+    <OriginalPrice>21.70</OriginalPrice>
+    <Price>11.41</Price>
     <Code>3010102</Code>
     <Link>https://www.onautica.com/products/cintura-salvagente-100n?variant=52513528185179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -21331,6 +21483,22 @@ L 320mm. - Ø22</Name>
     <ParentID>salvagente-100n-isabel-entro-6-miglia</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto 110° in Acciaio Inox AISI 316 da Fusione - Ø 22 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo giunto è un componente di raccorderia strutturale, essenziale per creare fissaggi robusti e duraturi con un angolo fisso di 110 gradi . È la soluzione ideale per le strutture tubolari oblique dove è richiesto un angolo di giunzione ampio. Caratteri</Description>
+    <OriginalPrice>20.24</OriginalPrice>
+    <Price>14.46</Price>
+    <Code>0633931</Code>
+    <Link>https://www.onautica.com/products/giunto-110-inox-aisi316-fusione-tubolari?variant=52513528938843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_110_22_Acciaio_Inox_AISI_316_da_fusione.png?v=1773341666</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_110_25_mm._acciaio_inox_AISI_316_da_fusione_2.png?v=1773341667</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-110-inox-aisi316-fusione-tubolari</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto 110° in Acciaio Inox AISI 316 da Fusione - Ø 25 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo giunto è un componente di raccorderia strutturale, essenziale per creare fissaggi robusti e duraturi con un angolo fisso di 110 gradi . È la soluzione ideale per le strutture tubolari oblique dove è richiesto un angolo di giunzione ampio. Caratteri</Description>
@@ -21379,23 +21547,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/GIUNTO_140.png?v=1764800923</Image2>
     <Condition>nuovo</Condition>
     <ParentID>giunto-140-inox-aisi316-fusione-tubolari</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giunto a L (90°) in Acciaio Inox AISI 316 da Fusione - Ø 22 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo giunto a L è un componente di raccorderia strutturale, essenziale per creare fissaggi robusti e duraturi con un angolo fisso di 90 gradi . Caratteristiche Principali: Materiale: Realizzato in Acciaio Inox AISI 316 da fusione (non stampato), che gar</Description>
-    <OriginalPrice>13.01</OriginalPrice>
-    <Price>9.29</Price>
-    <Code>0633922</Code>
-    <Link>https://www.onautica.com/products/giunto-a-l-90-inox-aisi316-fusione?variant=52540663955803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Curva_a_L_25_mm._acciaio_inox_AISI_316_da_fusione.jpg?v=1773341649</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023964</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_a_L_90_in_Acciaio_Inox_AISI_316_da_Fusione.png?v=1764800690</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>giunto-a-l-90-inox-aisi316-fusione</ParentID>
   </Offer>
   <Offer>
     <Name>Giunto a L (90°) in Acciaio Inox AISI 316 da Fusione - Ø 25 mm.</Name>
@@ -22866,6 +23017,23 @@ L 320mm. - Ø22</Name>
     <ParentID>plafoniera-classic-brass-led-12v-ottone</ParentID>
   </Offer>
   <Offer>
+    <Name>Plafoniera Classic-Inox LED 12V con Interruttore – Acciaio Inox - Ø 107 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Plafoniera Classic-Inox LED combina l&apos;estetica tradizionale della nautica con l&apos;efficienza della moderna tecnologia LED. Caratterizzata da un corpo robusto in Acciaio Inox lucidato, offre una soluzione di illuminazione elegante e durevole per cabine, d</Description>
+    <OriginalPrice>22.50</OriginalPrice>
+    <Price>16.07</Price>
+    <Code>2140051</Code>
+    <Link>https://www.onautica.com/products/plafoniera-classic-inox-led-12v-interruttore?variant=52513463861595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Interna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/plafoniera-led-acciaio-inox-classica-interruttore.webp?v=1774437493</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626067630</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/plafoniera-led-inox-classica-interruttore_schema.png?v=1774437493</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>plafoniera-classic-inox-led-12v-interruttore</ParentID>
+  </Offer>
+  <Offer>
     <Name>Plafoniera Classic-Inox LED 12V con Interruttore – Acciaio Inox - Ø 137 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Plafoniera Classic-Inox LED combina l&apos;estetica tradizionale della nautica con l&apos;efficienza della moderna tecnologia LED. Caratterizzata da un corpo robusto in Acciaio Inox lucidato, offre una soluzione di illuminazione elegante e durevole per cabine, d</Description>
@@ -23574,24 +23742,6 @@ L 320mm. - Ø22</Name>
     <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
   </Offer>
   <Offer>
-    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 22 mm. / Passante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
-    <OriginalPrice>14.14</OriginalPrice>
-    <Price>10.10</Price>
-    <Code>0621922</Code>
-    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958464347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023568</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
-  </Offer>
-  <Offer>
     <Name>Supporti Passamano NEW LINE in Acciaio Inox (Base Rettangolare) - 25 mm. / DX</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di supporti passamano New Line è ideale per il fissaggio di corrimano e strutture tubolari, offrendo un&apos;estetica moderna e robusta a bordo. Sono realizzati in Acciaio Inox da fusione con un&apos;elegante base rettangolare . Caratteristiche Princip</Description>
@@ -23943,11 +24093,26 @@ L 320mm. - Ø22</Name>
     <Name>Tubo in Acciaio Inox AISI 316 Lucidato a Specchio – Barre - Ø 20 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Tubo in Acciaio Inox AISI 316 Lucidato a Specchio è la soluzione ideale per realizzare bimini, cappottine, tientibene e strutture personalizzate a bordo. Realizzato in lega Marine Grade (AISI 316) , garantisce resistenza totale alla corrosione e una fi</Description>
-    <OriginalPrice>23.20</OriginalPrice>
-    <Price>13.63</Price>
+    <OriginalPrice>42.20</OriginalPrice>
+    <Price>24.80</Price>
     <Code>41.616.01</Code>
     <Link>https://www.onautica.com/products/tubo-acciaio-inox-316-al-metro?variant=52513578975579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-acciaio-inox-316-lucidato.png?v=1770055623</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-acciaio-inox-316-al-metro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo in Acciaio Inox AISI 316 Lucidato a Specchio – Barre - Ø 22 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Tubo in Acciaio Inox AISI 316 Lucidato a Specchio è la soluzione ideale per realizzare bimini, cappottine, tientibene e strutture personalizzate a bordo. Realizzato in lega Marine Grade (AISI 316) , garantisce resistenza totale alla corrosione e una fi</Description>
+    <OriginalPrice>49.80</OriginalPrice>
+    <Price>29.29</Price>
+    <Code>41.613.01</Code>
+    <Link>https://www.onautica.com/products/tubo-acciaio-inox-316-al-metro?variant=52516622827867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-acciaio-inox-316-lucidato.png?v=1770055623</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24940,6 +25105,24 @@ L 320mm. - Ø22</Name>
     <ParentID>detergente-per-sentine-tk-sentinet-1-lt</ParentID>
   </Offer>
   <Offer>
+    <Name>Detergente per sentine TK Sentinet 5 lt.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>TK Sentinet è un detergente sgrassante emulsionante concentrato, formulato appositamente per la pulizia di sentine e sale motori delle imbarcazioni. Agisce efficacemente contro depositi di grasso e olio, mantenendo le sue proprietà anche a contatto con ac</Description>
+    <OriginalPrice>75.19</OriginalPrice>
+    <Price>52.58</Price>
+    <Code>5732005</Code>
+    <Link>https://www.onautica.com/products/detergente-per-sentine-tk-sentinet-5-lt?variant=52577434272091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Detergenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Detergente_per_sentine_TK_Sentinet_5_lt..png?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626153562</EanCode>
+    <Weight>5.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Detergente_per_sentine_TK_Sentinet_5_lt._1.png?v=1773341652</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>detergente-per-sentine-tk-sentinet-5-lt</ParentID>
+  </Offer>
+  <Offer>
     <Name>Detergente piatti senza schiuma Foam Free 1 lt.</Name>
     <Brand>Motomarine</Brand>
     <Description>Foam Free è il detergente senza schiuma ideale per lavare a mano piatti e stoviglie a bordo. La sua formula appositamente studiata elimina lo sporco in modo efficace senza produrre schiuma, così da ridurre al minimo l&apos;acqua necessaria per il risciacquo — </Description>
@@ -25805,6 +25988,39 @@ L 320mm. - Ø22</Name>
     <ParentID>mezzomarinaro-telescopico-alluminio-60-100cm</ParentID>
   </Offer>
   <Offer>
+    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 5 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
+    <OriginalPrice>17.52</OriginalPrice>
+    <Price>12.79</Price>
+    <Code>3136505</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52513541521755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008046</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 6 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
+    <OriginalPrice>23.03</OriginalPrice>
+    <Price>16.45</Price>
+    <Code>3136506</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450046811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008053</EanCode>
+    <Weight>760.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 9 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
@@ -26393,6 +26609,24 @@ L 320mm. - Ø22</Name>
     <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 100x300 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi Cilindrici Majoni Serie Hole – Foro Passante per Cima di Ormeggio, Verticale o Orizzontale I parabordi cilindrici Majoni serie Hole con foro passante rappresentano una soluzione di protezione altamente versatile e robusta per la fiancata di qual</Description>
+    <OriginalPrice>14.72</OriginalPrice>
+    <Price>10.74</Price>
+    <Code>3801800</Code>
+    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-hole-foro-passante?variant=52513545879899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misure.webp?v=1776247010</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626111234</EanCode>
+    <Weight>400.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misuremontaggio.webp?v=1776247010</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 150x430 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie Hole – Foro Passante per Cima di Ormeggio, Verticale o Orizzontale I parabordi cilindrici Majoni serie Hole con foro passante rappresentano una soluzione di protezione altamente versatile e robusta per la fiancata di qual</Description>
@@ -26504,6 +26738,25 @@ L 320mm. - Ø22</Name>
     <ParentID>parabordi-cilindrici-majoni-sf-star-fender-blu</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 240x700 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
+    <OriginalPrice>45.09</OriginalPrice>
+    <Price>32.21</Price>
+    <Code>3801103</Code>
+    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52549795643739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8712256002487</EanCode>
+    <Weight>2.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/testaparabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misuremontaggio.webp?v=1776247359</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-cilindrici-majoni-sf-star-fender-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 300x900 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
@@ -26594,7 +26847,7 @@ L 320mm. - Ø22</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
     <OriginalPrice>35.00</OriginalPrice>
-    <Price>23.33</Price>
+    <Price>23.34</Price>
     <Code>33.212.10</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459001691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26627,8 +26880,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF4	 - 20x104 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>63.00</OriginalPrice>
-    <Price>41.98</Price>
+    <OriginalPrice>34.20</OriginalPrice>
+    <Price>22.77</Price>
     <Code>33.212.12</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459067227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26643,8 +26896,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF5 - 26.8x78 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>66.10</OriginalPrice>
-    <Price>44.05</Price>
+    <OriginalPrice>35.80</OriginalPrice>
+    <Price>23.89</Price>
     <Code>33.212.18</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459099995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26659,8 +26912,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF6 - 26.8x107 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>94.00</OriginalPrice>
-    <Price>62.68</Price>
+    <OriginalPrice>51.00</OriginalPrice>
+    <Price>34.00</Price>
     <Code>33.212.13</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459132763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26676,8 +26929,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF7 - 37x100 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>139.00</OriginalPrice>
-    <Price>92.65</Price>
+    <OriginalPrice>30.20</OriginalPrice>
+    <Price>20.10</Price>
     <Code>33.212.14</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459165531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26692,8 +26945,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF8 - 37x144 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>231.60</OriginalPrice>
-    <Price>154.43</Price>
+    <OriginalPrice>50.30</OriginalPrice>
+    <Price>33.51</Price>
     <Code>33.212.15</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459198299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26865,8 +27118,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA1 - Ø 29 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordo Sferico Heavy Duty in PVC – Corpo Bianco Testa Blu per Protezione Fiancate e Boa da Ormeggio Il parabordo sferico Heavy Duty in PVC morbido di alta qualità è la soluzione di protezione superiore per chi non scende a compromessi sulla sicurezza d</Description>
-    <OriginalPrice>32.37</OriginalPrice>
-    <Price>20.23</Price>
+    <OriginalPrice>32.38</OriginalPrice>
+    <Price>20.24</Price>
     <Code>33.300.12</Code>
     <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52513546273115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26919,8 +27172,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA4 - Ø 49 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordo Sferico Heavy Duty in PVC – Corpo Bianco Testa Blu per Protezione Fiancate e Boa da Ormeggio Il parabordo sferico Heavy Duty in PVC morbido di alta qualità è la soluzione di protezione superiore per chi non scende a compromessi sulla sicurezza d</Description>
-    <OriginalPrice>102.93</OriginalPrice>
-    <Price>64.33</Price>
+    <OriginalPrice>111.68</OriginalPrice>
+    <Price>69.80</Price>
     <Code>33.300.78</Code>
     <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52549713035611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -27465,8 +27718,8 @@ L 320mm. - Ø22</Name>
     <Name>Pompa di Sentina Europump II – Sommergibile 12V Certificata RINA - 800 - 51 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>La Pompa di Sentina Europump II è una soluzione ad immersione affidabile e compatta, progettata per garantire la sicurezza a bordo svuotando efficacemente la sentina. Questo modello si distingue per l&apos;elevato standard di sicurezza e conformità normativa. </Description>
-    <OriginalPrice>43.36</OriginalPrice>
-    <Price>30.97</Price>
+    <OriginalPrice>41.29</OriginalPrice>
+    <Price>29.50</Price>
     <Code>16.122.05</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-europump-ii-sommergibile-rina?variant=52525415956827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30233,8 +30486,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtro Carburante per Motori Fuoribordo Honda - 35/90 HP</Name>
     <Brand>Honda</Brand>
     <Description>Il Filtro Carburante per Motori Fuoribordo Honda è un componente di ricambio fondamentale per mantenere in perfetta efficienza il sistema di alimentazione della tua imbarcazione. Progettato per rispettare i severi standard marini, questo filtro assicura c</Description>
-    <OriginalPrice>10.84</OriginalPrice>
-    <Price>6.38</Price>
+    <OriginalPrice>15.40</OriginalPrice>
+    <Price>9.06</Price>
     <Code>17.553.02</Code>
     <Link>https://www.onautica.com/products/filtro-carburante-motori-fuoribordo-honda?variant=52633129451867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30324,8 +30577,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtro Carburante per Motori Fuoribordo Mercury / Mariner / Verado - 9.9-15</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma di Filtri Carburante specifici per motori fuoribordo Mercury, Mariner e Verado . Questi elementi filtranti sono fondamentali per proteggere il sistema di iniezione e i carburatori da acqua e impurità presenti nella benzina, garantendo prestazioni ot</Description>
-    <OriginalPrice>10.26</OriginalPrice>
-    <Price>6.03</Price>
+    <OriginalPrice>10.27</OriginalPrice>
+    <Price>6.04</Price>
     <Code>17.504.57</Code>
     <Link>https://www.onautica.com/products/filtro-carburante-fuoribordo-mercury?variant=52519798571355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -31537,6 +31790,25 @@ L 320mm. - Ø22</Name>
     <ParentID>olio-per-teak-star-brite-protettivo-uv</ParentID>
   </Offer>
   <Offer>
+    <Name>Ombrinale di Scarico Telescopico Ø 50mm – Polipropilene (Con Valvola Opzionale) - Ombrinale Telescopico</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos; Ombrinale di Scarico Telescopico è una soluzione tecnica altamente versatile per la gestione degli scarichi a bordo. Realizzato in Polipropilene Bianco ultraresistente , è progettato per durare nel tempo resistendo all&apos;ambiente marino, ai raggi UV e ag</Description>
+    <OriginalPrice>9.79</OriginalPrice>
+    <Price>7.25</Price>
+    <Code>1425440</Code>
+    <Link>https://www.onautica.com/products/ombrinale-scarico-telescopico-50mm-valvola-non-ritorno?variant=52513444004187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ombrinale-scarico-telescopico-50mm-valvola-non-ritorno.png?v=1771954915</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626038449</EanCode>
+    <Weight>100.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ombrinale-scarico-telescopico-50mm-valvola-non-ritornob.png?v=1771954915</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ombrinale-scarico-telescopico-50mm-solo-valvola-non-ritorno.png?v=1771954915</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ombrinale-scarico-telescopico-50mm-valvola-non-ritorno</ParentID>
+  </Offer>
+  <Offer>
     <Name>Passascafi lunghi Ø 22,7/30 mm. int./est. 100 mm. L con portagomma grigio filettati plastica</Name>
     <Brand>Motomarine</Brand>
     <Description>Passascafo lungo in plastica di colore grigio, dotato di portagomma integrato. Ideale per installazioni su scafo che richiedono una lunghezza maggiore rispetto ai modelli standard, garantisce tenuta e durata nel tempo grazie alla costruzione in materiale </Description>
@@ -31620,6 +31892,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626055767</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>pompa-a-pedale-9-lt-min</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa a pedale BI-FOOT 16 lt/min.
+bocche Ø 14 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La pompa a pedale BI-FOOT è la soluzione ideale per l&apos;alimentazione dei lavelli di bordo. Con doppia azione, garantisce un flusso continuo e costante sia nella fase di discesa che di risalita del pedale, senza interruzioni. Portata: 16 lt/min Diametro boc</Description>
+    <OriginalPrice>77.09</OriginalPrice>
+    <Price>53.91</Price>
+    <Code>1830002</Code>
+    <Link>https://www.onautica.com/products/pompa-a-pedale-bi-foot-16-lt-min-bocche-o-14-mm?variant=52577473200475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_a_pedale_BI-FOOT_16_lt_min.bocche_14_mm..png?v=1773341768</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626055774</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-a-pedale-bi-foot-16-lt-min-bocche-o-14-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa centrifuga 15 lt/min. a immersione bocca Ø 10/12 mm.</Name>
@@ -31734,6 +32023,23 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_3_8_x15_mm._M_inox.png?v=1773341918</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626039835</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>portagomma-maschio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portagomma Maschio Filettato in Acciaio Inox AISI 316 - 3/4&quot;x25</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I Portagomma Maschio in Acciaio Inox sono raccordi idraulici di alta qualità, indispensabili per realizzare connessioni sicure e durature a bordo. Realizzati interamente in Acciaio Inox AISI 316 (microfuso), offrono la massima resistenza alla corrosione m</Description>
+    <OriginalPrice>10.30</OriginalPrice>
+    <Price>6.06</Price>
+    <Code>1438025</Code>
+    <Link>https://www.onautica.com/products/portagomma-maschio-inox-aisi-316?variant=52531512541531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_3_8_x15_mm._M_inox.png?v=1773341918</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626039842</EanCode>
+    <Weight>100.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>portagomma-maschio-inox-aisi-316</ParentID>
   </Offer>
@@ -32450,8 +32756,8 @@ L 320mm. - Ø22</Name>
     <Name>Riduzione Maschio Femmina in Acciaio Inox AISI 316 - 1&quot;1/2x1&quot;1/4</Name>
     <Brand>Osculati</Brand>
     <Description>Raccordo di riduzione in Acciaio Inox , con un lato maschio e uno femmina. Essenziale per collegare linee idrauliche di diametro diverso (riduzione) e resistente alla corrosione di bordo. Materiale Tipologia Acciaio Inox Riduzione Maschio - Femmina (M-F) </Description>
-    <OriginalPrice>10.64</OriginalPrice>
-    <Price>7.60</Price>
+    <OriginalPrice>11.42</OriginalPrice>
+    <Price>8.16</Price>
     <Code>1438807</Code>
     <Link>https://www.onautica.com/products/riduzione-maschio-femmina-in-acciaio-inox-aisi-316?variant=52531457917275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -34127,7 +34433,7 @@ L 320mm. - Ø22</Name>
     <Price>18.26</Price>
     <Code>3020005</Code>
     <Link>https://www.onautica.com/products/offerta-boetta-luminosa-solas-med-vega?variant=52577456980315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Boetta_luminosa_Solas_med_vegav_2.png?v=1773341716</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36469,6 +36775,25 @@ L 320mm. - Ø22</Name>
     <ParentID>sacca-salvagente-ferro-di-cavallo</ParentID>
   </Offer>
   <Offer>
+    <Name>Sacca Porta Salvagente Anulare Bianca in PVC (Ø 680 mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Sacca Porta Salvagente Anulare Bianca (Cod. 3008190) è un accessorio fondamentale per mantenere in perfetto ordine le dotazioni di sicurezza a bordo della tua imbarcazione, proteggendole al contempo dall&apos;usura e dai raggi UV. Realizzata con un robusto </Description>
+    <OriginalPrice>59.70</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>3008190</Code>
+    <Link>https://www.onautica.com/products/sacca-porta-salvagente-anulare-bianca-680mm?variant=52577463828827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmchiuso.webp?v=1774635356</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626196668</EanCode>
+    <Weight>1.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mm.webp?v=1774635356</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-porta-salvagente-anulare-bianca-680mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sacca Porta Salvagente Anulare Blu Navy in PVC (Ø 680 mm)</Name>
     <Brand>Motomarine</Brand>
     <Description>La Sacca Porta Salvagente Anulare Blu Navy (Cod. 3008192) è un accessorio fondamentale per mantenere in perfetto ordine le dotazioni di sicurezza a bordo, proteggendole al contempo dall&apos;usura, dalla salsedine e dai raggi UV. Realizzata con un robusto tess</Description>
@@ -37442,6 +37767,25 @@ L 320mm. - Ø22</Name>
     <Weight>520.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
+    <OriginalPrice>102.56</OriginalPrice>
+    <Price>56.98</Price>
+    <Code>4000150</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685133754</EanCode>
+    <Weight>2.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Serratura (optional)</Name>
@@ -43135,21 +43479,6 @@ L 320mm. - Ø22</Name>
     <Price>5.52</Price>
     <Code>140003030</Code>
     <Link>https://www.onautica.com/products/tubo-armato-rinforzato?variant=52559339520347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tuboarmo.png?v=1773342022</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-armato-rinforzato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tubo Spiralato Armato per Impianti - Ø 35 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tubo flessibile in PVC trasparente con spirale in acciaio per un’eccellente resistenza al collasso e alla piega. Estremamente morbido e maneggevole, consente curve fino a una volta il diametro esterno senza schiacciarsi, garantendo installazioni pulite an</Description>
-    <OriginalPrice>10.02</OriginalPrice>
-    <Price>6.26</Price>
-    <Code>140003530</Code>
-    <Link>https://www.onautica.com/products/tubo-armato-rinforzato?variant=52559339553115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tuboarmo.png?v=1773342022</Image>
