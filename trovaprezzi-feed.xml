@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-29T14:30:56.155Z -->
-<!-- Offerte: 2690 -->
+<!-- Generato: 2026-05-29T18:10:54.481Z -->
+<!-- Offerte: 2696 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -2880,6 +2880,22 @@
     <ParentID>nastro-trazione-nylon-moschettone-arganelli-mano</ParentID>
   </Offer>
   <Offer>
+    <Name>Nastro ad Alta Resistenza con Moschettone per Argani a Mano - 7.5 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di nastri è la soluzione ideale per sostituire i cavi in acciaio sugli arganelli a mano, offrendo maggiore sicurezza e praticità d&apos;uso durante le operazioni di tiro e alaggio. Vantaggi e Sicurezza (Rispetto ai Cavi in Acciaio): Materiale: Rea</Description>
+    <OriginalPrice>21.49</OriginalPrice>
+    <Price>15.35</Price>
+    <Code>02.090.02</Code>
+    <Link>https://www.onautica.com/products/nastro-trazione-nylon-moschettone-arganelli-mano?variant=52543889113435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cinghia_7_5_mt._con_moschettone_per_argani_nylon_fine_mt._7_5_-_carico_rottura_1800_kg._1.png?v=1773341646</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137070112</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>nastro-trazione-nylon-moschettone-arganelli-mano</ParentID>
+  </Offer>
+  <Offer>
     <Name>Nastro ad Alta Resistenza con Moschettone per Argani a Mano - 10 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di nastri è la soluzione ideale per sostituire i cavi in acciaio sugli arganelli a mano, offrendo maggiore sicurezza e praticità d&apos;uso durante le operazioni di tiro e alaggio. Vantaggi e Sicurezza (Rispetto ai Cavi in Acciaio): Materiale: Rea</Description>
@@ -5125,8 +5141,8 @@
     <Name>Terminale rapido a forcella per cavi Ø 4 mm. acciaio inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Terminale Rapido a Forcella in Acciaio Inox AISI 316 Descrizione Prodotto: Questo terminale rapido a forcella è la soluzione più pratica e sicura per creare una connessione articolata all&apos;estremità di un cavo metallico. Progettato per un&apos;installazione imm</Description>
-    <OriginalPrice>22.50</OriginalPrice>
-    <Price>16.07</Price>
+    <OriginalPrice>25.56</OriginalPrice>
+    <Price>18.25</Price>
     <Code>3500504</Code>
     <Link>https://www.onautica.com/products/terminale-rapido-forcella-o-4-mm-inox-cr-1500-kg?variant=52577497514331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -5143,8 +5159,8 @@
     <Name>Terminale rapido a forcella per cavi Ø 6 mm. acciaio inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Terminale Rapido a Forcella in Acciaio Inox AISI 316 Descrizione Prodotto: Questo terminale rapido a forcella è la soluzione più pratica e sicura per creare una connessione articolata all&apos;estremità di un cavo metallico. Progettato per un&apos;installazione imm</Description>
-    <OriginalPrice>39.44</OriginalPrice>
-    <Price>28.17</Price>
+    <OriginalPrice>42.13</OriginalPrice>
+    <Price>30.09</Price>
     <Code>3500506</Code>
     <Link>https://www.onautica.com/products/terminale-rapido-forcella-o-6-mm-inox?variant=52577535951195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -5161,8 +5177,8 @@
     <Name>Terminale rapido a occhio per cavi Ø 8 mm. acciaio inox</Name>
     <Brand>Carcano</Brand>
     <Description>Terminali rapidi in acciaio inox AISI 316 con occhio. Tenuta eccezionale pari al carico di rottura del cavo. Facili da montare, basta inserire il cavo d&apos;acciaio nel terminale e il mandrino lo cattura automaticamente. Adatti per tutti i tipi di cavi in acc</Description>
-    <OriginalPrice>54.45</OriginalPrice>
-    <Price>40.33</Price>
+    <OriginalPrice>58.15</OriginalPrice>
+    <Price>43.08</Price>
     <Code>05.660.80</Code>
     <Link>https://www.onautica.com/products/terminale-rapido-occhio-o-8-mm-inox?variant=52577518846299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -7202,7 +7218,7 @@
     <Price>27.12</Price>
     <Code>65.611.11</Code>
     <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791732571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -7244,24 +7260,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137063015</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-hm-classic-153-matrice-dura</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa HM Classic 153 - Matrice Dura - Protezione Stagionale - Blu / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa HM Classic 153 è una pittura a matrice dura di alta qualità, formulata specificamente per garantire una protezione affidabile durante la stagione estiva. È ideale per imbarcazioni che navigano in aree mediamente aggressive e per scafi ve</Description>
-    <OriginalPrice>83.30</OriginalPrice>
-    <Price>75.77</Price>
-    <Code>65.611.22</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791765339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -9295,7 +9293,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.05</Price>
     <Code>33.171.11BI</Code>
     <Link>https://www.onautica.com/products/gavitello-biconico-polietilene-doppio-anello?variant=51837129949531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Boe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa_gavitello_bicono.png?v=1773341985</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -11798,11 +11796,28 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-nera</ParentID>
   </Offer>
   <Offer>
+    <Name>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm 2,5 m con Occhiello Impiombato - Blu</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm – 2,5 m con Occhiello Impiombato a Mano La cima per parabordi in doppia treccia di poliestere da 12 mm è l&apos;accessorio indispensabile per il fissaggio sicuro e stabile dei parabordi durante le manovr</Description>
+    <OriginalPrice>7.26</OriginalPrice>
+    <Price>5.38</Price>
+    <Code>06.444.62</Code>
+    <Link>https://www.onautica.com/products/cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato?variant=52880730685787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombato.webp?v=1777299351</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137030352</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombatoconfezione.webp?v=1777299351</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm 2,5 m con Occhiello Impiombato - Nero</Name>
     <Brand>Osculati</Brand>
     <Description>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm – 2,5 m con Occhiello Impiombato a Mano La cima per parabordi in doppia treccia di poliestere da 12 mm è l&apos;accessorio indispensabile per il fissaggio sicuro e stabile dei parabordi durante le manovr</Description>
-    <OriginalPrice>7.02</OriginalPrice>
-    <Price>5.20</Price>
+    <OriginalPrice>7.82</OriginalPrice>
+    <Price>5.79</Price>
     <Code>06.444.57</Code>
     <Link>https://www.onautica.com/products/cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato?variant=52880730718555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -12272,7 +12287,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52517249319259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13028,8 +13043,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Grillo a Cetra Nautico in Acciaio Inox AISI 316 - Ø 16 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Grillo a Cetra è un componente di ferramenta nautica indispensabile per collegare in totale sicurezza catene, ancore, cime e manovre di bordo. Realizzato integralmente in Acciaio Inox AISI 316 forgiato , il materiale d&apos;eccellenza per la nautica, garant</Description>
-    <OriginalPrice>16.65</OriginalPrice>
-    <Price>11.89</Price>
+    <OriginalPrice>17.71</OriginalPrice>
+    <Price>12.65</Price>
     <Code>A522B16</Code>
     <Link>https://www.onautica.com/products/grillo-a-cetra-nautico-acciaio-inox-aisi-316?variant=52653883228507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13062,8 +13077,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Grillo diritto acciaio inox AISI 316 per applicazioni nautiche e fissaggi resistenti - Ø 16 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Affidabilità, resistenza e precisione: questo grillo a “D” in acciaio inox è progettato per garantire collegamenti sicuri in ambito nautico, ancoraggio e rigging, offrendo performance costanti anche in ambienti marini aggressivi. Costruzione premium per u</Description>
-    <OriginalPrice>15.63</OriginalPrice>
-    <Price>11.17</Price>
+    <OriginalPrice>16.63</OriginalPrice>
+    <Price>11.88</Price>
     <Code>A521B16</Code>
     <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601336667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13359,6 +13374,20 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.705.00b.png?v=1773341945</Image2>
     <Condition>nuovo</Condition>
     <ParentID>kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Ormeggio Completo – Cima, Parabordi e Copriparabordi - Ø 12 mm. / OF1	- 15x61 cm. / F1 - Ø 14-16 cm.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Tutto quello che serve per ormeggiare la tua barca in sicurezza, in un unico kit. Abbiamo riunito i tre prodotti più richiesti per la banchina — cima da ormeggio, parabordi e copriparabordi — così non devi cercarli uno per uno: scegli misure e colori e ri</Description>
+    <Price>50.91</Price>
+    <Code>10508243829083-53165996114267</Code>
+    <Link>https://www.onautica.com/products/kit-ormeggio-completo-cima-parabordi-e-copriparabordi?variant=53165996114267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-ormeggio-completo-cima-parabordi-copriparabordi.webp?v=1780074533</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-ormeggio-completo-cima-parabordi-e-copriparabordi</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Riparazione Gommoni Sup Tender per PVC con Tessuto - Bianco</Name>
@@ -15248,22 +15277,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>z-pren-2000-0-850-kg</ParentID>
   </Offer>
   <Offer>
-    <Name>Aeratore da coperta a fungo PL - base Ø 150 mm. - collo Ø 100 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Aeratore da coperta a fungo in Plastica con regolazione interna. Caratteristiche principali Base larga Ø 150 mm per un montaggio stabile e una tenuta ottimale sul ponte Collo Ø 100 mm per un flusso d&apos;aria efficiente verso gli ambienti sottostanti Forma a </Description>
-    <OriginalPrice>22.50</OriginalPrice>
-    <Price>16.07</Price>
-    <Code>1703515</Code>
-    <Link>https://www.onautica.com/products/aeratore-da-coperta-a-fungo-pl-base-o-150-mm-collo-o-100-mm-1?variant=52577413562715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_a_fungo_PL_-_base_150_mm._-_collo_100_mm..png?v=1773341612</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626050380</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>aeratore-da-coperta-a-fungo-pl-base-o-150-mm-collo-o-100-mm-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Aeratore da coperta Deck Roca Ø 200 mm. polimero</Name>
     <Brand>Roca</Brand>
     <Description>Aeratore da coperta Roca con chiusura interna. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n materiale → p</Description>
@@ -16297,6 +16310,23 @@ L 320mm. - Ø22</Name>
     <ParentID>giunto-o-25-mm-per-pulpiti-acciaio-inox-aisi-316-da-fusione</ParentID>
   </Offer>
   <Offer>
+    <Name>Grilli inox a scatto Ø 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Grilli inox a scatto in acciaio inox AISI 316 microfusi. Caratteristiche: Ø D 8 mm. A 20 mm. L 64 mm. Caratteristiche principali Acciaio inox AISI 316, ideale per l&apos;ambiente marino grazie all&apos;elevata resistenza alla corrosione Sistema di chiusura a scatto</Description>
+    <OriginalPrice>6.82</OriginalPrice>
+    <Price>5.05</Price>
+    <Code>10022</Code>
+    <Link>https://www.onautica.com/products/grilli-inox-a-scatto-o-8-mm?variant=52577532871003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grilli_inox_a_scatto_8_mm..png?v=1773341961</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137080586</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloscatto.png?v=1773341961</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>grilli-inox-a-scatto-o-8-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Lastrina di Giunzione Angolare HD in Acciaio Inox 316 - 40x40x50 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Lastrina di Giunzione Angolare HD (Heavy Duty) è un componente strutturale di altissima affidabilità, indispensabile per rinforzare, unire e mettere in sicurezza paratie, mobilio e svariati elementi a bordo della tua imbarcazione. Realizzata interament</Description>
@@ -16700,8 +16730,8 @@ L 320mm. - Ø22</Name>
     <Name>Moschettone inox 120 mm. con ghiera AISI 316 A4 apertura larga CERTIFICATO</Name>
     <Brand>Carcano</Brand>
     <Description>Moschettone in acciaio inox a grande apertura in acciaio inox con ghiera AISI 316, aggancio senza appigli. Misura A B C D L Carico di Rottura Peso mm mm mm mm mm mm KN Kg 120 18 15 23 11 125 28 0,22 Caratteristiche principali Certificato: garantisce affid</Description>
-    <OriginalPrice>30.92</OriginalPrice>
-    <Price>22.08</Price>
+    <OriginalPrice>32.88</OriginalPrice>
+    <Price>23.49</Price>
     <Code>A580120</Code>
     <Link>https://www.onautica.com/products/moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga-certificato?variant=52577454031195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -17022,22 +17052,6 @@ L 320mm. - Ø22</Name>
     <ParentID>serratura-h-25-mm-o-19-mm-nottolino-acciaio-cromato</ParentID>
   </Offer>
   <Offer>
-    <Name>Serratura H 30 mm. - Ø 19 mm. nottolino acciaio cromato</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Nottolino a tavella con doppia chiave. Corpo cromato in lega ottonata con tavella in Acciaio cromato. Caratteristiche principali Altezza serratura 30 mm con nottolino da Ø 19 mm per un&apos;installazione precisa e standardizzata Dotata di doppia chiave per mag</Description>
-    <OriginalPrice>12.10</OriginalPrice>
-    <Price>8.64</Price>
-    <Code>10524</Code>
-    <Link>https://www.onautica.com/products/serratura-h-30-mm-o-19-mm-nottolino-acciaio-cromato?variant=52577487094107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Serratura_H_30_mm._-_19_mm._nottolino_acciaio_cromato.png?v=1773341815</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626005601</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>serratura-h-30-mm-o-19-mm-nottolino-acciaio-cromato</ParentID>
-  </Offer>
-  <Offer>
     <Name>Set 5 Lucchetti Hardinox 30mm con Chiave Universale per Nautica – 4 Standard + 1 Long</Name>
     <Brand>Motomarine</Brand>
     <Description>Set 5 Lucchetti Hardinox 30mm con Chiave Universale – 4 Lucchetti Standard + 1 Lucchetto Long in Acciaio Inox per Nautica Il set 5 lucchetti Hardinox 30mm con chiave universale è la soluzione completa e conveniente per chi necessita di proteggere più punt</Description>
@@ -17258,11 +17272,28 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-supporto-portacanne-inox-o-38-mm-ruotabile</ParentID>
   </Offer>
   <Offer>
+    <Name>Tenditore a Due Occhi in Acciaio Inox AISI 316 – Regolazione Rigging - Ø 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Tenditore a due occhi è un componente fondamentale per la regolazione fine e sicura della tensione di cavi, sartie, stralli, draglie e altri elementi di rigging. La nostra gamma di tenditori è progettata per offrire performance professionali, massima a</Description>
+    <OriginalPrice>7.70</OriginalPrice>
+    <Price>5.70</Price>
+    <Code>M8246-4-8A</Code>
+    <Link>https://www.onautica.com/products/tenditore-due-occhi-acciaio-inox-316-nautica?variant=52513577501019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tenditore-nautico-due-occhi-inox-316.png?v=1773341843</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8013429508035</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tenditoreinox.png?v=1773341855</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tenditore-due-occhi-acciaio-inox-316-nautica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tenditore a Due Occhi in Acciaio Inox AISI 316 – Regolazione Rigging - Ø 10 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Tenditore a due occhi è un componente fondamentale per la regolazione fine e sicura della tensione di cavi, sartie, stralli, draglie e altri elementi di rigging. La nostra gamma di tenditori è progettata per offrire performance professionali, massima a</Description>
-    <OriginalPrice>11.62</OriginalPrice>
-    <Price>8.30</Price>
+    <OriginalPrice>14.00</OriginalPrice>
+    <Price>10.00</Price>
     <Code>M8246-4-10A</Code>
     <Link>https://www.onautica.com/products/tenditore-due-occhi-acciaio-inox-316-nautica?variant=52544730726747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -17278,8 +17309,8 @@ L 320mm. - Ø22</Name>
     <Name>Tenditori modulari destro inox T-rapid Ø 8 mm.- cavo Ø 4 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Tenditori modulari destro inox T-rapid Ø 8 mm.- cavo Ø 4 mm. Caratteristiche principali Costruzione in acciaio inox per massima resistenza alla corrosione in ambiente marino Sistema T-rapid per regolazione rapida e senza attrezzi della tensione del cavo F</Description>
-    <OriginalPrice>20.92</OriginalPrice>
-    <Price>14.94</Price>
+    <OriginalPrice>23.76</OriginalPrice>
+    <Price>16.97</Price>
     <Code>10395</Code>
     <Link>https://www.onautica.com/products/tenditori-modulari-destro-inox-t-rapid-o-8-mm-cavo-o-4-mm?variant=52577497088347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -17294,8 +17325,8 @@ L 320mm. - Ø22</Name>
     <Name>Terminale rapido a occhio per cavi Ø 4 mm. acciaio inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Terminale Rapido ad Occhio in Acciaio Inox AISI 316 Descrizione Prodotto: Questo terminale rapido ad occhio rappresenta la soluzione definitiva e più affidabile per creare un&apos;asola (occhio) sicura all&apos;estremità di un cavo metallico, senza la necessità di </Description>
-    <OriginalPrice>16.84</OriginalPrice>
-    <Price>12.03</Price>
+    <OriginalPrice>19.14</OriginalPrice>
+    <Price>13.67</Price>
     <Code>3500404</Code>
     <Link>https://www.onautica.com/products/terminale-rapido-occhio-o-4-mm-inox-cr-1500-kg?variant=52577498038619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -17312,8 +17343,8 @@ L 320mm. - Ø22</Name>
     <Name>Terminale rapido a occhio per cavi Ø 6 mm. acciaio inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Terminale Rapido ad Occhio in Acciaio Inox AISI 316 Descrizione Prodotto: Questo terminale rapido ad occhio rappresenta la soluzione definitiva e più affidabile per creare un&apos;asola (occhio) sicura all&apos;estremità di un cavo metallico, senza la necessità di </Description>
-    <OriginalPrice>32.59</OriginalPrice>
-    <Price>24.14</Price>
+    <OriginalPrice>34.80</OriginalPrice>
+    <Price>25.78</Price>
     <Code>3500406</Code>
     <Link>https://www.onautica.com/products/terminale-rapido-occhio-o-6-mm-inox?variant=52577505214811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -17357,6 +17388,22 @@ L 320mm. - Ø22</Name>
     <EanCode>071247930320</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-additivo-benzina-sb-startron-benzina-946-ml</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Aeratore da coperta a fungo PL - base Ø 150 mm. - collo Ø 100 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Aeratore da coperta a fungo in Plastica con regolazione interna. Caratteristiche principali Base larga Ø 150 mm per un montaggio stabile e una tenuta ottimale sul ponte Collo Ø 100 mm per un flusso d&apos;aria efficiente verso gli ambienti sottostanti Forma a </Description>
+    <OriginalPrice>22.50</OriginalPrice>
+    <Price>16.07</Price>
+    <Code>1703515</Code>
+    <Link>https://www.onautica.com/products/aeratore-da-coperta-a-fungo-pl-base-o-150-mm-collo-o-100-mm-1?variant=52577413562715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_a_fungo_PL_-_base_150_mm._-_collo_100_mm..png?v=1773341612</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626050380</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>aeratore-da-coperta-a-fungo-pl-base-o-150-mm-collo-o-100-mm-1</ParentID>
   </Offer>
   <Offer>
     <Name>Aeratore da coperta Deck Roca Ø 200 mm. inox</Name>
@@ -17789,7 +17836,7 @@ L 320mm. - Ø22</Name>
     <Price>10.05</Price>
     <Code>C0184</Code>
     <Link>https://www.onautica.com/products/crc-6-66-marine-lubrificante-multiuso-spray?variant=52513515733339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino400ml.webp?v=1776183546</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -20905,24 +20952,6 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
   </Offer>
   <Offer>
-    <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814305</Name>
-    <Brand>Mercury</Brand>
-    <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
-    <OriginalPrice>27.45</OriginalPrice>
-    <Price>18.30</Price>
-    <Code>1814305</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777125723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051875</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
-  </Offer>
-  <Offer>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814304</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
@@ -21284,8 +21313,8 @@ L 320mm. - Ø22</Name>
     <Name>Giubbotto di Salvataggio 100N entro 6 Miglia - Oltre 40 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Assicurati la massima tranquillità a bordo con questo giubbotto di salvataggio, progettato per offrire protezione affidabile a tutta la famiglia durante la navigazione costiera. Questo salvagente, con una galleggiabilità di 100 Newton , è omologato second</Description>
-    <OriginalPrice>21.70</OriginalPrice>
-    <Price>11.41</Price>
+    <OriginalPrice>23.10</OriginalPrice>
+    <Price>12.18</Price>
     <Code>3010102</Code>
     <Link>https://www.onautica.com/products/cintura-salvagente-100n?variant=52513528185179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -21302,8 +21331,8 @@ L 320mm. - Ø22</Name>
     <Name>Giubbotto di Salvataggio 100N entro 6 Miglia - 15&lt;&gt;40 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Assicurati la massima tranquillità a bordo con questo giubbotto di salvataggio, progettato per offrire protezione affidabile a tutta la famiglia durante la navigazione costiera. Questo salvagente, con una galleggiabilità di 100 Newton , è omologato second</Description>
-    <OriginalPrice>24.80</OriginalPrice>
-    <Price>13.04</Price>
+    <OriginalPrice>26.50</OriginalPrice>
+    <Price>13.93</Price>
     <Code>3010101</Code>
     <Link>https://www.onautica.com/products/cintura-salvagente-100n?variant=52530111086939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21337,8 +21366,8 @@ L 320mm. - Ø22</Name>
     <Name>Giubbotto di Salvataggio 150N oltre 6 miglia - 20&lt;&gt;50 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
-    <OriginalPrice>37.50</OriginalPrice>
-    <Price>19.76</Price>
+    <OriginalPrice>40.10</OriginalPrice>
+    <Price>21.11</Price>
     <Code>3010201</Code>
     <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52530109907291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -22681,6 +22710,22 @@ L 320mm. - Ø22</Name>
     <ParentID>morsetto-per-tubo-per-faro-2121014-2121016</ParentID>
   </Offer>
   <Offer>
+    <Name>Moschettone Acciaio Inox a Pistone AISI 316 - 80x12 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Robusto moschettone in acciaio inox A4 con chiusura a pistone, ideale per applicazioni nautiche e outdoor che richiedono massima affidabilità contro corrosione e usura. Progettato per un’azione fluida e sicura, offre innesto rapido, blocco stabile e lunga</Description>
+    <OriginalPrice>6.97</OriginalPrice>
+    <Price>5.16</Price>
+    <Code>M8303-4-76</Code>
+    <Link>https://www.onautica.com/products/moschettone-acciaio-inox-a-pistone-aisi-316?variant=52545662812507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/moschettoneinoxapistone.png?v=1762861061</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051015131724</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-acciaio-inox-a-pistone-aisi-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Nastro Adesivo in PVC Espanso Nero per Oblò e Passauomo 3 mt. - 3x19 mm. - 3 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo nastro adesivo in PVC espanso è un componente essenziale, studiato per ripristinare o creare una sigillatura stagna su tutte le aperture della tua imbarcazione, come oblò, passauomo e finestrini. Grazie al suo materiale in PVC espanso nero , garant</Description>
@@ -23955,11 +24000,28 @@ L 320mm. - Ø22</Name>
     <ParentID>portacanne-orientabile-inox-morsetto</ParentID>
   </Offer>
   <Offer>
+    <Name>Tenditori a Due Forcelle Fisse in Acciaio Inox AISI 316 - Ø 6 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di tenditori a due forcelle fisse rappresenta un componente essenziale per il sartiame, le draglie, i pulpiti e qualsiasi applicazione nautica che richieda una regolazione precisa della tensione unita a una connessione estremamente robusta. C</Description>
+    <OriginalPrice>6.79</OriginalPrice>
+    <Price>5.03</Price>
+    <Code>3500006</Code>
+    <Link>https://www.onautica.com/products/tenditori-nautici-due-forcelle-fisse-inox-316?variant=52544721289563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tenditore-nautico-due-forcelle-inox-316.png?v=1773341844</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626101631</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tenditore_in_Acciaio_Inox_AISI_316_con_Due_Forcelle_Fisse.png?v=1764003548</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tenditori-nautici-due-forcelle-fisse-inox-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tenditori a Due Forcelle Fisse in Acciaio Inox AISI 316 - Ø 8 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di tenditori a due forcelle fisse rappresenta un componente essenziale per il sartiame, le draglie, i pulpiti e qualsiasi applicazione nautica che richieda una regolazione precisa della tensione unita a una connessione estremamente robusta. C</Description>
-    <OriginalPrice>8.89</OriginalPrice>
-    <Price>6.35</Price>
+    <OriginalPrice>10.70</OriginalPrice>
+    <Price>7.64</Price>
     <Code>3500008</Code>
     <Link>https://www.onautica.com/products/tenditori-nautici-due-forcelle-fisse-inox-316?variant=52544721322331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -23975,8 +24037,8 @@ L 320mm. - Ø22</Name>
     <Name>Tenditori a Due Forcelle Fisse in Acciaio Inox AISI 316 - Ø 10 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di tenditori a due forcelle fisse rappresenta un componente essenziale per il sartiame, le draglie, i pulpiti e qualsiasi applicazione nautica che richieda una regolazione precisa della tensione unita a una connessione estremamente robusta. C</Description>
-    <OriginalPrice>14.53</OriginalPrice>
-    <Price>10.38</Price>
+    <OriginalPrice>17.50</OriginalPrice>
+    <Price>12.50</Price>
     <Code>3500010</Code>
     <Link>https://www.onautica.com/products/tenditori-nautici-due-forcelle-fisse-inox-316?variant=52544721355099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -23992,8 +24054,8 @@ L 320mm. - Ø22</Name>
     <Name>Tenditori a Due Forcelle Fisse in Acciaio Inox AISI 316 - Ø 12 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di tenditori a due forcelle fisse rappresenta un componente essenziale per il sartiame, le draglie, i pulpiti e qualsiasi applicazione nautica che richieda una regolazione precisa della tensione unita a una connessione estremamente robusta. C</Description>
-    <OriginalPrice>24.43</OriginalPrice>
-    <Price>17.45</Price>
+    <OriginalPrice>27.75</OriginalPrice>
+    <Price>19.82</Price>
     <Code>3500012</Code>
     <Link>https://www.onautica.com/products/tenditori-nautici-due-forcelle-fisse-inox-316?variant=52544721387867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -24009,8 +24071,8 @@ L 320mm. - Ø22</Name>
     <Name>Tenditori a Due Forcelle Fisse in Acciaio Inox AISI 316 - Ø 16 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di tenditori a due forcelle fisse rappresenta un componente essenziale per il sartiame, le draglie, i pulpiti e qualsiasi applicazione nautica che richieda una regolazione precisa della tensione unita a una connessione estremamente robusta. C</Description>
-    <OriginalPrice>42.88</OriginalPrice>
-    <Price>31.76</Price>
+    <OriginalPrice>45.80</OriginalPrice>
+    <Price>33.92</Price>
     <Code>07.197.16</Code>
     <Link>https://www.onautica.com/products/tenditori-nautici-due-forcelle-fisse-inox-316?variant=52513577566555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -24026,8 +24088,8 @@ L 320mm. - Ø22</Name>
     <Name>Tenditori modulari destro inox T-rapid Ø 6 mm.- cavo Ø 3 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Tenditori modulari MTM in Acciaio Inox AISI 316. I componenti del tenditore vanno acquistati separatamente per comporre la combinazione desiderata. L = Sn (Filettatura Sinistra) R = Ds (Filettatura Destra) Caratteristiche principali Filettatura destra (Ds</Description>
-    <OriginalPrice>19.19</OriginalPrice>
-    <Price>13.71</Price>
+    <OriginalPrice>20.28</OriginalPrice>
+    <Price>14.49</Price>
     <Code>3500823</Code>
     <Link>https://www.onautica.com/products/tenditori-modulari-destro-inox-t-rapid-o-6-mm-cavo-o-3-mm?variant=49393548591451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -25969,23 +26031,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/schemautilizzomezzo-marinaio-telescopico-easy-alluminio.png?v=1765216597</Image2>
     <Condition>nuovo</Condition>
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Mezzomarinaro Telescopico in Alluminio Anodizzato 60-100 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Mezzomarinaro Telescopico è uno strumento indispensabile per le manovre d&apos;ormeggio e d&apos;accosto, progettato per offrire massima praticità e ingombro ridotto. Caratterizzato da una struttura in alluminio anodizzato di alta qualità, questo gancio d&apos;accost</Description>
-    <Price>15.95</Price>
-    <Code>34.459.02</Code>
-    <Link>https://www.onautica.com/products/mezzomarinaro-telescopico-alluminio-60-100cm?variant=52577366573403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cmtesta.webp?v=1775578861</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137016219</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cmmanico.webp?v=1775578861</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cm.webp?v=1775578861</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>mezzomarinaro-telescopico-alluminio-60-100cm</ParentID>
   </Offer>
   <Offer>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 5 mm.</Name>
@@ -28233,24 +28278,6 @@ L 320mm. - Ø22</Name>
     <Weight>0.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pulitore-acciaio-cfg-750-ml</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pulitore e Smacchiatore Osculati Teak One – Step 1 (Sgrassante) - 1 litro</Name>
-    <Brand>Osculati</Brand>
-    <Description>Osculati Teak One è il pulitore e smacchiatore professionale formulato per la pulizia a fondo delle superfici in teak. Rappresenta il Primo Step fondamentale per il ciclo di restauro e manutenzione del legno a bordo. La sua azione energica è specifica per</Description>
-    <OriginalPrice>12.76</OriginalPrice>
-    <Price>9.11</Price>
-    <Code>65.742.00</Code>
-    <Link>https://www.onautica.com/products/pulitore-smacchiatore-teak-one-osculati?variant=52513554137435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trattamento-teak-osculati-one-pulitore-rigenerante.webp?v=1770916031</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137019678</EanCode>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trattamento-teak-osculati-one-pulitore-rigenerante5lt.webp?v=1770916031</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pulitore-smacchiatore-teak-one-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Pulitore Parabordi Professionale CFG 750 ml.</Name>
@@ -30592,24 +30619,6 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
   </Offer>
   <Offer>
-    <Name>Filtro Carburante per Motori Fuoribordo Mercury / Mariner / Verado - 30/40 EFI 4</Name>
-    <Brand>Mercury</Brand>
-    <Description>Gamma di Filtri Carburante specifici per motori fuoribordo Mercury, Mariner e Verado . Questi elementi filtranti sono fondamentali per proteggere il sistema di iniezione e i carburatori da acqua e impurità presenti nella benzina, garantendo prestazioni ot</Description>
-    <OriginalPrice>15.40</OriginalPrice>
-    <Price>9.06</Price>
-    <Code>17.504.50</Code>
-    <Link>https://www.onautica.com/products/filtro-carburante-fuoribordo-mercury?variant=52519798604123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-879885Q-T.png?v=1768328573</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137230042</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-8M0122423_35-8M0020349_35-884380T.png?v=1768328574</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-80365M_646-24251-02-00.png?v=1768328574</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
-  </Offer>
-  <Offer>
     <Name>Filtro Carburante per Motori Fuoribordo Suzuki (4 Tempi) - 70-200 HP - 15412-92J00</Name>
     <Brand>Suzuki</Brand>
     <Description>Elementi filtranti per il carburante specifici per motori fuoribordo Suzuki Marine 4 Tempi (Serie DF) . Questi filtri sono essenziali per trattenere le impurità presenti nel serbatoio e garantire che al motore arrivi solo benzina pulita, preservando il si</Description>
@@ -31632,24 +31641,6 @@ L 320mm. - Ø22</Name>
     <ParentID>miscelatore-elka-lavello-doccetta-estraibile-shut-off</ParentID>
   </Offer>
   <Offer>
-    <Name>Musone di Prua a Bascula in Acciaio Inox AISI 316 con Spina di Sicurezza</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Musone a Ribalta con Spina di Sicurezza è un componente di prua indispensabile per una gestione fluida e sicura dell&apos;ancoraggio. Realizzato interamente in Acciaio Inox AISI 316 , offre una protezione totale contro la corrosione marina, garantendo una b</Description>
-    <OriginalPrice>109.43</OriginalPrice>
-    <Price>75.47</Price>
-    <Code>1140233</Code>
-    <Link>https://www.onautica.com/products/musone-prua-basculante-inox-316-spina-sicurezza?variant=52577461174619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezza.webp?v=1775574598</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626007360</EanCode>
-    <Weight>1.65</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezzaschema.webp?v=1775574596</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>musone-prua-basculante-inox-316-spina-sicurezza</ParentID>
-  </Offer>
-  <Offer>
     <Name>Nipple Maschio-Maschio in Acciaio Inox AISI 316 - 1&quot;</Name>
     <Brand>Motomarine</Brand>
     <Description>Nipple a doppia filettatura maschio (M-M) in Acciaio Inox . Essenziale per giunzioni dirette e resistente alla corrosione di bordo. Materiale Tipologia Acciaio Inox Nipple Maschio - Maschio (M-M) Caratteristiche principali Acciaio Inox AISI 316, la lega p</Description>
@@ -32427,6 +32418,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>protettivo-teak-hydro-color-cera-acqua</ParentID>
   </Offer>
   <Offer>
+    <Name>Pulitore e Smacchiatore Osculati Teak One – Step 1 (Sgrassante) - 1 litro</Name>
+    <Brand>Osculati</Brand>
+    <Description>Osculati Teak One è il pulitore e smacchiatore professionale formulato per la pulizia a fondo delle superfici in teak. Rappresenta il Primo Step fondamentale per il ciclo di restauro e manutenzione del legno a bordo. La sua azione energica è specifica per</Description>
+    <OriginalPrice>12.76</OriginalPrice>
+    <Price>9.11</Price>
+    <Code>65.742.00</Code>
+    <Link>https://www.onautica.com/products/pulitore-smacchiatore-teak-one-osculati?variant=52513554137435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trattamento-teak-osculati-one-pulitore-rigenerante.webp?v=1770916031</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137019678</EanCode>
+    <Weight>1.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trattamento-teak-osculati-one-pulitore-rigenerante5lt.webp?v=1770916031</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pulitore-smacchiatore-teak-one-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pulitore Teak Concentrato / Trigger 750 ml - Rimuove Oli e Macchie</Name>
     <Brand>CFG</Brand>
     <Description>Il Pulitore Teak in formato Trigger 750 ML è una formula speciale concepita per il lavaggio profondo e il ripristino del teak in coperta. Potente Azione Ristrutturante: Questo pulitore è particolarmente indicato quando sia necessaria una azione molto ener</Description>
@@ -32887,8 +32896,8 @@ bocche Ø 14 mm.</Name>
     <Name>Rubinetto Intermedio a Leva a Scatto Serie KP per Tubo da 12 mm per Impianti Idrici</Name>
     <Brand>Osculati</Brand>
     <Description>Rubinetto Intermedio a Leva Serie KP – Raccordo Rapido a Scatto per Tubo da 12 mm in Polietilene Semirigido Il rubinetto intermedio a leva serie KP a scatto per tubo da 12 mm è la soluzione ideale per intercettare e regolare il flusso dell&apos;acqua negli imp</Description>
-    <OriginalPrice>8.20</OriginalPrice>
-    <Price>5.88</Price>
+    <OriginalPrice>9.90</OriginalPrice>
+    <Price>6.63</Price>
     <Code>17.111.19</Code>
     <Link>https://www.onautica.com/products/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm?variant=52814396555611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -32916,40 +32925,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rubinetto_uno_built-in_8.png?v=1773341803</Image3>
     <Condition>nuovo</Condition>
     <ParentID>rubinetto-uno-built-in</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Dimensioni precise: lunghezza 49 mm, diametro 61 mm, foro da 13 mm per un montaggio esatto Ricambio originale compatibile con salpa ancore elettrici e musoni di prua </Description>
-    <OriginalPrice>12.25</OriginalPrice>
-    <Price>8.75</Price>
-    <Code>01.519.02</Code>
-    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia?variant=52577484407131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_61_mm._-_foro_13_mm._puleggia.png?v=1773341805</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137003691</EanCode>
-    <Weight>50.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Rullo di ricambio specifico per salpa ancore elettrici e musoni di prua Dimensioni precise per una sostituzione diretta senza modifiche Foro centrale da Ø 13 mm per u</Description>
-    <OriginalPrice>19.81</OriginalPrice>
-    <Price>14.15</Price>
-    <Code>01.519.01</Code>
-    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia?variant=52577484767579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_86_mm._-_foro_13_mm._puleggia.png?v=1773341806</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137003684</EanCode>
-    <Weight>50.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia</ParentID>
   </Offer>
   <Offer>
     <Name>Sacca per alloggiamento tubo doccia</Name>
@@ -36268,6 +36243,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-monoleva-comando-b90-nero-con-blocco-ultraflex</ParentID>
   </Offer>
   <Offer>
+    <Name>Musone di Prua a Bascula in Acciaio Inox AISI 316 con Spina di Sicurezza</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Musone a Ribalta con Spina di Sicurezza è un componente di prua indispensabile per una gestione fluida e sicura dell&apos;ancoraggio. Realizzato interamente in Acciaio Inox AISI 316 , offre una protezione totale contro la corrosione marina, garantendo una b</Description>
+    <OriginalPrice>109.43</OriginalPrice>
+    <Price>75.47</Price>
+    <Code>1140233</Code>
+    <Link>https://www.onautica.com/products/musone-prua-basculante-inox-316-spina-sicurezza?variant=52577461174619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezza.webp?v=1775574598</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626007360</EanCode>
+    <Weight>1.65</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezzaschema.webp?v=1775574596</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>musone-prua-basculante-inox-316-spina-sicurezza</ParentID>
+  </Offer>
+  <Offer>
     <Name>Musone di Prua Basculante Classic in Acciaio Inox 316 - L280 x W80 - max 10 Kg.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Musone di Prua Basculante Classic è un accessorio di ancoraggio fondamentale per facilitare e rendere sicure le operazioni di cala e recupero dell&apos;ancora a bordo. Costruito con una robusta struttura nervata interamente in Acciaio Inox AISI 316 , offre </Description>
@@ -36641,6 +36634,40 @@ bocche Ø 14 mm.</Name>
     <ParentID>rullo-ricambio-l-42-mm-o-60-mm-foro-o-11-mm-puleggia</ParentID>
   </Offer>
   <Offer>
+    <Name>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Dimensioni precise: lunghezza 49 mm, diametro 61 mm, foro da 13 mm per un montaggio esatto Ricambio originale compatibile con salpa ancore elettrici e musoni di prua </Description>
+    <OriginalPrice>12.25</OriginalPrice>
+    <Price>8.75</Price>
+    <Code>01.519.02</Code>
+    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia?variant=52577484407131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_61_mm._-_foro_13_mm._puleggia.png?v=1773341805</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137003691</EanCode>
+    <Weight>50.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Rullo di ricambio specifico per salpa ancore elettrici e musoni di prua Dimensioni precise per una sostituzione diretta senza modifiche Foro centrale da Ø 13 mm per u</Description>
+    <OriginalPrice>19.81</OriginalPrice>
+    <Price>14.15</Price>
+    <Code>01.519.01</Code>
+    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia?variant=52577484767579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_86_mm._-_foro_13_mm._puleggia.png?v=1773341806</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137003684</EanCode>
+    <Weight>50.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia</ParentID>
+  </Offer>
+  <Offer>
     <Name>Rullo ricambio - L 50 mm. - Ø 56 mm. - foro Ø 11 mm. puleggia</Name>
     <Brand>Motomarine</Brand>
     <Description>Pulegge di ricambio in Plastica. 56 mm. Rullo di ricambio in plastica con diametro da 56 mm, foro da 11 mm e larghezza 50 mm, pensato per il ripristino delle pulegge dei salpa ancore elettrici e dei musoni di prua. A chi è rivolto Ideale per armatori e ap</Description>
@@ -36839,7 +36866,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.88</Price>
     <Code>3009093</Code>
     <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -37557,6 +37584,25 @@ bocche Ø 14 mm.</Name>
     <ParentID>serbatoio-acqua-potabile-rettangolare-polietilene</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
+    <Brand>Osculati</Brand>
+    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
+    <OriginalPrice>136.07</OriginalPrice>
+    <Price>93.84</Price>
+    <Code>52.033.01</Code>
+    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627493211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.01.png?v=1767117332</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965095525</EanCode>
+    <Weight>5.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 55 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
@@ -37735,23 +37781,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>kit-4-staffe-fissaggio-serbatoio</ParentID>
   </Offer>
   <Offer>
-    <Name>Serratura per portello Osculati</Name>
-    <Brand>CAN</Brand>
-    <Description>In ABS bianco. Coperchio completamente carenato, nasconde totalmente il telaio. La paratia frontale é ad incastro, pertanto la tasca può essere montata con apertura verso l’alto oppure verso il basso. Caratteristiche principali Design pulito e integrato g</Description>
-    <OriginalPrice>9.65</OriginalPrice>
-    <Price>6.89</Price>
-    <Code>20.093.00</Code>
-    <Link>https://www.onautica.com/products/serratura-per-portello-osculati?variant=52577487421787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Serratura_per_portello_Osculati.png?v=1773341815</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137020339</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/20.093.00.png?v=1773341817</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>serratura-per-portello-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Specchietto retrovisore 100x300 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Specchietto retrovisore con carcassa in nylon , specchio in vetro e supporto in zama cromato orientabile e adattabile sia a cruscotto che a parabrezza. Modello super panoramico. mm Ø fori mm 100x300 5 Caratteristiche principali Visuale super panoramica gr</Description>
@@ -37767,43 +37796,6 @@ bocche Ø 14 mm.</Name>
     <Weight>520.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
-    <OriginalPrice>102.56</OriginalPrice>
-    <Price>56.98</Price>
-    <Code>4000150</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685133754</EanCode>
-    <Weight>2.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Serratura (optional)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
-    <OriginalPrice>15.72</OriginalPrice>
-    <Price>11.23</Price>
-    <Code>0343300</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52519930888539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685134379</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Stand Up Paddle JOBE Mira 10.0 Package SUP</Name>
@@ -41310,6 +41302,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>sender-velocita-pitot</ParentID>
   </Offer>
   <Offer>
+    <Name>Serratura per portello Osculati</Name>
+    <Brand>CAN</Brand>
+    <Description>In ABS bianco. Coperchio completamente carenato, nasconde totalmente il telaio. La paratia frontale é ad incastro, pertanto la tasca può essere montata con apertura verso l’alto oppure verso il basso. Caratteristiche principali Design pulito e integrato g</Description>
+    <OriginalPrice>9.65</OriginalPrice>
+    <Price>6.89</Price>
+    <Code>20.093.00</Code>
+    <Link>https://www.onautica.com/products/serratura-per-portello-osculati?variant=52577487421787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Serratura_per_portello_Osculati.png?v=1773341815</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137020339</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/20.093.00.png?v=1773341817</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>serratura-per-portello-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>SERVIZIO 24 POSATE ACCIAIO INOX 18/10</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo servizio di posate è l&apos;ideale per l&apos;utilizzo a bordo o in ambienti che richiedono articoli resistenti, durevoli e di alta qualità. Caratteristiche Principali: Materiale: Realizzato in Acciaio Inossidabile 18/10 , noto per la sua eccellente resisten</Description>
@@ -41455,22 +41464,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626050625</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>sfiato-o-16-mm-dritto-oc-h-68-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Lucido</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>21.00</OriginalPrice>
-    <Price>10.52</Price>
-    <Code>ECO010/375BCO</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025441115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627253524</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
   </Offer>
   <Offer>
     <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Lucido</Name>
@@ -41892,6 +41885,43 @@ bocche Ø 14 mm.</Name>
     <ParentID>spazzole-roca-extraflex-in-acciaio-brunito-l-455-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
+    <OriginalPrice>102.56</OriginalPrice>
+    <Price>56.98</Price>
+    <Code>4000150</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685133754</EanCode>
+    <Weight>2.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Serratura (optional)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
+    <OriginalPrice>15.72</OriginalPrice>
+    <Price>11.23</Price>
+    <Code>0343300</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52519930888539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685134379</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Sportello</Name>
     <Brand>CAN</Brand>
     <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
@@ -41943,73 +41973,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stereo-marino-boss-mgr250b-bluetooth_resistente_acqua.png?v=1773341924</Image2>
     <Condition>nuovo</Condition>
     <ParentID>stereo-marino-boss-mgr250b-bluetooth</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Stopper Antal Cam 611 Triplo – Per Cime 6-11 mm</Name>
-    <Brand>Antal</Brand>
-    <Description>Lo Stopper Antal Cam 611 Triplo è la soluzione compatta e definitiva per centralizzare le manovre sulla tuga, consentendo la gestione ordinata di tre linee separate (es. drizza randa, drizza fiocco e amantiglio o borosa) in un unico corpo. Questo modello </Description>
-    <OriginalPrice>345.45</OriginalPrice>
-    <Price>255.89</Price>
-    <Code>3703030</Code>
-    <Link>https://www.onautica.com/products/stopper-antal-cam-611-triplo?variant=52577537294683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-triplo.png?v=1773341976</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033626107947</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>stopper-antal-cam-611-triplo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strozzascotta fibra di carbonio/lega leggera per scotte Ø 3&lt;&gt;8 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Questo strozzascotte di alta gamma è la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise e</Description>
-    <OriginalPrice>24.40</OriginalPrice>
-    <Price>15.25</Price>
-    <Code>VIA25.50</Code>
-    <Link>https://www.onautica.com/products/strozzascotta-fibra-di-carbonio-lega-leggera-o-3-8-mm?variant=52577537229147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzascotte.png?v=1773341975</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137165603</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>strozzascotta-fibra-di-carbonio-lega-leggera-o-3-8-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strozzatore a Camme LEWMAR per Cime 2-8 mm - Strozzatore</Name>
-    <Brand>Lewmar</Brand>
-    <Description>Lo Strozzatore a Camme LEWMAR è un componente di alta gamma per l&apos;attrezzatura di coperta della tua barca a vela, specificamente progettato per garantire un bloccaggio rapido e sicuro di scotte e drizze. Questa specifica versione è ottimizzata per la gest</Description>
-    <OriginalPrice>40.60</OriginalPrice>
-    <Price>32.46</Price>
-    <Code>68.610.27</Code>
-    <Link>https://www.onautica.com/products/strozzatore-camme-lewmar-cime-2-8mm?variant=52733126705499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mm.webp?v=1775146427</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>743683203923</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mmgabbia.webp?v=1775146427</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>strozzatore-camme-lewmar-cime-2-8mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strozzatore a Camme LEWMAR per Cime 2-8 mm - Gabbia</Name>
-    <Brand>Lewmar</Brand>
-    <Description>Lo Strozzatore a Camme LEWMAR è un componente di alta gamma per l&apos;attrezzatura di coperta della tua barca a vela, specificamente progettato per garantire un bloccaggio rapido e sicuro di scotte e drizze. Questa specifica versione è ottimizzata per la gest</Description>
-    <OriginalPrice>12.40</OriginalPrice>
-    <Price>9.94</Price>
-    <Code>68.610.04</Code>
-    <Link>https://www.onautica.com/products/strozzatore-camme-lewmar-cime-2-8mm?variant=52733126738267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mmgabbia.webp?v=1775146427</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>743683228773</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mm.webp?v=1775146427</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>strozzatore-camme-lewmar-cime-2-8mm</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzatore a Camme LEWMAR per Cime 4-12 mm - Strozzatore</Name>
@@ -43927,6 +43890,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-johnson</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 81/83</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710056</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151277403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120387</EanCode>
+    <Weight>500.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue 69/82</Name>
     <Brand>TKline Professional</Brand>
     <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
@@ -44117,6 +44097,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710098</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52513582383451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120783</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
     <Brand>TKline Professional</Brand>
     <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
@@ -44129,6 +44125,22 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626151216</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Marine Blue 84</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710051</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52517133025627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151223</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
   </Offer>
@@ -44714,6 +44726,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>manovella-antal-single-grip-200mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Moschettone Spi Sgancio Rapido Inox 316 – 74mm con Grillo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Moschettone Spi con Grillo Girevole (74 mm) è un accessorio tecnico di alta gamma, progettato per garantire manovre rapide e sicure su imbarcazioni a vela performanti. Costruito interamente in Acciaio Inox AISI 316 (microfusione), offre la massima resi</Description>
+    <OriginalPrice>8.30</OriginalPrice>
+    <Price>5.16</Price>
+    <Code>0222770</Code>
+    <Link>https://www.onautica.com/products/moschettone-spi-inox-316-grillo-74mm?variant=52577404649819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/moschettone-spi-inox-316-grillo.png?v=1773341591</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/moschettone-spi-inox-316-grillo-misura.png?v=1773341592</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-spi-inox-316-grillo-74mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Pavimento Nautico Lario (Variante 290 Azzurro) è un rivestimento tecnico in PVC di alta qualità, progettato per coniugare estetica e massima funzionalità a bordo. Questo modello si distingue per il suo caratteristico disegno a &quot;effetto bouclé&quot; , che co</Description>
@@ -44921,6 +44949,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>stopper-antal-cam-611-singolo</ParentID>
   </Offer>
   <Offer>
+    <Name>Stopper Antal Cam 611 Triplo – Per Cime 6-11 mm</Name>
+    <Brand>Antal</Brand>
+    <Description>Lo Stopper Antal Cam 611 Triplo è la soluzione compatta e definitiva per centralizzare le manovre sulla tuga, consentendo la gestione ordinata di tre linee separate (es. drizza randa, drizza fiocco e amantiglio o borosa) in un unico corpo. Questo modello </Description>
+    <OriginalPrice>345.45</OriginalPrice>
+    <Price>255.89</Price>
+    <Code>3703030</Code>
+    <Link>https://www.onautica.com/products/stopper-antal-cam-611-triplo?variant=52577537294683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-triplo.png?v=1773341976</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033626107947</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>stopper-antal-cam-611-triplo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Strozzascotta fibra di carbonio per scotte Ø 3&lt;&gt;8 mm.</Name>
     <Brand>Viadana</Brand>
     <Description>Questo strozzascotte di alta gamma è la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise e</Description>
@@ -44935,6 +44980,22 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137165597</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>strozzascotta-fibra-di-carbonio-o-3-8-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strozzascotta fibra di carbonio/lega leggera per scotte Ø 3&lt;&gt;8 mm.</Name>
+    <Brand>Viadana</Brand>
+    <Description>Questo strozzascotte di alta gamma è la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise e</Description>
+    <OriginalPrice>24.40</OriginalPrice>
+    <Price>15.25</Price>
+    <Code>VIA25.50</Code>
+    <Link>https://www.onautica.com/products/strozzascotta-fibra-di-carbonio-lega-leggera-o-3-8-mm?variant=52577537229147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzascotte.png?v=1773341975</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137165603</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>strozzascotta-fibra-di-carbonio-lega-leggera-o-3-8-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzascotte Clamcleat Ø 3&lt;&gt;6 mm. CL211MK1 alluminio</Name>
@@ -45089,6 +45150,40 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basette-delrin-strozzascotte.png?v=1770045290</Image3>
     <Condition>nuovo</Condition>
     <ParentID>strozzascotte-carbonio-sistema-modulare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strozzatore a Camme LEWMAR per Cime 2-8 mm - Strozzatore</Name>
+    <Brand>Lewmar</Brand>
+    <Description>Lo Strozzatore a Camme LEWMAR è un componente di alta gamma per l&apos;attrezzatura di coperta della tua barca a vela, specificamente progettato per garantire un bloccaggio rapido e sicuro di scotte e drizze. Questa specifica versione è ottimizzata per la gest</Description>
+    <OriginalPrice>40.60</OriginalPrice>
+    <Price>32.46</Price>
+    <Code>68.610.27</Code>
+    <Link>https://www.onautica.com/products/strozzatore-camme-lewmar-cime-2-8mm?variant=52733126705499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mm.webp?v=1775146427</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>743683203923</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mmgabbia.webp?v=1775146427</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>strozzatore-camme-lewmar-cime-2-8mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strozzatore a Camme LEWMAR per Cime 2-8 mm - Gabbia</Name>
+    <Brand>Lewmar</Brand>
+    <Description>Lo Strozzatore a Camme LEWMAR è un componente di alta gamma per l&apos;attrezzatura di coperta della tua barca a vela, specificamente progettato per garantire un bloccaggio rapido e sicuro di scotte e drizze. Questa specifica versione è ottimizzata per la gest</Description>
+    <OriginalPrice>12.40</OriginalPrice>
+    <Price>9.94</Price>
+    <Code>68.610.04</Code>
+    <Link>https://www.onautica.com/products/strozzatore-camme-lewmar-cime-2-8mm?variant=52733126738267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mmgabbia.webp?v=1775146427</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>743683228773</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-2-8mm.webp?v=1775146427</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>strozzatore-camme-lewmar-cime-2-8mm</ParentID>
   </Offer>
   <Offer>
     <Name>Tasca Manovella Winch NAVISHELL - Organizer Idrorepellente con Fissaggio Doppio - Blue Navy</Name>
