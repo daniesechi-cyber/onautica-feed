@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-28T18:11:07.118Z -->
-<!-- Offerte: 2673 -->
+<!-- Generato: 2026-05-29T10:31:31.692Z -->
+<!-- Offerte: 2671 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -138,22 +138,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo HALL compatta - 2</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora Hall è una delle ancore più tradizionali e diffuse nel diporto, nota per la sua versatilità e affidabilità su una vasta gamma di fondali marini. Questa versione classica è realizzata in robusto acciaio e protetta da un trattamento di zincatura a </Description>
-    <OriginalPrice>17.45</OriginalPrice>
-    <Price>13.44</Price>
-    <Code>9851</Code>
-    <Link>https://www.onautica.com/products/ancora-zincata-tipo-hall-compatta?variant=52558791967067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_HALL_compatta_kg._8.png?v=1773341613</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Hall.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-zincata-tipo-hall-compatta</ParentID>
   </Offer>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo HALL compatta - 2.5</Name>
@@ -2873,22 +2857,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cinghia_7_5_mt._con_moschettone_per_argani_nylon_fine_mt._7_5_-_carico_rottura_1800_kg._1.png?v=1773341646</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137070105</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>nastro-trazione-nylon-moschettone-arganelli-mano</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Nastro ad Alta Resistenza con Moschettone per Argani a Mano - 7.5 metri</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di nastri è la soluzione ideale per sostituire i cavi in acciaio sugli arganelli a mano, offrendo maggiore sicurezza e praticità d&apos;uso durante le operazioni di tiro e alaggio. Vantaggi e Sicurezza (Rispetto ai Cavi in Acciaio): Materiale: Rea</Description>
-    <OriginalPrice>21.49</OriginalPrice>
-    <Price>15.35</Price>
-    <Code>02.090.02</Code>
-    <Link>https://www.onautica.com/products/nastro-trazione-nylon-moschettone-arganelli-mano?variant=52543889113435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cinghia_7_5_mt._con_moschettone_per_argani_nylon_fine_mt._7_5_-_carico_rottura_1800_kg._1.png?v=1773341646</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137070112</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>nastro-trazione-nylon-moschettone-arganelli-mano</ParentID>
   </Offer>
@@ -12222,11 +12190,11 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52517249319259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Weight>180.00</Weight>
+    <Weight>0.18</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-nero</ParentID>
@@ -12243,6 +12211,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>170.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-nero</ParentID>
@@ -14197,6 +14166,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Manutenzione;Diluenti e Primers</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/primer-epossidico-veneziani-adherpox-anticorrosivo.png?v=1773341951</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099715884</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>primer-epossidico-veneziani-adherpox</ParentID>
@@ -19676,7 +19646,7 @@ L 320mm. - Ø22</Name>
     <Price>17.70</Price>
     <Code>1814310</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718405467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -26348,7 +26318,7 @@ L 320mm. - Ø22</Name>
     <Price>24.42</Price>
     <Code>1821227</Code>
     <Link>https://www.onautica.com/products/ossigenatore-seaflo-800gph-dritto?variant=52577461469531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ossigenatore-seaflo-800gph-dritto.webp?v=1773341733</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29417,7 +29387,7 @@ L 320mm. - Ø22</Name>
     <Price>5.34</Price>
     <Code>4851518</Code>
     <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382203739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -34444,7 +34414,7 @@ L 320mm. - Ø22</Name>
     <Price>31.31</Price>
     <Code>30215V</Code>
     <Link>https://www.onautica.com/products/cavo-telecomando-universale-ultraflex-c8?variant=52545436320091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-universale-ultraflex-c8.webp?v=1770993407</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36544,7 +36514,7 @@ L 320mm. - Ø22</Name>
     <Price>5.88</Price>
     <Code>3009093</Code>
     <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -41424,6 +41394,22 @@ L 320mm. - Ø22</Name>
     <ParentID>smalto-nautico-lack-alkyd-grigio-chiaro</ParentID>
   </Offer>
   <Offer>
+    <Name>Smalto per Sentina Bilge HB Monocomponente – 0,75 L</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto per Sentina Bilge HB nel formato da 0,75 Litri (Cod. BLH) è una vernice monocomponente ad altissima resistenza, formulata con una speciale miscela di clorocaucciù e resine alchidiche. È progettato specificamente per proteggere e rinnovare i vani</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>17.60</Price>
+    <Code>BLH.0201.000.75</Code>
+    <Link>https://www.onautica.com/products/smalto-sentina-bilge-hb-075l?variant=52577501512027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-sentina-bilge-hb-075l.webp?v=1773341861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-sentina-bilge-hb-075l</ParentID>
+  </Offer>
+  <Offer>
     <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Blu Atlantico</Name>
     <Brand>Veneziani</Brand>
     <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
@@ -43608,23 +43594,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8052705120370</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 81/83</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710056</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151277403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120387</EanCode>
-    <Weight>500.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-johnson</ParentID>
   </Offer>
