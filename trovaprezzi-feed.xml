@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-05-30T06:30:51.490Z -->
-<!-- Offerte: 2695 -->
+<!-- Generato: 2026-05-30T11:45:53.024Z -->
+<!-- Offerte: 2689 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -3101,7 +3101,7 @@
     <Price>5.01</Price>
     <Code>14.191.01</Code>
     <Link>https://www.onautica.com/products/presa-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446?variant=52577477886299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/presa-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446.webp?v=1776328111</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -3923,25 +3923,6 @@
     <EanCode>8033137067631</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>ruotino-di-ricambio-per-timone-o-150-mm-carrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - XL</Name>
-    <Brand>Ocean</Brand>
-    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
-    <OriginalPrice>70.01</OriginalPrice>
-    <Price>58.34</Price>
-    <Code>03009006-XL</Code>
-    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307604827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5705332201600</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
-    <Size>XL</Size>
   </Offer>
   <Offer>
     <Name>Salopette OCEAN Weather Heavy - Colore Verde, PVC 700g Freddo/Extreme - Size XL</Name>
@@ -6458,22 +6439,6 @@
     <EanCode>628309211554</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>anodo-suzuki-df40-140-alluminio-55321-90j01</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anodo Piastrina Martyr Alluminio per Suzuki DT/DF (Rif. 55320-95310)</Name>
-    <Brand>Suzuki</Brand>
-    <Description>L&apos; Anodo a Piastrina Martyr (Cod. 5170301) è progettato specificamente per la protezione catodica dei motori fuoribordo Suzuki (serie DT e DF). Sostituisce perfettamente il codice originale Suzuki 55320-95310-000 . Realizzato in un&apos;esclusiva Lega di Allum</Description>
-    <OriginalPrice>8.00</OriginalPrice>
-    <Price>5.34</Price>
-    <Code>5170301</Code>
-    <Link>https://www.onautica.com/products/anodo-suzuki-alluminio-55320-95310-martyr?variant=52577396392283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-suzuki-55320-95310-martyr-alluminio.webp?v=1773341572</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626242891</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-suzuki-alluminio-55320-95310-martyr</ParentID>
   </Offer>
   <Offer>
     <Name>Anodo Pinna in Alluminio per Motori Fuoribordo Yamaha 25-100 HP (Rif. 67F-45371-00)</Name>
@@ -10632,21 +10597,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
   </Offer>
   <Offer>
-    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
-    <Brand>Osculati</Brand>
-    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
-    <OriginalPrice>60.13</OriginalPrice>
-    <Price>35.37</Price>
-    <Code>66.240.01</Code>
-    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577381024091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
-  </Offer>
-  <Offer>
     <Name>Adesivo Gommoni Sup Tender Bicomponente per PVC - 125 ml.</Name>
     <Brand>Motomarine</Brand>
     <Description>ADEGRIP NA è un collante speciale bicomponente , ampiamente riconosciuto e utilizzato da tutte le principali fabbriche di gommoni per la sua eccezionale forza di adesione. È la soluzione professionale specifica per incollare e riparare in modo definitivo </Description>
@@ -10658,6 +10608,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_PVC_gommoni.png?v=1773341610</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626457868</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>adesivo-gommoni-sup-tender-bicomponente-per-pvc</ParentID>
   </Offer>
@@ -10792,22 +10743,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8033626424884</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>barra-connessione-150a-12m4-2m6-nera</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Barra connessione 150A 12M4-2M6 rossa</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Barra di connessione con base isolata, terminali in Acciaio Inox e coperchio di protezione. 2 perni filettati M6 + 12 viti M4. Dim: 150mm x 28mm x H35mm. Caratteristiche principali Portata massima di 150A , adatta a carichi elettrici impegnativi a bordo C</Description>
-    <OriginalPrice>20.24</OriginalPrice>
-    <Price>14.46</Price>
-    <Code>10338</Code>
-    <Link>https://www.onautica.com/products/barra-connessione-150a-12m4-2m6-rossa?variant=52577418314075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barra_connessione_150A_12M4-2M6_rossa.png?v=1773341628</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626424686</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>barra-connessione-150a-12m4-2m6-rossa</ParentID>
   </Offer>
   <Offer>
     <Name>Blister 4 pz. elastici con palline fissavele e usi vari 50 cm.</Name>
@@ -11944,7 +11879,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>17.40</Price>
     <Code>33.470.03</Code>
     <Link>https://www.onautica.com/products/copriparabordi-neoprene-reversibili-blu-nero?variant=52516796203355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-f-series-blu-nero.png?v=1773341582</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12184,7 +12119,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15214,8 +15149,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Valigetta Segnali di Soccorso Entro 3 Miglia (DM 21/09/2024)</Name>
     <Brand>FDF</Brand>
     <Description>La Valigetta Segnali di Soccorso Entro le 3 Miglia è la dotazione di sicurezza obbligatoria e aggiornata per navigare in totale regola e tranquillità in prossimità della costa. Questo kit è rigorosamente conforme alle ultime disposizioni normative dettate</Description>
-    <OriginalPrice>38.57</OriginalPrice>
-    <Price>33.54</Price>
+    <OriginalPrice>39.35</OriginalPrice>
+    <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -15231,8 +15166,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
     <Brand>FDF</Brand>
     <Description>La Valigetta Segnali di Soccorso per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnico è rigorosamente allineato alle r</Description>
-    <OriginalPrice>106.42</OriginalPrice>
-    <Price>92.54</Price>
+    <OriginalPrice>108.59</OriginalPrice>
+    <Price>94.43</Price>
     <Code>KIT6/12/50</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -15248,8 +15183,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Valigetta Segnali di Soccorso Oltre 50 Miglia Diporto / Oltre 6 Miglia Noleggio (DM 21/09/2024)</Name>
     <Brand>FDF</Brand>
     <Description>La Valigetta Segnali di Soccorso per Navigazione Oltre le 50 Miglia (Diporto) e Oltre le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio definitivo per affrontare le navigazioni d&apos;altura e d&apos;avventura (senza limiti dalla costa)</Description>
-    <OriginalPrice>139.21</OriginalPrice>
-    <Price>121.06</Price>
+    <OriginalPrice>142.05</OriginalPrice>
+    <Price>123.53</Price>
     <Code>11592</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-oltre-50-miglia-diporto-dm-2024?variant=52676458578267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -37552,22 +37487,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio 60 lt. flessibili acqua potabile rettangolari lt. 60</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Serbatoi 60 lt. flessibili acqua potabile rettangolari lt. 61 Caratteristiche principali Capacità da 60 litri, ideale per autonomie medie e lunghe navigazioni Design flessibile che si adatta agli spazi irregolari a bordo Forma rettangolare per un posizion</Description>
-    <OriginalPrice>152.14</OriginalPrice>
-    <Price>104.92</Price>
-    <Code>10067</Code>
-    <Link>https://www.onautica.com/products/offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60?variant=52577464025435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_60_lt._flessibili_acqua_potabile_rettangolari_lt._60.jpg?v=1773341742</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965096225</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La serie di Serbatoi Rigidi Rettangolari è realizzata in polietilene bianco di alta qualità, idoneo per il contenimento di acqua potabile. La forma regolare a sezione rettangolare li rende particolarmente versatili, adatti per essere installati nella part</Description>
@@ -43520,22 +43439,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8011779156883</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-tricogel-nts-banchina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 5/8&quot; / 25 mt</Name>
-    <Brand>Ferramenta Sardo Piemontese</Brand>
-    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
-    <OriginalPrice>43.04</OriginalPrice>
-    <Price>35.87</Price>
-    <Code>76495-15</Code>
-    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152548699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8011779156876</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
