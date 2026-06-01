@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-01T06:30:56.532Z -->
+<!-- Generato: 2026-06-01T10:31:38.946Z -->
 <!-- Offerte: 2686 -->
 <Products>
   <Offer>
@@ -543,7 +543,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anodi_zinco_a_flangia_90_mm..png?v=1773341616</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>628309174729</EanCode>
-    <Weight>850.00</Weight>
+    <Weight>0.85</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anodi_zinco_a_flangia_90_mm._2.png?v=1773341617</Image2>
     <Condition>nuovo</Condition>
     <ParentID>anodi-flangia-lega-zinco-protezione-catodica</ParentID>
@@ -957,7 +957,7 @@
   <Offer>
     <Name>Cavallotti in Acciaio Zincato per Rimorchio - 73xL120 mm. M10</Name>
     <Brand>Osculati</Brand>
-    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Car</Description>
+    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli�� (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. C</Description>
     <OriginalPrice>9.41</OriginalPrice>
     <Price>5.23</Price>
     <Code>751036</Code>
@@ -973,7 +973,7 @@
   <Offer>
     <Name>Cavallotti in Acciaio Zincato per Rimorchio - 93xL120 mm. M10</Name>
     <Brand>Osculati</Brand>
-    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Car</Description>
+    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli�� (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. C</Description>
     <OriginalPrice>9.56</OriginalPrice>
     <Price>5.31</Price>
     <Code>751046</Code>
@@ -989,7 +989,7 @@
   <Offer>
     <Name>Cavallotti in Acciaio Zincato per Rimorchio - 115xL120 mm. M12</Name>
     <Brand>Osculati</Brand>
-    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Car</Description>
+    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli�� (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. C</Description>
     <OriginalPrice>11.63</OriginalPrice>
     <Price>6.46</Price>
     <Code>751048</Code>
@@ -6141,6 +6141,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-elica-beneteau-martyr_vari_lati.png?v=1768933265</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>628309209476</EanCode>
+    <Weight>470.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-elica-beneteau-martyr.png?v=1768933265</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-zinco-beneteau-martyr_misure.jpg?v=1773341753</Image3>
     <Condition>nuovo</Condition>
@@ -9693,6 +9694,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Manutenzione;Anodi Sacrificali</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-anodi-yamaha-40-60-alluminio.png?v=1773341565</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>350.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-anodi-yamaha-40-60-alluminio</ParentID>
   </Offer>
@@ -11822,6 +11824,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-A-series-blu-nero.png?v=1773341582</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>520.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-neoprene-serie-a</ParentID>
   </Offer>
@@ -11883,7 +11886,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-f-series-blu-nero.png?v=1773341582</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Weight>300.00</Weight>
+    <Weight>0.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-neoprene-reversibili-blu-nero</ParentID>
   </Offer>
@@ -12361,6 +12364,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352071</EanCode>
+    <Weight>150.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-sabbia</ParentID>
@@ -17793,6 +17797,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-contact-cleaner-detergente-contatti-elettrici-spray-250ml-nautica.webp?v=1776184529</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>5412386062711</EanCode>
+    <Weight>250.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>crc-contact-cleaner-detergente-contatti-elettrici-spray-250ml</ParentID>
   </Offer>
@@ -25405,6 +25410,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_verde_-_cornice_grigio_ral_7042.png?v=1773341650</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137056635</EanCode>
+    <Weight>80.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_rosso_-_cornice_grigio_ral_7042.png?v=1773341650</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_225_prua_-_cornice_grigio_ral_7042.png?v=1773341651</Image3>
     <Condition>nuovo</Condition>
@@ -30019,6 +30025,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/doccetta-shut-off-knob-lisa-ottone-abs.webp?v=1775222829</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626043139</EanCode>
+    <Weight>200.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>doccetta-shut-off-knob-lisa-ottone-abs</ParentID>
   </Offer>
@@ -33788,6 +33795,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-doccia-nautico-pvc-bianco-retinato-full-white.png?v=1773239266</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626043368</EanCode>
+    <Weight>580.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tubo-doccia-nautico-pvc-bianco-retinato-full-white</ParentID>
   </Offer>
@@ -40723,6 +40731,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_Ventosa_Coppia.png?v=1773341775</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626157478</EanCode>
+    <Weight>540.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>portabicchieri-ventosa-coppia</ParentID>
   </Offer>
