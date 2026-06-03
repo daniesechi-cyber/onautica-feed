@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-01T18:10:53.179Z -->
-<!-- Offerte: 2685 -->
+<!-- Generato: 2026-06-03T06:14:43.213Z -->
+<!-- Offerte: 2683 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1015,22 +1015,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_verricello_6_mm._x_7_5_mt.png?v=1773341643</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033537046150</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-verricello-acciaio-zincato-aircraft-moschettone</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 6 mm. - 7.5 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo cavo è un componente di ricambio essenziale per i verricelli e gli arganelli a mano. È realizzato in acciaio zincato flessibile di tipo **“Aircraft”**, offrendo un&apos;eccellente combinazione di resistenza meccanica e flessibilità, essenziale per il co</Description>
-    <OriginalPrice>36.02</OriginalPrice>
-    <Price>20.01</Price>
-    <Code>02.091.03</Code>
-    <Link>https://www.onautica.com/products/cavo-verricello-acciaio-zincato-aircraft-moschettone?variant=52513501053275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_verricello_6_mm._x_7_5_mt.png?v=1773341643</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137070167</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cavo-verricello-acciaio-zincato-aircraft-moschettone</ParentID>
   </Offer>
@@ -3325,24 +3309,6 @@
     <ParentID>prese-e-spine-marinco-32a-230v</ParentID>
   </Offer>
   <Offer>
-    <Name>Prese e Spine Banchina 230V/32A – Sistema Stagno in Valox e Inox - Cappuccio Spina Marinco</Name>
-    <Brand>Osculati</Brand>
-    <Description>La gamma di Connessioni di Banchina 230V/32A è progettata per imbarcazioni con esigenze energetiche superiori, dove sicurezza e durata sono imprescindibili. Questo sistema completo integra prese da incasso e connettori volanti realizzati con materiali pre</Description>
-    <OriginalPrice>32.38</OriginalPrice>
-    <Price>23.13</Price>
-    <Code>14.587.04</Code>
-    <Link>https://www.onautica.com/products/prese-e-spine-marinco-32a-230v?variant=52559380578651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cappuccio_sistema-connessione-banchina-32a-valox-inox.png?v=1773341637</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>933440082148</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sistema-connessione-banchina-32a-valox-inox_spina.png?v=1773341819</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sistema-connessione-banchina-32a-valox-inox_presa.png?v=1773341739</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>prese-e-spine-marinco-32a-230v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pulsantiera Up-Down - 2 pulsanti</Name>
     <Brand>Motomarine</Brand>
     <Description>Pulsantiera Up-Down comando salpa-ancore con cavo estensibile da 4,2 metri. Impermeabile, completa di connettore stagno e staffa di supporto. Tensione universale 12/24V. Disponibile con o senza torcia LED integrata. Pulsanti Torcia LED 2 NO Caratteristich</Description>
@@ -3693,7 +3659,7 @@
     <Price>5.67</Price>
     <Code>02.029.09</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445001051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -5565,8 +5531,8 @@
     <Name>Allarme acustico 12V</Name>
     <Brand>Motomarine</Brand>
     <Description>Allarmi acustici universali per strumentazione. Solo per uso interno. 12 V Caratteristiche principali Alimentazione a 12V, compatibile con l&apos;impianto elettrico standard di bordo Progettato per uso interno, ideale per pannelli strumentazione e cruscotti na</Description>
-    <OriginalPrice>9.70</OriginalPrice>
-    <Price>6.93</Price>
+    <OriginalPrice>10.35</OriginalPrice>
+    <Price>7.39</Price>
     <Code>2323062</Code>
     <Link>https://www.onautica.com/products/allarme-acustico-12v-1?variant=52577413726555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -5581,8 +5547,8 @@
     <Name>Allarme acustico 24V</Name>
     <Brand>Motomarine</Brand>
     <Description>Avvisatore acustico universale a 24V , progettato per l&apos;integrazione con la strumentazione di bordo. Ideale per segnalazioni di allarme all&apos;interno dell&apos;imbarcazione, garantisce un segnale sonoro chiaro e affidabile in tutte le condizioni operative. Solo </Description>
-    <OriginalPrice>9.41</OriginalPrice>
-    <Price>6.72</Price>
+    <OriginalPrice>10.61</OriginalPrice>
+    <Price>7.58</Price>
     <Code>2323064</Code>
     <Link>https://www.onautica.com/products/allarme-acustico-24v-1?variant=52577413857627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -5597,8 +5563,8 @@
     <Name>Allarme acustico R - MARCO</Name>
     <Brand>Marco</Brand>
     <Description>Allarme acustico universale per strumentazione e retromarcia veicoli.\nVoltaggio universale 12/24V. Uso interno ed esterno. Caratteristiche principali Compatibile con impianti elettrici a 12V e 24V , adatto alla maggior parte delle imbarcazioni da diporto</Description>
-    <OriginalPrice>22.61</OriginalPrice>
-    <Price>16.15</Price>
+    <OriginalPrice>32.54</OriginalPrice>
+    <Price>23.24</Price>
     <Code>2323066</Code>
     <Link>https://www.onautica.com/products/allarme-acustico-r-marco-1?variant=52577413661019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -5640,6 +5606,24 @@
     <EanCode>6283091833632</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>anodi-poppa-140x35-mm-alluminio-1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Anodo a Barra in Zinco per Fuoribordo 40-90 HP – Rif. Orig. 6H1-45251-01</Name>
+    <Brand>Martyr</Brand>
+    <Description>Questo Anodo a Barra in Alluminio è progettato per la protezione catodica del piede e della staffa di motori fuoribordo nella fascia di potenza 40-90 HP . Realizzato in alluminio di alta qualità, è specifico per l&apos;utilizzo in acqua di mare, dove previene </Description>
+    <OriginalPrice>12.50</OriginalPrice>
+    <Price>7.84</Price>
+    <Code>5126016</Code>
+    <Link>https://www.onautica.com/products/anodo-barra-alluminio-fuoribordo-40-90hp-6h1-45251-01?variant=52577395376475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-fuoribordo-40-90hp.png?v=1773341567</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626137753</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-fuoribordo-40-90hpsotto.png?v=1773341568</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-fuoribordo-40-90hpmisura.png?v=1773341568</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-barra-alluminio-fuoribordo-40-90hp-6h1-45251-01</ParentID>
   </Offer>
   <Offer>
     <Name>Anodo a Cubo in Alluminio per Yamaha 25-60 HP – Staffa Motore – Rif. 67C-45251-00</Name>
@@ -8812,24 +8796,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cavo-batterie-rame-stagnato-nautico</ParentID>
   </Offer>
   <Offer>
-    <Name>Chiave di avviamento 7 terminali 4 posizioni</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Chiave di avviamento con corpo in resina e cappuccio in gomma. Per motori a benzina e diesel. Collo corto per pannelli fino a 8 mm. 7 Terminali - 4 Posizioni. Collo ø mm 20 Caratteristiche principali 4 posizioni di funzionamento per un controllo completo </Description>
-    <OriginalPrice>27.02</OriginalPrice>
-    <Price>19.30</Price>
-    <Code>2104212</Code>
-    <Link>https://www.onautica.com/products/chiave-di-avviamento-w-proof-s-collo-o-20-mm?variant=52577430438235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Chiave_di_avviamento_W_PROOF_Scollo_20_mm..png?v=1773341645</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062390</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/onautica-2025-01-25T233325.303.png?v=1773341646</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2104212.png?v=1773341647</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>chiave-di-avviamento-w-proof-s-collo-o-20-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Collare zn tipo &quot;L&quot; Ø int. 30 mm.</Name>
     <Brand>Martyr</Brand>
     <Description>Anodo a collare tipo &quot;L&quot; in zinco, progettato per la protezione catodica degli assi portaelica. La forma a collare stretto garantisce un fissaggio sicuro e stabile sull&apos;asse, offrendo un&apos;efficace protezione contro la corrosione galvanica nelle installazio</Description>
@@ -10074,6 +10040,103 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>presa-e-spina-in-acciaio-inox-tipo-accendino</ParentID>
   </Offer>
   <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 4 poli / max 5A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>29.32</OriginalPrice>
+    <Price>21.72</Price>
+    <Code>2106104</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194822491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062864</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 4 poli / max 20A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>29.15</OriginalPrice>
+    <Price>20.82</Price>
+    <Code>14.387.04</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194855259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137053887</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 3 poli / max 5A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>29.27</OriginalPrice>
+    <Price>20.91</Price>
+    <Code>2106103</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194888027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062857</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 3 poli / max 3A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>20.12</OriginalPrice>
+    <Price>14.37</Price>
+    <Code>2106003</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194920795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062642</EanCode>
+    <Weight>0.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 2 poli / max 10A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>17.72</OriginalPrice>
+    <Price>12.66</Price>
+    <Code>14.187.02</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194953563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062840</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 2 poli / max 20A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>26.67</OriginalPrice>
+    <Price>19.05</Price>
+    <Code>14.387.02</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194986331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137009389</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
     <Name>Prese e spine in linea &lt; 3A - 2 poli</Name>
     <Brand>Motomarine</Brand>
     <Description>Le prese e spine in linea fino a 3A in gomma a 2 poli sono componenti elettrici compatti, progettati per garantire connessioni rapide e affidabili a bordo. Grazie alla costruzione in gomma, offrono un&apos;ottima resistenza all&apos;umidità e alle vibrazioni tipich</Description>
@@ -11316,8 +11379,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cavo Elettrico Marino per Batterie in Rame Stagnato Nero - 25 mm2</Name>
     <Brand>Osculati</Brand>
     <Description>Questo cavo è la scelta professionale e certificata per i collegamenti dei poli positivi (rossi) delle batterie a bordo, garantendo la massima sicurezza elettrica e una resistenza superiore agli agenti marini. Caratteristiche di Sicurezza e Protezione (Ce</Description>
-    <OriginalPrice>10.80</OriginalPrice>
-    <Price>7.70</Price>
+    <OriginalPrice>13.00</OriginalPrice>
+    <Price>9.29</Price>
     <Code>14.381.25</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-nero?variant=52517170577755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -11332,8 +11395,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cavo Elettrico Marino per Batterie in Rame Stagnato Nero - 50 mm2</Name>
     <Brand>Osculati</Brand>
     <Description>Questo cavo è la scelta professionale e certificata per i collegamenti dei poli positivi (rossi) delle batterie a bordo, garantendo la massima sicurezza elettrica e una resistenza superiore agli agenti marini. Caratteristiche di Sicurezza e Protezione (Ce</Description>
-    <OriginalPrice>23.60</OriginalPrice>
-    <Price>16.89</Price>
+    <OriginalPrice>25.80</OriginalPrice>
+    <Price>18.40</Price>
     <Code>14.381.50</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-nero?variant=52517170610523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -11362,8 +11425,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cavo Elettrico Marino per Batterie in Rame Stagnato Rosso - 25 mm2</Name>
     <Brand>Osculati</Brand>
     <Description>Questo cavo è la scelta professionale e certificata per i collegamenti dei poli positivi (rossi) delle batterie a bordo, garantendo la massima sicurezza elettrica e una resistenza superiore agli agenti marini. Caratteristiche di Sicurezza e Protezione (Ce</Description>
-    <OriginalPrice>10.80</OriginalPrice>
-    <Price>7.70</Price>
+    <OriginalPrice>13.00</OriginalPrice>
+    <Price>9.29</Price>
     <Code>14.382.25</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-rosso?variant=52517160911195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -11378,8 +11441,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cavo Elettrico Marino per Batterie in Rame Stagnato Rosso - 50 mm2</Name>
     <Brand>Osculati</Brand>
     <Description>Questo cavo è la scelta professionale e certificata per i collegamenti dei poli positivi (rossi) delle batterie a bordo, garantendo la massima sicurezza elettrica e una resistenza superiore agli agenti marini. Caratteristiche di Sicurezza e Protezione (Ce</Description>
-    <OriginalPrice>27.20</OriginalPrice>
-    <Price>19.40</Price>
+    <OriginalPrice>25.80</OriginalPrice>
+    <Price>18.40</Price>
     <Code>14.382.50</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-rosso?variant=52517160943963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -11440,6 +11503,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Chiave_di_avviamento_W_PROOF_Lcollo_20mm._1.png?v=1773341645</Image2>
     <Condition>nuovo</Condition>
     <ParentID>chiave-di-avviamento-w-proof-l-collo-o20mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Chiave di avviamento 7 terminali 4 posizioni</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Chiave di avviamento con corpo in resina e cappuccio in gomma. Per motori a benzina e diesel. Collo corto per pannelli fino a 8 mm. 7 Terminali - 4 Posizioni. Collo ø mm 20 Caratteristiche principali 4 posizioni di funzionamento per un controllo completo </Description>
+    <OriginalPrice>27.02</OriginalPrice>
+    <Price>19.30</Price>
+    <Code>2104212</Code>
+    <Link>https://www.onautica.com/products/chiave-di-avviamento-w-proof-s-collo-o-20-mm?variant=52577430438235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Chiave_di_avviamento_W_PROOF_Scollo_20_mm..png?v=1773341645</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062390</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/onautica-2025-01-25T233325.303.png?v=1773341646</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2104212.png?v=1773341647</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>chiave-di-avviamento-w-proof-s-collo-o-20-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Chiusura a Leva Regolabile Lucchettabile in Acciaio Inox con Perno Rigido - 66&lt;&gt;75 mm.</Name>
@@ -12191,7 +12272,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.71</Price>
     <Code>3813001BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52513515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12866,8 +12947,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Girella a Doppio Occhio in Acciaio Inox AISI 316 - Ø 10 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>La Girella a Doppio Occhio è un accessorio di ferramenta nautica di fondamentale importanza, appositamente studiato per essere inserito nelle linee di ormeggio e di ancoraggio. La sua funzione principale è quella di ruotare liberamente sul proprio asse, a</Description>
-    <OriginalPrice>9.09</OriginalPrice>
-    <Price>6.49</Price>
+    <OriginalPrice>10.90</OriginalPrice>
+    <Price>7.78</Price>
     <Code>A54110</Code>
     <Link>https://www.onautica.com/products/girella-doppio-occhio-acciaio-inox-aisi-316?variant=52653966066011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13463,22 +13544,50 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>sigillante-adesivo-ms-super</ParentID>
   </Offer>
   <Offer>
-    <Name>MS SUPER: Sigillante Adesivo Multiuso Alte Prestazioni - Bianco</Name>
+    <Name>MS TECHNO: Sigillante Adesivo Multiuso Alte Prestazioni - Nero</Name>
     <Brand>Fratelli Zucchini</Brand>
-    <Description>MS SUPER è un sigillante adesivo professionale, monocomponente e a reazione neutra, basato sulla tecnologia MS Polymer®. È progettato per polimerizzare (indurire) rapidamente semplicemente a contatto con l&apos;umidità ambientale. La sua formula combina un&apos; el</Description>
-    <OriginalPrice>19.08</OriginalPrice>
-    <Price>13.63</Price>
-    <Code>1004113</Code>
-    <Link>https://www.onautica.com/products/sigillante-adesivo-ms-super?variant=52577374994779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Description>Scopri MS TECHNO , l&apos;adesivo e sigillante monocomponente di nuova generazione basato sulla rivoluzionaria tecnologia MS Polymer® . Questo prodotto a reazione neutra polimerizza rapidamente semplicemente a contatto con l&apos;umidità presente nell&apos;aria, trasfor</Description>
+    <OriginalPrice>12.95</OriginalPrice>
+    <Price>9.25</Price>
+    <Code>1004021</Code>
+    <Link>https://www.onautica.com/products/sigillante-adesivo-ms-techno-ms-polymer?variant=52513437122907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Super_nero_cc.290.png?v=1773341609</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Techno_nero_cc.290.png?v=1773341610</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8019829000346</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Super_nero_cc.290_1.png?v=1773341610</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Super_nero_cc.290_4.png?v=1773341611</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>sigillante-adesivo-ms-super</ParentID>
+    <ParentID>sigillante-adesivo-ms-techno-ms-polymer</ParentID>
+  </Offer>
+  <Offer>
+    <Name>MS TECHNO: Sigillante Adesivo Multiuso Alte Prestazioni - Bianco</Name>
+    <Brand>Fratelli Zucchini</Brand>
+    <Description>Scopri MS TECHNO , l&apos;adesivo e sigillante monocomponente di nuova generazione basato sulla rivoluzionaria tecnologia MS Polymer® . Questo prodotto a reazione neutra polimerizza rapidamente semplicemente a contatto con l&apos;umidità presente nell&apos;aria, trasfor</Description>
+    <OriginalPrice>12.95</OriginalPrice>
+    <Price>9.25</Price>
+    <Code>1004316</Code>
+    <Link>https://www.onautica.com/products/sigillante-adesivo-ms-techno-ms-polymer?variant=52577374536027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Techno_nero_cc.290.png?v=1773341610</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8019829000483</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>sigillante-adesivo-ms-techno-ms-polymer</ParentID>
+  </Offer>
+  <Offer>
+    <Name>MS TECHNO: Sigillante Adesivo Multiuso Alte Prestazioni - Grigio</Name>
+    <Brand>Fratelli Zucchini</Brand>
+    <Description>Scopri MS TECHNO , l&apos;adesivo e sigillante monocomponente di nuova generazione basato sulla rivoluzionaria tecnologia MS Polymer® . Questo prodotto a reazione neutra polimerizza rapidamente semplicemente a contatto con l&apos;umidità presente nell&apos;aria, trasfor</Description>
+    <OriginalPrice>12.95</OriginalPrice>
+    <Price>9.25</Price>
+    <Code>1004016</Code>
+    <Link>https://www.onautica.com/products/sigillante-adesivo-ms-techno-ms-polymer?variant=52577374568795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Techno_nero_cc.290.png?v=1773341610</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>sigillante-adesivo-ms-techno-ms-polymer</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello controllo 12V a 3 posizioni On-Off-Auto</Name>
@@ -14005,87 +14114,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>passacavi-elettrici-stagni-quick</ParentID>
   </Offer>
   <Offer>
-    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 4 poli / max 5A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
-    <OriginalPrice>29.32</OriginalPrice>
-    <Price>21.72</Price>
-    <Code>2106104</Code>
-    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194822491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062864</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 4 poli / max 20A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
-    <OriginalPrice>29.15</OriginalPrice>
-    <Price>20.82</Price>
-    <Code>14.387.04</Code>
-    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194855259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137053887</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 3 poli / max 5A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
-    <OriginalPrice>29.27</OriginalPrice>
-    <Price>20.91</Price>
-    <Code>2106103</Code>
-    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194888027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062857</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 3 poli / max 3A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
-    <OriginalPrice>20.12</OriginalPrice>
-    <Price>14.37</Price>
-    <Code>2106003</Code>
-    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194920795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062642</EanCode>
-    <Weight>0.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 2 poli / max 10A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
-    <OriginalPrice>17.72</OriginalPrice>
-    <Price>12.66</Price>
-    <Code>14.187.02</Code>
-    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194953563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062840</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
-  </Offer>
-  <Offer>
     <Name>Presa incasso doppia USB Type-A + Type-C bianca</Name>
     <Brand>Osculati</Brand>
     <Description>Presa incasso doppia USB Type-A + Type-C bianca La presa incasso doppia USB Type-A + Type-C bianca è una soluzione compatta per ricaricare dispositivi elettronici direttamente a bordo, con due porte per massima versatilità. A chi è rivolto Ideale per arma</Description>
@@ -14586,78 +14614,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>scatola-portafusibili-lamellari-unival-4-8-sedi</ParentID>
   </Offer>
   <Offer>
-    <Name>Segna Catena &quot;Chain Rainbow&quot; per Catena Ø 10mm – Inserti Colorati - Blu / Blue</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Segna Catena Chain Rainbow rappresentano la soluzione più pratica, economica e duratura per marcare la lunghezza della catena calata in mare, sostituendo la classica vernice che tende a scrostarsi nel tempo. Premiati con la prestigiosa Nomination al MET</Description>
-    <OriginalPrice>9.30</OriginalPrice>
-    <Price>5.15</Price>
-    <Code>01.500.10BL</Code>
-    <Link>https://www.onautica.com/products/segna-catena-chain-rainbow-10mm?variant=52514430124379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mm.webp?v=1770638879</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137043444</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmsucatena.webp?v=1770638879</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmnominated.webp?v=1770638879</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>segna-catena-chain-rainbow-10mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Segna Catena &quot;Chain Rainbow&quot; per Catena Ø 6mm – Inserti Colorati - Bianco / White</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Segna Catena Chain Rainbow rappresentano la soluzione più pratica, economica e duratura per marcare la lunghezza della catena calata in mare, sostituendo la classica vernice che tende a scrostarsi nel tempo. Premiati con la prestigiosa Nomination al MET</Description>
-    <OriginalPrice>9.30</OriginalPrice>
-    <Price>5.15</Price>
-    <Code>01.500.06BI</Code>
-    <Link>https://www.onautica.com/products/segna-catena-chain-rainbow-6mm?variant=52514431664475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mm.webp?v=1770638879</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626185112</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmsucatena.webp?v=1770638879</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmnominated.webp?v=1770638879</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>segna-catena-chain-rainbow-6mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Segna Catena &quot;Chain Rainbow&quot; per Catena Ø 6mm – Inserti Colorati - Blu / Blue</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Segna Catena Chain Rainbow rappresentano la soluzione più pratica, economica e duratura per marcare la lunghezza della catena calata in mare, sostituendo la classica vernice che tende a scrostarsi nel tempo. Premiati con la prestigiosa Nomination al MET</Description>
-    <OriginalPrice>9.30</OriginalPrice>
-    <Price>5.15</Price>
-    <Code>01.500.06BL</Code>
-    <Link>https://www.onautica.com/products/segna-catena-chain-rainbow-6mm?variant=52514431697243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mm.webp?v=1770638879</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626185143</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmsucatena.webp?v=1770638879</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmnominated.webp?v=1770638879</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>segna-catena-chain-rainbow-6mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Segna Catena &quot;Chain Rainbow&quot; per Catena Ø 8mm – Inserti Colorati - Blu</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Segna Catena Chain Rainbow rappresentano la soluzione più pratica, economica e duratura per marcare la lunghezza della catena calata in mare, sostituendo la classica vernice che tende a scrostarsi nel tempo. Premiati con la prestigiosa Nomination al MET</Description>
-    <OriginalPrice>10.40</OriginalPrice>
-    <Price>5.78</Price>
-    <Code>0112858BL</Code>
-    <Link>https://www.onautica.com/products/segna-catena-chain-rainbow-8mm?variant=52516431987035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mm.webp?v=1770638879</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626185198</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmsucatena.webp?v=1770638879</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segna-catena-chain-rainbow-6-12mmmontaggio.webp?v=1770638879</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>segna-catena-chain-rainbow-8mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Segnale fonda cono H. 470 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Segnale diurno in Plastica. Forma Cono.\nSmontabile e pieghevole per un facile stoccaggio. Caratteristiche principali Altezza 470 mm per una buona visibilità da parte delle imbarcazioni in transito Design a cono conforme alla segnaletica di fonda prevista</Description>
@@ -15151,23 +15107,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>valigetta-segnali-soccorso-entro-3-miglia-dm-2024</ParentID>
   </Offer>
   <Offer>
-    <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
-    <Brand>FDF</Brand>
-    <Description>La Valigetta Segnali di Soccorso per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnico è rigorosamente allineato alle r</Description>
-    <OriginalPrice>108.59</OriginalPrice>
-    <Price>94.43</Price>
-    <Code>KIT6/12/50</Code>
-    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.63</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diportobusta.webp?v=1774693894</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024</ParentID>
-  </Offer>
-  <Offer>
     <Name>Valigetta Segnali di Soccorso Oltre 50 Miglia Diporto / Oltre 6 Miglia Noleggio (DM 21/09/2024)</Name>
     <Brand>FDF</Brand>
     <Description>La Valigetta Segnali di Soccorso per Navigazione Oltre le 50 Miglia (Diporto) e Oltre le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio definitivo per affrontare le navigazioni d&apos;altura e d&apos;avventura (senza limiti dalla costa)</Description>
@@ -15200,28 +15139,11 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>z-pren-2000-0-850-kg</ParentID>
   </Offer>
   <Offer>
-    <Name>Aeratore da coperta Deck Roca Ø 200 mm. polimero</Name>
-    <Brand>Roca</Brand>
-    <Description>Aeratore da coperta Roca con chiusura interna. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n materiale → p</Description>
-    <OriginalPrice>43.90</OriginalPrice>
-    <Price>31.36</Price>
-    <Code>1703050</Code>
-    <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-roca-o-200-mm-polimero-1?variant=52577413595483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._polimero.png?v=1773341612</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>7320394872001</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._polimero_7.png?v=1773341612</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-polimero-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Aeratore da coperta Deck ST Ø 230 mm. inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Aeratore da coperta in Acciaio Inox con cappa trasparente in Policarbonato.\n\nCaratteristiche:\n \n Base → 230 mm. \n Collo → 95 mm. \n Altezza → 30 mm. \n materiale → acciaio inox \n Caratteristiche principali Cappa trasparente in policarbonato che perm</Description>
-    <OriginalPrice>58.41</OriginalPrice>
-    <Price>41.72</Price>
+    <OriginalPrice>62.82</OriginalPrice>
+    <Price>44.87</Price>
     <Code>1703220</Code>
     <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-st-o-230-mm-inox-1?variant=52577414349147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15238,8 +15160,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Aeratore Solara SS Ø 220x120 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>L&apos; Aeratore Solara SS garantisce una ventilazione efficiente e continua a bordo, senza necessità di cablaggio o interruttori. Alimentato direttamente dall&apos;energia solare, si avvia automaticamente alla luce del sole, offrendo una soluzione pratica e autono</Description>
-    <OriginalPrice>84.82</OriginalPrice>
-    <Price>59.32</Price>
+    <OriginalPrice>84.84</OriginalPrice>
+    <Price>59.33</Price>
     <Code>1703040</Code>
     <Link>https://www.onautica.com/products/aeratore-solara-ss-o-220x120-mm-1?variant=52577413792091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -16766,6 +16688,60 @@ L 320mm. - Ø22</Name>
     <ParentID>supporto-portacanne-pss-o-40-x-h-225-mm-osculati</ParentID>
   </Offer>
   <Offer>
+    <Name>Portacanne da Pesca da Riposo Multiplo in Plastica - 2 posti</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di supporti offre una soluzione pratica e salvaspazio per riporre le canne da pesca fisse a parete, sia nel gavone della barca che nel garage. Sono realizzati in plastica resistente, con varianti progettate per diverse esigenze di carico. Car</Description>
+    <OriginalPrice>9.49</OriginalPrice>
+    <Price>6.78</Price>
+    <Code>41.170.93</Code>
+    <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52513550795099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137134210</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portacanne-multiplo-plastica-parete-2-3-4-posti</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portacanne da Pesca da Riposo Multiplo in Plastica - 3 posti</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di supporti offre una soluzione pratica e salvaspazio per riporre le canne da pesca fisse a parete, sia nel gavone della barca che nel garage. Sono realizzati in plastica resistente, con varianti progettate per diverse esigenze di carico. Car</Description>
+    <OriginalPrice>11.31</OriginalPrice>
+    <Price>8.08</Price>
+    <Code>41.170.94</Code>
+    <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52541966025051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626025593</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portacanne-multiplo-plastica-parete-2-3-4-posti</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portacanne da Pesca da Riposo Multiplo in Plastica - 4 posti</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di supporti offre una soluzione pratica e salvaspazio per riporre le canne da pesca fisse a parete, sia nel gavone della barca che nel garage. Sono realizzati in plastica resistente, con varianti progettate per diverse esigenze di carico. Car</Description>
+    <OriginalPrice>48.16</OriginalPrice>
+    <Price>34.40</Price>
+    <Code>0800091</Code>
+    <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52541966057819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626025609</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portacanne-multiplo-plastica-parete-2-3-4-posti</ParentID>
+  </Offer>
+  <Offer>
     <Name>Prese aria a incasso 335x120 mm. bianco</Name>
     <Brand>Motomarine</Brand>
     <Description>Presa d&apos;aria a incasso in plastica, ideale per garantire una ventilazione efficiente a bordo. Il profilo corto la rende adatta all&apos;installazione in spazi ridotti, mantenendo un aspetto ordinato e integrato con le superfici della barca. Lunghezza: 335 mm A</Description>
@@ -17313,6 +17289,22 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-additivo-benzina-sb-startron-benzina-946-ml</ParentID>
   </Offer>
   <Offer>
+    <Name>Additivo diesel SB Startron diesel 250 ml.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>StarTron Diesel è un additivo enzimatico ad alte prestazioni progettato per mantenere il gasolio stabile e pulito all&apos;interno dei serbatoi. Grazie a enzimi specializzati, polverizza le molecole d&apos;acqua presenti nel carburante impedendone il deposito sul f</Description>
+    <OriginalPrice>38.58</OriginalPrice>
+    <Price>27.56</Price>
+    <Code>5704576</Code>
+    <Link>https://www.onautica.com/products/offerta-additivo-diesel-sb-startron-diesel-250-ml?variant=52577455112539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Additivo_diesel_SB_Startron_diesel_250_ml..png?v=1773341713</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>071247931075</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-additivo-diesel-sb-startron-diesel-250-ml</ParentID>
+  </Offer>
+  <Offer>
     <Name>Aeratore da coperta a fungo PL - base Ø 150 mm. - collo Ø 100 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Aeratore da coperta a fungo in Plastica con regolazione interna. Caratteristiche principali Base larga Ø 150 mm per un montaggio stabile e una tenuta ottimale sul ponte Collo Ø 100 mm per un flusso d&apos;aria efficiente verso gli ambienti sottostanti Forma a </Description>
@@ -17332,8 +17324,8 @@ L 320mm. - Ø22</Name>
     <Name>Aeratore da coperta Deck Roca Ø 200 mm. inox</Name>
     <Brand>Roca</Brand>
     <Description>Aeratore da coperta Roca con chiusura interna, acciaio. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n mate</Description>
-    <OriginalPrice>80.71</OriginalPrice>
-    <Price>56.44</Price>
+    <OriginalPrice>90.61</OriginalPrice>
+    <Price>63.36</Price>
     <Code>1703052</Code>
     <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-roca-o-200-mm-inox-1?variant=52577413529947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -17344,6 +17336,23 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._inox_7.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-inox-1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Aeratore da coperta Deck Roca Ø 200 mm. polimero</Name>
+    <Brand>Roca</Brand>
+    <Description>Aeratore da coperta Roca con chiusura interna. Calotta in Polimero oppure in Acciaio Inox lucidato a specchio. Completo di viteria, per spessore paratia 340 mm.\n\nCaratteristiche:\n \n Base → 200 mm. \n Collo → 99 mm. \n Altezza → 55 mm. \n materiale → p</Description>
+    <OriginalPrice>48.03</OriginalPrice>
+    <Price>34.31</Price>
+    <Code>1703050</Code>
+    <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-roca-o-200-mm-polimero-1?variant=52577413595483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._polimero.png?v=1773341612</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>7320394872001</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_Roca_200_mm._polimero_7.png?v=1773341612</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-polimero-1</ParentID>
   </Offer>
   <Offer>
     <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
@@ -18438,8 +18447,8 @@ L 320mm. - Ø22</Name>
     <Name>Faretto LED da Coperta G-Line E160 18W Flood – Luce Diffusa IP67 - Bianco</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Faretto LED G-Line E160 è una soluzione ad alta efficienza per l&apos;illuminazione esterna di barche da lavoro, pesca e diporto. Progettato come luce Flood (Diffusa a 60°) , è ideale per illuminare ampie aree come il pozzetto di poppa, la coperta o la zona</Description>
-    <OriginalPrice>31.75</OriginalPrice>
-    <Price>22.68</Price>
+    <OriginalPrice>29.60</OriginalPrice>
+    <Price>21.14</Price>
     <Code>2121247</Code>
     <Link>https://www.onautica.com/products/faretto-led-coperta-pozzetto-g-line-e160-18w-flood?variant=52513463435611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -18995,8 +19004,8 @@ L 320mm. - Ø22</Name>
     <Name>Ghiacciaia Igloo Marine Profile II 50 QT - 47 lt. grigia</Name>
     <Brand>Igloo</Brand>
     <Description>Fabbricati con materiali UV resistenti con isolamento termico ad alta efficienza. Complete di maniglie per il trasporto. Concepite per l&apos;uso a bordo. Ideali per la conservazione degli alimenti, del pescato o come vasche per esche vive. Interno in material</Description>
-    <OriginalPrice>86.30</OriginalPrice>
-    <Price>69.06</Price>
+    <OriginalPrice>99.30</OriginalPrice>
+    <Price>79.42</Price>
     <Code>50.558.50</Code>
     <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia?variant=52577366802779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -19232,8 +19241,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Entrobordo Yanmar (Serie GM / JH / LH) - 1814032</Name>
     <Brand>Yanmar</Brand>
     <Description>Gamma completa di giranti pompa acqua per il sistema di raffreddamento dei motori marini Yanmar . La selezione include sia ricambi compatibili MTM di alta qualità che ricambi Originali Yanmar (dove specificato). Queste giranti coprono la maggior parte dei</Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>16.20</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
     <Code>1814032</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yanmar?variant=52525715030363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19250,11 +19259,11 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Entrobordo Yanmar (Serie GM / JH / LH) - 1814031</Name>
     <Brand>Yanmar</Brand>
     <Description>Gamma completa di giranti pompa acqua per il sistema di raffreddamento dei motori marini Yanmar . La selezione include sia ricambi compatibili MTM di alta qualità che ricambi Originali Yanmar (dove specificato). Queste giranti coprono la maggior parte dei</Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>16.20</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
     <Code>1814031</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yanmar?variant=52525715063131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar.png?v=1767432198</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -19268,8 +19277,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Entrobordo Yanmar (Serie GM / JH / LH) - 1814029</Name>
     <Brand>Yanmar</Brand>
     <Description>Gamma completa di giranti pompa acqua per il sistema di raffreddamento dei motori marini Yanmar . La selezione include sia ricambi compatibili MTM di alta qualità che ricambi Originali Yanmar (dove specificato). Queste giranti coprono la maggior parte dei</Description>
-    <OriginalPrice>26.80</OriginalPrice>
-    <Price>17.86</Price>
+    <OriginalPrice>28.20</OriginalPrice>
+    <Price>18.80</Price>
     <Code>1814029</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yanmar?variant=52525715095899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19430,8 +19439,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814301</Name>
     <Brand>Evinrude</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Johnson ed Evinrude . Progettate per resistere all&apos;usura e garantire il corretto raffreddamento del motore in ambiente marino. L&apos;assortimento copre una vasta gamma di mode</Description>
-    <OriginalPrice>18.45</OriginalPrice>
-    <Price>12.30</Price>
+    <OriginalPrice>17.40</OriginalPrice>
+    <Price>11.60</Price>
     <Code>1814301</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-johnson-evinrude?variant=52525733675355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19643,8 +19652,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814288</Name>
     <Brand>Evinrude</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Johnson ed Evinrude . Progettate per resistere all&apos;usura e garantire il corretto raffreddamento del motore in ambiente marino. L&apos;assortimento copre una vasta gamma di mode</Description>
-    <OriginalPrice>14.55</OriginalPrice>
-    <Price>9.70</Price>
+    <OriginalPrice>18.15</OriginalPrice>
+    <Price>12.10</Price>
     <Code>1814288</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-johnson-evinrude?variant=52525734101339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19857,8 +19866,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814250</Name>
     <Brand>Selva</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
-    <OriginalPrice>14.55</OriginalPrice>
-    <Price>9.70</Price>
+    <OriginalPrice>15.30</OriginalPrice>
+    <Price>10.20</Price>
     <Code>1814250</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-selva-marine?variant=52525723156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19875,8 +19884,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814244</Name>
     <Brand>Selva</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
-    <OriginalPrice>20.70</OriginalPrice>
-    <Price>13.80</Price>
+    <OriginalPrice>21.75</OriginalPrice>
+    <Price>14.50</Price>
     <Code>1814244</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-selva-marine?variant=52525723189595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19893,11 +19902,11 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814310</Name>
     <Brand>Selva</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
-    <OriginalPrice>25.20</OriginalPrice>
-    <Price>16.80</Price>
+    <OriginalPrice>26.55</OriginalPrice>
+    <Price>17.70</Price>
     <Code>1814310</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-selva-marine?variant=52525723222363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva.png?v=1767378855</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -19983,8 +19992,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Suzuki (2T / 4T) - 1814289</Name>
     <Brand>Suzuki</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Suzuki Marine . Realizzate con elastomeri di alta qualità, assicurano una perfetta tenuta e un flusso d&apos;acqua costante per il raffreddamento del motore. Disponibili per un</Description>
-    <OriginalPrice>16.05</OriginalPrice>
-    <Price>10.70</Price>
+    <OriginalPrice>21.90</OriginalPrice>
+    <Price>14.60</Price>
     <Code>1814289</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-suzuki?variant=52525762904411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20018,8 +20027,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Suzuki (2T / 4T) - 1814287</Name>
     <Brand>Suzuki</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Suzuki Marine . Realizzate con elastomeri di alta qualità, assicurano una perfetta tenuta e un flusso d&apos;acqua costante per il raffreddamento del motore. Disponibili per un</Description>
-    <OriginalPrice>25.35</OriginalPrice>
-    <Price>16.90</Price>
+    <OriginalPrice>26.70</OriginalPrice>
+    <Price>17.80</Price>
     <Code>1814287</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-suzuki?variant=52525762969947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20054,8 +20063,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Suzuki (2T / 4T) - 1814291</Name>
     <Brand>Suzuki</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Suzuki Marine . Realizzate con elastomeri di alta qualità, assicurano una perfetta tenuta e un flusso d&apos;acqua costante per il raffreddamento del motore. Disponibili per un</Description>
-    <OriginalPrice>32.25</OriginalPrice>
-    <Price>21.50</Price>
+    <OriginalPrice>33.60</OriginalPrice>
+    <Price>22.40</Price>
     <Code>1814291</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-suzuki?variant=52525763101019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20214,8 +20223,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814250</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>14.55</OriginalPrice>
-    <Price>9.70</Price>
+    <OriginalPrice>15.30</OriginalPrice>
+    <Price>10.20</Price>
     <Code>1814250</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751632219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20232,8 +20241,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814307</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>17.25</OriginalPrice>
-    <Price>11.50</Price>
+    <OriginalPrice>19.20</OriginalPrice>
+    <Price>12.80</Price>
     <Code>1814307</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751664987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20303,8 +20312,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814244</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>20.70</OriginalPrice>
-    <Price>13.80</Price>
+    <OriginalPrice>21.75</OriginalPrice>
+    <Price>14.50</Price>
     <Code>1814244</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751796059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20357,11 +20366,11 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814310</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>25.20</OriginalPrice>
-    <Price>16.80</Price>
+    <OriginalPrice>26.55</OriginalPrice>
+    <Price>17.70</Price>
     <Code>1814310</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751894363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha.png?v=1767377022</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -20375,8 +20384,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814241</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>20.40</OriginalPrice>
-    <Price>13.60</Price>
+    <OriginalPrice>21.45</OriginalPrice>
+    <Price>14.30</Price>
     <Code>1814241</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751927131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20393,8 +20402,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814277</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>16.35</OriginalPrice>
-    <Price>10.90</Price>
+    <OriginalPrice>25.50</OriginalPrice>
+    <Price>17.00</Price>
     <Code>1814277</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751959899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20464,8 +20473,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814317</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>32.55</OriginalPrice>
-    <Price>21.70</Price>
+    <OriginalPrice>37.35</OriginalPrice>
+    <Price>24.90</Price>
     <Code>1814317</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525752090971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20482,8 +20491,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Marini Aifo / Iveco FPT</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con motori marini Aifo / Iveco / FPT . Componenti fondamentali per il circuito di raffreddamento, realizzati con elastomeri di alta qualità per garantire resistenza e durata anche in condizioni di lavor</Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>16.20</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
     <Code>1814032</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-aifo-iveco?variant=52513452130651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20498,8 +20507,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Marini BMW (Diesel / Benzina)</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con i motori marini BMW Marine . Questi componenti sono essenziali per il corretto funzionamento del sistema di raffreddamento dei motori entrobordo BMW, sia diesel che benzina. La selezione copre i mod</Description>
-    <OriginalPrice>19.00</OriginalPrice>
-    <Price>12.64</Price>
+    <OriginalPrice>20.00</OriginalPrice>
+    <Price>13.30</Price>
     <Code>1814046</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-bmw-marine?variant=52513452196187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20529,11 +20538,11 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Marini Bukh (Serie DV) - 1814031</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con i motori marini diesel Bukh . Questi componenti sono cruciali per il sistema di raffreddamento e devono essere sostituiti periodicamente per evitare surriscaldamenti del motore. I ricambi coprono i </Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>16.20</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
     <Code>1814031</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-bukh?variant=52520638546267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-bukh.png?v=1767439382</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -20545,8 +20554,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Marini Bukh (Serie DV) - 1814032</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con i motori marini diesel Bukh . Questi componenti sono cruciali per il sistema di raffreddamento e devono essere sostituiti periodicamente per evitare surriscaldamenti del motore. I ricambi coprono i </Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>16.20</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
     <Code>1814032</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-bukh?variant=52520638579035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20577,8 +20586,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Marini Bukh (Serie DV) - 1814046</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con i motori marini diesel Bukh . Questi componenti sono cruciali per il sistema di raffreddamento e devono essere sostituiti periodicamente per evitare surriscaldamenti del motore. I ricambi coprono i </Description>
-    <OriginalPrice>19.00</OriginalPrice>
-    <Price>12.64</Price>
+    <OriginalPrice>20.00</OriginalPrice>
+    <Price>13.30</Price>
     <Code>1814046</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-bukh?variant=52520638644571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20689,8 +20698,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Marini Nanni Diesel - 1814032</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con i motori marini Nanni Diesel . Queste parti sono essenziali per il sistema di raffreddamento e garantiscono la corretta temperatura operativa del motore in ogni condizione di navigazione. I ricambi </Description>
-    <OriginalPrice>24.30</OriginalPrice>
-    <Price>16.20</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
     <Code>1814032</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-nanni-diesel?variant=52520588968283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20721,8 +20730,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814301</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
-    <OriginalPrice>18.45</OriginalPrice>
-    <Price>12.30</Price>
+    <OriginalPrice>17.40</OriginalPrice>
+    <Price>11.60</Price>
     <Code>1814301</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52513452884315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20739,8 +20748,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814302</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
-    <OriginalPrice>14.55</OriginalPrice>
-    <Price>9.70</Price>
+    <OriginalPrice>15.90</OriginalPrice>
+    <Price>10.60</Price>
     <Code>1814302</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525776830811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20792,8 +20801,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814306</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
-    <OriginalPrice>21.45</OriginalPrice>
-    <Price>14.30</Price>
+    <OriginalPrice>22.50</OriginalPrice>
+    <Price>15.00</Price>
     <Code>1814306</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525776929115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20882,8 +20891,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814337</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
-    <OriginalPrice>28.20</OriginalPrice>
-    <Price>18.80</Price>
+    <OriginalPrice>29.25</OriginalPrice>
+    <Price>19.50</Price>
     <Code>1814337</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777092955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20900,8 +20909,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814304</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
-    <OriginalPrice>21.60</OriginalPrice>
-    <Price>14.40</Price>
+    <OriginalPrice>24.15</OriginalPrice>
+    <Price>16.10</Price>
     <Code>1814304</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777158491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21039,8 +21048,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti SPX Johnson per Motori Volvo Penta Diesel (Serie D / KAD / TAMD / MD) - 1816046</Name>
     <Brand>Volvo Penta</Brand>
     <Description>Gamma completa di giranti SPX Johnson Pump progettate specificamente per i motori marini Volvo Penta Diesel . Essendo Johnson Pump fornitore di primo impianto (OEM) per molti di questi motori, questi ricambi garantiscono prestazioni identiche all&apos;original</Description>
-    <OriginalPrice>33.60</OriginalPrice>
-    <Price>22.40</Price>
+    <OriginalPrice>36.90</OriginalPrice>
+    <Price>24.60</Price>
     <Code>1816046</Code>
     <Link>https://www.onautica.com/products/giranti-spx-johnson-volvo-penta-diesel?variant=52577394884955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21056,8 +21065,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti SPX Johnson per Motori Volvo Penta Diesel (Serie D / KAD / TAMD / MD) - 1816025</Name>
     <Brand>Volvo Penta</Brand>
     <Description>Gamma completa di giranti SPX Johnson Pump progettate specificamente per i motori marini Volvo Penta Diesel . Essendo Johnson Pump fornitore di primo impianto (OEM) per molti di questi motori, questi ricambi garantiscono prestazioni identiche all&apos;original</Description>
-    <OriginalPrice>34.30</OriginalPrice>
-    <Price>22.84</Price>
+    <OriginalPrice>35.60</OriginalPrice>
+    <Price>23.76</Price>
     <Code>1816025</Code>
     <Link>https://www.onautica.com/products/giranti-spx-johnson-volvo-penta-diesel?variant=52577394917723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21073,8 +21082,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti SPX Johnson per Motori Volvo Penta Diesel (Serie D / KAD / TAMD / MD) - 1816032</Name>
     <Brand>Volvo Penta</Brand>
     <Description>Gamma completa di giranti SPX Johnson Pump progettate specificamente per i motori marini Volvo Penta Diesel . Essendo Johnson Pump fornitore di primo impianto (OEM) per molti di questi motori, questi ricambi garantiscono prestazioni identiche all&apos;original</Description>
-    <OriginalPrice>56.70</OriginalPrice>
-    <Price>37.77</Price>
+    <OriginalPrice>59.00</OriginalPrice>
+    <Price>39.34</Price>
     <Code>1816032 - 1814032</Code>
     <Link>https://www.onautica.com/products/giranti-spx-johnson-volvo-penta-diesel?variant=52577394950491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21091,8 +21100,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti SPX Johnson per Motori Volvo Penta Diesel (Serie D / KAD / TAMD / MD) - 1816041</Name>
     <Brand>Volvo Penta</Brand>
     <Description>Gamma completa di giranti SPX Johnson Pump progettate specificamente per i motori marini Volvo Penta Diesel . Essendo Johnson Pump fornitore di primo impianto (OEM) per molti di questi motori, questi ricambi garantiscono prestazioni identiche all&apos;original</Description>
-    <OriginalPrice>42.80</OriginalPrice>
-    <Price>28.51</Price>
+    <OriginalPrice>44.60</OriginalPrice>
+    <Price>29.70</Price>
     <Code>1816041</Code>
     <Link>https://www.onautica.com/products/giranti-spx-johnson-volvo-penta-diesel?variant=52577394983259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21108,8 +21117,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti SPX Johnson per Motori Volvo Penta Diesel (Serie D / KAD / TAMD / MD) - 1816043</Name>
     <Brand>Volvo Penta</Brand>
     <Description>Gamma completa di giranti SPX Johnson Pump progettate specificamente per i motori marini Volvo Penta Diesel . Essendo Johnson Pump fornitore di primo impianto (OEM) per molti di questi motori, questi ricambi garantiscono prestazioni identiche all&apos;original</Description>
-    <OriginalPrice>75.10</OriginalPrice>
-    <Price>50.06</Price>
+    <OriginalPrice>78.30</OriginalPrice>
+    <Price>52.18</Price>
     <Code>1816043</Code>
     <Link>https://www.onautica.com/products/giranti-spx-johnson-volvo-penta-diesel?variant=52577395016027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21125,8 +21134,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti SPX Johnson per Motori Volvo Penta Diesel (Serie D / KAD / TAMD / MD) - 1816031</Name>
     <Brand>Volvo Penta</Brand>
     <Description>Gamma completa di giranti SPX Johnson Pump progettate specificamente per i motori marini Volvo Penta Diesel . Essendo Johnson Pump fornitore di primo impianto (OEM) per molti di questi motori, questi ricambi garantiscono prestazioni identiche all&apos;original</Description>
-    <OriginalPrice>69.50</OriginalPrice>
-    <Price>46.30</Price>
+    <OriginalPrice>72.30</OriginalPrice>
+    <Price>48.23</Price>
     <Code>1816031</Code>
     <Link>https://www.onautica.com/products/giranti-spx-johnson-volvo-penta-diesel?variant=52577395048795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21312,7 +21321,7 @@ L 320mm. - Ø22</Name>
     <Brand>Osculati</Brand>
     <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
     <OriginalPrice>40.10</OriginalPrice>
-    <Price>26.90</Price>
+    <Price>21.11</Price>
     <Code>3010201</Code>
     <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52530109907291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -22028,8 +22037,8 @@ L 320mm. - Ø22</Name>
     <Name>Linea Grassi Tecnici Professionali per la Nautica - Formato 125 ml - Grasso al litio</Name>
     <Brand>Viridex</Brand>
     <Description>Una manutenzione corretta è fondamentale per garantire la longevità e la sicurezza della tua imbarcazione. Questa selezione di grassi tecnici professionali offre soluzioni specifiche per ogni componente marino, dalla lubrificazione dei motori alla protezi</Description>
-    <OriginalPrice>9.47</OriginalPrice>
-    <Price>5.26</Price>
+    <OriginalPrice>9.70</OriginalPrice>
+    <Price>5.39</Price>
     <Code>0003033</Code>
     <Link>https://www.onautica.com/products/linea-grassi-tecnici-manutenzione-nautica?variant=52526500512091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -23281,60 +23290,6 @@ L 320mm. - Ø22</Name>
     <ParentID>portacanna-inox-parete-aisi-316-multiplo</ParentID>
   </Offer>
   <Offer>
-    <Name>Portacanne da Pesca da Riposo Multiplo in Plastica - 2 posti</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di supporti offre una soluzione pratica e salvaspazio per riporre le canne da pesca fisse a parete, sia nel gavone della barca che nel garage. Sono realizzati in plastica resistente, con varianti progettate per diverse esigenze di carico. Car</Description>
-    <OriginalPrice>9.49</OriginalPrice>
-    <Price>6.78</Price>
-    <Code>41.170.93</Code>
-    <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52513550795099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137134210</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portacanne-multiplo-plastica-parete-2-3-4-posti</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portacanne da Pesca da Riposo Multiplo in Plastica - 3 posti</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di supporti offre una soluzione pratica e salvaspazio per riporre le canne da pesca fisse a parete, sia nel gavone della barca che nel garage. Sono realizzati in plastica resistente, con varianti progettate per diverse esigenze di carico. Car</Description>
-    <OriginalPrice>11.31</OriginalPrice>
-    <Price>8.08</Price>
-    <Code>41.170.94</Code>
-    <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52541966025051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626025593</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portacanne-multiplo-plastica-parete-2-3-4-posti</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portacanne da Pesca da Riposo Multiplo in Plastica - 4 posti</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di supporti offre una soluzione pratica e salvaspazio per riporre le canne da pesca fisse a parete, sia nel gavone della barca che nel garage. Sono realizzati in plastica resistente, con varianti progettate per diverse esigenze di carico. Car</Description>
-    <OriginalPrice>48.16</OriginalPrice>
-    <Price>34.40</Price>
-    <Code>0800091</Code>
-    <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52541966057819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626025609</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portacanne-multiplo-plastica-parete-2-3-4-posti</ParentID>
-  </Offer>
-  <Offer>
     <Name>Portachiavi Davis autogonfiabile</Name>
     <Brand>Motomarine</Brand>
     <Description>Portachiavi autogonfiabile che una volta caduto in mare si apre e il tubo al suo interno si gonfia evitando così lo smarrimento delle chiavi. Quando gonfiato il tubo è alto 36cm e riesce a supportare un peso fino a 80gr. Il portachiavi è monouso, la sosta</Description>
@@ -24384,7 +24339,8 @@ L 320mm. - Ø22</Name>
     <Name>Autoclave SuperFlow a 3 Valvole 12V per Imbarcazioni</Name>
     <Brand>Osculati</Brand>
     <Description>Autoclave SuperFlow a 3 Valvole 12V – Pompa Pressione Silenziosa per Impianti Idrici di Bordo L&apos; autoclave SuperFlow a 3 valvole 12V è la soluzione ideale per chi cerca una pompa pressione affidabile, silenziosa e di lunga durata per l&apos;impianto idrico del</Description>
-    <Price>84.90</Price>
+    <OriginalPrice>78.92</OriginalPrice>
+    <Price>68.63</Price>
     <Code>16.507.12</Code>
     <Link>https://www.onautica.com/products/autoclave-superflow-3-valvole-12v-pompa-pressione-nautica?variant=52577400029531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -24472,8 +24428,8 @@ L 320mm. - Ø22</Name>
     <Name>Bottazzo Profilo Parabordo ECO1 Nero (25mm) – Finitura Giunzioni a Labbro - Giunto di unione</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Bottazzo Profilo Parabordo ECO1 Nero è una soluzione specifica ed economica in PVC, progettata per coprire e rifinire le giunture a labbro (la flangia di unione) tra la coperta e lo scafo dell&apos;imbarcazione. Con un&apos;altezza contenuta di 25 mm , questo pr</Description>
-    <OriginalPrice>17.90</OriginalPrice>
-    <Price>10.55</Price>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>10.82</Price>
     <Code>3833528</Code>
     <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-eco1-nero?variant=52514372092251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -24490,8 +24446,8 @@ L 320mm. - Ø22</Name>
     <Name>Bottazzo Profilo Parabordo T1 Bianco (36mm) – Sistema Componibile in PVC - Giunto di unione</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Bottazzo Profilo Parabordo T1 Bianco è la soluzione ideale per chi cerca una protezione efficace e un&apos;estetica pulita e luminosa per la propria imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza resiste all&apos;ingialliment</Description>
-    <OriginalPrice>17.90</OriginalPrice>
-    <Price>10.55</Price>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>10.82</Price>
     <Code>3833628</Code>
     <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-bianco?variant=52516266017115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -24508,8 +24464,8 @@ L 320mm. - Ø22</Name>
     <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - Terminale di chiusura</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Bottazzo Profilo Parabordo T1 Nero è la soluzione elegante e funzionale per proteggere la fiancata dell&apos;imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza offre un&apos;ottima resistenza agli urti e all&apos;ambiente marino. Come</Description>
-    <OriginalPrice>10.50</OriginalPrice>
-    <Price>6.15</Price>
+    <OriginalPrice>10.80</OriginalPrice>
+    <Price>6.34</Price>
     <Code>3833035</Code>
     <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-nero?variant=52577533034843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -24526,8 +24482,8 @@ L 320mm. - Ø22</Name>
     <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - Giunto di unione</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Bottazzo Profilo Parabordo T1 Nero è la soluzione elegante e funzionale per proteggere la fiancata dell&apos;imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza offre un&apos;ottima resistenza agli urti e all&apos;ambiente marino. Come</Description>
-    <OriginalPrice>17.90</OriginalPrice>
-    <Price>10.55</Price>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>10.82</Price>
     <Code>3833528</Code>
     <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-nero?variant=52577533067611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -25594,8 +25550,8 @@ L 320mm. - Ø22</Name>
     <Name>Giunto di Unione Bianco per Profilo Parabordo ECO e T1</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Giunto di Unione Bianco (Cod. 3833628) è l&apos;elemento di finitura ideale per completare l&apos;installazione dei profili parabordo sulla tua imbarcazione. Compatibile con le serie ECO (ECO1) e T1 , questo accessorio permette di collegare visivamente due tratt</Description>
-    <OriginalPrice>17.90</OriginalPrice>
-    <Price>10.55</Price>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>10.82</Price>
     <Code>3833628</Code>
     <Link>https://www.onautica.com/products/giunto-unione-bottazzo-eco-t1-bianco?variant=52577408909659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26088,22 +26044,6 @@ L 320mm. - Ø22</Name>
     <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
   </Offer>
   <Offer>
-    <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 9 metri</Name>
-    <Brand>Osculati</Brand>
-    <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
-    <OriginalPrice>30.13</OriginalPrice>
-    <Price>21.52</Price>
-    <Code>01.199.11</Code>
-    <Link>https://www.onautica.com/products/molla-ormeggio-spring-acciaio-inox-lucidato?variant=52559508472155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-spring.png?v=1773341729</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033537065774</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
-  </Offer>
-  <Offer>
     <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 10 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
@@ -26585,7 +26525,7 @@ L 320mm. - Ø22</Name>
     <Price>24.37</Price>
     <Code>3801802</Code>
     <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-hole-foro-passante?variant=52549788303707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misure.webp?v=1776247010</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28121,7 +28061,7 @@ L 320mm. - Ø22</Name>
     <Brand>Osculati</Brand>
     <Description>Osculati Teak Three è il protettivo nutriente che completa il ciclo di restauro del teak (Step 3). Si tratta di un trattamento incolore a base totalmente naturale, progettato per sigillare il lavoro di pulizia e proteggere il legno nel tempo. La sua formu</Description>
     <OriginalPrice>28.90</OriginalPrice>
-    <Price>20.62</Price>
+    <Price>20.63</Price>
     <Code>65.744.00</Code>
     <Link>https://www.onautica.com/products/protettivo-teak-three-osculati-olio-nutriente?variant=52513553645915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -28938,11 +28878,27 @@ L 320mm. - Ø22</Name>
     <ParentID>protettivo-teak-wonder-dressing-sealer</ParentID>
   </Offer>
   <Offer>
+    <Name>Terminale di Chiusura Bianco per Profilo Parabordo ECO1</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Bianco (Cod. 3833128) è il complemento perfetto per rifinire l&apos;installazione del profilo parabordo ECO1 sulla tua imbarcazione. Realizzato in PVC bianco lucido, questo tappo di chiusura si adatta alle estremità del profilo tagliat</Description>
+    <OriginalPrice>8.60</OriginalPrice>
+    <Price>5.05</Price>
+    <Code>3833128</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-eco-bianco?variant=52577409499483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbroterminalebianco.webp?v=1773341603</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113887</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-eco-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Terminale di Chiusura Bianco per Profilo Parabordo T2 (45mm)</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Terminale di Chiusura Bianco (Cod. 3833145) è l&apos;accessorio specifico per la finitura della serie di profili parabordo T2 (altezza 45 mm). Realizzato in PVC bianco resistente all&apos;ambiente marino, questo componente serve a chiudere le estremità del botta</Description>
-    <OriginalPrice>10.50</OriginalPrice>
-    <Price>6.15</Price>
+    <OriginalPrice>10.80</OriginalPrice>
+    <Price>6.34</Price>
     <Code>3833145</Code>
     <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-bianco?variant=52577408811355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -28952,6 +28908,22 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626113931</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>terminale-chiusura-bottazzo-t2-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Terminale di Chiusura Nero per Profilo Parabordo ECO1</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Nero (Cod. 3833028) è l&apos;accessorio indispensabile per rifinire in modo professionale l&apos;installazione del vostro bottazzo. Progettato specificamente per la serie ECO1 , questo tappo si applica alle estremità del profilo tagliato. L</Description>
+    <OriginalPrice>8.60</OriginalPrice>
+    <Price>5.05</Price>
+    <Code>3833028</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-eco-nero?variant=52577409204571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbroterminalenero.webp?v=1773341602</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113801</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-eco-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Terminale di Chiusura Nero per Profilo Parabordo T1 (36mm)</Name>
@@ -29402,7 +29374,7 @@ L 320mm. - Ø22</Name>
     <Price>6.01</Price>
     <Code>10792</Code>
     <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577381613915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29483,8 +29455,8 @@ L 320mm. - Ø22</Name>
     <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - BPZ8HS-10 NGK</Name>
     <Brand>NGK</Brand>
     <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
-    <OriginalPrice>18.00</OriginalPrice>
-    <Price>12.85</Price>
+    <OriginalPrice>19.20</OriginalPrice>
+    <Price>13.71</Price>
     <Code>4852108</Code>
     <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382039899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -29802,8 +29774,8 @@ L 320mm. - Ø22</Name>
     <Name>Cartuccia di Ricambio AquaStop per Filtro Separatore Benzina SACS (10 Micron )</Name>
     <Brand>Motomarine</Brand>
     <Description>Mantieni il tuo sistema di alimentazione in perfetta efficienza con la Cartuccia di Ricambio Originale per filtri separatori benzina SACS (compatibile con il supporto codice 4121522). Questo elemento filtrante è fondamentale per la manutenzione periodica </Description>
-    <OriginalPrice>20.08</OriginalPrice>
-    <Price>13.85</Price>
+    <OriginalPrice>21.14</OriginalPrice>
+    <Price>14.58</Price>
     <Code>4121562</Code>
     <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -29917,8 +29889,8 @@ L 320mm. - Ø22</Name>
     <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
     <Brand>Motomarine</Brand>
     <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
-    <OriginalPrice>16.39</OriginalPrice>
-    <Price>12.61</Price>
+    <OriginalPrice>17.26</OriginalPrice>
+    <Price>13.27</Price>
     <Code>4121530</Code>
     <Link>https://www.onautica.com/products/coppa-trasparente-ricambio-filtro-sacs?variant=52577434206555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30140,8 +30112,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtri Olio di Ricambio per Motori Fuoribordo MERCURY 4 Tempi (Gamma Completa) - 8/30 HP</Name>
     <Brand>Mercury</Brand>
     <Description>I Filtri Olio per Fuoribordo a 4 Tempi MERCURY sono essenziali per garantire la massima pulizia e protezione del motore. Questi ricambi sono specificamente progettati per i motori Mercury, inclusa la linea Verado e Fourstroke, assicurando prestazioni otti</Description>
-    <OriginalPrice>8.29</OriginalPrice>
-    <Price>5.92</Price>
+    <OriginalPrice>7.88</OriginalPrice>
+    <Price>5.63</Price>
     <Code>17.504.10</Code>
     <Link>https://www.onautica.com/products/filtri-olio-ricambio-mercury-4-tempi?variant=52513519436123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30284,8 +30256,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtri Olio per Motori Fuoribordo 4 Tempi YAMAHA e SELVA (Varie HP) - 9.9/70 HP</Name>
     <Brand>Yamaha</Brand>
     <Description>I Filtri Olio per Fuoribordo a 4 Tempi sono essenziali per la manutenzione e la protezione dei motori marini YAMAHA e SELVA. Questi filtri di ricambio garantiscono che l&apos;olio motore rimanga pulito, proteggendo i componenti interni dall&apos;usura. Caratteristi</Description>
-    <OriginalPrice>10.64</OriginalPrice>
-    <Price>7.60</Price>
+    <OriginalPrice>10.72</OriginalPrice>
+    <Price>7.66</Price>
     <Code>17.504.07</Code>
     <Link>https://www.onautica.com/products/filtri-olio-ricambio-yamaha-selva-4-tempi?variant=52526559134043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30302,8 +30274,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtri Olio per Motori Fuoribordo 4 Tempi YAMAHA e SELVA (Varie HP) - 150/250 HP</Name>
     <Brand>Yamaha</Brand>
     <Description>I Filtri Olio per Fuoribordo a 4 Tempi sono essenziali per la manutenzione e la protezione dei motori marini YAMAHA e SELVA. Questi filtri di ricambio garantiscono che l&apos;olio motore rimanga pulito, proteggendo i componenti interni dall&apos;usura. Caratteristi</Description>
-    <OriginalPrice>14.94</OriginalPrice>
-    <Price>10.67</Price>
+    <OriginalPrice>13.86</OriginalPrice>
+    <Price>9.90</Price>
     <Code>17.504.05</Code>
     <Link>https://www.onautica.com/products/filtri-olio-ricambio-yamaha-selva-4-tempi?variant=52526559166811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30580,8 +30552,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtro Carburante per Motori Fuoribordo Yamaha (Serie F30 - F115 e compatibili) - 6D8-WS24A-00</Name>
     <Brand>Yamaha</Brand>
     <Description>Elemento filtrante per il carburante (benzina), specifico per motori fuoribordo Yamaha 4 Tempi . Questo componente è essenziale per garantire che al motore arrivi carburante pulito, privo di impurità e acqua, preservando la salute degli iniettori e del si</Description>
-    <OriginalPrice>12.00</OriginalPrice>
-    <Price>7.99</Price>
+    <OriginalPrice>11.70</OriginalPrice>
+    <Price>7.78</Price>
     <Code>17.504.40</Code>
     <Link>https://www.onautica.com/products/filtro-carburante-yamaha-fuoribordo-4t?variant=52513521140059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30650,8 +30622,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtro Gasolio Separatore Sacs Turbine 1001 SF - Cartuccia Ricambio</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Filtro Gasolio Separatore Sacs Turbine 1001 SF è il modello di punta per capacità della serie Turbine, studiato per garantire una protezione assoluta ai motori marini diesel di grossa cilindrata. Questo dispositivo ad alta efficienza previene in modo d</Description>
-    <OriginalPrice>14.14</OriginalPrice>
-    <Price>10.10</Price>
+    <OriginalPrice>14.90</OriginalPrice>
+    <Price>10.64</Price>
     <Code>4122040</Code>
     <Link>https://www.onautica.com/products/filtro-gasolio-separatore-sacs-turbine-1001-sf?variant=52598502097243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30704,8 +30676,8 @@ L 320mm. - Ø22</Name>
     <Name>Filtro Gasolio Separatore Sacs Turbine 501 SF - Cartuccia Ricambio</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Filtro Gasolio Separatore Sacs Turbine 501 SF rappresenta una soluzione di altissima affidabilità per la protezione del motore marino diesel della tua imbarcazione. Questo filtro ad alta capacità garantisce una depurazione eccellente del carburante, pr</Description>
-    <OriginalPrice>7.80</OriginalPrice>
-    <Price>5.57</Price>
+    <OriginalPrice>8.22</OriginalPrice>
+    <Price>5.87</Price>
     <Code>4122035</Code>
     <Link>https://www.onautica.com/products/filtro-gasolio-separatore-sacs-turbine-501-sf?variant=52598472540507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -31100,7 +31072,7 @@ L 320mm. - Ø22</Name>
     <Price>5.58</Price>
     <Code>1175</Code>
     <Link>https://www.onautica.com/products/gomito-femmina-femmina-in-ottone?variant=52532019200347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gomito_ottone_femmina_femmina.jpg?v=1773341674</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -31396,7 +31368,7 @@ L 320mm. - Ø22</Name>
     <Price>5.58</Price>
     <Code>1175</Code>
     <Link>https://www.onautica.com/products/manicotto-ottone-femmina-femmina?variant=52532014285147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manicottoottone.png?v=1764446086</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -31528,6 +31500,24 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626206183</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>miscelatore-elka-lavello-doccetta-estraibile-shut-off</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Musone a Ribalta Pesante Classic Osculati in Acciaio Inox 304 Lucidato per Ancore Delta, Bruce, Trefoil, CQR, SOC - Tipo 3 (ancore max 10 kg) — A 330 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Musone a Ribalta Pesante &quot;Classic&quot; Osculati in Acciaio Inox 304 Lucidato Il musone a ribalta pesante Classic di Osculati è il sistema professionale per ancorare la cima e proteggere la prua dall&apos;attrito di catena e ancora durante le manovre di salpamento.</Description>
+    <OriginalPrice>183.04</OriginalPrice>
+    <Price>140.80</Price>
+    <Code>01.333.01</Code>
+    <Link>https://www.onautica.com/products/musone-a-ribalta-pesante-classic-osculati-in-acciaio-inox-304-lucidato-per-ancore-delta-bruce-trefoil-cqr-soc?variant=52988318843227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-ribalta-pesante-classic-osculati-inox-304-vista-principale.webp?v=1778864909</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137197789</EanCode>
+    <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-ribalta-pesante-classic-osculati-schema-misure-a-b-c.webp?v=1778864912</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>musone-a-ribalta-pesante-classic-osculati-in-acciaio-inox-304-lucidato-per-ancore-delta-bruce-trefoil-cqr-soc</ParentID>
   </Offer>
   <Offer>
     <Name>Nipple Maschio-Maschio in Acciaio Inox AISI 316 - 1&quot;</Name>
@@ -33787,8 +33777,8 @@ bocche Ø 14 mm.</Name>
     <Name>Valvola a Sfera Deviatrice a 3 Vie in Ottone Femmina/Femmina</Name>
     <Brand>Osculati</Brand>
     <Description>Questa valvola a sfera deviatrice a tre vie è un componente essenziale per la gestione dei fluidi a bordo, permettendo di dirigere il flusso tra diverse linee con un unico comando. Caratteristiche Principali e Materiali: Costruzione: Corpo realizzato in o</Description>
-    <OriginalPrice>36.51</OriginalPrice>
-    <Price>26.08</Price>
+    <OriginalPrice>40.17</OriginalPrice>
+    <Price>28.69</Price>
     <Code>17.229.00</Code>
     <Link>https://www.onautica.com/products/valvola-sfera-deviatrice-ottone-nichelato-3-vie?variant=52513579958619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -34026,8 +34016,8 @@ bocche Ø 14 mm.</Name>
     <Name>Anello traina sci in acciaio inox Ø60 Perni 75x10mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Anello traino sci in Acciaio Inox. Si monta a poppa.\n\n CARATTERISTICHE \n \n ∅ mm 60 \n Perni mm 75x10 \n \n Caratteristiche principali Acciaio inox resistente alla corrosione, ideale per l&apos;ambiente marino Forma ad anello per un aggancio sicuro e rapido</Description>
-    <OriginalPrice>20.93</OriginalPrice>
-    <Price>14.95</Price>
+    <OriginalPrice>28.25</OriginalPrice>
+    <Price>20.18</Price>
     <Code>3015006</Code>
     <Link>https://www.onautica.com/products/anello-traina-sci-in-acciaio-inox-o60-perni-75x10mm-1?variant=52577415135579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -36774,7 +36764,7 @@ bocche Ø 14 mm.</Name>
     <Price>33.09</Price>
     <Code>3008160</Code>
     <Link>https://www.onautica.com/products/salvagente-anulare-compatto-med-600-solas?variant=52577463468379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-compatto-med-600-solas.webp?v=1773477432</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -37004,23 +36994,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03.png?v=1773341983</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626006226</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scaletta Pieghevole in Acciaio Inox AISI 316 con Gradini Ovali - 4 gradini</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa scaletta pieghevole è la soluzione premium per la risalita a bordo, unendo l&apos;eleganza dell&apos;acciaio inox a caratteristiche di design che ne aumentano il comfort e la sicurezza. Caratteristiche Premium: Materiale: Realizzata in Acciaio Inox AISI 316 </Description>
-    <OriginalPrice>76.10</OriginalPrice>
-    <Price>60.87</Price>
-    <Code>49.582.04</Code>
-    <Link>https://www.onautica.com/products/scaletta-pieghevole-inox-aisi316-gradini-ovali?variant=52541969269083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03.png?v=1773341983</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626006233</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
@@ -38491,8 +38464,8 @@ bocche Ø 14 mm.</Name>
     <Name>Aghi riparazione vele 5 pz.</Name>
     <Brand>Osculati</Brand>
     <Description>Ogni kit è composto da una selezione di aghi di varie forme e dimensioni, per adattarsi a diversi tipi di tessuto e di cuciture, dalla riparazione di un piccolo strappo alla ricucitura di una fettuccia o di un rinforzo. Guida alla Scelta del Kit Corretto </Description>
-    <OriginalPrice>7.49</OriginalPrice>
-    <Price>5.55</Price>
+    <OriginalPrice>7.91</OriginalPrice>
+    <Price>5.86</Price>
     <Code>3191052</Code>
     <Link>https://www.onautica.com/products/aghi-riparazione-vele-5-pz-1?variant=52577507541339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -40229,8 +40202,8 @@ bocche Ø 14 mm.</Name>
     <Name>Kit Serratura Opzionale con Chiave per Sportelli in ABS</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo Kit Serratura Opzionale è l&apos;accessorio indispensabile per chi desidera maggiore sicurezza a bordo. Progettato specificamente per la linea di Sportelli in ABS (come i modelli QT, BT e simili), permette di sostituire o integrare il sistema di chiusur</Description>
-    <OriginalPrice>16.79</OriginalPrice>
-    <Price>11.99</Price>
+    <OriginalPrice>15.72</OriginalPrice>
+    <Price>11.23</Price>
     <Code>0343300</Code>
     <Link>https://www.onautica.com/products/kit-serratura-sportelli-abs-0343300?variant=52577451475291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -41391,8 +41364,8 @@ bocche Ø 14 mm.</Name>
     <Name>Smalto Elastico VENEZIANI Gummipaint – Finitura per Gommoni (Cod. 6715) - Giallo</Name>
     <Brand>Veneziani</Brand>
     <Description>La Finitura Elastica VENEZIANI Gummipaint (Cod. 6715) è uno smalto monocomponente formulato specificamente per il restauro e la verniciatura dei tubolari dei gommoni. È la soluzione ideale per rinnovare l&apos;estetica di battelli pneumatici invecchiati o scol</Description>
-    <OriginalPrice>66.88</OriginalPrice>
-    <Price>47.77</Price>
+    <OriginalPrice>68.89</OriginalPrice>
+    <Price>49.21</Price>
     <Code>65.009.02GI</Code>
     <Link>https://www.onautica.com/products/smalto-elastico-veneziani-gummipaint-finitura?variant=52514361672027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -41785,8 +41758,8 @@ bocche Ø 14 mm.</Name>
     <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Serratura (Optional)</Name>
     <Brand>CAN</Brand>
     <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
-    <OriginalPrice>16.79</OriginalPrice>
-    <Price>11.99</Price>
+    <OriginalPrice>15.72</OriginalPrice>
+    <Price>11.23</Price>
     <Code>0343300</Code>
     <Link>https://www.onautica.com/products/sportello-abs-con-box-bt-medium?variant=52519932559707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42451,25 +42424,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216045</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>24.64</OriginalPrice>
-    <Price>17.60</Price>
-    <Code>3270204</Code>
-    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242539867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626216052</EanCode>
-    <Weight>160.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
