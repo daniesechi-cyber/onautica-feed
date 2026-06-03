@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-03T06:30:51.669Z -->
-<!-- Offerte: 2683 -->
+<!-- Generato: 2026-06-03T10:30:51.630Z -->
+<!-- Offerte: 2685 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1585,22 +1585,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cuneo-sicurezza-fermaruota-carrellomisure.webp?v=1773341651</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cuneo-sicurezza-fermaruota-carrello-supporto</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Elastico Millepiedi per Randa – Ø 8mm x 200 cm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos; Elastico Millepiedi (Lunghezza 200 cm) è il sistema più rapido ed efficiente per bloccare la randa sul boma una volta ammainata. Costituito da un robusto cavo elastico marino del diametro di 8 mm , questo accessorio permette di avvolgere e contenere la</Description>
-    <OriginalPrice>16.50</OriginalPrice>
-    <Price>11.78</Price>
-    <Code>3176020</Code>
-    <Link>https://www.onautica.com/products/elastico-millepiedi-randa-2m?variant=52577451606363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Accessori Albero</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/elastico-millepiedi-randa-2m.png?v=1773341703</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033389769086</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>elastico-millepiedi-randa-2m</ParentID>
   </Offer>
   <Offer>
     <Name>Elastico Millepiedi per Randa – Ø 8mm x 300 cm</Name>
@@ -3887,6 +3871,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_di_ricambio_per_timone_150_mm._carrello.png?v=1773341807</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137067631</EanCode>
+    <Weight>580.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>ruotino-di-ricambio-per-timone-o-150-mm-carrello</ParentID>
   </Offer>
@@ -7098,24 +7083,6 @@
     <ParentID>antivegetativa-sp-premium-365-autolevigante</ParentID>
   </Offer>
   <Offer>
-    <Name>Antivegetativa Autolevigante SP Premium 365 – Protezione Annuale (Universale) - Bianca / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa SP Premium 365 è la soluzione premium a matrice autolevigante progettata per garantire una carena pulita e protetta per tutto l&apos;anno (365 giorni). È ideale per armatori di barche a vela e a motore (fino a 25 nodi ) che desiderano ridurre</Description>
-    <OriginalPrice>114.70</OriginalPrice>
-    <Price>104.24</Price>
-    <Code>65.602.21</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-sp-premium-365-autolevigante?variant=52113049223515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-sp-premium-365-autolevigante</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antivegetativa Autolevigante Stagionale – Per VTR e Barche fino a 30 Nodi - Nero / 2,50 lt.</Name>
     <Brand>Safe Nanotech</Brand>
     <Description>Questa Antivegetativa Autolevigante Stagionale è la scelta equilibrata per chi cerca una protezione efficace e un ottimo rapporto qualità-prezzo. È formulata specificamente per imbarcazioni in Vetroresina (VTR) , Legno e Ferro che navigano a velocità medi</Description>
@@ -9270,7 +9237,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.05</Price>
     <Code>33.171.11AR</Code>
     <Link>https://www.onautica.com/products/gavitello-biconico-polietilene-doppio-anello?variant=51837130047835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Boe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa_gavitello_bicono.png?v=1773341985</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -10117,22 +10084,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626062840</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 2 poli / max 20A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
-    <OriginalPrice>26.67</OriginalPrice>
-    <Price>19.05</Price>
-    <Code>14.387.02</Code>
-    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194986331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137009389</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
   </Offer>
@@ -14542,6 +14493,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>riflettore-radar-supercompact-alluminio</ParentID>
   </Offer>
   <Offer>
+    <Name>Sacca Segnali di Soccorso Pesca Professionale Entro 6 Miglia (DM 2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Sacca Segnali di Soccorso per Pesca Professionale Entro le 6 Miglia è la dotazione di sicurezza regolamentare dedicata agli operatori del settore ittico. Il kit è rigorosamente aggiornato alle disposizioni del DM n°133 del 21/09/2024 e rispetta la Dire</Description>
+    <OriginalPrice>117.33</OriginalPrice>
+    <Price>102.02</Price>
+    <Code>KIT6PS</Code>
+    <Link>https://www.onautica.com/products/sacca-segnali-soccorso-pesca-professionale-6-miglia-dm-2024?variant=52577367523675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-segnali-soccorso-pesca-professionale-6-miglia.webp?v=1774695023</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.64</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-segnali-soccorso-pesca-professionale-6-migliabusta.webp?v=1774695023</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-segnali-soccorso-pesca-professionale-6-miglia-dm-2024</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scatola Portafusibili in Policarbonato con Coperchio a Scatto 6/12 posti - 6 Posti</Name>
     <Brand>Osculati</Brand>
     <Description>Questa scatola portafusibili è la soluzione ideale per l&apos;organizzazione e la protezione degli impianti elettrici di bordo (12/24 V). È realizzata in policarbonato con un coperchio trasparente a scatto , che permette un&apos;immediata verifica dei fusibili, ed </Description>
@@ -15105,6 +15073,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-migliabusta.webp?v=1774693721</Image2>
     <Condition>nuovo</Condition>
     <ParentID>valigetta-segnali-soccorso-entro-3-miglia-dm-2024</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Valigetta Segnali di Soccorso per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnico è rigorosamente allineato alle r</Description>
+    <OriginalPrice>108.59</OriginalPrice>
+    <Price>94.43</Price>
+    <Code>KIT6/12/50</Code>
+    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.63</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diportobusta.webp?v=1774693894</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Valigetta Segnali di Soccorso Oltre 50 Miglia Diporto / Oltre 6 Miglia Noleggio (DM 21/09/2024)</Name>
@@ -16718,6 +16703,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626025593</EanCode>
+    <Weight>370.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/41.170.93.png?v=1773341828</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS.png?v=1773341828</Image3>
     <Condition>nuovo</Condition>
@@ -21389,11 +21375,12 @@ L 320mm. - Ø22</Name>
     <Price>21.94</Price>
     <Code>72068</Code>
     <Link>https://www.onautica.com/products/giubbotto-salvagente-lalizas-100n-mutandina?variant=52530076221787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/72067-68.png?v=1773341725</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>5204980720681</EanCode>
+    <Weight>450.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/71077.png?v=1773341725</Image2>
     <Condition>nuovo</Condition>
     <ParentID>giubbotto-salvagente-lalizas-100n-mutandina</ParentID>
@@ -25871,7 +25858,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mezzo-marinaio-telescopico-easy-alluminio.png?v=1765216656</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626000132</EanCode>
-    <Weight>470.00</Weight>
+    <Weight>0.47</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/schemautilizzomezzo-marinaio-telescopico-easy-alluminio.png?v=1765216597</Image2>
     <Condition>nuovo</Condition>
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
@@ -30854,7 +30841,7 @@ L 320mm. - Ø22</Name>
     <Price>7.46</Price>
     <Code>10513</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-200-gr?variant=52577439514971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gelcoat_bianco_200_gr..png?v=1773341664</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -33455,7 +33442,7 @@ bocche Ø 14 mm.</Name>
     <Price>7.80</Price>
     <Code>1425013</Code>
     <Link>https://www.onautica.com/products/tappo-scarico-espansione-plastica-pvc-leva?variant=52525191659867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-scarico-espansione-plastica-pvc-leva_40-35-mm.png?v=1773341839</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36994,6 +36981,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03.png?v=1773341983</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626006226</EanCode>
+    <Weight>2.13</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
@@ -43337,6 +43325,38 @@ bocche Ø 14 mm.</Name>
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
   <Offer>
+    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 5/8&quot; / 25 mt</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
+    <OriginalPrice>43.04</OriginalPrice>
+    <Price>35.87</Price>
+    <Code>76495-15</Code>
+    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152548699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779156876</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-tricogel-nts-banchina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 5/8&quot; / 15 mt</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
+    <OriginalPrice>26.64</OriginalPrice>
+    <Price>22.20</Price>
+    <Code>76495-10</Code>
+    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152581467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779156869</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-tricogel-nts-banchina</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 3/4&quot; / 50 mt</Name>
     <Brand>Ferramenta Sardo Piemontese</Brand>
     <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
@@ -43379,6 +43399,22 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8011779390294</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-tricogel-nts-banchina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 1/2&quot; / 15 mt</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
+    <OriginalPrice>22.34</OriginalPrice>
+    <Price>18.62</Price>
+    <Code>76495-02</Code>
+    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152712539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779390287</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
