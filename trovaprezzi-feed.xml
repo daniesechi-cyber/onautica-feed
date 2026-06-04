@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-04T06:31:44.123Z -->
+<!-- Generato: 2026-06-04T10:30:52.991Z -->
 <!-- Offerte: 2677 -->
 <Products>
   <Offer>
@@ -15031,7 +15031,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15761,6 +15761,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Compasso_a_molla_14_mm._-_L_260_mm..png?v=1773341649</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626007391</EanCode>
+    <Weight>300.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Compasso_a_molla_14_mm._-_L_260_mm._1.png?v=1773341650</Image2>
     <Condition>nuovo</Condition>
     <ParentID>compasso-a-molla-o-14-mm-l-260-mm</ParentID>
@@ -28221,6 +28222,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/34.452.XX.png?v=1773341491</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137029639</EanCode>
+    <Weight>750.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>remo-in-alluminio-anodizzato-divisibile-l-120-167-cm</ParentID>
   </Offer>
@@ -31710,6 +31712,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompetta.png?v=1773341772</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137039027</EanCode>
+    <Weight>70.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompetta-benzina-o-8-mm</ParentID>
   </Offer>
