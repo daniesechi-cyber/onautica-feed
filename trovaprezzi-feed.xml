@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-04T14:30:52.538Z -->
+<!-- Generato: 2026-06-04T18:10:52.087Z -->
 <!-- Offerte: 2677 -->
 <Products>
   <Offer>
@@ -1544,11 +1544,11 @@
     <Link>https://www.onautica.com/products/cordone-ombelicale-elastico-euro-spring-line?variant=52589958332763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cordone-ombelicale-elastico-euro-spring-line-2_a9ca31ac-74b0-4627-bce2-b27911c2e7f1.webp?v=1773485061</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cordone-ombelicale-elastico-euro-spring-line.webp?v=1773483619</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137044199</EanCode>
     <Weight>400.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cordone-ombelicale-elastico-euro-spring-line-2sacca_fc63fe08-4464-418c-af24-4f31450af514.webp?v=1773485061</Image2>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cordone-ombelicale-elastico-euro-spring-linesacca.webp?v=1773483620</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cordone-ombelicale-elastico-euro-spring-line</ParentID>
   </Offer>
@@ -12428,7 +12428,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>16.09</Price>
     <Code>3813005SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577413038427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24717,7 +24717,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5732948.png?v=1773341723</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8017369502238</EanCode>
-    <Weight>800.00</Weight>
+    <Weight>0.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>offerta-detergente-iosso-raft-cleaner-750-ml</ParentID>
   </Offer>
@@ -28432,22 +28432,6 @@ L 320mm. - Ø22</Name>
     <ParentID>terminale-chiusura-bottazzo-eco-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Terminale di Chiusura Bianco per Profilo Parabordo T2 (45mm)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Terminale di Chiusura Bianco (Cod. 3833145) è l&apos;accessorio specifico per la finitura della serie di profili parabordo T2 (altezza 45 mm). Realizzato in PVC bianco resistente all&apos;ambiente marino, questo componente serve a chiudere le estremità del botta</Description>
-    <OriginalPrice>10.80</OriginalPrice>
-    <Price>6.34</Price>
-    <Code>3833145</Code>
-    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-bianco?variant=52577408811355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalebianco.webp?v=1773341955</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626113931</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>terminale-chiusura-bottazzo-t2-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Terminale di Chiusura Nero per Profilo Parabordo ECO1</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Terminale di Chiusura Nero (Cod. 3833028) è l&apos;accessorio indispensabile per rifinire in modo professionale l&apos;installazione del vostro bottazzo. Progettato specificamente per la serie ECO1 , questo tappo si applica alle estremità del profilo tagliato. L</Description>
@@ -28995,42 +28979,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-u2-pvcschemamisura2.webp?v=1770746145</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bottazzo-profilo-parabordo-u2-nero</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Box incasso per miscelatore acqua calda/fredda e doccette realizzato in plastica antiurto, resistente ai raggi UV. Da completare con miscelatore T Mixer , doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70x115 98x143 73 Caratteri</Description>
-    <OriginalPrice>24.03</OriginalPrice>
-    <Price>17.16</Price>
-    <Code>1513610</Code>
-    <Link>https://www.onautica.com/products/box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm?variant=52577422934363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm..png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626239037</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._1.png?v=1773341650</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._2.png?v=1773341636</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Box doccetta Uni-S</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore box per doccette da incasso realizzato in plastica resistente agli urti e ai raggi UV. Può essere installato sia in posizione verticale che orizzontale. Completabile con doccetta e tubo flessibile a scelta. incasso mm. esterno mm. altezza mm. </Description>
-    <OriginalPrice>10.75</OriginalPrice>
-    <Price>7.68</Price>
-    <Code>1513604</Code>
-    <Link>https://www.onautica.com/products/box-doccetta-uni-s?variant=52577423425883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_1.png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626043566</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S.png?v=1773341636</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_2.png?v=1773341636</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>box-doccetta-uni-s</ParentID>
   </Offer>
   <Offer>
     <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - DR7EA NGK</Name>
@@ -33229,6 +33177,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>protettivo-teak-wonder-dressing-sealer</ParentID>
   </Offer>
   <Offer>
+    <Name>Terminale di Chiusura Bianco per Profilo Parabordo T2 (45mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Bianco (Cod. 3833145) è l&apos;accessorio specifico per la finitura della serie di profili parabordo T2 (altezza 45 mm). Realizzato in PVC bianco resistente all&apos;ambiente marino, questo componente serve a chiudere le estremità del botta</Description>
+    <OriginalPrice>10.80</OriginalPrice>
+    <Price>6.34</Price>
+    <Code>3833145</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-bianco?variant=52577408811355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalebianco.webp?v=1773341955</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113931</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-t2-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Trinella - Baderna Premistoppa per Asse Elica – Confezione 1,5m - 6x6 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Trinella (Baderna Premistoppa) è il materiale di consumo essenziale per garantire la tenuta stagna degli astucci porta elica dotati di sistema a premitreccia tradizionale. Questa treccia è progettata per comprimersi all&apos;interno del premistoppa, creando</Description>
@@ -33946,6 +33910,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>box-doccetta-dritta-246</ParentID>
   </Offer>
   <Offer>
+    <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Box incasso per miscelatore acqua calda/fredda e doccette realizzato in plastica antiurto, resistente ai raggi UV. Da completare con miscelatore T Mixer , doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70x115 98x143 73 Caratteri</Description>
+    <OriginalPrice>24.03</OriginalPrice>
+    <Price>17.16</Price>
+    <Code>1513610</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm?variant=52577422934363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm..png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626239037</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._1.png?v=1773341650</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._2.png?v=1773341636</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Box doccetta round</Name>
     <Brand>Motomarine</Brand>
     <Description>Contenitore tondo da incasso in plastica per doccette, dotato di chiusura morbida. Si completa con doccetta ( 1 getto ) e tubo flessibile a scelta. incasso mm. esterno mm. altezza mm. 57 77 65 Caratteristiche principali Design tondo a incasso per un&apos;insta</Description>
@@ -33978,6 +33960,24 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round_universal_2.png?v=1773341636</Image2>
     <Condition>nuovo</Condition>
     <ParentID>box-doccetta-round-universal</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box doccetta Uni-S</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore box per doccette da incasso realizzato in plastica resistente agli urti e ai raggi UV. Può essere installato sia in posizione verticale che orizzontale. Completabile con doccetta e tubo flessibile a scelta. incasso mm. esterno mm. altezza mm. </Description>
+    <OriginalPrice>10.75</OriginalPrice>
+    <Price>7.68</Price>
+    <Code>1513604</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-uni-s?variant=52577423425883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_1.png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626043566</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S.png?v=1773341636</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_2.png?v=1773341636</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-uni-s</ParentID>
   </Offer>
   <Offer>
     <Name>Box per innesto rapido per tubo doccetta</Name>
@@ -38283,23 +38283,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/amplificatore_antenna-tv-fm-glomex-avior-vt300.png?v=1773341956</Image3>
     <Condition>nuovo</Condition>
     <ParentID>antenna-tv-radio-glomex-avior-vt300</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antenna VHF Marina Glomex RA112 in Vetroresina per Barche a Motore (1,5 mt.)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna VHF RA112 è un classico della gamma Glomex, progettata specificamente per l&apos;installazione su barche a motore . La sua struttura in vetroresina con finitura poliuretanica lucida garantisce un&apos;estetica elegante e una protezione totale contro i ra</Description>
-    <OriginalPrice>73.80</OriginalPrice>
-    <Price>56.80</Price>
-    <Code>5636215</Code>
-    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra112-barche-motore?variant=52577378369883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra112-motore.png?v=1773341526</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566300624</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-vhf-glomex-ra112-barche-motore</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna VHF Marina Glomex RA400 in Vetroresina (1,5 m) – Universale</Name>
@@ -43695,6 +43678,23 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
     <Condition>nuovo</Condition>
     <ParentID>antenna-vhf-glomex-vetroresina-vela-09m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antenna VHF Marina Glomex RA112 in Vetroresina per Barche a Motore (1,5 mt.)</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna VHF RA112 è un classico della gamma Glomex, progettata specificamente per l&apos;installazione su barche a motore . La sua struttura in vetroresina con finitura poliuretanica lucida garantisce un&apos;estetica elegante e una protezione totale contro i ra</Description>
+    <OriginalPrice>73.80</OriginalPrice>
+    <Price>56.80</Price>
+    <Code>5636215</Code>
+    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra112-barche-motore?variant=52577378369883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra112-motore.png?v=1773341526</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566300624</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-vhf-glomex-ra112-barche-motore</ParentID>
   </Offer>
   <Offer>
     <Name>Attacco Tangone Inox per Albero Ø 55-60 mm – Anello 6 mm</Name>
