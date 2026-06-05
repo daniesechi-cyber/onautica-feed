@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-04T18:10:52.087Z -->
-<!-- Offerte: 2677 -->
+<!-- Generato: 2026-06-05T06:30:52.960Z -->
+<!-- Offerte: 2700 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1019,6 +1019,22 @@
     <ParentID>cavo-verricello-acciaio-zincato-aircraft-moschettone</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 6 mm. - 7.5 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo cavo è un componente di ricambio essenziale per i verricelli e gli arganelli a mano. È realizzato in acciaio zincato flessibile di tipo **“Aircraft”**, offrendo un&apos;eccellente combinazione di resistenza meccanica e flessibilità, essenziale per il co</Description>
+    <OriginalPrice>36.02</OriginalPrice>
+    <Price>20.01</Price>
+    <Code>02.091.03</Code>
+    <Link>https://www.onautica.com/products/cavo-verricello-acciaio-zincato-aircraft-moschettone?variant=52513501053275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_verricello_6_mm._x_7_5_mt.png?v=1773341643</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137070167</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-verricello-acciaio-zincato-aircraft-moschettone</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavo Parafil 9 mm in Terylene con Guaina Bianca in Alkathene – Vendita al Metro</Name>
     <Brand>Osculati</Brand>
     <Description>Cavo Parafil 9 mm – Filato in Terylene con Guaina Bianca in Alkathene, Vendita al Metro Lineare Il cavo Parafil 9 mm venduto al metro lineare è la soluzione ideale per chi ha bisogno della quantità esatta per il proprio progetto a bordo, senza dover acqui</Description>
@@ -1866,6 +1882,62 @@
     <EanCode>0201077</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>gancio-omologato-per-rimorchio-quadro-max-750-kg</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giacca Antipioggia Offshore Heavy - Polsino Interno, PVC 560g (20K mm) - Size XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La giacca antipioggia Offshore Heavy di OCEAN è un indumento ROBUSTO e PROTETTIVO, realizzato con il materiale PVC più resistente disponibile, che la rende adatta alle condizioni più IMPEGNATIVE, anche a basse temperature. Protezione per Condizioni Estrem</Description>
+    <OriginalPrice>52.06</OriginalPrice>
+    <Price>43.38</Price>
+    <Code>02012206-XL</Code>
+    <Link>https://www.onautica.com/products/giacca-antipioggia-offshore-polsino-interno?variant=52539843838299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro.png?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332058259</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro_laterale_frontale.png?v=1773341989</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro_laterale.png?v=1773341990</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giacca-antipioggia-offshore-polsino-interno</ParentID>
+    <Size>XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Giacca Antipioggia Offshore Heavy - Polsino Interno, PVC 560g (20K mm) - Size 2XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La giacca antipioggia Offshore Heavy di OCEAN è un indumento ROBUSTO e PROTETTIVO, realizzato con il materiale PVC più resistente disponibile, che la rende adatta alle condizioni più IMPEGNATIVE, anche a basse temperature. Protezione per Condizioni Estrem</Description>
+    <OriginalPrice>52.06</OriginalPrice>
+    <Price>43.38</Price>
+    <Code>02012206-2XL</Code>
+    <Link>https://www.onautica.com/products/giacca-antipioggia-offshore-polsino-interno?variant=52539843871067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro.png?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332058266</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro_laterale_frontale.png?v=1773341989</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro_laterale.png?v=1773341990</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giacca-antipioggia-offshore-polsino-interno</ParentID>
+    <Size>2XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Giacca Antipioggia Offshore Heavy - Polsino Interno, PVC 560g (20K mm) - Size 4XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La giacca antipioggia Offshore Heavy di OCEAN è un indumento ROBUSTO e PROTETTIVO, realizzato con il materiale PVC più resistente disponibile, che la rende adatta alle condizioni più IMPEGNATIVE, anche a basse temperature. Protezione per Condizioni Estrem</Description>
+    <OriginalPrice>52.06</OriginalPrice>
+    <Price>43.38</Price>
+    <Code>02012206-4XL</Code>
+    <Link>https://www.onautica.com/products/giacca-antipioggia-offshore-polsino-interno?variant=52539843936603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro.png?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro_laterale_frontale.png?v=1773341989</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giacca-offshore-heavy-polsino-interno-velcro_laterale.png?v=1773341990</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giacca-antipioggia-offshore-polsino-interno</ParentID>
+    <Size>4XL</Size>
   </Offer>
   <Offer>
     <Name>Giacca Antipioggia Offshore Heavy - PVC 560g, Ignifuga EN14116 (20K mm) - Size S</Name>
@@ -3293,6 +3365,24 @@
     <ParentID>prese-e-spine-marinco-32a-230v</ParentID>
   </Offer>
   <Offer>
+    <Name>Prese e Spine Banchina 230V/32A – Sistema Stagno in Valox e Inox - Cappuccio Spina Marinco</Name>
+    <Brand>Osculati</Brand>
+    <Description>La gamma di Connessioni di Banchina 230V/32A è progettata per imbarcazioni con esigenze energetiche superiori, dove sicurezza e durata sono imprescindibili. Questo sistema completo integra prese da incasso e connettori volanti realizzati con materiali pre</Description>
+    <OriginalPrice>32.38</OriginalPrice>
+    <Price>23.13</Price>
+    <Code>14.587.04</Code>
+    <Link>https://www.onautica.com/products/prese-e-spine-marinco-32a-230v?variant=52559380578651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cappuccio_sistema-connessione-banchina-32a-valox-inox.png?v=1773341637</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>933440082148</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sistema-connessione-banchina-32a-valox-inox_spina.png?v=1773341819</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sistema-connessione-banchina-32a-valox-inox_presa.png?v=1773341739</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>prese-e-spine-marinco-32a-230v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pulsantiera Up-Down - 2 pulsanti</Name>
     <Brand>Motomarine</Brand>
     <Description>Pulsantiera Up-Down comando salpa-ancore con cavo estensibile da 4,2 metri. Impermeabile, completa di connettore stagno e staffa di supporto. Tensione universale 12/24V. Disponibile con o senza torcia LED integrata. Pulsanti Torcia LED 2 NO Caratteristich</Description>
@@ -3876,6 +3966,138 @@
     <ParentID>ruotino-di-ricambio-per-timone-o-150-mm-carrello</ParentID>
   </Offer>
   <Offer>
+    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - M</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
+    <OriginalPrice>70.01</OriginalPrice>
+    <Price>58.34</Price>
+    <Code>03009006-M</Code>
+    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52513560035675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332201563</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
+    <Size>M</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - L</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
+    <OriginalPrice>70.01</OriginalPrice>
+    <Price>58.34</Price>
+    <Code>03009006-L</Code>
+    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307572059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332201587</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
+    <Size>L</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
+    <OriginalPrice>70.01</OriginalPrice>
+    <Price>58.34</Price>
+    <Code>03009006-XL</Code>
+    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307604827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332201600</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
+    <Size>XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - 2XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
+    <OriginalPrice>70.01</OriginalPrice>
+    <Price>58.34</Price>
+    <Code>03009006-2XL</Code>
+    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307637595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332201624</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
+    <Size>2XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - 4XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
+    <OriginalPrice>70.01</OriginalPrice>
+    <Price>58.34</Price>
+    <Code>03009006-4XL</Code>
+    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307703131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332201662</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
+    <Size>4XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - 5XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
+    <OriginalPrice>70.01</OriginalPrice>
+    <Price>58.34</Price>
+    <Code>03009006-5XL</Code>
+    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307735899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332201686</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
+    <Size>5XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette OCEAN Weather Heavy - Colore Verde, PVC 700g Freddo/Extreme - Size L</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
+    <OriginalPrice>97.70</OriginalPrice>
+    <Price>81.42</Price>
+    <Code>0300310202015</Code>
+    <Link>https://www.onautica.com/products/salopette-ocean-weather-heavy-700g-verde?variant=52539878801755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde.webp?v=1765449543</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde_laterale.webp?v=1765449543</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde_laterale_dietro.webp?v=1765449543</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-ocean-weather-heavy-700g-verde</ParentID>
+    <Size>L</Size>
+  </Offer>
+  <Offer>
     <Name>Salopette OCEAN Weather Heavy - Colore Verde, PVC 700g Freddo/Extreme - Size XL</Name>
     <Brand>Ocean</Brand>
     <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
@@ -3930,6 +4152,81 @@
     <Size>3XL</Size>
   </Offer>
   <Offer>
+    <Name>Salopette OCEAN Weather Heavy - Colore Verde, PVC 700g Freddo/Extreme - Size 4XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
+    <OriginalPrice>97.70</OriginalPrice>
+    <Price>81.42</Price>
+    <Code>0300310202019</Code>
+    <Link>https://www.onautica.com/products/salopette-ocean-weather-heavy-700g-verde?variant=52539878932827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde.webp?v=1765449543</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde_laterale.webp?v=1765449543</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde_laterale_dietro.webp?v=1765449543</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-ocean-weather-heavy-700g-verde</ParentID>
+    <Size>4XL</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette OCEAN Weather Heavy - PVC 700g, Freddo/Extreme (20.000mm) - M</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
+    <OriginalPrice>97.70</OriginalPrice>
+    <Price>81.42</Price>
+    <Code>03003106-M</Code>
+    <Link>https://www.onautica.com/products/salopette-ocean-weather-heavy-700g?variant=52513560461659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g.png?v=1765448934</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332073689</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g2.png?v=1765448934</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g3.png?v=1765448934</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-ocean-weather-heavy-700g</ParentID>
+    <Size>M</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette OCEAN Weather Heavy - PVC 700g, Freddo/Extreme (20.000mm) - L</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
+    <OriginalPrice>97.70</OriginalPrice>
+    <Price>81.42</Price>
+    <Code>03003106-L</Code>
+    <Link>https://www.onautica.com/products/salopette-ocean-weather-heavy-700g?variant=52559080751451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g.png?v=1765448934</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332073696</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g2.png?v=1765448934</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g3.png?v=1765448934</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-ocean-weather-heavy-700g</ParentID>
+    <Size>L</Size>
+  </Offer>
+  <Offer>
+    <Name>Salopette OCEAN Weather Heavy - PVC 700g, Freddo/Extreme (20.000mm) - XL</Name>
+    <Brand>Ocean</Brand>
+    <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
+    <OriginalPrice>97.70</OriginalPrice>
+    <Price>81.42</Price>
+    <Code>03003106-XL</Code>
+    <Link>https://www.onautica.com/products/salopette-ocean-weather-heavy-700g?variant=52559080784219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g.png?v=1765448934</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332073702</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g2.png?v=1765448934</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g3.png?v=1765448934</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salopette-ocean-weather-heavy-700g</ParentID>
+    <Size>XL</Size>
+  </Offer>
+  <Offer>
     <Name>Salopette OCEAN Weather Heavy - PVC 700g, Freddo/Extreme (20.000mm) - 2XL</Name>
     <Brand>Ocean</Brand>
     <Description>La Weather Heavy Bib &amp; Brace di OCEAN è un indumento da lavoro ESTREMAMENTE AFFIDABILE e ROBUSTO ideale per condizioni di lavoro esigenti, specialmente in AMBIENTI FREDDI e ostili. Durabilità Estrema e Protezione dal Freddo: Materiale Rinforzato: Realizza</Description>
@@ -3966,6 +4263,24 @@
     <Size>3XL</Size>
   </Offer>
   <Offer>
+    <Name>Scafandro OCEAN Original Waders con Stivale - Impermeabili e Resistenti - 40</Name>
+    <Brand>Ocean</Brand>
+    <Description>Affronta il Bagnato con Sicurezza: Waders Originali OCEAN Scopri gli Original Waders di OCEAN , la soluzione di abbigliamento affidabile e confortevole pensata per chi lavora (o si diverte) in ambienti umidi ed esigenti , dove è essenziale proteggersi eff</Description>
+    <OriginalPrice>104.72</OriginalPrice>
+    <Price>87.27</Price>
+    <Code>0800020206140</Code>
+    <Link>https://www.onautica.com/products/scafandro-ocean-original-stivale?variant=52513560723803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean_png.png?v=1762772098</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean1.png?v=1762772101</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean2.png?v=1762772104</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scafandro-ocean-original-stivale</ParentID>
+    <Size>40</Size>
+  </Offer>
+  <Offer>
     <Name>Scafandro OCEAN Original Waders con Stivale - Impermeabili e Resistenti - 41</Name>
     <Brand>Ocean</Brand>
     <Description>Affronta il Bagnato con Sicurezza: Waders Originali OCEAN Scopri gli Original Waders di OCEAN , la soluzione di abbigliamento affidabile e confortevole pensata per chi lavora (o si diverte) in ambienti umidi ed esigenti , dove è essenziale proteggersi eff</Description>
@@ -3984,6 +4299,24 @@
     <Size>41</Size>
   </Offer>
   <Offer>
+    <Name>Scafandro OCEAN Original Waders con Stivale - Impermeabili e Resistenti - 42</Name>
+    <Brand>Ocean</Brand>
+    <Description>Affronta il Bagnato con Sicurezza: Waders Originali OCEAN Scopri gli Original Waders di OCEAN , la soluzione di abbigliamento affidabile e confortevole pensata per chi lavora (o si diverte) in ambienti umidi ed esigenti , dove è essenziale proteggersi eff</Description>
+    <OriginalPrice>104.72</OriginalPrice>
+    <Price>87.27</Price>
+    <Code>0800020206142</Code>
+    <Link>https://www.onautica.com/products/scafandro-ocean-original-stivale?variant=52559001125211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean_png.png?v=1762772098</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean1.png?v=1762772101</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean2.png?v=1762772104</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scafandro-ocean-original-stivale</ParentID>
+    <Size>42</Size>
+  </Offer>
+  <Offer>
     <Name>Scafandro OCEAN Original Waders con Stivale - Impermeabili e Resistenti - 43</Name>
     <Brand>Ocean</Brand>
     <Description>Affronta il Bagnato con Sicurezza: Waders Originali OCEAN Scopri gli Original Waders di OCEAN , la soluzione di abbigliamento affidabile e confortevole pensata per chi lavora (o si diverte) in ambienti umidi ed esigenti , dove è essenziale proteggersi eff</Description>
@@ -4000,6 +4333,24 @@
     <Condition>nuovo</Condition>
     <ParentID>scafandro-ocean-original-stivale</ParentID>
     <Size>43</Size>
+  </Offer>
+  <Offer>
+    <Name>Scafandro OCEAN Original Waders con Stivale - Impermeabili e Resistenti - 44</Name>
+    <Brand>Ocean</Brand>
+    <Description>Affronta il Bagnato con Sicurezza: Waders Originali OCEAN Scopri gli Original Waders di OCEAN , la soluzione di abbigliamento affidabile e confortevole pensata per chi lavora (o si diverte) in ambienti umidi ed esigenti , dove è essenziale proteggersi eff</Description>
+    <OriginalPrice>104.72</OriginalPrice>
+    <Price>87.27</Price>
+    <Code>0800020206144</Code>
+    <Link>https://www.onautica.com/products/scafandro-ocean-original-stivale?variant=52559001190747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean_png.png?v=1762772098</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean1.png?v=1762772101</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scafandroOcean2.png?v=1762772104</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scafandro-ocean-original-stivale</ParentID>
+    <Size>44</Size>
   </Offer>
   <Offer>
     <Name>Sedute e Coperchi di Ricambio per WC Marini (Manuali ed Elettrici) - Comfort ABS Soft Close</Name>
@@ -6244,8 +6595,8 @@
     <Name>Anodo Ogiva in Zinco per Eliche Reggiani – Innesto Cilindrico - Ø 40 mm.</Name>
     <Brand>Martyr</Brand>
     <Description>Proteggi la tua linea d&apos;asse dalla corrosione galvanica con l&apos; Anodo a Ogiva specifico per sistemi Reggiani . Questo anodo sacrificale è realizzato in Zinco puro, garantendo la massima efficacia per la navigazione in acqua di mare . La caratteristica dist</Description>
-    <OriginalPrice>17.57</OriginalPrice>
-    <Price>12.55</Price>
+    <OriginalPrice>39.09</OriginalPrice>
+    <Price>27.92</Price>
     <Code>5160240</Code>
     <Link>https://www.onautica.com/products/anodo-ogiva-reggiani-zinco-innesto-cilindrico?variant=52519213236571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -6963,23 +7314,6 @@
     <ParentID>antivegetativa-sp-classic-153-autolevigante</ParentID>
   </Offer>
   <Offer>
-    <Name>Antivegetativa Autolevigante SP Classic 153 – Universale Copper Free Stagionale - Bianca / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa SP Classic 153 è la scelta ideale per i proprietari di imbarcazioni a vela e a motore con velocità di crociera moderata (fino a 25 nodi ) che cercano una manutenzione semplificata. Essendo una pittura a matrice autolevigante (self-polish</Description>
-    <OriginalPrice>87.80</OriginalPrice>
-    <Price>79.78</Price>
-    <Code>65.601.21</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-sp-classic-153-autolevigante?variant=52113059250523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-sp-classic-153-autolevigante</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antivegetativa Autolevigante SP Premium 365 – Protezione Annuale (Universale) - Nero / 0,75 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Antivegetativa SP Premium 365 è la soluzione premium a matrice autolevigante progettata per garantire una carena pulita e protetta per tutto l&apos;anno (365 giorni). È ideale per armatori di barche a vela e a motore (fino a 25 nodi ) che desiderano ridurre</Description>
@@ -7462,22 +7796,6 @@
     <Price>44.12</Price>
     <Code>65.002.02</Code>
     <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744873819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Matrice Dura Veneziani Eurosprint NEXT – Alte Velocità - Bianco (anche Alluminio) / 2,5 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Eurosprint Next (Cod. 6425) è una vernice a matrice dura di altissima qualità, formulata con un elevato contenuto di rame per garantire una protezione eccellente e di lunga durata. È la soluzione definitiva contro il fouling (d</Description>
-    <OriginalPrice>223.70</OriginalPrice>
-    <Price>139.80</Price>
-    <Code>65.002.32</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744841051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
@@ -8449,24 +8767,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Nero</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
-    <OriginalPrice>125.92</OriginalPrice>
-    <Price>104.93</Price>
-    <Code>62.00114.01</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52520337080667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626076861</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
     <Condition>nuovo</Condition>
@@ -10054,6 +10354,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
   </Offer>
   <Offer>
+    <Name>Presa e Spina Stagna Nautica in Ottone Cromato - 2 poli / max 20A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di spine stagne è un componente di alta qualità, costruito per offrire massimo affidamento e sicurezza nelle connessioni elettriche in ambiente marino. Le spine sono realizzate in robusto ottone cromato , garantendo resistenza e un’estetica c</Description>
+    <OriginalPrice>26.67</OriginalPrice>
+    <Price>19.05</Price>
+    <Code>14.387.02</Code>
+    <Link>https://www.onautica.com/products/spina-stagna-nautica-ottone-cromato-10a-20a?variant=51808194986331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_2_poli_20A_ottone_cromato.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137009389</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
+  </Offer>
+  <Offer>
     <Name>Prese e spine in linea &lt; 3A - 2 poli</Name>
     <Brand>Motomarine</Brand>
     <Description>Le prese e spine in linea fino a 3A in gomma a 2 poli sono componenti elettrici compatti, progettati per garantire connessioni rapide e affidabili a bordo. Grazie alla costruzione in gomma, offrono un&apos;ottima resistenza all&apos;umidità e alle vibrazioni tipich</Description>
@@ -10571,6 +10887,21 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>27.17</Price>
     <Code>66.240.10</Code>
     <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577380991323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
+    <Brand>Osculati</Brand>
+    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
+    <OriginalPrice>60.13</OriginalPrice>
+    <Price>35.37</Price>
+    <Code>66.240.01</Code>
+    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577381024091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
@@ -18347,6 +18678,25 @@ L 320mm. - Ø22</Name>
     <ParentID>fanali-navigazione-rina-sphera-compact-12m</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanali di Navigazione R.I.Na. Sphera Compact fino a 12 Metri - Rosso</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di fanali di navigazione &quot;SFERA Compact&quot; combina un design moderno e arrotondato con l&apos;affidabilità necessaria per la navigazione. Sono un&apos;ottima soluzione per chi desidera componenti funzionali e discreti sulla propria imbarcazione. Caratter</Description>
+    <OriginalPrice>11.58</OriginalPrice>
+    <Price>8.27</Price>
+    <Code>11.408.61</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-sphera-compact-12m?variant=52577377976667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_verde_-_cornice_grigio_ral_7042.png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137056628</EanCode>
+    <Weight>80.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_rosso_-_cornice_grigio_ral_7042.png?v=1773341650</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_225_prua_-_cornice_grigio_ral_7042.png?v=1773341651</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-sphera-compact-12m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanali di Navigazione R.I.Na. Sphera Compact fino a 12 Metri - 225° Prua</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di fanali di navigazione &quot;SFERA Compact&quot; combina un design moderno e arrotondato con l&apos;affidabilità necessaria per la navigazione. Sono un&apos;ottima soluzione per chi desidera componenti funzionali e discreti sulla propria imbarcazione. Caratter</Description>
@@ -18359,6 +18709,25 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_verde_-_cornice_grigio_ral_7042.png?v=1773341650</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137056642</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_rosso_-_cornice_grigio_ral_7042.png?v=1773341650</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_225_prua_-_cornice_grigio_ral_7042.png?v=1773341651</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-sphera-compact-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione R.I.Na. Sphera Compact fino a 12 Metri - 135° Poppa</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di fanali di navigazione &quot;SFERA Compact&quot; combina un design moderno e arrotondato con l&apos;affidabilità necessaria per la navigazione. Sono un&apos;ottima soluzione per chi desidera componenti funzionali e discreti sulla propria imbarcazione. Caratter</Description>
+    <OriginalPrice>11.58</OriginalPrice>
+    <Price>8.27</Price>
+    <Code>11.408.64</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-sphera-compact-12m?variant=52577378042203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_verde_-_cornice_grigio_ral_7042.png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033731056659</EanCode>
+    <Weight>80.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_rosso_-_cornice_grigio_ral_7042.png?v=1773341650</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_via_sphera_compact_-_225_prua_-_cornice_grigio_ral_7042.png?v=1773341651</Image3>
     <Condition>nuovo</Condition>
@@ -24866,7 +25235,7 @@ L 320mm. - Ø22</Name>
     <Price>9.31</Price>
     <Code>2113334</Code>
     <Link>https://www.onautica.com/products/fanale-navigazione-360-corpo-nero-12m?variant=52577433944411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-360-corpo-nero-12m.webp?v=1774440044</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25534,6 +25903,23 @@ L 320mm. - Ø22</Name>
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
   </Offer>
   <Offer>
+    <Name>Mezzomarinaro Telescopico in Alluminio Anodizzato 60-100 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Mezzomarinaro Telescopico è uno strumento indispensabile per le manovre d&apos;ormeggio e d&apos;accosto, progettato per offrire massima praticità e ingombro ridotto. Caratterizzato da una struttura in alluminio anodizzato di alta qualità, questo gancio d&apos;accost</Description>
+    <Price>15.95</Price>
+    <Code>34.459.02</Code>
+    <Link>https://www.onautica.com/products/mezzomarinaro-telescopico-alluminio-60-100cm?variant=52577366573403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cmtesta.webp?v=1775578861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137016219</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cmmanico.webp?v=1775578861</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cm.webp?v=1775578861</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>mezzomarinaro-telescopico-alluminio-60-100cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 5 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
@@ -25697,6 +26083,23 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626008015</EanCode>
     <Weight>650.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 9 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
+    <OriginalPrice>30.13</OriginalPrice>
+    <Price>21.52</Price>
+    <Code>01.199.11</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-spring-acciaio-inox-lucidato?variant=52559508472155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-spring.png?v=1773341729</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033537065774</EanCode>
+    <Weight>930.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
   </Offer>
@@ -26307,8 +26710,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF1	- 15x61 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>26.60</OriginalPrice>
-    <Price>17.75</Price>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.12</Price>
     <Code>33.212.09</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52513545945435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26324,8 +26727,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF02 - 19x66 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>31.10</OriginalPrice>
-    <Price>20.73</Price>
+    <OriginalPrice>31.70</OriginalPrice>
+    <Price>21.16</Price>
     <Code>33.212.08</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517458968923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26341,8 +26744,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF2 - 21x61 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>35.00</OriginalPrice>
-    <Price>23.34</Price>
+    <OriginalPrice>35.70</OriginalPrice>
+    <Price>23.82</Price>
     <Code>33.212.10</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459001691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26358,8 +26761,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF3 - 25x74.5 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>40.20</OriginalPrice>
-    <Price>26.81</Price>
+    <OriginalPrice>41.00</OriginalPrice>
+    <Price>27.36</Price>
     <Code>33.212.11</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459034459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26375,8 +26778,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF4	 - 20x104 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>34.20</OriginalPrice>
-    <Price>22.77</Price>
+    <OriginalPrice>34.90</OriginalPrice>
+    <Price>23.23</Price>
     <Code>33.212.12</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459067227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26391,8 +26794,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF5 - 26.8x78 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>35.80</OriginalPrice>
-    <Price>23.89</Price>
+    <OriginalPrice>36.60</OriginalPrice>
+    <Price>24.38</Price>
     <Code>33.212.18</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459099995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26407,8 +26810,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF6 - 26.8x107 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>51.00</OriginalPrice>
-    <Price>34.00</Price>
+    <OriginalPrice>52.00</OriginalPrice>
+    <Price>34.69</Price>
     <Code>33.212.13</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459132763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26421,11 +26824,27 @@ L 320mm. - Ø22</Name>
     <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF7 - 37x100 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
+    <OriginalPrice>30.80</OriginalPrice>
+    <Price>20.51</Price>
+    <Code>33.212.14</Code>
+    <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459165531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF8 - 37x144 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <OriginalPrice>50.30</OriginalPrice>
-    <Price>33.51</Price>
+    <OriginalPrice>51.30</OriginalPrice>
+    <Price>34.19</Price>
     <Code>33.212.15</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459198299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -29005,7 +29424,7 @@ L 320mm. - Ø22</Name>
     <Price>5.50</Price>
     <Code>47.558.49</Code>
     <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577381777755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30039,6 +30458,24 @@ L 320mm. - Ø22</Name>
     <EanCode>8033137230066</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-8M0122423_35-8M0020349_35-884380T.png?v=1768328574</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-879885Q-T.png?v=1768328573</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtro Carburante per Motori Fuoribordo Mercury / Mariner / Verado - 30/40 EFI 4</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma di Filtri Carburante specifici per motori fuoribordo Mercury, Mariner e Verado . Questi elementi filtranti sono fondamentali per proteggere il sistema di iniezione e i carburatori da acqua e impurità presenti nella benzina, garantendo prestazioni ot</Description>
+    <OriginalPrice>15.40</OriginalPrice>
+    <Price>9.06</Price>
+    <Code>17.504.50</Code>
+    <Link>https://www.onautica.com/products/filtro-carburante-fuoribordo-mercury?variant=52519798604123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-879885Q-T.png?v=1768328573</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137230042</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-8M0122423_35-8M0020349_35-884380T.png?v=1768328574</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-80365M_646-24251-02-00.png?v=1768328574</Image3>
     <Condition>nuovo</Condition>
     <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
   </Offer>
@@ -32190,6 +32627,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>resina-epossidica-safe-repox-2010-kit-1kg</ParentID>
   </Offer>
   <Offer>
+    <Name>Resina Poliestere con catalizzatore - 0.750 litri</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Questa resina poliestere, fornita completa del suo catalizzatore (accelerante), è la soluzione standard e più versatile per tutte le operazioni di laminazione, riparazione e costruzione in vetroresina. È un prodotto bicomponente (resina + catalizzatore) e</Description>
+    <OriginalPrice>21.60</OriginalPrice>
+    <Price>14.37</Price>
+    <Code>PRL0001</Code>
+    <Link>https://www.onautica.com/products/resina-poliestere-con-catalizzatore?variant=52552788869467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/resina.png?v=1773341869</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033745210191</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>resina-poliestere-con-catalizzatore</ParentID>
+  </Offer>
+  <Offer>
     <Name>Resina Poliestere con catalizzatore - 5 Litri</Name>
     <Brand>Safe Nanotech</Brand>
     <Description>Questa resina poliestere, fornita completa del suo catalizzatore (accelerante), è la soluzione standard e più versatile per tutte le operazioni di laminazione, riparazione e costruzione in vetroresina. È un prodotto bicomponente (resina + catalizzatore) e</Description>
@@ -32851,7 +33304,7 @@ bocche Ø 14 mm.</Name>
     <Price>14.53</Price>
     <Code>PSM0003</Code>
     <Link>https://www.onautica.com/products/stucco-metallico-per-riparazioni?variant=52513570718043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccometallico.png?v=1773341949</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36450,7 +36903,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.88</Price>
     <Code>3009093</Code>
     <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36492,22 +36945,6 @@ bocche Ø 14 mm.</Name>
     <Weight>2.60</Weight>
     <Condition>nuovo</Condition>
     <ParentID>salvagente-anulare-compatto-med-600-solas</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Salvagente Anulare Ponza MED 750 – Omologato Solas (Ø 75 cm)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Salvagente Anulare Ponza MED 750 è la dotazione di sicurezza nautica per eccellenza, progettato per offrire la massima spinta di galleggiamento in caso di emergenza e uomo a mare. Con il suo diametro esterno standard di 75 cm , rappresenta la soluzione</Description>
-    <OriginalPrice>49.17</OriginalPrice>
-    <Price>35.12</Price>
-    <Code>3008075</Code>
-    <Link>https://www.onautica.com/products/salvagente-anulare-ponza-med-750-solas?variant=52577463435611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-ponza-med-750-solas.webp?v=1773478159</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965093163</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-anulare-ponza-med-750-solas</ParentID>
   </Offer>
   <Offer>
     <Name>Salvagente Baywatch lifeguard</Name>
@@ -36715,6 +37152,24 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626006226</EanCode>
     <Weight>2.13</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scaletta Pieghevole in Acciaio Inox AISI 316 con Gradini Ovali - 4 gradini</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa scaletta pieghevole è la soluzione premium per la risalita a bordo, unendo l&apos;eleganza dell&apos;acciaio inox a caratteristiche di design che ne aumentano il comfort e la sicurezza. Caratteristiche Premium: Materiale: Realizzata in Acciaio Inox AISI 316 </Description>
+    <OriginalPrice>76.10</OriginalPrice>
+    <Price>60.87</Price>
+    <Code>49.582.04</Code>
+    <Link>https://www.onautica.com/products/scaletta-pieghevole-inox-aisi316-gradini-ovali?variant=52541969269083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03.png?v=1773341983</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626006233</EanCode>
+    <Weight>2.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
@@ -37397,6 +37852,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626081155</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>supporto-boetta-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Supporto per Salvagente Anulare in Inox 316 con Clip Boetta</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Supporto per Salvagente Inox Hi è una soluzione completa, compatta ed elegante per l&apos;alloggiamento delle dotazioni di sicurezza sul pulpito della tua imbarcazione. Realizzato integralmente in pregiato Acciaio Inox 316 , offre la massima garanzia di res</Description>
+    <OriginalPrice>13.66</OriginalPrice>
+    <Price>9.76</Price>
+    <Code>3009091</Code>
+    <Link>https://www.onautica.com/products/supporto-salvagente-anulare-inox-316-clip-boetta?variant=52577492173147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supporto-salvagente-anulare-inox-316-clip-boetta.webp?v=1773480710</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626007742</EanCode>
+    <Weight>0.38</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-salvagente-anulare-inox-316-clip-boetta</ParentID>
   </Offer>
   <Offer>
     <Name>Tanica per Benzina in HDPE - Serie Completa Omologata UN (5, 10, 20 Litri) - 5 litri</Name>
@@ -41099,6 +41571,21 @@ bocche Ø 14 mm.</Name>
     <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
   </Offer>
   <Offer>
+    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 2.50 lt.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
+    <OriginalPrice>71.10</OriginalPrice>
+    <Price>47.41</Price>
+    <Code>LSA.9016.002.50</Code>
+    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827944283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 4.00 lt.</Name>
     <Brand>Safe Nanotech</Brand>
     <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
@@ -41130,36 +41617,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>smalto-nautico-lack-alkyd-blu-navy</ParentID>
   </Offer>
   <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Blu Navy - 2.50 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>80.20</OriginalPrice>
-    <Price>53.44</Price>
-    <Code>LSA.5002.002.50</Code>
-    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-blu-navy?variant=52610834137435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-nautico-lack-alkyd-blu-navy</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Blu Navy - 4.00 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>121.50</OriginalPrice>
-    <Price>81.02</Price>
-    <Code>LSA.5002.004.00</Code>
-    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-blu-navy?variant=52610834170203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-nautico-lack-alkyd-blu-navy</ParentID>
-  </Offer>
-  <Offer>
     <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Grigio Chiaro - 0.75 lt.</Name>
     <Brand>Safe Nanotech</Brand>
     <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
@@ -41168,36 +41625,6 @@ bocche Ø 14 mm.</Name>
     <Code>LSA.7040.000.75</Code>
     <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-grigio-chiaro?variant=52610850685275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-grigio-chiaro.webp?v=1773771955</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-nautico-lack-alkyd-grigio-chiaro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Grigio Chiaro - 2.50 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>80.20</OriginalPrice>
-    <Price>53.44</Price>
-    <Code>LSA.7040.002.50</Code>
-    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-grigio-chiaro?variant=52610850718043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-grigio-chiaro.webp?v=1773771955</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-nautico-lack-alkyd-grigio-chiaro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Grigio Chiaro - 4.00 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>121.50</OriginalPrice>
-    <Price>81.02</Price>
-    <Code>LSA.7040.004.00</Code>
-    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-grigio-chiaro?variant=52610850750811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-grigio-chiaro.webp?v=1773771955</Image>
     <ShippingCost>5.90</ShippingCost>
