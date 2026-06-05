@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-05T06:30:52.960Z -->
+<!-- Generato: 2026-06-05T10:30:52.653Z -->
 <!-- Offerte: 2700 -->
 <Products>
   <Offer>
@@ -12386,6 +12386,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-a-type-sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352798</EanCode>
+    <Weight>160.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-A-type.png?v=1769536424</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-a-type-sabbia</ParentID>
@@ -12764,7 +12765,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352286</EanCode>
-    <Weight>160.00</Weight>
+    <Weight>0.16</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-sabbia</ParentID>
@@ -44289,6 +44290,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.06.png?v=1773341973</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>60.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-a-violino-2-pulegge-plastinox</ParentID>
   </Offer>
@@ -44352,6 +44354,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137164859</EanCode>
+    <Weight>140.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-a-violino-con-arricavo-2-pulegge-plastinox</ParentID>
   </Offer>
