@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-06T06:30:53.783Z -->
+<!-- Generato: 2026-06-06T11:46:37.571Z -->
 <!-- Offerte: 2709 -->
 <Products>
   <Offer>
@@ -3631,7 +3631,7 @@
   <Offer>
     <Name>Rullo centrale L 130 mm. Ø 80 mm. foro Ø 16 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Universali, per rimorchi porta imbarcazioni. Caratteristiche: Anima polipropilene Esterno PVC Ø mm. 80 Lunghezza mm. 130 Ø foro mm. 16 Colore nero Caratteristiche principali Costruzione robusta con anima in polipropilene e rivestimento esterno in PVC resi</Description>
+    <Description>Universali, per rimorchi porta imbarcazioni. Caratteristiche: Anima polipropilene Esterno PVC Ø mm. �� 80 Lunghezza mm. 130 Ø foro mm. 16 Colore nero Caratteristiche principali Costruzione robusta con anima in polipropilene e rivestimento esterno in PVC r</Description>
     <OriginalPrice>8.89</OriginalPrice>
     <Price>6.35</Price>
     <Code>2805049</Code>
@@ -44332,6 +44332,66 @@ bocche Ø 14 mm.</Name>
     <ParentID>bozzello-8x28-mm-verticale</ParentID>
   </Offer>
   <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte Bozzello a 2 pulegge a violino con strozzascotte integrato della linea Plastinox di Viadana . Costruito con carcassa in nylon nero ad alta resistenza rinforzata in acciaio inox , abbina la l</Description>
+    <Price>42.30</Price>
+    <Code>VIA90.08</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte?variant=53327454503259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bozzello-plastinox-viadana-2-pulegge-violino-strozzascotte.webp?v=1780740153</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.25</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte Bozzello a 2 pulegge a violino con strozzascotte integrato della linea Plastinox di Viadana . Costruito con carcassa in nylon nero ad alta resistenza rinforzata in acciaio inox , abbina la l</Description>
+    <Price>45.18</Price>
+    <Code>VIA91.06</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte?variant=53327454536027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bozzello-plastinox-viadana-2-pulegge-violino-strozzascotte.webp?v=1780740153</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.34</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
+    <Price>44.36</Price>
+    <Code>VIA90.09</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816917339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.25</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
+    <Price>60.57</Price>
+    <Code>VIA91.07</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816950107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.36</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bozzello Verticale Pivotante per Cime Barca a Vela - Ø 6 mm.</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello verticale pivotante progettato per una gestione efficiente e fluida delle linee sotto carico verticale. La configurazione pivotante consente un orientamento ottimale del carico senza l’uso di una sfera di testa, riducendo attrito e usura e miglio</Description>
@@ -44498,7 +44558,7 @@ bocche Ø 14 mm.</Name>
     <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-arricavo-2-pulegge-plastinox?variant=52552785887579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzelloviadanaviolinocon2puleggeearricavo.webp?v=1780733951</Image>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-a-violino-con-arricavo-2-pulegge-plastinox</ParentID>
@@ -44513,7 +44573,7 @@ bocche Ø 14 mm.</Name>
     <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-arricavo-2-pulegge-plastinox?variant=52552785920347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzelloviadanaviolinocon2puleggeearricavo.webp?v=1780733951</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137164859</EanCode>
     <Weight>140.00</Weight>
@@ -44530,13 +44590,13 @@ bocche Ø 14 mm.</Name>
     <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-arricavo-2-pulegge-plastinox?variant=52513490174299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzelloviadanaviolinocon2puleggeearricavo.webp?v=1780733951</Image>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-a-violino-con-arricavo-2-pulegge-plastinox</ParentID>
   </Offer>
   <Offer>
-    <Name>Bozzello Viadana a Violino con Arricavo Plastinox - Ø 8 mm.</Name>
+    <Name>Bozzello Viadana a Violino con Strozzascotte e Arricavo Plastinox - Ø 8 mm.</Name>
     <Brand>Viadana</Brand>
     <Description>Affidabilità, scorrevolezza e controllo a bordo: questi bozzelli “a violino” uniscono carcassa in nylon nero e rinforzi in acciaio inox per garantire resistenza alla corrosione, leggerezza e durata nel tempo. La testa universale consente un’installazione </Description>
     <OriginalPrice>35.40</OriginalPrice>
@@ -44552,38 +44612,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>bozzello-viadana-a-violino-con-arricavo-plastinox</ParentID>
   </Offer>
   <Offer>
-    <Name>Bozzello Viadana a Violino con Arricavo Plastinox - Ø 10 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Affidabilità, scorrevolezza e controllo a bordo: questi bozzelli “a violino” uniscono carcassa in nylon nero e rinforzi in acciaio inox per garantire resistenza alla corrosione, leggerezza e durata nel tempo. La testa universale consente un’installazione </Description>
-    <OriginalPrice>79.80</OriginalPrice>
-    <Price>44.35</Price>
-    <Code>VIA90.09</Code>
-    <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-arricavo-plastinox?variant=52552786149723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.09.png?v=1773341973</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137164934</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-viadana-a-violino-con-arricavo-plastinox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Viadana a Violino con Arricavo Plastinox - Ø 12 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Affidabilità, scorrevolezza e controllo a bordo: questi bozzelli “a violino” uniscono carcassa in nylon nero e rinforzi in acciaio inox per garantire resistenza alla corrosione, leggerezza e durata nel tempo. La testa universale consente un’installazione </Description>
-    <OriginalPrice>109.00</OriginalPrice>
-    <Price>60.57</Price>
-    <Code>VIA91.07</Code>
-    <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-arricavo-plastinox?variant=52552786182491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.09.png?v=1773341973</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137164941</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-viadana-a-violino-con-arricavo-plastinox</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bozzello Viadana a Violino con Strozzascotte Plastinox - Ø 8 mm.</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzelli Plastinox VIADANA con carcassa in nylon nero rinforzata da inserti in acciaio inox: solidità, leggerezza e scorrimento affidabile per regolazioni precise a bordo. La configurazione a due pulegge “a violino” con testa universale offre grande versa</Description>
@@ -44591,36 +44619,6 @@ bocche Ø 14 mm.</Name>
     <Price>17.95</Price>
     <Code>VIA89.08</Code>
     <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-strozzascotte-plastinox?variant=52513490239835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.08.png?v=1773341892</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-viadana-a-violino-con-strozzascotte-plastinox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Viadana a Violino con Strozzascotte Plastinox - Ø 10 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Bozzelli Plastinox VIADANA con carcassa in nylon nero rinforzata da inserti in acciaio inox: solidità, leggerezza e scorrimento affidabile per regolazioni precise a bordo. La configurazione a due pulegge “a violino” con testa universale offre grande versa</Description>
-    <OriginalPrice>76.20</OriginalPrice>
-    <Price>42.31</Price>
-    <Code>VIA90.08</Code>
-    <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-strozzascotte-plastinox?variant=52552786510171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.08.png?v=1773341892</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-viadana-a-violino-con-strozzascotte-plastinox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Viadana a Violino con Strozzascotte Plastinox - Ø 12 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Bozzelli Plastinox VIADANA con carcassa in nylon nero rinforzata da inserti in acciaio inox: solidità, leggerezza e scorrimento affidabile per regolazioni precise a bordo. La configurazione a due pulegge “a violino” con testa universale offre grande versa</Description>
-    <OriginalPrice>81.30</OriginalPrice>
-    <Price>45.18</Price>
-    <Code>VIA91.06</Code>
-    <Link>https://www.onautica.com/products/bozzello-viadana-a-violino-con-strozzascotte-plastinox?variant=52552786542939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.08.png?v=1773341892</Image>
