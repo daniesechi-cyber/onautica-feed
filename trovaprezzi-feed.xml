@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-05T14:30:52.350Z -->
-<!-- Offerte: 2699 -->
+<!-- Generato: 2026-06-06T06:17:31.593Z -->
+<!-- Offerte: 2709 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -138,6 +138,22 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo HALL compatta - 2</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora Hall è una delle ancore più tradizionali e diffuse nel diporto, nota per la sua versatilità e affidabilità su una vasta gamma di fondali marini. Questa versione classica è realizzata in robusto acciaio e protetta da un trattamento di zincatura a </Description>
+    <OriginalPrice>17.45</OriginalPrice>
+    <Price>13.44</Price>
+    <Code>9851</Code>
+    <Link>https://www.onautica.com/products/ancora-zincata-tipo-hall-compatta?variant=52558791967067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_HALL_compatta_kg._8.png?v=1773341613</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Hall.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-zincata-tipo-hall-compatta</ParentID>
   </Offer>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo HALL compatta - 2.5</Name>
@@ -1601,6 +1617,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cuneo-sicurezza-fermaruota-carrellomisure.webp?v=1773341651</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cuneo-sicurezza-fermaruota-carrello-supporto</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Elastico Millepiedi per Randa – Ø 8mm x 200 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos; Elastico Millepiedi (Lunghezza 200 cm) è il sistema più rapido ed efficiente per bloccare la randa sul boma una volta ammainata. Costituito da un robusto cavo elastico marino del diametro di 8 mm , questo accessorio permette di avvolgere e contenere la</Description>
+    <OriginalPrice>16.50</OriginalPrice>
+    <Price>11.78</Price>
+    <Code>3176020</Code>
+    <Link>https://www.onautica.com/products/elastico-millepiedi-randa-2m?variant=52577451606363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Accessori Albero</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/elastico-millepiedi-randa-2m.png?v=1773341703</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033389769086</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>elastico-millepiedi-randa-2m</ParentID>
   </Offer>
   <Offer>
     <Name>Elastico Millepiedi per Randa – Ø 8mm x 300 cm</Name>
@@ -5309,22 +5341,6 @@
     <Size>47</Size>
   </Offer>
   <Offer>
-    <Name>Supporto per servotimone D.48 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il supporto per servotimone da avvitare con diametro 48 mm è il componente ideale per ancorare saldamente il servotimone alla struttura dell&apos;imbarcazione. Grazie al fissaggio a vite, assicura una presa solida e duratura, garantendo stabilità e precisione </Description>
-    <OriginalPrice>11.90</OriginalPrice>
-    <Price>8.50</Price>
-    <Code>750824</Code>
-    <Link>https://www.onautica.com/products/supporto-per-servotimone-d-48-mm?variant=52577491943771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_per_servotimone_D.48_mm..png?v=1773341829</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137067990</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>supporto-per-servotimone-d-48-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Supporto per servotimone Ø 35 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Supporto per servotimone da avvitare, Ø 35 mm. Il supporto per servotimone con diametro da 35 mm è un accessorio strutturale progettato per il fissaggio e il sostegno del sistema di controllo del timone a bordo. Si installa tramite avvitatura, garantendo </Description>
@@ -8773,6 +8789,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
   </Offer>
   <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Nero</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
+    <OriginalPrice>125.92</OriginalPrice>
+    <Price>104.93</Price>
+    <Code>62.00114.01</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52520337080667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626076861</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Nero</Name>
     <Brand>Riviera</Brand>
     <Description>La Bussola Riviera Artica BA2 è uno strumento di navigazione affidabile e preciso, ideale per imbarcazioni di lunghezza compresa tra i 6 e i 12 metri . Questo modello è progettato per il montaggio su staffa , rendendola perfetta per installazioni su crusc</Description>
@@ -11058,6 +11092,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>barra-connessione-150a-12m4-2m6-nera</ParentID>
   </Offer>
   <Offer>
+    <Name>Barra connessione 150A 12M4-2M6 rossa</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Barra di connessione con base isolata, terminali in Acciaio Inox e coperchio di protezione. 2 perni filettati M6 + 12 viti M4. Dim: 150mm x 28mm x H35mm. Caratteristiche principali Portata massima di 150A , adatta a carichi elettrici impegnativi a bordo C</Description>
+    <OriginalPrice>20.24</OriginalPrice>
+    <Price>14.46</Price>
+    <Code>10338</Code>
+    <Link>https://www.onautica.com/products/barra-connessione-150a-12m4-2m6-rossa?variant=52577418314075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barra_connessione_150A_12M4-2M6_rossa.png?v=1773341628</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626424686</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>barra-connessione-150a-12m4-2m6-rossa</ParentID>
+  </Offer>
+  <Offer>
     <Name>Blister 4 pz. elastici con palline fissavele e usi vari 50 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Blister 4 pezzi di e lastici con palline fissavele e usi vari. Caratteristiche principali Confezione da 4 elastici, pronti all&apos;uso e facili da riporre a bordo Lunghezza 50 cm, versatile per molteplici applicazioni nautiche Palline terminali per un fissagg</Description>
@@ -11075,22 +11125,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>elastici-con-pallina-50cm</ParentID>
   </Offer>
   <Offer>
-    <Name>Borsa con dotazioni entro le 3 miglia per 4 persone</Name>
-    <Brand>LALIZAS</Brand>
-    <Description>Borsa con dotazioni di sicurezza per 4 persone entro le 3 miglia dalla costa. Comprende: 4 giubbini omologati 100N conformi 1 30mt di cima galleggiante da 8mm 1 estintore com manometro 1 segnalatore acustico 1 sessula 1 ancora ad ombrello 1 mezzo marinaio</Description>
-    <OriginalPrice>260.72</OriginalPrice>
-    <Price>137.22</Price>
-    <Code>198012</Code>
-    <Link>https://www.onautica.com/products/offerta-borsa-dotazioni-entro-3-miglia-per-4-persone?variant=52577523007835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3030613.png?v=1773341924</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>5.81</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-borsa-dotazioni-entro-3-miglia-per-4-persone</ParentID>
-  </Offer>
-  <Offer>
     <Name>Borsa con dotazioni entro le 6 miglia per 6 persone</Name>
     <Brand>Motomarine</Brand>
     <Description>Borsa con dotazioni di sicurezza per 6 persone entro le 6 miglia dalla costa. Comprende: 6 cinture di salvataggio da 100N 1 ancora da 2,5 1 cima ancora 30 mt. 1 cima salvagente 30 mt 1 bandiera italiana 1 gancio d&apos;accosto 1 sessola 1 estintore 1 avvisator</Description>
@@ -11105,6 +11139,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8033626086389</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-borsa-dotazioni-entro-6-miglia-per-6-persone</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Borsa pronto soccorso D.M.10/03/22 tabella D</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Kit di pronto soccorso tabella D Realizzata in accordo con il D.M. 10/03/2022 in vigore dal 10/05/2022. Contenuto: 1 flacone Acqua ossigenata 250 ml; 1 pallone di rianimazione AMBU adulti; 1 maschera oronasale adulti cal.5; 1 maschera oronasale bambini ca</Description>
+    <OriginalPrice>161.95</OriginalPrice>
+    <Price>124.58</Price>
+    <Code>3022034</Code>
+    <Link>https://www.onautica.com/products/nautibag-sacca-pronto-soccorso-tabella-d?variant=52577528381787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/saccatabellaD.png?v=1773341943</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626298256</EanCode>
+    <Weight>4.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/saccatabellaD2.png?v=1773341944</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>nautibag-sacca-pronto-soccorso-tabella-d</ParentID>
   </Offer>
   <Offer>
     <Name>Bus Bar Porta Terminali Elettrici 150A - 4 Terminali da 6 mm</Name>
@@ -12452,7 +12504,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12521,7 +12573,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.71</Price>
     <Code>3813001BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52513515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12639,7 +12691,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BO</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52517264851291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12760,7 +12812,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>16.09</Price>
     <Code>3813005SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577413038427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13627,22 +13679,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.920.00c.png?v=1773341651</Image3>
     <Condition>nuovo</Condition>
     <ParentID>deviatore-staccabatterie-classic-175a-12-24v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit di sopravvivenza in accordo con D.M. 17/09/2024</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo kit di sopravvivenza è realizzato per le unità pneumatiche (gommoni) ad uso privato munite di marchiatura CE e conformi agli standard UNI EN ISO 6185 parti 3/4. È un accessorio fondamentale per la sicurezza, valido solo per l&apos;Italia e in accordo al</Description>
-    <OriginalPrice>242.20</OriginalPrice>
-    <Price>161.44</Price>
-    <Code>22.705.00</Code>
-    <Link>https://www.onautica.com/products/kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia?variant=52577528512859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.705.00.png?v=1773341945</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.705.00b.png?v=1773341945</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Ormeggio Completo – Cima, Parabordi e Copriparabordi - Ø 12 mm. / OF1	- 15x61 cm. / F1 - Ø 14-16 cm.</Name>
@@ -17236,6 +17272,22 @@ L 320mm. - Ø22</Name>
     <ParentID>serratura-h-25-mm-o-19-mm-nottolino-acciaio-cromato</ParentID>
   </Offer>
   <Offer>
+    <Name>Serratura H 30 mm. - Ø 19 mm. nottolino acciaio cromato</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Nottolino a tavella con doppia chiave. Corpo cromato in lega ottonata con tavella in Acciaio cromato. Caratteristiche principali Altezza serratura 30 mm con nottolino da Ø 19 mm per un&apos;installazione precisa e standardizzata Dotata di doppia chiave per mag</Description>
+    <OriginalPrice>12.10</OriginalPrice>
+    <Price>8.64</Price>
+    <Code>10524</Code>
+    <Link>https://www.onautica.com/products/serratura-h-30-mm-o-19-mm-nottolino-acciaio-cromato?variant=52577487094107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Serratura_H_30_mm._-_19_mm._nottolino_acciaio_cromato.png?v=1773341815</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626005601</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>serratura-h-30-mm-o-19-mm-nottolino-acciaio-cromato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Set 5 Lucchetti Hardinox 30mm con Chiave Universale per Nautica – 4 Standard + 1 Long</Name>
     <Brand>Motomarine</Brand>
     <Description>Set 5 Lucchetti Hardinox 30mm con Chiave Universale – 4 Lucchetti Standard + 1 Lucchetto Long in Acciaio Inox per Nautica Il set 5 lucchetti Hardinox 30mm con chiave universale è la soluzione completa e conveniente per chi necessita di proteggere più punt</Description>
@@ -18046,23 +18098,6 @@ L 320mm. - Ø22</Name>
     <ParentID>crc-6-66-marine-lubrificante-multiuso-spray</ParentID>
   </Offer>
   <Offer>
-    <Name>CRC 6-66 Marine Lubrificante Multiuso Spray per Ambiente Marino - 400 ml.</Name>
-    <Brand>CRC</Brand>
-    <Description>CRC 6-66 Marine – Lubrificante Multiuso Spray Specifico per Ambiente Salmastroso e Marino Il CRC 6-66 Marine è il lubrificante multiuso spray professionale specifico per ambiente marino e salmastroso , progettato per proteggere ogni componente dell&apos;imbarc</Description>
-    <OriginalPrice>18.10</OriginalPrice>
-    <Price>10.05</Price>
-    <Code>C0184</Code>
-    <Link>https://www.onautica.com/products/crc-6-66-marine-lubrificante-multiuso-spray?variant=52513515733339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino400ml.webp?v=1776183546</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5412386040139</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino.webp?v=1776183546</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>crc-6-66-marine-lubrificante-multiuso-spray</ParentID>
-  </Offer>
-  <Offer>
     <Name>CRC Contact Cleaner Detergente Riattivante per Contatti Spray 250 ml</Name>
     <Brand>CRC</Brand>
     <Description>CRC Contact Cleaner – Detergente Riattivante per Contatti Elettrici a Bordo di Imbarcazioni Il CRC Contact Cleaner spray 250 ml è il detergente riattivante professionale per contatti elettrici indispensabile a bordo di ogni imbarcazione. Formulato per ope</Description>
@@ -18143,6 +18178,22 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626095237</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Dischetti con velcro Ø 45 mm. per tessuti e rivestimenti 5 cp.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Dischetti maschio+femmina con velcro per fissare tessuti e rivestimenti. Caratteristiche: Ø 45 mm. Pezzi 5 coppie Caratteristiche principali Sistema di fissaggio a doppia componente: dischetto maschio e femmina per una chiusura sicura e rimovibile Forma c</Description>
+    <OriginalPrice>12.54</OriginalPrice>
+    <Price>9.29</Price>
+    <Code>3215006</Code>
+    <Link>https://www.onautica.com/products/dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp?variant=52577502298459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Guarnizioni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3215006.png?v=1773341863</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095244</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale di Coperta Inox Verde 112,5°</Name>
@@ -21178,6 +21229,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814305</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
+    <OriginalPrice>27.45</OriginalPrice>
+    <Price>18.30</Price>
+    <Code>1814305</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777125723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051875</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814304</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
@@ -21803,6 +21872,23 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/GIUNTO_140.png?v=1764800923</Image2>
     <Condition>nuovo</Condition>
     <ParentID>giunto-140-inox-aisi316-fusione-tubolari</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giunto a L (90°) in Acciaio Inox AISI 316 da Fusione - Ø 22 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo giunto a L è un componente di raccorderia strutturale, essenziale per creare fissaggi robusti e duraturi con un angolo fisso di 90 gradi . Caratteristiche Principali: Materiale: Realizzato in Acciaio Inox AISI 316 da fusione (non stampato), che gar</Description>
+    <OriginalPrice>13.01</OriginalPrice>
+    <Price>9.29</Price>
+    <Code>0633922</Code>
+    <Link>https://www.onautica.com/products/giunto-a-l-90-inox-aisi316-fusione?variant=52540663955803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Curva_a_L_25_mm._acciaio_inox_AISI_316_da_fusione.jpg?v=1773341649</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023964</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_a_L_90_in_Acciaio_Inox_AISI_316_da_Fusione.png?v=1764800690</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-a-l-90-inox-aisi316-fusione</ParentID>
   </Offer>
   <Offer>
     <Name>Giunto a L (90°) in Acciaio Inox AISI 316 da Fusione - Ø 25 mm.</Name>
@@ -23954,6 +24040,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626023544</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 22 mm. / Passante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
+    <OriginalPrice>14.14</OriginalPrice>
+    <Price>10.10</Price>
+    <Code>0621922</Code>
+    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958464347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023568</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
     <Condition>nuovo</Condition>
@@ -26123,6 +26227,24 @@ L 320mm. - Ø22</Name>
     <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
   </Offer>
   <Offer>
+    <Name>Nicchia compact con portello 165x210x80 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Nicchia compatta in plastica, ideale per alloggiare quadretti elettrici, staccabatterie e doccette a bordo. Grazie alle dimensioni contenute, si integra facilmente in spazi ridotti su qualsiasi imbarcazione. Dimensioni esterne: 165 x 210 mm Passaggio inte</Description>
+    <OriginalPrice>18.98</OriginalPrice>
+    <Price>13.56</Price>
+    <Code>4010023</Code>
+    <Link>https://www.onautica.com/products/nicchia-compact-con-portello-165x210x80-mm?variant=52577453474139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Tappi d Ispezione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Nicchia_compact_con_portello_165x210x80_mm..png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626116062</EanCode>
+    <Weight>150.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4010023.png?v=1773341709</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>nicchia-compact-con-portello-165x210x80-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Nicchia Portaoggetti &quot;Short&quot; a Incasso in Plastica - Aperta (Senza Sportello)</Name>
     <Brand>Motomarine</Brand>
     <Description>La Nicchia Short è un box a incasso estremamente versatile, realizzato in materiale plastico resistente all&apos;ambiente marino. La sua profondità contenuta di 100 mm la rende ideale per installazioni dove lo spazio posteriore è limitato. È progettata per mol</Description>
@@ -26135,6 +26257,25 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-short-incasso-plastica.png?v=1773341708</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8055965094511</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-short-incasso-plastica_con_portello.png?v=1773341708</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-short-incasso-plastica_misura.png?v=1773341708</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>nicchia-portaoggetti-short-incasso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Nicchia Portaoggetti &quot;Short&quot; a Incasso in Plastica - Con Sportello</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Nicchia Short è un box a incasso estremamente versatile, realizzato in materiale plastico resistente all&apos;ambiente marino. La sua profondità contenuta di 100 mm la rende ideale per installazioni dove lo spazio posteriore è limitato. È progettata per mol</Description>
+    <OriginalPrice>23.51</OriginalPrice>
+    <Price>16.79</Price>
+    <Code>4010024</Code>
+    <Link>https://www.onautica.com/products/nicchia-portaoggetti-short-incasso?variant=52519910867291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Tappi d Ispezione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-short-incasso-plastica.png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965094542</EanCode>
+    <Weight>150.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-short-incasso-plastica_con_portello.png?v=1773341708</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-short-incasso-plastica_misura.png?v=1773341708</Image3>
     <Condition>nuovo</Condition>
@@ -27652,6 +27793,22 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_a_membrana_AA_per_paratia_35_lt_m._bocche_25_1_mm._2.png?v=1773341772</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-a-membrana-aa-per-paratia-35-lt-m-bocche-o-25-1-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa di sentina manuale a membrana AA standard 40 lt/min.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pompa di sentina manuale compatta a membrana. AA compact 40 lt/m. CARATTERISTICHE Lt/min→ 40 Bocche ∅ mm → 25 (1&apos;&apos;) Caratteristiche principali Azionamento completamente manuale, senza bisogno di alimentazione elettrica a bordo Tecnologia a membrana per un</Description>
+    <OriginalPrice>33.57</OriginalPrice>
+    <Price>23.98</Price>
+    <Code>1834020</Code>
+    <Link>https://www.onautica.com/products/pompa-di-sentina-a-membrana-aa-standard-40-lt-min?variant=52577473757531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_a_membrana_AA_standard_40_lt_min..png?v=1773341770</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626055811</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-di-sentina-a-membrana-aa-standard-40-lt-min</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di sentina manuale a membrana AA standard 55 lt./m</Name>
@@ -29602,6 +29759,23 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>087295170236</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - DCPR6E NGK</Name>
+    <Brand>NGK</Brand>
+    <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
+    <OriginalPrice>12.00</OriginalPrice>
+    <Price>8.54</Price>
+    <Code>4856616</Code>
+    <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382334811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>087295134818</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
     <Condition>nuovo</Condition>
     <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
@@ -33424,7 +33598,7 @@ bocche Ø 14 mm.</Name>
     <Price>7.80</Price>
     <Code>1425013</Code>
     <Link>https://www.onautica.com/products/tappo-scarico-espansione-plastica-pvc-leva?variant=52525191659867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-scarico-espansione-plastica-pvc-leva_40-35-mm.png?v=1773341839</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -34532,6 +34706,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301650</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
@@ -36889,7 +37064,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.88</Price>
     <Code>3009093</Code>
     <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -37545,20 +37720,20 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-serbatoi-150-lt-flessibili-acqua-potabile-rettangolari-lt-150</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio 55 lt. flessibili acqua potabile triangolari lt. 55</Name>
+    <Name>Serbatoio 60 lt. flessibili acqua potabile rettangolari lt. 60</Name>
     <Brand>Motomarine</Brand>
-    <Description>Serbatoio flessibile per acqua potabile dalla forma triangolare, ideale per sfruttare al meglio gli spazi irregolari a bordo. Realizzato in tessuto gommato rinforzato, garantisce resistenza e durata nel tempo. Completo di boccaporto con raccordi girevoli </Description>
-    <OriginalPrice>163.26</OriginalPrice>
-    <Price>112.59</Price>
-    <Code>1523405</Code>
-    <Link>https://www.onautica.com/products/offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55?variant=52577463959899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Description>Serbatoi 60 lt. flessibili acqua potabile rettangolari lt. 61 Caratteristiche principali Capacità da 60 litri, ideale per autonomie medie e lunghe navigazioni Design flessibile che si adatta agli spazi irregolari a bordo Forma rettangolare per un posizion</Description>
+    <OriginalPrice>152.14</OriginalPrice>
+    <Price>104.92</Price>
+    <Code>10067</Code>
+    <Link>https://www.onautica.com/products/offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60?variant=52577464025435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_55_lt._flessibili_acqua_potabile_triangolari_lt._55.png?v=1773341742</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_60_lt._flessibili_acqua_potabile_rettangolari_lt._60.jpg?v=1773341742</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965096270</EanCode>
+    <EanCode>8055965096225</EanCode>
     <Condition>nuovo</Condition>
-    <ParentID>offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55</ParentID>
+    <ParentID>offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
@@ -40199,23 +40374,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>15.51</OriginalPrice>
-    <Price>11.08</Price>
-    <Code>74010075</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464923995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115716</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 2,50 L</Name>
     <Brand>Sivac</Brand>
     <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
@@ -42462,6 +42620,25 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216045</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>24.64</OriginalPrice>
+    <Price>17.60</Price>
+    <Code>3270204</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242539867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216052</EanCode>
+    <Weight>160.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
