@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-08T14:30:58.576Z -->
-<!-- Offerte: 2701 -->
+<!-- Generato: 2026-06-08T18:11:28.450Z -->
+<!-- Offerte: 2700 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -11166,6 +11166,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_24_16_carica_max_16A_1_uscite.jpg?v=1773341717</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>07771116</EanCode>
+    <Weight>1.53</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_12_20_carica_max_20A_1_uscita.jpg?v=1773341716</Image2>
     <Condition>nuovo</Condition>
     <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
@@ -35034,6 +35035,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164324123</EanCode>
+    <Weight>670.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
@@ -35051,6 +35053,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164324130</EanCode>
+    <Weight>670.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
@@ -44308,22 +44311,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.11.png?v=1773341973</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137164767</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-viadana-2-pulegge-plastinox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Viadana 2 pulegge Plastinox - Ø 12 mm.</Name>
-    <Brand>Viadana</Brand>
-    <Description>Bozzello doppio della serie Plastinox VIADANA, progettato per garantire affidabilità e scorrevolezza nelle manovre di coperta. La carcassa in nylon nero con rinforzi in acciaio inox offre un eccellente rapporto tra leggerezza e resistenza alla corrosione,</Description>
-    <OriginalPrice>55.40</OriginalPrice>
-    <Price>30.80</Price>
-    <Code>VIA91.09</Code>
-    <Link>https://www.onautica.com/products/bozzello-viadana-2-pulegge-plastinox?variant=52552785822043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/89.11.png?v=1773341973</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137164774</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-2-pulegge-plastinox</ParentID>
   </Offer>
