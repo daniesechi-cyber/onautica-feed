@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-06T11:46:37.571Z -->
-<!-- Offerte: 2709 -->
+<!-- Generato: 2026-06-08T06:31:16.557Z -->
+<!-- Offerte: 2702 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -3631,7 +3631,7 @@
   <Offer>
     <Name>Rullo centrale L 130 mm. Ø 80 mm. foro Ø 16 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Universali, per rimorchi porta imbarcazioni. Caratteristiche: Anima polipropilene Esterno PVC Ø mm. �� 80 Lunghezza mm. 130 Ø foro mm. 16 Colore nero Caratteristiche principali Costruzione robusta con anima in polipropilene e rivestimento esterno in PVC r</Description>
+    <Description>Universali, per rimorchi porta imbarcazioni. Caratteristiche: Anima polipropilene Esterno PVC Ø mm. 80 Lunghezza mm. 130 Ø foro mm. 16 Colore nero Caratteristiche principali Costruzione robusta con anima in polipropilene e rivestimento esterno in PVC resi</Description>
     <OriginalPrice>8.89</OriginalPrice>
     <Price>6.35</Price>
     <Code>2805049</Code>
@@ -6014,24 +6014,6 @@
     <ParentID>anodo-barra-alluminio-johnson-evinrude-60-300hp-5007089</ParentID>
   </Offer>
   <Offer>
-    <Name>Anodo Barra in Alluminio per Yamaha 115-350 HP – Rif. 6G5-45251-02</Name>
-    <Brand>Yamaha</Brand>
-    <Description>L&apos; Anodo a Barra in Alluminio è la soluzione ottimale per la protezione della staffa (bracket) dei motori fuoribordo Yamaha di media e alta potenza (da 115 a 350 HP). Sostituendo il tradizionale anodo in zinco con questo modello in lega di alluminio, si r</Description>
-    <OriginalPrice>35.70</OriginalPrice>
-    <Price>22.29</Price>
-    <Code>5126015</Code>
-    <Link>https://www.onautica.com/products/anodo-barra-alluminio-yamaha-115-350hp-6g5-45251-02?variant=52577395671387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-alluminio-yamaha-115-350hp.png?v=1773341567</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>628309100759</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-alluminio-yamaha-115-350hpsotto.png?v=1773341569</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-alluminio-yamaha-115-350hpmisura.png?v=1773341570</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-barra-alluminio-yamaha-115-350hp-6g5-45251-02</ParentID>
-  </Offer>
-  <Offer>
     <Name>Anodo Barra in Alluminio per Yamaha 40-100 HP – Rif. 6H1-45251-02</Name>
     <Brand>Yamaha</Brand>
     <Description>L&apos; Anodo a Barra in Alluminio è il ricambio di nuova generazione per la protezione della staffa (bracket) dei motori fuoribordo Yamaha da 40 a 100 HP . Rispetto al classico anodo in zinco, questa versione in lega di alluminio offre un rapporto peso/presta</Description>
@@ -6828,22 +6810,6 @@
     <EanCode>628309192587</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>anodo-pinna-suzuki-dt-df-20-30-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anodo Pinna Martyr Alluminio per Suzuki DT55-65 (Rif. 55125-95301)</Name>
-    <Brand>Suzuki</Brand>
-    <Description>L&apos; Anodo a Pinna Martyr (Cod. 5170306) è il ricambio specifico per la protezione catodica dei motori fuoribordo Suzuki da 55 e 65 Cavalli (Serie DT) . Questo componente sostituisce fedelmente il codice originale Suzuki 55125-95301 . Realizzato nella speci</Description>
-    <OriginalPrice>17.00</OriginalPrice>
-    <Price>11.30</Price>
-    <Code>5124009A</Code>
-    <Link>https://www.onautica.com/products/anodo-pinna-suzuki-dt55-65-alluminio?variant=52577396883803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-suzuki-dt55-65-alluminio.webp?v=1773341573</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>1957000020363</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-pinna-suzuki-dt55-65-alluminio</ParentID>
   </Offer>
   <Offer>
     <Name>Anodo pinna Suzuki 70 HP 55125-87E01/BRP - OMC/Johnson Evinrude 70HP 4T</Name>
@@ -7990,7 +7956,7 @@
     <Price>6.46</Price>
     <Code>0810064</Code>
     <Link>https://www.onautica.com/products/asta-portabandiera-h-400-mm-plastica?variant=52577417298267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_portabandiera_H_400_mm._plastica.png?v=1773341624</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -11024,58 +10990,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>kit-riparazione-gommoni-neoprene-adeco-125ml</ParentID>
   </Offer>
   <Offer>
-    <Name>Anello con Perno in Acciaio Inox AISI 316 - Perno Ø 8 mm / Lungh. 100 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Anello con Perno è un componente di ferramenta nautica essenziale per chi esige la massima sicurezza e tenuta a bordo. Realizzato interamente in Acciaio Inox AISI 316 , il materiale d&apos;eccellenza per l&apos;ambiente marino, garantisce una resistenza insupera</Description>
-    <OriginalPrice>6.83</OriginalPrice>
-    <Price>5.06</Price>
-    <Code>39.181.04</Code>
-    <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528932187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137130663</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anello con Perno in Acciaio Inox AISI 316 - Perno Ø 10 mm / Lungh. 100 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Anello con Perno è un componente di ferramenta nautica essenziale per chi esige la massima sicurezza e tenuta a bordo. Realizzato interamente in Acciaio Inox AISI 316 , il materiale d&apos;eccellenza per l&apos;ambiente marino, garantisce una resistenza insupera</Description>
-    <OriginalPrice>10.89</OriginalPrice>
-    <Price>7.78</Price>
-    <Code>A5451010</Code>
-    <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528964955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8013429545078</EanCode>
-    <Weight>970.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anello con Perno in Acciaio Inox AISI 316 - Perno Ø 12 mm / Lungh. 120 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Anello con Perno è un componente di ferramenta nautica essenziale per chi esige la massima sicurezza e tenuta a bordo. Realizzato interamente in Acciaio Inox AISI 316 , il materiale d&apos;eccellenza per l&apos;ambiente marino, garantisce una resistenza insupera</Description>
-    <OriginalPrice>17.86</OriginalPrice>
-    <Price>12.76</Price>
-    <Code>M8267-4-12*120</Code>
-    <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528997723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051015130789</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Barra connessione 150A 12M4-2M6 nera</Name>
     <Brand>Motomarine</Brand>
     <Description>Barra di connessione professionale con base isolata, ideale per impianti elettrici a bordo. Garantisce distribuzione sicura e ordinata dei cablaggi grazie ai terminali in acciaio inox e al coperchio di protezione incluso. Terminali: 12 viti M4 + 2 perni f</Description>
@@ -11123,6 +11037,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>0.12</Weight>
     <Condition>nuovo</Condition>
     <ParentID>elastici-con-pallina-50cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Borsa con dotazioni entro le 3 miglia per 4 persone</Name>
+    <Brand>LALIZAS</Brand>
+    <Description>Borsa con dotazioni di sicurezza per 4 persone entro le 3 miglia dalla costa. Comprende: 4 giubbini omologati 100N conformi 1 30mt di cima galleggiante da 8mm 1 estintore com manometro 1 segnalatore acustico 1 sessula 1 ancora ad ombrello 1 mezzo marinaio</Description>
+    <OriginalPrice>260.72</OriginalPrice>
+    <Price>137.22</Price>
+    <Code>198012</Code>
+    <Link>https://www.onautica.com/products/offerta-borsa-dotazioni-entro-3-miglia-per-4-persone?variant=52577523007835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3030613.png?v=1773341924</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>5.81</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-borsa-dotazioni-entro-3-miglia-per-4-persone</ParentID>
   </Offer>
   <Offer>
     <Name>Borsa con dotazioni entro le 6 miglia per 6 persone</Name>
@@ -12504,7 +12434,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12791,8 +12721,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Copriparabordi Navishell F-Type Sabbia – Tessuto Acrilico - F4 - Ø 21-23 cm. - L 100-108 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Scegli l&apos;eleganza discreta dei Copriparabordi Navishell F-Type nella tonalità Sabbia , perfetta per integrarsi armoniosamente con scafi bianchi, crema o con i toni caldi del teak. Questi rivestimenti non sono solo un accessorio estetico, ma una vera barri</Description>
-    <OriginalPrice>24.64</OriginalPrice>
-    <Price>16.43</Price>
+    <OriginalPrice>24.65</OriginalPrice>
+    <Price>16.44</Price>
     <Code>3813004SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577413005659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -13759,22 +13689,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>lucidatrice-levigatrice-vigor-vll-180-1200-watt</ParentID>
   </Offer>
   <Offer>
-    <Name>Morsetto a Cavallotto in Acciaio Inox AISI 316 Lucidato - Ø 15/16 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Morsetto a Cavallotto è un accessorio di ferramenta indispensabile per chiunque debba realizzare in modo sicuro e tenace asole, chiusure e giunzioni meccaniche su cavi metallici. Costruito interamente in pregiato Acciaio Inox AISI 316 lucidato , rappre</Description>
-    <OriginalPrice>8.79</OriginalPrice>
-    <Price>5.67</Price>
-    <Code>A54916</Code>
-    <Link>https://www.onautica.com/products/morsetto-cavallotto-acciaio-inox-aisi-316?variant=52589840728411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/morsetto-cavallotto-acciaio-inox-aisi-316.webp?v=1773478866</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8013429549083</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>morsetto-cavallotto-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Moschettone Classico in Acciaio Inox AISI 316 - 140 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di moschettoni standard è realizzata in acciaio inox AISI 316 lucidato a specchio . L&apos;AISI 316 è noto per la sua eccellente resistenza alla corrosione, rendendo questi moschettoni ideali per l&apos;uso in ambiente marino e per applicazioni generic</Description>
@@ -14654,7 +14568,7 @@ Dimensioni: 100x70x27 mm.</Name>
   <Offer>
     <Name>Proteggi Cima in Poliestere Resistente UV con Chiusura a Strappo – 2 Misure Disponibili - Ø 12&lt;&gt;16 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Proteggi Cima in Poliestere Resistente UV – Protezione con Chiusura a Strappo per Cime da Ormeggio e Manovra Il proteggi cima in poliestere resistente UV è la soluzione ideale per proteggere le cime dalla spigolosità dei passacavi o delle falchette nelle </Description>
+    <Description>Proteggi Cima in Poliestere Resistente UV �� Protezione con Chiusura a Strappo per Cime da Ormeggio e Manovra Il proteggi cima in poliestere resistente UV è la soluzione ideale per proteggere le cime dalla spigolosità dei passacavi o delle falchette nelle</Description>
     <OriginalPrice>11.80</OriginalPrice>
     <Price>9.04</Price>
     <Code>06.452.01</Code>
@@ -14672,7 +14586,7 @@ Dimensioni: 100x70x27 mm.</Name>
   <Offer>
     <Name>Proteggi Cima in Poliestere Resistente UV con Chiusura a Strappo – 2 Misure Disponibili - Ø 18&lt;&gt;22 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Proteggi Cima in Poliestere Resistente UV – Protezione con Chiusura a Strappo per Cime da Ormeggio e Manovra Il proteggi cima in poliestere resistente UV è la soluzione ideale per proteggere le cime dalla spigolosità dei passacavi o delle falchette nelle </Description>
+    <Description>Proteggi Cima in Poliestere Resistente UV �� Protezione con Chiusura a Strappo per Cime da Ormeggio e Manovra Il proteggi cima in poliestere resistente UV è la soluzione ideale per proteggere le cime dalla spigolosità dei passacavi o delle falchette nelle</Description>
     <OriginalPrice>14.40</OriginalPrice>
     <Price>11.11</Price>
     <Code>06.452.02</Code>
@@ -15458,38 +15372,56 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>z-pren-2000-0-850-kg</ParentID>
   </Offer>
   <Offer>
-    <Name>Aeratore da coperta Deck ST Ø 230 mm. inox</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Aeratore da coperta in Acciaio Inox con cappa trasparente in Policarbonato.\n\nCaratteristiche:\n \n Base → 230 mm. \n Collo → 95 mm. \n Altezza → 30 mm. \n materiale → acciaio inox \n Caratteristiche principali Cappa trasparente in policarbonato che perm</Description>
-    <OriginalPrice>62.82</OriginalPrice>
-    <Price>44.87</Price>
-    <Code>1703220</Code>
-    <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-st-o-230-mm-inox-1?variant=52577414349147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Name>Anello con Perno in Acciaio Inox AISI 316 - Perno Ø 8 mm / Lungh. 100 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Anello con Perno è un componente di ferramenta nautica essenziale per chi esige la massima sicurezza e tenuta a bordo. Realizzato interamente in Acciaio Inox AISI 316 , il materiale d&apos;eccellenza per l&apos;ambiente marino, garantisce una resistenza insupera</Description>
+    <OriginalPrice>6.83</OriginalPrice>
+    <Price>5.06</Price>
+    <Code>39.181.04</Code>
+    <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528932187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_ST_230_mm._inox.png?v=1773341613</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626050335</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_ST_230_mm._inox3.png?v=1773341615</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_ST_230_mm._inox_8.png?v=1773341616</Image3>
+    <EanCode>8033137130663</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
     <Condition>nuovo</Condition>
-    <ParentID>aeratore-da-coperta-deck-st-o-230-mm-inox-1</ParentID>
+    <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Aeratore Solara SS Ø 220x120 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos; Aeratore Solara SS garantisce una ventilazione efficiente e continua a bordo, senza necessità di cablaggio o interruttori. Alimentato direttamente dall&apos;energia solare, si avvia automaticamente alla luce del sole, offrendo una soluzione pratica e autono</Description>
-    <OriginalPrice>84.84</OriginalPrice>
-    <Price>59.33</Price>
-    <Code>1703040</Code>
-    <Link>https://www.onautica.com/products/aeratore-solara-ss-o-220x120-mm-1?variant=52577413792091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Name>Anello con Perno in Acciaio Inox AISI 316 - Perno Ø 10 mm / Lungh. 100 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Anello con Perno è un componente di ferramenta nautica essenziale per chi esige la massima sicurezza e tenuta a bordo. Realizzato interamente in Acciaio Inox AISI 316 , il materiale d&apos;eccellenza per l&apos;ambiente marino, garantisce una resistenza insupera</Description>
+    <OriginalPrice>10.89</OriginalPrice>
+    <Price>7.78</Price>
+    <Code>A5451010</Code>
+    <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528964955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_Solara_SS_220x120_mm..png?v=1773341614</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626050311</EanCode>
+    <EanCode>8013429545078</EanCode>
+    <Weight>970.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
     <Condition>nuovo</Condition>
-    <ParentID>aeratore-solara-ss-o-220x120-mm-1</ParentID>
+    <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Anello con Perno in Acciaio Inox AISI 316 - Perno Ø 12 mm / Lungh. 120 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Anello con Perno è un componente di ferramenta nautica essenziale per chi esige la massima sicurezza e tenuta a bordo. Realizzato interamente in Acciaio Inox AISI 316 , il materiale d&apos;eccellenza per l&apos;ambiente marino, garantisce una resistenza insupera</Description>
+    <OriginalPrice>17.86</OriginalPrice>
+    <Price>12.76</Price>
+    <Code>M8267-4-12*120</Code>
+    <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528997723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051015130789</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
     <Name>Appendiabiti 2 ganci inox 38x53 cm.</Name>
@@ -16794,6 +16726,22 @@ L 320mm. - Ø22</Name>
     <ParentID>mini-nottolino-a-cilindro-o12xh10</ParentID>
   </Offer>
   <Offer>
+    <Name>Morsetto a Cavallotto in Acciaio Inox AISI 316 Lucidato - Ø 15/16 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Morsetto a Cavallotto è un accessorio di ferramenta indispensabile per chiunque debba realizzare in modo sicuro e tenace asole, chiusure e giunzioni meccaniche su cavi metallici. Costruito interamente in pregiato Acciaio Inox AISI 316 lucidato , rappre</Description>
+    <OriginalPrice>8.79</OriginalPrice>
+    <Price>5.67</Price>
+    <Code>A54916</Code>
+    <Link>https://www.onautica.com/products/morsetto-cavallotto-acciaio-inox-aisi-316?variant=52589840728411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/morsetto-cavallotto-acciaio-inox-aisi-316.webp?v=1773478866</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8013429549083</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>morsetto-cavallotto-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Moschettone 113 mm. girevole A4</Name>
     <Brand>Osculati</Brand>
     <Description>In acciaio inox AISI 316; per fiocco ad occhio chiuso. Lunghezza mm Carico di lavoro kg Carico di rottura kg 113 46 180 Caratteristiche principali Perno girevole integrato per eliminare le torsioni sulla drizza o sulla scotta Apertura a molla per aggancio</Description>
@@ -17692,6 +17640,40 @@ L 320mm. - Ø22</Name>
     <ParentID>aeratore-da-coperta-deck-roca-o-200-mm-polimero-1</ParentID>
   </Offer>
   <Offer>
+    <Name>Aeratore da coperta Deck ST Ø 230 mm. inox</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Aeratore da coperta in Acciaio Inox con cappa trasparente in Policarbonato.\n\nCaratteristiche:\n \n Base → 230 mm. \n Collo → 95 mm. \n Altezza → 30 mm. \n materiale → acciaio inox \n Caratteristiche principali Cappa trasparente in policarbonato che perm</Description>
+    <OriginalPrice>62.82</OriginalPrice>
+    <Price>44.87</Price>
+    <Code>1703220</Code>
+    <Link>https://www.onautica.com/products/aeratore-da-coperta-deck-st-o-230-mm-inox-1?variant=52577414349147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_ST_230_mm._inox.png?v=1773341613</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626050335</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_ST_230_mm._inox3.png?v=1773341615</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_da_coperta_Deck_ST_230_mm._inox_8.png?v=1773341616</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>aeratore-da-coperta-deck-st-o-230-mm-inox-1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Aeratore Solara SS Ø 220x120 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos; Aeratore Solara SS garantisce una ventilazione efficiente e continua a bordo, senza necessità di cablaggio o interruttori. Alimentato direttamente dall&apos;energia solare, si avvia automaticamente alla luce del sole, offrendo una soluzione pratica e autono</Description>
+    <OriginalPrice>84.84</OriginalPrice>
+    <Price>59.33</Price>
+    <Code>1703040</Code>
+    <Link>https://www.onautica.com/products/aeratore-solara-ss-o-220x120-mm-1?variant=52577413792091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aeratore_Solara_SS_220x120_mm..png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626050311</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>aeratore-solara-ss-o-220x120-mm-1</ParentID>
+  </Offer>
+  <Offer>
     <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
     <Brand>Osculati</Brand>
     <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
@@ -18196,22 +18178,6 @@ L 320mm. - Ø22</Name>
     <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanale di Coperta Inox Verde 112,5°</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il fanale di coperta in acciaio inox verde con apertura angolare di 112,5° è un componente di segnalazione luminosa progettato per garantire la corretta visibilità dell&apos;imbarcazione durante la navigazione. Realizzato in acciaio inossidabile, assicura resi</Description>
-    <OriginalPrice>29.85</OriginalPrice>
-    <Price>21.32</Price>
-    <Code>11.507.07</Code>
-    <Link>https://www.onautica.com/products/fanale-di-coperta-inox-verde-112-5?variant=52577434009947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_Coperta_Inox_Verde_112_5.png?v=1773341651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011320</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-di-coperta-inox-verde-112-5</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanale di Fonda 360° (CE) &lt;20M</Name>
     <Brand>Motomarine</Brand>
     <Description>Il fanale di fonda 360° è il segnalamento luminoso omologato CE pensato per imbarcazioni fino a 20 metri . Garantisce la corretta segnalazione dell&apos;imbarcazione all&apos;ancora durante le ore notturne o in condizioni di scarsa visibilità, nel pieno rispetto de</Description>
@@ -18299,22 +18265,6 @@ L 320mm. - Ø22</Name>
     <ParentID>fanale-navigazione-360-corpo-bianco-12m</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanale di Navigazione LED 360° su Asta in Acciaio Inox h 24 cm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Fanale di Navigazione LED 360° è una luce di fonda (all-round) professionale, progettata per garantire la massima sicurezza e visibilità durante la navigazione notturna o in condizioni di scarsa visibilità. Specificamente certificato CE e a norma USCG </Description>
-    <OriginalPrice>41.71</OriginalPrice>
-    <Price>29.79</Price>
-    <Code>2113342</Code>
-    <Link>https://www.onautica.com/products/fanale-led-360-asta-inox-24cm?variant=52577434403163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-led-360-asta-inox-24cm.webp?v=1775579160</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626182609</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-led-360-asta-inox-24cm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanale di Navigazione LED 360° su Asta in Acciaio Inox h 64 cm</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Fanale di Navigazione LED 360° rappresenta la variante ad asta lunga della serie di luci di fonda professionali, ideale per imbarcazioni che necessitano di una maggiore elevazione del punto luce per superare ostacoli strutturali o tendalini. Certificat</Description>
@@ -18345,38 +18295,6 @@ L 320mm. - Ø22</Name>
     <EanCode>022697013699</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanale-led-rosso-inox-attwood-side-mount-r-i-n-a-20m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale led verde inox Attwood side mount R.I.N.A. &lt; 20M</Name>
-    <Brand>Attwood</Brand>
-    <Description>Il fanale di navigazione Attwood a montaggio laterale è la scelta affidabile per chi cerca sicurezza e durabilità in mare. La cassa in acciaio inox con protezione IPX7 garantisce tenuta stagna anche nelle condizioni più difficili, mentre la tecnologia LED</Description>
-    <OriginalPrice>61.01</OriginalPrice>
-    <Price>43.58</Price>
-    <Code>10602</Code>
-    <Link>https://www.onautica.com/products/fanale-led-verde-inox-attwood-side-mount-r-i-n-a-20m?variant=52577434042715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_led_verde_inox_Attwood_side_mount_R.I.N.A._20M.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>022697013682</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-led-verde-inox-attwood-side-mount-r-i-n-a-20m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale led verde inox R.I.N.A. &lt; 20M</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Fanale led verde inox R.I.N.A. &lt; 20M Il fanale LED verde in acciaio inox è una luce di navigazione omologata R.I.N.A., pensata per imbarcazioni fino a 20 metri. Grazie alla tecnologia LED e alla costruzione in inox, offre visibilità affidabile e resistenz</Description>
-    <OriginalPrice>62.94</OriginalPrice>
-    <Price>44.96</Price>
-    <Code>10605</Code>
-    <Link>https://www.onautica.com/products/fanale-led-verde-inox-r-i-n-a-20m?variant=52577434075483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_led_verde_inox_R.I.N.A._20M.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8024827710869</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-led-verde-inox-r-i-n-a-20m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale On Deck rosso Led</Name>
@@ -19192,24 +19110,6 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-acqua-di-mare-3-4-rgs-ottone-conforme-r-i-n-a</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Nautico 50L 12/24V – Pannello Clean Touch Anti-impronta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Frigorifero Frigo° da 50 Litri combina prestazioni di raffreddamento eccellenti con un design moderno e funzionale, studiato specificamente per l&apos;ambiente nautico e i veicoli ricreazionali. La caratteristica distintiva di questa serie è il pannello fro</Description>
-    <OriginalPrice>503.76</OriginalPrice>
-    <Price>457.97</Price>
-    <Code>50.960.00</Code>
-    <Link>https://www.onautica.com/products/frigorifero-nautico-50l-clean-touch?variant=52577545486683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchchiuso.png?v=1773342024</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.88</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchmisure.png?v=1773342026</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-nautico-50l-clean-touch</ParentID>
-  </Offer>
-  <Offer>
     <Name>Frigorifero Portatile a Compressore Travel Box ITB 32 (32 Litri)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 32 offre la massima praticità per la conservazione in viaggio. Con una capacità compatta di 32 litri , è la soluzione ideale per chi cerca prestazioni elevate e affidabilità a bordo della propria imbar</Description>
@@ -19807,24 +19707,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude.png?v=1767378377</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051837</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude20.png?v=1767378377</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude21.png?v=1767378377</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814283</Name>
-    <Brand>Evinrude</Brand>
-    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Johnson ed Evinrude . Progettate per resistere all&apos;usura e garantire il corretto raffreddamento del motore in ambiente marino. L&apos;assortimento copre una vasta gamma di mode</Description>
-    <OriginalPrice>19.20</OriginalPrice>
-    <Price>12.80</Price>
-    <Code>1814283</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-johnson-evinrude?variant=52525733708123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude.png?v=1767378377</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051721</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude20.png?v=1767378377</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude21.png?v=1767378377</Image3>
     <Condition>nuovo</Condition>
@@ -25318,6 +25200,22 @@ L 320mm. - Ø22</Name>
     <ParentID>fanale-di-coperta-inox-rosso-112-5</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale di Coperta Inox Verde 112,5°</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il fanale di coperta in acciaio inox verde con apertura angolare di 112,5° è un componente di segnalazione luminosa progettato per garantire la corretta visibilità dell&apos;imbarcazione durante la navigazione. Realizzato in acciaio inossidabile, assicura resi</Description>
+    <OriginalPrice>29.85</OriginalPrice>
+    <Price>21.32</Price>
+    <Code>11.507.07</Code>
+    <Link>https://www.onautica.com/products/fanale-di-coperta-inox-verde-112-5?variant=52577434009947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_di_Coperta_Inox_Verde_112_5.png?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011320</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-di-coperta-inox-verde-112-5</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale di Navigazione 360° su Basetta Corpo Nero (&lt;12m)</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Fanale di Navigazione 360° su Basetta è una dotazione di sicurezza obbligatoria ed essenziale per segnalare la presenza e la posizione della tua barca durante la navigazione notturna o in condizioni di scarsa visibilità. Questo modello specifico emette</Description>
@@ -25332,6 +25230,54 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626065346</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanale-navigazione-360-corpo-nero-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale di Navigazione LED 360° su Asta in Acciaio Inox h 24 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Fanale di Navigazione LED 360° è una luce di fonda (all-round) professionale, progettata per garantire la massima sicurezza e visibilità durante la navigazione notturna o in condizioni di scarsa visibilità. Specificamente certificato CE e a norma USCG </Description>
+    <OriginalPrice>41.71</OriginalPrice>
+    <Price>29.79</Price>
+    <Code>2113342</Code>
+    <Link>https://www.onautica.com/products/fanale-led-360-asta-inox-24cm?variant=52577434403163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-led-360-asta-inox-24cm.webp?v=1775579160</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626182609</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-led-360-asta-inox-24cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale led verde inox Attwood side mount R.I.N.A. &lt; 20M</Name>
+    <Brand>Attwood</Brand>
+    <Description>Il fanale di navigazione Attwood a montaggio laterale è la scelta affidabile per chi cerca sicurezza e durabilità in mare. La cassa in acciaio inox con protezione IPX7 garantisce tenuta stagna anche nelle condizioni più difficili, mentre la tecnologia LED</Description>
+    <OriginalPrice>61.01</OriginalPrice>
+    <Price>43.58</Price>
+    <Code>10602</Code>
+    <Link>https://www.onautica.com/products/fanale-led-verde-inox-attwood-side-mount-r-i-n-a-20m?variant=52577434042715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_led_verde_inox_Attwood_side_mount_R.I.N.A._20M.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>022697013682</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-led-verde-inox-attwood-side-mount-r-i-n-a-20m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale led verde inox R.I.N.A. &lt; 20M</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Fanale led verde inox R.I.N.A. &lt; 20M Il fanale LED verde in acciaio inox è una luce di navigazione omologata R.I.N.A., pensata per imbarcazioni fino a 20 metri. Grazie alla tecnologia LED e alla costruzione in inox, offre visibilità affidabile e resistenz</Description>
+    <OriginalPrice>62.94</OriginalPrice>
+    <Price>44.96</Price>
+    <Code>10605</Code>
+    <Link>https://www.onautica.com/products/fanale-led-verde-inox-r-i-n-a-20m?variant=52577434075483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_led_verde_inox_R.I.N.A._20M.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8024827710869</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-led-verde-inox-r-i-n-a-20m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale testa d&apos;albero 360° a led con basetta bianco</Name>
@@ -25693,22 +25639,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gancio_da_ormeggio_Boatasy_Hooklinker_3.png?v=1773341665</Image3>
     <Condition>nuovo</Condition>
     <ParentID>gancio-da-ormeggio-boatasy-hooklinker</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giunto di Unione Bianco per Profilo Parabordo ECO e T1</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Giunto di Unione Bianco (Cod. 3833628) è l&apos;elemento di finitura ideale per completare l&apos;installazione dei profili parabordo sulla tua imbarcazione. Compatibile con le serie ECO (ECO1) e T1 , questo accessorio permette di collegare visivamente due tratt</Description>
-    <OriginalPrice>18.40</OriginalPrice>
-    <Price>10.82</Price>
-    <Code>3833628</Code>
-    <Link>https://www.onautica.com/products/giunto-unione-bottazzo-eco-t1-bianco?variant=52577408909659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbrogiuntobianco.webp?v=1773341602</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626114211</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>giunto-unione-bottazzo-eco-t1-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Igienizzante per serbatoi Pulitank 1 lt.</Name>
@@ -26766,8 +26696,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 240x700 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
-    <OriginalPrice>45.09</OriginalPrice>
-    <Price>32.21</Price>
+    <OriginalPrice>42.58</OriginalPrice>
+    <Price>30.42</Price>
     <Code>3801103</Code>
     <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52549795643739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -28978,54 +28908,6 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-tasca-laterale-420x170x100-mm-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Terminale di Chiusura Bianco per Profilo Parabordo ECO1</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Terminale di Chiusura Bianco (Cod. 3833128) è il complemento perfetto per rifinire l&apos;installazione del profilo parabordo ECO1 sulla tua imbarcazione. Realizzato in PVC bianco lucido, questo tappo di chiusura si adatta alle estremità del profilo tagliat</Description>
-    <OriginalPrice>8.60</OriginalPrice>
-    <Price>5.05</Price>
-    <Code>3833128</Code>
-    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-eco-bianco?variant=52577409499483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbroterminalebianco.webp?v=1773341603</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626113887</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>terminale-chiusura-bottazzo-eco-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Terminale di Chiusura Nero per Profilo Parabordo ECO1</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Terminale di Chiusura Nero (Cod. 3833028) è l&apos;accessorio indispensabile per rifinire in modo professionale l&apos;installazione del vostro bottazzo. Progettato specificamente per la serie ECO1 , questo tappo si applica alle estremità del profilo tagliato. L</Description>
-    <OriginalPrice>8.60</OriginalPrice>
-    <Price>5.05</Price>
-    <Code>3833028</Code>
-    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-eco-nero?variant=52577409204571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbroterminalenero.webp?v=1773341602</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626113801</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>terminale-chiusura-bottazzo-eco-nero</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Terminale di Chiusura Nero per Profilo Parabordo T1 (36mm)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Terminale di Chiusura Nero (Cod. 3833035) è l&apos;accessorio di finitura specifico per la serie di profili parabordo T1 (altezza 36 mm). Realizzato in PVC nero resistente all&apos;ambiente marino, questo componente è progettato per chiudere elegantemente le est</Description>
-    <OriginalPrice>10.80</OriginalPrice>
-    <Price>6.34</Price>
-    <Code>3833035</Code>
-    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t1-nero?variant=52577409270107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalenero.webp?v=1773341602</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626113832</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>terminale-chiusura-bottazzo-t1-nero</ParentID>
-  </Offer>
-  <Offer>
     <Name>Terminale profili T2 nero H 45/52 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Terminale di Chiusura Nero (Cod. 3833045) è progettato specificamente per la serie di profili parabordo T2 , caratterizzata da un&apos;altezza di 45 mm. Questo accessorio in PVC nero è fondamentale per completare l&apos;installazione del bottazzo, sigillando le </Description>
@@ -29696,23 +29578,6 @@ L 320mm. - Ø22</Name>
     <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
   </Offer>
   <Offer>
-    <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - BR8HS-10 NGK</Name>
-    <Brand>NGK</Brand>
-    <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
-    <OriginalPrice>7.50</OriginalPrice>
-    <Price>5.34</Price>
-    <Code>4851518</Code>
-    <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382203739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>087295111345</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
-  </Offer>
-  <Offer>
     <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - CPR6EA-9 NGK</Name>
     <Brand>NGK</Brand>
     <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
@@ -30078,22 +29943,6 @@ L 320mm. - Ø22</Name>
     <ParentID>detergente-teak-wonder-cleaner-non-caustico</ParentID>
   </Offer>
   <Offer>
-    <Name>Doccetta Duo Switch in ABS Bianco - 2 Getti</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Doccetta Duo Switch è un componente versatile e funzionale, ideale come ricambio o integrazione per i sistemi di box doccia a scomparsa e incassata (Serie Uni-S). Realizzata in ABS bianco di alta qualità, questa doccetta è progettata specificamente per</Description>
-    <OriginalPrice>14.00</OriginalPrice>
-    <Price>10.00</Price>
-    <Code>1513103</Code>
-    <Link>https://www.onautica.com/products/doccetta-duo-switch-abs-bianco-2-getti?variant=52577432371547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/doccetta-duo-switch-abs-bianco-2-getti-nautica.webp?v=1775224577</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626043122</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>doccetta-duo-switch-abs-bianco-2-getti</ParentID>
-  </Offer>
-  <Offer>
     <Name>Doccetta Push Button in Acciaio Inox 18/8 per Imbarcazioni</Name>
     <Brand>Motomarine</Brand>
     <Description>La Doccetta Push Button in Acciaio Inox rappresenta il massimo della qualità e del design per l&apos;arredo tecnico nautico. Realizzata in Acciaio Inox 18/8 (AISI 304) , questa testa doccetta è progettata per resistere nel tempo all&apos;aggressione della salsedine</Description>
@@ -30126,22 +29975,6 @@ L 320mm. - Ø22</Name>
     <Weight>200.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>doccetta-shut-off-knob-lisa-ottone-abs</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Doccetta Switch Bath con base per incasso</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Testa della doccetta con un singolo getto e attacco M15 femmina. Caratteristiche principali: funzionamento a leva con posizioni ON-OFF-ON; realizzata in plastica resistente; flusso d&apos;acqua semplice a 1 getto; dotata di base per installazione incassata. Ca</Description>
-    <OriginalPrice>31.67</OriginalPrice>
-    <Price>22.62</Price>
-    <Code>1513200</Code>
-    <Link>https://www.onautica.com/products/doccetta-switch-bath-con-base-per-incasso?variant=52577432535387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Doccetta_Switch_Bath_con_base_per_incasso.png?v=1773341651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8024827510971</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>doccetta-switch-bath-con-base-per-incasso</ParentID>
   </Offer>
   <Offer>
     <Name>Filtri Aria Cilindrici per Motori Volvo Penta – Ricambi Compatibili - 858488-0</Name>
@@ -31089,6 +30922,22 @@ L 320mm. - Ø22</Name>
     <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto di Unione Bianco per Profilo Parabordo ECO e T1</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Giunto di Unione Bianco (Cod. 3833628) è l&apos;elemento di finitura ideale per completare l&apos;installazione dei profili parabordo sulla tua imbarcazione. Compatibile con le serie ECO (ECO1) e T1 , questo accessorio permette di collegare visivamente due tratt</Description>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>10.82</Price>
+    <Code>3833628</Code>
+    <Link>https://www.onautica.com/products/giunto-unione-bottazzo-eco-t1-bianco?variant=52577408909659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbrogiuntobianco.webp?v=1773341602</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626114211</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-unione-bottazzo-eco-t1-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto di Unione Nero per Profilo Parabordo ECO e T1</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Giunto di Unione Nero (Cod. 3833528) è un accessorio di finitura essenziale per l&apos;installazione dei profili parabordo. Progettato specificamente per adattarsi alle serie ECO (ECO1) e T1 , questo componente serve a mascherare elegantemente il punto di c</Description>
@@ -31644,22 +31493,6 @@ L 320mm. - Ø22</Name>
     <ParentID>microsfere-cave-di-vetro-per-laminazione</ParentID>
   </Offer>
   <Offer>
-    <Name>Miscelatore Acqua Calda/Fredda T-Mixer con Attacchi da 3/8&quot;</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Miscelatore Acqua Calda/Fredda T-Mixer è un componente essenziale per la gestione efficiente dell&apos;impianto idrico di bordo. Progettato per offrire un controllo preciso della miscelazione della temperatura, questo set è la soluzione ideale per chi cerca</Description>
-    <OriginalPrice>41.26</OriginalPrice>
-    <Price>29.47</Price>
-    <Code>1511112</Code>
-    <Link>https://www.onautica.com/products/miscelatore-acqua-calda-fredda-t-mixer?variant=52577451639131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/miscelatore-nautico-t-mixer-acqua-calda-fredda.webp?v=1775225638</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626239631</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>miscelatore-acqua-calda-fredda-t-mixer</ParentID>
-  </Offer>
-  <Offer>
     <Name>Miscelatore con canna abbattibile modello LOW</Name>
     <Brand>Motomarine</Brand>
     <Description>Miscelatore con canna abbattibile e girevole per lavelli. Caratteristiche: H 180 mm. Base 120 mm. Caratteristiche principali Canna abbattibile e girevole, ideale per spazi ridotti a bordo Design compatto modello LOW, pensato per lavelli con poco spazio in</Description>
@@ -31676,22 +31509,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011c.png?v=1773341705</Image3>
     <Condition>nuovo</Condition>
     <ParentID>miscelatore-abbattibile-low-con-canna</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Miscelatore Elka Shut Off Standard con Doccetta Estraibile</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Miscelatore Elka Shut Off Standard è la soluzione ideale per chi cerca massima funzionalità e praticità nel lavello della propria imbarcazione. Questo miscelatore monocomando combina un design moderno con la versatilità di una canna girevole e una docc</Description>
-    <OriginalPrice>189.81</OriginalPrice>
-    <Price>118.63</Price>
-    <Code>1513022</Code>
-    <Link>https://www.onautica.com/products/miscelatore-elka-lavello-doccetta-estraibile-shut-off?variant=52577451671899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/miscelatore-elka-shut-off-doccetta-estraibile-yara.webp?v=1775225450</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626206183</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>miscelatore-elka-lavello-doccetta-estraibile-shut-off</ParentID>
   </Offer>
   <Offer>
     <Name>Nipple Maschio-Maschio in Acciaio Inox AISI 316 - 1&quot;</Name>
@@ -32367,7 +32184,7 @@ bocche Ø 14 mm.</Name>
     <Price>17.76</Price>
     <Code>17.314.02</Code>
     <Link>https://www.onautica.com/products/presa-a-mare-ottone?variant=52532028539227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.314.XX.png?v=1773341985</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -33790,6 +33607,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>protettivo-teak-wonder-dressing-sealer</ParentID>
   </Offer>
   <Offer>
+    <Name>Terminale di Chiusura Bianco per Profilo Parabordo ECO1</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Bianco (Cod. 3833128) è il complemento perfetto per rifinire l&apos;installazione del profilo parabordo ECO1 sulla tua imbarcazione. Realizzato in PVC bianco lucido, questo tappo di chiusura si adatta alle estremità del profilo tagliat</Description>
+    <OriginalPrice>8.60</OriginalPrice>
+    <Price>5.05</Price>
+    <Code>3833128</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-eco-bianco?variant=52577409499483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbroterminalebianco.webp?v=1773341603</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113887</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-eco-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Terminale di Chiusura Bianco per Profilo Parabordo T2 (45mm)</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Terminale di Chiusura Bianco (Cod. 3833145) è l&apos;accessorio specifico per la finitura della serie di profili parabordo T2 (altezza 45 mm). Realizzato in PVC bianco resistente all&apos;ambiente marino, questo componente serve a chiudere le estremità del botta</Description>
@@ -33804,6 +33637,38 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626113931</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>terminale-chiusura-bottazzo-t2-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Terminale di Chiusura Nero per Profilo Parabordo ECO1</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Nero (Cod. 3833028) è l&apos;accessorio indispensabile per rifinire in modo professionale l&apos;installazione del vostro bottazzo. Progettato specificamente per la serie ECO1 , questo tappo si applica alle estremità del profilo tagliato. L</Description>
+    <OriginalPrice>8.60</OriginalPrice>
+    <Price>5.05</Price>
+    <Code>3833028</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-eco-nero?variant=52577409204571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BottazzoParabordoECO125mm_PVCperGiunzioniLabbroterminalenero.webp?v=1773341602</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113801</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-eco-nero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Terminale di Chiusura Nero per Profilo Parabordo T1 (36mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Nero (Cod. 3833035) è l&apos;accessorio di finitura specifico per la serie di profili parabordo T1 (altezza 36 mm). Realizzato in PVC nero resistente all&apos;ambiente marino, questo componente è progettato per chiudere elegantemente le est</Description>
+    <OriginalPrice>10.80</OriginalPrice>
+    <Price>6.34</Price>
+    <Code>3833035</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t1-nero?variant=52577409270107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalenero.webp?v=1773341602</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113832</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-t1-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Trinella - Baderna Premistoppa per Asse Elica – Confezione 1,5m - 6x6 mm.</Name>
@@ -34922,7 +34787,7 @@ bocche Ø 14 mm.</Name>
     <Price>33.64</Price>
     <Code>30217B</Code>
     <Link>https://www.onautica.com/products/cavo-telecomando-universale-ultraflex-c8?variant=52545436385627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-universale-ultraflex-c8.webp?v=1770993407</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36134,6 +35999,38 @@ bocche Ø 14 mm.</Name>
     <ParentID>detergente-igienizzante-a-base-di-ossigeno-per-serbatoi-acqua-steril-tank-500-ml</ParentID>
   </Offer>
   <Offer>
+    <Name>Doccetta Duo Switch in ABS Bianco - 2 Getti</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Doccetta Duo Switch è un componente versatile e funzionale, ideale come ricambio o integrazione per i sistemi di box doccia a scomparsa e incassata (Serie Uni-S). Realizzata in ABS bianco di alta qualità, questa doccetta è progettata specificamente per</Description>
+    <OriginalPrice>14.00</OriginalPrice>
+    <Price>10.00</Price>
+    <Code>1513103</Code>
+    <Link>https://www.onautica.com/products/doccetta-duo-switch-abs-bianco-2-getti?variant=52577432371547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/doccetta-duo-switch-abs-bianco-2-getti-nautica.webp?v=1775224577</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626043122</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>doccetta-duo-switch-abs-bianco-2-getti</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Doccetta Switch Bath con base per incasso</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Testa della doccetta con un singolo getto e attacco M15 femmina. Caratteristiche principali: funzionamento a leva con posizioni ON-OFF-ON; realizzata in plastica resistente; flusso d&apos;acqua semplice a 1 getto; dotata di base per installazione incassata. Ca</Description>
+    <OriginalPrice>31.67</OriginalPrice>
+    <Price>22.62</Price>
+    <Code>1513200</Code>
+    <Link>https://www.onautica.com/products/doccetta-switch-bath-con-base-per-incasso?variant=52577432535387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Doccetta_Switch_Bath_con_base_per_incasso.png?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8024827510971</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>doccetta-switch-bath-con-base-per-incasso</ParentID>
+  </Offer>
+  <Offer>
     <Name>Galleggiante di emergenza Lifewatch</Name>
     <Brand>Osculati</Brand>
     <Description>Il Galleggiante di emergenza Lifewatch è un salvagente anulare professionale, ideale per interventi di soccorso rapido a bordo e in banchina. Costruito in polietilene e riempito in poliuretano espanso , garantisce robustezza, leggerezza e ottima galleggia</Description>
@@ -36268,6 +36165,38 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manopola_nera_per_volante.png?v=1773341703</Image2>
     <Condition>nuovo</Condition>
     <ParentID>manopola-nera-per-volante</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Miscelatore Acqua Calda/Fredda T-Mixer con Attacchi da 3/8&quot;</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Miscelatore Acqua Calda/Fredda T-Mixer è un componente essenziale per la gestione efficiente dell&apos;impianto idrico di bordo. Progettato per offrire un controllo preciso della miscelazione della temperatura, questo set è la soluzione ideale per chi cerca</Description>
+    <OriginalPrice>41.26</OriginalPrice>
+    <Price>29.47</Price>
+    <Code>1511112</Code>
+    <Link>https://www.onautica.com/products/miscelatore-acqua-calda-fredda-t-mixer?variant=52577451639131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/miscelatore-nautico-t-mixer-acqua-calda-fredda.webp?v=1775225638</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626239631</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>miscelatore-acqua-calda-fredda-t-mixer</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Miscelatore Elka Shut Off Standard con Doccetta Estraibile</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Miscelatore Elka Shut Off Standard è la soluzione ideale per chi cerca massima funzionalità e praticità nel lavello della propria imbarcazione. Questo miscelatore monocomando combina un design moderno con la versatilità di una canna girevole e una docc</Description>
+    <OriginalPrice>189.81</OriginalPrice>
+    <Price>118.63</Price>
+    <Code>1513022</Code>
+    <Link>https://www.onautica.com/products/miscelatore-elka-lavello-doccetta-estraibile-shut-off?variant=52577451671899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/miscelatore-elka-shut-off-doccetta-estraibile-yara.webp?v=1775225450</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626206183</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>miscelatore-elka-lavello-doccetta-estraibile-shut-off</ParentID>
   </Offer>
   <Offer>
     <Name>Monoleva B501BT monomotore con trim Ultraflex</Name>
@@ -36546,8 +36475,8 @@ bocche Ø 14 mm.</Name>
     <Name>Nastro Riflettente Adesivo Solas R.I.Na. (Vendita al Metro)</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Nastro Riflettente Adesivo è un accessorio di sicurezza essenziale per aumentare esponenzialmente la visibilità notturna o in condizioni di maltempo delle dotazioni di bordo. Questo prodotto risponde ai più severi standard marittimi internazionali, van</Description>
-    <OriginalPrice>8.49</OriginalPrice>
-    <Price>6.29</Price>
+    <OriginalPrice>127.43</OriginalPrice>
+    <Price>94.39</Price>
     <Code>290091615</Code>
     <Link>https://www.onautica.com/products/nastro-adesivo-solas-riflettente?variant=52577453408603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -36795,23 +36724,6 @@ bocche Ø 14 mm.</Name>
     <Weight>50.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Rullo di ricambio specifico per salpa ancore elettrici e musoni di prua Dimensioni precise per una sostituzione diretta senza modifiche Foro centrale da Ø 13 mm per u</Description>
-    <OriginalPrice>19.81</OriginalPrice>
-    <Price>14.15</Price>
-    <Code>01.519.01</Code>
-    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia?variant=52577484767579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_86_mm._-_foro_13_mm._puleggia.png?v=1773341806</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137003684</EanCode>
-    <Weight>50.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia</ParentID>
   </Offer>
   <Offer>
     <Name>Rullo ricambio - L 50 mm. - Ø 56 mm. - foro Ø 11 mm. puleggia</Name>
@@ -37982,23 +37894,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Stand Up Paddle JOBE Mira 10.0 Package SUP</Name>
-    <Brand>JOBE</Brand>
-    <Description>Superficie antiscivolo per una maggiore stabilità. Duttile, leggero, ma robusto. Può sostenere un peso raccomandato fino a 120 kg. Resistente struttura in pvc, drop stichting ad elevata resistenza (pressione 15 psi). Completo di pagaia, gonfiatore manuale</Description>
-    <OriginalPrice>756.30</OriginalPrice>
-    <Price>420.17</Price>
-    <Code>64.944.01</Code>
-    <Link>https://www.onautica.com/products/stand-up-paddle-jobe-mira-10-0-package-1?variant=52577522876763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe300.png?v=1773341917</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe.png?v=1773341918</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe300b.png?v=1773341919</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>stand-up-paddle-jobe-mira-10-0-package-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Supporto boetta inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Supporto a clips per boetta di salvataggio, realizzato in acciaio inox per garantire massima resistenza alla corrosione in ambiente marino. L&apos;attacco orientabile consente di posizionare la boetta nell&apos;angolazione ottimale, adattandosi alle diverse esigenz</Description>
@@ -38848,24 +38743,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>anello-traina-sci-in-acciaio-inox-o60-perni-75x10mm-1</ParentID>
   </Offer>
   <Offer>
-    <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna CB RA127 di Glomex è progettata specificamente per le comunicazioni in banda cittadina (Citizen Band) in ambiente marino. Grazie al suo stilo realizzato in vetroresina di alta qualità con finitura poliuretanica, garantisce un&apos;eccellente resiste</Description>
-    <OriginalPrice>133.80</OriginalPrice>
-    <Price>102.89</Price>
-    <Code>5636415</Code>
-    <Link>https://www.onautica.com/products/antenna-cb-glomex-ra127?variant=52577378992475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-cb-glomex-ra127_a216f354-956c-443a-89a9-7023e51f8be4.png?v=1773341526</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301140</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-prolunga-antenna-cb-glomex.png?v=1773341529</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-cb-glomex-ra127</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antenna dipolo FM/AM 75 Ohm</Name>
     <Brand>Motomarine</Brand>
     <Description>Antenna di ricambio dipolo essenziale per garantire un&apos;ottima ricezione delle frequenze radio FM e AM. Caratteristiche Principali: Tipologia: Antenna dipolo (spesso usata per installazioni nascoste o interne dove non è possibile montare un&apos;antenna fissa).</Description>
@@ -38880,24 +38757,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>791489310420</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>antenna-dipolo-fm-am-75-ohm-autoradio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antenna Radio AM/FM Glomex Compatta in Gomma Flessibile (30 cm)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna Glomex AM/FM Compatta è la soluzione perfetta per chi cerca un&apos;antenna radio discreta, resistente e facile da installare. Realizzata in nylon e gomma flessibile resistente ai raggi UV, questa antenna è progettata per durare nel tempo senza ingi</Description>
-    <OriginalPrice>60.60</OriginalPrice>
-    <Price>46.61</Price>
-    <Code>29.128.10</Code>
-    <Link>https://www.onautica.com/products/antenna-am-fm-glomex-flessibile-compatta?variant=52577378697563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile.png?v=1773341526</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301065</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile_flex.png?v=1773341527</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-am-fm-glomex-flessibile-compatta</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna TV + Radio FM Omnidirezionale Glomex Avior VT300</Name>
@@ -39129,22 +38988,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>base-fissa-antenna-nylon-1un-v9175ot</ParentID>
   </Offer>
   <Offer>
-    <Name>Base Antenna Regolabile a Pomello in Nylon Rinforzato</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa base è un componente versatile per l&apos;installazione delle antenne di bordo, ideale per chi necessita di poter regolare l&apos;inclinazione o l&apos;angolo di montaggio con facilità. Caratteristiche Principali: Materiale: Realizzata in Nylon Rinforzato , garan</Description>
-    <OriginalPrice>12.64</OriginalPrice>
-    <Price>9.36</Price>
-    <Code>5636500</Code>
-    <Link>https://www.onautica.com/products/base-regolabile-pomello-nylon-47x75?variant=52577501380955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEREGOLABILEAPOMELLOINNYLONRINFORZATO.png?v=1773341861</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626147578</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>base-regolabile-pomello-nylon-47x75</ParentID>
-  </Offer>
-  <Offer>
     <Name>Base per supporto tavolo in alluminio bianco Ø 60 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Basi di ricambio per gambe tavolo coniche. Ø esterno mm Materiale Per gamba tavolo Ø tubo mm 160 alluminio verniciato bianco 48.418.22 60 Caratteristiche principali Costruzione in alluminio verniciato bianco, resistente alla corrosione marina Diametro da </Description>
@@ -39263,23 +39106,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image3>
     <Condition>nuovo</Condition>
     <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Capottina Tendalino 3 Archi Bianco – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi garantisce una buona tensione del telo</Description>
-    <OriginalPrice>208.78</OriginalPrice>
-    <Price>160.60</Price>
-    <Code>3265057</Code>
-    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-bianco?variant=52519959298395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-alluminioschemafrontale.png?v=1768237256</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>capottina-tendalino-3-archi-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
@@ -40801,22 +40627,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>nastro-adesivo-psp-dacron-spi-riparazione-vele</ParentID>
   </Offer>
   <Offer>
-    <Name>Passacavo Stagno Glomex RA140 in Nylon per Cavi Coassiali</Name>
-    <Brand>Glomex</Brand>
-    <Description>Il Passacavo Stagno Glomex RA140 è un componente essenziale per chi desidera installare antenne VHF o altri apparati elettronici a bordo in modo pulito e professionale. Realizzato in Nylon di alta qualità resistente ai raggi UV e alla salsedine, questo pa</Description>
-    <OriginalPrice>10.86</OriginalPrice>
-    <Price>7.76</Price>
-    <Code>5637112</Code>
-    <Link>https://www.onautica.com/products/passacavo-stagno-glomex-ra140-cavi-coassiali?variant=52577467859291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/passacavo-stagno-glomex-ra140-nylon-cavo-vhf.webp?v=1775226059</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301317</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>passacavo-stagno-glomex-ra140-cavi-coassiali</ParentID>
-  </Offer>
-  <Offer>
     <Name>Piastre 420x340 mm. bianco salvapoppa PL angolate inclinazione 22&lt;1 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa tavoletta, parte della serie di Piastre proteggi poppa in plastica zigrinata, è un accessorio specializzato e non solo una protezione: è una piastra a cuneo progettata per variare l&apos;inclinazione del motore fuoribordo. È essenziale per ottimizzare l</Description>
@@ -42001,6 +41811,23 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_attacco.png?v=1773341782</Image3>
     <Condition>nuovo</Condition>
     <ParentID>sportello-abs-con-box-bt-medium</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Stand Up Paddle JOBE Mira 10.0 Package SUP</Name>
+    <Brand>JOBE</Brand>
+    <Description>Superficie antiscivolo per una maggiore stabilità. Duttile, leggero, ma robusto. Può sostenere un peso raccomandato fino a 120 kg. Resistente struttura in pvc, drop stichting ad elevata resistenza (pressione 15 psi). Completo di pagaia, gonfiatore manuale</Description>
+    <OriginalPrice>756.30</OriginalPrice>
+    <Price>420.17</Price>
+    <Code>64.944.01</Code>
+    <Link>https://www.onautica.com/products/stand-up-paddle-jobe-mira-10-0-package-1?variant=52577522876763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe300.png?v=1773341917</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe.png?v=1773341918</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe300b.png?v=1773341919</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>stand-up-paddle-jobe-mira-10-0-package-1</ParentID>
   </Offer>
   <Offer>
     <Name>Stereo Marino Boss Marine MGR250B Bluetooth – Design Tondo Senza Display</Name>
@@ -43568,22 +43395,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 5/8&quot; / 25 mt</Name>
-    <Brand>Ferramenta Sardo Piemontese</Brand>
-    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
-    <OriginalPrice>43.04</OriginalPrice>
-    <Price>35.87</Price>
-    <Code>76495-15</Code>
-    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152548699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8011779156876</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-tricogel-nts-banchina</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 5/8&quot; / 15 mt</Name>
     <Brand>Ferramenta Sardo Piemontese</Brand>
     <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
@@ -44252,6 +44063,42 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-trasparente-nautica-solvente-flatting</ParentID>
   </Offer>
   <Offer>
+    <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna CB RA127 di Glomex è progettata specificamente per le comunicazioni in banda cittadina (Citizen Band) in ambiente marino. Grazie al suo stilo realizzato in vetroresina di alta qualità con finitura poliuretanica, garantisce un&apos;eccellente resiste</Description>
+    <OriginalPrice>133.80</OriginalPrice>
+    <Price>102.89</Price>
+    <Code>5636415</Code>
+    <Link>https://www.onautica.com/products/antenna-cb-glomex-ra127?variant=52577378992475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-cb-glomex-ra127_a216f354-956c-443a-89a9-7023e51f8be4.png?v=1773341526</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566301140</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-prolunga-antenna-cb-glomex.png?v=1773341529</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-cb-glomex-ra127</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antenna Radio AM/FM Glomex Compatta in Gomma Flessibile (30 cm)</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna Glomex AM/FM Compatta è la soluzione perfetta per chi cerca un&apos;antenna radio discreta, resistente e facile da installare. Realizzata in nylon e gomma flessibile resistente ai raggi UV, questa antenna è progettata per durare nel tempo senza ingi</Description>
+    <OriginalPrice>60.60</OriginalPrice>
+    <Price>46.61</Price>
+    <Code>29.128.10</Code>
+    <Link>https://www.onautica.com/products/antenna-am-fm-glomex-flessibile-compatta?variant=52577378697563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile.png?v=1773341526</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566301065</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile_flex.png?v=1773341527</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-am-fm-glomex-flessibile-compatta</ParentID>
+  </Offer>
+  <Offer>
     <Name>Antenna VHF Glomex in Vetroresina per Testa d&apos;Albero (0,9 m) – Serie Sail - Senza Cavo</Name>
     <Brand>Glomex</Brand>
     <Description>Le Antenne VHF Glomex Serie Sail sono progettate specificamente per l&apos;installazione in testa d&apos;albero su barche a vela . Lo stilo conico in vetroresina garantisce leggerezza, flessibilità e una resistenza eccezionale agli agenti atmosferici marini, riduce</Description>
@@ -44302,6 +44149,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>attacco-tangone-inox-albero</ParentID>
   </Offer>
   <Offer>
+    <Name>Base Antenna Regolabile a Pomello in Nylon Rinforzato</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa base è un componente versatile per l&apos;installazione delle antenne di bordo, ideale per chi necessita di poter regolare l&apos;inclinazione o l&apos;angolo di montaggio con facilità. Caratteristiche Principali: Materiale: Realizzata in Nylon Rinforzato , garan</Description>
+    <OriginalPrice>12.64</OriginalPrice>
+    <Price>9.36</Price>
+    <Code>5636500</Code>
+    <Link>https://www.onautica.com/products/base-regolabile-pomello-nylon-47x75?variant=52577501380955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEREGOLABILEAPOMELLOINNYLONRINFORZATO.png?v=1773341861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626147578</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>base-regolabile-pomello-nylon-47x75</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bozzello 8x28 mm. singolo da incasso</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzelli e rinvii per tessili VIADANA in acciaio inox ad incasso per albero o coperta, puleggia in nylon per drizze tessili. N. pulegge Ø puleggia mm Per cime fino a mm Carico rottura kg 1 28 8 750 Caratteristiche principali Design da incasso per un&apos;insta</Description>
@@ -44335,7 +44198,8 @@ bocche Ø 14 mm.</Name>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte Bozzello a 2 pulegge a violino con strozzascotte integrato della linea Plastinox di Viadana . Costruito con carcassa in nylon nero ad alta resistenza rinforzata in acciaio inox , abbina la l</Description>
-    <Price>42.30</Price>
+    <OriginalPrice>76.20</OriginalPrice>
+    <Price>42.31</Price>
     <Code>VIA90.08</Code>
     <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte?variant=53327454503259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -44350,6 +44214,7 @@ bocche Ø 14 mm.</Name>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte Bozzello a 2 pulegge a violino con strozzascotte integrato della linea Plastinox di Viadana . Costruito con carcassa in nylon nero ad alta resistenza rinforzata in acciaio inox , abbina la l</Description>
+    <OriginalPrice>81.30</OriginalPrice>
     <Price>45.18</Price>
     <Code>VIA91.06</Code>
     <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte?variant=53327454536027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -44365,13 +44230,15 @@ bocche Ø 14 mm.</Name>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
-    <Price>44.36</Price>
+    <OriginalPrice>79.80</OriginalPrice>
+    <Price>44.35</Price>
     <Code>VIA90.09</Code>
     <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816917339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164934</EanCode>
     <Weight>0.25</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
@@ -44380,6 +44247,7 @@ bocche Ø 14 mm.</Name>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
+    <OriginalPrice>109.00</OriginalPrice>
     <Price>60.57</Price>
     <Code>VIA91.07</Code>
     <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816950107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -44387,6 +44255,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164941</EanCode>
     <Weight>0.36</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
@@ -44896,6 +44765,22 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/moschettone-spi-inox-316-grillo-misura.png?v=1773341592</Image2>
     <Condition>nuovo</Condition>
     <ParentID>moschettone-spi-inox-316-grillo-74mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passacavo Stagno Glomex RA140 in Nylon per Cavi Coassiali</Name>
+    <Brand>Glomex</Brand>
+    <Description>Il Passacavo Stagno Glomex RA140 è un componente essenziale per chi desidera installare antenne VHF o altri apparati elettronici a bordo in modo pulito e professionale. Realizzato in Nylon di alta qualità resistente ai raggi UV e alla salsedine, questo pa</Description>
+    <OriginalPrice>10.86</OriginalPrice>
+    <Price>7.76</Price>
+    <Code>5637112</Code>
+    <Link>https://www.onautica.com/products/passacavo-stagno-glomex-ra140-cavi-coassiali?variant=52577467859291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/passacavo-stagno-glomex-ra140-nylon-cavo-vhf.webp?v=1775226059</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566301317</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>passacavo-stagno-glomex-ra140-cavi-coassiali</ParentID>
   </Offer>
   <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
