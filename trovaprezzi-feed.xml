@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-09T10:30:53.094Z -->
-<!-- Offerte: 2691 -->
+<!-- Generato: 2026-06-09T14:30:50.604Z -->
+<!-- Offerte: 2690 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -6831,7 +6831,7 @@
   <Offer>
     <Name>Anodo pinna Suzuki DT75&lt;&gt;85 (2T) DF40 - OMC/Johnson Evinrude 75-85-90HP</Name>
     <Brand>Evinrude</Brand>
-    <Description>Anodo per: Suzuki DT75&lt;&gt;85 (2T) DF40 OMC/Johnson Evinrude 75-85-90HP Caratteristiche: Materiale Alluminio LB 0.015 KG 0.007 OD 62 mm. H 57 mm. ID 9 mm. Caratteristiche principali Compatibilità multipla: progettato per motori Suzuki DT75/85 (2 tempi), DF40</Description>
+    <Description>Anodo per: Suzuki DT75&lt;&gt;85 (2T) DF40 OMC/Johnson Evinrude 75-85-90HP Caratteristiche: Materiale�� Alluminio LB 0.015 KG 0.007 OD 62 mm. H 57 mm. ID 9 mm. Caratteristiche principali Compatibilità multipla: progettato per motori Suzuki DT75/85 (2 tempi), DF</Description>
     <OriginalPrice>17.50</OriginalPrice>
     <Price>10.92</Price>
     <Code>5124007</Code>
@@ -12352,7 +12352,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.71</Price>
     <Code>3813001</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52513515503963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21389,23 +21389,6 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/PROMO_-_Giubbetto_70_Kg._rosso_XL_aiuto_galleggiamento_Dominator_Ski_-_50N_EN_ISO_12402-5.png?v=1773341968</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.47x.XX.png?v=1773342004</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>giubbotto-salvagente-50n</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giubbetto di salvataggio aiuto Galleggiamento 50N - Giallo fluo-nero / Oltre 70 kg</Name>
-    <Brand>Osculati</Brand>
-    <Description>Aiuto al galleggiamento 50 N (EN ISO 12402-5) progettato per sport acquatici e navigazione costiera: leggero, confortevole e immediato da indossare. Realizzato in espanso morbido ad alta densità, assicura ottima libertà di movimento per sci d’acqua, wakeb</Description>
-    <OriginalPrice>63.94</OriginalPrice>
-    <Price>37.61</Price>
-    <Code>22.473.04</Code>
-    <Link>https://www.onautica.com/products/giubbotto-salvagente-50n?variant=51634991825243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/PROMO_-_Giubbetto_70_Kg._rosso_XL_aiuto_galleggiamento_Dominator_Ski_-_50N_EN_ISO_12402-5.png?v=1773341968</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137032158</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.47x.XX.png?v=1773342004</Image2>
     <Condition>nuovo</Condition>
     <ParentID>giubbotto-salvagente-50n</ParentID>
