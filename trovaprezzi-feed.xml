@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-09T06:30:52.568Z -->
-<!-- Offerte: 2692 -->
+<!-- Generato: 2026-06-09T10:30:53.094Z -->
+<!-- Offerte: 2691 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -6831,7 +6831,7 @@
   <Offer>
     <Name>Anodo pinna Suzuki DT75&lt;&gt;85 (2T) DF40 - OMC/Johnson Evinrude 75-85-90HP</Name>
     <Brand>Evinrude</Brand>
-    <Description>Anodo per: Suzuki DT75&lt;&gt;85 (2T) DF40 OMC/Johnson Evinrude 75-85-90HP Caratteristiche: Materiale�� Alluminio LB 0.015 KG 0.007 OD 62 mm. H 57 mm. ID 9 mm. Caratteristiche principali Compatibilità multipla: progettato per motori Suzuki DT75/85 (2 tempi), DF</Description>
+    <Description>Anodo per: Suzuki DT75&lt;&gt;85 (2T) DF40 OMC/Johnson Evinrude 75-85-90HP Caratteristiche: Materiale Alluminio LB 0.015 KG 0.007 OD 62 mm. H 57 mm. ID 9 mm. Caratteristiche principali Compatibilità multipla: progettato per motori Suzuki DT75/85 (2 tempi), DF40</Description>
     <OriginalPrice>17.50</OriginalPrice>
     <Price>10.92</Price>
     <Code>5124007</Code>
@@ -27333,23 +27333,6 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-pompa-autoadescanti-el-marine-deck-45-lt-corpo-bronzo-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Autoclave Europump 4 Basso Consumo 12V – 3,8 l/min</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Autoclave Europump 4 a basso consumo è la soluzione ideale per chi cerca affidabilità ed efficienza energetica a bordo. Progettata per servire fino a 2 utenze contemporaneamente, questa pompa garantisce un flusso costante con un assorbimento di corrent</Description>
-    <OriginalPrice>32.30</OriginalPrice>
-    <Price>21.52</Price>
-    <Code>16.503.12</Code>
-    <Link>https://www.onautica.com/products/autoclave-europump-4-basso-consumo-12v?variant=52577375748443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v.png?v=1773341520</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007743</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v_confezione.png?v=1773341521</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-europump-4-basso-consumo-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa autoclave Flojet triplex 11 lt/min. 12V</Name>
     <Brand>Flojet</Brand>
     <Description>Questa serie di pompe autoclavi Flojet Triplex è la soluzione affidabile per l&apos;impianto idrico di bordo, ideale per servire lavelli e doccette (progettata per da 1 a 3 utenze ). Il design &quot;Triplex&quot; (a tre camere) è rinomato per la sua affidabilità e capac</Description>
@@ -41062,7 +41045,7 @@ bocche Ø 14 mm.</Name>
     <ParentID>rivestimento-epossidico-veneziani-ceramite</ParentID>
   </Offer>
   <Offer>
-    <Name>Sender velocit�� pitot</Name>
+    <Name>Sender velocità pitot</Name>
     <Brand>Motomarine</Brand>
     <Description>Sender per la misurazione della velocità di tipo Pitot, completo di supporto di fissaggio per un&apos;installazione rapida e sicura a bordo. Caratteristiche principali Sistema di rilevamento della velocità basato sul principio Pitot, affidabile e preciso Forni</Description>
     <OriginalPrice>20.12</OriginalPrice>
