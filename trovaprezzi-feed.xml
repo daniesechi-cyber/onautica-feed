@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-09T18:10:50.277Z -->
-<!-- Offerte: 2689 -->
+<!-- Generato: 2026-06-10T06:30:57.023Z -->
+<!-- Offerte: 2690 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -2330,7 +2330,7 @@
     <Price>12.59</Price>
     <Code>3230202</Code>
     <Link>https://www.onautica.com/products/giunto-apribile-ta-inox-aisi-316-capottine?variant=52750102921563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giunto-apribile-ta-inox-aisi-316-capottine.webp?v=1775236879</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4846,6 +4846,23 @@
     <ParentID>rullo-basculante-40-mm-da-6-rulli</ParentID>
   </Offer>
   <Offer>
+    <Name>Stivali Antinfortunistici in PVC Dunlop Work-Its – Classe S5 con Puntale e Lamina in Acciaio - 40</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Gli Stivali Antinfortunistici Dunlop Work-Its rappresentano la scelta solida e sicura per chi opera in ambienti difficili, dai cantieri navali alle sale macchine, fino alla pesca professionale. Realizzati in robusto PVC, offrono una protezione totale graz</Description>
+    <OriginalPrice>35.00</OriginalPrice>
+    <Price>21.86</Price>
+    <Code>54348-40/0</Code>
+    <Link>https://www.onautica.com/products/stivali-antinfortunistici-dunlop-work-its-s5?variant=52519661699419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stivali-antinfortunistici-dunlop-work-its-s5.png?v=1768930888</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779267176</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>stivali-antinfortunistici-dunlop-work-its-s5</ParentID>
+    <Size>40</Size>
+  </Offer>
+  <Offer>
     <Name>Stivali Antinfortunistici in PVC Dunlop Work-Its – Classe S5 con Puntale e Lamina in Acciaio - 41</Name>
     <Brand>Ferramenta Sardo Piemontese</Brand>
     <Description>Gli Stivali Antinfortunistici Dunlop Work-Its rappresentano la scelta solida e sicura per chi opera in ambienti difficili, dai cantieri navali alle sale macchine, fino alla pesca professionale. Realizzati in robusto PVC, offrono una protezione totale graz</Description>
@@ -5323,6 +5340,22 @@
     <Condition>nuovo</Condition>
     <ParentID>stivali-tuttacoscia-gomma-verde-ob-sr</ParentID>
     <Size>47</Size>
+  </Offer>
+  <Offer>
+    <Name>Supporto per servotimone D.48 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il supporto per servotimone da avvitare con diametro 48 mm è il componente ideale per ancorare saldamente il servotimone alla struttura dell&apos;imbarcazione. Grazie al fissaggio a vite, assicura una presa solida e duratura, garantendo stabilità e precisione </Description>
+    <OriginalPrice>11.90</OriginalPrice>
+    <Price>8.50</Price>
+    <Code>750824</Code>
+    <Link>https://www.onautica.com/products/supporto-per-servotimone-d-48-mm?variant=52577491943771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_per_servotimone_D.48_mm..png?v=1773341829</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137067990</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-per-servotimone-d-48-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Supporto per servotimone Ø 35 mm.</Name>
@@ -7728,7 +7761,7 @@
     <Price>44.12</Price>
     <Code>65.002.11</Code>
     <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744808283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -10673,8 +10706,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Tromba con Bomboletta GAS HORN 1 - Segnale Acustico Ecologico</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa tromba è un accessorio di sicurezza essenziale a bordo, progettata per fornire un segnale acustico potente e immediato. Il kit TROMBA CON BOMBOLETTA GAS HORN 1 utilizza un Gas ecologico per il suo funzionamento. Caratteristiche Principali: Tipologi</Description>
-    <OriginalPrice>11.55</OriginalPrice>
-    <Price>8.54</Price>
+    <OriginalPrice>12.25</OriginalPrice>
+    <Price>9.09</Price>
     <Code>1902000</Code>
     <Link>https://www.onautica.com/products/tromba-bomboletta-gas-horn-ecologico?variant=52577504002395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -10840,21 +10873,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>27.17</Price>
     <Code>66.240.10</Code>
     <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577380991323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
-    <Brand>Osculati</Brand>
-    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
-    <OriginalPrice>60.13</OriginalPrice>
-    <Price>35.37</Price>
-    <Code>66.240.01</Code>
-    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577381024091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
@@ -11263,24 +11281,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>20.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 50 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
-    <OriginalPrice>217.00</OriginalPrice>
-    <Price>166.94</Price>
-    <Code>01.373.06-050</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass?variant=51836792766811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>40.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
     <Condition>nuovo</Condition>
@@ -13008,7 +13008,7 @@ Dimensioni: 100x70x27 mm.</Name>
   <Offer>
     <Name>Diluente Veneziani 6700 (0,5 L) – Specifico per Smalto Gel Gloss Pro</Name>
     <Brand>Veneziani</Brand>
-    <Description>Il Diluente Veneziani 6700 nel pratico formato da 0,5 litri è la soluzione chimica appositamente formulata per garantire la perfetta applicazione dello smalto poliuretanico Gel Gloss Pro . L&apos;uso del diluente specifico e consigliato dalla casa madre è fond</Description>
+    <Description>Il Diluente Veneziani 6700 nel pratico formato da 0,5 litri è la soluzione chimica appositamente formulata per garantire la perfetta applicazione dello smalto poliuretanico Gel Gloss Pro . L&apos;uso del diluente specifico e consigliato dalla casa madre �� fon</Description>
     <OriginalPrice>17.09</OriginalPrice>
     <Price>12.21</Price>
     <Code>65.011.01</Code>
@@ -13057,7 +13057,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Estintori a Polvere Certificati MED / CE con manometro - 1 Kg.</Name>
     <Brand>LALIZAS</Brand>
     <Description>Questa serie di estintori a polvere è essenziale per la sicurezza antincendio a bordo ed è dotata delle certificazioni necessarie per l&apos;utilizzo in ambiente nautico. Certificazioni e Conformità: Certificazione MED (Marine Equipment Directive): Questi esti</Description>
-    <Price>16.96</Price>
+    <OriginalPrice>23.00</OriginalPrice>
+    <Price>18.36</Price>
     <Code>3020041</Code>
     <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52545494516059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -13073,7 +13074,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Estintori a Polvere Certificati MED / CE con manometro - 2 Kg.</Name>
     <Brand>LALIZAS</Brand>
     <Description>Questa serie di estintori a polvere è essenziale per la sicurezza antincendio a bordo ed è dotata delle certificazioni necessarie per l&apos;utilizzo in ambiente nautico. Certificazioni e Conformità: Certificazione MED (Marine Equipment Directive): Questi esti</Description>
-    <Price>30.32</Price>
+    <OriginalPrice>41.00</OriginalPrice>
+    <Price>32.83</Price>
     <Code>3020042</Code>
     <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52513518059867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -14219,6 +14221,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>passacavi-elettrici-stagni-quick</ParentID>
   </Offer>
   <Offer>
+    <Name>Presa Accendisigari + USB-A + USB-C Bianca 12/24V da Incasso - Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Presa Accendisigari + USB-A + USB-C Bianca 12/24 V — Osculati Doppia presa da incasso che combina accendisigari/12V standard e presa USB doppia A + C in un unico pannello bianco. Soluzione completa per il bordo: alimenti la radio o l&apos;aspirabriciole dall&apos;a</Description>
+    <OriginalPrice>21.20</OriginalPrice>
+    <Price>16.97</Price>
+    <Code>14.516.16</Code>
+    <Link>https://www.onautica.com/products/presa-accendisigari-usb-a-usb-c-bianca-12-24v-da-incasso-osculati?variant=53350766313819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/presa-accendisigari-usb-a-usb-c-bianca-12-24v-osculati_7f0085aa-88d4-4fea-afd7-3fce159a6e29.webp?v=1781026721</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137218903</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>presa-accendisigari-usb-a-usb-c-bianca-12-24v-da-incasso-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Presa incasso doppia USB Type-A + Type-C bianca</Name>
     <Brand>Osculati</Brand>
     <Description>Presa incasso doppia USB Type-A + Type-C bianca La presa incasso doppia USB Type-A + Type-C bianca è una soluzione compatta per ricaricare dispositivi elettronici direttamente a bordo, con due porte per massima versatilità. A chi è rivolto Ideale per arma</Description>
@@ -15162,7 +15180,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Tamburo avvolgicima in plastica Ø25/30mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Tamburo avvolgicima in materiale plastico rinforzato, progettato per il riordino e lo stivaggio ordinato delle cime a bordo. Capace di contenere fino a 85 metri di cima da Ø 8 mm , è compatibile con cime di diametro compreso tra Ø 25 e 30 mm di tamburo. C</Description>
-    <OriginalPrice>36.13</OriginalPrice>
+    <OriginalPrice>32.30</OriginalPrice>
     <Price>25.81</Price>
     <Code>06.311.73</Code>
     <Link>https://www.onautica.com/products/tamburo-avvolgicima-in-plastica-o25-30mm?variant=52577494171995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -15210,23 +15228,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2155503.png?v=1773341986</Image2>
     <Condition>nuovo</Condition>
     <ParentID>terminale-derivazione-2-perni-m8-80a</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Valigetta Segnali di Soccorso Entro 3 Miglia (DM 21/09/2024)</Name>
-    <Brand>FDF</Brand>
-    <Description>La Valigetta Segnali di Soccorso Entro le 3 Miglia è la dotazione di sicurezza obbligatoria e aggiornata per navigare in totale regola e tranquillità in prossimità della costa. Questo kit è rigorosamente conforme alle ultime disposizioni normative dettate</Description>
-    <OriginalPrice>39.35</OriginalPrice>
-    <Price>34.22</Price>
-    <Code>KIT3.C</Code>
-    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.75</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-migliabusta.webp?v=1774693721</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>valigetta-segnali-soccorso-entro-3-miglia-dm-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
@@ -17906,8 +17907,8 @@ L 320mm. - Ø22</Name>
     <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>35.60</OriginalPrice>
-    <Price>19.78</Price>
+    <OriginalPrice>26.40</OriginalPrice>
+    <Price>21.13</Price>
     <Code>10789</Code>
     <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52513433583963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -17923,8 +17924,8 @@ L 320mm. - Ø22</Name>
     <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard (Anti-pizzicamento)</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>50.13</OriginalPrice>
-    <Price>27.85</Price>
+    <OriginalPrice>37.20</OriginalPrice>
+    <Price>29.75</Price>
     <Code>10866</Code>
     <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783104859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -17941,8 +17942,8 @@ L 320mm. - Ø22</Name>
     <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Heavy Duty (Rinforzata Anti-pizzicamento)</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>65.25</OriginalPrice>
-    <Price>36.25</Price>
+    <OriginalPrice>48.40</OriginalPrice>
+    <Price>38.71</Price>
     <Code>10791</Code>
     <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783137627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20333,6 +20334,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Tohatsu (2T / 4T) - 1814337</Name>
+    <Brand>Tohatsu</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili con motori fuoribordo Tohatsu . Questi componenti sono essenziali per garantire il corretto raffreddamento del motore e prevenire surriscaldamenti. I ricambi sono disponibili per le principali serie di </Description>
+    <OriginalPrice>29.25</OriginalPrice>
+    <Price>19.50</Price>
+    <Code>1814337</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-tohatsu?variant=52525760512347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu.png?v=1767375902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052001</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu8.png?v=1767375902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu9.png?v=1767375902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Tohatsu (2T / 4T) - 1814343</Name>
     <Brand>Tohatsu</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con motori fuoribordo Tohatsu . Questi componenti sono essenziali per garantire il corretto raffreddamento del motore e prevenire surriscaldamenti. I ricambi sono disponibili per le principali serie di </Description>
@@ -21029,6 +21048,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051479</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814337</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
+    <OriginalPrice>29.25</OriginalPrice>
+    <Price>19.50</Price>
+    <Code>1814337</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777092955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052001</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
     <Condition>nuovo</Condition>
@@ -23783,24 +23820,6 @@ L 320mm. - Ø22</Name>
     <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
   </Offer>
   <Offer>
-    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 25 mm. / Passante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
-    <OriginalPrice>15.82</OriginalPrice>
-    <Price>11.30</Price>
-    <Code>0621925</Code>
-    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958398811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023575</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
-  </Offer>
-  <Offer>
     <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 22 mm. / Terminale</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
@@ -25833,7 +25852,7 @@ L 320mm. - Ø22</Name>
     <Name>Mezzomarinaro Telescopico in Alluminio Anodizzato 60-100 cm</Name>
     <Brand>Osculati</Brand>
     <Description>Il Mezzomarinaro Telescopico è uno strumento indispensabile per le manovre d&apos;ormeggio e d&apos;accosto, progettato per offrire massima praticità e ingombro ridotto. Caratterizzato da una struttura in alluminio anodizzato di alta qualità, questo gancio d&apos;accost</Description>
-    <Price>15.95</Price>
+    <Price>16.65</Price>
     <Code>34.459.02</Code>
     <Link>https://www.onautica.com/products/mezzomarinaro-telescopico-alluminio-60-100cm?variant=52577366573403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26067,8 +26086,8 @@ L 320mm. - Ø22</Name>
     <Name>Nicchia compact con portello 165x210x80 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Nicchia compatta in plastica, ideale per alloggiare quadretti elettrici, staccabatterie e doccette a bordo. Grazie alle dimensioni contenute, si integra facilmente in spazi ridotti su qualsiasi imbarcazione. Dimensioni esterne: 165 x 210 mm Passaggio inte</Description>
-    <OriginalPrice>18.98</OriginalPrice>
-    <Price>13.56</Price>
+    <OriginalPrice>20.27</OriginalPrice>
+    <Price>14.48</Price>
     <Code>4010023</Code>
     <Link>https://www.onautica.com/products/nicchia-compact-con-portello-165x210x80-mm?variant=52577453474139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26085,8 +26104,8 @@ L 320mm. - Ø22</Name>
     <Name>Nicchia Portaoggetti &quot;Short&quot; a Incasso in Plastica - Aperta (Senza Sportello)</Name>
     <Brand>Motomarine</Brand>
     <Description>La Nicchia Short è un box a incasso estremamente versatile, realizzato in materiale plastico resistente all&apos;ambiente marino. La sua profondità contenuta di 100 mm la rende ideale per installazioni dove lo spazio posteriore è limitato. È progettata per mol</Description>
-    <OriginalPrice>16.39</OriginalPrice>
-    <Price>11.71</Price>
+    <OriginalPrice>17.51</OriginalPrice>
+    <Price>12.51</Price>
     <Code>4010020</Code>
     <Link>https://www.onautica.com/products/nicchia-portaoggetti-short-incasso?variant=52513543094619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26103,8 +26122,8 @@ L 320mm. - Ø22</Name>
     <Name>Nicchia Portaoggetti &quot;Short&quot; a Incasso in Plastica - Con Sportello</Name>
     <Brand>Motomarine</Brand>
     <Description>La Nicchia Short è un box a incasso estremamente versatile, realizzato in materiale plastico resistente all&apos;ambiente marino. La sua profondità contenuta di 100 mm la rende ideale per installazioni dove lo spazio posteriore è limitato. È progettata per mol</Description>
-    <OriginalPrice>23.51</OriginalPrice>
-    <Price>16.79</Price>
+    <OriginalPrice>25.10</OriginalPrice>
+    <Price>17.93</Price>
     <Code>4010024</Code>
     <Link>https://www.onautica.com/products/nicchia-portaoggetti-short-incasso?variant=52519910867291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26140,8 +26159,8 @@ L 320mm. - Ø22</Name>
     <Name>Nicchia Standard a Incasso in Plastica Bianca – Porta Estintore / Oggetti - Aperta (Senza Sportello)</Name>
     <Brand>Motomarine</Brand>
     <Description>La Nicchia Standard è un classico accessorio a incasso in plastica bianca, indispensabile per organizzare gli spazi a bordo. Le sue dimensioni sono studiate appositamente per poter alloggiare un estintore da 1 Kg , rendendolo facilmente accessibile ma pro</Description>
-    <OriginalPrice>21.01</OriginalPrice>
-    <Price>15.01</Price>
+    <OriginalPrice>22.45</OriginalPrice>
+    <Price>16.03</Price>
     <Code>4010003</Code>
     <Link>https://www.onautica.com/products/nicchia-standard-incasso-bianca?variant=52519909982555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -36303,11 +36322,11 @@ bocche Ø 14 mm.</Name>
     <Name>Nastro Riflettente Adesivo Solas R.I.Na. (Vendita al Metro)</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Nastro Riflettente Adesivo è un accessorio di sicurezza essenziale per aumentare esponenzialmente la visibilità notturna o in condizioni di maltempo delle dotazioni di bordo. Questo prodotto risponde ai più severi standard marittimi internazionali, van</Description>
-    <OriginalPrice>127.43</OriginalPrice>
-    <Price>94.39</Price>
+    <OriginalPrice>9.04</OriginalPrice>
+    <Price>6.69</Price>
     <Code>290091615</Code>
     <Link>https://www.onautica.com/products/nastro-adesivo-solas-riflettente?variant=52577453408603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nastro-riflettente-adesivo-solas-rina-metro.webp?v=1773476707</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36817,7 +36836,7 @@ bocche Ø 14 mm.</Name>
     <Name>Sagola arancione per salvagente 30 mt.</Name>
     <Brand>LALIZAS</Brand>
     <Description>Sagola galleggiante per salvagenti regolamentare per navigazione da diporto. Caratteristiche: Ø 8 mm. lunghezza 30 mt. tenuta 400 kg. Caratteristiche principali Colore arancione ad alta visibilità per un recupero rapido in acqua Galleggiante: rimane in su</Description>
-    <OriginalPrice>8.23</OriginalPrice>
+    <OriginalPrice>7.40</OriginalPrice>
     <Price>5.88</Price>
     <Code>3009093</Code>
     <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -37708,7 +37727,7 @@ bocche Ø 14 mm.</Name>
     <Name>Supporto boetta inox</Name>
     <Brand>Motomarine</Brand>
     <Description>Supporto a clips per boetta di salvataggio, realizzato in acciaio inox per garantire massima resistenza alla corrosione in ambiente marino. L&apos;attacco orientabile consente di posizionare la boetta nell&apos;angolazione ottimale, adattandosi alle diverse esigenz</Description>
-    <OriginalPrice>9.55</OriginalPrice>
+    <OriginalPrice>8.50</OriginalPrice>
     <Price>6.82</Price>
     <Code>3008093</Code>
     <Link>https://www.onautica.com/products/supporto-boetta-inox?variant=52577491452251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -37724,7 +37743,7 @@ bocche Ø 14 mm.</Name>
     <Name>Supporto per Salvagente Anulare in Inox 316 con Clip Boetta</Name>
     <Brand>Osculati</Brand>
     <Description>Il Supporto per Salvagente Inox Hi è una soluzione completa, compatta ed elegante per l&apos;alloggiamento delle dotazioni di sicurezza sul pulpito della tua imbarcazione. Realizzato integralmente in pregiato Acciaio Inox 316 , offre la massima garanzia di res</Description>
-    <OriginalPrice>13.66</OriginalPrice>
+    <OriginalPrice>12.20</OriginalPrice>
     <Price>9.76</Price>
     <Code>3009091</Code>
     <Link>https://www.onautica.com/products/supporto-salvagente-anulare-inox-316-clip-boetta?variant=52577492173147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -38493,8 +38512,8 @@ bocche Ø 14 mm.</Name>
     <Name>Zattera di salvataggio rigida 8 persone 900x900xH250</Name>
     <Brand>Osculati</Brand>
     <Description>Zattera di salvataggio rigida 8 persone 900x900xH251 Caratteristiche principali Struttura rigida per massima stabilità e resistenza in condizioni di emergenza Capacità omologata per 8 persone, ideale per imbarcazioni da diporto di medie e grandi dimension</Description>
-    <OriginalPrice>407.07</OriginalPrice>
-    <Price>313.13</Price>
+    <OriginalPrice>385.69</OriginalPrice>
+    <Price>296.68</Price>
     <Code>2900808</Code>
     <Link>https://www.onautica.com/products/offerta-zattera-di-salvataggio-rigida-8-persone-900x900xh250?variant=49393366991195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -38804,7 +38823,7 @@ bocche Ø 14 mm.</Name>
     <Brand>Trem</Brand>
     <Description>Base II Supporto Tavolo Twist Lock in Alluminio Anodizzato Base a filo pavimento per supporti tavolo telescopici da imbarcazione, realizzata in alluminio anodizzato satinato di alta qualità. Sistema di aggancio rapido Twist Lock : il piede del tavolo si i</Description>
     <OriginalPrice>49.80</OriginalPrice>
-    <Price>39.80</Price>
+    <Price>39.82</Price>
     <Code>0840114</Code>
     <Link>https://www.onautica.com/products/base-per-supporto-tavolo-alluminio-twist-lock?variant=52577367589211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -38818,8 +38837,8 @@ bocche Ø 14 mm.</Name>
     <Name>Base per supporto tavolo in alluminio bianco Ø 60 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Basi di ricambio per gambe tavolo coniche. Ø esterno mm Materiale Per gamba tavolo Ø tubo mm 160 alluminio verniciato bianco 48.418.22 60 Caratteristiche principali Costruzione in alluminio verniciato bianco, resistente alla corrosione marina Diametro da </Description>
-    <OriginalPrice>20.06</OriginalPrice>
-    <Price>11.80</Price>
+    <OriginalPrice>15.70</OriginalPrice>
+    <Price>12.55</Price>
     <Code>48.416.12</Code>
     <Link>https://www.onautica.com/products/base-per-supporto-tavolo-in-alluminio-bianco-o-60-mm?variant=52577367687515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39045,8 +39064,8 @@ bocche Ø 14 mm.</Name>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 48x27x35 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
-    <OriginalPrice>9.04</OriginalPrice>
-    <Price>6.46</Price>
+    <OriginalPrice>9.61</OriginalPrice>
+    <Price>6.87</Price>
     <Code>3270106</Code>
     <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52522240082267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39064,8 +39083,8 @@ bocche Ø 14 mm.</Name>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 55x33x45 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
-    <OriginalPrice>10.59</OriginalPrice>
-    <Price>7.57</Price>
+    <OriginalPrice>11.27</OriginalPrice>
+    <Price>8.05</Price>
     <Code>3270107</Code>
     <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52522240115035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39082,8 +39101,8 @@ bocche Ø 14 mm.</Name>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 63x35x50 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
-    <OriginalPrice>11.80</OriginalPrice>
-    <Price>8.43</Price>
+    <OriginalPrice>12.55</OriginalPrice>
+    <Price>8.96</Price>
     <Code>3270108</Code>
     <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52522240147803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39100,8 +39119,8 @@ bocche Ø 14 mm.</Name>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 73x40x65 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
-    <OriginalPrice>13.25</OriginalPrice>
-    <Price>9.46</Price>
+    <OriginalPrice>14.09</OriginalPrice>
+    <Price>10.06</Price>
     <Code>3270109</Code>
     <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52522240180571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39118,8 +39137,8 @@ bocche Ø 14 mm.</Name>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 75x45x75 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
-    <OriginalPrice>14.80</OriginalPrice>
-    <Price>10.57</Price>
+    <OriginalPrice>15.74</OriginalPrice>
+    <Price>11.25</Price>
     <Code>3270110</Code>
     <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52522240213339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -39136,8 +39155,8 @@ bocche Ø 14 mm.</Name>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 90x60x80 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
-    <OriginalPrice>19.07</OriginalPrice>
-    <Price>13.62</Price>
+    <OriginalPrice>20.28</OriginalPrice>
+    <Price>14.49</Price>
     <Code>3270111</Code>
     <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52513512685915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42211,8 +42230,8 @@ bocche Ø 14 mm.</Name>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size S</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>21.61</OriginalPrice>
-    <Price>15.44</Price>
+    <OriginalPrice>22.99</OriginalPrice>
+    <Price>16.42</Price>
     <Code>3270202</Code>
     <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52513573110107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42229,8 +42248,8 @@ bocche Ø 14 mm.</Name>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size M</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>24.03</OriginalPrice>
-    <Price>17.16</Price>
+    <OriginalPrice>25.56</OriginalPrice>
+    <Price>18.25</Price>
     <Code>3270203</Code>
     <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242507099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42247,8 +42266,8 @@ bocche Ø 14 mm.</Name>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>24.64</OriginalPrice>
-    <Price>17.60</Price>
+    <OriginalPrice>26.21</OriginalPrice>
+    <Price>18.72</Price>
     <Code>3270204</Code>
     <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242539867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42266,8 +42285,8 @@ bocche Ø 14 mm.</Name>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size XL</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>34.89</OriginalPrice>
-    <Price>24.92</Price>
+    <OriginalPrice>37.11</OriginalPrice>
+    <Price>26.51</Price>
     <Code>3270205</Code>
     <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242572635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -44820,7 +44839,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Strozzascotta fibra di carbonio/lega leggera per scotte Ø 3&lt;&gt;8 mm.</Name>
     <Brand>Viadana</Brand>
-    <Description>Questo strozzascotte di alta gamma �� la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise </Description>
+    <Description>Questo strozzascotte di alta gamma è la scelta ideale per il velista esigente che cerca la massima performance e affidabilità nella gestione delle manovre. Progettato per offrire un controllo superiore e un attrito minimo, garantisce regolazioni precise e</Description>
     <OriginalPrice>24.40</OriginalPrice>
     <Price>15.25</Price>
     <Code>VIA25.50</Code>
