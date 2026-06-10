@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-10T14:30:52.648Z -->
+<!-- Generato: 2026-06-10T18:10:51.923Z -->
 <!-- Offerte: 2690 -->
 <Products>
   <Offer>
@@ -3876,7 +3876,7 @@
     <ParentID>ruote-per-carrelli-uso-sabbia-o-390-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Ruotini Save-Sail Protezione Vele – Per Sartie Ø 5-10 mm</Name>
+    <Name>Ruotini Save-Sail Protezione Vele – Per Sartie �� 5-10 mm</Name>
     <Brand>Motomarine</Brand>
     <Description>I Ruotini Save-Sail sono un accessorio indispensabile per preservare la durata delle vele di prua (genoa, fiocco) e garantire manovre più fluide. Applicati direttamente sul sartiame o sulle draglie, questi dischi rotanti agiscono come distanziatori e rull</Description>
     <OriginalPrice>10.40</OriginalPrice>
@@ -14617,22 +14617,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>segnale-fonda-pallone-o-300-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Sessola larga 220x410 mm. sassola</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Sessola larga 220x410 mm. sassola La sessola larga 220x410 mm è uno strumento essenziale a bordo, utilizzata per rimuovere rapidamente l&apos;acqua accumulata in sentina o in cockpit. Grazie alle sue dimensioni generose, permette di svuotare grandi quantità d&apos;</Description>
-    <OriginalPrice>12.08</OriginalPrice>
-    <Price>8.63</Price>
-    <Code>1836003</Code>
-    <Link>https://www.onautica.com/products/sessola-larga-220x410-mm-sassola?variant=49393492951387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sessola_larga_220x410_mm._sassola.jpg?v=1762778776</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5204980446802</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>sessola-larga-220x410-mm-sassola</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sigillante interno per gommoni Euromeci 1 lt. ellimina perdite</Name>
     <Brand>Motomarine</Brand>
     <Description>E&apos; un sigillante di lattice elastico che si inietta all&apos;interno dei tubolari del gommone. Forma una pellicola che elimina le perdite dovute a porosità e imperfezioni. Completo di siringa, molto semplice da usare. Elimina le perdite dovute a microfessure, </Description>
@@ -15160,22 +15144,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8033137128523</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>appendiabiti-2-ganci-inox-38x53-cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Appendiabiti 3 ganci ottone lucido 73x36 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Appendiabito in ottone lucido Caratteristiche: Base 73x36 mm. materiale ottone lucido Caratteristiche principali 3 ganci per appendere capi d&apos;abbigliamento, accessori e attrezzatura Ottone lucido resistente alla corrosione e all&apos;ambiente marino Design com</Description>
-    <OriginalPrice>27.82</OriginalPrice>
-    <Price>19.87</Price>
-    <Code>38.162.00</Code>
-    <Link>https://www.onautica.com/products/appendiabiti-3-ganci-ottone-lucido-73x36-cm?variant=52577415954779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Appendiabiti_3_ganci_ottone_lucido_73x36_cm..png?v=1773341622</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137127540</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>appendiabiti-3-ganci-ottone-lucido-73x36-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Attuatore 10 kg. - L 365 mm.</Name>
@@ -17178,6 +17146,22 @@ L 320mm. - Ø22</Name>
     <ParentID>sessola-eltex-a-imbuto-sassola</ParentID>
   </Offer>
   <Offer>
+    <Name>Sessola larga 220x410 mm. sassola</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Sessola larga 220x410 mm. sassola La sessola larga 220x410 mm è uno strumento essenziale a bordo, utilizzata per rimuovere rapidamente l&apos;acqua accumulata in sentina o in cockpit. Grazie alle sue dimensioni generose, permette di svuotare grandi quantità d&apos;</Description>
+    <OriginalPrice>12.08</OriginalPrice>
+    <Price>8.63</Price>
+    <Code>1836003</Code>
+    <Link>https://www.onautica.com/products/sessola-larga-220x410-mm-sassola?variant=49393492951387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sessola_larga_220x410_mm._sassola.jpg?v=1762778776</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5204980446802</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>sessola-larga-220x410-mm-sassola</ParentID>
+  </Offer>
+  <Offer>
     <Name>Set 5 Lucchetti Hardinox 30mm con Chiave Universale per Nautica – 4 Standard + 1 Long</Name>
     <Brand>Motomarine</Brand>
     <Description>Set 5 Lucchetti Hardinox 30mm con Chiave Universale – 4 Lucchetti Standard + 1 Lucchetto Long in Acciaio Inox per Nautica Il set 5 lucchetti Hardinox 30mm con chiave universale è la soluzione completa e conveniente per chi necessita di proteggere più punt</Description>
@@ -17614,6 +17598,22 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626050311</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>aeratore-solara-ss-o-220x120-mm-1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Appendiabiti 3 ganci ottone lucido 73x36 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Appendiabito in ottone lucido Caratteristiche: Base 73x36 mm. materiale ottone lucido Caratteristiche principali 3 ganci per appendere capi d&apos;abbigliamento, accessori e attrezzatura Ottone lucido resistente alla corrosione e all&apos;ambiente marino Design com</Description>
+    <OriginalPrice>27.82</OriginalPrice>
+    <Price>19.87</Price>
+    <Code>38.162.00</Code>
+    <Link>https://www.onautica.com/products/appendiabiti-3-ganci-ottone-lucido-73x36-cm?variant=52577415954779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Appendiabiti_3_ganci_ottone_lucido_73x36_cm..png?v=1773341622</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137127540</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>appendiabiti-3-ganci-ottone-lucido-73x36-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
@@ -18223,22 +18223,6 @@ L 320mm. - Ø22</Name>
     <ParentID>fanale-testa-albero-rosso-nero-360-thin-r-i-n-a-12m</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanale testa d&apos;albero 360° con basetta acciaio inox (R.I.N.A.)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di fonda Classic da 360° con basetta di rialzo p er imbarcazioni &lt; 20 m, con fanale certificato COLREG72. Colore fanale Basetta di rialzo da mm Ø mm Altezza mm Lampadina alogena inclusa inox 77x38x55(h) 64 74 optional LED Caratteristiche principali</Description>
-    <OriginalPrice>47.95</OriginalPrice>
-    <Price>39.96</Price>
-    <Code>2113512</Code>
-    <Link>https://www.onautica.com/products/fanali-testa-albero-inox-r-i-n-a-12m?variant=52577435681115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.02.png?v=1773341655</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137013270</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-testa-albero-inox-r-i-n-a-12m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanale testa d&apos;albero 360° con basetta bianco/bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Fanale di testa d&apos;albero 360° omologato COLREG72 , progettato per imbarcazioni fino a 20 metri . Realizzato in policarbonato bianco , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. Colore fanale: bianco/bianco Materiale:</Description>
@@ -18562,22 +18546,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626192882</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanali-di-prua-led-bow-chrome-12m-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di prua led Bow Flush inox (CE) &lt;12M</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Coppia fanali 12V di prua in Acciaio Inox. Montaggio a incasso, certificati CE. Caratteristiche principali Tecnologia LED ad alta visibilità per una segnalazione sicura ed efficiente Design a incasso (flush mount) per un&apos;installazione pulita e integrata n</Description>
-    <OriginalPrice>51.07</OriginalPrice>
-    <Price>36.48</Price>
-    <Code>2111500</Code>
-    <Link>https://www.onautica.com/products/fanali-di-prua-led-bow-flush-inox-ce-12m?variant=52577435222363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_prua_led_Bow_Flush_inox_CE_12M.png?v=1773341654</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626063625</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-di-prua-led-bow-flush-inox-ce-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Faretto LED da Coperta G-Line E160 18W Flood – Luce Diffusa IP67 - Bianco</Name>
@@ -25187,6 +25155,22 @@ L 320mm. - Ø22</Name>
     <ParentID>fanale-testa-dalbero-360-a-led-con-basetta-bianco</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale testa d&apos;albero 360° con basetta acciaio inox (R.I.N.A.)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale di fonda Classic da 360° con basetta di rialzo p er imbarcazioni &lt; 20 m, con fanale certificato COLREG72. Colore fanale Basetta di rialzo da mm Ø mm Altezza mm Lampadina alogena inclusa inox 77x38x55(h) 64 74 optional LED Caratteristiche principali</Description>
+    <OriginalPrice>47.95</OriginalPrice>
+    <Price>39.96</Price>
+    <Code>2113512</Code>
+    <Link>https://www.onautica.com/products/fanali-testa-albero-inox-r-i-n-a-12m?variant=52577435681115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.02.png?v=1773341655</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137013270</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-testa-albero-inox-r-i-n-a-12m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanali di Navigazione 360° DHR - Per Barche fino a 20 Metri - Verde 360°</Name>
     <Brand>DHR</Brand>
     <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è progettata per offrire il massimo livello di sicurezza e conformità per la navigazione. Sono specificamente destinati all&apos;uso su imbarcazioni con lunghezza inferiore ai 20 metri che richiedono una copertur</Description>
@@ -25430,6 +25414,22 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
     <Condition>nuovo</Condition>
     <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di prua led Bow Flush inox (CE) &lt;12M</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Coppia fanali 12V di prua in Acciaio Inox. Montaggio a incasso, certificati CE. Caratteristiche principali Tecnologia LED ad alta visibilità per una segnalazione sicura ed efficiente Design a incasso (flush mount) per un&apos;installazione pulita e integrata n</Description>
+    <OriginalPrice>51.07</OriginalPrice>
+    <Price>36.48</Price>
+    <Code>2111500</Code>
+    <Link>https://www.onautica.com/products/fanali-di-prua-led-bow-flush-inox-ce-12m?variant=52577435222363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_prua_led_Bow_Flush_inox_CE_12M.png?v=1773341654</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626063625</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-di-prua-led-bow-flush-inox-ce-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali di via mini rosso black (R.I.N.A.)</Name>
@@ -25921,7 +25921,7 @@ L 320mm. - Ø22</Name>
     <Price>8.05</Price>
     <Code>01.189.09</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-zincato-alta-resistenza-banchina?variant=52559519351131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mollazincata.png?v=1773341951</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -31532,41 +31532,6 @@ L 320mm. - Ø22</Name>
     <ParentID>pompa-centrifuga-15-lt-min-a-immersione-bocca-o-10-12-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa centrifuga 9 lt/min. a immersione bocca Ø 10 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Pompa centrifuga non adescante ad immersione. Bocca 10 mm.\nPer taniche e serbatoi con fori entrata stretti.\n\n CARATTERISTICHE \n \n Portata l /min→ 9 \n ∅ Bocche mm → 10 \n Dimensione mm → ∅ 36 x H 105 \n Caratteristiche principali Design compatto a im</Description>
-    <OriginalPrice>22.50</OriginalPrice>
-    <Price>16.07</Price>
-    <Code>1825200</Code>
-    <Link>https://www.onautica.com/products/pompa-centrifuga-9-lt-min-a-immersione-bocca-o-10-mm?variant=52577473888603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_centrifuga_9_lt_min._a_immersione_bocca_10_mm..png?v=1773341769</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626053558</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_centrifuga_9_lt_min._a_immersione_bocca_10_mm._1.png?v=1773341770</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-centrifuga-9-lt-min-a-immersione-bocca-o-10-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa centrifuga per lavello</Name>
-    <Brand>Osculati</Brand>
-    <Description>Da installare a livello della base del serbatoio. Non autoadescante. Fissaggio tramite fascetta orientabile inclusa. V Portata l/min. Prevalenza mt. Portagomma Ø mm. mm 12 6,6 2 11 88x45 Caratteristiche principali Pompa centrifuga compatta, ideale per imp</Description>
-    <OriginalPrice>27.75</OriginalPrice>
-    <Price>19.82</Price>
-    <Code>1825000</Code>
-    <Link>https://www.onautica.com/products/pompa-centrifuga-in-linea-12-lt-min-bocca-o-13-mm?variant=52577473659227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74.png?v=1773341768</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8024827503133</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74b.png?v=1773341769</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74c.png?v=1773341770</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-centrifuga-in-linea-12-lt-min-bocca-o-13-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompetta benzina Ø 10 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La pompetta manuale per carburante MTM della serie &quot;Extra Flow&quot; è un componente indispensabile per l&apos;adescamento del circuito di alimentazione dei motori fuoribordo. Il suo design a portata maggiorata assicura un flusso di carburante abbondante e costante</Description>
@@ -34934,331 +34899,6 @@ L 320mm. - Ø22</Name>
     <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 1.50 metri - 5 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>107.71</OriginalPrice>
-    <Price>75.32</Price>
-    <Code>40113R</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52513506099547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164401138</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 1.80 metri - 6 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>108.25</OriginalPrice>
-    <Price>75.70</Price>
-    <Code>38578M</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344206683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164385780</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 2.10 metri - 7 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>123.71</OriginalPrice>
-    <Price>86.51</Price>
-    <Code>38162N</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344239451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381621</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 2.75 metri - 9 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>134.43</OriginalPrice>
-    <Price>92.71</Price>
-    <Code>38171O</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344272219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.05 metri - 10 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>138.93</OriginalPrice>
-    <Price>95.81</Price>
-    <Code>38172P</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344304987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381720</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.36 metri - 11 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>143.42</OriginalPrice>
-    <Price>98.91</Price>
-    <Code>38173Q</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344337755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381737</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.66 metri - 12 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>147.91</OriginalPrice>
-    <Price>102.01</Price>
-    <Code>38174R</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344370523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381744</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.97 metri - 13 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>152.41</OriginalPrice>
-    <Price>105.11</Price>
-    <Code>38175S</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344403291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381751</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.27 metri - 14 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>156.91</OriginalPrice>
-    <Price>108.21</Price>
-    <Code>38176T</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344436059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381768</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.59 metri - 15 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>161.40</OriginalPrice>
-    <Price>111.31</Price>
-    <Code>38177U</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344468827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381775</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.88 metri - 16 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>165.90</OriginalPrice>
-    <Price>114.41</Price>
-    <Code>38178X</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344501595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381782</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 5.49 metri - 18 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>156.78</OriginalPrice>
-    <Price>120.60</Price>
-    <Code>38180T</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344567131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381805</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 5.80 metri - 21 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>168.87</OriginalPrice>
-    <Price>129.90</Price>
-    <Code>38183W</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344599899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381836</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.05 metri - 10 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>150.35</OriginalPrice>
-    <Price>103.69</Price>
-    <Code>42899W</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336899419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.36 metri - 11 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>155.22</OriginalPrice>
-    <Price>107.05</Price>
-    <Code>42900B</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336932187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164429002</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.66 metri - 12 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>160.08</OriginalPrice>
-    <Price>110.40</Price>
-    <Code>42901D</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336964955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164429019</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.97 metri - 13 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>164.95</OriginalPrice>
-    <Price>113.76</Price>
-    <Code>42902F</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336997723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164429026</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 4.27 metri - 14 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>169.82</OriginalPrice>
-    <Price>117.12</Price>
-    <Code>42903H</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514337030491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164429033</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 5.49 metri - 18 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>169.71</OriginalPrice>
-    <Price>130.54</Price>
-    <Code>42907S</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514337096027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164429071</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 5.8 metri - 19 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
-    <OriginalPrice>174.07</OriginalPrice>
-    <Price>133.90</Price>
-    <Code>42908U</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514337128795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164429088</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
-  </Offer>
-  <Offer>
     <Name>Comandi Up-Down a piede bianco Quick salpa ancora</Name>
     <Brand>Quick</Brand>
     <Description>Il comando a piede Quick SERIE 900 per salpa ancora è un interruttore a pedale stagno, progettato con precisione per offrire un controllo affidabile e sicuro su qualsiasi modello di verricello elettrico. La sua struttura garantisce un’elevata resistenza a</Description>
@@ -36152,6 +35792,41 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626055774</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>pompa-a-pedale-bi-foot-16-lt-min-bocche-o-14-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa centrifuga 9 lt/min. a immersione bocca Ø 10 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pompa centrifuga non adescante ad immersione. Bocca 10 mm.\nPer taniche e serbatoi con fori entrata stretti.\n\n CARATTERISTICHE \n \n Portata l /min→ 9 \n ∅ Bocche mm → 10 \n Dimensione mm → ∅ 36 x H 105 \n Caratteristiche principali Design compatto a im</Description>
+    <OriginalPrice>22.50</OriginalPrice>
+    <Price>16.07</Price>
+    <Code>1825200</Code>
+    <Link>https://www.onautica.com/products/pompa-centrifuga-9-lt-min-a-immersione-bocca-o-10-mm?variant=52577473888603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_centrifuga_9_lt_min._a_immersione_bocca_10_mm..png?v=1773341769</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626053558</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_centrifuga_9_lt_min._a_immersione_bocca_10_mm._1.png?v=1773341770</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-centrifuga-9-lt-min-a-immersione-bocca-o-10-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa centrifuga per lavello</Name>
+    <Brand>Osculati</Brand>
+    <Description>Da installare a livello della base del serbatoio. Non autoadescante. Fissaggio tramite fascetta orientabile inclusa. V Portata l/min. Prevalenza mt. Portagomma Ø mm. mm 12 6,6 2 11 88x45 Caratteristiche principali Pompa centrifuga compatta, ideale per imp</Description>
+    <OriginalPrice>27.75</OriginalPrice>
+    <Price>19.82</Price>
+    <Code>1825000</Code>
+    <Link>https://www.onautica.com/products/pompa-centrifuga-in-linea-12-lt-min-bocca-o-13-mm?variant=52577473659227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74.png?v=1773341768</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8024827503133</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74b.png?v=1773341769</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74c.png?v=1773341770</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-centrifuga-in-linea-12-lt-min-bocca-o-13-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa manuale mm. 15 travaso liquidi con tubo 10 lt/min.</Name>
@@ -38947,6 +38622,331 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 1.50 metri - 5 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>107.71</OriginalPrice>
+    <Price>75.32</Price>
+    <Code>40113R</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52513506099547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164401138</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 1.80 metri - 6 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>108.25</OriginalPrice>
+    <Price>75.70</Price>
+    <Code>38578M</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344206683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164385780</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 2.10 metri - 7 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>123.71</OriginalPrice>
+    <Price>86.51</Price>
+    <Code>38162N</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344239451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381621</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 2.75 metri - 9 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>134.43</OriginalPrice>
+    <Price>92.71</Price>
+    <Code>38171O</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344272219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.05 metri - 10 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>138.93</OriginalPrice>
+    <Price>95.81</Price>
+    <Code>38172P</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344304987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381720</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.36 metri - 11 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>143.42</OriginalPrice>
+    <Price>98.91</Price>
+    <Code>38173Q</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344337755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381737</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.66 metri - 12 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>147.91</OriginalPrice>
+    <Price>102.01</Price>
+    <Code>38174R</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344370523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381744</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.97 metri - 13 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>152.41</OriginalPrice>
+    <Price>105.11</Price>
+    <Code>38175S</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344403291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381751</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.27 metri - 14 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>156.91</OriginalPrice>
+    <Price>108.21</Price>
+    <Code>38176T</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344436059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381768</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.59 metri - 15 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>161.40</OriginalPrice>
+    <Price>111.31</Price>
+    <Code>38177U</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344468827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381775</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.88 metri - 16 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>165.90</OriginalPrice>
+    <Price>114.41</Price>
+    <Code>38178X</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344501595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381782</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 5.49 metri - 18 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>156.78</OriginalPrice>
+    <Price>120.60</Price>
+    <Code>38180T</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344567131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381805</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 5.80 metri - 21 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>168.87</OriginalPrice>
+    <Price>129.90</Price>
+    <Code>38183W</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344599899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381836</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.05 metri - 10 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>150.35</OriginalPrice>
+    <Price>103.69</Price>
+    <Code>42899W</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336899419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.36 metri - 11 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>155.22</OriginalPrice>
+    <Price>107.05</Price>
+    <Code>42900B</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336932187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164429002</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.66 metri - 12 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>160.08</OriginalPrice>
+    <Price>110.40</Price>
+    <Code>42901D</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336964955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164429019</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 3.97 metri - 13 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>164.95</OriginalPrice>
+    <Price>113.76</Price>
+    <Code>42902F</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514336997723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164429026</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 4.27 metri - 14 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>169.82</OriginalPrice>
+    <Price>117.12</Price>
+    <Code>42903H</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514337030491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164429033</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 5.49 metri - 18 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>169.71</OriginalPrice>
+    <Price>130.54</Price>
+    <Code>42907S</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514337096027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164429071</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M90 Mach Ultraflex – Alta Scorrevolezza (Per T71 / T85 / T91) - 5.8 metri - 19 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M90 Mach rappresenta l&apos;evoluzione ad alte prestazioni dei cavi meccanici per timoneria. Appartenente alla serie &quot;Mach&quot;, questo cavo è progettato specificamente per offrire massima flessibilità e alta scorrevolezza . Rispetto ai</Description>
+    <OriginalPrice>174.07</OriginalPrice>
+    <Price>133.90</Price>
+    <Code>42908U</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m90-mach-ultraflex?variant=52514337128795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflex.webp?v=1771000836</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164429088</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m90-mach-ultraflextecnologia.webp?v=1771000836</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m90-mach-ultraflex</ParentID>
   </Offer>
   <Offer>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 48x27x35 cm.</Name>
