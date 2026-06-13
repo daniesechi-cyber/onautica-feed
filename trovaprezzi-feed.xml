@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-12T18:10:52.058Z -->
-<!-- Offerte: 2684 -->
+<!-- Generato: 2026-06-13T06:30:52.982Z -->
+<!-- Offerte: 2681 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1143,22 +1143,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>cerchio-ruota-4-50x13-155-80-r13-165-80-r13</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Chiusura Lampo Marina (ZIP) con Cursore e Terminali – Larghezza 42 mm - 1 metro</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Chiusure Lampo (ZIP) per uso marino sono componenti fondamentali per la realizzazione e la riparazione di tendalini, capottine (sprayhood), chiusure di poppa e cuscineria di bordo. Progettate per resistere all&apos;ambiente salmastro, garantiscono scorrevol</Description>
-    <OriginalPrice>18.98</OriginalPrice>
-    <Price>13.56</Price>
-    <Code>3216010</Code>
-    <Link>https://www.onautica.com/products/chiusura-lampo-zip-marina-42mm?variant=52513511047515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-lampo-zip-marina-42mm.png?v=1767086190</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626095497</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>chiusura-lampo-zip-marina-42mm</ParentID>
   </Offer>
   <Offer>
     <Name>Chiusura Lampo Marina (ZIP) con Cursore e Terminali – Larghezza 42 mm - 2 metri</Name>
@@ -3825,22 +3809,6 @@
     <EanCode>8033626007612</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>ruote-per-carrelli-alaggio-o-di-poppa-o-360-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ruote per carrelli uso sabbia Ø 390 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste ruote di grande diametro sono la soluzione definitiva per movimentare carrelli da alaggio, derive o piccole imbarcazioni su terreni difficili come la sabbia soffice. Grazie alla loro ampia superficie di appoggio, &quot;galleggiano&quot; sulla sabbia anziché </Description>
-    <OriginalPrice>93.45</OriginalPrice>
-    <Price>66.75</Price>
-    <Code>2805067</Code>
-    <Link>https://www.onautica.com/products/ruote-per-carrelli-uso-sabbia-o-390-mm?variant=52577484964187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruote_per_carrelli_uso_sabbia_390_mm..png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626078612</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>ruote-per-carrelli-uso-sabbia-o-390-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Ruotini Save-Sail Protezione Vele – Per Sartie Ø 5-10 mm</Name>
@@ -11471,7 +11439,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>6.24</Price>
     <Code>640961</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-nero?variant=52513504035163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CAVOBATTERIA.png?v=1773341989</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12447,7 +12415,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BO</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52517264851291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17996,7 +17964,7 @@ L 320mm. - Ø22</Name>
     <Price>11.61</Price>
     <Code>C0705</Code>
     <Link>https://www.onautica.com/products/crc-contact-cleaner-detergente-contatti-elettrici-spray-250ml?variant=52577371259227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-contact-cleaner-detergente-contatti-elettrici-spray-250ml-nautica.webp?v=1776184529</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -18119,23 +18087,6 @@ L 320mm. - Ø22</Name>
     <Weight>100.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>fanale-navigazione-360-corpo-bianco-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale testa d&apos;albero 360° con basetta bianco/bianco</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di testa d&apos;albero 360° omologato COLREG72 , progettato per imbarcazioni fino a 20 metri . Realizzato in policarbonato bianco , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. Colore fanale: bianco/bianco Materiale:</Description>
-    <OriginalPrice>15.23</OriginalPrice>
-    <Price>10.88</Price>
-    <Code>2113301</Code>
-    <Link>https://www.onautica.com/products/fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m?variant=52577435156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.99.png?v=1773341653</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626065179</EanCode>
-    <Weight>120.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Bianco 135°</Name>
@@ -18802,23 +18753,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno_pieno.webp?v=1774370863</Image3>
     <Condition>nuovo</Condition>
     <ParentID>frigorifero-portatile-compressore-travel-box-itb-32</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Portatile a Compressore Travel Box ITB 42 (42 Litri)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 42 rappresenta il perfetto equilibrio tra capienza e ingombro a bordo. Grazie alla sua capacità intermedia di 42 litri , permette di conservare una quantità significativa di alimenti e bevande mantenen</Description>
-    <OriginalPrice>470.80</OriginalPrice>
-    <Price>294.23</Price>
-    <Code>50.834.42</Code>
-    <Link>https://www.onautica.com/products/frigorifero-portatile-compressore-travel-box-itb-42?variant=52653195755867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb-42.webp?v=1774370863</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno.webp?v=1774370863</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno_pieno.webp?v=1774370863</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-portatile-compressore-travel-box-itb-42</ParentID>
   </Offer>
   <Offer>
     <Name>Gancio a L a Vite in Acciaio Inox – Gancio a Squadra - 47x4.0 mm.</Name>
@@ -19656,24 +19590,6 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814291</Name>
-    <Brand>Evinrude</Brand>
-    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Johnson ed Evinrude . Progettate per resistere all&apos;usura e garantire il corretto raffreddamento del motore in ambiente marino. L&apos;assortimento copre una vasta gamma di mode</Description>
-    <OriginalPrice>33.60</OriginalPrice>
-    <Price>22.40</Price>
-    <Code>1814291</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-johnson-evinrude?variant=52525734232411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude.png?v=1767378377</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137159411</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude20.png?v=1767378377</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude21.png?v=1767378377</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 2.6 HP</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
@@ -19990,24 +19906,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-suzuki.png?v=1767375406</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051783</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-suzuki_12.png?v=1773341923</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-suzuki_13.png?v=1773341924</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-suzuki</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Suzuki (2T / 4T) - 1814291</Name>
-    <Brand>Suzuki</Brand>
-    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Suzuki Marine . Realizzate con elastomeri di alta qualità, assicurano una perfetta tenuta e un flusso d&apos;acqua costante per il raffreddamento del motore. Disponibili per un</Description>
-    <OriginalPrice>33.60</OriginalPrice>
-    <Price>22.40</Price>
-    <Code>1814291</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-suzuki?variant=52525763101019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-suzuki.png?v=1767375406</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137159411</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-suzuki_12.png?v=1773341923</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-suzuki_13.png?v=1773341924</Image3>
     <Condition>nuovo</Condition>
@@ -24197,6 +24095,7 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12v.webp?v=1773341577</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052583</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vmisure.webp?v=1773341578</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vscatola.webp?v=1773341579</Image3>
     <Condition>nuovo</Condition>
@@ -27516,8 +27415,8 @@ L 320mm. - Ø22</Name>
     <Name>Pompa di sentina manuale a membrana AA standard 40 lt/min.</Name>
     <Brand>Motomarine</Brand>
     <Description>Pompa di sentina manuale compatta a membrana. AA compact 40 lt/m. CARATTERISTICHE Lt/min→ 40 Bocche ∅ mm → 25 (1&apos;&apos;) Caratteristiche principali Azionamento completamente manuale, senza bisogno di alimentazione elettrica a bordo Tecnologia a membrana per un</Description>
-    <OriginalPrice>33.57</OriginalPrice>
-    <Price>23.98</Price>
+    <OriginalPrice>33.80</OriginalPrice>
+    <Price>24.14</Price>
     <Code>1834020</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-a-membrana-aa-standard-40-lt-min?variant=52577473757531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30638,7 +30537,7 @@ L 320mm. - Ø22</Name>
     <Price>5.40</Price>
     <Code>65.520.05</Code>
     <Link>https://www.onautica.com/products/stucco-gelcoat-bianco-monocomponente-100-gr?variant=52577489060187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Stucco_Gelcoat_bianco_monocomponente_100_gr..png?v=1773341823</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30678,6 +30577,117 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626255532</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 1GM10 (cod. orig. 128170-42070) - ID8 D32 H12 - 6 pale - Bocc. F</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>18.30</OriginalPrice>
+    <Price>12.20</Price>
+    <Code>1814038</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283515739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.03</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 2GM20 / 3GM30 / YSB / YE / 2QM / 3QM (cod. orig. 104211-42070) - ID9,5 D40 H19 - 6 pale - Bocc. S</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>19.30</OriginalPrice>
+    <Price>12.84</Price>
+    <Code>1814025</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283548507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.04</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 2GM20F / 3GM30F / 2QM20 / 3QM30 / 3HM35 (cod. orig. 124223-42091 / 128296-42070) - ID12,7 D51 H22 - 6 pale - Bocc. H</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>22.40</OriginalPrice>
+    <Price>14.96</Price>
+    <Code>1814054</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283581275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.05</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 3JH2 / 4JH2 - tutti i modelli (cod. orig. 129470-42530) - ID15,8 D57 H31 - 12 pale - Bocc. B</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
+    <Code>1814032</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283614043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051097</EanCode>
+    <Weight>0.09</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 4LH - tutti i modelli (cod. orig. 127610-42200) - ID15,8 D65 H50 - 8 pale - Bocc. B</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>27.20</OriginalPrice>
+    <Price>18.15</Price>
+    <Code>1814031</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283646811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051080</EanCode>
+    <Weight>0.12</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 3JH3 - tutti i modelli (cod. orig. 129670-42530) - ID15,8 D65 H50 - 10 pale - Bocc. B</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>28.20</OriginalPrice>
+    <Price>18.80</Price>
+    <Code>1814029</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283679579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051066</EanCode>
+    <Weight>0.12</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
   </Offer>
   <Offer>
     <Name>Giunto di Unione Bianco per Profilo Parabordo ECO e T1</Name>
@@ -36245,25 +36255,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>pompa-centrifuga-9-lt-min-a-immersione-bocca-o-10-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa centrifuga per lavello</Name>
-    <Brand>Osculati</Brand>
-    <Description>Da installare a livello della base del serbatoio. Non autoadescante. Fissaggio tramite fascetta orientabile inclusa. V Portata l/min. Prevalenza mt. Portagomma Ø mm. mm 12 6,6 2 11 88x45 Caratteristiche principali Pompa centrifuga compatta, ideale per imp</Description>
-    <OriginalPrice>27.75</OriginalPrice>
-    <Price>19.82</Price>
-    <Code>1825000</Code>
-    <Link>https://www.onautica.com/products/pompa-centrifuga-in-linea-12-lt-min-bocca-o-13-mm?variant=52577473659227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74.png?v=1773341768</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8024827503133</EanCode>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74b.png?v=1773341769</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.184.74c.png?v=1773341770</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-centrifuga-in-linea-12-lt-min-bocca-o-13-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa manuale mm. 15 travaso liquidi con tubo 10 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa pompa manuale è lo strumento geniale e indispensabile per il travaso di tutti i tipi di liquido (acqua, gasolio, benzina, ecc.) da un contenitore all&apos;altro, senza alcuna fatica e senza il rischio di sporcare . È la soluzione perfetta per rifornire </Description>
@@ -38699,22 +38690,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>antiruggine-sintetica-02-fondo-ferro</ParentID>
   </Offer>
   <Offer>
-    <Name>Base Antenna a Morsetto (Acciaio Inox)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa base di montaggio è la soluzione robusta e altamente resistente alla corrosione per l&apos;installazione non permanente di antenne nautiche (VHF, GPS, ecc.) su tubolari e pulpiti. Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox , garan</Description>
-    <OriginalPrice>57.13</OriginalPrice>
-    <Price>42.32</Price>
-    <Code>5636603</Code>
-    <Link>https://www.onautica.com/products/base-antenna-morsetto-inox-1un-25mm?variant=52577508557147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEAMORSETTOINACCIAIOINOX.png?v=1773341878</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626147639</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>base-antenna-morsetto-inox-1un-25mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Base Antenna a Morsetto per Tubo (ABS)</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa base di montaggio è la soluzione versatile e non permanente per installare antenne nautiche (VHF, GPS, ecc.) su pulpiti o tubolari dell&apos;imbarcazione. Caratteristiche Principali: Installazione Facile: La base è dotata di un sistema a morsetto , che </Description>
@@ -39848,7 +39823,7 @@ bocche Ø 14 mm.</Name>
     <Price>12.58</Price>
     <Code>74062075</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464629083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -41184,22 +41159,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-elastico-veneziani-gummipaint-finitura.webp?v=1770890694</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8014099710131</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-elastico-veneziani-gummipaint-finitura</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Elastico VENEZIANI Gummipaint – Finitura per Gommoni (Cod. 6715) - Bianco</Name>
-    <Brand>Veneziani</Brand>
-    <Description>La Finitura Elastica VENEZIANI Gummipaint (Cod. 6715) è uno smalto monocomponente formulato specificamente per il restauro e la verniciatura dei tubolari dei gommoni. È la soluzione ideale per rinnovare l&apos;estetica di battelli pneumatici invecchiati o scol</Description>
-    <OriginalPrice>68.89</OriginalPrice>
-    <Price>49.21</Price>
-    <Code>65.009.01BI</Code>
-    <Link>https://www.onautica.com/products/smalto-elastico-veneziani-gummipaint-finitura?variant=52514361639259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-elastico-veneziani-gummipaint-finitura.webp?v=1770890694</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8014099710162</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>smalto-elastico-veneziani-gummipaint-finitura</ParentID>
   </Offer>
