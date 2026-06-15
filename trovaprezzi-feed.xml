@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-13T11:46:44.493Z -->
-<!-- Offerte: 2675 -->
+<!-- Generato: 2026-06-15T06:31:10.616Z -->
+<!-- Offerte: 2674 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -11874,7 +11874,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>14.46</Price>
     <Code>33.471.01</Code>
     <Link>https://www.onautica.com/products/copriparabordi-neoprene-serie-a?variant=52513514684763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-A-series-blu-nero.png?v=1773341582</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -18684,6 +18684,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno_pieno.webp?v=1774370863</Image3>
     <Condition>nuovo</Condition>
     <ParentID>frigorifero-portatile-compressore-travel-box-itb-32</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Portatile a Compressore Travel Box ITB 42 (42 Litri)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 42 rappresenta il perfetto equilibrio tra capienza e ingombro a bordo. Grazie alla sua capacità intermedia di 42 litri , permette di conservare una quantità significativa di alimenti e bevande mantenen</Description>
+    <OriginalPrice>470.80</OriginalPrice>
+    <Price>294.23</Price>
+    <Code>50.834.42</Code>
+    <Link>https://www.onautica.com/products/frigorifero-portatile-compressore-travel-box-itb-42?variant=52653195755867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb-42.webp?v=1774370863</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno.webp?v=1774370863</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno_pieno.webp?v=1774370863</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-portatile-compressore-travel-box-itb-42</ParentID>
   </Offer>
   <Offer>
     <Name>Gancio a L a Vite in Acciaio Inox – Gancio a Squadra - 47x4.0 mm.</Name>
@@ -27845,7 +27862,7 @@ L 320mm. - Ø22</Name>
     <Price>10.90</Price>
     <Code>N11</Code>
     <Link>https://www.onautica.com/products/pulitore-skai-750-ml?variant=52577479852379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Detergenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pulitore_Skai_750_ml..png?v=1773341791</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28765,23 +28782,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/TUBO_SCARICO_R.I.NA_-_100_C_CORRUGATO_FLESSIBILE_curva.png?v=1765381922</Image2>
     <Condition>nuovo</Condition>
     <ParentID>tubo-scarico-corrugato-rina-saej2006</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vano porta-estintore con portello chiusura</Name>
-    <Brand>Osculati</Brand>
-    <Description>Vano porta-estintore con portello chiusura i n polipropilene bianco con portello in policarbonato resistente UV trasparente e chiusura a scatto per estintori ANAF da 1 kg. Tenuta stagna, ottime finiture, colore bianco. Fornito con appositi supporti e nast</Description>
-    <OriginalPrice>38.57</OriginalPrice>
-    <Price>21.43</Price>
-    <Code>31.429.00</Code>
-    <Link>https://www.onautica.com/products/vano-porta-estintore-con-portello-chiusura?variant=52577369358683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Tappi d Ispezione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/31.429.00.png?v=1773341497</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137044274</EanCode>
-    <Weight>770.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vano-porta-estintore-con-portello-chiusura</ParentID>
   </Offer>
   <Offer>
     <Name>Vano portaoggetti 364x183x150 mm.</Name>
@@ -41864,24 +41864,6 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supportotelonicopribarca.png?v=1762790722</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supportotelonicopribarca2.png?v=1762790722</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>supporto-telescopico-per-telo-copribarca</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Supporto Telescopico per Telo Copribarca - 90/160 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo supporto telescopico è l&apos;accessorio indispensabile per chi utilizza teli o coperture invernali sull&apos;imbarcazione. La sua funzione è quella di sollevare il centro del telone , creando una pendenza che permette all&apos;acqua piovana di defluire e impedis</Description>
-    <OriginalPrice>29.40</OriginalPrice>
-    <Price>22.60</Price>
-    <Code>46.100.02</Code>
-    <Link>https://www.onautica.com/products/supporto-telescopico-per-telo-copribarca?variant=52522240901467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supportotelonicopribarca.png?v=1762790722</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137015236</EanCode>
-    <Weight>590.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supportotelonicopribarca2.png?v=1762790722</Image2>
     <Condition>nuovo</Condition>
     <ParentID>supporto-telescopico-per-telo-copribarca</ParentID>
