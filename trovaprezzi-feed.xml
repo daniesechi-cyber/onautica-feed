@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-15T06:31:10.616Z -->
-<!-- Offerte: 2674 -->
+<!-- Generato: 2026-06-15T10:30:52.840Z -->
+<!-- Offerte: 2672 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -495,6 +495,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Ancora_galleggiante_80x70_cm._fino_a_8_mt..png?v=1773341713</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626295842</EanCode>
+    <Weight>1.15</Weight>
     <Condition>nuovo</Condition>
     <ParentID>ancora-galleggiante-top-drag</ParentID>
   </Offer>
@@ -1189,7 +1190,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettone-inox100-200.png?v=1770048050</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>3015063</EanCode>
-    <Weight>480.00</Weight>
+    <Weight>0.48</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-1moschettone-inox.png?v=1770048051</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettoni-inox.png?v=1770048051</Image3>
     <Condition>nuovo</Condition>
@@ -11878,6 +11879,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-A-series-blu-nero.png?v=1773341582</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>230.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-neoprene-serie-a</ParentID>
   </Offer>
@@ -18686,23 +18688,6 @@ L 320mm. - Ø22</Name>
     <ParentID>frigorifero-portatile-compressore-travel-box-itb-32</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Portatile a Compressore Travel Box ITB 42 (42 Litri)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 42 rappresenta il perfetto equilibrio tra capienza e ingombro a bordo. Grazie alla sua capacità intermedia di 42 litri , permette di conservare una quantità significativa di alimenti e bevande mantenen</Description>
-    <OriginalPrice>470.80</OriginalPrice>
-    <Price>294.23</Price>
-    <Code>50.834.42</Code>
-    <Link>https://www.onautica.com/products/frigorifero-portatile-compressore-travel-box-itb-42?variant=52653195755867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb-42.webp?v=1774370863</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno.webp?v=1774370863</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno_pieno.webp?v=1774370863</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-portatile-compressore-travel-box-itb-42</ParentID>
-  </Offer>
-  <Offer>
     <Name>Gancio a L a Vite in Acciaio Inox – Gancio a Squadra - 47x4.0 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Ganci a L a Vite (o ganci a squadra) sono realizzati in Acciaio Inox per garantire la massima resistenza all&apos;ossidazione e alla corrosione, rendendoli adatti a qualsiasi applicazione a bordo, sia interna che esterna. La classica forma ad angolo retto &quot;a</Description>
@@ -22173,7 +22158,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Luce di via con faro di coperta a led 12/24V fino a 20 metri per albero</Name>
     <Brand>Osculati</Brand>
-    <Description>Fanali di via 225° LED, abbinato a luce di coperta a LED. Carcassa in tecnopolimero con bandelle flessibili adattabili a qualsiasi tipo di albero. Certificati EN60945 - COLREG 1972 + USCG + ABYC A-16. Caratteristiche principali Tecnologia LED ad alta effi</Description>
+    <Description>Fanali di via 225�� LED, abbinato a luce di coperta a LED. Carcassa in tecnopolimero con bandelle flessibili adattabili a qualsiasi tipo di albero. Certificati EN60945 - COLREG 1972 + USCG + ABYC A-16. Caratteristiche principali Tecnologia LED ad alta eff</Description>
     <OriginalPrice>103.60</OriginalPrice>
     <Price>72.45</Price>
     <Code>13.243.88</Code>
@@ -25669,7 +25654,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mollazincata.png?v=1773341951</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137033872</EanCode>
-    <Weight>880.00</Weight>
+    <Weight>0.88</Weight>
     <Condition>nuovo</Condition>
     <ParentID>molla-ormeggio-acciaio-zincato-alta-resistenza-banchina</ParentID>
   </Offer>
@@ -26842,6 +26827,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._blu.png?v=1773341757</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8712256012820</EanCode>
+    <Weight>1.43</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._blu_3.png?v=1773341758</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._blu_4.png?v=1773341759</Image3>
     <Condition>nuovo</Condition>
@@ -29360,7 +29346,7 @@ L 320mm. - Ø22</Name>
     <Price>5.86</Price>
     <Code>4856929</Code>
     <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382400347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36701,24 +36687,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>scaletta-4-gradini-biscaglina-eco</ParentID>
   </Offer>
   <Offer>
-    <Name>Scaletta 5 gradini biscaglina</Name>
-    <Brand>Osculati</Brand>
-    <Description>La scaletta biscaglina a 5 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in totale sicurezza. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato, garantisce robustezza, leggerezza e buon</Description>
-    <OriginalPrice>26.99</OriginalPrice>
-    <Price>19.28</Price>
-    <Code>49.524.05</Code>
-    <Link>https://www.onautica.com/products/scaletta-5-gradini-biscaglina-eco?variant=52577485357403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_5_gradini_biscaglina_eco.png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042911</EanCode>
-    <Weight>550.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_5_gradini_biscaglina_eco_1.png?v=1773341809</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scaletta-5-gradini-biscaglina-eco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Scaletta in Tubo Anticorodal - Leggera e Galleggiante - 3 Gradini</Name>
     <Brand>Osculati</Brand>
     <Description>Questa scaletta è la soluzione ideale per la risalita a bordo, unendo la massima leggerezza e sicurezza alla resistenza tipica dei materiali nautici. È una scaletta leggerissima e galleggiante . Caratteristiche Premium: Materiale Scafo: Realizzata in tubo</Description>
@@ -40268,6 +40236,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Nastro_Autoadesivo_PSP_Stayput_in_Dacron_SPI_per_Riparazioni_Vele.png?v=1764692775</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>5018400070030</EanCode>
+    <Weight>90.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10.288.00b.png?v=1773342024</Image2>
     <Condition>nuovo</Condition>
     <ParentID>nastro-adesivo-psp-dacron-spi-riparazione-vele</ParentID>
