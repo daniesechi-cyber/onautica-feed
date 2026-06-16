@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-16T10:30:53.577Z -->
-<!-- Offerte: 2683 -->
+<!-- Generato: 2026-06-16T14:30:52.852Z -->
+<!-- Offerte: 2682 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -7101,23 +7101,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-cupron-3-0.png?v=1773342084</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-cupron-3-0</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Ablativa Veneziani Cupron 3.0 – Fino a 25 Nodi - Bianca / 0,75 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Cupron 3.0 (Cod. 6369) è una vernice ablativa di ultima generazione, formulata per offrire una protezione stagionale affidabile e versatile. Grazie al suo meccanismo a matrice solubile, si rinnova costantemente con l&apos;attrito de</Description>
-    <OriginalPrice>38.40</OriginalPrice>
-    <Price>25.58</Price>
-    <Code>65.006.02</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-cupron-3-0?variant=51581778788699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-cupron-3-0.png?v=1773342084</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.41</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-cupron-3-0</ParentID>
@@ -15738,6 +15721,60 @@ L 320mm. - Ø22</Name>
     <ParentID>compasso-telescopico-oc-220-380-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
+    <OriginalPrice>26.40</OriginalPrice>
+    <Price>21.13</Price>
+    <Code>10789</Code>
+    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52513433583963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>430.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard (Anti-pizzicamento)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
+    <OriginalPrice>37.20</OriginalPrice>
+    <Price>29.75</Price>
+    <Code>10866</Code>
+    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783104859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626438980</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Heavy Duty (Rinforzata Anti-pizzicamento)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
+    <OriginalPrice>48.40</OriginalPrice>
+    <Price>38.71</Price>
+    <Code>10791</Code>
+    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783137627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626438997</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fermaporta a Molla in Acciaio Inox AISI 316</Name>
     <Brand>Osculati</Brand>
     <Description>Il Fermaporta a Molla in Acciaio Inox è un componente di ferramenta nautica di alta qualità, progettato specificamente per resistere alle condizioni più severe dell&apos;ambiente marino. Realizzato interamente in Acciaio Inox AISI 316 lucidato a specchio , que</Description>
@@ -17837,60 +17874,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.559.11.png?v=1773341470</Image3>
     <Condition>nuovo</Condition>
     <ParentID>chiusura-ricambio-per-ghiacciaia-igloo-marine-ultra-54-70-100</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>26.40</OriginalPrice>
-    <Price>21.13</Price>
-    <Code>10789</Code>
-    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52513433583963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>430.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard (Anti-pizzicamento)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>37.20</OriginalPrice>
-    <Price>29.75</Price>
-    <Code>10866</Code>
-    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783104859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626438980</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Heavy Duty (Rinforzata Anti-pizzicamento)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>48.40</OriginalPrice>
-    <Price>38.71</Price>
-    <Code>10791</Code>
-    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783137627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626438997</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
   </Offer>
   <Offer>
     <Name>Cornice di Finitura per Frigorifero Nautico Frigo° 50L</Name>
