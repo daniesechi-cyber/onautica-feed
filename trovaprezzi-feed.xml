@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-16T18:10:57.592Z -->
-<!-- Offerte: 2682 -->
+<!-- Generato: 2026-06-17T06:31:01.602Z -->
+<!-- Offerte: 2679 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -4010,25 +4010,6 @@
     <Size>2XL</Size>
   </Offer>
   <Offer>
-    <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - 4XL</Name>
-    <Brand>Ocean</Brand>
-    <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
-    <OriginalPrice>70.01</OriginalPrice>
-    <Price>58.34</Price>
-    <Code>03009006-4XL</Code>
-    <Link>https://www.onautica.com/products/salopette-nautica-ocean-mariner-premium-bib-braces?variant=52514307703131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean.jpg?v=1773341908</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5705332201662</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean2.jpg?v=1773341909</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-mariner-premium-300g-ocean3.jpg?v=1773341910</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>salopette-nautica-ocean-mariner-premium-bib-braces</ParentID>
-    <Size>4XL</Size>
-  </Offer>
-  <Offer>
     <Name>Salopette Nautica OCEAN® Mariner Premium Bib &amp; Braces - 5XL</Name>
     <Brand>Ocean</Brand>
     <Description>La Salopette OCEAN® Mariner Premium (Bib &amp; Braces) è un indumento da lavoro robusto e altamente affidabile, progettato per proteggere chi opera in condizioni marittime ostili e costantemente bagnate. Realizzata in un resistente tessuto spalmato in PVC da </Description>
@@ -8026,22 +8007,6 @@
     <ParentID>bandiera-italia-poliestere-nautico-misure</ParentID>
   </Offer>
   <Offer>
-    <Name>Bandiera Nazionale Italia in Poliestere Nautico – Varie Misure - 40x60 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Bandiera dell&apos;Italia per uso nautico è realizzata in tessuto di Poliestere di alta qualità , selezionato per garantire un&apos;ottima resa estetica e una lunga durata anche nelle condizioni marine più impegnative. La trama del tessuto è studiata per permett</Description>
-    <OriginalPrice>10.30</OriginalPrice>
-    <Price>6.87</Price>
-    <Code>3000040</Code>
-    <Link>https://www.onautica.com/products/bandiera-italia-poliestere-nautico-misure?variant=52525872644443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bandiera-italia-nautica-poliestere.png?v=1773341625</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626099365</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>bandiera-italia-poliestere-nautico-misure</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bandiera Nazionale Italia in Poliestere Nautico – Varie Misure - 50x75 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>La Bandiera dell&apos;Italia per uso nautico è realizzata in tessuto di Poliestere di alta qualità , selezionato per garantire un&apos;ottima resa estetica e una lunga durata anche nelle condizioni marine più impegnative. La trama del tessuto è studiata per permett</Description>
@@ -8546,6 +8511,21 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626112651</EanCode>
     <Weight>220.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boa-polietilene-foro-passante-arancione</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boa in Polietilene con Foro Passante Arancione - Ø 260 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
+    <OriginalPrice>19.00</OriginalPrice>
+    <Price>10.58</Price>
+    <Code>33.135.20RO</Code>
+    <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-arancione?variant=52805444239707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-arancione.webp?v=1776162729</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>boa-polietilene-foro-passante-arancione</ParentID>
   </Offer>
@@ -9388,6 +9368,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.73</Price>
     <Code>33.171.10BI</Code>
     <Link>https://www.onautica.com/products/gavitello-biconico-polietilene-doppio-anello?variant=51837129982299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa_gavitello_bicono.png?v=1773341985</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8056860132605</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>gavitello-biconico-polietilene-doppio-anello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gavitello Biconico in Polietilene Soffiato - Arancio / 25 kg</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di gavitelli biconici (o cilindrici) è realizzata in polietilene soffiato , garantendo un galleggiamento affidabile e una struttura robusta per l&apos;uso in mare. Caratteristiche Principali: Design Ottimizzato: Presenta un **doppio anello** su un</Description>
+    <OriginalPrice>37.90</OriginalPrice>
+    <Price>21.06</Price>
+    <Code>33.171.12AR</Code>
+    <Link>https://www.onautica.com/products/gavitello-biconico-polietilene-doppio-anello?variant=51837130015067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Boe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa_gavitello_bicono.png?v=1773341985</Image>
@@ -11394,24 +11390,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-A a Lightning - 1 mt. (Apple)</Name>
-    <Brand>Ferramenta Sardo Piemontese</Brand>
-    <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
-    <OriginalPrice>25.20</OriginalPrice>
-    <Price>16.83</Price>
-    <Code>309908</Code>
-    <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083658075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>3571211433583</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cavo Elettrico Banchina 32A 220V – Tripolare 3x6 mm² Blu (Sea Water Resistant)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Cavo Elettrico Sea Water Resistant (Cod. 14.593.01) è la soluzione professionale per collegare l&apos;imbarcazione alla colonnina di banchina in totale sicurezza, garantendo una portata fino a 32 Ampere . Progettato secondo le più severe norme europee (IEC </Description>
@@ -13399,8 +13377,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>MS TECHNO: Sigillante Adesivo Multiuso Alte Prestazioni - Nero</Name>
     <Brand>Fratelli Zucchini</Brand>
     <Description>Scopri MS TECHNO , l&apos;adesivo e sigillante monocomponente di nuova generazione basato sulla rivoluzionaria tecnologia MS Polymer® . Questo prodotto a reazione neutra polimerizza rapidamente semplicemente a contatto con l&apos;umidità presente nell&apos;aria, trasfor</Description>
-    <OriginalPrice>12.95</OriginalPrice>
-    <Price>9.25</Price>
+    <OriginalPrice>15.58</OriginalPrice>
+    <Price>11.13</Price>
     <Code>1004021</Code>
     <Link>https://www.onautica.com/products/sigillante-adesivo-ms-techno-ms-polymer?variant=52513437122907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -13414,8 +13392,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>MS TECHNO: Sigillante Adesivo Multiuso Alte Prestazioni - Bianco</Name>
     <Brand>Fratelli Zucchini</Brand>
     <Description>Scopri MS TECHNO , l&apos;adesivo e sigillante monocomponente di nuova generazione basato sulla rivoluzionaria tecnologia MS Polymer® . Questo prodotto a reazione neutra polimerizza rapidamente semplicemente a contatto con l&apos;umidità presente nell&apos;aria, trasfor</Description>
-    <OriginalPrice>12.95</OriginalPrice>
-    <Price>9.25</Price>
+    <OriginalPrice>15.58</OriginalPrice>
+    <Price>11.13</Price>
     <Code>1004316</Code>
     <Link>https://www.onautica.com/products/sigillante-adesivo-ms-techno-ms-polymer?variant=52577374536027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -13430,8 +13408,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>MS TECHNO: Sigillante Adesivo Multiuso Alte Prestazioni - Grigio</Name>
     <Brand>Fratelli Zucchini</Brand>
     <Description>Scopri MS TECHNO , l&apos;adesivo e sigillante monocomponente di nuova generazione basato sulla rivoluzionaria tecnologia MS Polymer® . Questo prodotto a reazione neutra polimerizza rapidamente semplicemente a contatto con l&apos;umidità presente nell&apos;aria, trasfor</Description>
-    <OriginalPrice>12.95</OriginalPrice>
-    <Price>9.25</Price>
+    <OriginalPrice>15.58</OriginalPrice>
+    <Price>11.13</Price>
     <Code>1004016</Code>
     <Link>https://www.onautica.com/products/sigillante-adesivo-ms-techno-ms-polymer?variant=52577374568795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -18700,6 +18678,24 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-acqua-di-mare-3-4-rgs-ottone-conforme-r-i-n-a</ParentID>
   </Offer>
   <Offer>
+    <Name>Frigorifero Nautico 50L 12/24V – Pannello Clean Touch Anti-impronta</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Frigorifero Frigo° da 50 Litri combina prestazioni di raffreddamento eccellenti con un design moderno e funzionale, studiato specificamente per l&apos;ambiente nautico e i veicoli ricreazionali. La caratteristica distintiva di questa serie è il pannello fro</Description>
+    <OriginalPrice>503.76</OriginalPrice>
+    <Price>457.97</Price>
+    <Code>50.960.00</Code>
+    <Link>https://www.onautica.com/products/frigorifero-nautico-50l-clean-touch?variant=52577545486683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchchiuso.png?v=1773342024</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>17.88</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchmisure.png?v=1773342026</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-nautico-50l-clean-touch</ParentID>
+  </Offer>
+  <Offer>
     <Name>Frigorifero Portatile a Compressore Travel Box ITB 32 (32 Litri)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 32 offre la massima praticità per la conservazione in viaggio. Con una capacità compatta di 32 litri , è la soluzione ideale per chi cerca prestazioni elevate e affidabilità a bordo della propria imbar</Description>
@@ -21155,7 +21151,7 @@ L 320mm. - Ø22</Name>
     <Brand>Osculati</Brand>
     <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
     <OriginalPrice>19.90</OriginalPrice>
-    <Price>17.30</Price>
+    <Price>17.31</Price>
     <Code>3010202</Code>
     <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52513528217947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -24141,7 +24137,7 @@ L 320mm. - Ø22</Name>
     <Brand>Osculati</Brand>
     <Description>Autoclave SuperFlow a 3 Valvole 12V – Pompa Pressione Silenziosa per Impianti Idrici di Bordo L&apos; autoclave SuperFlow a 3 valvole 12V è la soluzione ideale per chi cerca una pompa pressione affidabile, silenziosa e di lunga durata per l&apos;impianto idrico del</Description>
     <OriginalPrice>87.90</OriginalPrice>
-    <Price>73.90</Price>
+    <Price>73.91</Price>
     <Code>16.507.12</Code>
     <Link>https://www.onautica.com/products/autoclave-superflow-3-valvole-12v-pompa-pressione-nautica?variant=52577400029531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -29617,7 +29613,7 @@ L 320mm. - Ø22</Name>
     <Price>14.58</Price>
     <Code>4121562</Code>
     <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30457,7 +30453,7 @@ L 320mm. - Ø22</Name>
     <Price>14.58</Price>
     <Code>4121562</Code>
     <Link>https://www.onautica.com/products/filtro-separatore-benzina-sacs-aquastop?variant=52519734935899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_Separatore_Benzina_SACS_con_Vaschetta_Trasparente_Cartuccia_AquaStop_10_Micron.png?v=1773341654</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -31135,7 +31131,7 @@ L 320mm. - Ø22</Name>
     <Price>9.29</Price>
     <Code>1438606</Code>
     <Link>https://www.onautica.com/products/manicotto-filettato-inox-aisi-316?variant=52525893386587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manicotto-filettato-acciaio-inox-316.png?v=1773341699</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -34040,23 +34036,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164301681</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 16 ft. - 4.80 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>53.69</OriginalPrice>
-    <Price>38.35</Price>
-    <Code>30170D</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270415707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301704</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
@@ -38657,22 +38636,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164381768</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 4.59 metri - 15 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
-    <OriginalPrice>161.40</OriginalPrice>
-    <Price>111.31</Price>
-    <Code>38177U</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344468827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164381775</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
   </Offer>
@@ -44509,23 +44472,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/puleggia-nylon-sfere-delrinmisura.png?v=1770120818</Image2>
     <Condition>nuovo</Condition>
     <ParentID>puleggia-nylon-sfere-delrin</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Radio VHF portatile COBRA Marine HH150 FLTE</Name>
-    <Brand>Cobra</Brand>
-    <Description>VHF Cobra HH150 FLTE compatto con impugnatura confortevole e antenna rimovibile. Completamente impermeabile IPx7, immergibile per 30 min ad un metro di profondità, galleggiante con rivestimento arancione ad alta visibilità. Funzioni integrate: Dual Watch </Description>
-    <OriginalPrice>164.37</OriginalPrice>
-    <Price>126.44</Price>
-    <Code>5633668</Code>
-    <Link>https://www.onautica.com/products/offerta-vhf-cobra-marine-hh150-flte-portatile?variant=52577466188123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cobraHH150.png?v=1773341749</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>T903000147</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_VHF_COBRA_Marine_HH150_FLTE_portatile.png?v=1773341750</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-vhf-cobra-marine-hh150-flte-portatile</ParentID>
   </Offer>
   <Offer>
     <Name>Stopper Antal Cam 611 Doppio – Per Cime 6-11 mm</Name>
