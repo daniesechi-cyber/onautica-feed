@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-17T18:10:55.202Z -->
-<!-- Offerte: 2679 -->
+<!-- Generato: 2026-06-18T06:31:19.598Z -->
+<!-- Offerte: 2681 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -2699,6 +2699,23 @@
     <Size>XL (Extra Large)</Size>
   </Offer>
   <Offer>
+    <Name>Guanti Nitrile Nero Lunghi 30cm – Reflexx N79 Plus (Extra Resistenti) - XL (Extra Large)</Name>
+    <Brand>Viridex</Brand>
+    <Description>I Guanti Reflexx N79 Plus sono l&apos;evoluzione professionale del guanto in nitrile nero, progettati specificamente per chi necessita di una protezione estesa e di una resistenza meccanica superiore. La loro caratteristica principale è la lunghezza di 30 cm (</Description>
+    <OriginalPrice>9.09</OriginalPrice>
+    <Price>6.06</Price>
+    <Code>37502003</Code>
+    <Link>https://www.onautica.com/products/guanti-nitrile-nero-lunghi-30cm-reflexx-n79p?variant=52513533231451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/guanti-nitrile-nero-lunghi-30cm-reflexx-n79p_fc3f7ae0-8aa0-4c01-82dd-9ab9b745b62c.png?v=1770119802</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8005860898837</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>guanti-nitrile-nero-lunghi-30cm-reflexx-n79p</ParentID>
+    <Size>XL (Extra Large)</Size>
+  </Offer>
+  <Offer>
     <Name>Guanti Nitrile Nero Lunghi 30cm – Reflexx N79 Plus (Extra Resistenti) - L (Large)</Name>
     <Brand>Viridex</Brand>
     <Description>I Guanti Reflexx N79 Plus sono l&apos;evoluzione professionale del guanto in nitrile nero, progettati specificamente per chi necessita di una protezione estesa e di una resistenza meccanica superiore. La loro caratteristica principale è la lunghezza di 30 cm (</Description>
@@ -3717,7 +3734,7 @@
     <Price>5.67</Price>
     <Code>02.029.09</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445001051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4828,6 +4845,23 @@
     <Condition>nuovo</Condition>
     <ParentID>stivali-antinfortunistici-dunlop-work-its-s5</ParentID>
     <Size>42</Size>
+  </Offer>
+  <Offer>
+    <Name>Stivali Antinfortunistici in PVC Dunlop Work-Its – Classe S5 con Puntale e Lamina in Acciaio - 43</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Gli Stivali Antinfortunistici Dunlop Work-Its rappresentano la scelta solida e sicura per chi opera in ambienti difficili, dai cantieri navali alle sale macchine, fino alla pesca professionale. Realizzati in robusto PVC, offrono una protezione totale graz</Description>
+    <OriginalPrice>37.90</OriginalPrice>
+    <Price>23.70</Price>
+    <Code>54348-43/1</Code>
+    <Link>https://www.onautica.com/products/stivali-antinfortunistici-dunlop-work-its-s5?variant=52519661797723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stivali-antinfortunistici-dunlop-work-its-s5.png?v=1768930888</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779267206</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>stivali-antinfortunistici-dunlop-work-its-s5</ParentID>
+    <Size>43</Size>
   </Offer>
   <Offer>
     <Name>Stivali Antinfortunistici in PVC Dunlop Work-Its – Classe S5 con Puntale e Lamina in Acciaio - 44</Name>
@@ -7218,6 +7252,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062919</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -8648,24 +8683,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>50.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bussola-da-rilevamento-tascabile-nera</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Nero</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
-    <OriginalPrice>125.92</OriginalPrice>
-    <Price>104.93</Price>
-    <Code>62.00114.01</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52520337080667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626076861</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
   </Offer>
   <Offer>
     <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Nero</Name>
@@ -11386,6 +11403,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>3571211472865</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-A a Lightning - 1 mt. (Apple)</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
+    <OriginalPrice>25.20</OriginalPrice>
+    <Price>16.83</Price>
+    <Code>309908</Code>
+    <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083658075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3571211433583</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
   </Offer>
@@ -19745,24 +19780,6 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-selva-marine</ParentID>
   </Offer>
   <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814241</Name>
-    <Brand>Selva</Brand>
-    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
-    <OriginalPrice>21.45</OriginalPrice>
-    <Price>14.30</Price>
-    <Code>1814241</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-selva-marine?variant=52525723255131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva.png?v=1767378855</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051516</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva11.png?v=1767378855</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-selva-marine</ParentID>
-  </Offer>
-  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814317</Name>
     <Brand>Selva</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
@@ -20203,24 +20220,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha.png?v=1767377022</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051929</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha18.png?v=1767377022</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha19.png?v=1767377022</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814241</Name>
-    <Brand>Yamaha</Brand>
-    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
-    <OriginalPrice>21.45</OriginalPrice>
-    <Price>14.30</Price>
-    <Code>1814241</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751927131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha.png?v=1767377022</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051516</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha18.png?v=1767377022</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha19.png?v=1767377022</Image3>
     <Condition>nuovo</Condition>
@@ -21387,7 +21386,7 @@ L 320mm. - Ø22</Name>
     <Price>9.29</Price>
     <Code>0633922</Code>
     <Link>https://www.onautica.com/products/giunto-a-l-90-inox-aisi316-fusione?variant=52540663955803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Curva_a_L_25_mm._acciaio_inox_AISI_316_da_fusione.jpg?v=1773341649</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21922,7 +21921,7 @@ L 320mm. - Ø22</Name>
     <Price>5.71</Price>
     <Code>0003037</Code>
     <Link>https://www.onautica.com/products/linea-grassi-tecnici-manutenzione-nautica?variant=52513413857627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grassotubetto.png?v=1773341948</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21943,22 +21942,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grassotubetto.png?v=1773341948</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8020089999561</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>linea-grassi-tecnici-manutenzione-nautica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Linea Grassi Tecnici Professionali per la Nautica - Formato 125 ml - Grasso al PTFE</Name>
-    <Brand>Viridex</Brand>
-    <Description>Una manutenzione corretta è fondamentale per garantire la longevità e la sicurezza della tua imbarcazione. Questa selezione di grassi tecnici professionali offre soluzioni specifiche per ogni componente marino, dalla lubrificazione dei motori alla protezi</Description>
-    <OriginalPrice>10.76</OriginalPrice>
-    <Price>5.98</Price>
-    <Code>1100172</Code>
-    <Link>https://www.onautica.com/products/linea-grassi-tecnici-manutenzione-nautica?variant=52526500577627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grassotubetto.png?v=1773341948</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8020089999523</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>linea-grassi-tecnici-manutenzione-nautica</ParentID>
   </Offer>
@@ -22473,23 +22456,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio.png?v=1764701670</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137046636</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio_b.png?v=1764701670</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Molla a Gas in Acciaio Inox Occhio-Occhio (Ammortizzatore per Portelli) - 40 kg. - L 600 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di molle a gas è realizzata in acciaio inox ed è progettata per sostenere e ammortizzare il peso di portelli, gavoni, cofani motore e coperchi della barca. I terminali sono ad occhio , con un foro di 8 mm per un fissaggio sicuro tramite bullo</Description>
-    <OriginalPrice>43.67</OriginalPrice>
-    <Price>31.19</Price>
-    <Code>38.009.19</Code>
-    <Link>https://www.onautica.com/products/molla-gas-acciaio-inox-occhio-foro8mm?variant=52542752850267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio.png?v=1764701670</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626344885</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio_b.png?v=1764701670</Image2>
     <Condition>nuovo</Condition>
     <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
@@ -26543,6 +26509,7 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137194351</EanCode>
     <Weight>1.83</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
     <Condition>nuovo</Condition>
@@ -29469,23 +29436,6 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>087295128879</EanCode>
     <Weight>36.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - DPR6EA-9 NGK</Name>
-    <Brand>NGK</Brand>
-    <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
-    <OriginalPrice>7.10</OriginalPrice>
-    <Price>5.10</Price>
-    <Code>4856719</Code>
-    <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382433115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>087295155318</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
     <Condition>nuovo</Condition>
     <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
@@ -34587,23 +34537,6 @@ L 320mm. - Ø22</Name>
     <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
-    <Name>Comandi Up-Down a piede bianco Quick salpa ancora</Name>
-    <Brand>Quick</Brand>
-    <Description>Il comando a piede Quick SERIE 900 per salpa ancora è un interruttore a pedale stagno, progettato con precisione per offrire un controllo affidabile e sicuro su qualsiasi modello di verricello elettrico. La sua struttura garantisce un’elevata resistenza a</Description>
-    <OriginalPrice>62.96</OriginalPrice>
-    <Price>34.98</Price>
-    <Code>10396</Code>
-    <Link>https://www.onautica.com/products/comandi-up-down-a-piede-bianco-quick-salpa-ancora?variant=52577431290203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulsante-piede-quick-serie-900-bianco.png?v=1773341647</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626031327</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulsante-piede-quick-serie-900-bianco_misure.png?v=1773341649</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>comandi-up-down-a-piede-bianco-quick-salpa-ancora</ParentID>
-  </Offer>
-  <Offer>
     <Name>Comandi Up-Down a piede nero Quick salpa ancora</Name>
     <Brand>Quick</Brand>
     <Description>Il comando a piede Quick SERIE 900 per salpa ancora è un interruttore a pedale stagno, progettato con precisione per offrire un controllo affidabile e sicuro su qualsiasi modello di verricello elettrico. La sua struttura garantisce un’elevata resistenza a</Description>
@@ -36979,7 +36912,7 @@ bocche Ø 14 mm.</Name>
     <Price>11.33</Price>
     <Code>4020022</Code>
     <Link>https://www.onautica.com/products/tanica-benzina-hdpe-omologata-un-anti-uv?variant=52543820988763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Taniche_UN_per_carburante_trasporto.png?v=1773341665</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -38294,6 +38227,21 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.741.03c.png?v=1773341721</Image3>
     <Condition>nuovo</Condition>
     <ParentID>altoparlanti-nautici-doppio-cono-bianchi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catalizzatore PU L-100 per Smalto Acril-Poliuretanico Ecosivac (0,300 lt)</Name>
+    <Brand>Sivac</Brand>
+    <Description>Il Catalizzatore PU L-100 è l&apos;additivo indurente specifico formulato per la catalisi delle vernici poliuretaniche a base acqua. È il secondo componente essenziale per trasformare lo Smalto Poliuretanico all&apos;Acqua Ecosivac da prodotto monocomponente a bico</Description>
+    <OriginalPrice>31.59</OriginalPrice>
+    <Price>22.56</Price>
+    <Code>PAVCPU/03</Code>
+    <Link>https://www.onautica.com/products/catalizzatore-pu-l100-smalto-ecosivac?variant=49393039081819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ecosivac-smalto-acril-poliuretanico-acqua.png?v=1771933427</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>catalizzatore-pu-l100-smalto-ecosivac</ParentID>
   </Offer>
   <Offer>
     <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 2.10 metri - 7 ft.</Name>
@@ -39690,6 +39638,21 @@ bocche Ø 14 mm.</Name>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Tabacco / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <Price>11.44</Price>
+    <Code>LEG060/0750TAB</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464596315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Palissandro / 0,75 L</Name>
     <Brand>Sivac</Brand>
     <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
@@ -39863,7 +39826,7 @@ bocche Ø 14 mm.</Name>
     <Price>11.08</Price>
     <Code>74064575</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464989531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -40969,6 +40932,38 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626050625</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>sfiato-o-16-mm-dritto-oc-h-68-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>21.00</OriginalPrice>
+    <Price>10.52</Price>
+    <Code>ECO010/375BCO</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025441115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627253524</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>20.40</OriginalPrice>
+    <Price>10.19</Price>
+    <Code>ECO020/375BCO</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025473883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627253548</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
   </Offer>
   <Offer>
     <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Lucido</Name>
@@ -43485,13 +43480,46 @@ bocche Ø 14 mm.</Name>
     <Price>16.45</Price>
     <Code>LSF.0001.00</Code>
     <Link>https://www.onautica.com/products/vernice-trasparente-nautica-solvente-flatting?variant=52514359509339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-solvente-flatting.png?v=1773341855</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8022627113750</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-trasparente-nautica-solvente-flatting</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
+    <OriginalPrice>22.58</OriginalPrice>
+    <Price>16.13</Price>
+    <Code>LEG005/075OPA</Code>
+    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52513582514523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115778</EanCode>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
+    <OriginalPrice>22.58</OriginalPrice>
+    <Price>16.13</Price>
+    <Code>LEG005/075LUC</Code>
+    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52514360394075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115723</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
