@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-19T06:30:57.351Z -->
-<!-- Offerte: 2764 -->
+<!-- Generato: 2026-06-19T10:30:53.236Z -->
+<!-- Offerte: 2763 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -958,7 +958,7 @@
   <Offer>
     <Name>Cavallotti in Acciaio Zincato per Rimorchio - 73xL120 mm. M10</Name>
     <Brand>Osculati</Brand>
-    <Description>Questa serie di staffe ad U �� il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Ca</Description>
+    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Car</Description>
     <OriginalPrice>9.41</OriginalPrice>
     <Price>5.23</Price>
     <Code>751036</Code>
@@ -974,7 +974,7 @@
   <Offer>
     <Name>Cavallotti in Acciaio Zincato per Rimorchio - 93xL120 mm. M10</Name>
     <Brand>Osculati</Brand>
-    <Description>Questa serie di staffe ad U �� il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Ca</Description>
+    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Car</Description>
     <OriginalPrice>9.56</OriginalPrice>
     <Price>5.31</Price>
     <Code>751046</Code>
@@ -990,7 +990,7 @@
   <Offer>
     <Name>Cavallotti in Acciaio Zincato per Rimorchio - 115xL120 mm. M12</Name>
     <Brand>Osculati</Brand>
-    <Description>Questa serie di staffe ad U �� il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Ca</Description>
+    <Description>Questa serie di staffe ad U è il componente essenziale per fissare i rulli (fissi o basculanti) al telaio del rimorchio porta imbarcazioni. La Staffa ad U garantisce un bloccaggio stabile e sicuro del perno o della staffa del rullo al tubo del telaio. Car</Description>
     <OriginalPrice>11.63</OriginalPrice>
     <Price>6.46</Price>
     <Code>751048</Code>
@@ -14973,22 +14973,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Appendiabiti 2 ganci inox 38x53 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Appendiabiti 2 ganci inox 38x53 cm. Appendiabiti in acciaio inox a 2 ganci, con dimensioni di 38x53 cm, pensato per resistere all&apos;ambiente marino grazie al materiale anticorrosione. A chi è rivolto Ideale per armatori e diportisti che desiderano mantenere</Description>
-    <OriginalPrice>23.73</OriginalPrice>
-    <Price>16.95</Price>
-    <Code>38.313.00</Code>
-    <Link>https://www.onautica.com/products/appendiabiti-2-ganci-inox-38x53-cm?variant=52577416610139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Appendiabiti_2_ganci_inox_38x53_cm..png?v=1773341622</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137128523</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>appendiabiti-2-ganci-inox-38x53-cm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Attuatore a Gas 10 kg L 365 mm – Pistone a Molla con Stelo Cromato per Portelli</Name>
     <Brand>Motomarine</Brand>
     <Description>Realizzate con stelo in acciaio cromato a spessore e corpo rivestito con polveri epossidiche. Caratteristiche: Aperto mm Corsa mm Reazione kg Ø corpo mm Ø stelo mm 365 142 10 19 8 Caratteristiche principali Stelo in acciaio cromato per elevata resistenza </Description>
@@ -15020,23 +15004,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla_gas.png?v=1773341956</Image2>
     <Condition>nuovo</Condition>
     <ParentID>attuatore-10-kg-l-550-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Attuatore a Gas 20 kg L 257 mm – Pistone a Molla con Stelo Cromato per Portelli</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Realizzate con stelo in acciaio cromato a spessore e corpo rivestito con polveri epossidiche. Caratteristiche: Aperto mm Corsa mm Reazione kg Ø corpo mm Ø stelo mm 257 95 20 19 8 Caratteristiche principali Stelo in acciaio cromato a spessore per elevata r</Description>
-    <OriginalPrice>24.28</OriginalPrice>
-    <Price>17.34</Price>
-    <Code>38.006.00</Code>
-    <Link>https://www.onautica.com/products/attuatore-20-kg-l-257-mm?variant=52577417986395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attuatore_20_kg._-_L_257_mm..png?v=1773341625</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626258687</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla_gas_5872cbcc-3d2c-464b-9bf3-b9bcaa325dda.png?v=1773341626</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>attuatore-20-kg-l-257-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Attuatore a Gas 20 kg L 550 mm – Pistone a Molla con Stelo Cromato per Portelli</Name>
@@ -17497,6 +17464,22 @@ L 320mm. - Ø22</Name>
     <ParentID>aeratore-solara-ss-o-220x120-mm-1</ParentID>
   </Offer>
   <Offer>
+    <Name>Appendiabiti 2 ganci inox 38x53 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Appendiabiti 2 ganci inox 38x53 cm. Appendiabiti in acciaio inox a 2 ganci, con dimensioni di 38x53 cm, pensato per resistere all&apos;ambiente marino grazie al materiale anticorrosione. A chi è rivolto Ideale per armatori e diportisti che desiderano mantenere</Description>
+    <OriginalPrice>23.73</OriginalPrice>
+    <Price>16.95</Price>
+    <Code>38.313.00</Code>
+    <Link>https://www.onautica.com/products/appendiabiti-2-ganci-inox-38x53-cm?variant=52577416610139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Appendiabiti_2_ganci_inox_38x53_cm..png?v=1773341622</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137128523</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>appendiabiti-2-ganci-inox-38x53-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Appendiabiti 3 ganci ottone lucido 73x36 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Appendiabito in ottone lucido Caratteristiche: Base 73x36 mm. materiale ottone lucido Caratteristiche principali 3 ganci per appendere capi d&apos;abbigliamento, accessori e attrezzatura Ottone lucido resistente alla corrosione e all&apos;ambiente marino Design com</Description>
@@ -17511,6 +17494,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033137127540</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>appendiabiti-3-ganci-ottone-lucido-73x36-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Attuatore a Gas 20 kg L 257 mm – Pistone a Molla con Stelo Cromato per Portelli</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Realizzate con stelo in acciaio cromato a spessore e corpo rivestito con polveri epossidiche. Caratteristiche: Aperto mm Corsa mm Reazione kg Ø corpo mm Ø stelo mm 257 95 20 19 8 Caratteristiche principali Stelo in acciaio cromato a spessore per elevata r</Description>
+    <OriginalPrice>24.28</OriginalPrice>
+    <Price>17.34</Price>
+    <Code>38.006.00</Code>
+    <Link>https://www.onautica.com/products/attuatore-20-kg-l-257-mm?variant=52577417986395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attuatore_20_kg._-_L_257_mm..png?v=1773341625</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626258687</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla_gas_5872cbcc-3d2c-464b-9bf3-b9bcaa325dda.png?v=1773341626</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>attuatore-20-kg-l-257-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Base Inox di Montaggio per Faretti – Supporto Inox Anticorrosione per Luci di Bordo</Name>
@@ -17947,40 +17947,6 @@ L 320mm. - Ø22</Name>
     <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanale di Navigazione 360° a Montaggio Orizzontale Corpo Nero (&lt;12m)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Fanale di Navigazione 360° a Montaggio Orizzontale è una dotazione indispensabile per segnalare con chiarezza la presenza della tua imbarcazione durante le ore notturne o in situazioni di scarsa visibilità. Emettendo una luce bianca continua a 360 grad</Description>
-    <OriginalPrice>15.38</OriginalPrice>
-    <Price>8.54</Price>
-    <Code>2113330</Code>
-    <Link>https://www.onautica.com/products/fanale-navigazione-360-orizzontale-corpo-nero-12m?variant=52577435025755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-360-orizzontale-corpo-nero-12m.webp?v=1774440756</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626065339</EanCode>
-    <Weight>80.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-navigazione-360-orizzontale-corpo-nero-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale di Navigazione 360° su Basetta Corpo Bianco (&lt;12m)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Fanale di Navigazione 360° su Basetta è una dotazione di sicurezza obbligatoria ed essenziale per segnalare la presenza e la posizione della tua barca durante la navigazione notturna o in condizioni di scarsa visibilità. Questo modello specifico emette</Description>
-    <OriginalPrice>13.03</OriginalPrice>
-    <Price>9.31</Price>
-    <Code>2113335</Code>
-    <Link>https://www.onautica.com/products/fanale-navigazione-360-corpo-bianco-12m?variant=52577433682267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-360-corpo-bianco-12m.webp?v=1774439999</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626065353</EanCode>
-    <Weight>100.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-navigazione-360-corpo-bianco-12m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanale testa d&apos;albero 360° con basetta bianco/bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Fanale di testa d&apos;albero 360° omologato COLREG72 , progettato per imbarcazioni fino a 20 metri . Realizzato in policarbonato bianco , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. Colore fanale: bianco/bianco Materiale:</Description>
@@ -17996,114 +17962,6 @@ L 320mm. - Ø22</Name>
     <Weight>120.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Bianco 135°</Name>
-    <Brand>DHR</Brand>
-    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
-    <OriginalPrice>115.30</OriginalPrice>
-    <Price>80.63</Price>
-    <Code>2112006</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52513461764443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8715221008057</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Gialla 135°</Name>
-    <Brand>DHR</Brand>
-    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
-    <OriginalPrice>115.30</OriginalPrice>
-    <Price>80.63</Price>
-    <Code>2112007</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836514139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8715221008019</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Bianca 225°</Name>
-    <Brand>DHR</Brand>
-    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
-    <OriginalPrice>115.30</OriginalPrice>
-    <Price>80.63</Price>
-    <Code>2112004</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836546907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8715221010548</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Rosso</Name>
-    <Brand>DHR</Brand>
-    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
-    <OriginalPrice>115.30</OriginalPrice>
-    <Price>80.63</Price>
-    <Code>2112000</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836579675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626064479</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Verde/Rosso</Name>
-    <Brand>DHR</Brand>
-    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
-    <OriginalPrice>131.56</OriginalPrice>
-    <Price>92.00</Price>
-    <Code>2112009</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836612443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8715221008286</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Verde</Name>
-    <Brand>DHR</Brand>
-    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
-    <OriginalPrice>115.30</OriginalPrice>
-    <Price>80.63</Price>
-    <Code>2112002</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836645211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8715221010258</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali di Navigazione R.I.Na. Midi White - fino a 12 metri - Rosso</Name>
@@ -23274,23 +23132,6 @@ L 320mm. - Ø22</Name>
     <ParentID>kit-con-maniglia-sporgente</ParentID>
   </Offer>
   <Offer>
-    <Name>Set 3 Fanali a Batteria LED – Fanali Bianco Verde e Rosso per Navigazione</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Set fanali LED bianco, verde e rosso a batteria. Funzionano con 3 batterie tipo AA (non incluse). Caratteristiche principali Set completo da 3 fanali: luce bianca, verde e rossa per rispettare le norme di navigazione Tecnologia LED per un consumo energeti</Description>
-    <OriginalPrice>40.91</OriginalPrice>
-    <Price>29.22</Price>
-    <Code>2114004</Code>
-    <Link>https://www.onautica.com/products/set-3-fanali-batteria-led?variant=52577487159643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Set_3_fanali_batteria_led.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626306050</EanCode>
-    <Weight>400.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>set-3-fanali-batteria-led</ParentID>
-  </Offer>
-  <Offer>
     <Name>Supporti Passamano Cilindrici Pieni in Acciaio Inox da Fusione - Ø 25 mm. / Terminale</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di supporti è essenziale per il fissaggio robusto dei passamano su pulpiti e strutture di coperta. Sono realizzati con un&apos;alta qualità costruttiva: Caratteristiche Principali: Materiale: Realizzati in Acciaio Inox da fusione , che garantisce </Description>
@@ -24633,6 +24474,23 @@ L 320mm. - Ø22</Name>
     <ParentID>fanale-di-fonda-360-ce-20m</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale di Navigazione 360° a Montaggio Orizzontale Corpo Nero (&lt;12m)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Fanale di Navigazione 360° a Montaggio Orizzontale è una dotazione indispensabile per segnalare con chiarezza la presenza della tua imbarcazione durante le ore notturne o in situazioni di scarsa visibilità. Emettendo una luce bianca continua a 360 grad</Description>
+    <OriginalPrice>15.38</OriginalPrice>
+    <Price>8.54</Price>
+    <Code>2113330</Code>
+    <Link>https://www.onautica.com/products/fanale-navigazione-360-orizzontale-corpo-nero-12m?variant=52577435025755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-360-orizzontale-corpo-nero-12m.webp?v=1774440756</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626065339</EanCode>
+    <Weight>80.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-navigazione-360-orizzontale-corpo-nero-12m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale di Navigazione 360° Compact Certificato RINA per Imbarcazioni &lt;12m - Bianco</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Fanale di Navigazione 360° Compact è un dispositivo d&apos;illuminazione nautica essenziale, progettato per garantire la massima visibilità e sicurezza durante la navigazione notturna o in condizioni di scarsa visibilità. Questo fanale è certificato RINA ed</Description>
@@ -24667,6 +24525,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-360-compact-rina-12mtutti.webp?v=1775209571</Image3>
     <Condition>nuovo</Condition>
     <ParentID>fanale-navigazione-360-compact-rina-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale di Navigazione 360° su Basetta Corpo Bianco (&lt;12m)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Fanale di Navigazione 360° su Basetta è una dotazione di sicurezza obbligatoria ed essenziale per segnalare la presenza e la posizione della tua barca durante la navigazione notturna o in condizioni di scarsa visibilità. Questo modello specifico emette</Description>
+    <OriginalPrice>13.03</OriginalPrice>
+    <Price>9.31</Price>
+    <Code>2113335</Code>
+    <Link>https://www.onautica.com/products/fanale-navigazione-360-corpo-bianco-12m?variant=52577433682267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-navigazione-360-corpo-bianco-12m.webp?v=1774439999</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626065353</EanCode>
+    <Weight>100.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-navigazione-360-corpo-bianco-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale di Navigazione 360° su Basetta Corpo Nero (&lt;12m)</Name>
@@ -24795,23 +24670,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8024827710869</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanale-led-verde-inox-r-i-n-a-20m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale su asta 360° inox H 100 cm. plastica bianca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di navigazione a 360° su asta, ideale per imbarcazioni fino a 20 metri di lunghezza. L&apos;asta, di colore bianco, è realizzata interamente in acciaio inox lucido a specchio per garantire resistenza alla corrosione e un aspetto curato nel tempo. Altezz</Description>
-    <OriginalPrice>61.77</OriginalPrice>
-    <Price>44.12</Price>
-    <Code>11.147.11</Code>
-    <Link>https://www.onautica.com/products/fanale-su-asta-360-inox-h-100-cm-plastica-bianca?variant=52577435189595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_su_asta_360_inox_H_100_cm._plastica_bianca.png?v=1773341653</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137012846</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_su_asta_360_inox_H_100_cm._plastica_bianca_1.png?v=1773341654</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-su-asta-360-inox-h-100-cm-plastica-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale su asta 360° inox H 100 cm. plastica nero</Name>
@@ -24948,6 +24806,114 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112050_63d3fdc1-0de1-4973-b8dc-b176ad7cc310.jpg?v=1773341659</Image3>
     <Condition>nuovo</Condition>
     <ParentID>fanale-navigazione-360-dhr-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Bianco 135°</Name>
+    <Brand>DHR</Brand>
+    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
+    <OriginalPrice>115.30</OriginalPrice>
+    <Price>80.63</Price>
+    <Code>2112006</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52513461764443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8715221008057</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Gialla 135°</Name>
+    <Brand>DHR</Brand>
+    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
+    <OriginalPrice>115.30</OriginalPrice>
+    <Price>80.63</Price>
+    <Code>2112007</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836514139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8715221008019</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Bianca 225°</Name>
+    <Brand>DHR</Brand>
+    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
+    <OriginalPrice>115.30</OriginalPrice>
+    <Price>80.63</Price>
+    <Code>2112004</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836546907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8715221010548</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Rosso</Name>
+    <Brand>DHR</Brand>
+    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
+    <OriginalPrice>115.30</OriginalPrice>
+    <Price>80.63</Price>
+    <Code>2112000</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836579675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626064479</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Verde/Rosso</Name>
+    <Brand>DHR</Brand>
+    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
+    <OriginalPrice>131.56</OriginalPrice>
+    <Price>92.00</Price>
+    <Code>2112009</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836612443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8715221008286</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione DHR - Per Barche da Lavoro e Diporto fino a 20 Metri - Verde</Name>
+    <Brand>DHR</Brand>
+    <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è sinonimo di affidabilità e qualità professionale nel settore nautico. Progettati specificamente per l&apos;uso su barche da lavoro e da diporto con lunghezza inferiore ai 20 metri , garantiscono la massima sicu</Description>
+    <OriginalPrice>115.30</OriginalPrice>
+    <Price>80.63</Price>
+    <Code>2112002</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-dhr-fino-20-metri?variant=52552836645211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_DHR.png?v=1762506672</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8715221010258</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_9065c67e-ff1e-488e-8751-7c6891506a10.jpg?v=1773341657</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112000_8e1783bd-82b2-4f70-801a-12dc00923a52.jpg?v=1773341658</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali di Navigazione R.I.Na. Midi Flat White - fino a 12 metri - Verde</Name>
@@ -25492,11 +25458,12 @@ L 320mm. - Ø22</Name>
     <Price>15.51</Price>
     <Code>0700510</Code>
     <Link>https://www.onautica.com/products/mezzo-marinaio-telescopico-easy-alluminio?variant=52513541259611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mezzo-marinaio-telescopico-easy-alluminio.png?v=1765216656</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626000125</EanCode>
+    <Weight>200.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/schemautilizzomezzo-marinaio-telescopico-easy-alluminio.png?v=1765216597</Image2>
     <Condition>nuovo</Condition>
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
@@ -28177,6 +28144,23 @@ L 320mm. - Ø22</Name>
     <ParentID>serbatoio-di-espansione-seaflo</ParentID>
   </Offer>
   <Offer>
+    <Name>Set 3 Fanali a Batteria LED – Fanali Bianco Verde e Rosso per Navigazione</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Set fanali LED bianco, verde e rosso a batteria. Funzionano con 3 batterie tipo AA (non incluse). Caratteristiche principali Set completo da 3 fanali: luce bianca, verde e rossa per rispettare le norme di navigazione Tecnologia LED per un consumo energeti</Description>
+    <OriginalPrice>40.91</OriginalPrice>
+    <Price>29.22</Price>
+    <Code>2114004</Code>
+    <Link>https://www.onautica.com/products/set-3-fanali-batteria-led?variant=52577487159643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Set_3_fanali_batteria_led.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626306050</EanCode>
+    <Weight>400.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>set-3-fanali-batteria-led</ParentID>
+  </Offer>
+  <Offer>
     <Name>Shampoo biodegradabile universale IOSSO 1 lt.</Name>
     <Brand>IOSSO</Brand>
     <Description>Pulizia Profonda e Rispetto per l&apos;Ambiente in un Unico Prodotto Lo shampoo universale IOSSO è la soluzione ecologica e altamente efficace per la pulizia completa della tua imbarcazione. Formulato specificamente con tensioattivi di origine vegetale , quest</Description>
@@ -28476,23 +28460,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Tasca_laterale_420x170x100_mm._bianco_0.png?v=1773341746</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-tasca-laterale-420x170x100-mm-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Terminale profili T2 nero H 45/52 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Terminale di Chiusura Nero (Cod. 3833045) è progettato specificamente per la serie di profili parabordo T2 , caratterizzata da un&apos;altezza di 45 mm. Questo accessorio in PVC nero è fondamentale per completare l&apos;installazione del bottazzo, sigillando le </Description>
-    <OriginalPrice>10.80</OriginalPrice>
-    <Price>6.34</Price>
-    <Code>3833045</Code>
-    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-nero?variant=52577409302875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalenero_8db2ecf8-e33a-4815-b049-a757da8fedfb.webp?v=1773341960</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626113856</EanCode>
-    <Weight>20.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>terminale-chiusura-bottazzo-t2-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Testa Spray per Pompa Attwood – Testa Regolabile per Pompe Aeratrici di Bordo</Name>
@@ -29678,78 +29645,6 @@ L 320mm. - Ø22</Name>
     <ParentID>filtri-olio-ricambio-mercury-4-tempi</ParentID>
   </Offer>
   <Offer>
-    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 20/70</Name>
-    <Brand>Suzuki</Brand>
-    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
-    <OriginalPrice>7.76</OriginalPrice>
-    <Price>5.54</Price>
-    <Code>17.504.36</Code>
-    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52526553923931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137051982</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 140</Name>
-    <Brand>Suzuki</Brand>
-    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
-    <OriginalPrice>9.17</OriginalPrice>
-    <Price>6.55</Price>
-    <Code>17.504.31</Code>
-    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52526553956699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137050015</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 90/140</Name>
-    <Brand>Suzuki</Brand>
-    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
-    <OriginalPrice>9.17</OriginalPrice>
-    <Price>6.55</Price>
-    <Code>17.504.33</Code>
-    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52513519731035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137050022</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 150/350</Name>
-    <Brand>Suzuki</Brand>
-    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
-    <OriginalPrice>9.91</OriginalPrice>
-    <Price>7.08</Price>
-    <Code>17.504.35</Code>
-    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52526553989467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137050039</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
-  </Offer>
-  <Offer>
     <Name>Filtri Olio per Motori Fuoribordo 4 Tempi YAMAHA e SELVA (Varie HP) - 9.9/70 HP</Name>
     <Brand>Yamaha</Brand>
     <Description>I Filtri Olio per Fuoribordo a 4 Tempi sono essenziali per la manutenzione e la protezione dei motori marini YAMAHA e SELVA. Questi filtri di ricambio garantiscono che l&apos;olio motore rimanga pulito, proteggendo i componenti interni dall&apos;usura. Caratteristi</Description>
@@ -30800,60 +30695,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image3>
     <Condition>nuovo</Condition>
     <ParentID>innesti-carburante-johnson-evinrude-serie-completa</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Innesti Carburante Suzuki - Serie Completa Maschio e Femmina - Attacco femmina Suzuki grande</Name>
-    <Brand>Suzuki</Brand>
-    <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Guida alle Varianti (Innesti Maschi e Femmina)</Description>
-    <OriginalPrice>10.51</OriginalPrice>
-    <Price>6.57</Price>
-    <Code>52.392.61</Code>
-    <Link>https://www.onautica.com/products/innesti-carburante-suzuki-serie-completa-maschio-e-femmina?variant=52543845269851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137006777</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_femmina_Suzuki_piccolo.png?v=1764267741</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>innesti-carburante-suzuki-serie-completa-maschio-e-femmina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Innesti Carburante Suzuki - Serie Completa Maschio e Femmina - Innesto Suzuki/OMC maschio</Name>
-    <Brand>Suzuki</Brand>
-    <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Guida alle Varianti (Innesti Maschi e Femmina)</Description>
-    <OriginalPrice>14.50</OriginalPrice>
-    <Price>9.06</Price>
-    <Code>52.732.30</Code>
-    <Link>https://www.onautica.com/products/innesti-carburante-suzuki-serie-completa-maschio-e-femmina?variant=52543845335387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000613</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_femmina_Suzuki_piccolo.png?v=1764267741</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>innesti-carburante-suzuki-serie-completa-maschio-e-femmina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Innesti Carburante YAMAHA - Serie Completa Maschio e Femmina - Innesto Maschio per Motore</Name>
-    <Brand>Yamaha</Brand>
-    <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Caratteristiche Comuni: Tipologia: Raccordi ad</Description>
-    <OriginalPrice>16.70</OriginalPrice>
-    <Price>10.44</Price>
-    <Code>52.732.51</Code>
-    <Link>https://www.onautica.com/products/innesti-carburante-yamaha-serie-completa-motore-serbatoio?variant=52513534935387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_lato_motore.png?v=1764263449</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000590</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_filettato_per_serbatoi.png?v=1764263474</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Yamaha_portagomma_O_8-10_mm..png?v=1764263586</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>innesti-carburante-yamaha-serie-completa-motore-serbatoio</ParentID>
   </Offer>
   <Offer>
     <Name>Innesto Mercury/Mariner maschio fletto in metallo</Name>
@@ -32980,6 +32821,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626113832</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>terminale-chiusura-bottazzo-t1-nero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Terminale profili T2 nero H 45/52 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Nero (Cod. 3833045) è progettato specificamente per la serie di profili parabordo T2 , caratterizzata da un&apos;altezza di 45 mm. Questo accessorio in PVC nero è fondamentale per completare l&apos;installazione del bottazzo, sigillando le </Description>
+    <OriginalPrice>10.80</OriginalPrice>
+    <Price>6.34</Price>
+    <Code>3833045</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-nero?variant=52577409302875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalenero_8db2ecf8-e33a-4815-b049-a757da8fedfb.webp?v=1773341960</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113856</EanCode>
+    <Weight>20.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-t2-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Trinella - Baderna Premistoppa per Asse Elica – Confezione 1,5m - 6x6 mm.</Name>
@@ -36250,6 +36108,78 @@ L 320mm. - Ø22</Name>
     <ParentID>eliche-solas-inox-per-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 20/70</Name>
+    <Brand>Suzuki</Brand>
+    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
+    <OriginalPrice>7.76</OriginalPrice>
+    <Price>5.54</Price>
+    <Code>17.504.36</Code>
+    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52526553923931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137051982</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 140</Name>
+    <Brand>Suzuki</Brand>
+    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
+    <OriginalPrice>9.17</OriginalPrice>
+    <Price>6.55</Price>
+    <Code>17.504.31</Code>
+    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52526553956699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137050015</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 90/140</Name>
+    <Brand>Suzuki</Brand>
+    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
+    <OriginalPrice>9.17</OriginalPrice>
+    <Price>6.55</Price>
+    <Code>17.504.33</Code>
+    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52513519731035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137050022</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 150/350</Name>
+    <Brand>Suzuki</Brand>
+    <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
+    <OriginalPrice>9.91</OriginalPrice>
+    <Price>7.08</Price>
+    <Code>17.504.35</Code>
+    <Link>https://www.onautica.com/products/filtri-olio-ricambio-suzuki-4-tempi?variant=52526553989467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137050039</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
+  </Offer>
+  <Offer>
     <Name>Galleggiante di emergenza Lifewatch</Name>
     <Brand>Osculati</Brand>
     <Description>Il Galleggiante di emergenza Lifewatch è un salvagente anulare professionale, ideale per interventi di soccorso rapido a bordo e in banchina. Costruito in polietilene e riempito in poliuretano espanso , garantisce robustezza, leggerezza e ottima galleggia</Description>
@@ -36266,6 +36196,60 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Galleggiante_di_emergenza_Lifewatch_3.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-galleggiante-di-emergenza-lifewatch</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Innesti Carburante Suzuki - Serie Completa Maschio e Femmina - Attacco femmina Suzuki grande</Name>
+    <Brand>Suzuki</Brand>
+    <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Guida alle Varianti (Innesti Maschi e Femmina)</Description>
+    <OriginalPrice>10.51</OriginalPrice>
+    <Price>6.57</Price>
+    <Code>52.392.61</Code>
+    <Link>https://www.onautica.com/products/innesti-carburante-suzuki-serie-completa-maschio-e-femmina?variant=52543845269851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137006777</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_femmina_Suzuki_piccolo.png?v=1764267741</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>innesti-carburante-suzuki-serie-completa-maschio-e-femmina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Innesti Carburante Suzuki - Serie Completa Maschio e Femmina - Innesto Suzuki/OMC maschio</Name>
+    <Brand>Suzuki</Brand>
+    <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Guida alle Varianti (Innesti Maschi e Femmina)</Description>
+    <OriginalPrice>14.50</OriginalPrice>
+    <Price>9.06</Price>
+    <Code>52.732.30</Code>
+    <Link>https://www.onautica.com/products/innesti-carburante-suzuki-serie-completa-maschio-e-femmina?variant=52543845335387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000613</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_femmina_Suzuki_piccolo.png?v=1764267741</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>innesti-carburante-suzuki-serie-completa-maschio-e-femmina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Innesti Carburante YAMAHA - Serie Completa Maschio e Femmina - Innesto Maschio per Motore</Name>
+    <Brand>Yamaha</Brand>
+    <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Caratteristiche Comuni: Tipologia: Raccordi ad</Description>
+    <OriginalPrice>16.70</OriginalPrice>
+    <Price>10.44</Price>
+    <Code>52.732.51</Code>
+    <Link>https://www.onautica.com/products/innesti-carburante-yamaha-serie-completa-motore-serbatoio?variant=52513534935387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_lato_motore.png?v=1764263449</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000590</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_filettato_per_serbatoi.png?v=1764263474</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Yamaha_portagomma_O_8-10_mm..png?v=1764263586</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>innesti-carburante-yamaha-serie-completa-motore-serbatoio</ParentID>
   </Offer>
   <Offer>
     <Name>L7 terminale a snodo sferico inox</Name>
@@ -44659,38 +44643,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>tk-color-antiruggine-grigio-vernice-spray-motore-marino</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice spray motori marini Inox TKline 400 ml.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Vernici metalliche spray che stendono un rivestimento protettivo su ogni superficie. INOXSPRAY a base di Acciaio Inox, crea uno strato inossidabile resistente e protettivo. Confezione in bombolette da 400 ml. Caratteristiche principali Formulazione a base</Description>
-    <OriginalPrice>26.66</OriginalPrice>
-    <Price>16.66</Price>
-    <Code>5710001</Code>
-    <Link>https://www.onautica.com/products/tk-color-inox-vernici-metalliche-spray?variant=52577542865243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151186</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tk-color-inox-vernici-metalliche-spray</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Honda – Grey Metal</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina l&apos;estetica del tuo fuoribordo con la Vernice Spray TK nella colorazione originale Honda Grey Metal (Grigio Metallizzato). Questa tinta è formulata per integrarsi perfettamente con la livrea classica dei motori Honda Marine. La vernice nitrocomb</Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710075</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-honda?variant=52577497842011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-honda.jpg?v=1773341848</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120561</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-honda</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Metal Silver</Name>
     <Brand>TKline Professional</Brand>
     <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
@@ -44786,22 +44738,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-johnson</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Selva – Colori Originali - Blu</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Mantieni il look del tuo fuoribordo sempre perfetto con le Vernici Spray TK , le uniche che garantiscono la fedeltà cromatica assoluta per i motori Selva Marine , sia per le classiche livree blu che per quelle bianche più recenti. Ideali per ritocchi velo</Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710070</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-selva?variant=52517127848283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-selva.jpg?v=1769768015</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120516</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-selva</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
     <Brand>TKline Professional</Brand>
     <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
@@ -44832,22 +44768,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626151223</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK – Lacca Trasparente Protettiva (Clear Coat)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Completa il lavoro di verniciatura con la Lacca Trasparente TK , il tocco finale indispensabile per ottenere un risultato professionale e durevole su qualsiasi motore marino. Questo spray &quot;Clear Coat&quot; è formulato per essere applicato sopra la vernice colo</Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710092</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-lacca-trasparente?variant=52577497973083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-lacca-trasparente.jpg?v=1773341848</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151551</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-lacca-trasparente</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Trasparente Nautica a Solvente (Flatting) – Alta Resistenza - Opaco</Name>
@@ -46238,6 +46158,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice spray motori marini Inox TKline 400 ml.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Vernici metalliche spray che stendono un rivestimento protettivo su ogni superficie. INOXSPRAY a base di Acciaio Inox, crea uno strato inossidabile resistente e protettivo. Confezione in bombolette da 400 ml. Caratteristiche principali Formulazione a base</Description>
+    <OriginalPrice>26.66</OriginalPrice>
+    <Price>16.66</Price>
+    <Code>5710001</Code>
+    <Link>https://www.onautica.com/products/tk-color-inox-vernici-metalliche-spray?variant=52577542865243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151186</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tk-color-inox-vernici-metalliche-spray</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Aifo Marine – Colori Originali (Blu / Rosso) - Blu</Name>
     <Brand>Motomarine</Brand>
     <Description>Riporta il tuo motore entrobordo al suo splendore originale con le Vernici Spray TK , appositamente formulate per rispettare le tinte storiche dei motori Aifo Marine . Queste vernici sono approvate per il ritocco e la verniciatura completa, offrendo una s</Description>
@@ -46270,6 +46206,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-aifo-marine</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Honda – Grey Metal</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina l&apos;estetica del tuo fuoribordo con la Vernice Spray TK nella colorazione originale Honda Grey Metal (Grigio Metallizzato). Questa tinta è formulata per integrarsi perfettamente con la livrea classica dei motori Honda Marine. La vernice nitrocomb</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710075</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-honda?variant=52577497842011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-honda.jpg?v=1773341848</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120561</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-honda</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Mariner – Colori Originali - Light Grey - Grigio Chiaro</Name>
     <Brand>Motomarine</Brand>
     <Description>Restituisci l&apos;aspetto originale al tuo fuoribordo con le Vernici Spray TK , formulate specificamente per replicare le tinte di grigio che contraddistinguono i motori Mariner . Queste vernici alla nitrocombinata sono la soluzione ideale per riparare danni </Description>
@@ -46300,6 +46252,22 @@ bocche Ø 14 mm.</Name>
     <EanCode>8052705120349</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Selva – Colori Originali - Blu</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Mantieni il look del tuo fuoribordo sempre perfetto con le Vernici Spray TK , le uniche che garantiscono la fedeltà cromatica assoluta per i motori Selva Marine , sia per le classiche livree blu che per quelle bianche più recenti. Ideali per ritocchi velo</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710070</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-selva?variant=52517127848283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-selva.jpg?v=1769768015</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120516</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-selva</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Suzuki – Colori Originali - Grigio</Name>
@@ -46379,6 +46347,22 @@ bocche Ø 14 mm.</Name>
     <EanCode>8052705120578</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK – Lacca Trasparente Protettiva (Clear Coat)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Completa il lavoro di verniciatura con la Lacca Trasparente TK , il tocco finale indispensabile per ottenere un risultato professionale e durevole su qualsiasi motore marino. Questo spray &quot;Clear Coat&quot; è formulato per essere applicato sopra la vernice colo</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710092</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-lacca-trasparente?variant=52577497973083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-lacca-trasparente.jpg?v=1773341848</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151551</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-lacca-trasparente</ParentID>
   </Offer>
   <Offer>
     <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
