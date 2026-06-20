@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-20T06:30:59.616Z -->
+<!-- Generato: 2026-06-20T11:46:01.408Z -->
 <!-- Offerte: 2773 -->
 <Products>
   <Offer>
@@ -62,23 +62,6 @@
     <Price>32.69</Price>
     <Code>0107505</Code>
     <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376797019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Bruce - 7.5</Name>
-    <Brand>Bruce</Brand>
-    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
-    <OriginalPrice>58.90</OriginalPrice>
-    <Price>45.31</Price>
-    <Code>0107507</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376829787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
@@ -17772,6 +17755,39 @@ L 320mm. - Ø22</Name>
     <ParentID>chiusura-ricambio-per-ghiacciaia-igloo-marine-ultra-54-70-100</ParentID>
   </Offer>
   <Offer>
+    <Name>Cintura Salvagente 150N EN ISO 12402-3 – Navigazione 6, 12 e 50 Miglia - Oltre 50 Kg.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
+    <OriginalPrice>19.90</OriginalPrice>
+    <Price>17.31</Price>
+    <Code>3010202</Code>
+    <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52513528217947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150n.png?v=1773341730</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>620.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150nb.png?v=1773341730</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>salvagente-150n-oltre-6-miglia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cintura Salvagente 150N EN ISO 12402-3 – Navigazione 6, 12 e 50 Miglia - 20&lt;&gt;50 Kg.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
+    <OriginalPrice>40.10</OriginalPrice>
+    <Price>21.11</Price>
+    <Code>3010201</Code>
+    <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52530109907291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150n.png?v=1773341730</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150nb.png?v=1773341730</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>salvagente-150n-oltre-6-miglia</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cornice di Finitura per Frigorifero Nautico Frigo° 50L</Name>
     <Brand>Osculati</Brand>
     <Description>La Cornice di Finitura a 4 Lati è l&apos;accessorio opzionale originale specificamente dedicato al Frigorifero Nautico Osculati Frigo° da 50 Litri . Studiata per integrarsi perfettamente con il moderno design del pannello frontale del frigo, questa cornice è l</Description>
@@ -17932,23 +17948,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626095244</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale testa d&apos;albero 360° con basetta bianco/bianco</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di testa d&apos;albero 360° omologato COLREG72 , progettato per imbarcazioni fino a 20 metri . Realizzato in policarbonato bianco , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. Colore fanale: bianco/bianco Materiale:</Description>
-    <OriginalPrice>15.23</OriginalPrice>
-    <Price>10.88</Price>
-    <Code>2113301</Code>
-    <Link>https://www.onautica.com/products/fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m?variant=52577435156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.99.png?v=1773341653</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626065179</EanCode>
-    <Weight>120.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali di Navigazione R.I.Na. Midi White - fino a 12 metri - Rosso</Name>
@@ -20893,39 +20892,6 @@ L 320mm. - Ø22</Name>
     <ParentID>cintura-salvagente-100n</ParentID>
   </Offer>
   <Offer>
-    <Name>Giubbotto di Salvataggio 150N oltre 6 miglia - Oltre 50 Kg.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
-    <OriginalPrice>19.90</OriginalPrice>
-    <Price>17.31</Price>
-    <Code>3010202</Code>
-    <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52513528217947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150n.png?v=1773341730</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>620.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150nb.png?v=1773341730</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-150n-oltre-6-miglia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giubbotto di Salvataggio 150N oltre 6 miglia - 20&lt;&gt;50 Kg.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
-    <OriginalPrice>40.10</OriginalPrice>
-    <Price>21.11</Price>
-    <Code>3010201</Code>
-    <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52530109907291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150n.png?v=1773341730</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150nb.png?v=1773341730</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-150n-oltre-6-miglia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Giubbotto di Salvataggio 170N omologata Solas M.E.D. - 15&lt;&gt;43 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Cintura di salvataggio approvata Solas M.E.D. 2014/90/EU, costruita secondo le ultime normative in vigore per il trasporto passeggeri e merci. Progettata per garantire massima sicurezza in mare, offre affidabilità e comfort anche nelle condizioni più impe</Description>
@@ -20967,7 +20933,7 @@ L 320mm. - Ø22</Name>
     <Link>https://www.onautica.com/products/giubbotto-salvagente-autogonfiabile-150-n-automatico-blu-osculati?variant=53402872906075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giubbotto-salvagente-autogonfiabile-150n-automatico-blu-osculati.webp?v=1781801220</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giubbotto-salvagente-autogonfiabile-150n-automatico-blu-osculati_b10a9b49-ec25-42fa-8e00-635dbae6a496.webp?v=1781937421</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>4045302161666</EanCode>
     <Weight>1.20</Weight>
@@ -21505,6 +21471,34 @@ L 320mm. - Ø22</Name>
     <EanCode>719249769912</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>kit-bloccaggio-ghiacciaia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Sicurezza Offshore 150N – Cintura Salvagente + Luce LED (Entro e Oltre 12 Miglia) - Oltre 50 Kg.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Naviga in regola e in totale sicurezza con il Kit Sicurezza Offshore 150N : in un unico acquisto hai la cintura salvagente 150N omologata EN ISO 12402-3 e la luce LED automatica di segnalazione , la dotazione individuale prevista per la navigazione da dip</Description>
+    <Price>26.90</Price>
+    <Code>10541804618075-53411658531163</Code>
+    <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53411658531163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Sicurezza Offshore 150N – Cintura Salvagente + Luce LED (Entro e Oltre 12 Miglia) - 20&lt;&gt;50 Kg.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Naviga in regola e in totale sicurezza con il Kit Sicurezza Offshore 150N : in un unico acquisto hai la cintura salvagente 150N omologata EN ISO 12402-3 e la luce LED automatica di segnalazione , la dotazione individuale prevista per la navigazione da dip</Description>
+    <Price>30.90</Price>
+    <Code>10541804618075-53412170793307</Code>
+    <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53412170793307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia</ParentID>
   </Offer>
   <Offer>
     <Name>Lampadina LED 12/24V 30W E27 – Lampadina Multivoltaggio SMD per Barca e Camper</Name>
@@ -24765,6 +24759,23 @@ L 320mm. - Ø22</Name>
     <ParentID>fanali-testa-albero-inox-r-i-n-a-12m</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale testa d&apos;albero 360° con basetta bianco/bianco</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale di testa d&apos;albero 360° omologato COLREG72 , progettato per imbarcazioni fino a 20 metri . Realizzato in policarbonato bianco , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. Colore fanale: bianco/bianco Materiale:</Description>
+    <OriginalPrice>15.23</OriginalPrice>
+    <Price>10.88</Price>
+    <Code>2113301</Code>
+    <Link>https://www.onautica.com/products/fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m?variant=52577435156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.99.png?v=1773341653</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626065179</EanCode>
+    <Weight>120.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale tricolore + fonda con lampade a led</Name>
     <Brand>Motomarine</Brand>
     <Description>Fanale di navigazione LED 360° combinato, con funzione tricolore e di fonda, ideale per imbarcazioni fino a 12 metri. Alimentazione a 12 V. Caratteristiche principali Kit completo: include sia il fanale tricolore che il fanale di fonda, tutto in un unico </Description>
@@ -27950,22 +27961,6 @@ L 320mm. - Ø22</Name>
     <ParentID>regolatore-carica-solare-victron-smartsolar-mppt</ParentID>
   </Offer>
   <Offer>
-    <Name>Regolatori di Carica Victron BlueSolar PWM – 12/24V (10A-20A) - Blue Duo 20</Name>
-    <Brand>Victron Energy</Brand>
-    <Description>I Regolatori di carica Victron BlueSolar PWM rappresentano una soluzione affidabile ed efficiente per la gestione dell&apos;energia solare a bordo. Progettati per sistemi a 12V e 24V, questi dispositivi ottimizzano la ricarica delle batterie provenienti dai pa</Description>
-    <OriginalPrice>75.85</OriginalPrice>
-    <Price>52.31</Price>
-    <Code>12.033.04</Code>
-    <Link>https://www.onautica.com/products/regolatori-di-carica-victron-bluesolar-pwm-12-24v?variant=52525897777499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/regolatori-victron-bluesolar-pwm-duo.png?v=1773341796</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>SCC010020060</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>regolatori-di-carica-victron-bluesolar-pwm-12-24v</ParentID>
-  </Offer>
-  <Offer>
     <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 195 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
@@ -29596,40 +29591,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8054956500086</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>detergente-teak-wonder-cleaner-non-caustico</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtri Aria Cilindrici per Motori Volvo Penta – Ricambi Compatibili - 858488-0</Name>
-    <Brand>Volvo Penta</Brand>
-    <Description>Gamma di Filtri Aria di ricambio ad alte prestazioni per motori marini Volvo Penta . Questi filtri sono progettati per garantire un flusso d&apos;aria ottimale al motore, bloccando efficacemente polvere, salsedine e altre impurità che potrebbero causare usura </Description>
-    <OriginalPrice>18.30</OriginalPrice>
-    <Price>12.18</Price>
-    <Code>17.498.01</Code>
-    <Link>https://www.onautica.com/products/filtri-aria-motori-volvo-cilindrici?variant=52513519370587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindrici.png?v=1768328154</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137103216</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindricimisura.png?v=1768328154</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>filtri-aria-motori-volvo-cilindrici</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtri Aria Cilindrici per Motori Volvo Penta – Ricambi Compatibili - 3582358 / 21646645</Name>
-    <Brand>Volvo Penta</Brand>
-    <Description>Gamma di Filtri Aria di ricambio ad alte prestazioni per motori marini Volvo Penta . Questi filtri sono progettati per garantire un flusso d&apos;aria ottimale al motore, bloccando efficacemente polvere, salsedine e altre impurità che potrebbero causare usura </Description>
-    <OriginalPrice>19.20</OriginalPrice>
-    <Price>12.81</Price>
-    <Code>17.498.02</Code>
-    <Link>https://www.onautica.com/products/filtri-aria-motori-volvo-cilindrici?variant=52519800537435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindrici.png?v=1768328154</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137103223</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindricimisura.png?v=1768328154</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>filtri-aria-motori-volvo-cilindrici</ParentID>
   </Offer>
   <Offer>
     <Name>Filtri Olio di Ricambio per Motori Fuoribordo HONDA 4 Tempi - 15400-PFB-014/004</Name>
@@ -31954,6 +31915,22 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>raccordo-t-in-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Regolatori di Carica Victron BlueSolar PWM – 12/24V (10A-20A) - Blue Duo 20</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>I Regolatori di carica Victron BlueSolar PWM rappresentano una soluzione affidabile ed efficiente per la gestione dell&apos;energia solare a bordo. Progettati per sistemi a 12V e 24V, questi dispositivi ottimizzano la ricarica delle batterie provenienti dai pa</Description>
+    <OriginalPrice>75.85</OriginalPrice>
+    <Price>52.31</Price>
+    <Code>12.033.04</Code>
+    <Link>https://www.onautica.com/products/regolatori-di-carica-victron-bluesolar-pwm-12-24v?variant=52525897777499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/regolatori-victron-bluesolar-pwm-duo.png?v=1773341796</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>SCC010020060</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>regolatori-di-carica-victron-bluesolar-pwm-12-24v</ParentID>
   </Offer>
   <Offer>
     <Name>Resina Epossidica Nanotecnologica Safe RePox 2010 (Kit 1 kg)</Name>
@@ -36255,6 +36232,40 @@ L 320mm. - Ø22</Name>
     <ParentID>eliche-solas-inox-per-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtri Aria Cilindrici per Motori Volvo Penta – Ricambi Compatibili - 858488-0</Name>
+    <Brand>Volvo Penta</Brand>
+    <Description>Gamma di Filtri Aria di ricambio ad alte prestazioni per motori marini Volvo Penta . Questi filtri sono progettati per garantire un flusso d&apos;aria ottimale al motore, bloccando efficacemente polvere, salsedine e altre impurità che potrebbero causare usura </Description>
+    <OriginalPrice>18.30</OriginalPrice>
+    <Price>12.18</Price>
+    <Code>17.498.01</Code>
+    <Link>https://www.onautica.com/products/filtri-aria-motori-volvo-cilindrici?variant=52513519370587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindrici.png?v=1768328154</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137103216</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindricimisura.png?v=1768328154</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-aria-motori-volvo-cilindrici</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtri Aria Cilindrici per Motori Volvo Penta – Ricambi Compatibili - 3582358 / 21646645</Name>
+    <Brand>Volvo Penta</Brand>
+    <Description>Gamma di Filtri Aria di ricambio ad alte prestazioni per motori marini Volvo Penta . Questi filtri sono progettati per garantire un flusso d&apos;aria ottimale al motore, bloccando efficacemente polvere, salsedine e altre impurità che potrebbero causare usura </Description>
+    <OriginalPrice>19.20</OriginalPrice>
+    <Price>12.81</Price>
+    <Code>17.498.02</Code>
+    <Link>https://www.onautica.com/products/filtri-aria-motori-volvo-cilindrici?variant=52519800537435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindrici.png?v=1768328154</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137103223</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtri-aria-motori-volvo-cilindricimisura.png?v=1768328154</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-aria-motori-volvo-cilindrici</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtri Olio di Ricambio per Motori Fuoribordo SUZUKI 4 Tempi (Gamma Completa) - 20/70</Name>
     <Brand>Suzuki</Brand>
     <Description>I Filtri Olio per Fuoribordo a 4 Tempi SUZUKI sono componenti essenziali per la manutenzione periodica. Assicurano che l&apos;olio motore sia filtrato efficacemente, proteggendo la meccanica interna dei motori SUZUKI da contaminanti e garantendo la massima dur</Description>
@@ -36325,24 +36336,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
     <Condition>nuovo</Condition>
     <ParentID>filtri-olio-ricambio-suzuki-4-tempi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Galleggiante di emergenza Lifewatch</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Galleggiante di emergenza Lifewatch è un salvagente anulare professionale, ideale per interventi di soccorso rapido a bordo e in banchina. Costruito in polietilene e riempito in poliuretano espanso , garantisce robustezza, leggerezza e ottima galleggia</Description>
-    <OriginalPrice>44.02</OriginalPrice>
-    <Price>31.44</Price>
-    <Code>22.407.20</Code>
-    <Link>https://www.onautica.com/products/offerta-galleggiante-di-emergenza-lifewatch?variant=52577459274075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Galleggiante_di_emergenza_Lifewatch.png?v=1773341724</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137050213</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Galleggiante_di_emergenza_Lifewatch_1.png?v=1773341725</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Galleggiante_di_emergenza_Lifewatch_3.png?v=1773341726</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-galleggiante-di-emergenza-lifewatch</ParentID>
   </Offer>
   <Offer>
     <Name>Innesti Carburante Suzuki - Serie Completa Maschio e Femmina - Attacco femmina Suzuki grande</Name>
@@ -44677,119 +44670,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-antiscivolo-coperta-deck-antiskid-verde</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Bianco RAL 9010</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.01</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563030363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200844</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Blu RAL 5005</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.06</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563194203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200868</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Nero RAL 9005</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.02</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563063131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200837</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Avorio RAL 1015</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.03</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563095899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200875</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Grigio chiaro RAL 7035</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.04</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563128667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200882</EanCode>
-    <Weight>500.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Grigio medio RAL 7046</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.05</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563161435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200899</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Trasparente</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.07</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52513580417371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200905</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice spray motori marini antiruggine grigio TKline 400 ml.</Name>
     <Brand>Motomarine</Brand>
     <Description>Fondo antiruggine con ottima adesività per applicazioni prima della verniciatura di motori marini o di altre parti metalliche. Confezione in bombolette da 400 ml. Caratteristiche principali Formulazione specifica per ambienti marini, resistente all&apos;umidit</Description>
@@ -45183,7 +45063,7 @@ bocche Ø 14 mm.</Name>
     <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte</ParentID>
   </Offer>
   <Offer>
-    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte - 12��56 (Ø cima 12 mm, puleggia 56 mm)</Name>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte Bozzello a 2 pulegge a violino con strozzascotte integrato della linea Plastinox di Viadana . Costruito con carcassa in nylon nero ad alta resistenza rinforzata in acciaio inox , abbina la l</Description>
     <OriginalPrice>81.30</OriginalPrice>
@@ -46337,6 +46217,119 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/compact2.png?v=1773341713</Image2>
     <Condition>nuovo</Condition>
     <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Bianco RAL 9010</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.01</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563030363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200844</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Blu RAL 5005</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.06</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563194203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200868</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Nero RAL 9005</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.02</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563063131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200837</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Avorio RAL 1015</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.03</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563095899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200875</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Grigio chiaro RAL 7035</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.04</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563128667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200882</EanCode>
+    <Weight>500.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Grigio medio RAL 7046</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.05</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563161435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200899</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Trasparente</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>14.11</OriginalPrice>
+    <Price>10.08</Price>
+    <Code>52.570.07</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52513580417371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200905</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice spray motori marini Inox TKline 400 ml.</Name>
