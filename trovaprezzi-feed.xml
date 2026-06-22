@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-20T11:46:01.408Z -->
-<!-- Offerte: 2773 -->
+<!-- Generato: 2026-06-22T06:30:59.113Z -->
+<!-- Offerte: 2777 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -990,8 +990,8 @@
     <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 6 mm. - 7.5 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo cavo è un componente di ricambio essenziale per i verricelli e gli arganelli a mano. È realizzato in acciaio zincato flessibile di tipo **“Aircraft”**, offrendo un&apos;eccellente combinazione di resistenza meccanica e flessibilità, essenziale per il co</Description>
-    <OriginalPrice>36.02</OriginalPrice>
-    <Price>20.01</Price>
+    <OriginalPrice>38.48</OriginalPrice>
+    <Price>21.38</Price>
     <Code>02.091.03</Code>
     <Link>https://www.onautica.com/products/cavo-verricello-acciaio-zincato-aircraft-moschettone?variant=52513501053275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -1111,6 +1111,22 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>cerchio-ruota-4-50x13-155-80-r13-165-80-r13</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Chiusura Lampo Marina (ZIP) con Cursore e Terminali – Larghezza 42 mm - 1 metro</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Chiusure Lampo (ZIP) per uso marino sono componenti fondamentali per la realizzazione e la riparazione di tendalini, capottine (sprayhood), chiusure di poppa e cuscineria di bordo. Progettate per resistere all&apos;ambiente salmastro, garantiscono scorrevol</Description>
+    <OriginalPrice>18.98</OriginalPrice>
+    <Price>13.56</Price>
+    <Code>3216010</Code>
+    <Link>https://www.onautica.com/products/chiusura-lampo-zip-marina-42mm?variant=52513511047515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-lampo-zip-marina-42mm.png?v=1767086190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095497</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>chiusura-lampo-zip-marina-42mm</ParentID>
   </Offer>
   <Offer>
     <Name>Chiusura Lampo Marina (ZIP) con Cursore e Terminali – Larghezza 42 mm - 2 metri</Name>
@@ -6713,8 +6729,8 @@
     <Name>Anodo Pinna Martyr Alluminio per Suzuki DT55-65 (Rif. 55125-95301)</Name>
     <Brand>Suzuki</Brand>
     <Description>L&apos; Anodo a Pinna Martyr (Cod. 5170306) è il ricambio specifico per la protezione catodica dei motori fuoribordo Suzuki da 55 e 65 Cavalli (Serie DT) . Questo componente sostituisce fedelmente il codice originale Suzuki 55125-95301 . Realizzato nella speci</Description>
-    <OriginalPrice>17.00</OriginalPrice>
-    <Price>11.30</Price>
+    <OriginalPrice>16.90</OriginalPrice>
+    <Price>11.29</Price>
     <Code>5124009A</Code>
     <Link>https://www.onautica.com/products/anodo-pinna-suzuki-dt55-65-alluminio?variant=52577396883803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -7328,24 +7344,6 @@
     <ParentID>antivegetativa-hm-classic-153-matrice-dura</ParentID>
   </Offer>
   <Offer>
-    <Name>Antivegetativa HM Classic 153 - Matrice Dura - Protezione Stagionale - Bianco / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa HM Classic 153 è una pittura a matrice dura di alta qualità, formulata specificamente per garantire una protezione affidabile durante la stagione estiva. È ideale per imbarcazioni che navigano in aree mediamente aggressive e per scafi ve</Description>
-    <OriginalPrice>79.55</OriginalPrice>
-    <Price>75.77</Price>
-    <Code>65.611.21</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791699803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137063039</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-hm-classic-153-matrice-dura</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antivegetativa HM Classic 153 - Matrice Dura - Protezione Stagionale - Blu / 0,75 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Antivegetativa HM Classic 153 è una pittura a matrice dura di alta qualità, formulata specificamente per garantire una protezione affidabile durante la stagione estiva. È ideale per imbarcazioni che navigano in aree mediamente aggressive e per scafi ve</Description>
@@ -7424,7 +7422,7 @@
     <Price>35.55</Price>
     <Code>10907</Code>
     <Link>https://www.onautica.com/products/antivegetativa-hm-premium-365-matrice-dura?variant=51855507358043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura.png?v=1773341984</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -10184,22 +10182,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
   </Offer>
   <Offer>
-    <Name>Prese e spine in linea &lt; 3A - 2 poli</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le prese e spine in linea fino a 3A in gomma a 2 poli sono componenti elettrici compatti, progettati per garantire connessioni rapide e affidabili a bordo. Grazie alla costruzione in gomma, offrono un&apos;ottima resistenza all&apos;umidità e alle vibrazioni tipich</Description>
-    <OriginalPrice>8.36</OriginalPrice>
-    <Price>5.97</Price>
-    <Code>2105502</Code>
-    <Link>https://www.onautica.com/products/prese-e-spine-in-linea-3a-2-poli?variant=52577479098715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_in_linea_3A_-_2_poli.png?v=1773341788</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062604</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>prese-e-spine-in-linea-3a-2-poli</ParentID>
-  </Offer>
-  <Offer>
     <Name>Protezione Electro Safe per Impianto Elettrico di Bordo – Anti-Sovratensioni e Cortocircuiti</Name>
     <Brand>Motomarine</Brand>
     <Description>PROTEZIONE ELECTRO SAFE La Protezione Electro Safe è un dispositivo pensato per salvaguardare l&apos;impianto elettrico di bordo da sovratensioni, cortocircuiti e interferenze che possono danneggiare strumenti e cablaggi. A chi è rivolto Ideale per armatori e </Description>
@@ -10531,23 +10513,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>0.10</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tromba-bomboletta-gas-horn-ecologico</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tromba Elettrica a Membrana Singola in ABS Cromato – 12V Alta Potenza</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Tromba a Membrana Singola Alta Potenza è un segnalatore acustico elettrico progettato per offrire prestazioni elevate in un design elegante e resistente. Il corpo è realizzato in ABS cromato , garantendo un&apos;ottima resistenza agli agenti marini senza ri</Description>
-    <OriginalPrice>43.89</OriginalPrice>
-    <Price>31.35</Price>
-    <Code>1901010</Code>
-    <Link>https://www.onautica.com/products/tromba-abs-cromato-singola-12v?variant=52577498956123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tromba-abs-cromato-singola-alta-potenza.png?v=1773341852</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022278602320</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tromba-abs-cromato-singola-alta-potenza_misure.png?v=1773341851</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>tromba-abs-cromato-singola-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Tromba Elettrica AA INOX - Compatta in Acciaio Inox</Name>
@@ -11924,22 +11889,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>copriparabordi-neoprene-reversibili-blu-nero</ParentID>
   </Offer>
   <Offer>
-    <Name>Copriparabordi in Neoprene Reversibili Blu/Nero – Spessore 3mm - F2 - Ø 220 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Copriparabordi in Neoprene rappresentano la soluzione premium per proteggere le fiancate della tua imbarcazione e dare un tocco di eleganza ai tuoi parabordi. Realizzati in neoprene a cellule chiuse con uno spessore di 3 mm , offrono una barriera morbid</Description>
-    <OriginalPrice>25.50</OriginalPrice>
-    <Price>15.93</Price>
-    <Code>33.470.02</Code>
-    <Link>https://www.onautica.com/products/copriparabordi-neoprene-reversibili-blu-nero?variant=52516796170587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-f-series-blu-nero.png?v=1773341582</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>210.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>copriparabordi-neoprene-reversibili-blu-nero</ParentID>
-  </Offer>
-  <Offer>
     <Name>Copriparabordi in Neoprene Reversibili Blu/Nero – Spessore 3mm - F3 - Ø 220 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Copriparabordi in Neoprene rappresentano la soluzione premium per proteggere le fiancate della tua imbarcazione e dare un tocco di eleganza ai tuoi parabordi. Realizzati in neoprene a cellule chiuse con uno spessore di 3 mm , offrono una barriera morbid</Description>
@@ -12176,6 +12125,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626169709</EanCode>
     <Weight>0.14</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>copriparabordi-navishell-f-type-blue-navy</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Copriparabordi Navishell F-Type Blue Navy – Tessuto Acrilico UV Resistente - F3 - Ø 21-24 cm.</Name>
+    <Brand>Navishell</Brand>
+    <Description>Proteggi i tuoi parabordi e le fiancate della tua imbarcazione con i Copriparabordi Navishell F-Type nella classica ed elegante colorazione Blue Navy . Realizzati in tessuto marino 100% Acrilico lavorato a maglia, questi rivestimenti offrono prestazioni s</Description>
+    <OriginalPrice>17.26</OriginalPrice>
+    <Price>11.51</Price>
+    <Code>3813003</Code>
+    <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626169747</EanCode>
+    <Weight>170.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-blue-navy</ParentID>
@@ -13234,7 +13201,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>36.57</Price>
     <Code>66.234.00</Code>
     <Link>https://www.onautica.com/products/kit-riparazione-gommoni-sup-tender-per-pvc-con-tessuto?variant=52577381286235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_PVC_per_gommoni_-_tessuto_bianco_PVC.png?v=1773341610</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14865,7 +14832,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>94.43</Price>
     <Code>KIT6/12/50</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -19099,8 +19066,8 @@ L 320mm. - Ø22</Name>
     <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814283</Name>
     <Brand>Evinrude</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Johnson ed Evinrude . Progettate per resistere all&apos;usura e garantire il corretto raffreddamento del motore in ambiente marino. L&apos;assortimento copre una vasta gamma di mode</Description>
-    <OriginalPrice>19.20</OriginalPrice>
-    <Price>12.80</Price>
+    <OriginalPrice>19.05</OriginalPrice>
+    <Price>12.70</Price>
     <Code>1814283</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-johnson-evinrude?variant=52525733708123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -22197,23 +22164,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio.png?v=1764701670</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626049452</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio_b.png?v=1764701670</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Molla a Gas in Acciaio Inox Occhio-Occhio (Ammortizzatore per Portelli) - 30 kg. - L 600 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di molle a gas è realizzata in acciaio inox ed è progettata per sostenere e ammortizzare il peso di portelli, gavoni, cofani motore e coperchi della barca. I terminali sono ad occhio , con un foro di 8 mm per un fissaggio sicuro tramite bullo</Description>
-    <OriginalPrice>43.67</OriginalPrice>
-    <Price>31.19</Price>
-    <Code>38.009.18</Code>
-    <Link>https://www.onautica.com/products/molla-gas-acciaio-inox-occhio-foro8mm?variant=52542752751963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio.png?v=1764701670</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137046636</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio_b.png?v=1764701670</Image2>
     <Condition>nuovo</Condition>
     <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
@@ -25943,7 +25893,7 @@ L 320mm. - Ø22</Name>
     <Price>19.84</Price>
     <Code>5701214</Code>
     <Link>https://www.onautica.com/products/olio-motore-quicksilver-4-tempi-10w30-fuoribordo?variant=52513544241499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-motore-quicksilver-4-tempi-10w30-outboard1lt.png?v=1765699707</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25960,7 +25910,7 @@ L 320mm. - Ø22</Name>
     <Price>59.59</Price>
     <Code>5701254</Code>
     <Link>https://www.onautica.com/products/olio-motore-quicksilver-4-tempi-10w30-fuoribordo?variant=52526584070491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-motore-quicksilver-4-tempi-10w30-outboard1lt.png?v=1765699707</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30377,6 +30327,22 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat-spray-tk-bianco-400ml.png?v=1773341957</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626255532</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gelcoat Spray TK Alta Densità – 400 ml - Bianco Puro</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Gelcoat Spray TK è una vernice tecnica ad alta densità specificamente formulata per il ritocco e il ripristino di superfici in vetroresina rivestite con Gelcoat e resina poliestere. Grazie alla sua formula professionale, permette di intervenire su graf</Description>
+    <OriginalPrice>27.29</OriginalPrice>
+    <Price>19.49</Price>
+    <Code>5724826</Code>
+    <Link>https://www.onautica.com/products/gelcoat-spray-tk-alta-densita-bianco?variant=52525696221531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat-spray-tk-bianco-400ml.png?v=1773341957</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705121278</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
   </Offer>
@@ -37395,6 +37361,44 @@ bocche Ø 14 mm.</Name>
     <ParentID>sacca-per-alloggiamento-tubo-doccia</ParentID>
   </Offer>
   <Offer>
+    <Name>Sacca Porta Salvagente Anulare Bianca in PVC (Ø 680 mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Sacca Porta Salvagente Anulare Bianca (Cod. 3008190) è un accessorio fondamentale per mantenere in perfetto ordine le dotazioni di sicurezza a bordo della tua imbarcazione, proteggendole al contempo dall&apos;usura e dai raggi UV. Realizzata con un robusto </Description>
+    <OriginalPrice>59.70</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>3008190</Code>
+    <Link>https://www.onautica.com/products/sacca-porta-salvagente-anulare-bianca-680mm?variant=52577463828827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmchiuso.webp?v=1774635356</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626196668</EanCode>
+    <Weight>1.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mm.webp?v=1774635356</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-porta-salvagente-anulare-bianca-680mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sacca Porta Salvagente Anulare Blu Navy in PVC (Ø 680 mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Sacca Porta Salvagente Anulare Blu Navy (Cod. 3008192) è un accessorio fondamentale per mantenere in perfetto ordine le dotazioni di sicurezza a bordo, proteggendole al contempo dall&apos;usura, dalla salsedine e dai raggi UV. Realizzata con un robusto tess</Description>
+    <OriginalPrice>59.70</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>3008192</Code>
+    <Link>https://www.onautica.com/products/sacca-porta-salvagente-anulare-blu-navy-680mm?variant=52577463304539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-blu-navy-680mm.webp?v=1774635336</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>04000349</EanCode>
+    <Weight>1100.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmaperto.webp?v=1774634669</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-porta-salvagente-anulare-blu-navy-680mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sacca Portaoggetti Navishell Small (30cm) – Acrilico con Ventose - Sacca Portacime Navishell S Blu</Name>
     <Brand>Navishell</Brand>
     <Description>La Sacca Portaoggetti Navishell Small è l&apos;accessorio indispensabile per mantenere l&apos;ordine in pozzetto, combinando materiali di alta qualità con un sistema di fissaggio versatile. Realizzata in tessuto acrilico idrorepellente (lo stesso utilizzato per i t</Description>
@@ -37500,6 +37504,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>salvagente-ferro-cavallo-approvato-diporto</ParentID>
   </Offer>
   <Offer>
+    <Name>Salvagente Anulare Compatto MED 600 – Omologato Solas</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Salvagente Anulare Compatto MED 600 è un presidio di sicurezza fondamentale, progettato per garantire il massimo livello di affidabilità in mare ottimizzando contemporaneamente gli spazi di stivaggio in coperta. Questo modello è rigorosamente omologato</Description>
+    <OriginalPrice>46.33</OriginalPrice>
+    <Price>33.09</Price>
+    <Code>3008160</Code>
+    <Link>https://www.onautica.com/products/salvagente-anulare-compatto-med-600-solas?variant=52577463468379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-compatto-med-600-solas.webp?v=1773477432</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965093118</EanCode>
+    <Weight>2.60</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>salvagente-anulare-compatto-med-600-solas</ParentID>
+  </Offer>
+  <Offer>
     <Name>Salvagente Baywatch Lifeguard – Salvagente Galleggiante con Cima 2 m e Tracolla</Name>
     <Brand>LALIZAS</Brand>
     <Description>Salvagente galleggiante ispirato ai modelli professionali Baywatch, ideale per chi vuole tenere a bordo un presidio di sicurezza pronto all&apos;uso e facilmente individuabile. Include 2 metri di cima e tracolla per un lancio rapido e un recupero sicuro in cas</Description>
@@ -37515,23 +37536,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Salvagente_Baywatch_lifeguard_1.png?v=1773341741</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-salvagente-baywatch-lifeguard</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scaletta Biscaglina 3 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
-    <Brand>Osculati</Brand>
-    <Description>La scaletta biscaglina a 3 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in modo sicuro. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato, garantisce robustezza, leggerezza e ottima re</Description>
-    <OriginalPrice>18.16</OriginalPrice>
-    <Price>12.97</Price>
-    <Code>49.524.03</Code>
-    <Link>https://www.onautica.com/products/scaletta-3-gradini-biscaglina-eco?variant=52577485160795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_3_gradini_biscaglina_eco.png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626020819</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_3_gradini_biscaglina_eco_1.png?v=1773341808</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scaletta-3-gradini-biscaglina-eco</ParentID>
   </Offer>
   <Offer>
     <Name>Scaletta Biscaglina 4 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
@@ -38115,8 +38119,8 @@ bocche Ø 14 mm.</Name>
     <Name>Serbatoio 55 lt. flessibili acqua potabile triangolari lt. 55</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoio flessibile per acqua potabile dalla forma triangolare, ideale per sfruttare al meglio gli spazi irregolari a bordo. Realizzato in tessuto gommato rinforzato, garantisce resistenza e durata nel tempo. Completo di boccaporto con raccordi girevoli </Description>
-    <OriginalPrice>163.26</OriginalPrice>
-    <Price>112.59</Price>
+    <OriginalPrice>163.24</OriginalPrice>
+    <Price>112.58</Price>
     <Code>1523405</Code>
     <Link>https://www.onautica.com/products/offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55?variant=52577463959899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -41157,21 +41161,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Tabacco / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <Price>11.44</Price>
-    <Code>LEG060/0750TAB</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464596315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Palissandro / 0,75 L</Name>
     <Brand>Sivac</Brand>
     <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
@@ -41321,6 +41310,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>15.51</OriginalPrice>
+    <Price>11.08</Price>
+    <Code>74010075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464923995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115716</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 2,50 L</Name>
     <Brand>Sivac</Brand>
     <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
@@ -41328,7 +41334,7 @@ bocche Ø 14 mm.</Name>
     <Price>33.94</Price>
     <Code>LEG060/025TRASP</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464956763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -41350,6 +41356,40 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8022627115945</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>47.52</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465022299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115952</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>15.51</OriginalPrice>
+    <Price>11.08</Price>
+    <Code>74067075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465055067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115884</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
     <Condition>nuovo</Condition>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
@@ -42154,8 +42194,8 @@ bocche Ø 14 mm.</Name>
     <Name>Posacenere Inox Blu Ø 106 mm – Posacenere da Bordo con Fondo Zavorrato e Portasigarette</Name>
     <Brand>Osculati</Brand>
     <Description>Posacenere i n acciaio inox . Ha il fondo con piombini per ottenere la massima stabilità. Di aspetto molto gradevole e di elegante disegno, con porta sigarette. Colore Ø mm blu 106 Caratteristiche principali Realizzato in acciaio inox resistente alla corr</Description>
-    <OriginalPrice>17.00</OriginalPrice>
-    <Price>9.44</Price>
+    <OriginalPrice>17.30</OriginalPrice>
+    <Price>9.62</Price>
     <Code>32.507.00BL</Code>
     <Link>https://www.onautica.com/products/posacenere-acciaio-inox-blu?variant=52577369817435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42183,6 +42223,24 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-barra-fuoribordo-telescopica-stopmontaggio.png?v=1773341593</Image2>
     <Condition>nuovo</Condition>
     <ParentID>prolunga-barra-fuoribordo-telescopica-stop</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Radio Stereo Marino Boss MR632UAB Bluetooth / USB / SD – Frontalino Estraibile</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Boss Marine MR632UAB è uno stereo marino affidabile e funzionale, progettato per chi desidera un sistema audio completo senza l&apos;ingombro del lettore CD (meccanica &quot;deckless&quot;). Questo design permette una profondità ridotta (solo 97 mm), facilitando l&apos;in</Description>
+    <OriginalPrice>239.18</OriginalPrice>
+    <Price>119.59</Price>
+    <Code>10793</Code>
+    <Link>https://www.onautica.com/products/radio-stereo-boss-mr632uab-bluetooth?variant=52577521008987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/radio-stereo-boss-mr632uab-bluetooth.png?v=1773341912</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>791489124300</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/radio-stereo-boss-mr632uab-bluetooth_frontalino.png?v=1773341913</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/radio-stereo-boss-mr632uab-bluetooth_telecomando.png?v=1773341914</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>radio-stereo-boss-mr632uab-bluetooth</ParentID>
   </Offer>
   <Offer>
     <Name>Radio Stereo Marino Boss MR762BRGB CD/USB/SD/Bluetooth con Illuminazione RGB</Name>
@@ -42480,6 +42538,22 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8022627091751</EanCode>
     <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>34.40</OriginalPrice>
+    <Price>17.22</Price>
+    <Code>947202175</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025408347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627091706</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
   </Offer>
