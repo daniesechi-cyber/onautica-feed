@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-22T06:30:59.113Z -->
-<!-- Offerte: 2777 -->
+<!-- Generato: 2026-06-22T10:31:10.892Z -->
+<!-- Offerte: 2776 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -11543,6 +11543,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-excelsior-doppia-treccia-poliestere-blu-navy-redancia-inox.webp?v=1776250195</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>2.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cima-ormeggio-excelsior-doppia-treccia-poliestere-blu-navy</ParentID>
   </Offer>
@@ -20920,6 +20921,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/72067-68.png?v=1773341725</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>5204980720674</EanCode>
+    <Weight>400.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/71077.png?v=1773341725</Image2>
     <Condition>nuovo</Condition>
     <ParentID>giubbotto-salvagente-lalizas-100n-mutandina</ParentID>
@@ -23838,6 +23840,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12v.webp?v=1773341577</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137052583</EanCode>
+    <Weight>2.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vmisure.webp?v=1773341578</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vscatola.webp?v=1773341579</Image3>
     <Condition>nuovo</Condition>
@@ -25690,7 +25693,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-spring.png?v=1773341729</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033537065774</EanCode>
-    <Weight>930.00</Weight>
+    <Weight>0.93</Weight>
     <Condition>nuovo</Condition>
     <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
   </Offer>
@@ -27512,6 +27515,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-estrazione-olio-bg-siringa.png?v=1765712042</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626007438</EanCode>
+    <Weight>1.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompa-estrazione-olio-bg-ottone-siringa</ParentID>
   </Offer>
@@ -44761,101 +44765,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>tk-color-antiruggine-grigio-vernice-spray-motore-marino</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Metal Silver</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710059</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52513581072731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 71/80</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710055</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151244635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120370</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 81/83</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710056</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151277403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120387</EanCode>
-    <Weight>500.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue 69/82</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>11001</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151310171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120424</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue XP</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710063</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Grey</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>23.75</OriginalPrice>
-    <Price>14.84</Price>
-    <Code>5710058</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151375707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151292</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
     <Brand>TKline Professional</Brand>
     <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
@@ -46293,22 +46202,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Bianco RAL 9010</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>14.11</OriginalPrice>
-    <Price>10.08</Price>
-    <Code>52.570.01</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563030363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200844</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Blu RAL 5005</Name>
     <Brand>Osculati</Brand>
     <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
@@ -46468,6 +46361,101 @@ bocche Ø 14 mm.</Name>
     <EanCode>8052705120561</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Metal Silver</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710059</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52513581072731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 71/80</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710055</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151244635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120370</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 81/83</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710056</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151277403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120387</EanCode>
+    <Weight>500.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue 69/82</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>11001</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151310171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120424</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue XP</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710063</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Grey</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710058</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151375707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151292</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Mariner – Colori Originali - Light Grey - Grigio Chiaro</Name>
