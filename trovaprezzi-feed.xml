@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-23T14:30:59.680Z -->
+<!-- Generato: 2026-06-23T18:11:00.962Z -->
 <!-- Offerte: 2779 -->
 <Products>
   <Offer>
@@ -3601,7 +3601,7 @@
     <Price>6.35</Price>
     <Code>2805049</Code>
     <Link>https://www.onautica.com/products/rullo-centrale-l-130-mm-o-80-mm-foro-o-16-mm?variant=52577483850075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_centrale_L_130_mm._80_mm._foro_16_mm..png?v=1773341803</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -10786,7 +10786,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>elastici-con-pallina-50cm</ParentID>
   </Offer>
   <Offer>
-    <Name>Borsa con dotazioni entro le 6 miglia per 6 persone</Name>
+    <Name>Borsa con dotazioni entro le 6 miglia per 6 persone - Borsa piena con dotazioni</Name>
     <Brand>Motomarine</Brand>
     <Description>Borsa con dotazioni di sicurezza per 6 persone entro le 6 miglia dalla costa. Comprende: 6 cinture di salvataggio da 100N 1 ancora da 2,5 1 cima ancora 30 mt. 1 cima salvagente 30 mt 1 bandiera italiana 1 gancio d&apos;accosto 1 sessola 1 estintore 1 avvisator</Description>
     <OriginalPrice>353.71</OriginalPrice>
@@ -10798,6 +10798,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3030613_9f2fb216-1357-4e7e-b685-afbdac8470be.png?v=1773341924</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>8033626086389</EanCode>
+    <Weight>0.60</Weight>
     <Condition>nuovo</Condition>
     <ParentID>offerta-borsa-dotazioni-entro-6-miglia-per-6-persone</ParentID>
   </Offer>
@@ -26466,7 +26467,7 @@ L 320mm. - Ø22</Name>
     <Price>27.36</Price>
     <Code>33.212.11</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459034459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -39348,7 +39349,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.86</Price>
     <Code>3191052</Code>
     <Link>https://www.onautica.com/products/aghi-riparazione-vele-5-pz-1?variant=52577507541339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Vela;Accessori Vela</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/aghi2.png?v=1773341876</Image>
     <ShippingCost>5.90</ShippingCost>
