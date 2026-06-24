@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-24T10:30:58.373Z -->
-<!-- Offerte: 2773 -->
+<!-- Generato: 2026-06-24T14:31:00.065Z -->
+<!-- Offerte: 2771 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1817,23 +1817,6 @@
     <EanCode>8057685136274</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>filtro-sfiato-acque-nere-carbone-attivo-wc-can-grigie</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtro Sfiato WC a Carboni Attivi 16/19 mm – Filtro Antiodore per Acque Nere di Bordo</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Filtro sfiato a carboni attivi per serbatoi acque nere, progettato per intercettare ed eliminare efficacemente i cattivi odori provenienti dall&apos;impianto WC di bordo. Compatibile con raccordi da 16/19 mm . Caratteristiche principali Filtro a carboni attivi</Description>
-    <OriginalPrice>44.65</OriginalPrice>
-    <Price>31.89</Price>
-    <Code>1321302</Code>
-    <Link>https://www.onautica.com/products/filtro-sfiato-wc-acque-nere-wc?variant=52577438531931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_sfiato_WC_acque_nere_WC.png?v=1773341661</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051588000069</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_sfiato_WC_acque_nere_WC_1.png?v=1773341661</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>filtro-sfiato-wc-acque-nere-wc</ParentID>
   </Offer>
   <Offer>
     <Name>Fune di Sicurezza a Strappo per Carrelli Rimorchio – Ø 3mm x 95cm</Name>
@@ -37115,21 +37098,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulsante-piede-quick-serie-900-bianco_misure.png?v=1773341649</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pulsante-piede-quick-serie-900-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Raccordo Portagomma a Gomito 90° Ø 38 mm – Filetto 1&quot; 1/2</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bocchettone a Gomito Ø 38 mm (Cod. 1531213) è la soluzione ideale per connettere le tubazioni ai serbatoi quando lo spazio è limitato o quando il tubo deve effettuare una curva stretta subito dopo l&apos;uscita. La sua conformazione angolata a 90° evita che</Description>
-    <OriginalPrice>21.30</OriginalPrice>
-    <Price>14.22</Price>
-    <Code>1531213</Code>
-    <Link>https://www.onautica.com/products/raccordo-portagomma-gomito-38mm-filetto-1-1-2?variant=52577407926619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/raccordo-portagomma-gomito-38mm-filetto-1-mezzo.webp?v=1773341599</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>raccordo-portagomma-gomito-38mm-filetto-1-1-2</ParentID>
   </Offer>
   <Offer>
     <Name>Raccordo Portagomma Diritto Ø 38 mm – Filetto 1&quot; 1/2 per Serbatoi</Name>
