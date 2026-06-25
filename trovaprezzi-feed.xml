@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-25T06:31:00.088Z -->
-<!-- Offerte: 2798 -->
+<!-- Generato: 2026-06-25T10:31:12.222Z -->
+<!-- Offerte: 2797 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -16322,22 +16322,6 @@ L 320mm. - Ø22</Name>
     <ParentID>lucchetto-hardinox-arco-standard-acciaio-inox-specchio-nautica</ParentID>
   </Offer>
   <Offer>
-    <Name>Manica a vento autoportante per oblò 30/40 cm. laterale Wind scoop</Name>
-    <Brand>Osculati</Brand>
-    <Description>Manica a vento autoportante per oblò 30/40 cm. laterale Wind scoop Caratteristiche principali Design autoportante: si installa senza supporti aggiuntivi, direttamente sull&apos;oblò Compatibile con oblò laterali da 30 a 40 cm Cattura e convoglia l&apos;aria esterna</Description>
-    <OriginalPrice>41.30</OriginalPrice>
-    <Price>29.50</Price>
-    <Code>10475</Code>
-    <Link>https://www.onautica.com/products/manica-a-vento-autoportante-per-oblo-30-40-cm-laterale-wind-scoop?variant=52577449181531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manica_a_vento_autoportante_per_obl_30_40_cm._laterale_Wind_scoop.png?v=1773341698</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>00020240175417</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>manica-a-vento-autoportante-per-oblo-30-40-cm-laterale-wind-scoop</ParentID>
-  </Offer>
-  <Offer>
     <Name>Maniche a vento high profile Ø 70 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Manica a vento ad alta profilo in PVC flessibile , progettata per garantire un&apos;efficace ventilazione degli ambienti di bordo. Dotata di collo da Ø 70 mm , viene fornita completa di base e tappo filettato per una facile installazione e chiusura quando non </Description>
@@ -17274,7 +17258,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Supporto portacanne orientabile plastica nero</Name>
     <Brand>Motomarine</Brand>
-    <Description>Supporto portacanne orientabile in plastica con tre basi d&apos;attacco: base per attacco verticale e laterale base a incasso morsetto per attacco su tubo lunghezza 250 mm. interno Ø 45 mm. colore nero Caratteristiche principali Testa orientabile per regolare </Description>
+    <Description>Supporto portacanne orientabile in plastica con tre basi d&apos;attacco: base per attacco verticale e laterale base a incasso morsetto per attacco su tubo lunghezza�� 250 mm. interno Ø 45 mm. colore nero Caratteristiche principali Testa orientabile per regolar</Description>
     <OriginalPrice>33.35</OriginalPrice>
     <Price>23.82</Price>
     <Code>0800083</Code>
@@ -37454,6 +37438,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/raccordo-portagomma-38mm-filetto-1-mezzo.webp?v=1773341600</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626044518</EanCode>
+    <Weight>200.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>raccordo-portagomma-38mm-filetto-1-1-2</ParentID>
   </Offer>
