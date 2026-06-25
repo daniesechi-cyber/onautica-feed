@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-25T14:30:56.089Z -->
-<!-- Offerte: 2797 -->
+<!-- Generato: 2026-06-25T18:10:54.469Z -->
+<!-- Offerte: 2799 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -882,7 +882,7 @@
     <Price>6.55</Price>
     <Code>3230601</Code>
     <Link>https://www.onautica.com/products/basetta-piana-bps-inox-aisi-316-perno-sfilabile?variant=52577418969435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basetta-piana-bps-inox-aisi-316-perno-sfilabile.webp?v=1775237304</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -2491,6 +2491,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilli_zincati.png?v=1764257607</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-d-diritto-zincato-a-spessore-serie</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Grillo diritto in inox senza testa per ancore, acciaio marino resistente - Ø 10 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Grillo diritto in acciaio inox AISI 316 A4 senza testa, ideale per impieghi nautici come giunzione affidabile tra catena e ancora. La configurazione senza testa assicura uno scorrimento fluido all’interno del musone di prua, riducendo il rischio di incepp</Description>
+    <OriginalPrice>27.23</OriginalPrice>
+    <Price>20.17</Price>
+    <Code>0122710</Code>
+    <Link>https://www.onautica.com/products/grillo-diritto-inox-senza-testa?variant=52513532051803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore.png?v=1773341959</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626004598</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore_2.png?v=1773341678</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore_3.png?v=1773341679</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>grillo-diritto-inox-senza-testa</ParentID>
   </Offer>
   <Offer>
     <Name>Grillo diritto in inox senza testa per ancore, acciaio marino resistente - Ø 12 mm.</Name>
@@ -13252,8 +13270,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Kit di sopravvivenza in accordo con D.M. 17/09/2024</Name>
     <Brand>Osculati</Brand>
     <Description>Questo kit di sopravvivenza è realizzato per le unità pneumatiche (gommoni) ad uso privato munite di marchiatura CE e conformi agli standard UNI EN ISO 6185 parti 3/4. È un accessorio fondamentale per la sicurezza, valido solo per l&apos;Italia e in accordo al</Description>
-    <OriginalPrice>242.20</OriginalPrice>
-    <Price>161.44</Price>
+    <OriginalPrice>243.70</OriginalPrice>
+    <Price>162.48</Price>
     <Code>22.705.00</Code>
     <Link>https://www.onautica.com/products/kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia?variant=52577528512859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -16167,6 +16185,23 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grillo-a-cetra-nautico-acciaio-inox-aisi-316_misura.webp?v=1774377225</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-a-cetra-nautico-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Grillo diritto acciaio inox AISI 316 per applicazioni nautiche e fissaggi resistenti - Ø 8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Affidabilità, resistenza e precisione: questo grillo a “D” in acciaio inox è progettato per garantire collegamenti sicuri in ambito nautico, ancoraggio e rigging, offrendo performance costanti anche in ambienti marini aggressivi. Costruzione premium per u</Description>
+    <OriginalPrice>24.66</OriginalPrice>
+    <Price>18.27</Price>
+    <Code>M8258-4-8</Code>
+    <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601205595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8013429521027</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>grillo-diritto-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
     <Name>Grillo diritto acciaio inox AISI 316 per applicazioni nautiche e fissaggi resistenti - Ø 14 mm.</Name>
@@ -26858,14 +26893,14 @@ L 320mm. - Ø22</Name>
     <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA1 - Ø 29 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordo Sferico Heavy Duty in PVC – Corpo Bianco Testa Blu per Protezione Fiancate e Boa da Ormeggio Il parabordo sferico Heavy Duty in PVC morbido di alta qualità è la soluzione di protezione superiore per chi non scende a compromessi sulla sicurezza d</Description>
-    <OriginalPrice>32.38</OriginalPrice>
-    <Price>20.24</Price>
+    <OriginalPrice>323.79</OriginalPrice>
+    <Price>202.37</Price>
     <Code>33.300.12</Code>
     <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52513546273115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misure.webp?v=1776246779</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <EanCode>8033137194450</EanCode>
     <Weight>1.24</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
@@ -42287,7 +42322,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.97</Price>
     <Code>10353</Code>
     <Link>https://www.onautica.com/products/portachiavi-mini-giallo?variant=52577475133787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_mini_giallo.png?v=1773341775</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -42985,8 +43020,8 @@ bocche Ø 14 mm.</Name>
     <Name>Smalto Elastico VENEZIANI Gummipaint – Finitura per Gommoni (Cod. 6715) - Bianco</Name>
     <Brand>Veneziani</Brand>
     <Description>La Finitura Elastica VENEZIANI Gummipaint (Cod. 6715) è uno smalto monocomponente formulato specificamente per il restauro e la verniciatura dei tubolari dei gommoni. È la soluzione ideale per rinnovare l&apos;estetica di battelli pneumatici invecchiati o scol</Description>
-    <OriginalPrice>68.89</OriginalPrice>
-    <Price>49.21</Price>
+    <OriginalPrice>68.88</OriginalPrice>
+    <Price>49.20</Price>
     <Code>65.009.01BI</Code>
     <Link>https://www.onautica.com/products/smalto-elastico-veneziani-gummipaint-finitura?variant=52514361639259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
