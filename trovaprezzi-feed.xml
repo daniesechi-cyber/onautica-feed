@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-24T18:10:58.084Z -->
-<!-- Offerte: 2769 -->
+<!-- Generato: 2026-06-25T06:31:00.088Z -->
+<!-- Offerte: 2798 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -66,6 +66,24 @@
     <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Bruce - 7.5</Name>
+    <Brand>Bruce</Brand>
+    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
+    <OriginalPrice>58.90</OriginalPrice>
+    <Price>45.31</Price>
+    <Code>0107507</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376829787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>7.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
@@ -2407,6 +2425,24 @@
     <ParentID>giunto-ancora-trimfix-per-catena-10-12-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto per ancora lungo girevole per catena Ø 6/8 mm. Trimfix</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il giunto girevole lungo &quot;TrimFix&quot; è un accessorio di alta gamma, progettato per perfezionare le operazioni di ancoraggio. La sua funzione principale è duplice: in primo luogo, evita che la catena si attorcigli su se stessa durante il recupero; in secondo</Description>
+    <OriginalPrice>68.68</OriginalPrice>
+    <Price>48.03</Price>
+    <Code>0133438</Code>
+    <Link>https://www.onautica.com/products/giunto-ancora-trimfix-per-catena-6-8-mm?variant=52577440432475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_Trimfix_per_catena_6_8_mm..png?v=1773341666</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626005120</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_Trimfix_per_catena_6_8_mm._1.png?v=1773341667</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_Trimfix_per_catena_6_8_mm._3.png?v=1773341668</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-ancora-trimfix-per-catena-6-8-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto per ancora trefoil 20 kg. girevole per catena Ø 6/8 mm.</Name>
     <Brand>Trefoil</Brand>
     <Description>Questo giunto girevole è la soluzione ingegneristica progettata specificamente per le ancore di tipo Trefoil fino a 20 kg . Il suo design senza sporgenze è studiato per collegare la catena all&apos;ancora in modo fluido e sicuro, eliminando il classico problem</Description>
@@ -3792,6 +3828,22 @@
     <ParentID>ruote-per-carrelli-alaggio-o-di-poppa-o-360-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Ruote per carrelli uso sabbia Ø 390 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste ruote di grande diametro sono la soluzione definitiva per movimentare carrelli da alaggio, derive o piccole imbarcazioni su terreni difficili come la sabbia soffice. Grazie alla loro ampia superficie di appoggio, &quot;galleggiano&quot; sulla sabbia anziché </Description>
+    <OriginalPrice>93.45</OriginalPrice>
+    <Price>66.75</Price>
+    <Code>2805067</Code>
+    <Link>https://www.onautica.com/products/ruote-per-carrelli-uso-sabbia-o-390-mm?variant=52577484964187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruote_per_carrelli_uso_sabbia_390_mm..png?v=1773341807</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626078612</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>ruote-per-carrelli-uso-sabbia-o-390-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ruotini Save-Sail Protezione Vele – Per Sartie Ø 5-10 mm</Name>
     <Brand>Motomarine</Brand>
     <Description>I Ruotini Save-Sail sono un accessorio indispensabile per preservare la durata delle vele di prua (genoa, fiocco) e garantire manovre più fluide. Applicati direttamente sul sartiame o sulle draglie, questi dischi rotanti agiscono come distanziatori e rull</Description>
@@ -4266,6 +4318,25 @@
     <Size>44</Size>
   </Offer>
   <Offer>
+    <Name>Sedute e Coperchi di Ricambio per WC Marini (Manuali ed Elettrici) - Compact in ABS</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di sedute e coperchi è la soluzione ideale per sostituire o migliorare la toilette a bordo. I modelli sono compatibili con la maggior parte dei WC marini manuali ed elettrici e offrono diverse opzioni di materiale e comfort. Caratteristiche P</Description>
+    <OriginalPrice>54.59</OriginalPrice>
+    <Price>38.99</Price>
+    <Code>1320031</Code>
+    <Link>https://www.onautica.com/products/sedute-coperchi-wc-marini-ricambio-softclose?variant=52543900647771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SedutaABSRM69_e9de8d61-30e1-4c1d-88db-4620498a8c56.png?v=1764179120</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626033376</EanCode>
+    <Weight>1.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SedutaComfortinABSb.png?v=1764179119</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SedutaComfortinABS.png?v=1764179119</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sedute-coperchi-wc-marini-ricambio-softclose</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sedute e Coperchi di Ricambio per WC Marini (Manuali ed Elettrici) - Comfort ABS Soft Close</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di sedute e coperchi è la soluzione ideale per sostituire o migliorare la toilette a bordo. I modelli sono compatibili con la maggior parte dei WC marini manuali ed elettrici e offrono diverse opzioni di materiale e comfort. Caratteristiche P</Description>
@@ -4527,22 +4598,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/snodo-inox-aisi-316-capottine-tendalinimontato.webp?v=1775235390</Image3>
     <Condition>nuovo</Condition>
     <ParentID>snodo-inox-aisi-316-capottine-tendalini</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spina a 13 Poli per Rimorchi in ABS Nero con Particolari in Ottone Cromato ISO 11446</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spina a 13 Poli per Rimorchi – Corpo in ABS Nero con Particolari in Ottone Cromato, Norma ISO 11446 La spina a 13 poli per rimorchi in ABS nero è il componente regolamentare per il collegamento elettrico tra il veicolo trainante e il rimorchio porta barch</Description>
-    <OriginalPrice>8.96</OriginalPrice>
-    <Price>6.40</Price>
-    <Code>14.191.02</Code>
-    <Link>https://www.onautica.com/products/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446?variant=52577488175451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446.webp?v=1776327988</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022965051127</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446</ParentID>
   </Offer>
   <Offer>
     <Name>Staffa Bloccaggio per Tubo Rulli Laterali Carrelli - 40x40 mm. / 70x70 mm</Name>
@@ -5500,21 +5555,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>tessuto-h-145-cm-bianco-per-gommoni-riparazione-denari-990</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tessuto H 145 cm. grigio RAL 7046 per gommoni riparazione - denari 1100</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tessuto in neoprene Orca R Pennel &amp; Flipo per produzione e riparazione gommoni. Altezza delle bobine 145 cm. Modello Denari Colore 828 - 1340 GSM 1100 Neptune Grey RAL 7042 Caratteristiche principali Colore grigio RAL 7046, tonalità scura e neutra che si </Description>
-    <OriginalPrice>423.29</OriginalPrice>
-    <Price>204.49</Price>
-    <Code>66.247.00</Code>
-    <Link>https://www.onautica.com/products/tessuto-h-145-cm-grigio-ral-7046-per-gommoni-riparazione-denari-1100?variant=52577541488987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tessuttogommoni.png?v=1773341988</Image>
-    <ShippingCost>0</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>tessuto-h-145-cm-grigio-ral-7046-per-gommoni-riparazione-denari-1100</ParentID>
   </Offer>
   <Offer>
     <Name>Tessuto Nautico Marinplast Top Blu Chiaro – Tessuto Tecnico PVC per Coperture Marine</Name>
@@ -6723,22 +6763,6 @@
     <ParentID>anodo-pinna-suzuki-dt-df-20-30-alluminio</ParentID>
   </Offer>
   <Offer>
-    <Name>Anodo Pinna Martyr Alluminio per Suzuki DT55-65 (Rif. 55125-95301)</Name>
-    <Brand>Suzuki</Brand>
-    <Description>L&apos; Anodo a Pinna Martyr (Cod. 5170306) è il ricambio specifico per la protezione catodica dei motori fuoribordo Suzuki da 55 e 65 Cavalli (Serie DT) . Questo componente sostituisce fedelmente il codice originale Suzuki 55125-95301 . Realizzato nella speci</Description>
-    <OriginalPrice>16.90</OriginalPrice>
-    <Price>11.29</Price>
-    <Code>5124009A</Code>
-    <Link>https://www.onautica.com/products/anodo-pinna-suzuki-dt55-65-alluminio?variant=52577396883803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-suzuki-dt55-65-alluminio.webp?v=1773341573</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>1957000020363</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-pinna-suzuki-dt55-65-alluminio</ParentID>
-  </Offer>
-  <Offer>
     <Name>Anodo pinna Suzuki 70 HP 55125-87E01/BRP - OMC/Johnson Evinrude 70HP 4T</Name>
     <Brand>Evinrude</Brand>
     <Description>Anodo per: Suzuki Pinna 70 HP 55125-87E01/BRP OMC/Johnson Evinrude fino a 70HP 4T LB KG OD H ID Zinco mm 73 66 9 0.54 0.25 in 2.9 2.6 0.33 Caratteristiche principali Compatibilità doppia: adatto sia per motori Suzuki 70 HP (rif. 55125-87E01) che per BRP O</Description>
@@ -7013,6 +7037,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-cupron-3-0.png?v=1773342084</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099724886</EanCode>
     <Weight>4.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
@@ -7030,23 +7055,8 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-cupron-3-0.png?v=1773342084</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099724916</EanCode>
     <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-cupron-3-0</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Ablativa Veneziani Cupron 3.0 – Fino a 25 Nodi - Bianca / 2,5 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Cupron 3.0 (Cod. 6369) è una vernice ablativa di ultima generazione, formulata per offrire una protezione stagionale affidabile e versatile. Grazie al suo meccanismo a matrice solubile, si rinnova costantemente con l&apos;attrito de</Description>
-    <OriginalPrice>122.00</OriginalPrice>
-    <Price>81.30</Price>
-    <Code>65.006.12</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-cupron-3-0?variant=51581778755931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-cupron-3-0.png?v=1773342084</Image>
-    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-cupron-3-0</ParentID>
@@ -7063,6 +7073,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062933</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7080,6 +7091,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137224287</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7097,6 +7109,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062964</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7114,6 +7127,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062926</EanCode>
     <Weight>1.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
@@ -7132,6 +7146,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137224270</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7149,6 +7164,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062957</EanCode>
     <Weight>4.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
@@ -7185,6 +7201,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062995</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7202,6 +7219,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137063176</EanCode>
     <Weight>4.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
@@ -7220,6 +7238,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062988</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7237,6 +7256,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137063169</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7254,6 +7274,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137062971</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7305,6 +7326,25 @@
     <ParentID>antivegetativa-autolevigante-stagionale-30-nodi</ParentID>
   </Offer>
   <Offer>
+    <Name>Antivegetativa HM Classic 153 - Matrice Dura - Protezione Stagionale - Bianco / 0,75 lt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Antivegetativa HM Classic 153 è una pittura a matrice dura di alta qualità, formulata specificamente per garantire una protezione affidabile durante la stagione estiva. È ideale per imbarcazioni che navigano in aree mediamente aggressive e per scafi ve</Description>
+    <OriginalPrice>28.45</OriginalPrice>
+    <Price>27.12</Price>
+    <Code>65.611.11</Code>
+    <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791732571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137063008</EanCode>
+    <Weight>1.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antivegetativa-hm-classic-153-matrice-dura</ParentID>
+  </Offer>
+  <Offer>
     <Name>Antivegetativa HM Classic 153 - Matrice Dura - Protezione Stagionale - Blu / 0,75 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Antivegetativa HM Classic 153 è una pittura a matrice dura di alta qualità, formulata specificamente per garantire una protezione affidabile durante la stagione estiva. È ideale per imbarcazioni che navigano in aree mediamente aggressive e per scafi ve</Description>
@@ -7312,11 +7352,30 @@
     <Price>27.12</Price>
     <Code>65.611.12</Code>
     <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791830875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137063015</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antivegetativa-hm-classic-153-matrice-dura</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antivegetativa HM Classic 153 - Matrice Dura - Protezione Stagionale - Blu / 2,5 lt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Antivegetativa HM Classic 153 è una pittura a matrice dura di alta qualità, formulata specificamente per garantire una protezione affidabile durante la stagione estiva. È ideale per imbarcazioni che navigano in aree mediamente aggressive e per scafi ve</Description>
+    <OriginalPrice>80.90</OriginalPrice>
+    <Price>73.57</Price>
+    <Code>65.611.22</Code>
+    <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791765339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8009064151675</EanCode>
+    <Weight>4.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7334,6 +7393,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137224294</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7370,6 +7430,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137224300</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura_2.5.png?v=1773341462</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7423,6 +7484,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura.png?v=1773341984</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137063084</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura_2.5.png?v=1773341467</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7459,24 +7521,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura.png?v=1773341984</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137063091</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura_2.5.png?v=1773341467</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-hm-premium-365-matrice-dura</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa HM Premium 365 Matrice Dura – Barche Veloci (&gt;25 Nodi) - Nero / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa HM Premium 365 è la scelta professionale per chi possiede imbarcazioni a motore o a vela che superano i 25 nodi di velocità. Grazie alla sua formula a matrice dura , crea una superficie estremamente liscia e resistente che non si sfalda </Description>
-    <OriginalPrice>107.07</OriginalPrice>
-    <Price>101.97</Price>
-    <Code>10905</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-hm-premium-365-matrice-dura?variant=51855507521883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura.png?v=1773341984</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137063121</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura_2.5.png?v=1773341467</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
     <Condition>nuovo</Condition>
@@ -7524,22 +7568,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Matrice Dura Veneziani Eurosprint NEXT – Alte Velocità - Rosso / 2,5 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Eurosprint Next (Cod. 6425) è una vernice a matrice dura di altissima qualità, formulata con un elevato contenuto di rame per garantire una protezione eccellente e di lunga durata. È la soluzione definitiva contro il fouling (d</Description>
-    <OriginalPrice>204.20</OriginalPrice>
-    <Price>127.64</Price>
-    <Code>65.002.20</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744644443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099723452</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
@@ -7556,57 +7585,8 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099723513</EanCode>
     <Weight>1.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Matrice Dura Veneziani Eurosprint NEXT – Alte Velocità - Nero / 2,5 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Eurosprint Next (Cod. 6425) è una vernice a matrice dura di altissima qualità, formulata con un elevato contenuto di rame per garantire una protezione eccellente e di lunga durata. È la soluzione definitiva contro il fouling (d</Description>
-    <OriginalPrice>223.70</OriginalPrice>
-    <Price>139.80</Price>
-    <Code>65.002.22</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744709979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Matrice Dura Veneziani Eurosprint NEXT – Alte Velocità - Blu / 0,75 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Eurosprint Next (Cod. 6425) è una vernice a matrice dura di altissima qualità, formulata con un elevato contenuto di rame per garantire una protezione eccellente e di lunga durata. È la soluzione definitiva contro il fouling (d</Description>
-    <OriginalPrice>70.60</OriginalPrice>
-    <Price>44.12</Price>
-    <Code>65.002.11</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744808283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa Matrice Dura Veneziani Eurosprint NEXT – Alte Velocità - Blu / 2,5 lt.</Name>
-    <Brand>Veneziani</Brand>
-    <Description>L&apos; Antivegetativa Veneziani Eurosprint Next (Cod. 6425) è una vernice a matrice dura di altissima qualità, formulata con un elevato contenuto di rame per garantire una protezione eccellente e di lunga durata. È la soluzione definitiva contro il fouling (d</Description>
-    <OriginalPrice>223.70</OriginalPrice>
-    <Price>139.80</Price>
-    <Code>65.002.21</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-veneziani-eurosprint-next?variant=51581744775515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.32</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
@@ -7623,6 +7603,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-veneziani-eurosprint-next.png?v=1773342025</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099723438</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-eurosprint-next</ParentID>
@@ -7639,6 +7620,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-idrofila-veneziani-raffaello-next.webp?v=1773341516</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099723810</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-raffaello-idrofila</ParentID>
@@ -7655,6 +7637,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-idrofila-veneziani-raffaello-next.webp?v=1773341516</Image>
     <ShippingCost>0</ShippingCost>
+    <EanCode>8014099723827</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-raffaello-idrofila</ParentID>
@@ -7671,6 +7654,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-idrofila-veneziani-raffaello-next.webp?v=1773341516</Image>
     <ShippingCost>0</ShippingCost>
+    <EanCode>8014099723780</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-raffaello-idrofila</ParentID>
@@ -7687,6 +7671,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-idrofila-veneziani-raffaello-next.webp?v=1773341516</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099723735</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-raffaello-idrofila</ParentID>
@@ -7703,6 +7688,7 @@
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-idrofila-veneziani-raffaello-next.webp?v=1773341516</Image>
     <ShippingCost>0</ShippingCost>
+    <EanCode>8014099723742</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>antivegetativa-veneziani-raffaello-idrofila</ParentID>
@@ -8561,6 +8547,41 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>50.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bussola-da-rilevamento-tascabile-nera</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Bianco</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
+    <OriginalPrice>125.92</OriginalPrice>
+    <Price>104.93</Price>
+    <Code>2501008</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52513490960731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Nero</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
+    <OriginalPrice>125.92</OriginalPrice>
+    <Price>104.93</Price>
+    <Code>62.00114.01</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52520337080667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626076861</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
   </Offer>
   <Offer>
     <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Nero</Name>
@@ -9528,6 +9549,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
   </Offer>
   <Offer>
+    <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 60</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
+    <OriginalPrice>30.51</OriginalPrice>
+    <Price>21.79</Price>
+    <Code>2100975</Code>
+    <Link>https://www.onautica.com/products/interruttore-magnetotermico-hi-amp-superficie-ip67-nautica?variant=52887875387739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/interruttore-magnetotermico-hi-amp-superficie-waterproof-ip67-nautica.webp?v=1777388833</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626060693</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>interruttore-magnetotermico-hi-amp-superficie-ip67-nautica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 per Nautica – 7 Amperaggi Disponibili - 80</Name>
     <Brand>Motomarine</Brand>
     <Description>Interruttore Magnetotermico Hi-Amp Montaggio a Superficie Waterproof IP67 – Doppia Funzione Interruttore e Protezione Termica per Imbarcazioni L&apos; interruttore magnetotermico Hi-Amp a montaggio a superficie è il componente elettrico professionale per impie</Description>
@@ -9655,6 +9692,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>628309122898</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>kit-anodi-volvo-290-duo-prop-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Anodi Alluminio Tecnoseal per Fuoribordo Yamaha 40-60 HP (4 Tempi)</Name>
+    <Brand>Yamaha</Brand>
+    <Description>Proteggi il tuo motore fuoribordo dalla corrosione con il Kit Anodi Tecnoseal specifico per motori Yamaha 4 Tempi da 40 e 60 HP . Questo set completo è realizzato in una Lega di Alluminio di alta qualità, progettata per offrire una difesa efficace contro </Description>
+    <OriginalPrice>60.10</OriginalPrice>
+    <Price>37.58</Price>
+    <Code>5177032</Code>
+    <Link>https://www.onautica.com/products/kit-anodi-yamaha-40-60-alluminio?variant=52577394360667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Sacrificali</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-anodi-yamaha-40-60-alluminio.png?v=1773341565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>350.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-anodi-yamaha-40-60-alluminio</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Anodi Alluminio Tecnoseal per Mercruiser Alpha One Gen II (1991+)</Name>
@@ -9844,6 +9897,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Passacavi_in_coppia_115x20_mm._destro_e_sinistro_in_acciaio_inox5_4.png?v=1773341758</Image2>
     <Condition>nuovo</Condition>
     <ParentID>passacavi-in-coppia-115x20-mm-destro-e-sinistro-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passacavi in coppia 150x25 mm. (destro e sinistro) in acciaio inox</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Passacavi in coppia (destro e sinistro) in Acciaio Inox, 150x25 mm.\nBase con 2 fori di fissaggio.\n\nCaratteristiche:\ndimensioni 150x25 mm.\ncima max Ø 16 mm.\ninterasse fori 121 mm. Caratteristiche principali Venduti in coppia destro/sinistro, pronti p</Description>
+    <OriginalPrice>41.26</OriginalPrice>
+    <Price>29.47</Price>
+    <Code>1133015</Code>
+    <Link>https://www.onautica.com/products/passacavi-in-coppia-150x25-mm-destro-e-sinistro-in-acciaio-inox?variant=52577468154203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Bitte e Passacavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Passacavi_in_coppia_150x25_mm._destro_e_sinistro_in_acciaio_inox.png?v=1773341757</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626029256</EanCode>
+    <Weight>480.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Passacavi_in_coppia_150x25_mm._destro_e_sinistro_in_acciaio_inox655.png?v=1773341758</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>passacavi-in-coppia-150x25-mm-destro-e-sinistro-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Passacavi Ottone Cromato 150 mm in Coppia – Passacavi DX e SX per Cime fino a Ø 16 mm</Name>
@@ -10111,6 +10182,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>spina-stagna-nautica-ottone-cromato-10a-20a</ParentID>
   </Offer>
   <Offer>
+    <Name>Prese e spine in linea &lt; 3A - 2 poli</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le prese e spine in linea fino a 3A in gomma a 2 poli sono componenti elettrici compatti, progettati per garantire connessioni rapide e affidabili a bordo. Grazie alla costruzione in gomma, offrono un&apos;ottima resistenza all&apos;umidità e alle vibrazioni tipich</Description>
+    <OriginalPrice>8.36</OriginalPrice>
+    <Price>5.97</Price>
+    <Code>2105502</Code>
+    <Link>https://www.onautica.com/products/prese-e-spine-in-linea-3a-2-poli?variant=52577479098715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Prese_e_spine_in_linea_3A_-_2_poli.png?v=1773341788</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062604</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>prese-e-spine-in-linea-3a-2-poli</ParentID>
+  </Offer>
+  <Offer>
     <Name>Protezione Electro Safe per Impianto Elettrico di Bordo – Anti-Sovratensioni e Cortocircuiti</Name>
     <Brand>Motomarine</Brand>
     <Description>PROTEZIONE ELECTRO SAFE La Protezione Electro Safe è un dispositivo pensato per salvaguardare l&apos;impianto elettrico di bordo da sovratensioni, cortocircuiti e interferenze che possono danneggiare strumenti e cablaggi. A chi è rivolto Ideale per armatori e </Description>
@@ -10172,6 +10259,21 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8033626140166</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>rondelle-di-sicurezza-inox-o45-0</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rondelle di sicurezza inox per ogiva radice asse Ø 35 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Rondelle di sicurezza in acciaio inox, progettate per il fissaggio dell&apos;ogiva elica sull&apos;asse porta-elica da Ø 35 mm . Garantiscono una tenuta affidabile e una protezione duratura contro corrosione e allentamento, anche in ambienti marini più aggressivi. </Description>
+    <OriginalPrice>9.17</OriginalPrice>
+    <Price>6.55</Price>
+    <Code>5165035</Code>
+    <Link>https://www.onautica.com/products/rondelle-di-sicurezza-inox-per-ogiva-radice-asse-o-35-mm?variant=52577483751771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Assi ed Eliche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rondelle_di_sicurezza_inox_per_ogiva_radice_asse_35_mm..png?v=1773341802</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>rondelle-di-sicurezza-inox-per-ogiva-radice-asse-o-35-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Rondelle di sicurezza inox per ogiva radice asse Ø 40 mm.</Name>
@@ -10399,7 +10501,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>5.10</Price>
     <Code>3418901</Code>
     <Link>https://www.onautica.com/products/tabella-adesiva-rosa-dei-venti-silver-gommata?variant=52577492697435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tabella_adesiva_rosa_dei_venti_silver_gommata.png?v=1773341831</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -10491,6 +10593,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8022278606434</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tromba-elettrica-marco-sm-incasso-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tromba Elettropneumatica SINGLE COMPACT TV - Kit Completo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa tromba è un accessorio di sicurezza essenziale, caratterizzata da un funzionamento elettropneumatico che garantisce un segnale acustico potente e affidabile. Caratteristiche Principali: Materiali: Corpo realizzato in Ottone verniciato bianco e corn</Description>
+    <OriginalPrice>84.77</OriginalPrice>
+    <Price>62.79</Price>
+    <Code>1901500</Code>
+    <Link>https://www.onautica.com/products/tromba-elettropneumatica-single-compact-tv-12v?variant=52577518518619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/TROMBASINGLECOMPACTTVMarco.png?v=1773341906</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022278602634</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tromba-elettropneumatica-single-compact-tv-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Tromba MARCO CR Doppia - Compatta in Ottone Cromato - 24 Volt</Name>
@@ -12049,7 +12167,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.71</Price>
     <Code>3813001</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52513515503963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12231,6 +12349,42 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>copriparabordi-navishell-f-type-nero</ParentID>
   </Offer>
   <Offer>
+    <Name>Copriparabordi Navishell F-Type Rosso Vino (Bordeaux) – Tessuto Acrilico - F1 - Ø 14-16 cm.</Name>
+    <Brand>Navishell</Brand>
+    <Description>Dona un tocco di classe distintivo alla tua imbarcazione con i Copriparabordi Navishell F-Type nella raffinata colorazione Rosso Vino (Bordeaux) . Oltre all&apos;estetica curata, questi rivestimenti garantiscono una protezione eccellente grazie al tessuto mari</Description>
+    <OriginalPrice>13.06</OriginalPrice>
+    <Price>8.71</Price>
+    <Code>3813001BO</Code>
+    <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52513515635035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626169686</EanCode>
+    <Weight>130.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>copriparabordi-navishell-f-type-rosso-vino</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Copriparabordi Navishell F-Type Rosso Vino (Bordeaux) – Tessuto Acrilico - F2/F02 - Ø 21-24 cm.</Name>
+    <Brand>Navishell</Brand>
+    <Description>Dona un tocco di classe distintivo alla tua imbarcazione con i Copriparabordi Navishell F-Type nella raffinata colorazione Rosso Vino (Bordeaux) . Oltre all&apos;estetica curata, questi rivestimenti garantiscono una protezione eccellente grazie al tessuto mari</Description>
+    <OriginalPrice>14.90</OriginalPrice>
+    <Price>9.94</Price>
+    <Code>3813002BO</Code>
+    <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52517264818523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626169723</EanCode>
+    <Weight>130.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>copriparabordi-navishell-f-type-rosso-vino</ParentID>
+  </Offer>
+  <Offer>
     <Name>Copriparabordi Navishell F-Type Rosso Vino (Bordeaux) – Tessuto Acrilico - F3 - Ø 21-24 cm.</Name>
     <Brand>Navishell</Brand>
     <Description>Dona un tocco di classe distintivo alla tua imbarcazione con i Copriparabordi Navishell F-Type nella raffinata colorazione Rosso Vino (Bordeaux) . Oltre all&apos;estetica curata, questi rivestimenti garantiscono una protezione eccellente grazie al tessuto mari</Description>
@@ -12238,7 +12392,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BO</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52517264851291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14177,7 +14331,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>7.78</Price>
     <Code>5425024</Code>
     <Link>https://www.onautica.com/products/redance-in-acciaio-inox-aisi-316?variant=52559555854683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Redance_8_mm._acciaio_inox_8.png?v=1773341796</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14421,7 +14575,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>16.47</Price>
     <Code>11442</Code>
     <Link>https://www.onautica.com/products/sikaflex-591-sigillante-marino-300ml?variant=52517464408411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sikaflex-591-sigillante-polimero-300ml.png?v=1769452252</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15272,6 +15426,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cerniere-inox-coperta-biscotto-s-36-5x76-2-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Chiusura a Compressione Southco M1-20 Inox – IP65 – Leva Regolabile</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Chiusura a Compressione Southco M1-20 rappresenta lo standard d&apos;eccellenza per la chiusura di paglioli, boccaporti e sportelli in ambiente marino. Realizzata interamente in Acciaio Inox lucidato a specchio, unisce un design elegante a filo coperta con </Description>
+    <OriginalPrice>118.53</OriginalPrice>
+    <Price>87.80</Price>
+    <Code>0341133</Code>
+    <Link>https://www.onautica.com/products/chiusura-compressione-southco-m1-20-inox?variant=52577511473499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox.png?v=1773341884</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626017802</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox_misure.png?v=1773341885</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox_utilizzo.png?v=1773341885</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>chiusura-compressione-southco-m1-20-inox</ParentID>
+  </Offer>
+  <Offer>
     <Name>Chiusura a Incasso Inox 57x40 mm – Serratura a Filo per Portelli e Paglioli</Name>
     <Brand>Motomarine</Brand>
     <Description>Chiusura a incasso in acciaio inox, progettata per portelli e paglioli. materiale mm acciaio inox 57x40 Caratteristiche principali Design a incasso per un&apos;installazione a filo superficie, senza sporgenze che possano creare ostacoli a bordo Acciaio inox ad</Description>
@@ -15718,23 +15890,6 @@ L 320mm. - Ø22</Name>
     <ParentID>gancio-inox-75-mm-tipo-usa</ParentID>
   </Offer>
   <Offer>
-    <Name>Girella a Doppio Occhio in Acciaio Inox AISI 316 - Ø 10 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Girella a Doppio Occhio è un accessorio di ferramenta nautica di fondamentale importanza, appositamente studiato per essere inserito nelle linee di ormeggio e di ancoraggio. La sua funzione principale è quella di ruotare liberamente sul proprio asse, a</Description>
-    <OriginalPrice>10.90</OriginalPrice>
-    <Price>7.78</Price>
-    <Code>A54110</Code>
-    <Link>https://www.onautica.com/products/girella-doppio-occhio-acciaio-inox-aisi-316?variant=52653966066011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girella-doppio-occhio-acciaio-inox-aisi-316.webp?v=1774378063</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137064616</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girella-doppio-occhio-acciaio-inox-aisi-316misura.webp?v=1774378062</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>girella-doppio-occhio-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Girella a Doppio Occhio in Acciaio Inox AISI 316 - Ø 13 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>La Girella a Doppio Occhio è un accessorio di ferramenta nautica di fondamentale importanza, appositamente studiato per essere inserito nelle linee di ormeggio e di ancoraggio. La sua funzione principale è quella di ruotare liberamente sul proprio asse, a</Description>
@@ -16021,7 +16176,7 @@ L 320mm. - Ø22</Name>
     <Price>8.09</Price>
     <Code>A521B14</Code>
     <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601303899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -18408,6 +18563,22 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-acqua-pipe-1-2-h90xo60-filettato</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro Acqua Sanitaria 1/2&quot; Portagomma – Filtro Inox Antimpurità per Impianto di Bordo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Filtro per acqua sanitaria progettato per l&apos;uso a bordo, dotato di elemento filtrante in acciaio inox . Trattiene le impurità presenti nell&apos;acqua senza potabilizzarla. I raccordi di entrata e uscita sono del tipo portagomma , per un collegamento rapido e </Description>
+    <OriginalPrice>11.20</OriginalPrice>
+    <Price>8.00</Price>
+    <Code>4132012</Code>
+    <Link>https://www.onautica.com/products/filtro-acqua-pipe-1-2-portagomma?variant=52577436041563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Filtri</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_acqua_pipe_1_2_portagomma.png?v=1773341655</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626010421</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-acqua-pipe-1-2-portagomma</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro Acqua Sanitaria 3/4&quot; Portagomma – Filtro Inox Antimpurità per Impianto di Bordo</Name>
     <Brand>Motomarine</Brand>
     <Description>Filtro per acqua sanitaria ideale per installazioni a bordo, progettato per trattenere impurità e residui presenti nell&apos;acqua. Il cesto filtrante in acciaio inox garantisce durata e resistenza alla corrosione in ambiente marino. I raccordi di entrata e us</Description>
@@ -18786,6 +18957,23 @@ L 320mm. - Ø22</Name>
     <Price>12.20</Price>
     <Code>1814038</Code>
     <Link>https://www.onautica.com/products/giranti-ricambio-motori-yanmar?variant=52525714899291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar.png?v=1767432198</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar1.png?v=1767432198</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar2.png?v=1767432198</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-yanmar</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Entrobordo Yanmar (Serie GM / JH / LH) - 1814025</Name>
+    <Brand>Yanmar</Brand>
+    <Description>Gamma completa di giranti pompa acqua per il sistema di raffreddamento dei motori marini Yanmar . La selezione include sia ricambi compatibili MTM di alta qualità che ricambi Originali Yanmar (dove specificato). Queste giranti coprono la maggior parte dei</Description>
+    <OriginalPrice>19.30</OriginalPrice>
+    <Price>12.84</Price>
+    <Code>1814025</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-yanmar?variant=52513451999579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar.png?v=1767432198</Image>
@@ -19492,6 +19680,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-selva-marine</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814241</Name>
+    <Brand>Selva</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
+    <OriginalPrice>21.45</OriginalPrice>
+    <Price>14.30</Price>
+    <Code>1814241</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-selva-marine?variant=52525723255131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva.png?v=1767378855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051516</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva11.png?v=1767378855</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-selva-marine</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Selva Marine (2T / 4T) - 1814317</Name>
     <Brand>Selva</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Selva Marine . Fondamentali per il corretto raffreddamento del motore, queste giranti sono realizzate con materiali resistenti all&apos;ambiente marino per garantire durata e a</Description>
@@ -19938,6 +20144,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-yamaha</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814241</Name>
+    <Brand>Yamaha</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
+    <OriginalPrice>21.45</OriginalPrice>
+    <Price>14.30</Price>
+    <Code>1814241</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-yamaha?variant=52525751927131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha.png?v=1767377022</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051516</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha18.png?v=1767377022</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yamaha19.png?v=1767377022</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-yamaha</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Yamaha (2T / 4T) - 1814277</Name>
     <Brand>Yamaha</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Yamaha Marine . Realizzate con materiali resistenti all&apos;usura e all&apos;ambiente salino, assicurano il corretto flusso di raffreddamento per il tuo motore. I ricambi coprono u</Description>
@@ -20057,6 +20281,21 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626051226</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>giranti-ricambio-motori-bmw-marine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Marini Bukh (Serie DV) - 1814025</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili con i motori marini diesel Bukh . Questi componenti sono cruciali per il sistema di raffreddamento e devono essere sostituiti periodicamente per evitare surriscaldamenti del motore. I ricambi coprono i </Description>
+    <OriginalPrice>19.30</OriginalPrice>
+    <Price>12.84</Price>
+    <Code>1814025</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-bukh?variant=52513451704667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-bukh.png?v=1767439382</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-bukh</ParentID>
   </Offer>
   <Offer>
     <Name>Giranti di Ricambio per Motori Marini Bukh (Serie DV) - 1814031</Name>
@@ -21263,7 +21502,7 @@ L 320mm. - Ø22</Name>
     <ParentID>giunto-trivio-inox-aisi316-fusione</ParentID>
   </Offer>
   <Offer>
-    <Name>Gonfiatore a Pedale Bravo GP5 per Gommone �� 400 mbar, Polmone 5 L</Name>
+    <Name>Gonfiatore a Pedale Bravo GP5 per Gommone – 400 mbar, Polmone 5 L</Name>
     <Brand>Bravo</Brand>
     <Description>Pompa a pedale con adattatore terminale con diametri multipli universale. Tipo GP 5 Pressione max 400 mbar Polmone 5 l Manometro No mm 210x290x80 Caratteristiche principali Azionamento a pedale per gonfiare senza sforzo, lasciando le mani libere Adattator</Description>
     <OriginalPrice>47.15</OriginalPrice>
@@ -23196,6 +23435,24 @@ L 320mm. - Ø22</Name>
     <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
   </Offer>
   <Offer>
+    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 25 mm. / Passante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
+    <OriginalPrice>15.82</OriginalPrice>
+    <Price>11.30</Price>
+    <Code>0621925</Code>
+    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958398811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023575</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
+  </Offer>
+  <Offer>
     <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 22 mm. / Terminale</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
@@ -23912,6 +24169,7 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabatteria_in_ABS_100A_rosso_350x220x290_mm..png?v=1773341773</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965098410</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2030015.png?v=1773341931</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabatteria_in_ABS_50A_rosso_290x200x260_mm..png?v=1773341773</Image3>
     <Condition>nuovo</Condition>
@@ -24209,23 +24467,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.410.xxb.png?v=1773341998</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-detergente-poliglass-per-superfici-in-vetro-750-ml-05</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Detergente disincrostante, disossidante, desalinizzante Ferrotone 1 lt.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Detergente disincrostante, disossidante, desalinizzante. Specifico per pulizia di colature di ruggine sullo scafo, ripristino e pulizia cromature e Acciaio Inox. Ottimo disincrostante per circuiti raffreddamento motori. Caratteristiche principali Formula </Description>
-    <OriginalPrice>22.50</OriginalPrice>
-    <Price>16.07</Price>
-    <Code>10528</Code>
-    <Link>https://www.onautica.com/products/detergente-disincrostante-disossidante-desalinizzante-ferrotone-1-lt?variant=52577431748955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Detergenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Detergente_disincrostante_disossidante_desalinizzante_Ferrotone_1_lt..jpg?v=1773341650</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8017369200158</EanCode>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>detergente-disincrostante-disossidante-desalinizzante-ferrotone-1-lt</ParentID>
   </Offer>
   <Offer>
     <Name>Detergente per gommone Raft Cleaner IOSSO 750 ml.</Name>
@@ -24899,7 +25140,7 @@ L 320mm. - Ø22</Name>
     <Price>10.42</Price>
     <Code>2111802</Code>
     <Link>https://www.onautica.com/products/fanali-navigazione-rina-midi-flat-white-12m?variant=52513459896667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_mini_flash_white_R.I.N.A._tondo_di_via.png?v=1773341654</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24916,7 +25157,7 @@ L 320mm. - Ø22</Name>
     <Price>10.42</Price>
     <Code>2111800</Code>
     <Link>https://www.onautica.com/products/fanali-navigazione-rina-midi-flat-white-12m?variant=52545775436123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_mini_flash_white_R.I.N.A._tondo_di_via.png?v=1773341654</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -26021,6 +26262,22 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/quatix_7X_SolarEditionc.png?v=1773341529</Image3>
     <Condition>nuovo</Condition>
     <ParentID>garmin-quatix-7x-solar-edition-titanio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ossigenatore pompa Rule Livewell-Baitwell 800GHP 12V - 3028LPH</Name>
+    <Brand>Rule</Brand>
+    <Description>Pompe di ossigenazione Rule per vasche del pescato con porta doppia per connessione opzionale di lavaggio. Corpo girevole per agevolare le connessioni e cartuccia estraibile per una semplice pulizia. Porta di ossigenazione filettata 3/4&quot; con portagomma dr</Description>
+    <OriginalPrice>126.95</OriginalPrice>
+    <Price>93.00</Price>
+    <Code>1821640</Code>
+    <Link>https://www.onautica.com/products/offerta-ossigenatore-pompa-rule-livewell-baitwell-800ghp-12v-3028lph?variant=52577366868315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821640.png?v=1773341485</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>042237095947</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-ossigenatore-pompa-rule-livewell-baitwell-800ghp-12v-3028lph</ParentID>
   </Offer>
   <Offer>
     <Name>Ossigenatore SeaFlo 800 GPH (50 L/min) – Pescante Dritto 12V</Name>
@@ -29302,6 +29559,23 @@ L 320mm. - Ø22</Name>
     <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
   </Offer>
   <Offer>
+    <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - DPR6EA-9 NGK</Name>
+    <Brand>NGK</Brand>
+    <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
+    <OriginalPrice>7.10</OriginalPrice>
+    <Price>5.10</Price>
+    <Code>4856719</Code>
+    <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=52577382433115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>087295155318</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
+  </Offer>
+  <Offer>
     <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - DPR6EB9 NGK</Name>
     <Brand>NGK</Brand>
     <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
@@ -29481,6 +29755,24 @@ L 320mm. - Ø22</Name>
     <Weight>300.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cartuccia-per-filtro-senza-separatore</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
+    <OriginalPrice>17.26</OriginalPrice>
+    <Price>13.27</Price>
+    <Code>4121530</Code>
+    <Link>https://www.onautica.com/products/coppa-trasparente-ricambio-filtro-sacs?variant=52577434206555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vaschetta-ricambio-filtro-separatore.png?v=1773341649</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626212788</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coppa_-_Filtro_separatore_M_C_flusso_max_150_lt_h_bicchiere_ricambio_per_4121522_4121524.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_Separatore_Benzina_SACS_con_Vaschetta_Trasparente_Cartuccia_AquaStop_10_Micron.png?v=1773341654</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>coppa-trasparente-ricambio-filtro-sacs</ParentID>
   </Offer>
   <Offer>
     <Name>Dadi Esagonali in Ottone per Presa a Mare Ombrinale - 1&quot;1/4</Name>
@@ -29759,6 +30051,23 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>filtro-benzina-ancor-b-50</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtro benzina SACS senza separatore</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Filtro benzina con cartuccia da 10 micron e raccordi. Per motori fuoribordo e entrobordo. La cartuccia 4121552 può sostituire la cartuccia Quicksilver 35-802893Q01 e la cartuccia Volvo 855686-2. Caratteristiche principali Filtrazione a 10 micron per una p</Description>
+    <OriginalPrice>48.28</OriginalPrice>
+    <Price>24.14</Price>
+    <Code>4121512</Code>
+    <Link>https://www.onautica.com/products/filtro-benzina-m-v?variant=52577439613275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_benzina_M_V.png?v=1773341657</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000668</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_benzina_M_V_1.png?v=1773341664</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-benzina-m-v</ParentID>
   </Offer>
   <Offer>
     <Name>Filtro Carburante per Motori Fuoribordo Honda - 35/90 HP</Name>
@@ -30170,6 +30479,24 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-separatore-benzina-sacs-aquastop</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro Separatore Benzina SACS con Vaschetta Trasparente – Cartuccia AquaStop 10 Micron - Coppa di Ricambio</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Proteggi il tuo motore fuoribordo dai danni causati dall&apos;acqua e dalle impurità con il Filtro Separatore Benzina SACS . Questo sistema di filtrazione avanzato è progettato per garantire che al motore arrivi solo carburante pulito, preservando iniettori e </Description>
+    <OriginalPrice>17.26</OriginalPrice>
+    <Price>13.27</Price>
+    <Code>4121530</Code>
+    <Link>https://www.onautica.com/products/filtro-separatore-benzina-sacs-aquastop?variant=52519734968667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_Separatore_Benzina_SACS_con_Vaschetta_Trasparente_Cartuccia_AquaStop_10_Micron.png?v=1773341654</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626212788</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vaschetta-ricambio-filtro-separatore.png?v=1773341649</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-separatore-benzina-sacs-aquastop</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro Separatore Benzina/Acqua Completo con Vaschetta Trasparente – 10 Micron (Equiv. Yamaha) - Filtro Separatore Benzina/Acqua Completo</Name>
     <Brand>Yamaha</Brand>
     <Description>Proteggi il tuo motore marino dalle impurità e dalla condensa con questo Filtro Separatore Benzina/Acqua completo . Progettato come sistema di pre-filtraggio (decantatore), è essenziale per salvaguardare iniettori e carburatori, garantendo prestazioni ott</Description>
@@ -30338,6 +30665,24 @@ L 320mm. - Ø22</Name>
     <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
   </Offer>
   <Offer>
+    <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 2GM20 / 3GM30 / YSB / YE / 2QM / 3QM (cod. orig. 104211-42070) - ID9,5 D40 H19 - 6 pale - Bocc. S</Name>
+    <Brand>Sacs / Yanmar</Brand>
+    <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
+    <OriginalPrice>19.30</OriginalPrice>
+    <Price>12.84</Price>
+    <Code>1814025</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile?variant=53367283548507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-1.webp?v=1781260473</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.04</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-2.webp?v=1781260475</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-per-motori-yanmar-21984-1814038-3.webp?v=1781260478</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-acqua-per-motori-yanmar-ricambio-compatibile</ParentID>
+  </Offer>
+  <Offer>
     <Name>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile - 2GM20F / 3GM30F / 2QM20 / 3QM30 / 3HM35 (cod. orig. 124223-42091 / 128296-42070) - ID12,7 D51 H22 - 6 pale - Bocc. H</Name>
     <Brand>Sacs / Yanmar</Brand>
     <Description>Girante Pompa Acqua per Motori Yanmar - Ricambio Compatibile Giranti per pompa acqua di raffreddamento dei motori marini Yanmar. Compatibili con i codici originali Yanmar di riferimento. Materiale neoprene resistente a salsedine, glicole e oli, dimensioni</Description>
@@ -30443,6 +30788,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626114099</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>giunto-unione-bottazzo-eco-t1-nero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giunto di Unione Nero per Profilo Parabordo T2 (45mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Giunto di Unione Nero (Cod. 3833545) è l&apos;elemento di raccordo specifico per la serie di profili parabordo T2 (altezza 45 mm). Realizzato in PVC nero, questo accessorio è fondamentale per coprire il punto di incontro tra due segmenti di bottazzo contigu</Description>
+    <OriginalPrice>8.10</OriginalPrice>
+    <Price>5.79</Price>
+    <Code>3833545</Code>
+    <Link>https://www.onautica.com/products/giunto-unione-bottazzo-t2-nero?variant=52338783289691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcmanicottonero.webp?v=1773341960</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626114150</EanCode>
+    <Weight>50.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-unione-bottazzo-t2-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Gomito a 90° Femmina-Femmina in Acciaio Inox AISI 316 - 1&quot;</Name>
@@ -32355,24 +32717,6 @@ L 320mm. - Ø22</Name>
     <ParentID>spazzola-a-mano-osculati-con-impugnatura-anatomica</ParentID>
   </Offer>
   <Offer>
-    <Name>Spazzola a Mano Osculati – Spazzola Media con Passaggio Acqua per Lavaggio Coperta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzola a mano i deale per il lavaggio frequente della coperta. Spazzola di media durezza, adatta a tutte le superfici. Tipo mm Spazzola con passaggio acqua, innesto a scatto standard 120x185 Caratteristiche principali Passaggio acqua integrato per un la</Description>
-    <OriginalPrice>10.22</OriginalPrice>
-    <Price>8.52</Price>
-    <Code>11004</Code>
-    <Link>https://www.onautica.com/products/spazzola-a-mano-osculati?variant=52577366376795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00.png?v=1773341481</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033731052538</EanCode>
-    <Weight>0.36</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00b.png?v=1773341481</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzola-a-mano-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Spazzola Boat Line per Pulizia Barca – Corpo in PVC con Bordo in Gomma Antiurto</Name>
     <Brand>Motomarine</Brand>
     <Description>La Spazzola Boat Line è progettata per affrontare lo sporco più ostinato e le incrostazioni più tenaci a bordo. Il corpo robusto in PVC garantisce durabilità nel tempo, mentre il bordo in gomma antiurto protegge le superfici della barca durante l&apos;utilizzo</Description>
@@ -33574,6 +33918,22 @@ L 320mm. - Ø22</Name>
     <ParentID>box-miscelatore</ParentID>
   </Offer>
   <Offer>
+    <Name>Cartuccia QUICKSILVER per filtro 35-802893Q-4</Name>
+    <Brand>Quicksilver</Brand>
+    <Description>Cartuccia originale Quicksilver 35-802893Q01 per filtri benzina Mercury/Mercruiser 35-60494A4 / 35-807172A4 / 35-802893Q4 Volvo Penta 855686-2. Caratteristiche principali Ricambio originale Quicksilver, garantisce massima compatibilità e affidabilità con </Description>
+    <OriginalPrice>37.53</OriginalPrice>
+    <Price>26.81</Price>
+    <Code>4121101</Code>
+    <Link>https://www.onautica.com/products/cartuccia-per-filtro-mercury-mercruiser-35-60494a4-35-807172a4-35-802893q4-e-volvo-penta-855686-2?variant=49393036165467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cartuccia_per_filtro_Mercury_Mercruiser_35-60494A4_35-807172A4_35-802893Q4_e_Volvo_Penta_855686-2.png?v=1762787288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>745061037977</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cartuccia-per-filtro-mercury-mercruiser-35-60494a4-35-807172a4-35-802893q4-e-volvo-penta-855686-2</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 6 ft. - 1.80 mt.</Name>
     <Brand>Ultraflex</Brand>
     <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
@@ -34236,6 +34596,23 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Comandi Up-Down a piede bianco Quick salpa ancora</Name>
+    <Brand>Quick</Brand>
+    <Description>Il comando a piede Quick SERIE 900 per salpa ancora è un interruttore a pedale stagno, progettato con precisione per offrire un controllo affidabile e sicuro su qualsiasi modello di verricello elettrico. La sua struttura garantisce un’elevata resistenza a</Description>
+    <OriginalPrice>62.96</OriginalPrice>
+    <Price>34.98</Price>
+    <Code>10396</Code>
+    <Link>https://www.onautica.com/products/comandi-up-down-a-piede-bianco-quick-salpa-ancora?variant=52577431290203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulsante-piede-quick-serie-900-bianco.png?v=1773341647</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626031327</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulsante-piede-quick-serie-900-bianco_misure.png?v=1773341649</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>comandi-up-down-a-piede-bianco-quick-salpa-ancora</ParentID>
   </Offer>
   <Offer>
     <Name>Comandi Up-Down a piede nero Quick salpa ancora</Name>
@@ -37482,6 +37859,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>salvagente-anulare-compatto-med-600-solas</ParentID>
   </Offer>
   <Offer>
+    <Name>Salvagente Anulare Ponza MED 750 – Omologato Solas (Ø 75 cm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Salvagente Anulare Ponza MED 750 è la dotazione di sicurezza nautica per eccellenza, progettato per offrire la massima spinta di galleggiamento in caso di emergenza e uomo a mare. Con il suo diametro esterno standard di 75 cm , rappresenta la soluzione</Description>
+    <OriginalPrice>49.17</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>3008075</Code>
+    <Link>https://www.onautica.com/products/salvagente-anulare-ponza-med-750-solas?variant=52577463435611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-ponza-med-750-solas.webp?v=1773478159</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965093163</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>salvagente-anulare-ponza-med-750-solas</ParentID>
+  </Offer>
+  <Offer>
     <Name>Salvagente Baywatch Lifeguard – Salvagente Galleggiante con Cima 2 m e Tracolla</Name>
     <Brand>LALIZAS</Brand>
     <Description>Salvagente galleggiante ispirato ai modelli professionali Baywatch, ideale per chi vuole tenere a bordo un presidio di sicurezza pronto all&apos;uso e facilmente individuabile. Include 2 metri di cima e tracolla per un lancio rapido e un recupero sicuro in cas</Description>
@@ -39609,6 +40002,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
   </Offer>
   <Offer>
+    <Name>Capottina Tendalino 3 Archi Bianco – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi garantisce una buona tensione del telo</Description>
+    <OriginalPrice>208.78</OriginalPrice>
+    <Price>160.60</Price>
+    <Code>3265057</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-bianco?variant=52519959298395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-alluminioschemafrontale.png?v=1768237256</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>5.95</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 150 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
@@ -39620,6 +40031,41 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
+    <OriginalPrice>222.42</OriginalPrice>
+    <Price>171.09</Price>
+    <Code>3265267</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953727835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
+    <OriginalPrice>230.81</OriginalPrice>
+    <Price>177.55</Price>
+    <Code>3265268</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953760603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626034106</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
     <Condition>nuovo</Condition>
@@ -42173,7 +42619,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Radio Stereo Marino Boss MR632UAB Bluetooth / USB / SD – Frontalino Estraibile</Name>
     <Brand>Motomarine</Brand>
-    <Description>Il Boss Marine MR632UAB è uno stereo marino affidabile e funzionale, progettato per chi desidera un sistema audio completo senza l&apos;ingombro del lettore CD (meccanica &quot;deckless&quot;). Questo design permette una profondit�� ridotta (solo 97 mm), facilitando l&apos;i</Description>
+    <Description>Il Boss Marine MR632UAB è uno stereo marino affidabile e funzionale, progettato per chi desidera un sistema audio completo senza l&apos;ingombro del lettore CD (meccanica &quot;deckless&quot;). Questo design permette una profondità ridotta (solo 97 mm), facilitando l&apos;in</Description>
     <OriginalPrice>239.18</OriginalPrice>
     <Price>119.59</Price>
     <Code>10793</Code>
@@ -43587,6 +44033,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>tappo-di-imbarco-fuel-o-50-mm-in-acciaio-inox-con-serratura-regolamentare-r-i-n-a-chiave</ParentID>
   </Offer>
   <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size S</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>22.99</OriginalPrice>
+    <Price>16.42</Price>
+    <Code>3270202</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52513573110107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216038</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size M</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
@@ -43599,6 +44063,25 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216045</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>26.21</OriginalPrice>
+    <Price>18.72</Price>
+    <Code>3270204</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242539867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216052</EanCode>
+    <Weight>160.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
@@ -44950,6 +45433,22 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>attacco-tangone-inox-albero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Base Antenna a Morsetto (Acciaio Inox)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa base di montaggio è la soluzione robusta e altamente resistente alla corrosione per l&apos;installazione non permanente di antenne nautiche (VHF, GPS, ecc.) su tubolari e pulpiti. Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox , garan</Description>
+    <OriginalPrice>57.13</OriginalPrice>
+    <Price>42.32</Price>
+    <Code>5636603</Code>
+    <Link>https://www.onautica.com/products/base-antenna-morsetto-inox-1un-25mm?variant=52577508557147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEAMORSETTOINACCIAIOINOX.png?v=1773341878</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626147639</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>base-antenna-morsetto-inox-1un-25mm</ParentID>
   </Offer>
   <Offer>
     <Name>Base Antenna a Morsetto per Tubo (ABS)</Name>
@@ -46347,6 +46846,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-mariner</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Mariner – Colori Originali - Grey - Grigio</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Restituisci l&apos;aspetto originale al tuo fuoribordo con le Vernici Spray TK , formulate specificamente per replicare le tinte di grigio che contraddistinguono i motori Mariner . Queste vernici alla nitrocombinata sono la soluzione ideale per riparare danni </Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710053</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-mariner?variant=52517129519451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-mariner.jpg?v=1769767492</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120356</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-mariner</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Mercury – Colori Originali - Nero</Name>
     <Brand>TKline Professional</Brand>
     <Description>Garantisci al tuo fuoribordo una finitura impeccabile con le Vernici Spray TK , formulate per replicare perfettamente le tonalità originali dei motori Mercury , incluso il caratteristico nero lucido e l&apos;argento della serie Verado. Queste vernici alla nitr</Description>
@@ -46456,6 +46971,22 @@ bocche Ø 14 mm.</Name>
     <EanCode>8052705120578</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
+    <OriginalPrice>23.75</OriginalPrice>
+    <Price>14.84</Price>
+    <Code>5710098</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52513582383451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120783</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
