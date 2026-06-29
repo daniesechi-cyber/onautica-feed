@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-29T06:31:06.134Z -->
-<!-- Offerte: 2795 -->
+<!-- Generato: 2026-06-29T10:30:57.357Z -->
+<!-- Offerte: 2790 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -206,7 +206,7 @@
     <Price>34.47</Price>
     <Code>0104506</Code>
     <Link>https://www.onautica.com/products/ancora-zincata-tipo-hall-compatta?variant=52577375879515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_HALL_compatta_kg._8.png?v=1773341613</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -331,23 +331,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>6.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 8 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>60.85</OriginalPrice>
-    <Price>46.80</Price>
-    <Code>0104080</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376174427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>8.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
@@ -2355,24 +2338,6 @@
     <EanCode>8033626095879</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>giunto-apribile-tas-inox-aisi-316-capottine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giunto per ancora girevole con snodo per catena Ø 6/8 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo giunto per ancora rappresenta la soluzione tecnicamente più avanzata per chi cerca la massima efficienza e sicurezza nella linea di ancoraggio. Il suo design innovativo combina due funzioni essenziali: è sia girevole che snodato . Questa doppia art</Description>
-    <OriginalPrice>32.66</OriginalPrice>
-    <Price>23.33</Price>
-    <Code>0133418</Code>
-    <Link>https://www.onautica.com/products/giunto-ancora-girevole-con-snodo-o-6-8-mm?variant=52577440989531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_girevole_con_snodo_6_8_mm..png?v=1773341667</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626005083</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_girevole_con_snodo_6_8_mm._3.png?v=1773341668</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_girevole_con_snodo_6_8_mm._1.png?v=1773341669</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giunto-ancora-girevole-con-snodo-o-6-8-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Giunto per ancora girevole per catena Ø 10/12 mm. Douglas Marine</Name>
@@ -12175,6 +12140,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-a-type-sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352842</EanCode>
+    <Weight>300.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-A-type.png?v=1769536424</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-a-type-sabbia</ParentID>
@@ -14937,7 +14903,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -16104,6 +16070,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0638025.png?v=1773341792</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626024107</EanCode>
+    <Weight>50.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0638025b.png?v=1773341793</Image2>
     <Condition>nuovo</Condition>
     <ParentID>giunto-t-aperto-90-inox-tubolari</ParentID>
@@ -16621,7 +16588,7 @@ L 320mm. - Ø22</Name>
     <Price>6.01</Price>
     <Code>VIA29.22</Code>
     <Link>https://www.onautica.com/products/moschettone-inox-a-molla-100-mm?variant=52577452491099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_a_molla_100_mm..png?v=1773341707</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -22034,22 +22001,6 @@ L 320mm. - Ø22</Name>
     <ParentID>linea-grassi-tecnici-manutenzione-nautica</ParentID>
   </Offer>
   <Offer>
-    <Name>Lucchetti acciaio inox 30 mm. in SET 3 pz. acciaio inox con master key</Name>
-    <Brand>FNI</Brand>
-    <Description>Questi lucchetti in acciaio inox, venduti in set da 3 con chiave maestra, sono progettati per resistere agli ambienti esterni più impegnativi. Dotati di molla e arco in acciaio inox 316 e corpo in ottone cromato, offrono un’eccellente resistenza alla corr</Description>
-    <OriginalPrice>48.00</OriginalPrice>
-    <Price>26.65</Price>
-    <Code>P203970</Code>
-    <Link>https://www.onautica.com/products/lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key?variant=52577370997083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetti.png?v=1773341949</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>3701600405840</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key</ParentID>
-  </Offer>
-  <Offer>
     <Name>Luce di Cortesia LED &quot;Round Top&quot; in Acciaio Inox – IP67 – Montaggio Superficiale</Name>
     <Brand>Motomarine</Brand>
     <Description>La Luce Impermeabile LED &quot;Round Top&quot; unisce eleganza e funzionalità in un design ultra-sottile. Realizzata con una cornice in Acciaio Inox lucidato, è la soluzione perfetta per illuminare pozzetti, camminamenti e gradini senza richiedere grossi fori di in</Description>
@@ -26504,6 +26455,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8712256002289</EanCode>
+    <Weight>1.32</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/testaparabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misuremontaggio.webp?v=1776247359</Image3>
     <Condition>nuovo</Condition>
@@ -31131,7 +31083,7 @@ L 320mm. - Ø22</Name>
     <Price>15.52</Price>
     <Code>PRL0005</Code>
     <Link>https://www.onautica.com/products/kit-resina-e-lana-di-vetro?variant=52577503379803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/resinakit.png?v=1773341867</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -38274,6 +38226,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm.jpg?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137009112</EanCode>
+    <Weight>280.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
     <Condition>nuovo</Condition>
@@ -39094,7 +39047,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Timoneria T73 NRFC Ultraflex – Timoneria Senza Giochi per Controllo Preciso del Timone</Name>
     <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T73 NRFC Ultraflex rappresenta la perfetta sintesi tra precisione ingegneristica e </Description>
+    <Description>��️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T73 NRFC Ultraflex rappresenta la perfetta sintesi tra precisione ingegneristica e</Description>
     <OriginalPrice>194.32</OriginalPrice>
     <Price>149.48</Price>
     <Code>38869M</Code>
@@ -41624,22 +41577,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Teak / 2,50 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>45.82</OriginalPrice>
-    <Price>33.94</Price>
-    <Code>LEG060/025Teak</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464760155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 0,75 L</Name>
     <Brand>Sivac</Brand>
     <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
@@ -42150,22 +42087,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tavoletta_proteggi_poppa_plastica_45_x_36_cm.png?v=1773341764</Image2>
     <Condition>nuovo</Condition>
     <ParentID>tavoletta-proteggi-poppa-plastica-cuneo-motore</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Piastre Salvapoppa in Plastica (450 x 360 mm) - Nero</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste piastre extra sono un accessorio protettivo essenziale per lo scafo, ideali per salvaguardare la poppa da urti, graffi e usura causati dal motore fuoribordo e dagli accessori. Caratteristiche Principali: Materiale: Realizzate in robusta Plastica . </Description>
-    <OriginalPrice>9.84</OriginalPrice>
-    <Price>7.03</Price>
-    <Code>4712045</Code>
-    <Link>https://www.onautica.com/products/piastre-salvapoppa-plastica-450x360mm-nero-bianco?variant=52513547911515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Piastre_450x360_mm._salvapoppa_PL_extra.png?v=1773341762</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626008817</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>piastre-salvapoppa-plastica-450x360mm-nero-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Piastre Salvapoppa in Plastica (450 x 360 mm) - Bianco</Name>
@@ -44934,6 +44855,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tuboarmo.png?v=1773342022</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>920.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tubo-armato-rinforzato</ParentID>
   </Offer>
