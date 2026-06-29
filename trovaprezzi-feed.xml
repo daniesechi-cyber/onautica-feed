@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-27T11:46:24.324Z -->
-<!-- Offerte: 2771 -->
+<!-- Generato: 2026-06-29T06:31:06.134Z -->
+<!-- Offerte: 2795 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -3737,7 +3737,7 @@
     <Price>5.67</Price>
     <Code>02.029.07</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445033819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4603,6 +4603,22 @@
     <ParentID>snodo-inox-aisi-316-capottine-tendalini</ParentID>
   </Offer>
   <Offer>
+    <Name>Spina a 13 Poli per Rimorchi in ABS Nero con Particolari in Ottone Cromato ISO 11446</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spina a 13 Poli per Rimorchi – Corpo in ABS Nero con Particolari in Ottone Cromato, Norma ISO 11446 La spina a 13 poli per rimorchi in ABS nero è il componente regolamentare per il collegamento elettrico tra il veicolo trainante e il rimorchio porta barch</Description>
+    <OriginalPrice>8.96</OriginalPrice>
+    <Price>6.40</Price>
+    <Code>14.191.02</Code>
+    <Link>https://www.onautica.com/products/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446?variant=52577488175451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446.webp?v=1776327988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022965051127</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446</ParentID>
+  </Offer>
+  <Offer>
     <Name>Staffa Bloccaggio per Tubo Rulli Laterali Carrelli - 40x40 mm. / 70x70 mm</Name>
     <Brand>Osculati</Brand>
     <Description>Le staffe di fissaggio Osculati della serie 02.040.xx sono componenti strutturali fondamentali per assemblare o riparare i sistemi di rulli laterali e centrali sui rimorchi per barche. Progettate per un montaggio sicuro, queste staffe collegano il rullo a</Description>
@@ -4718,6 +4734,22 @@
     <EanCode>8033137068737</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>staffa-rullo-laterale-diritto-per-carrelli</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Staffa Rullo Laterale Rialzata 4 Rulli per Carrelli</Name>
+    <Brand>Osculati</Brand>
+    <Description>Queste staffe rialzate a 4 rulli sono componenti essenziali per il tuo carrello alaggio o rimorchio barca, progettate per montare i rulli laterali (modello 02.029.07 , venduto separatamente) e garantire il corretto supporto e allineamento dello scafo. La </Description>
+    <OriginalPrice>45.29</OriginalPrice>
+    <Price>32.35</Price>
+    <Code>02.029.36</Code>
+    <Link>https://www.onautica.com/products/supporto-laterale-rialzato-4-rulli?variant=52577464385883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_rullo_laterale_rialzata_4_rulli_40_mm..png?v=1773341744</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>0202936</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-laterale-rialzato-4-rulli</ParentID>
   </Offer>
   <Offer>
     <Name>Staffa Rullo Laterale Rialzata per Carrelli - 30 mm.</Name>
@@ -8416,6 +8448,22 @@
     <ParentID>boa-polietilene-foro-passante-arancione</ParentID>
   </Offer>
   <Offer>
+    <Name>Boa in Polietilene con Foro Passante Bianco - Ø 170 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Boa in Polietilene con Foro Passante – Colore Bianco per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore bianco è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di aree acqu</Description>
+    <OriginalPrice>11.70</OriginalPrice>
+    <Price>6.50</Price>
+    <Code>33.136.00BI</Code>
+    <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-bianco?variant=52805470847323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-bianco.webp?v=1776162986</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>220.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boa-polietilene-foro-passante-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Boa in Polietilene con Foro Passante Bianco - Ø 260 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Boa in Polietilene con Foro Passante – Colore Bianco per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore bianco è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di aree acqu</Description>
@@ -10648,6 +10696,21 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
   </Offer>
   <Offer>
+    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 500 ml.</Name>
+    <Brand>Osculati</Brand>
+    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
+    <OriginalPrice>46.19</OriginalPrice>
+    <Price>27.17</Price>
+    <Code>66.240.10</Code>
+    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577380991323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
+  </Offer>
+  <Offer>
     <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
     <Brand>Osculati</Brand>
     <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
@@ -10908,6 +10971,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
   </Offer>
   <Offer>
+    <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 30 A / 3 uscite</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
+    <OriginalPrice>324.71</OriginalPrice>
+    <Price>180.40</Price>
+    <Code>14.272.15</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22?variant=51598436761947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_24_16_carica_max_16A_1_uscite.jpg?v=1773341717</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>07771116</EanCode>
+    <Weight>1.53</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_12_20_carica_max_20A_1_uscita.jpg?v=1773341716</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
+  </Offer>
+  <Offer>
     <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 20 A / 1 uscita</Name>
     <Brand>Victron Energy</Brand>
     <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
@@ -11048,6 +11129,42 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/32.914.54.png?v=1773341939</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cassetta-di-pronto-soccorso-help</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 25 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
+    <OriginalPrice>115.00</OriginalPrice>
+    <Price>88.46</Price>
+    <Code>01.373.06-025</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass?variant=51836792832347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>20.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 50 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
+    <OriginalPrice>217.00</OriginalPrice>
+    <Price>166.94</Price>
+    <Code>01.373.06-050</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass?variant=51836792766811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>40.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
   </Offer>
   <Offer>
     <Name>Catena Calibrata Zincata a Fuoco 8 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 25 mt.</Name>
@@ -11842,6 +11959,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>copriparabordi-neoprene-reversibili-blu-nero</ParentID>
   </Offer>
   <Offer>
+    <Name>Copriparabordi in Neoprene Reversibili Blu/Nero – Spessore 3mm - F2 - Ø 220 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>I Copriparabordi in Neoprene rappresentano la soluzione premium per proteggere le fiancate della tua imbarcazione e dare un tocco di eleganza ai tuoi parabordi. Realizzati in neoprene a cellule chiuse con uno spessore di 3 mm , offrono una barriera morbid</Description>
+    <OriginalPrice>25.50</OriginalPrice>
+    <Price>15.93</Price>
+    <Code>33.470.02</Code>
+    <Link>https://www.onautica.com/products/copriparabordi-neoprene-reversibili-blu-nero?variant=52516796170587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-neoprene-reversibili-f-series-blu-nero.png?v=1773341582</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>210.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>copriparabordi-neoprene-reversibili-blu-nero</ParentID>
+  </Offer>
+  <Offer>
     <Name>Copriparabordi in Neoprene Reversibili Blu/Nero – Spessore 3mm - F3 - Ø 220 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Copriparabordi in Neoprene rappresentano la soluzione premium per proteggere le fiancate della tua imbarcazione e dare un tocco di eleganza ai tuoi parabordi. Realizzati in neoprene a cellule chiuse con uno spessore di 3 mm , offrono una barriera morbid</Description>
@@ -12347,7 +12480,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>9.94</Price>
     <Code>3813002SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577412940123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14965,22 +15098,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>basi-o-25-mm-triangolari-per-candelieri-inclinato-6</ParentID>
   </Offer>
   <Offer>
-    <Name>Basi Ø 25 mm. triangolari per candelieri piana</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Basi Ø 25 mm. triangolari per candelieri piana Le basi triangolari Ø 25 mm per candelieri piana sono elementi strutturali in acciaio inox pensati per il fissaggio e il supporto di candelieri su superfici piane a bordo. A chi è rivolto Ideale per armatori </Description>
-    <OriginalPrice>25.98</OriginalPrice>
-    <Price>18.56</Price>
-    <Code>0612525</Code>
-    <Link>https://www.onautica.com/products/basi-o-25-mm-triangolari-per-candelieri-piana?variant=52577419657563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Basi_25_mm._triangolari_per_candelieri_piana.png?v=1773341632</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023063</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>basi-o-25-mm-triangolari-per-candelieri-piana</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catenaccio Ottone Cromato 60 mm – Chiavistello in Ottone Fuso per Portelli e Ante</Name>
     <Brand>Osculati</Brand>
     <Description>Catenaccio in Ottone Cromato, 60 mm. In ottone cromato fuso, pertanto sono molto robusti. Anche il pistone è in ottone. Caratteristiche principali Costruzione in ottone fuso cromato per elevata resistenza alla corrosione marina Pistone in ottone per garan</Description>
@@ -15743,6 +15860,23 @@ L 320mm. - Ø22</Name>
     <ParentID>gancio-inox-75-mm-tipo-usa</ParentID>
   </Offer>
   <Offer>
+    <Name>Girella a Doppio Occhio in Acciaio Inox AISI 316 - Ø 10 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Girella a Doppio Occhio è un accessorio di ferramenta nautica di fondamentale importanza, appositamente studiato per essere inserito nelle linee di ormeggio e di ancoraggio. La sua funzione principale è quella di ruotare liberamente sul proprio asse, a</Description>
+    <OriginalPrice>10.90</OriginalPrice>
+    <Price>7.78</Price>
+    <Code>A54110</Code>
+    <Link>https://www.onautica.com/products/girella-doppio-occhio-acciaio-inox-aisi-316?variant=52653966066011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girella-doppio-occhio-acciaio-inox-aisi-316.webp?v=1774378063</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137064616</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girella-doppio-occhio-acciaio-inox-aisi-316misura.webp?v=1774378062</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>girella-doppio-occhio-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Girella a Doppio Occhio in Acciaio Inox AISI 316 - Ø 13 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>La Girella a Doppio Occhio è un accessorio di ferramenta nautica di fondamentale importanza, appositamente studiato per essere inserito nelle linee di ormeggio e di ancoraggio. La sua funzione principale è quella di ruotare liberamente sul proprio asse, a</Description>
@@ -16171,6 +16305,60 @@ L 320mm. - Ø22</Name>
     <ParentID>lucchetti-acciaio-inox-40-mm-in-set-3-pz-acciaio-inox-con-master-key</ParentID>
   </Offer>
   <Offer>
+    <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 30 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
+    <OriginalPrice>20.34</OriginalPrice>
+    <Price>14.53</Price>
+    <Code>0344433</Code>
+    <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52540570599771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000446</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misuremisura.webp?v=1777564696</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 40 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
+    <OriginalPrice>27.12</OriginalPrice>
+    <Price>19.37</Price>
+    <Code>0344444</Code>
+    <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52540570632539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000453</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misuremisura.webp?v=1777564696</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 50 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
+    <OriginalPrice>36.16</OriginalPrice>
+    <Price>25.83</Price>
+    <Code>0344455</Code>
+    <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52513538965851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626019707</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misuremisura.webp?v=1777564696</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Lucchetto Hardinox Arco Standard in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 30 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Lucchetto Hardinox Arco Standard in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco standard in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specifi</Description>
@@ -16224,6 +16412,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-standard-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564511</Image3>
     <Condition>nuovo</Condition>
     <ParentID>lucchetto-hardinox-arco-standard-acciaio-inox-specchio-nautica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manica a vento autoportante per oblò 30/40 cm. laterale Wind scoop</Name>
+    <Brand>Osculati</Brand>
+    <Description>Manica a vento autoportante per oblò 30/40 cm. laterale Wind scoop Caratteristiche principali Design autoportante: si installa senza supporti aggiuntivi, direttamente sull&apos;oblò Compatibile con oblò laterali da 30 a 40 cm Cattura e convoglia l&apos;aria esterna</Description>
+    <OriginalPrice>41.30</OriginalPrice>
+    <Price>29.50</Price>
+    <Code>10475</Code>
+    <Link>https://www.onautica.com/products/manica-a-vento-autoportante-per-oblo-30-40-cm-laterale-wind-scoop?variant=52577449181531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manica_a_vento_autoportante_per_obl_30_40_cm._laterale_Wind_scoop.png?v=1773341698</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>00020240175417</EanCode>
+    <Weight>270.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>manica-a-vento-autoportante-per-oblo-30-40-cm-laterale-wind-scoop</ParentID>
   </Offer>
   <Offer>
     <Name>Maniche a vento high profile Ø 70 mm.</Name>
@@ -17661,6 +17866,22 @@ L 320mm. - Ø22</Name>
     <ParentID>basetta-inox-completa</ParentID>
   </Offer>
   <Offer>
+    <Name>Basi Ø 25 mm. triangolari per candelieri piana</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Basi Ø 25 mm. triangolari per candelieri piana Le basi triangolari Ø 25 mm per candelieri piana sono elementi strutturali in acciaio inox pensati per il fissaggio e il supporto di candelieri su superfici piane a bordo. A chi è rivolto Ideale per armatori </Description>
+    <OriginalPrice>25.98</OriginalPrice>
+    <Price>18.56</Price>
+    <Code>0612525</Code>
+    <Link>https://www.onautica.com/products/basi-o-25-mm-triangolari-per-candelieri-piana?variant=52577419657563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Basi_25_mm._triangolari_per_candelieri_piana.png?v=1773341632</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023063</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>basi-o-25-mm-triangolari-per-candelieri-piana</ParentID>
+  </Offer>
+  <Offer>
     <Name>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo - Centralina elettronica 12/24V</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo Centralina elettronica di ricambio per frigoriferi e congelatori Vitrifrigo dotati di compressore Danfoss. Gestisce l&apos;alimentazione e i protocolli di sicurezza del compressore. Modelli </Description>
@@ -18246,6 +18467,24 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2121219b.png?v=1773341486</Image2>
     <Condition>nuovo</Condition>
     <ParentID>faro-da-crocetta-a-line-soft-still</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro di Profondità Night Eye LED con Attacco da Pulpito 12/24V</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Faro di profondità Night Eye LED con attacco da pulpito combina la potenza della tecnologia LED moderna con la versatilità di un faro orientabile e portatile. Progettato per resistere all&apos;ambiente marino, offre prestazioni eccezionali con un consumo ri</Description>
+    <OriginalPrice>210.27</OriginalPrice>
+    <Price>161.75</Price>
+    <Code>2121016</Code>
+    <Link>https://www.onautica.com/products/faro-profondita-night-eye-led-attacco-pulpito?variant=52577458946395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-profondita-night-eye-led-attacco-pulpito.png?v=1773341723</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626213884</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-profondita-night-eye-led-attacco-pulpito_dietro.png?v=1773341724</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-profondita-night-eye-led-attacco-misure.png?v=1773341724</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-profondita-night-eye-led-attacco-pulpito</ParentID>
   </Offer>
   <Offer>
     <Name>Faro Orientabile Manuale White Eye Alogeno 100W 12V – Base Estraibile</Name>
@@ -21054,6 +21293,23 @@ L 320mm. - Ø22</Name>
     <ParentID>iubbotto-salvagente-sv-100-100n-top-quality</ParentID>
   </Offer>
   <Offer>
+    <Name>Giubbotto Salvagente SV-100 - 100N Entro 3/6 miglia - 15&lt;&gt;30 Kg.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo giubbotto di salvataggio SV-100, modello Top Quality , è progettato per garantire sicurezza e comfort durante la navigazione costiera. Con una galleggiabilità di 100 Newton e la certificazione EN ISO 12402-4 , è la dotazione di sicurezza obbligator</Description>
+    <OriginalPrice>62.20</OriginalPrice>
+    <Price>34.55</Price>
+    <Code>22.483.60</Code>
+    <Link>https://www.onautica.com/products/iubbotto-salvagente-sv-100-100n-top-quality?variant=52513528316251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Giubbetto_10_20_kg._salvagente_con_mutandina.png?v=1773341893</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137034664</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/100N.png?v=1773341895</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>iubbotto-salvagente-sv-100-100n-top-quality</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giubbotto Salvagente SV-Isabel - 100N Entro 3/6 miglia - fino a 15 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilità di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla cos</Description>
@@ -21792,60 +22048,6 @@ L 320mm. - Ø22</Name>
     <EanCode>3701600405840</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>lucchetti-acciaio-inox-30-mm-in-set-3-pz-acciaio-inox-con-master-key</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 30 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
-    <OriginalPrice>20.34</OriginalPrice>
-    <Price>14.53</Price>
-    <Code>0344433</Code>
-    <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52540570599771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000446</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misuremisura.webp?v=1777564696</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 40 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
-    <OriginalPrice>27.12</OriginalPrice>
-    <Price>19.37</Price>
-    <Code>0344444</Code>
-    <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52540570632539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000453</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misuremisura.webp?v=1777564696</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio per Nautica – 3 Misure Disponibili - 50 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lucchetto Hardinox Arco Lungo in Acciaio Inox Lucidato a Specchio – Inattaccabile da Salsedine e Agenti Atmosferici Il lucchetto Hardinox con arco lungo in acciaio inox lucidato a specchio è la soluzione di sicurezza professionale progettata specificatame</Description>
-    <OriginalPrice>36.16</OriginalPrice>
-    <Price>25.83</Price>
-    <Code>0344455</Code>
-    <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52513538965851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626019707</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misuremisura.webp?v=1777564696</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica</ParentID>
   </Offer>
   <Offer>
     <Name>Luce di Cortesia LED &quot;Round Top&quot; in Acciaio Inox – IP67 – Montaggio Superficiale</Name>
@@ -23895,7 +24097,7 @@ L 320mm. - Ø22</Name>
     <Price>11.16</Price>
     <Code>LTS51</Code>
     <Link>https://www.onautica.com/products/atf-red-oil-invertitori-idraulici?variant=52577466777947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/atf-red-oil-invertitori-idraulici.png?v=1773341754</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24110,6 +24312,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8017369500142</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>crema-lucidante-multiuso-iosso-250-ml</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Crema lucidante multiuso IOSSO 50 ml.</Name>
+    <Brand>IOSSO</Brand>
+    <Description>Pasta lucidante non abrasiva utilizzabile su tutti i metalli: argento, inox, alluminio, ottone, rame, bronzo, oro e cromature. Ottima anche per lucidare vetroresina, plastiche, superfici smaltate, plexiglass, ecc. Non riga, non corrode né intacca, restitu</Description>
+    <OriginalPrice>11.20</OriginalPrice>
+    <Price>6.20</Price>
+    <Code>65.212.01</Code>
+    <Link>https://www.onautica.com/products/crema-lucidante-multiuso-iosso-50-ml?variant=52577432338779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Detergenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.212.01.png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8017369500111</EanCode>
+    <Weight>0.07</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>crema-lucidante-multiuso-iosso-50-ml</ParentID>
   </Offer>
   <Offer>
     <Name>Decap-in disincrostante per circuiti di raffreddamento 4 lt. IOSSO</Name>
@@ -24737,6 +24956,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033137013270</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanali-testa-albero-inox-r-i-n-a-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale testa d&apos;albero 360° con basetta bianco/bianco</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale di testa d&apos;albero 360° omologato COLREG72 , progettato per imbarcazioni fino a 20 metri . Realizzato in policarbonato bianco , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. Colore fanale: bianco/bianco Materiale:</Description>
+    <OriginalPrice>15.23</OriginalPrice>
+    <Price>10.88</Price>
+    <Code>2113301</Code>
+    <Link>https://www.onautica.com/products/fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m?variant=52577435156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/11.132.99.png?v=1773341653</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626065179</EanCode>
+    <Weight>120.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-testa-albero-bianco-bianco-360-thin-r-i-n-a-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale tricolore + fonda con lampade a led</Name>
@@ -25708,6 +25944,23 @@ L 320mm. - Ø22</Name>
     <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
   </Offer>
   <Offer>
+    <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 9 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
+    <OriginalPrice>30.13</OriginalPrice>
+    <Price>21.52</Price>
+    <Code>01.199.11</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-spring-acciaio-inox-lucidato?variant=52559508472155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-spring.png?v=1773341729</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033537065774</EanCode>
+    <Weight>0.93</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-spring-acciaio-inox-lucidato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 10 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
@@ -25881,6 +26134,22 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-motore-quicksilver-4-tempi-25w40_4_lt..png?v=1773341732</Image2>
     <Condition>nuovo</Condition>
     <ParentID>olio-motore-quicksilver-4-tempi-25w40</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Olio Motore GENERAL OIL Marine Speed 4 Tempi - 10W40 Sintetico</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Olio Motore General Oil F1 Mare 4T è un lubrificante innovativo a base sintetica , formulato con additivi tecnologicamente all&apos;avanguardia (Hyper ZDP System) per garantire prestazioni eccellenti su motori marini a 4 tempi di ultima generazione. Prestaz</Description>
+    <OriginalPrice>11.44</OriginalPrice>
+    <Price>10.40</Price>
+    <Code>65.082.00</Code>
+    <Link>https://www.onautica.com/products/olio-motore-general-oil-marine-speed-10w40?variant=52577527693659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-motore-general-oil-marine-speed-10w40.png?v=1773341943</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031413038511</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>olio-motore-general-oil-marine-speed-10w40</ParentID>
   </Offer>
   <Offer>
     <Name>Olio Motore Quicksilver® 4 Tempi 10W-30 Outboard Oil per Fuoribordo - 1 litro</Name>
@@ -26924,6 +27193,24 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825500b_b121e52d-1813-496f-baa0-9d73625988cb.png?v=1773341969</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-pompa-autoadescanti-el-marine-deck-45-lt-corpo-bronzo-24v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Autoclave Europump 4 Basso Consumo 12V – 3,8 l/min</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Autoclave Europump 4 a basso consumo è la soluzione ideale per chi cerca affidabilità ed efficienza energetica a bordo. Progettata per servire fino a 2 utenze contemporaneamente, questa pompa garantisce un flusso costante con un assorbimento di corrent</Description>
+    <OriginalPrice>32.30</OriginalPrice>
+    <Price>21.52</Price>
+    <Code>16.503.12</Code>
+    <Link>https://www.onautica.com/products/autoclave-europump-4-basso-consumo-12v?variant=52577375748443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007743</EanCode>
+    <Weight>450.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v_confezione.png?v=1773341521</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-europump-4-basso-consumo-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa autoclave Flojet triplex 11 lt/min. 12V</Name>
@@ -28398,6 +28685,23 @@ L 320mm. - Ø22</Name>
     <ParentID>tappo-ispezione-vite-bianco-ce</ParentID>
   </Offer>
   <Offer>
+    <Name>Tappo d&apos;Ispezione a Vite Bianco – Tenuta Stagna con O-Ring – Approvato CE - Ø 260x203 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>I Tappi d&apos;Ispezione a Vite Bianchi rappresentano lo standard di qualità e sicurezza per l&apos;accesso ai vani tecnici di bordo. Caratterizzati da un colore bianco classico che si adatta alla maggior parte dei gelcoat, offrono una soluzione certificata e durev</Description>
+    <OriginalPrice>14.59</OriginalPrice>
+    <Price>10.42</Price>
+    <Code>20.207.00</Code>
+    <Link>https://www.onautica.com/products/tappo-ispezione-vite-bianco-ce?variant=52513572454747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Tappi d Ispezione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-ispezione-vite-bianco-ce.jpg?v=1773341969</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137109461</EanCode>
+    <Weight>0.37</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-ispezione-vite-bianco-ce</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tappo d&apos;Ispezione a Vite Grigio RAL 7042 – Tenuta Stagna con O-Ring – Approvato CE - Ø 210x152 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Tappi d&apos;Ispezione a Vite Grigio RAL 7042 combinano un design elegante e funzionale con la massima sicurezza certificata. Ideali per garantire un accesso rapido e sicuro a valvole, serbatoi o vani tecnici, si integrano perfettamente su imbarcazioni con f</Description>
@@ -29342,6 +29646,22 @@ L 320mm. - Ø22</Name>
     <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
   </Offer>
   <Offer>
+    <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - BPR6EFS NGK</Name>
+    <Brand>NGK</Brand>
+    <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
+    <OriginalPrice>8.70</OriginalPrice>
+    <Price>6.24</Price>
+    <Code>47.558.26</Code>
+    <Link>https://www.onautica.com/products/candele-ngk-originali-motori-fuoribordo-marine?variant=53425578377563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_NGK_LKR7E.png?v=1773341637</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Candela_LFR5A-11_NHK.png?v=1773341638</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>candele-ngk-originali-motori-fuoribordo-marine</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cartucce SF per filtri turbine diesel SF10 micron 30</Name>
     <Brand>Motomarine</Brand>
     <Description>Cartucce di ricambio per filtri diesel Sacs SF , progettate per garantire un&apos;efficace separazione delle impurità dal carburante e proteggere il motore da contaminanti dannosi. Grazie alle dimensioni intercambiabili con i principali brand del settore, offr</Description>
@@ -29894,6 +30214,24 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro Carburante per Motori Fuoribordo Mercury / Mariner / Verado - 30/40 EFI 4</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma di Filtri Carburante specifici per motori fuoribordo Mercury, Mariner e Verado . Questi elementi filtranti sono fondamentali per proteggere il sistema di iniezione e i carburatori da acqua e impurità presenti nella benzina, garantendo prestazioni ot</Description>
+    <OriginalPrice>15.40</OriginalPrice>
+    <Price>9.06</Price>
+    <Code>17.504.50</Code>
+    <Link>https://www.onautica.com/products/filtro-carburante-fuoribordo-mercury?variant=52519798604123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-879885Q-T.png?v=1768328573</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137230042</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-8M0122423_35-8M0020349_35-884380T.png?v=1768328574</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-carburante-fuoribordo-mercury35-80365M_646-24251-02-00.png?v=1768328574</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro Carburante per Motori Fuoribordo Suzuki (4 Tempi) - 70-200 HP - 15412-92J00</Name>
     <Brand>Suzuki</Brand>
     <Description>Elementi filtranti per il carburante specifici per motori fuoribordo Suzuki Marine 4 Tempi (Serie DF) . Questi filtri sono essenziali per trattenere le impurità presenti nel serbatoio e garantire che al motore arrivi solo benzina pulita, preservando il si</Description>
@@ -30268,7 +30606,7 @@ L 320mm. - Ø22</Name>
     <Price>7.46</Price>
     <Code>10513</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-200-gr?variant=52577439514971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gelcoat_bianco_200_gr..png?v=1773341664</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30285,7 +30623,7 @@ L 320mm. - Ø22</Name>
     <Price>5.40</Price>
     <Code>65.520.05</Code>
     <Link>https://www.onautica.com/products/stucco-gelcoat-bianco-monocomponente-100-gr?variant=52577489060187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Stucco_Gelcoat_bianco_monocomponente_100_gr..png?v=1773341823</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -32414,6 +32752,24 @@ L 320mm. - Ø22</Name>
     <ParentID>spazzola-a-mano-osculati-con-impugnatura-anatomica</ParentID>
   </Offer>
   <Offer>
+    <Name>Spazzola a Mano Osculati – Spazzola Media con Passaggio Acqua per Lavaggio Coperta</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzola a mano i deale per il lavaggio frequente della coperta. Spazzola di media durezza, adatta a tutte le superfici. Tipo mm Spazzola con passaggio acqua, innesto a scatto standard 120x185 Caratteristiche principali Passaggio acqua integrato per un la</Description>
+    <OriginalPrice>10.22</OriginalPrice>
+    <Price>8.52</Price>
+    <Code>11004</Code>
+    <Link>https://www.onautica.com/products/spazzola-a-mano-osculati?variant=52577366376795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00.png?v=1773341481</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033731052538</EanCode>
+    <Weight>0.36</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00b.png?v=1773341481</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzola-a-mano-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Spazzola Boat Line per Pulizia Barca – Corpo in PVC con Bordo in Gomma Antiurto</Name>
     <Brand>Motomarine</Brand>
     <Description>La Spazzola Boat Line è progettata per affrontare lo sporco più ostinato e le incrostazioni più tenaci a bordo. Il corpo robusto in PVC garantisce durabilità nel tempo, mentre il bordo in gomma antiurto protegge le superfici della barca durante l&apos;utilizzo</Description>
@@ -33458,6 +33814,24 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626085184</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>boetta-luminosa-solas-med-sirius</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boetta Luminosa SOLAS/MED Vega – Lampada Galleggiante Omologata per Uomo a Mare</Name>
+    <Brand>LALIZAS</Brand>
+    <Description>Boetta luminosa galleggiante in materiale antiurto. \nUtilizza 4 pile alcaline D da 1,5 V. \nA norme Solas e direttiva comunitaria M.E.D. 96/98/CE. \nRegolamentare Marina Mercantile e Diporto. Caratteristiche principali Luce automatica ad alta visibilità,</Description>
+    <OriginalPrice>25.02</OriginalPrice>
+    <Price>18.26</Price>
+    <Code>3020005</Code>
+    <Link>https://www.onautica.com/products/offerta-boetta-luminosa-solas-med-vega?variant=52577456980315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Boetta_luminosa_Solas_med_vegav_2.png?v=1773341716</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626203113</EanCode>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Boetta_luminosa_Solas_med_vega_1.png?v=1773341718</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-boetta-luminosa-solas-med-vega</ParentID>
   </Offer>
   <Offer>
     <Name>Boetta Luminosa Starled a LED – Accensione Automatica a Rovesciamento, Omologata MED</Name>
@@ -37637,6 +38011,24 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_in_plastica.png?v=1764849341</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137014970</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.529.XX.png?v=1773341515</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-pieghevole-anticorodal-galleggiante</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scaletta in Tubo Anticorodal - Leggera e Galleggiante - 4 Gradini</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa scaletta è la soluzione ideale per la risalita a bordo, unendo la massima leggerezza e sicurezza alla resistenza tipica dei materiali nautici. È una scaletta leggerissima e galleggiante . Caratteristiche Premium: Materiale Scafo: Realizzata in tubo</Description>
+    <OriginalPrice>101.23</OriginalPrice>
+    <Price>63.27</Price>
+    <Code>49.529.04</Code>
+    <Link>https://www.onautica.com/products/scaletta-pieghevole-anticorodal-galleggiante?variant=52540581380443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_in_plastica.png?v=1764849341</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137014963</EanCode>
+    <Weight>2.44</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.529.XX.png?v=1773341515</Image2>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-pieghevole-anticorodal-galleggiante</ParentID>
@@ -46663,6 +47055,23 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock_misure.png?v=1773341715</Image2>
     <Condition>nuovo</Condition>
     <ParentID>toilette-manuale-jabsco-compact-twist-lock-wc-nautico</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Zerbino poliuretano 40x68 cm Ancora</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo zerbino mezzaluna Format misura 40x68 cm. è realizzato in poliuretano espanso a cellule chiuse, garantendo una struttura compatta e durevole. La superficie è rivestita con uno strato morbido di velour colorato, che assicura una piacevole sensazione</Description>
+    <OriginalPrice>27.72</OriginalPrice>
+    <Price>19.80</Price>
+    <Code>23.909.05</Code>
+    <Link>https://www.onautica.com/products/zerbino-poliuretano-40x68-cm-ancora?variant=52577500856667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Zerbini Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/zerbinoancora.png?v=1773341858</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137113390</EanCode>
+    <Weight>1.20</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>zerbino-poliuretano-40x68-cm-ancora</ParentID>
   </Offer>
   <Offer>
     <Name>Zerbino poliuretano 40x68 cm. Marlin</Name>
