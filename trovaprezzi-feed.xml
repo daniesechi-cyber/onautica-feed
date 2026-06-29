@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-29T14:30:57.670Z -->
+<!-- Generato: 2026-06-29T18:11:18.503Z -->
 <!-- Offerte: 2788 -->
 <Products>
   <Offer>
@@ -3593,6 +3593,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_centrale_L_130_mm._80_mm._foro_16_mm..png?v=1773341803</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137067563</EanCode>
+    <Weight>600.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>rullo-centrale-l-130-mm-o-80-mm-foro-o-16-mm</ParentID>
   </Offer>
@@ -3641,7 +3642,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_centrale_L_220_mm._80_mm._foro_20_mm._ECO.png?v=1773341804</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626078544</EanCode>
-    <Weight>840.00</Weight>
+    <Weight>0.84</Weight>
     <Condition>nuovo</Condition>
     <ParentID>rullo-centrale-l-220-mm-o-80-mm-foro-o-20-mm-eco</ParentID>
   </Offer>
@@ -3707,7 +3708,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>0202907</EanCode>
-    <Weight>410.00</Weight>
+    <Weight>0.41</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_74_mm._120_mm._foro_21_mm._laterale_blu.png?v=1773341804</Image2>
     <Condition>nuovo</Condition>
     <ParentID>rullo-laterale-tecnopolimero-gomma</ParentID>
@@ -15569,6 +15570,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Compasso_a_molla_10_mm._-_L_220_mm..png?v=1773341649</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626049247</EanCode>
+    <Weight>100.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Compasso_a_molla_10_mm._-_L_220_mm._3.png?v=1773341649</Image2>
     <Condition>nuovo</Condition>
     <ParentID>compasso-a-molla-o-10-mm-l-220-mm</ParentID>
@@ -17928,7 +17930,7 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150n.png?v=1773341730</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Weight>620.00</Weight>
+    <Weight>0.62</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura150nb.png?v=1773341730</Image2>
     <Condition>nuovo</Condition>
     <ParentID>salvagente-150n-oltre-6-miglia</ParentID>
@@ -17995,23 +17997,6 @@ L 320mm. - Ø22</Name>
     <EanCode>5412386067228</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>crc-5-56-lubrificante-multiuso-spray-300ml-nautica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>CRC 6-66 Marine Lubrificante Multiuso Spray per Ambiente Marino - 200 ml.</Name>
-    <Brand>CRC</Brand>
-    <Description>CRC 6-66 Marine – Lubrificante Multiuso Spray Specifico per Ambiente Salmastroso e Marino Il CRC 6-66 Marine è il lubrificante multiuso spray professionale specifico per ambiente marino e salmastroso , progettato per proteggere ogni componente dell&apos;imbarc</Description>
-    <OriginalPrice>12.90</OriginalPrice>
-    <Price>7.19</Price>
-    <Code>C0182</Code>
-    <Link>https://www.onautica.com/products/crc-6-66-marine-lubrificante-multiuso-spray?variant=52525363495259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino.webp?v=1776183546</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5412386040092</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino400ml.webp?v=1776183546</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>crc-6-66-marine-lubrificante-multiuso-spray</ParentID>
   </Offer>
   <Offer>
     <Name>CRC Contact Cleaner Detergente Riattivante per Contatti Spray 250 ml</Name>
@@ -21459,7 +21444,7 @@ L 320mm. - Ø22</Name>
     <ParentID>giunto-t-90-inox-aisi316-fusione</ParentID>
   </Offer>
   <Offer>
-    <Name>Giunto T Aperto 60° in Acciaio Inox Stampato - Ø 22 mm.</Name>
+    <Name>Giunto T Aperto 60�� in Acciaio Inox Stampato - Ø 22 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo giunto a T aperto è un componente essenziale per la costruzione o la riparazione di strutture tubolari come pulpiti, draglie e tendalini. Caratteristiche Principali: Angolo: Angolo fisso di 60° per giunzioni oblique. Materiale: Realizzato in Acciai</Description>
     <OriginalPrice>7.59</OriginalPrice>
@@ -21475,7 +21460,7 @@ L 320mm. - Ø22</Name>
     <ParentID>giunto-t-aperto-60-inox-tubolari</ParentID>
   </Offer>
   <Offer>
-    <Name>Giunto T Aperto 60° in Acciaio Inox Stampato - Ø 25 mm.</Name>
+    <Name>Giunto T Aperto 60�� in Acciaio Inox Stampato - Ø 25 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo giunto a T aperto è un componente essenziale per la costruzione o la riparazione di strutture tubolari come pulpiti, draglie e tendalini. Caratteristiche Principali: Angolo: Angolo fisso di 60° per giunzioni oblique. Materiale: Realizzato in Acciai</Description>
     <OriginalPrice>13.23</OriginalPrice>
@@ -24196,6 +24181,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8017369507882</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cera-protettiva-per-gommoni-iosso-raft-wax</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Chem WC disgregante antifermentativo per WC chimici e serbatoi acque nere 1 lt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Igiene Totale e Controllo degli Odori per WC Chimici e Serbatoi Fissi &quot;Chem WC&quot; è un potente additivo liquido ad azione disintegrante e antifermentativa , formulato specificamente per il trattamento dei WC chimici e dei serbatoi delle acque nere di camper</Description>
+    <OriginalPrice>13.11</OriginalPrice>
+    <Price>7.28</Price>
+    <Code>50.208.80</Code>
+    <Link>https://www.onautica.com/products/chem-wc-disgregante-antifermentativo-per-wc-chimici-e-serbatoi-acque-nere?variant=52577428504923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Prodotti Chimici WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Chem_WC_-_Disgregante_antifermentativo_per_WC_chimici_e_serbatoi_acque_nere.png?v=1773341645</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137019692</EanCode>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>chem-wc-disgregante-antifermentativo-per-wc-chimici-e-serbatoi-acque-nere</ParentID>
   </Offer>
   <Offer>
     <Name>Cleaner per muffa Raft Mould IOSSO 750 ml.</Name>
@@ -31418,6 +31420,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompetta_688b9c2e-a8e5-48eb-be87-212548996936.png?v=1773341968</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137017728</EanCode>
+    <Weight>100.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompetta-benzina-o-10-mm</ParentID>
   </Offer>
@@ -38335,6 +38338,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-240-33-ohm.png?v=1767896811</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137008924</EanCode>
+    <Weight>300.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-240-33-ohmattacco.png?v=1767896811</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-240-33-ohmbase.png?v=1767896811</Image3>
     <Condition>nuovo</Condition>
