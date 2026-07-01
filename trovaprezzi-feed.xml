@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-06-30T18:10:53.731Z -->
-<!-- Offerte: 2798 -->
+<!-- Generato: 2026-07-01T06:30:55.210Z -->
+<!-- Offerte: 2800 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -3791,7 +3791,7 @@
     <Price>5.67</Price>
     <Code>02.029.14</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445066587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4382,7 +4382,7 @@
     <Price>9.74</Price>
     <Code>22.409.23</Code>
     <Link>https://www.onautica.com/products/segnalatore-elettronico-automatico-cinture-salvataggio-med?variant=52741204640091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segnalatore-elettronico-automatico-cinture-salvataggio.webp?v=1775206470</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -6109,7 +6109,7 @@
   <Offer>
     <Name>Anodo di Poppa 140x35 mm in Alluminio – Anodo Sacrificale Anticorrosione per Barca</Name>
     <Brand>Osculati</Brand>
-    <Description>Anodo per poppa. Materiale �� base mm Altezza mm alluminio 140 35 1,3 Caratteristiche principali Realizzato in lega di alluminio , ideale per acque salmastre e salate Dimensioni compatte 140x35 mm , progettate per un&apos;installazione precisa a poppa Protegge</Description>
+    <Description>Anodo per poppa. Materiale Ø base mm Altezza mm alluminio 140 35 1,3 Caratteristiche principali Realizzato in lega di alluminio , ideale per acque salmastre e salate Dimensioni compatte 140x35 mm , progettate per un&apos;installazione precisa a poppa Protegge </Description>
     <OriginalPrice>94.02</OriginalPrice>
     <Price>62.68</Price>
     <Code>43.210.13</Code>
@@ -11180,24 +11180,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cassetta-di-pronto-soccorso-help</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 25 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
-    <OriginalPrice>115.00</OriginalPrice>
-    <Price>88.46</Price>
-    <Code>01.373.06-025</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass?variant=51836792832347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>20.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 50 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
@@ -12238,7 +12220,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13345,6 +13327,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8033137170119</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>kit-riparazione-gommoni-sup-tender-per-pvc-con-tessuto</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Segnali di Soccorso Entro 3 Miglia in Custodia PVC Apribile e Impermeabile (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Kit Segnali di Soccorso in Custodia PVC Apribile e Impermeabile Entro le 3 Miglia è la dotazione di sicurezza obbligatoria e aggiornata per navigare in totale regola e tranquillità in prossimità della costa. Questo kit è rigorosamente conforme alle ult</Description>
+    <OriginalPrice>44.20</OriginalPrice>
+    <Price>38.43</Price>
+    <Code>KIT3Custodia</Code>
+    <Link>https://www.onautica.com/products/kit-segnali-di-soccorso-entro-3-miglia-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024?variant=53356821741915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-segnali-soccorso-3-miglia-custodia-pvc-impermeabile-fp-srl.webp?v=1781112102</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.75</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-segnali-di-soccorso-entro-3-miglia-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio in Custodia PVC Apribile e Impermeabile (DM 21/09/2024)</Name>
@@ -14970,7 +14968,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21780,7 +21778,7 @@ L 320mm. - Ø22</Name>
     <Price>25.64</Price>
     <Code>10541804618075-53411658531163</Code>
     <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53411658531163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21794,7 +21792,7 @@ L 320mm. - Ø22</Name>
     <Price>30.90</Price>
     <Code>10541804618075-53412170793307</Code>
     <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53412170793307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30628,7 +30626,7 @@ L 320mm. - Ø22</Name>
     <Price>13.41</Price>
     <Code>GIPS010</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-1kg-con-catalizzatore?variant=52577502855515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat_f60f7dea-758b-499b-a150-a6d4e70e802c.png?v=1773341865</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -31185,7 +31183,7 @@ L 320mm. - Ø22</Name>
     <Price>15.52</Price>
     <Code>PRL0005</Code>
     <Link>https://www.onautica.com/products/kit-resina-e-lana-di-vetro?variant=52577503379803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/resinakit.png?v=1773341867</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -32323,6 +32321,37 @@ L 320mm. - Ø22</Name>
     <ParentID>resina-epossidica-safe-repox-2010-kit-1kg</ParentID>
   </Offer>
   <Offer>
+    <Name>Resina Poliestere con catalizzatore - 0.750 litri</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Questa resina poliestere, fornita completa del suo catalizzatore (accelerante), è la soluzione standard e più versatile per tutte le operazioni di laminazione, riparazione e costruzione in vetroresina. È un prodotto bicomponente (resina + catalizzatore) e</Description>
+    <OriginalPrice>21.60</OriginalPrice>
+    <Price>14.37</Price>
+    <Code>PRL0001</Code>
+    <Link>https://www.onautica.com/products/resina-poliestere-con-catalizzatore?variant=52552788869467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/resina.png?v=1773341869</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033745210191</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>resina-poliestere-con-catalizzatore</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Resina Poliestere con catalizzatore - 5 Litri</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Questa resina poliestere, fornita completa del suo catalizzatore (accelerante), è la soluzione standard e più versatile per tutte le operazioni di laminazione, riparazione e costruzione in vetroresina. È un prodotto bicomponente (resina + catalizzatore) e</Description>
+    <OriginalPrice>94.80</OriginalPrice>
+    <Price>63.21</Price>
+    <Code>PRL0013</Code>
+    <Link>https://www.onautica.com/products/resina-poliestere-con-catalizzatore?variant=52513556889947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/resina.png?v=1773341869</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>resina-poliestere-con-catalizzatore</ParentID>
+  </Offer>
+  <Offer>
     <Name>Riduzione Maschio Femmina in Acciaio Inox AISI 316 - 1&quot;1/4x1&quot;</Name>
     <Brand>Osculati</Brand>
     <Description>Raccordo di riduzione in Acciaio Inox , con un lato maschio e uno femmina. Essenziale per collegare linee idrauliche di diametro diverso (riduzione) e resistente alla corrosione di bordo. Materiale Tipologia Acciaio Inox Riduzione Maschio - Femmina (M-F) </Description>
@@ -32882,7 +32911,7 @@ L 320mm. - Ø22</Name>
     <Price>6.62</Price>
     <Code>PSM0002</Code>
     <Link>https://www.onautica.com/products/stucco-metallico-per-riparazioni?variant=52552791425371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccometallico.png?v=1773341949</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -32898,13 +32927,47 @@ L 320mm. - Ø22</Name>
     <Price>14.53</Price>
     <Code>PSM0003</Code>
     <Link>https://www.onautica.com/products/stucco-metallico-per-riparazioni?variant=52513570718043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccometallico.png?v=1773341949</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033745210030</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>stucco-metallico-per-riparazioni</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Stucco Vetroresina per riparazioni - 375 ml.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Quando i danni sullo scafo vanno oltre il semplice graffio, lo stucco in vetroresina bicomponente offre una soluzione robusta e definitiva. Scopri perché è indispensabile nel kit di manutenzione di ogni diportista e come utilizzarlo per riparazioni strutt</Description>
+    <OriginalPrice>12.70</OriginalPrice>
+    <Price>7.86</Price>
+    <Code>LASSTVET500</Code>
+    <Link>https://www.onautica.com/products/stucco-vetroresina-per-riparazioni?variant=52552792572251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccovetroresina.png?v=1773341949</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033745210160</EanCode>
+    <Weight>400.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>stucco-vetroresina-per-riparazioni</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Stucco Vetroresina per riparazioni - 750 ml.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Quando i danni sullo scafo vanno oltre il semplice graffio, lo stucco in vetroresina bicomponente offre una soluzione robusta e definitiva. Scopri perché è indispensabile nel kit di manutenzione di ogni diportista e come utilizzarlo per riparazioni strutt</Description>
+    <OriginalPrice>24.10</OriginalPrice>
+    <Price>14.89</Price>
+    <Code>LASSTVET750</Code>
+    <Link>https://www.onautica.com/products/stucco-vetroresina-per-riparazioni?variant=52513570750811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccovetroresina.png?v=1773341949</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033745210177</EanCode>
+    <Weight>0.80</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>stucco-vetroresina-per-riparazioni</ParentID>
   </Offer>
   <Offer>
     <Name>Succhiarola di Fondo in Ottone con Filtro Inox – Per Sentina - Orizzontale Ø 25 mm.</Name>
@@ -38334,25 +38397,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
   </Offer>
   <Offer>
-    <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (0-190 Ohm) - 22 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Sensori di Livello Verticali S5 sono la soluzione universale e affidabile per il monitoraggio dei liquidi a bordo. Realizzati interamente in Acciaio Inox 316 , garantiscono la massima resistenza alla corrosione e sono compatibili sia con serbatoi di car</Description>
-    <OriginalPrice>33.40</OriginalPrice>
-    <Price>18.54</Price>
-    <Code>27.161.22</Code>
-    <Link>https://www.onautica.com/products/sensore-livello-verticale-s5-inox-0-190-ohm?variant=52520156299611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm.jpg?v=1773341988</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137009112</EanCode>
-    <Weight>280.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (0-190 Ohm) - 25 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Sensori di Livello Verticali S5 sono la soluzione universale e affidabile per il monitoraggio dei liquidi a bordo. Realizzati interamente in Acciaio Inox 316 , garantiscono la massima resistenza alla corrosione e sono compatibili sia con serbatoi di car</Description>
@@ -39041,24 +39085,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-rifornimento-filo-inox-maniglietta_carburante_dritto.png?v=1773341472</Image3>
     <Condition>nuovo</Condition>
     <ParentID>tappo-rifornimento-filo-inox-maniglietta-apertura</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tappo Imbarco in Plastica con Coperchio Stagno – Acqua e Carburante - Acqua Ø 38 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questi Tappi di Imbarco in Plastica sono la soluzione ideale per chi cerca funzionalità e resistenza a un prezzo contenuto. Progettati con un corpo interamente in materiale plastico, eliminano definitivamente il problema della corrosione e dell&apos;ossidazion</Description>
-    <OriginalPrice>21.26</OriginalPrice>
-    <Price>15.75</Price>
-    <Code>4043142</Code>
-    <Link>https://www.onautica.com/products/tappo-imbarco-plastica-coperchio-stagno?variant=52513572749659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-imbarco-plastica-coperchio-water.png?v=1773341903</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626118059</EanCode>
-    <Weight>0.12</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-imbarco-plastica-coperchio-fuel.png?v=1773341840</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-imbarco-plastica-coperchio-stagno</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo Imbarco in Plastica con Coperchio Stagno – Acqua e Carburante - Carburante Ø 50 mm.</Name>
