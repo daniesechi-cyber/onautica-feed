@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-02T06:31:20.889Z -->
+<!-- Generato: 2026-07-02T10:31:18.836Z -->
 <!-- Offerte: 2895 -->
 <Products>
   <Offer>
@@ -22622,6 +22622,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-piede-quicksilver-sae-80w90-premium-blend_1lt..png?v=1773341732</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626150363</EanCode>
+    <Weight>1.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-piede-quicksilver-sae-80w90-premium-blend_237_ml..png?v=1773341732</Image2>
     <Condition>nuovo</Condition>
     <ParentID>olio-piede-quicksilver-sae-80w90-gear-lube</ParentID>
@@ -26235,6 +26236,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-motore-quicksilver-4-tempi-10w30-outboard1lt.png?v=1765699707</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>7450619330648</EanCode>
+    <Weight>4.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-motore-quicksilver-4-tempi-10w30-outboard4lt.png?v=1765699775</Image2>
     <Condition>nuovo</Condition>
     <ParentID>olio-motore-quicksilver-4-tempi-10w30-fuoribordo</ParentID>
@@ -26696,7 +26698,7 @@ L 320mm. - Ø22</Name>
     <Price>23.82</Price>
     <Code>33.212.10</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459001691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
