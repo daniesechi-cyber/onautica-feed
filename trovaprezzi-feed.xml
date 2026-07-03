@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-02T18:11:03.504Z -->
-<!-- Offerte: 2922 -->
+<!-- Generato: 2026-07-03T06:31:53.049Z -->
+<!-- Offerte: 2941 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -569,6 +569,23 @@
     <ParentID>ancora-tipo-danforth-acciaio-zincato</ParentID>
   </Offer>
   <Offer>
+    <Name>Ancora tipo Danforth in Acciaio Zincato - 15 Kg.</Name>
+    <Brand>Danforth</Brand>
+    <Description>L&apos;Ancora Tipo Danforth è un&apos;ancora tradizionale nota per il suo eccezionale rapporto tra peso e potere di tenuta (HHP, High-Holding Power). Il suo design a marre lunghe e piatte è ottimizzato per affondare profondamente nei fondali morbidi, dove può eserc</Description>
+    <OriginalPrice>95.68</OriginalPrice>
+    <Price>73.60</Price>
+    <Code>0105015</Code>
+    <Link>https://www.onautica.com/products/ancora-tipo-danforth-acciaio-zincato?variant=52577377648987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoratipoDanforth.png?v=1773341522</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>15.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoratipoDanforth2.png?v=1773341523</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-tipo-danforth-acciaio-zincato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Anodi a Flangia in Lega di Zinco per Protezione Catodica - Ø 90 mm.</Name>
     <Brand>Martyr</Brand>
     <Description>Questi anodi a flangia sono progettati per la protezione catodica di timone e scafo , essenziali per contrastare in modo efficace la corrosione in ambiente marino. Sono una soluzione ideale per la motonautica e gli accessori nautici che richiedono una pro</Description>
@@ -1071,6 +1088,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavallotirimorchiob.png?v=1763578343</Image2>
     <Condition>nuovo</Condition>
     <ParentID>staffa-ad-u-fissaggio-rulli</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 5 mm. - 7.5 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo cavo è un componente di ricambio essenziale per i verricelli e gli arganelli a mano. È realizzato in acciaio zincato flessibile di tipo **“Aircraft”**, offrendo un&apos;eccellente combinazione di resistenza meccanica e flessibilità, essenziale per il co</Description>
+    <OriginalPrice>27.62</OriginalPrice>
+    <Price>15.34</Price>
+    <Code>02.091.02</Code>
+    <Link>https://www.onautica.com/products/cavo-verricello-acciaio-zincato-aircraft-moschettone?variant=52543881773403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_verricello_6_mm._x_7_5_mt.png?v=1773341643</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033537046150</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-verricello-acciaio-zincato-aircraft-moschettone</ParentID>
   </Offer>
   <Offer>
     <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 6 mm. - 7.5 mt.</Name>
@@ -2425,6 +2458,24 @@
     <ParentID>giunto-apribile-tas-inox-aisi-316-capottine</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto per ancora girevole con snodo per catena Ø 6/8 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo giunto per ancora rappresenta la soluzione tecnicamente più avanzata per chi cerca la massima efficienza e sicurezza nella linea di ancoraggio. Il suo design innovativo combina due funzioni essenziali: è sia girevole che snodato . Questa doppia art</Description>
+    <OriginalPrice>35.55</OriginalPrice>
+    <Price>25.40</Price>
+    <Code>0133418</Code>
+    <Link>https://www.onautica.com/products/giunto-ancora-girevole-con-snodo-o-6-8-mm?variant=52577440989531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_girevole_con_snodo_6_8_mm..png?v=1773341667</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626005083</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_girevole_con_snodo_6_8_mm._3.png?v=1773341668</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Giunto_ancora_girevole_con_snodo_6_8_mm._1.png?v=1773341669</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-ancora-girevole-con-snodo-o-6-8-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto per ancora girevole per catena Ø 10/12 mm. Douglas Marine</Name>
     <Brand>Motomarine</Brand>
     <Description>Il giunto girevole per ancora &quot;SECURE&quot; della Douglas Marine è un accessorio fondamentale per ottimizzare il sistema di ancoraggio della tua imbarcazione. Progettato in modo intelligente, risolve due dei problemi più comuni durante il salpaggio: evita che </Description>
@@ -3770,7 +3821,7 @@
     <Price>6.11</Price>
     <Code>02.029.07</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445033819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4379,7 +4430,7 @@
     <Price>10.89</Price>
     <Code>22.409.23</Code>
     <Link>https://www.onautica.com/products/segnalatore-elettronico-automatico-cinture-salvataggio-med?variant=52741204640091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/segnalatore-elettronico-automatico-cinture-salvataggio.webp?v=1775206470</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -7874,6 +7925,23 @@
     <ParentID>asta-portabandiera-h-500-mm-ottone-cromato</ParentID>
   </Offer>
   <Offer>
+    <Name>Asta Portabandiera in Teak 600 mm – Asta Bandiera in Legno con Pomello per Barca</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa asta portabandiera in legno massiccio di Teak ARC è progettata specificamente per l’uso nautico. Il suo resistente materiale assicura durabilità e una finitura elegante, ideale per esporre la bandiera con stile a bordo. Il pomello terminale complet</Description>
+    <OriginalPrice>34.68</OriginalPrice>
+    <Price>24.77</Price>
+    <Code>71.607.50</Code>
+    <Link>https://www.onautica.com/products/asta-bandiera-teak-60-cm?variant=52577417036123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_bandiera_teak_60_cm..png?v=1773341624</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137174285</EanCode>
+    <Weight>260.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-bandiera-teak-60-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bandiera della Sardegna (Quattro Mori) in Poliestere Nautico - 30x45 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>La Bandiera della Sardegna , l&apos;iconico vessillo dei Quattro Mori, è realizzata in tessuto di poliestere di alta qualità . Questo materiale è stato scelto specificamente per l&apos;uso nautico ed esterno, garantendo un&apos;ottima resistenza agli agenti atmosferici </Description>
@@ -10755,6 +10823,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>tromba-marco-cr-doppia-ottone-cromato</ParentID>
   </Offer>
   <Offer>
+    <Name>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica - Bianco</Name>
+    <Brand>Veneziani</Brand>
+    <Description>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica in Neoprene, PVC e Hypalon La Veneziani Gummipaint A/F è un&apos; antivegetativa specifica per gommoni con carena elastica , formulata con una matrice elastica ad alto potere antivegetat</Description>
+    <OriginalPrice>113.08</OriginalPrice>
+    <Price>56.54</Price>
+    <Code>65.009.11BI</Code>
+    <Link>https://www.onautica.com/products/veneziani-gummipaint-antivegetativa-gommoni-carena-elastica?variant=52516126589275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/veneziani-gummipaint-antivegetativa-gommoni-carena-elastica.webp?v=1776179125</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099711282</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>veneziani-gummipaint-antivegetativa-gommoni-carena-elastica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica - Grigio</Name>
     <Brand>Veneziani</Brand>
     <Description>Veneziani Gummipaint A/F – Antivegetativa per Gommoni con Carena Elastica in Neoprene, PVC e Hypalon La Veneziani Gummipaint A/F è un&apos; antivegetativa specifica per gommoni con carena elastica , formulata con una matrice elastica ad alto potere antivegetat</Description>
@@ -11253,6 +11337,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/32.914.54.png?v=1773341939</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cassetta-di-pronto-soccorso-help</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 25 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Catena Calibrata Zincata a Fuoco 6 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 6 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
+    <OriginalPrice>107.20</OriginalPrice>
+    <Price>82.49</Price>
+    <Code>01.373.06-025</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass?variant=51836792832347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass.webp?v=1777455663</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>20.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmaglia.webp?v=1777455664</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlassmisura.webp?v=1777455663</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-zincata-fuoco-6mm-salpa-ancora-windlass</ParentID>
   </Offer>
   <Offer>
     <Name>Catena Calibrata Zincata a Fuoco 6 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 50 mt.</Name>
@@ -12279,7 +12381,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14697,8 +14799,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Sigillante Marino Sikaflex® 591 – Tubetto Autoestrudente 70 ml - Nero</Name>
     <Brand>Sikaflex</Brand>
     <Description>Il Sikaflex® 591 in Tubetto Autoestrudente da 70 ml è la soluzione pratica e immediata per sigillature e piccoli incollaggi a bordo, senza la necessità di utilizzare l&apos;ingombrante pistola per cartucce. Basato sulla tecnologia ibrida dei Polimeri a Termina</Description>
-    <OriginalPrice>15.50</OriginalPrice>
-    <Price>9.67</Price>
+    <OriginalPrice>17.20</OriginalPrice>
+    <Price>10.78</Price>
     <Code>11439</Code>
     <Link>https://www.onautica.com/products/sikaflex-591-tubetto-autoestrudente-70ml?variant=52513436893531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -14715,8 +14817,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Sigillante Marino Sikaflex® 591 – Tubetto Autoestrudente 70 ml - Bianco</Name>
     <Brand>Sikaflex</Brand>
     <Description>Il Sikaflex® 591 in Tubetto Autoestrudente da 70 ml è la soluzione pratica e immediata per sigillature e piccoli incollaggi a bordo, senza la necessità di utilizzare l&apos;ingombrante pistola per cartucce. Basato sulla tecnologia ibrida dei Polimeri a Termina</Description>
-    <OriginalPrice>15.50</OriginalPrice>
-    <Price>9.67</Price>
+    <OriginalPrice>17.20</OriginalPrice>
+    <Price>10.78</Price>
     <Code>10598</Code>
     <Link>https://www.onautica.com/products/sikaflex-591-tubetto-autoestrudente-70ml?variant=52517462966619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -16327,6 +16429,23 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8051015130376</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>grillo-diritto-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Grillo diritto acciaio inox AISI 316 per applicazioni nautiche e fissaggi resistenti - Ø 16 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Affidabilità, resistenza e precisione: questo grillo a “D” in acciaio inox è progettato per garantire collegamenti sicuri in ambito nautico, ancoraggio e rigging, offrendo performance costanti anche in ambienti marini aggressivi. Costruzione premium per u</Description>
+    <OriginalPrice>15.10</OriginalPrice>
+    <Price>10.79</Price>
+    <Code>A521B16</Code>
+    <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601336667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051015130383</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-diritto-inox-aisi-316</ParentID>
@@ -19016,6 +19135,23 @@ L 320mm. - Ø22</Name>
     <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
   </Offer>
   <Offer>
+    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 70 - 66 lt.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
+    <OriginalPrice>170.50</OriginalPrice>
+    <Price>136.43</Price>
+    <Code>50.558.26</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035907419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica13.png?v=1773341723</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ghiacciaia Igloo Polar 120 QT - 114l t.</Name>
     <Brand>Igloo</Brand>
     <Description>Questa ghiacciaia Igloo è construita con isolamento Ultratherm® nel corpo e nel coperchio trattiene il ghiaccio fino a 5 giorni. Maniglie rinforzate ribaltabili con funzione di anello di fissaggio per un trasporto e un carico versatili. Le doppie chiusure</Description>
@@ -19251,6 +19387,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626052094</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814465</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>25.71</OriginalPrice>
+    <Price>17.14</Price>
+    <Code>1814465</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740065115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052100</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
     <Condition>nuovo</Condition>
@@ -20799,6 +20953,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814305</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
+    <OriginalPrice>26.23</OriginalPrice>
+    <Price>17.49</Price>
+    <Code>1814305</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777125723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051875</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814304</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
@@ -21200,7 +21372,7 @@ L 320mm. - Ø22</Name>
     <Price>52.24</Price>
     <Code>3010102-4PZ</Code>
     <Link>https://www.onautica.com/products/giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-4-pezzi?variant=53483108532571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-conf-4pz-3240.webp?v=1782926995</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21216,7 +21388,7 @@ L 320mm. - Ø22</Name>
     <Price>78.36</Price>
     <Code>3010102-6PZ</Code>
     <Link>https://www.onautica.com/products/giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-6-pezzi?variant=53483111907675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-conf-6pz-3240.webp?v=1782927003</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21224,6 +21396,22 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-marino-3240_08c79da1-3773-4ac6-be6f-537702cd8129.webp?v=1782927009</Image3>
     <Condition>nuovo</Condition>
     <ParentID>giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-6-pezzi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giubbotto di Salvataggio 100N entro 6 Miglia (Oltre 40 Kg) – Pacco 8 pezzi</Name>
+    <Brand>Osculati</Brand>
+    <Description>Confezione da 8 giubbotti di salvataggio 100N taglia adulto oltre 40 kg , per la navigazione da diporto entro 6 miglia dalla costa. Un unico acquisto per dotare l&apos;intero equipaggio: pensata per charter, scuole vela, noleggi, associazioni e famiglie numero</Description>
+    <Price>104.48</Price>
+    <Code>3010102-8PZ</Code>
+    <Link>https://www.onautica.com/products/giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-8-pezzi?variant=53483112694107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-conf-8pz-3240.webp?v=1782927013</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-singolo-3240_1d9ed807-911d-45c0-8d0d-e65054392d1e.webp?v=1782927015</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-marino-3240_4a92b84e-26ec-47cb-b08b-7004431845ba.webp?v=1782927018</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-8-pezzi</ParentID>
   </Offer>
   <Offer>
     <Name>Giubbotto di Salvataggio 170N omologata Solas M.E.D. - 15&lt;&gt;43 Kg.</Name>
@@ -21780,7 +21968,7 @@ L 320mm. - Ø22</Name>
     <Price>25.64</Price>
     <Code>10541804618075-53411658531163</Code>
     <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53411658531163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -21794,7 +21982,7 @@ L 320mm. - Ø22</Name>
     <Price>30.90</Price>
     <Code>10541804618075-53412170793307</Code>
     <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53412170793307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24060,6 +24248,25 @@ L 320mm. - Ø22</Name>
     <ParentID>cassetta-portabatteria-nautica-abs-polipropilene</ParentID>
   </Offer>
   <Offer>
+    <Name>Cassetta Portabatteria Nautica - Protezione Rigida per Accumulatori - 100 Ah ABS Rinforzato</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa gamma di cassette portabatteria è essenziale per la sicurezza elettrica e l&apos;isolamento degli accumulatori a bordo. Sono progettate per contenere e proteggere la batteria da urti, polvere e schizzi, minimizzando il rischio di cortocircuiti e fuorius</Description>
+    <OriginalPrice>26.25</OriginalPrice>
+    <Price>14.58</Price>
+    <Code>2030006</Code>
+    <Link>https://www.onautica.com/products/cassetta-portabatteria-nautica-abs-polipropilene?variant=52543553044827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabatteria_100_amp_rinforzato.png?v=1764676799</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626059642</EanCode>
+    <Weight>300.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2030015.png?v=1773341931</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabatteria_in_ABS_50A_rosso_290x200x260_mm..png?v=1773341773</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cassetta-portabatteria-nautica-abs-polipropilene</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cassetta Portabatteria Nautica - Protezione Rigida per Accumulatori - 200 o più Ampere</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa gamma di cassette portabatteria è essenziale per la sicurezza elettrica e l&apos;isolamento degli accumulatori a bordo. Sono progettate per contenere e proteggere la batteria da urti, polvere e schizzi, minimizzando il rischio di cortocircuiti e fuorius</Description>
@@ -25824,6 +26031,23 @@ L 320mm. - Ø22</Name>
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
   </Offer>
   <Offer>
+    <Name>Mezzomarinaro Telescopico in Alluminio Anodizzato 60-100 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Mezzomarinaro Telescopico è uno strumento indispensabile per le manovre d&apos;ormeggio e d&apos;accosto, progettato per offrire massima praticità e ingombro ridotto. Caratterizzato da una struttura in alluminio anodizzato di alta qualità, questo gancio d&apos;accost</Description>
+    <Price>15.95</Price>
+    <Code>34.459.02</Code>
+    <Link>https://www.onautica.com/products/mezzomarinaro-telescopico-alluminio-60-100cm?variant=52577366573403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cmtesta.webp?v=1775578861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137016219</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cmmanico.webp?v=1775578861</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cm.webp?v=1775578861</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>mezzomarinaro-telescopico-alluminio-60-100cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 5 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
@@ -26545,7 +26769,7 @@ L 320mm. - Ø22</Name>
     <Price>17.22</Price>
     <Code>3801101</Code>
     <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52549795545435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -26707,7 +26931,7 @@ L 320mm. - Ø22</Name>
     <Price>24.66</Price>
     <Code>33.212.10</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459001691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -26725,7 +26949,7 @@ L 320mm. - Ø22</Name>
     <Price>26.55</Price>
     <Code>33.212.11</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459034459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28244,6 +28468,23 @@ L 320mm. - Ø22</Name>
     <ParentID>regolatore-di-carica-20-amp-max-2-batt-max-12-24v</ParentID>
   </Offer>
   <Offer>
+    <Name>Regolatore di Carica Solare Victron SmartSolar MPPT – Bluetooth Integrato - Solar MPPT 75/15</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il Regolatore di Carica Victron SmartSolar MPPT è la soluzione più avanzata per massimizzare l&apos;efficienza dei pannelli solari a bordo. Grazie alla tecnologia MPPT (Maximum Power Point Tracking), questo dispositivo ottimizza costantemente la raccolta di en</Description>
+    <OriginalPrice>88.70</OriginalPrice>
+    <Price>63.33</Price>
+    <Code>12.028.02</Code>
+    <Link>https://www.onautica.com/products/regolatore-carica-solare-victron-smartsolar-mppt?variant=52526376550747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-smartsolar-mppt-regolatore.png?v=1766420266</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8719076040804</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-smartsolar-mppt-regolatore2.png?v=1766420266</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>regolatore-carica-solare-victron-smartsolar-mppt</ParentID>
+  </Offer>
+  <Offer>
     <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 195 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
@@ -29233,6 +29474,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcmisure.webp?v=1773341957</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bottazzo-profilo-parabordo-t1-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - T1 Nero 12 metri</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Bottazzo Profilo Parabordo T1 Nero è la soluzione elegante e funzionale per proteggere la fiancata dell&apos;imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza offre un&apos;ottima resistenza agli urti e all&apos;ambiente marino. Come</Description>
+    <OriginalPrice>198.00</OriginalPrice>
+    <Price>132.01</Price>
+    <Code>383003512</Code>
+    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-nero?variant=52577532903771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcnero_474d6f6e-3342-4c00-b17a-627e54532b7d.webp?v=1773341955</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcmontaggio.webp?v=1773341957</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-profilo-parabordo-t1-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - Terminale di chiusura</Name>
@@ -38804,6 +39062,25 @@ bocche Ø 14 mm.</Name>
     <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
   </Offer>
   <Offer>
+    <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (0-190 Ohm) - 22 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>I Sensori di Livello Verticali S5 sono la soluzione universale e affidabile per il monitoraggio dei liquidi a bordo. Realizzati interamente in Acciaio Inox 316 , garantiscono la massima resistenza alla corrosione e sono compatibili sia con serbatoi di car</Description>
+    <OriginalPrice>34.40</OriginalPrice>
+    <Price>19.11</Price>
+    <Code>27.161.22</Code>
+    <Link>https://www.onautica.com/products/sensore-livello-verticale-s5-inox-0-190-ohm?variant=52520156299611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm.jpg?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137009112</EanCode>
+    <Weight>280.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (0-190 Ohm) - 25 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Sensori di Livello Verticali S5 sono la soluzione universale e affidabile per il monitoraggio dei liquidi a bordo. Realizzati interamente in Acciaio Inox 316 , garantiscono la massima resistenza alla corrosione e sono compatibili sia con serbatoi di car</Description>
@@ -39511,6 +39788,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>tappo-rifornimento-filo-inox-maniglietta-apertura</ParentID>
   </Offer>
   <Offer>
+    <Name>Tappo Imbarco in Plastica con Coperchio Stagno – Acqua e Carburante - Acqua Ø 38 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questi Tappi di Imbarco in Plastica sono la soluzione ideale per chi cerca funzionalità e resistenza a un prezzo contenuto. Progettati con un corpo interamente in materiale plastico, eliminano definitivamente il problema della corrosione e dell&apos;ossidazion</Description>
+    <OriginalPrice>23.14</OriginalPrice>
+    <Price>17.14</Price>
+    <Code>4043142</Code>
+    <Link>https://www.onautica.com/products/tappo-imbarco-plastica-coperchio-stagno?variant=52513572749659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-imbarco-plastica-coperchio-water.png?v=1773341903</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626118059</EanCode>
+    <Weight>0.12</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-imbarco-plastica-coperchio-fuel.png?v=1773341840</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-imbarco-plastica-coperchio-stagno</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tappo Imbarco in Plastica con Coperchio Stagno – Acqua e Carburante - Carburante Ø 50 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questi Tappi di Imbarco in Plastica sono la soluzione ideale per chi cerca funzionalità e resistenza a un prezzo contenuto. Progettati con un corpo interamente in materiale plastico, eliminano definitivamente il problema della corrosione e dell&apos;ossidazion</Description>
@@ -40080,6 +40375,22 @@ bocche Ø 14 mm.</Name>
     <Weight>590.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>volante-ultraflex-v32-bianco-o-335-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Volante Ultraflex V32 nero Ø 335 mm.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Volante Ultraflex V32 nero Ø 335 mm. Il volante Ultraflex V32 in colore nero con diametro di 335 mm è un volante nautico dal design sportivo ed elegante, pensato per garantire controllo e comfort alla guida dell&apos;imbarcazione. A chi è rivolto Ideale per ar</Description>
+    <OriginalPrice>41.80</OriginalPrice>
+    <Price>29.86</Price>
+    <Code>10389</Code>
+    <Link>https://www.onautica.com/products/volante-ultraflex-v32-nero-o-335-mm?variant=52577500660059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Volante_Ultraflex_V32_nero_335_mm..png?v=1773341858</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164354328</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>volante-ultraflex-v32-nero-o-335-mm</ParentID>
   </Offer>
   <Offer>
     <Name>YACHTICON Aqua Clean per il trattamento e la conservazione dell&apos;acqua dolce - 100 ml. (1000 lt.)</Name>
@@ -41235,6 +41546,24 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutob.png?v=1769926880</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216014</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessuto.png?v=1769926880</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutoc.png?v=1764941678</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-tessuto-poliestere-impermeabile-anti-uv</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 73x40x65 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
+    <OriginalPrice>14.09</OriginalPrice>
+    <Price>10.06</Price>
+    <Code>3270109</Code>
+    <Link>https://www.onautica.com/products/coprimotore-tessuto-poliestere-impermeabile-anti-uv?variant=52522240180571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutob.png?v=1769926880</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216748</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessuto.png?v=1769926880</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutoc.png?v=1764941678</Image3>
     <Condition>nuovo</Condition>
