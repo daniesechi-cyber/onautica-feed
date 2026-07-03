@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-03T06:31:53.049Z -->
-<!-- Offerte: 2941 -->
+<!-- Generato: 2026-07-03T10:31:03.652Z -->
+<!-- Offerte: 2938 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1306,7 +1306,7 @@
     <Price>13.00</Price>
     <Code>3180403</Code>
     <Link>https://www.onautica.com/products/cinghia-ancoraggio-mt-6-00-35-mm-1000-kg-poliestere-con-ganci-e-cricchetto?variant=52577429553499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cinghia_ancoraggio_mt._6_00_25_mm._400_kg._poliestere_con_ganci_e_cricchetto_3d757b4e-553d-440c-90c5-2d008b260fe0.png?v=1773341647</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12225,6 +12225,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-a-type-blue-navy.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352804</EanCode>
+    <Weight>150.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-A-type.png?v=1769536424</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-a-type-blue-navy</ParentID>
@@ -12421,7 +12422,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626352248</EanCode>
-    <Weight>150.00</Weight>
+    <Weight>0.15</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type.png?v=1773341613</Image2>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordi-navishell-f-type-blue-navy</ParentID>
@@ -26707,24 +26708,6 @@ L 320mm. - Ø22</Name>
     <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 150x430 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi Cilindrici Majoni Serie Hole – Foro Passante per Cima di Ormeggio, Verticale o Orizzontale I parabordi cilindrici Majoni serie Hole con foro passante rappresentano una soluzione di protezione altamente versatile e robusta per la fiancata di qual</Description>
-    <OriginalPrice>22.52</OriginalPrice>
-    <Price>16.44</Price>
-    <Code>3801801</Code>
-    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-hole-foro-passante?variant=52549788270939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misure.webp?v=1776247010</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626111241</EanCode>
-    <Weight>710.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misuremontaggio.webp?v=1776247010</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
-  </Offer>
-  <Offer>
     <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 200x550 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie Hole – Foro Passante per Cima di Ormeggio, Verticale o Orizzontale I parabordi cilindrici Majoni serie Hole con foro passante rappresentano una soluzione di protezione altamente versatile e robusta per la fiancata di qual</Description>
@@ -28480,6 +28463,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-smartsolar-mppt-regolatore.png?v=1766420266</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8719076040804</EanCode>
+    <Weight>600.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-smartsolar-mppt-regolatore2.png?v=1766420266</Image2>
     <Condition>nuovo</Condition>
     <ParentID>regolatore-carica-solare-victron-smartsolar-mppt</ParentID>
@@ -30223,23 +30207,6 @@ L 320mm. - Ø22</Name>
     <ParentID>cartuccia-inox-per-filtro-benzina-ancor-b-50</ParentID>
   </Offer>
   <Offer>
-    <Name>Cartuccia per filtro benzina SACS senza separatore</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Cartuccia da 10 micron p er motori fuoribordo e entrobordo. La cartuccia può sostituire la cartuccia Quicksilver 35-802893Q01 e la cartuccia Volvo 855686-2. Monta sul filtro benzina SACS . Caratteristiche principali Filtraggio a 10 micron per una protezio</Description>
-    <OriginalPrice>11.44</OriginalPrice>
-    <Price>8.17</Price>
-    <Code>4121552</Code>
-    <Link>https://www.onautica.com/products/cartuccia-per-filtro-senza-separatore?variant=52577423491419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cartuccia_per_filtro_SENZA_separatore.png?v=1773341638</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000705</EanCode>
-    <Weight>300.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>cartuccia-per-filtro-senza-separatore</ParentID>
-  </Offer>
-  <Offer>
     <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
     <Brand>Motomarine</Brand>
     <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
@@ -31895,7 +31862,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompetta.png?v=1773341772</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137039027</EanCode>
-    <Weight>70.00</Weight>
+    <Weight>0.07</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompetta-benzina-o-8-mm</ParentID>
   </Offer>
@@ -34457,23 +34424,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_2.png?v=1773341636</Image3>
     <Condition>nuovo</Condition>
     <ParentID>box-doccetta-uni-s</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Box Doccetta Dritta da Incasso per Barca – Contenitore in Plastica Anti-UV</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore box in plastica antiurto e resistente ai raggi UV, progettato per l’incasso di doccette. Installazione verticale. Da completare con doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70 97 65 Caratteristiche principali P</Description>
-    <OriginalPrice>11.44</OriginalPrice>
-    <Price>8.17</Price>
-    <Code>1513603</Code>
-    <Link>https://www.onautica.com/products/box-doccetta-dritta-246?variant=52577421590875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246.png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626259042</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246_1.png?v=1773341635</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>box-doccetta-dritta-246</ParentID>
   </Offer>
   <Offer>
     <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
