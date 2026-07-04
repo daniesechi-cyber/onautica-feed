@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-04T06:31:23.205Z -->
-<!-- Offerte: 2780 -->
+<!-- Generato: 2026-07-04T11:46:22.247Z -->
+<!-- Offerte: 2771 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -476,7 +476,7 @@
     <Price>22.84</Price>
     <Code>3271208</Code>
     <Link>https://www.onautica.com/products/ancora-galleggiante-top-drag?variant=52577372864859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Ancore Galleggianti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Ancora_galleggiante_80x70_cm._fino_a_8_mt..png?v=1773341713</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -3078,7 +3078,7 @@
     <Price>17.39</Price>
     <Code>750300</Code>
     <Link>https://www.onautica.com/products/perni-ricambio-rulli-carrelli-barca?variant=52543493898587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/perni-ricambio-rulli-carrelli-barca.webp?v=1774351087</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -3662,23 +3662,6 @@
     <EanCode>8033137068799</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>rullo-centrale-arancio-185-mm-o-foro-21-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rullo centrale L 130 mm. Ø 80 mm. foro Ø 16 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Universali, per rimorchi porta imbarcazioni. Caratteristiche: Anima polipropilene Esterno PVC Ø mm. 80 Lunghezza mm. 130 Ø foro mm. 16 Colore nero Caratteristiche principali Costruzione robusta con anima in polipropilene e rivestimento esterno in PVC resi</Description>
-    <OriginalPrice>10.10</OriginalPrice>
-    <Price>7.21</Price>
-    <Code>2805049</Code>
-    <Link>https://www.onautica.com/products/rullo-centrale-l-130-mm-o-80-mm-foro-o-16-mm?variant=52577483850075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_centrale_L_130_mm._80_mm._foro_16_mm..png?v=1773341803</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137067563</EanCode>
-    <Weight>0.60</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-centrale-l-130-mm-o-80-mm-foro-o-16-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Rullo centrale L 195 mm. Ø 110 mm. foro Ø 21 mm.</Name>
@@ -10849,21 +10832,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
   </Offer>
   <Offer>
-    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
-    <Brand>Osculati</Brand>
-    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
-    <OriginalPrice>60.13</OriginalPrice>
-    <Price>35.37</Price>
-    <Code>66.240.01</Code>
-    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577381024091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
-  </Offer>
-  <Offer>
     <Name>Adesivo Gommoni Sup Tender Bicomponente per PVC - 125 ml.</Name>
     <Brand>Motomarine</Brand>
     <Description>ADEGRIP NA è un collante speciale bicomponente , ampiamente riconosciuto e utilizzato da tutte le principali fabbriche di gommoni per la sua eccezionale forza di adesione. È la soluzione professionale specifica per incollare e riparare in modo definitivo </Description>
@@ -12507,7 +12475,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>10.37</Price>
     <Code>3813002SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577412940123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -18271,6 +18239,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino.webp?v=1776183546</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>5412386040092</EanCode>
+    <Weight>0.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino400ml.webp?v=1776183546</Image2>
     <Condition>nuovo</Condition>
     <ParentID>crc-6-66-marine-lubrificante-multiuso-spray</ParentID>
@@ -20589,6 +20558,7 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626177971</EanCode>
     <Weight>0.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura100nb.png?v=1773341965</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giubbotto-100n-scena-barca.webp?v=1783163468</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cintura-salvagente-100n</ParentID>
   </Offer>
@@ -20607,6 +20577,7 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626177964</EanCode>
     <Weight>0.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura100nb.png?v=1773341965</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giubbotto-100n-scena-barca.webp?v=1783163468</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cintura-salvagente-100n</ParentID>
   </Offer>
@@ -22832,24 +22803,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626023551</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 25 mm. / Passante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
-    <OriginalPrice>17.22</OriginalPrice>
-    <Price>12.30</Price>
-    <Code>0621925</Code>
-    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958398811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023575</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
     <Condition>nuovo</Condition>
@@ -26440,6 +26393,7 @@ L 320mm. - Ø22</Name>
     <EanCode>8033137194450</EanCode>
     <Weight>1.24</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-scena-barca.webp?v=1783164219</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-sferico-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
@@ -26458,6 +26412,7 @@ L 320mm. - Ø22</Name>
     <EanCode>8033137194467</EanCode>
     <Weight>2.15</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-scena-barca.webp?v=1783164219</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-sferico-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
@@ -26476,6 +26431,7 @@ L 320mm. - Ø22</Name>
     <EanCode>8033137194474</EanCode>
     <Weight>3.24</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-scena-barca.webp?v=1783164219</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-sferico-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
@@ -26493,6 +26449,7 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <Weight>4.13</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-scena-barca.webp?v=1783164219</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-sferico-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
@@ -29347,24 +29304,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626009562</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cartuccia-carta-per-filtro-benzina-ancor-b-50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cartuccia di Ricambio AquaStop per Filtro Separatore Benzina SACS (10 Micron )</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Mantieni il tuo sistema di alimentazione in perfetta efficienza con la Cartuccia di Ricambio Originale per filtri separatori benzina SACS (compatibile con il supporto codice 4121522). Questo elemento filtrante è fondamentale per la manutenzione periodica </Description>
-    <OriginalPrice>21.54</OriginalPrice>
-    <Price>14.86</Price>
-    <Code>4121562</Code>
-    <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000712</EanCode>
-    <Weight>0.25</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cartuccia_per_filtro_CON_separatore.png?v=1773341639</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cartuccia-ricambio-filtro-benzina-sacs-aquastop</ParentID>
   </Offer>
   <Offer>
     <Name>Cartuccia di Ricambio per Filtro Separatore Benzina/Acqua – 10 Micron (Filetto 13/16&quot;)</Name>
@@ -32604,40 +32543,6 @@ L 320mm. - Ø22</Name>
     <ParentID>protettivo-teak-wonder-dressing-sealer</ParentID>
   </Offer>
   <Offer>
-    <Name>Terminale profili T2 nero H 45/52 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Terminale di Chiusura Nero (Cod. 3833045) è progettato specificamente per la serie di profili parabordo T2 , caratterizzata da un&apos;altezza di 45 mm. Questo accessorio in PVC nero è fondamentale per completare l&apos;installazione del bottazzo, sigillando le </Description>
-    <OriginalPrice>10.80</OriginalPrice>
-    <Price>6.34</Price>
-    <Code>3833045</Code>
-    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-nero?variant=52577409302875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalenero_8db2ecf8-e33a-4815-b049-a757da8fedfb.webp?v=1773341960</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626113856</EanCode>
-    <Weight>0.02</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>terminale-chiusura-bottazzo-t2-nero</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Trinella - Baderna Premistoppa per Asse Elica – Confezione 1,5m - 5x5 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Trinella (Baderna Premistoppa) è il materiale di consumo essenziale per garantire la tenuta stagna degli astucci porta elica dotati di sistema a premitreccia tradizionale. Questa treccia è progettata per comprimersi all&apos;interno del premistoppa, creando</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
-    <Code>4906505</Code>
-    <Link>https://www.onautica.com/products/trinella-baderna-premistoppa-asse-elica?variant=52525382861147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/baderna-premistoppa-trinella-asse-elica.png?v=1773341849</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626129994</EanCode>
-    <Weight>0.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>trinella-baderna-premistoppa-asse-elica</ParentID>
-  </Offer>
-  <Offer>
     <Name>Trinella - Baderna Premistoppa per Asse Elica – Confezione 1,5m - 6x6 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Trinella (Baderna Premistoppa) è il materiale di consumo essenziale per garantire la tenuta stagna degli astucci porta elica dotati di sistema a premitreccia tradizionale. Questa treccia è progettata per comprimersi all&apos;interno del premistoppa, creando</Description>
@@ -35702,7 +35607,7 @@ bocche Ø 14 mm.</Name>
     <Price>16.86</Price>
     <Code>52.739.01</Code>
     <Link>https://www.onautica.com/products/offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo?variant=52577463501147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale.png?v=1773341738</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -39648,24 +39553,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
   </Offer>
   <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 30 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>11.87</OriginalPrice>
-    <Price>8.48</Price>
-    <Code>65.108.30BL</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609747291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045042</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 50 mm</Name>
     <Brand>Osculati</Brand>
     <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
@@ -39860,7 +39747,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Verde Acacia / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <Price>12.88</Price>
     <Code>LEG060/0750VAC</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464563547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -39875,7 +39762,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Palissandro / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <Price>12.06</Price>
     <Code>74062075</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464629083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -39891,7 +39778,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Canapa / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <Price>11.71</Price>
     <Code>LEG060/075canapa</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464661851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -39907,7 +39794,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Blu Antico / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <Price>12.88</Price>
     <Code>LEG060/0750BLA</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464694619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -39922,7 +39809,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Teak / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>16.29</OriginalPrice>
     <Price>12.06</Price>
     <Code>74069175</Code>
@@ -39940,7 +39827,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>16.29</OriginalPrice>
     <Price>12.06</Price>
     <Code>74061075</Code>
@@ -39957,7 +39844,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 2,50 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>45.82</OriginalPrice>
     <Price>33.94</Price>
     <Code>LEG060/025Castagno</Code>
@@ -39974,7 +39861,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Mogano / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>16.29</OriginalPrice>
     <Price>12.06</Price>
     <Code>74065075</Code>
@@ -39991,7 +39878,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Mogano / 2,50 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>45.82</OriginalPrice>
     <Price>33.94</Price>
     <Code>LEG060/025Mogano</Code>
@@ -40008,7 +39895,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 2,50 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>47.52</OriginalPrice>
     <Price>33.94</Price>
     <Code>LEG060/025TRASP</Code>
@@ -40025,7 +39912,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 0,75 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>16.89</OriginalPrice>
     <Price>12.06</Price>
     <Code>74064575</Code>
@@ -40042,7 +39929,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 2,50 L</Name>
     <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondit�� nell</Description>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
     <OriginalPrice>47.52</OriginalPrice>
     <Price>33.94</Price>
     <Code>LEG060/025Noce</Code>
@@ -42177,25 +42064,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
   </Offer>
   <Offer>
-    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>25.11</OriginalPrice>
-    <Price>17.94</Price>
-    <Code>3270204</Code>
-    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242539867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626216052</EanCode>
-    <Weight>0.16</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
-  </Offer>
-  <Offer>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size XL</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
@@ -43332,22 +43200,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>attacco-tangone-inox-albero</ParentID>
   </Offer>
   <Offer>
-    <Name>Base Antenna a Morsetto (Acciaio Inox)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa base di montaggio è la soluzione robusta e altamente resistente alla corrosione per l&apos;installazione non permanente di antenne nautiche (VHF, GPS, ecc.) su tubolari e pulpiti. Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox , garan</Description>
-    <OriginalPrice>57.13</OriginalPrice>
-    <Price>42.32</Price>
-    <Code>5636603</Code>
-    <Link>https://www.onautica.com/products/base-antenna-morsetto-inox-1un-25mm?variant=52577508557147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEAMORSETTOINACCIAIOINOX.png?v=1773341878</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626147639</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>base-antenna-morsetto-inox-1un-25mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Base Antenna a Morsetto per Tubo (ABS)</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa base di montaggio è la soluzione versatile e non permanente per installare antenne nautiche (VHF, GPS, ecc.) su pulpiti o tubolari dell&apos;imbarcazione. Caratteristiche Principali: Installazione Facile: La base è dotata di un sistema a morsetto , che </Description>
@@ -44052,7 +43904,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Passacavo Stagno Glomex RA140 in Nylon per Cavi Coassiali</Name>
     <Brand>Glomex</Brand>
-    <Description>Il Passacavo Stagno Glomex RA140 è un componente essenziale per chi desidera installare antenne VHF o altri apparati elettronici a bordo in modo pulito e professionale. Realizzato in Nylon di alta qualità resistente ai raggi UV e alla salsedine, questo pa</Description>
+    <Description>Il Passacavo Stagno Glomex RA140 ��è un componente essenziale per chi desidera installare antenne VHF o altri apparati elettronici a bordo in modo pulito e professionale. Realizzato in Nylon di alta qualità resistente ai raggi UV e alla salsedine, questo </Description>
     <OriginalPrice>11.55</OriginalPrice>
     <Price>8.25</Price>
     <Code>5637112</Code>
