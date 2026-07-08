@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-07T18:11:03.916Z -->
-<!-- Offerte: 2848 -->
+<!-- Generato: 2026-07-08T06:31:31.376Z -->
+<!-- Offerte: 2856 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -824,22 +824,6 @@
     <Weight>0.04</Weight>
     <Condition>nuovo</Condition>
     <ParentID>base-attacco-tendalini-grigio-da-incollare-per-gommoni</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Basetta Piana BP in Acciaio Inox AISI 316 per Tendalini</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Basetta Piana BP è un supporto di fissaggio professionale progettato per l&apos;installazione di tendalini, bimini e capottine su ogni tipo di imbarcazione. Realizzata in Acciaio Inox AISI 316 microfuso e lucidata a specchio, questa basetta offre una resist</Description>
-    <OriginalPrice>9.50</OriginalPrice>
-    <Price>6.79</Price>
-    <Code>3230600</Code>
-    <Link>https://www.onautica.com/products/basetta-piana-bp-inox-aisi-316-57x17?variant=52577419100507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basetta-piana-bp-acciaio-inox-aisi-316.webp?v=1775237191</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626095923</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>basetta-piana-bp-inox-aisi-316-57x17</ParentID>
   </Offer>
   <Offer>
     <Name>Basetta Piana BPI in Acciaio Inox AISI 316 con Attacco Pivottante</Name>
@@ -3735,7 +3719,7 @@
     <Price>6.44</Price>
     <Code>02.029.14</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445066587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -6743,7 +6727,7 @@
     <Brand>Suzuki</Brand>
     <Description>L&apos; Anodo a Pinna Martyr (Cod. 5170306) è il ricambio specifico per la protezione catodica dei motori fuoribordo Suzuki da 55 e 65 Cavalli (Serie DT) . Questo componente sostituisce fedelmente il codice originale Suzuki 55125-95301 . Realizzato nella speci</Description>
     <OriginalPrice>17.30</OriginalPrice>
-    <Price>11.51</Price>
+    <Price>11.52</Price>
     <Code>5124009A</Code>
     <Link>https://www.onautica.com/products/anodo-pinna-suzuki-dt55-65-alluminio?variant=52577396883803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -12944,7 +12928,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>10.37</Price>
     <Code>3813002SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577412940123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14350,8 +14334,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Pannello interruttori New Classic Black 4x10A</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Pannello interruttori New Classic Black una soluzione avanzata per la gestione sicura ed efficiente degli impianti elettrici a 12V. Realizzato in materiale ABS resistente, garantisce durata e protezione contro gli agenti esterni. È dotato di interrutto</Description>
-    <OriginalPrice>39.98</OriginalPrice>
-    <Price>28.56</Price>
+    <OriginalPrice>42.44</OriginalPrice>
+    <Price>30.32</Price>
     <Code>2102604</Code>
     <Link>https://www.onautica.com/products/pannello-new-classic-black-4-interruttori?variant=52577461961051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -22264,24 +22248,6 @@ L 320mm. - Ø22</Name>
     <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
   </Offer>
   <Offer>
-    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica nera</Name>
-    <Brand>Osculati</Brand>
-    <Description>Asta luminosa retrattile da 60 cm con luce bianca a 360°, progettata per imbarcazioni fino a 20 metri di lunghezza. La base è realizzata in acciaio inox AISI 316 , materiale altamente resistente alla corrosione marina, dotata di sistema di regolazione aut</Description>
-    <OriginalPrice>50.85</OriginalPrice>
-    <Price>36.32</Price>
-    <Code>11.140.00</Code>
-    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera?variant=52577416937819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_nera.png?v=1773341623</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137012808</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_nera_1.png?v=1773341624</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_nera_2.png?v=1773341624</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera</ParentID>
-  </Offer>
-  <Offer>
     <Name>ATF Red Oil – Olio per Invertitori Idraulici ad Alta Stabilitài</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; ATF Red Oil è un lubrificante di alta qualità specificamente formulato per l&apos;utilizzo in invertitori idraulici nautici e trasmissioni idrauliche. Grazie agli additivi utilizzati, questo olio si distingue per la sua eccezionale stabilità termico-ossidat</Description>
@@ -25714,6 +25680,25 @@ L 320mm. - Ø22</Name>
     <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 120x450 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
+    <OriginalPrice>16.37</OriginalPrice>
+    <Price>11.95</Price>
+    <Code>3801100</Code>
+    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52513545814363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8712256002081</EanCode>
+    <Weight>1.13</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/testaparabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misuremontaggio.webp?v=1776247359</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-cilindrici-majoni-sf-star-fender-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 150x580 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
@@ -25736,8 +25721,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 210x620 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
-    <OriginalPrice>35.91</OriginalPrice>
-    <Price>25.65</Price>
+    <OriginalPrice>33.91</OriginalPrice>
+    <Price>24.22</Price>
     <Code>3801102</Code>
     <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52549795578203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -32721,6 +32706,24 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626009562</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cartuccia-carta-per-filtro-benzina-ancor-b-50</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cartuccia di Ricambio AquaStop per Filtro Separatore Benzina SACS (10 Micron )</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Mantieni il tuo sistema di alimentazione in perfetta efficienza con la Cartuccia di Ricambio Originale per filtri separatori benzina SACS (compatibile con il supporto codice 4121522). Questo elemento filtrante è fondamentale per la manutenzione periodica </Description>
+    <OriginalPrice>21.54</OriginalPrice>
+    <Price>14.86</Price>
+    <Code>4121562</Code>
+    <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000712</EanCode>
+    <Weight>0.25</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cartuccia_per_filtro_CON_separatore.png?v=1773341639</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cartuccia-ricambio-filtro-benzina-sacs-aquastop</ParentID>
   </Offer>
   <Offer>
     <Name>Cartuccia di Ricambio per Filtro Separatore Benzina/Acqua – 10 Micron (Filetto 13/16&quot;)</Name>
@@ -42231,6 +42234,21 @@ bocche Ø 14 mm.</Name>
     <ParentID>cartuccia-filtro-sfiato-acque-nere-wc-can</ParentID>
   </Offer>
   <Offer>
+    <Name>Catalizzatore PU L-100 per Smalto Acril-Poliuretanico Ecosivac (0,300 lt)</Name>
+    <Brand>Sivac</Brand>
+    <Description>Il Catalizzatore PU L-100 è l&apos;additivo indurente specifico formulato per la catalisi delle vernici poliuretaniche a base acqua. È il secondo componente essenziale per trasformare lo Smalto Poliuretanico all&apos;Acqua Ecosivac da prodotto monocomponente a bico</Description>
+    <OriginalPrice>34.43</OriginalPrice>
+    <Price>24.59</Price>
+    <Code>PAVCPU/03</Code>
+    <Link>https://www.onautica.com/products/catalizzatore-pu-l100-smalto-ecosivac?variant=49393039081819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ecosivac-smalto-acril-poliuretanico-acqua.png?v=1771933427</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>catalizzatore-pu-l100-smalto-ecosivac</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimotore Universale in Tessuto Poliestere - Impermeabile e Anti-UV - 48x27x35 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo telo coprimotore è la protezione ideale per la calandra del tuo fuoribordo durante il rimessaggio, sia in porto che a terra. Caratteristiche Principali: Materiale: Fabbricato in resistente tessuto poliestere 300 Denier . Impermeabilità: Dotato di r</Description>
@@ -43141,6 +43159,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.89</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74010075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464923995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115716</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 2,50 L</Name>
     <Brand>Sivac</Brand>
     <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
@@ -43148,7 +43183,7 @@ bocche Ø 14 mm.</Name>
     <Price>33.94</Price>
     <Code>LEG060/025TRASP</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464956763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -43165,11 +43200,45 @@ bocche Ø 14 mm.</Name>
     <Price>12.06</Price>
     <Code>74064575</Code>
     <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464989531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8022627115945</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>47.52</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465022299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115952</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.89</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74067075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465055067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115884</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
     <Condition>nuovo</Condition>
     <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
@@ -44177,12 +44246,28 @@ bocche Ø 14 mm.</Name>
     <Price>18.74</Price>
     <Code>ECO010/075LCBCO</Code>
     <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025375579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8022627091751</EanCode>
     <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>37.50</OriginalPrice>
+    <Price>18.74</Price>
+    <Code>947202175</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025408347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627091706</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
   </Offer>
@@ -44878,6 +44963,25 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216045</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>25.11</OriginalPrice>
+    <Price>17.94</Price>
+    <Code>3270204</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242539867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216052</EanCode>
+    <Weight>0.16</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
@@ -46404,13 +46508,46 @@ bocche Ø 14 mm.</Name>
     <Price>16.76</Price>
     <Code>LSF.0001.00</Code>
     <Link>https://www.onautica.com/products/vernice-trasparente-nautica-solvente-flatting?variant=52514359509339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-solvente-flatting.png?v=1773341855</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8022627113750</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-trasparente-nautica-solvente-flatting</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
+    <OriginalPrice>23.02</OriginalPrice>
+    <Price>16.44</Price>
+    <Code>LEG005/075OPA</Code>
+    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52513582514523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115778</EanCode>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
+    <OriginalPrice>23.02</OriginalPrice>
+    <Price>16.44</Price>
+    <Code>LEG005/075LUC</Code>
+    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52514360394075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115723</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
   </Offer>
   <Offer>
     <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
