@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-09T06:31:40.421Z -->
-<!-- Offerte: 2839 -->
+<!-- Generato: 2026-07-09T10:31:00.036Z -->
+<!-- Offerte: 2845 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -16725,7 +16725,7 @@ L 320mm. - Ø22</Name>
     <Price>15.81</Price>
     <Code>0344433</Code>
     <Link>https://www.onautica.com/products/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica?variant=52540570599771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-lungo-acciaio-inox-specchio-nautica-3-misure.webp?v=1777564697</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -22017,24 +22017,6 @@ L 320mm. - Ø22</Name>
     <EanCode>071247314083</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>antigelo-star-brite-premium</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
-    <OriginalPrice>50.72</OriginalPrice>
-    <Price>36.23</Price>
-    <Code>11.140.02</Code>
-    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca?variant=52577416839515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_bianca.png?v=1773341623</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137019616</EanCode>
-    <Weight>0.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_1_360_plastica_bianca.png?v=1773341624</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>ATF Red Oil – Olio per Invertitori Idraulici ad Alta Stabilitài</Name>
@@ -27387,6 +27369,126 @@ L 320mm. - Ø22</Name>
     <ParentID>autoclave-superflow-3-valvole-12v-pompa-pressione-nautica</ParentID>
   </Offer>
   <Offer>
+    <Name>Batteria EXIDE AGM Serie EK 12V Nautica – Avviamento e Servizi (50-106 Ah) - 82 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le batterie EXIDE AGM Serie EK sono accumulatori al piombo ermetici di fascia premium con tecnologia AGM (Absorbent Glass Mat) e predisposizione Start-Stop . Nate per gli standard di primo equipaggiamento (OE) dei principali costruttori, sono una scelta e</Description>
+    <OriginalPrice>320.90</OriginalPrice>
+    <Price>200.57</Price>
+    <Code>EK 820</Code>
+    <Link>https://www.onautica.com/products/batterie-nautiche-agm-serie-ek?variant=52734233805147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-nautiche-agm-serie-ek-avviamento-servizi_82.webp?v=1775147983</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>23.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-nautiche-agm-serie-ek-avviamento-servizi_50.webp?v=1775147953</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-nautiche-agm-serie-ek-avviamento-servizi_62.webp?v=1775147963</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-nautiche-agm-serie-ek</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 50 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
+    <OriginalPrice>117.70</OriginalPrice>
+    <Price>73.54</Price>
+    <Code>EB 500</Code>
+    <Link>https://www.onautica.com/products/batterie-serie-excell-12v-avviamento?variant=52734362222939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica50.webp?v=1775149753</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica44.webp?v=1775149753</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica60.webp?v=1775149753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-serie-excell-12v-avviamento</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 60 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
+    <OriginalPrice>144.40</OriginalPrice>
+    <Price>90.26</Price>
+    <Code>EB 602</Code>
+    <Link>https://www.onautica.com/products/batterie-serie-excell-12v-avviamento?variant=52734362255707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica60.webp?v=1775149753</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica44.webp?v=1775149753</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica50.webp?v=1775149753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-serie-excell-12v-avviamento</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 74 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
+    <OriginalPrice>169.80</OriginalPrice>
+    <Price>106.13</Price>
+    <Code>EB 740</Code>
+    <Link>https://www.onautica.com/products/batterie-serie-excell-12v-avviamento?variant=52734362288475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica74.webp?v=1775149753</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica44.webp?v=1775149753</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica50.webp?v=1775149753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-serie-excell-12v-avviamento</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 80 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
+    <OriginalPrice>192.50</OriginalPrice>
+    <Price>120.34</Price>
+    <Code>EB 802</Code>
+    <Link>https://www.onautica.com/products/batterie-serie-excell-12v-avviamento?variant=52734362321243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica80.webp?v=1775149753</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica44.webp?v=1775149753</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica50.webp?v=1775149753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-serie-excell-12v-avviamento</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 95 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
+    <OriginalPrice>205.90</OriginalPrice>
+    <Price>128.70</Price>
+    <Code>EB 954</Code>
+    <Link>https://www.onautica.com/products/batterie-serie-excell-12v-avviamento?variant=52734362354011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica95.webp?v=1775149753</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica44.webp?v=1775149753</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica50.webp?v=1775149753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-serie-excell-12v-avviamento</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 100 Ah</Name>
+    <Brand>ADR</Brand>
+    <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
+    <OriginalPrice>219.30</OriginalPrice>
+    <Price>137.06</Price>
+    <Code>EB1000</Code>
+    <Link>https://www.onautica.com/products/batterie-serie-excell-12v-avviamento?variant=52734362386779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica100.webp?v=1775149753</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica44.webp?v=1775149753</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batterie-serie-excell-tecnologia-flooded-nautica50.webp?v=1775149753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>batterie-serie-excell-12v-avviamento</ParentID>
+  </Offer>
+  <Offer>
     <Name>Blaster nautica pulitore concentrato CFG 750 ml.</Name>
     <Brand>CFG</Brand>
     <Description>Blaster Nautica CFG: Il Pulitore Concentrato Potente e Sicuro per Tutta la Tua Barca Scopri la potenza pulente di Blaster Nautica CFG , il detergente versatile progettato per affrontare lo sporco più ostinato su ogni superficie della tua imbarcazione, dal</Description>
@@ -30146,7 +30248,7 @@ L 320mm. - Ø22</Name>
     <Price>13.90</Price>
     <Code>17.314.00</Code>
     <Link>https://www.onautica.com/products/presa-a-mare-ottone?variant=52513551941979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.314.XX.png?v=1773341985</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -37476,7 +37578,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Coprimozzo cromato X91 per timoneria  T91 e T93Z</Name>
     <Brand>Ultraflex</Brand>
-    <Description>Coprimozzo cromato X91 per timoneria T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una pro</Description>
+    <Description>Coprimozzo cromato X91 per timoneria �� T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una </Description>
     <OriginalPrice>40.40</OriginalPrice>
     <Price>28.86</Price>
     <Code>42850N</Code>
@@ -44123,6 +44225,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-monocomponente-veneziani-unigloss.png?v=1773341979</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099725104</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Veneziani_777c96d2-cc38-4872-b020-25e24b45002a.png?v=1773342084</Image2>
     <Condition>nuovo</Condition>
     <ParentID>smalto-monocomponente-veneziani-unigloss</ParentID>
@@ -44244,7 +44347,7 @@ bocche Ø 14 mm.</Name>
     <Price>44.54</Price>
     <Code>65.008.00BI</Code>
     <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52522606133595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
     <ShippingCost>5.90</ShippingCost>
