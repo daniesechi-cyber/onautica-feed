@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-10T06:31:19.844Z -->
-<!-- Offerte: 2843 -->
+<!-- Generato: 2026-07-10T10:31:14.282Z -->
+<!-- Offerte: 2842 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -936,6 +936,7 @@
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavallotirimorchioa.png?v=1763578343</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>0.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavallotirimorchiob.png?v=1763578343</Image2>
     <Condition>nuovo</Condition>
     <ParentID>staffa-ad-u-fissaggio-rulli</ParentID>
@@ -4575,7 +4576,7 @@
     <Price>11.12</Price>
     <Code>02.040.82</Code>
     <Link>https://www.onautica.com/products/staffa-bloccaggio-per-tubo-rulli-laterali?variant=51650499445083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -8859,6 +8860,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu1-incasso.png?v=1773341964</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626077059</EanCode>
+    <Weight>1.66</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu1-incasso_misura.png?v=1773341965</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Riviera.png?v=1773341967</Image3>
     <Condition>nuovo</Condition>
@@ -10890,21 +10892,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137170270</EanCode>
     <Weight>0.13</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 500 ml.</Name>
-    <Brand>Osculati</Brand>
-    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
-    <OriginalPrice>46.19</OriginalPrice>
-    <Price>27.17</Price>
-    <Code>66.240.10</Code>
-    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577380991323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
-    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
   </Offer>
@@ -13632,6 +13619,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_PVC_per_gommoni_-_tessuto_bianco_PVC.png?v=1773341610</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137170119</EanCode>
+    <Weight>0.35</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-riparazione-gommoni-sup-tender-per-pvc-con-tessuto</ParentID>
   </Offer>
@@ -30968,22 +30956,6 @@ L 320mm. - Ø22</Name>
     <ParentID>ripartitore-di-carica-70a-12-24v-mtm-electronic-corrente</ParentID>
   </Offer>
   <Offer>
-    <Name>Rubinetto Intermedio a Leva a Scatto Serie KP per Tubo da 12 mm per Impianti Idrici</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rubinetto Intermedio a Leva Serie KP – Raccordo Rapido a Scatto per Tubo da 12 mm in Polietilene Semirigido Il rubinetto intermedio a leva serie KP a scatto per tubo da 12 mm è la soluzione ideale per intercettare e regolare il flusso dell&apos;acqua negli imp</Description>
-    <OriginalPrice>9.40</OriginalPrice>
-    <Price>6.25</Price>
-    <Code>17.111.19</Code>
-    <Link>https://www.onautica.com/products/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm?variant=52814396555611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm.webp?v=1776263781</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052033</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Saracinesca a Sfera in Ottone Nichelato - Passaggio Totale PN25 - 3/8&quot;</Name>
     <Brand>Osculati</Brand>
     <Description>Questa valvola a sfera è un componente di alta qualità, progettato per il controllo del flusso negli impianti idraulici di bordo. La sua costruzione garantisce massima affidabilità e resistenza alla pressione. Caratteristiche Principali: Materiale: Realiz</Description>
@@ -34049,10 +34021,10 @@ L 320mm. - Ø22</Name>
     <Link>https://www.onautica.com/products/innesti-carburante-johnson-evinrude-serie-completa?variant=52543856083291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude_per_serbatoio_con_filetto.png?v=1764264893</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626117564</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude_per_serbatoio_con_filetto.png?v=1764264893</Image2>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image3>
     <Condition>nuovo</Condition>
     <ParentID>innesti-carburante-johnson-evinrude-serie-completa</ParentID>
@@ -34067,11 +34039,11 @@ L 320mm. - Ø22</Name>
     <Link>https://www.onautica.com/products/innesti-carburante-johnson-evinrude-serie-completa?variant=52543856116059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626000613</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude_per_serbatoio_con_filetto.png?v=1764264893</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image3>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude_per_serbatoio_con_filetto.png?v=1764264893</Image3>
     <Condition>nuovo</Condition>
     <ParentID>innesti-carburante-johnson-evinrude-serie-completa</ParentID>
   </Offer>
@@ -34088,6 +34060,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_femmina_Suzuki_grande_2039c7a2-9c1b-41a3-be43-a0bbaf62559c.png?v=1764266699</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137006777</EanCode>
+    <Weight>0.05</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Johnson-Evinrude-Suzuki_O_8-10_mm..png?v=1764264991</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Johnson-Evinrude-Suzuki_portagomma.png?v=1764264893</Image3>
     <Condition>nuovo</Condition>
@@ -34103,10 +34076,10 @@ L 320mm. - Ø22</Name>
     <Link>https://www.onautica.com/products/innesti-carburante-yamaha-serie-completa-motore-serbatoio?variant=52543859818843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_lato_motore.png?v=1764263449</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_filettato_per_serbatoi.png?v=1764263474</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137160202</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_filettato_per_serbatoi.png?v=1764263474</Image2>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_maschio_Yamaha_lato_motore.png?v=1764263449</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Innesto_femmina_Yamaha_portagomma_O_8-10_mm..png?v=1764263586</Image3>
     <Condition>nuovo</Condition>
     <ParentID>innesti-carburante-yamaha-serie-completa-motore-serbatoio</ParentID>
@@ -34962,6 +34935,22 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137102547</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>rubinetto-intercettazione-carburante-ottone-grande-passaggio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rubinetto Intermedio a Leva a Scatto Serie KP per Tubo da 12 mm per Impianti Idrici</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rubinetto Intermedio a Leva Serie KP – Raccordo Rapido a Scatto per Tubo da 12 mm in Polietilene Semirigido Il rubinetto intermedio a leva serie KP a scatto per tubo da 12 mm è la soluzione ideale per intercettare e regolare il flusso dell&apos;acqua negli imp</Description>
+    <OriginalPrice>9.40</OriginalPrice>
+    <Price>6.25</Price>
+    <Code>17.111.19</Code>
+    <Link>https://www.onautica.com/products/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm?variant=52814396555611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm.webp?v=1776263781</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052033</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm</ParentID>
   </Offer>
   <Offer>
     <Name>Rullo ricambio - L 42 mm. - Ø 60 mm. - foro Ø 11 mm. puleggia</Name>
@@ -37864,7 +37853,7 @@ bocche Ø 14 mm.</Name>
     <ParentID>cuffia-o-70x100-mm-passa-paratia-grigio</ParentID>
   </Offer>
   <Offer>
-    <Name>Dado Antivibrante S21 Ultraflex – Ghiera di Fissaggio per Snodi Timoneria</Name>
+    <Name>Dado Antivibrante S21 Ultraflex �� Ghiera di Fissaggio per Snodi Timoneria</Name>
     <Brand>Ultraflex</Brand>
     <Description>Dado antivibrante S21 Ultraflex, ideale per il fissaggio e la stabilizzazione degli snodi nelle timonerie. Compatibile con gli articoli 129015 , 128970 e 128995 . Caratteristiche principali Funzione antivibrante per ridurre le sollecitazioni sui component</Description>
     <OriginalPrice>17.46</OriginalPrice>
