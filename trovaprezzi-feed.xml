@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-10T10:31:14.282Z -->
-<!-- Offerte: 2842 -->
+<!-- Generato: 2026-07-10T14:31:19.306Z -->
+<!-- Offerte: 2874 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -70,6 +70,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>5.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Bruce - 7.5</Name>
+    <Brand>Bruce</Brand>
+    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
+    <OriginalPrice>58.90</OriginalPrice>
+    <Price>45.31</Price>
+    <Code>0107507</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376829787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>7.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
@@ -826,6 +844,22 @@
     <ParentID>base-attacco-tendalini-grigio-da-incollare-per-gommoni</ParentID>
   </Offer>
   <Offer>
+    <Name>Basetta Piana BP in Acciaio Inox AISI 316 per Tendalini</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Basetta Piana BP è un supporto di fissaggio professionale progettato per l&apos;installazione di tendalini, bimini e capottine su ogni tipo di imbarcazione. Realizzata in Acciaio Inox AISI 316 microfuso e lucidata a specchio, questa basetta offre una resist</Description>
+    <OriginalPrice>9.50</OriginalPrice>
+    <Price>6.79</Price>
+    <Code>3230600</Code>
+    <Link>https://www.onautica.com/products/basetta-piana-bp-inox-aisi-316-57x17?variant=52577419100507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basetta-piana-bp-acciaio-inox-aisi-316.webp?v=1775237191</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095923</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>basetta-piana-bp-inox-aisi-316-57x17</ParentID>
+  </Offer>
+  <Offer>
     <Name>Basetta Piana BPI in Acciaio Inox AISI 316 con Attacco Pivottante</Name>
     <Brand>Motomarine</Brand>
     <Description>La Basetta BPI è un supporto di fissaggio di alta gamma, progettato per offrire la massima versatilità nell&apos;installazione di tendalini, bimini e capottine. Realizzata in Acciaio Inox AISI 316 microfuso e lucidata a specchio, questa basetta garantisce un&apos;e</Description>
@@ -1116,6 +1150,22 @@
     <EanCode>0202405</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cavo-prolunga-rimorchio-2-spine-7-poli-8m-12v-portabarche</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Prolunga Rimorchio 7 Poli 10 m 12V per Carrelli Portabarche</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cavo Prolunga Rimorchio 7 Poli 10 m 12V – Connessione Europea Impermeabile per Carrelli Portabarche Il cavo prolunga rimorchio a 7 poli da 10 metri a 12V è la soluzione ideale per il trasferimento del segnale elettronico tra veicolo trainante e rimorchio </Description>
+    <OriginalPrice>49.01</OriginalPrice>
+    <Price>35.01</Price>
+    <Code>02.024.03</Code>
+    <Link>https://www.onautica.com/products/cavo-prolunga-rimorchio-7-poli-10m-12v-portabarche?variant=52577426997595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-prolunga-rimorchio-7-poli-10m-12v-carrelli-portabarche.webp?v=1776336487</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137068423</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-prolunga-rimorchio-7-poli-10m-12v-portabarche</ParentID>
   </Offer>
   <Offer>
     <Name>Cerchio Ruota 3,50x10&quot; per Rimorchio – Cerchione 4 Fori per Carrello Nautico</Name>
@@ -2328,6 +2378,22 @@
     <ParentID>giunto-apribile-ta-inox-aisi-316-capottine</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto Apribile TA in Acciaio Inox AISI 316 per Capottine - Ø 25 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Giunto Apribile TA rappresenta una soluzione strutturale di alta qualità per l&apos;assemblaggio di telai per tendalini, bimini e capottine. Realizzato in Acciaio Inox AISI 316 microfuso e lucidato a specchio, questo componente è progettato per offrire la m</Description>
+    <OriginalPrice>19.18</OriginalPrice>
+    <Price>13.70</Price>
+    <Code>3230202</Code>
+    <Link>https://www.onautica.com/products/giunto-apribile-ta-inox-aisi-316-capottine?variant=52750102921563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giunto-apribile-ta-inox-aisi-316-capottine.webp?v=1775236879</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8037626095242</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-apribile-ta-inox-aisi-316-capottine</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto Apribile TAS in Acciaio Inox AISI 316 per Capottine - Ø 22 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Giunto Apribile TAS è la soluzione professionale per chi necessita di una struttura per tendalini e capottine estremamente versatile e facile da smontare. Realizzato in Acciaio Inox AISI 316 microfuso e lucidato a specchio, questo giunto offre una resi</Description>
@@ -2447,6 +2513,24 @@
     <ParentID>giunto-ancora-trimfix-per-catena-6-8-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto per ancora trefoil 20 kg. girevole per catena Ø 6/8 mm.</Name>
+    <Brand>Trefoil</Brand>
+    <Description>Questo giunto girevole è la soluzione ingegneristica progettata specificamente per le ancore di tipo Trefoil fino a 20 kg . Il suo design senza sporgenze è studiato per collegare la catena all&apos;ancora in modo fluido e sicuro, eliminando il classico problem</Description>
+    <OriginalPrice>37.11</OriginalPrice>
+    <Price>26.51</Price>
+    <Code>01.740.09</Code>
+    <Link>https://www.onautica.com/products/giunto-ancora-girevole-o-6-8-mm-fino-a-20-kg?variant=52577440366939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/01.740.09.png?v=1773341667</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137067440</EanCode>
+    <Weight>0.17</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/01.740.09b.png?v=1773341667</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-ancora-girevole-o-6-8-mm-fino-a-20-kg</ParentID>
+  </Offer>
+  <Offer>
     <Name>Grillo Diritto (D) in Acciaio Zincato - Ø 20 mm.</Name>
     <Brand>Carcano</Brand>
     <Description>Questa serie di grilli diritti (a D) è un componente essenziale per l&apos;ancoraggio, l&apos;ormeggio e il rigging di alta sicurezza. Sono realizzati in acciaio con una zincatura a spessore che ne garantisce la durata e la resistenza alla corrosione in ambiente ma</Description>
@@ -2478,6 +2562,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilli_zincati.png?v=1764257607</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-d-diritto-zincato-a-spessore-serie</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Grillo diritto in inox senza testa per ancore, acciaio marino resistente - Ø 12 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Grillo diritto in acciaio inox AISI 316 A4 senza testa, ideale per impieghi nautici come giunzione affidabile tra catena e ancora. La configurazione senza testa assicura uno scorrimento fluido all’interno del musone di prua, riducendo il rischio di incepp</Description>
+    <OriginalPrice>8.39</OriginalPrice>
+    <Price>6.00</Price>
+    <Code>0122712</Code>
+    <Link>https://www.onautica.com/products/grillo-diritto-inox-senza-testa?variant=52558797898075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore.png?v=1773341959</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137064661</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore_2.png?v=1773341678</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore_3.png?v=1773341679</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>grillo-diritto-inox-senza-testa</ParentID>
   </Offer>
   <Offer>
     <Name>Guanti in Lattice Arancio &quot;Industrial&quot; – Alta Resistenza (0,90 mm) - 10/10.5</Name>
@@ -3647,6 +3749,22 @@
     <ParentID>rullo-centrale-nero-185mm-foro-21mm-rimorchio-portabarche</ParentID>
   </Offer>
   <Offer>
+    <Name>Rullo centrale singolo rinforzato con staffe</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rullo centrale singolo rinforzato con staffe, versione gigante rinforzata, completo di staffe a U. Tipo Staffe regolabili mm singolo 60 Caratteristiche principali Versione rinforzata per carichi maggiori rispetto ai modelli standard Completo di staffe a U</Description>
+    <OriginalPrice>58.30</OriginalPrice>
+    <Price>48.58</Price>
+    <Code>02.040.73</Code>
+    <Link>https://www.onautica.com/products/rullo-centrale-singolo-rinforzato-con-staffe?variant=52577528840539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/02.040.73.png?v=1773341946</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137069628</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>rullo-centrale-singolo-rinforzato-con-staffe</ParentID>
+  </Offer>
+  <Offer>
     <Name>Rullo Laterale anima Tecnopolimero esterno Polipropilene/Gomma - Nero / 18,5 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di rulli laterali è essenziale per il supporto, la guida e la protezione dello scafo durante le operazioni di alaggio e varo. Sono tutti progettati per essere installati su apposite staffe di fissaggio ( per modello da foro 15 mm .). Caratter</Description>
@@ -3811,6 +3929,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_b.png?v=1764692547</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>0201651</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio.png?v=1764692246</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_c.png?v=1764691347</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ruotino-appoggio-anteriore-carrelli-rimorchi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ruotino di Appoggio Anteriore per Carrelli Portabarche - 150 Kg.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il ruotino di appoggio anteriore (o jockey wheel) è un accessorio fondamentale per la manovrabilità e il corretto stazionamento dei carrelli porta imbarcazioni. Permette di sollevare, abbassare e spostare manualmente l&apos;asse del rimorchio quando non è agga</Description>
+    <OriginalPrice>46.62</OriginalPrice>
+    <Price>33.30</Price>
+    <Code>750808</Code>
+    <Link>https://www.onautica.com/products/ruotino-appoggio-anteriore-carrelli-rimorchi?variant=52543443894619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_b.png?v=1764692547</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>54971738</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio.png?v=1764692246</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_c.png?v=1764691347</Image3>
     <Condition>nuovo</Condition>
@@ -5303,6 +5439,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/terminale-inox-aisi-316-capottine-tendalini.webp?v=1775234930</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626095893</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-inox-aisi-316-capottine-tendalini</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Terminale in Acciaio Inox AISI 316 per Capottine e Tendalini - Ø 25 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale in Acciaio Inox AISI 316 è l&apos;accessorio di ferramenta nautica d&apos;eccellenza per la costruzione e la manutenzione di telai per capottine, bimini e tendalini. Realizzato in acciaio inossidabile microfuso AISI 316 e lucidato a specchio, questo co</Description>
+    <OriginalPrice>9.90</OriginalPrice>
+    <Price>7.07</Price>
+    <Code>3230325</Code>
+    <Link>https://www.onautica.com/products/terminale-inox-aisi-316-capottine-tendalini?variant=52749978108251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/terminale-inox-aisi-316-capottine-tendalini.webp?v=1775234930</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095909</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>terminale-inox-aisi-316-capottine-tendalini</ParentID>
   </Offer>
@@ -8423,6 +8575,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1112915.png?v=1773341633</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626007209</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bitta-inox-scena-a-bordo.webp?v=1783680809</Image2>
     <Condition>nuovo</Condition>
     <ParentID>bitta-inox-dune-ormeggio-banchina</ParentID>
   </Offer>
@@ -8439,6 +8592,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1112915.png?v=1773341633</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626007216</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bitta-inox-scena-a-bordo.webp?v=1783680809</Image2>
     <Condition>nuovo</Condition>
     <ParentID>bitta-inox-dune-ormeggio-banchina</ParentID>
   </Offer>
@@ -8455,6 +8609,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1112915.png?v=1773341633</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626007223</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bitta-inox-scena-a-bordo.webp?v=1783680809</Image2>
     <Condition>nuovo</Condition>
     <ParentID>bitta-inox-dune-ormeggio-banchina</ParentID>
   </Offer>
@@ -9769,22 +9924,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>interruttore-on-off-doppio-da-parete-max-5a</ParentID>
   </Offer>
   <Offer>
-    <Name>Interruttore ON-OFF singolo da parete max 5A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Interruttore ON-OFF singolo da parete max 5A L&apos;interruttore ON-OFF singolo da parete è un componente essenziale per la gestione dei circuiti elettrici a bordo, progettato per supportare carichi fino a 5A. A chi è rivolto Ideale per armatori e diportisti c</Description>
-    <OriginalPrice>7.18</OriginalPrice>
-    <Price>5.32</Price>
-    <Code>10372</Code>
-    <Link>https://www.onautica.com/products/interruttore-on-off-singolo-da-parete-max-5a?variant=52577445970267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Interruttore_ON-OFF_singolo_da_parete_max_5A.png?v=1773341686</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626387875</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>interruttore-on-off-singolo-da-parete-max-5a</ParentID>
-  </Offer>
-  <Offer>
     <Name>Interruttori impermeabili bipolare ON-OFF-ON IP55 Signal  6 terminali</Name>
     <Brand>Motomarine</Brand>
     <Description>Interruttori basculanti impermeabili IP55 ideali per installazioni a bordo, disponibili in configurazione bipolare ON-OFF-ON a 6 terminali. Dotati di illuminazione LED integrata ed etichette identificative incluse nella confezione. Tensione: 12V Corrente </Description>
@@ -10896,6 +11035,21 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
   </Offer>
   <Offer>
+    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 500 ml.</Name>
+    <Brand>Osculati</Brand>
+    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
+    <OriginalPrice>46.19</OriginalPrice>
+    <Price>27.17</Price>
+    <Code>66.240.10</Code>
+    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577380991323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
+  </Offer>
+  <Offer>
     <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
     <Brand>Osculati</Brand>
     <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
@@ -10989,6 +11143,38 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_bianco.png?v=1773341610</Image2>
     <Condition>nuovo</Condition>
     <ParentID>kit-riparazione-gommoni-neoprene-adeco-125ml</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Barra connessione 150A 12M4-2M6 nera</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Barra di connessione professionale con base isolata, ideale per impianti elettrici a bordo. Garantisce distribuzione sicura e ordinata dei cablaggi grazie ai terminali in acciaio inox e al coperchio di protezione incluso. Terminali: 12 viti M4 + 2 perni f</Description>
+    <OriginalPrice>22.03</OriginalPrice>
+    <Price>15.73</Price>
+    <Code>10337</Code>
+    <Link>https://www.onautica.com/products/barra-connessione-150a-12m4-2m6-nera?variant=52577418576219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barra_connessione_150A_12M4-2M6_nera.png?v=1773341629</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626424884</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>barra-connessione-150a-12m4-2m6-nera</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Barra connessione 150A 12M4-2M6 rossa</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Barra di connessione con base isolata, terminali in Acciaio Inox e coperchio di protezione. 2 perni filettati M6 + 12 viti M4. Dim: 150mm x 28mm x H35mm. Caratteristiche principali Portata massima di 150A , adatta a carichi elettrici impegnativi a bordo C</Description>
+    <OriginalPrice>22.03</OriginalPrice>
+    <Price>15.73</Price>
+    <Code>10338</Code>
+    <Link>https://www.onautica.com/products/barra-connessione-150a-12m4-2m6-rossa?variant=52577418314075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barra_connessione_150A_12M4-2M6_rossa.png?v=1773341628</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626424686</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>barra-connessione-150a-12m4-2m6-rossa</ParentID>
   </Offer>
   <Offer>
     <Name>Blister 4 pz. elastici con palline fissavele e usi vari 50 cm.</Name>
@@ -12526,7 +12712,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-blue-navy?variant=52517264490843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-blue-navy.png?v=1773341722</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12719,7 +12905,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003BO</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-rosso-vino?variant=52517264851291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-rosso-vino-bordeaux.png?v=1773341721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12805,7 +12991,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>11.52</Price>
     <Code>3813003SA</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-sabbia?variant=52577412972891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Copriparabordi_F1_sabbia.png?v=1773341720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13225,6 +13411,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>3588321126526</EanCode>
     <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>estintori-a-polvere-certificati-med-ce-con-manometro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Estintori a Polvere Certificati MED / CE con manometro - 2 Kg.</Name>
+    <Brand>LALIZAS</Brand>
+    <Description>Questa serie di estintori a polvere è essenziale per la sicurezza antincendio a bordo ed è dotata delle certificazioni necessarie per l&apos;utilizzo in ambiente nautico. Certificazioni e Conformità: Certificazione MED (Marine Equipment Directive): Questi esti</Description>
+    <OriginalPrice>41.00</OriginalPrice>
+    <Price>32.83</Price>
+    <Code>3020042</Code>
+    <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52513518059867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EstintoreMED.png?v=1763201908</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3588322126853</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>estintori-a-polvere-certificati-med-ce-con-manometro</ParentID>
   </Offer>
@@ -13950,6 +14152,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>0.27</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-orizzontale-4-interruttori-alluminio-ip56</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello Elettrico Orizzontale 7 Interruttori – Policarbonato Grigio IP56</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico Orizzontale a 7 Interruttori (Cod. 14.855.07) è progettato per chi ha bisogno di gestire numerose utenze di bordo sfruttando lo spazio in larghezza sulla plancia. Come per il resto della serie, la struttura abbina una solida piastra </Description>
+    <OriginalPrice>149.50</OriginalPrice>
+    <Price>123.09</Price>
+    <Code>14.855.07</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-orizzontale-7-interruttori-policarbonato-grigio?variant=52577411367259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-orizzontale-7-interruttori-policarbonato-grigio.webp?v=1773341607</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137002229</EanCode>
+    <Weight>0.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-verticale-6-interruttori-policarbonato-grigio_blister.webp?v=1773341956</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-orizzontale-7-interruttori-policarbonato-grigio</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico PCP Compact 4 Interruttori LED – IP66</Name>
@@ -14830,6 +15050,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>riflettore-radar-supercompact-alluminio</ParentID>
   </Offer>
   <Offer>
+    <Name>Sacca Segnali di Soccorso Pesca Professionale Entro 6 Miglia (DM 2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Sacca Segnali di Soccorso per Pesca Professionale Entro le 6 Miglia è la dotazione di sicurezza regolamentare dedicata agli operatori del settore ittico. Il kit è rigorosamente aggiornato alle disposizioni del DM n°133 del 21/09/2024 e rispetta la Dire</Description>
+    <OriginalPrice>117.33</OriginalPrice>
+    <Price>102.02</Price>
+    <Code>KIT6PS</Code>
+    <Link>https://www.onautica.com/products/sacca-segnali-soccorso-pesca-professionale-6-miglia-dm-2024?variant=52577367523675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-segnali-soccorso-pesca-professionale-6-miglia.webp?v=1774695023</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.64</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-segnali-soccorso-pesca-professionale-6-migliabusta.webp?v=1774695023</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-segnali-soccorso-pesca-professionale-6-miglia-dm-2024</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scatola Portafusibili in Policarbonato con Coperchio a Scatto 6/12 posti - 6 Posti</Name>
     <Brand>Osculati</Brand>
     <Description>Questa scatola portafusibili è la soluzione ideale per l&apos;organizzazione e la protezione degli impianti elettrici di bordo (12/24 V). È realizzata in policarbonato con un coperchio trasparente a scatto , che permette un&apos;immediata verifica dei fusibili, ed </Description>
@@ -15356,7 +15593,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>94.43</Price>
     <Code>KIT6/12/50</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17086,6 +17323,22 @@ L 320mm. - Ø22</Name>
     <ParentID>moschettone-19-mm-girevole-a4</ParentID>
   </Offer>
   <Offer>
+    <Name>Moschettone inox 100 mm. apertura esterna</Name>
+    <Brand>Osculati</Brand>
+    <Description>Moschettone inox 100 mm. apertura esterna AISI 316 Caratteristiche principali Acciaio inossidabile AISI 316, ideale per l&apos;uso marino in ambienti salini Lunghezza 100 mm per applicazioni che richiedono un aggancio robusto e affidabile Apertura esterna per </Description>
+    <OriginalPrice>10.34</OriginalPrice>
+    <Price>5.74</Price>
+    <Code>09.287.10</Code>
+    <Link>https://www.onautica.com/products/moschettone-inox-100-mm-apertura-esterna?variant=52577452884315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_100_mm._apertura_esterna.png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137081538</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-inox-100-mm-apertura-esterna</ParentID>
+  </Offer>
+  <Offer>
     <Name>Moschettone inox 120 mm. AISI 316 A4 apertura larga</Name>
     <Brand>Osculati</Brand>
     <Description>Moschettone in acciaio inox a grande apertura in acciaio inox AISI 316, aggancio senza appigli. Caratteristiche: Versione standard A 122 mm. B �� 11 mm. E 23 mm. Caratteristiche principali Acciaio inox AISI 316 A4: massima resistenza alla corrosione in am</Description>
@@ -18534,24 +18787,6 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-acqua-pipe-3-4-portagomma</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Nautico 50L 12/24V – Pannello Clean Touch Anti-impronta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Frigorifero Frigo° da 50 Litri combina prestazioni di raffreddamento eccellenti con un design moderno e funzionale, studiato specificamente per l&apos;ambiente nautico e i veicoli ricreazionali. La caratteristica distintiva di questa serie è il pannello fro</Description>
-    <OriginalPrice>503.76</OriginalPrice>
-    <Price>457.97</Price>
-    <Code>50.960.00</Code>
-    <Link>https://www.onautica.com/products/frigorifero-nautico-50l-clean-touch?variant=52577545486683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchchiuso.png?v=1773342024</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.88</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchmisure.png?v=1773342026</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-nautico-50l-clean-touch</ParentID>
-  </Offer>
-  <Offer>
     <Name>Frigorifero Portatile a Compressore Travel Box ITB 32 (32 Litri)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 32 offre la massima praticità per la conservazione in viaggio. Con una capacità compatta di 32 litri , è la soluzione ideale per chi cerca prestazioni elevate e affidabilità a bordo della propria imbar</Description>
@@ -18753,6 +18988,25 @@ L 320mm. - Ø22</Name>
     <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
   </Offer>
   <Offer>
+    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 54 - 51 lt.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
+    <OriginalPrice>124.20</OriginalPrice>
+    <Price>99.38</Price>
+    <Code>1540051</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035874651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica14.png?v=1773341724</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>034223446833</EanCode>
+    <Weight>4.88</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 70 - 66 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
@@ -18802,6 +19056,24 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.10d.png?v=1773341727</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-ghiacciaia-igloo-wheelie-38-36lt-blu-con-ruote</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante di Ricambio per Motori Fuoribordo Tomos (2 Tempi)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Girante pompa acqua di ricambio specifica per motori fuoribordo Tomos . Questo componente è essenziale per il sistema di raffreddamento del motore, garantendo il corretto flusso d&apos;acqua e prevenendo danni da surriscaldamento. Il ricambio è compatibile con</Description>
+    <OriginalPrice>25.40</OriginalPrice>
+    <Price>21.18</Price>
+    <Code>10068</Code>
+    <Link>https://www.onautica.com/products/girante-ricambio-motori-tomos?variant=52577389936987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos.png?v=1773341552</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos3.png?v=1773341553</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos2.png?v=1773341554</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-ricambio-motori-tomos</ParentID>
   </Offer>
   <Offer>
     <Name>Girante Pompa Johnson 09-1077B-9</Name>
@@ -20497,6 +20769,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814305</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
+    <OriginalPrice>23.20</OriginalPrice>
+    <Price>19.35</Price>
+    <Code>1814305</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777125723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051875</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814238</Name>
     <Brand>Mercury</Brand>
     <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
@@ -21177,6 +21467,38 @@ L 320mm. - Ø22</Name>
     <ParentID>occhiolo-vite-acciaio-inox</ParentID>
   </Offer>
   <Offer>
+    <Name>Passamano in Acciaio Inox FAST 1 - Montaggio Esterno - 250 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo passamano è un accessorio di sicurezza essenziale per l&apos;imbarcazione, fornendo un punto d&apos;appoggio sicuro in coperta o nel pozzetto. È realizzato in robusto Acciaio Inox , garantendo la massima resistenza all&apos;ambiente marino. Caratteristiche Princi</Description>
+    <OriginalPrice>22.03</OriginalPrice>
+    <Price>15.73</Price>
+    <Code>0618020</Code>
+    <Link>https://www.onautica.com/products/passamano-acciaio-inox-fast1-esterno?variant=52541979525467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Passamani_in_acciaio_inox_22_mm..png?v=1773341759</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626006554</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>passamano-acciaio-inox-fast1-esterno</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passamano in Acciaio Inox FAST 1 - Montaggio Esterno - 300 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo passamano è un accessorio di sicurezza essenziale per l&apos;imbarcazione, fornendo un punto d&apos;appoggio sicuro in coperta o nel pozzetto. È realizzato in robusto Acciaio Inox , garantendo la massima resistenza all&apos;ambiente marino. Caratteristiche Princi</Description>
+    <OriginalPrice>24.49</OriginalPrice>
+    <Price>17.49</Price>
+    <Code>0618030</Code>
+    <Link>https://www.onautica.com/products/passamano-acciaio-inox-fast1-esterno?variant=52541979558235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Passamani_in_acciaio_inox_22_mm..png?v=1773341759</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626006561</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>passamano-acciaio-inox-fast1-esterno</ParentID>
+  </Offer>
+  <Offer>
     <Name>Passamano in Acciaio Inox FAST 1 - Montaggio Esterno - 500 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo passamano è un accessorio di sicurezza essenziale per l&apos;imbarcazione, fornendo un punto d&apos;appoggio sicuro in coperta o nel pozzetto. È realizzato in robusto Acciaio Inox , garantendo la massima resistenza all&apos;ambiente marino. Caratteristiche Princi</Description>
@@ -21257,24 +21579,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/portacanna-inox-parete-316-4posti.png?v=1766156938</Image2>
     <Condition>nuovo</Condition>
     <ParentID>portacanna-inox-parete-aisi-316-multiplo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portachiavi Autogonfiabile Davis – Portachiavi Galleggiante Antismarrimento per Barca</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Portachiavi autogonfiabile che una volta caduto in mare si apre e il tubo al suo interno si gonfia evitando così lo smarrimento delle chiavi. Quando gonfiato il tubo è alto 36cm e riesce a supportare un peso fino a 80gr. Il portachiavi è monouso, la sosta</Description>
-    <OriginalPrice>24.35</OriginalPrice>
-    <Price>17.39</Price>
-    <Code>10312</Code>
-    <Link>https://www.onautica.com/products/portachiavi-davis-autogonfiabile?variant=52577475985755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_Davis_autogonfiabile.png?v=1773341775</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>011698008773</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5815010.png?v=1773341776</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5815010b.png?v=1773341777</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portachiavi-davis-autogonfiabile</ParentID>
   </Offer>
   <Offer>
     <Name>Presa d&apos;aria ABS bianca 415x83 mm.</Name>
@@ -21994,6 +22298,42 @@ L 320mm. - Ø22</Name>
     <ParentID>antigelo-star-brite-premium</ParentID>
   </Offer>
   <Offer>
+    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica bianca</Name>
+    <Brand>Osculati</Brand>
+    <Description>Asta luminosa per imbarcazioni &lt; 20 m. Base in acciaio inox AISI 316 con regolazione autobloccante a varie altezze, l&apos;asta in acciaio inox può svolgere anche la funzione di portabandiera. Plastica bianca. Caratteristiche principali Luce bianca a 360° per </Description>
+    <OriginalPrice>50.72</OriginalPrice>
+    <Price>36.23</Price>
+    <Code>11.140.02</Code>
+    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca?variant=52577416839515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_bianca.png?v=1773341623</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137019616</EanCode>
+    <Weight>0.45</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_1_360_plastica_bianca.png?v=1773341624</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Asta luminosa 60 cm. retrattile luce bianca 360° plastica nera</Name>
+    <Brand>Osculati</Brand>
+    <Description>Asta luminosa retrattile da 60 cm con luce bianca a 360°, progettata per imbarcazioni fino a 20 metri di lunghezza. La base è realizzata in acciaio inox AISI 316 , materiale altamente resistente alla corrosione marina, dotata di sistema di regolazione aut</Description>
+    <OriginalPrice>50.85</OriginalPrice>
+    <Price>36.32</Price>
+    <Code>11.140.00</Code>
+    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera?variant=52577416937819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_nera.png?v=1773341623</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137012808</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_nera_1.png?v=1773341624</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_luminosa_60_cm._retrattile_luce_bianca_360_plastica_nera_2.png?v=1773341624</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera</ParentID>
+  </Offer>
+  <Offer>
     <Name>ATF Red Oil – Olio per Invertitori Idraulici ad Alta Stabilitài</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; ATF Red Oil è un lubrificante di alta qualità specificamente formulato per l&apos;utilizzo in invertitori idraulici nautici e trasmissioni idrauliche. Grazie agli additivi utilizzati, questo olio si distingue per la sua eccezionale stabilità termico-ossidat</Description>
@@ -22008,25 +22348,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8003699008885</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>atf-red-oil-invertitori-idraulici</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Autoclave Europump 8 – 12V 8 l/min Autoaspirante Silenziosa</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Autoclave Europump &quot;8&quot; è una pompa autoaspirante a 3 valvole progettata per offrire affidabilità e silenziosità nell&apos;impianto idrico di bordo. Dotata di un motore a magneti permanenti con albero autolubrificante e cuscinetti interni in acciaio inox , q</Description>
-    <OriginalPrice>74.70</OriginalPrice>
-    <Price>49.79</Price>
-    <Code>16.509.12</Code>
-    <Link>https://www.onautica.com/products/autoclave-europump-8-12v?variant=52577398751579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12v.webp?v=1773341577</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052583</EanCode>
-    <Weight>2.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vmisure.webp?v=1773341578</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vscatola.webp?v=1773341579</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-europump-8-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Base Inox di Montaggio per Faretti – Supporto Inox Anticorrosione per Luci di Bordo</Name>
@@ -22293,6 +22614,22 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626095237</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Dischetti con velcro Ø 45 mm. per tessuti e rivestimenti 5 cp.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Dischetti maschio+femmina con velcro per fissare tessuti e rivestimenti. Caratteristiche: Ø 45 mm. Pezzi 5 coppie Caratteristiche principali Sistema di fissaggio a doppia componente: dischetto maschio e femmina per una chiusura sicura e rimovibile Forma c</Description>
+    <OriginalPrice>14.25</OriginalPrice>
+    <Price>10.55</Price>
+    <Code>3215006</Code>
+    <Link>https://www.onautica.com/products/dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp?variant=52577502298459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Guarnizioni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3215006.png?v=1773341863</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095244</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
@@ -22920,24 +23257,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_midi_verde_white_R.I.N.A._di_via.png?v=1773342063</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626063427</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110902.png?v=1773342060</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110910.png?v=1773342061</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-rina-midi-white-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione R.I.Na. Midi White - fino a 12 metri - 135° Poppa</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di fanali di navigazione di dimensioni medie è un elemento essenziale per la sicurezza e la conformità della tua imbarcazione fino a 12 metri. Il design classico e la costruzione robusta li rendono ideali per l&apos;installazione fissa. Caratteris</Description>
-    <OriginalPrice>13.75</OriginalPrice>
-    <Price>9.82</Price>
-    <Code>2110906</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-rina-midi-white-12m?variant=52545766228315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_midi_verde_white_R.I.N.A._di_via.png?v=1773342063</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626063410</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110902.png?v=1773342060</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110910.png?v=1773342061</Image3>
     <Condition>nuovo</Condition>
@@ -23776,7 +24095,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Giubbotto Salvagente SV-Isabel - 100N Entro 3/6 miglia - fino a 15 Kg.</Name>
     <Brand>Osculati</Brand>
-    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilità di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla cos</Description>
+    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilit�� di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla co</Description>
     <OriginalPrice>51.30</OriginalPrice>
     <Price>28.48</Price>
     <Code>22.465.01</Code>
@@ -23792,7 +24111,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Giubbotto Salvagente SV-Isabel - 100N Entro 3/6 miglia - 30&lt;&gt;40 Kg.</Name>
     <Brand>Osculati</Brand>
-    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilità di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla cos</Description>
+    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilit�� di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla co</Description>
     <OriginalPrice>57.30</OriginalPrice>
     <Price>31.82</Price>
     <Code>22.465.03</Code>
@@ -24402,6 +24721,23 @@ L 320mm. - Ø22</Name>
     <ParentID>luce-cortesia-stagna-5led-ip65-bianco-blu</ParentID>
   </Offer>
   <Offer>
+    <Name>Luce di via con faro di coperta a led 12 fino a 20 metri per albero</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Faro da coperta LED 12V completo di luce di prua LED per imbarcazioni fino a 12 metri. Corpo stagno in polimero con alette flessibili per il montaggio ad albero. Caratteristiche: Dimensione piastra 186xH162 mm. 12V Caratteristiche principali Combinazione </Description>
+    <OriginalPrice>49.17</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>2110816</Code>
+    <Link>https://www.onautica.com/products/fanale-luce-da-coperta-aa-combilight-led-fino-a-12-metri?variant=52577437024603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Interna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_luce_da_coperta_AA_combilight_led_fino_a_12_metri.png?v=1773341656</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626306128</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_luce_da_coperta_AA_combilight_led_fino_a_12_metri_1.png?v=1773341657</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-luce-da-coperta-aa-combilight-led-fino-a-12-metri</ParentID>
+  </Offer>
+  <Offer>
     <Name>Luce di via con faro di coperta a led 12/24V fino a 20 metri per albero</Name>
     <Brand>Osculati</Brand>
     <Description>Fanali di via 225° LED, abbinato a luce di coperta a LED. Carcassa in tecnopolimero con bandelle flessibili adattabili a qualsiasi tipo di albero. Certificati EN60945 - COLREG 1972 + USCG + ABYC A-16. Caratteristiche principali Tecnologia LED ad alta effi</Description>
@@ -24680,6 +25016,24 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-accosto-telescopico-alluminio-nylon-60-100cm.webp?v=1775578861</Image3>
     <Condition>nuovo</Condition>
     <ParentID>mezzomarinaro-telescopico-alluminio-60-100cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 5 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
+    <OriginalPrice>19.07</OriginalPrice>
+    <Price>13.92</Price>
+    <Code>3136505</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52513541521755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008046</EanCode>
+    <Weight>0.63</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-scena-a-bordo.webp?v=1783612780</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
   </Offer>
   <Offer>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 7 metri - filo Ø 6 mm.</Name>
@@ -25392,6 +25746,24 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626111234</EanCode>
     <Weight>0.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misuremontaggio.webp?v=1776247010</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 150x430 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi Cilindrici Majoni Serie Hole – Foro Passante per Cima di Ormeggio, Verticale o Orizzontale I parabordi cilindrici Majoni serie Hole con foro passante rappresentano una soluzione di protezione altamente versatile e robusta per la fiancata di qual</Description>
+    <OriginalPrice>22.52</OriginalPrice>
+    <Price>16.44</Price>
+    <Code>3801801</Code>
+    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-hole-foro-passante?variant=52549788270939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misure.webp?v=1776247010</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626111241</EanCode>
+    <Weight>0.71</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misuremontaggio.webp?v=1776247010</Image2>
     <Condition>nuovo</Condition>
     <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
@@ -26417,6 +26789,24 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-pompa-olio-gasolio-12v-8-lt-min</ParentID>
   </Offer>
   <Offer>
+    <Name>Portachiavi Autogonfiabile Davis – Portachiavi Galleggiante Antismarrimento per Barca</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Portachiavi autogonfiabile che una volta caduto in mare si apre e il tubo al suo interno si gonfia evitando così lo smarrimento delle chiavi. Quando gonfiato il tubo è alto 36cm e riesce a supportare un peso fino a 80gr. Il portachiavi è monouso, la sosta</Description>
+    <OriginalPrice>24.35</OriginalPrice>
+    <Price>17.39</Price>
+    <Code>10312</Code>
+    <Link>https://www.onautica.com/products/portachiavi-davis-autogonfiabile?variant=52577475985755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_Davis_autogonfiabile.png?v=1773341775</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>011698008773</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5815010.png?v=1773341776</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5815010b.png?v=1773341777</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portachiavi-davis-autogonfiabile</ParentID>
+  </Offer>
+  <Offer>
     <Name>Portalampada BA15 per Fanali DHR – Portalampada di Ricambio per Luci di Navigazione</Name>
     <Brand>DHR</Brand>
     <Description>Portalampada per DHR BA15, vedi anche i FANALI DHR . Caratteristiche principali Compatibile con l&apos;attacco standard BA15, il più diffuso nei fanali DHR Progettato per garantire un contatto elettrico stabile e affidabile anche in ambiente marino Ricambio sp</Description>
@@ -27335,6 +27725,25 @@ L 320mm. - Ø22</Name>
     <ParentID>aspiratore-ventilatore-attwood-turbo-12v</ParentID>
   </Offer>
   <Offer>
+    <Name>Autoclave Europump 8 – 12V 8 l/min Autoaspirante Silenziosa</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Autoclave Europump &quot;8&quot; è una pompa autoaspirante a 3 valvole progettata per offrire affidabilità e silenziosità nell&apos;impianto idrico di bordo. Dotata di un motore a magneti permanenti con albero autolubrificante e cuscinetti interni in acciaio inox , q</Description>
+    <OriginalPrice>74.70</OriginalPrice>
+    <Price>49.79</Price>
+    <Code>16.509.12</Code>
+    <Link>https://www.onautica.com/products/autoclave-europump-8-12v?variant=52577398751579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12v.webp?v=1773341577</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052583</EanCode>
+    <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vmisure.webp?v=1773341578</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vscatola.webp?v=1773341579</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-europump-8-12v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Autoclave SuperFlow a 3 Valvole 12V per Imbarcazioni</Name>
     <Brand>Osculati</Brand>
     <Description>Autoclave SuperFlow a 3 Valvole 12V – Pompa Pressione Silenziosa per Impianti Idrici di Bordo L&apos; autoclave SuperFlow a 3 valvole 12V è la soluzione ideale per chi cerca una pompa pressione affidabile, silenziosa e di lunga durata per l&apos;impianto idrico del</Description>
@@ -28238,6 +28647,23 @@ L 320mm. - Ø22</Name>
     <ParentID>detergente-vetroresina-cfg-750-ml</ParentID>
   </Offer>
   <Offer>
+    <Name>Disincrostante gel Ferrotone 750 ml.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Disincrostante forte in gel specifico per pulizia di fouling, ruggine e ingiallimento del gelcoat. Caratteristiche principali Formulazione in gel ad alta aderenza per un&apos;azione prolungata sulle superfici verticali e inclinate Rimuove efficacemente ruggine</Description>
+    <OriginalPrice>26.21</OriginalPrice>
+    <Price>18.72</Price>
+    <Code>10527</Code>
+    <Link>https://www.onautica.com/products/disincrostante-gel-ferrotone-750-ml?variant=52577432043867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Detergenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Disincrostante_gel_Ferrotone_750_ml..jpg?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8017369202688</EanCode>
+    <Weight>0.80</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>disincrostante-gel-ferrotone-750-ml</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro Esterno per Pompa Attwood – Filtro a Specchio di Poppa per Pompa di Sentina</Name>
     <Brand>Attwood</Brand>
     <Description>Solo filtro da applicare all’esterno della pompa ATTWOOD quando é montata direttamente sullo specchio di poppa. Caratteristiche principali Compatibile con le pompe di sentina Attwood montate a specchio di poppa Applicazione esterna: non richiede smontaggi</Description>
@@ -28987,6 +29413,23 @@ L 320mm. - Ø22</Name>
     <Weight>1.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>nutriente-skai</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Olio per Teak Star Brite – Protettivo Sigillante UV (Lunga Durata)</Name>
+    <Brand>Star Brite</Brand>
+    <Description>Lo Star Brite Teak Oil è un olio di qualità premium formulato specificamente per sigillare, proteggere e nutrire il teak marino e altri legni pregiati a bordo. La sua formula avanzata è progettata per chi cerca una protezione professionale che duri nel te</Description>
+    <OriginalPrice>45.28</OriginalPrice>
+    <Price>32.34</Price>
+    <Code>5735202</Code>
+    <Link>https://www.onautica.com/products/olio-per-teak-star-brite-protettivo-uv?variant=52577464320347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/star-brite-teak-oil-protettivo-uv.webp?v=1773341744</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>071247816365</EanCode>
+    <Weight>0.95</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>olio-per-teak-star-brite-protettivo-uv</ParentID>
   </Offer>
   <Offer>
     <Name>Ombrinale di Scarico Telescopico Ø 50mm – Polipropilene (Con Valvola Opzionale) - Ombrinale Telescopico</Name>
@@ -31406,6 +31849,25 @@ L 320mm. - Ø22</Name>
     <ParentID>spazzolone-osculati-special-250-90-mm-setole-morbide-giallo</ParentID>
   </Offer>
   <Offer>
+    <Name>Spazzolone Telescopico Osculati Bi-Level 117/180 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Telescopico Osculati Bi-Level 117/180 cm Spazzolone telescopico Osculati Bi-Level: spazzola e manico estensibile da 117 a 180 cm in un unico strumento. La regolazione Bi-Level orienta la testa su due posizioni. A chi è rivolto Per chi vuole lav</Description>
+    <OriginalPrice>23.50</OriginalPrice>
+    <Price>19.56</Price>
+    <Code>36.191.02</Code>
+    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-bi-level-117-180-cm?variant=53517782614363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.02.webp?v=1783358525</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052293</EanCode>
+    <Weight>0.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_0.webp?v=1783542536</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_1.webp?v=1783542539</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
@@ -31628,6 +32090,23 @@ L 320mm. - Ø22</Name>
     <ParentID>tappo-maschio-in-ottone</ParentID>
   </Offer>
   <Offer>
+    <Name>Teak Wonder combo pak pulitore/sbiancante 2x1 lt.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il TEAK WONDER Combo Pack è la soluzione indispensabile per la pulizia profonda e il ripristino dell&apos;aspetto &quot;nuovo&quot; del teak della tua imbarcazione. Questo kit combinato permette di eliminare il grigio accumulatosi e riscoprire lo splendido colore dorato</Description>
+    <OriginalPrice>36.01</OriginalPrice>
+    <Price>25.72</Price>
+    <Code>5735305</Code>
+    <Link>https://www.onautica.com/products/teak-wonder-combo-pack-pulitore-sbiancante?variant=52577465303387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/teak-wonder-combo-pack-cleaner-brightener.png?v=1773341746</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626193698</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/teak-wonder-combo-pack-cleaner-brightener_confezione.png?v=1773341747</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>teak-wonder-combo-pack-pulitore-sbiancante</ParentID>
+  </Offer>
+  <Offer>
     <Name>Teak Wonder Dressing &amp; Sealer – Protettivo Non Oleoso (Effetto Dorato) - 1 litro</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Teak Wonder Dressing &amp; Sealer è un protettivo sicuro e durevole formulato per superare i limiti dei tradizionali impregnanti a base oleosa. A differenza di questi ultimi, che tendono a scurire il legno, attirare sporcizia e rendere la coperta scivolosa</Description>
@@ -31659,6 +32138,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626193681</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>protettivo-teak-wonder-dressing-sealer</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Terminale profili T2 nero H 45/52 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Terminale di Chiusura Nero (Cod. 3833045) è progettato specificamente per la serie di profili parabordo T2 , caratterizzata da un&apos;altezza di 45 mm. Questo accessorio in PVC nero è fondamentale per completare l&apos;installazione del bottazzo, sigillando le </Description>
+    <OriginalPrice>10.80</OriginalPrice>
+    <Price>6.34</Price>
+    <Code>3833045</Code>
+    <Link>https://www.onautica.com/products/terminale-chiusura-bottazzo-t2-nero?variant=52577409302875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcterminalenero_8db2ecf8-e33a-4815-b049-a757da8fedfb.webp?v=1773341960</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626113856</EanCode>
+    <Weight>0.02</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>terminale-chiusura-bottazzo-t2-nero</ParentID>
   </Offer>
   <Offer>
     <Name>Testa Spray per Pompa Attwood – Testa Regolabile per Pompe Aeratrici di Bordo</Name>
@@ -31971,6 +32467,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_2.png?v=1773341636</Image3>
     <Condition>nuovo</Condition>
     <ParentID>box-doccetta-uni-s</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box Doccetta Dritta da Incasso per Barca – Contenitore in Plastica Anti-UV</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore box in plastica antiurto e resistente ai raggi UV, progettato per l’incasso di doccette. Installazione verticale. Da completare con doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70 97 65 Caratteristiche principali P</Description>
+    <OriginalPrice>11.44</OriginalPrice>
+    <Price>8.17</Price>
+    <Code>1513603</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-dritta-246?variant=52577421590875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246.png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626259042</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246_1.png?v=1773341635</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-dritta-246</ParentID>
   </Offer>
   <Offer>
     <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
@@ -33022,24 +33535,6 @@ L 320mm. - Ø22</Name>
     <ParentID>contenitore-waterproof-8-lt</ParentID>
   </Offer>
   <Offer>
-    <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
-    <OriginalPrice>17.59</OriginalPrice>
-    <Price>13.53</Price>
-    <Code>4121530</Code>
-    <Link>https://www.onautica.com/products/coppa-trasparente-ricambio-filtro-sacs?variant=52577434206555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vaschetta-ricambio-filtro-separatore.png?v=1773341649</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626212788</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coppa_-_Filtro_separatore_M_C_flusso_max_150_lt_h_bicchiere_ricambio_per_4121522_4121524.png?v=1773341651</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_Separatore_Benzina_SACS_con_Vaschetta_Trasparente_Cartuccia_AquaStop_10_Micron.png?v=1773341654</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>coppa-trasparente-ricambio-filtro-sacs</ParentID>
-  </Offer>
-  <Offer>
     <Name>Doccetta Duo Switch in ABS Bianco - 2 Getti</Name>
     <Brand>Motomarine</Brand>
     <Description>La Doccetta Duo Switch è un componente versatile e funzionale, ideale come ricambio o integrazione per i sistemi di box doccia a scomparsa e incassata (Serie Uni-S). Realizzata in ABS bianco di alta qualità, questa doccetta è progettata specificamente per</Description>
@@ -33171,6 +33666,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-tohatsu-honda-mercury-4t.png?v=1773341660</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137045806</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t.png?v=1773341659</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t_2.png?v=1773341659</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-olio-ricambio-honda-4-tempi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtri Olio di Ricambio per Motori Fuoribordo HONDA 4 Tempi - 15400-PLM-A01PE</Name>
+    <Brand>Honda</Brand>
+    <Description>I Filtri Olio per Fuoribordo a 4 Tempi HONDA sono componenti di ricambio essenziali per la manutenzione e l&apos;efficienza del tuo motore. Garantiscono una filtrazione superiore, proteggendo i delicati meccanismi interni dall&apos;usura causata da impurità. Applic</Description>
+    <OriginalPrice>7.25</OriginalPrice>
+    <Price>5.37</Price>
+    <Code>17.504.15</Code>
+    <Link>https://www.onautica.com/products/filtri-olio-ricambio-honda-4-tempi?variant=52526537769307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-tohatsu-honda-mercury-4t.png?v=1773341660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137049965</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t.png?v=1773341659</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t_2.png?v=1773341659</Image3>
     <Condition>nuovo</Condition>
@@ -37853,7 +38366,7 @@ bocche Ø 14 mm.</Name>
     <ParentID>cuffia-o-70x100-mm-passa-paratia-grigio</ParentID>
   </Offer>
   <Offer>
-    <Name>Dado Antivibrante S21 Ultraflex �� Ghiera di Fissaggio per Snodi Timoneria</Name>
+    <Name>Dado Antivibrante S21 Ultraflex – Ghiera di Fissaggio per Snodi Timoneria</Name>
     <Brand>Ultraflex</Brand>
     <Description>Dado antivibrante S21 Ultraflex, ideale per il fissaggio e la stabilizzazione degli snodi nelle timonerie. Compatibile con gli articoli 129015 , 128970 e 128995 . Caratteristiche principali Funzione antivibrante per ridurre le sollecitazioni sui component</Description>
     <OriginalPrice>17.46</OriginalPrice>
@@ -38766,23 +39279,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo</ParentID>
   </Offer>
   <Offer>
-    <Name>Portachiavi parabordo allungato blu/rosso</Name>
-    <Brand>Osculati</Brand>
-    <Description>Portachiavi galleggianti parabordi in soffice e robusto PVC. Misure 28x80 (lunghezza) mm. Caratteristiche principali Galleggiante: non va a fondo se cade in acqua Colorazione bicolore blu/rosso, facilmente identificabile a bordo Forma allungata che richia</Description>
-    <OriginalPrice>6.88</OriginalPrice>
-    <Price>5.09</Price>
-    <Code>35.511.02</Code>
-    <Link>https://www.onautica.com/products/portachiavi-parabordo-allungato-blu-rosso?variant=52577475559771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_parabordo_allungato_blu_rosso.png?v=1773341776</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137124044</EanCode>
-    <Weight>0.05</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>portachiavi-parabordo-allungato-blu-rosso</ParentID>
-  </Offer>
-  <Offer>
     <Name>Portachiavi parabordo tondo bianco/blu</Name>
     <Brand>Osculati</Brand>
     <Description>Portachiavi a forma di parabordo tondo, realizzato in PVC flessibile nei classici colori bianco e blu : il gadget ideale per tenere sempre con sé un tocco di vita marinara. Pratico e resistente, è il regalo perfetto per gli appassionati di nautica. Materi</Description>
@@ -39423,6 +39919,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>serbatoi-acqua-piatti-green-line-pump-kit</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoi Acqua Standard Green Line Pump Kit – H 29 cm con Nicchia Pompa - 67 litri</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I Serbatoi Green Line &quot;Pump Kit&quot; Modello Standard offrono il perfetto equilibrio tra capacità e compattezza per l&apos;impianto idrico di bordo. Con un&apos; altezza di 29 cm , sfruttano al meglio lo spazio verticale nei gavoni per garantire una riserva d&apos;acqua più</Description>
+    <OriginalPrice>173.70</OriginalPrice>
+    <Price>115.83</Price>
+    <Code>1531267</Code>
+    <Link>https://www.onautica.com/products/serbatoi-acqua-standard-green-line-pump-kit?variant=52514404073819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-acqua-piatto-standard-green-line-pump-kit.webp?v=1770715097</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-acqua-piatto-green-line-pump-kitschemamisure.webp?v=1770714277</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-acqua-piatto-green-line-pump-kitmisureportagomma.webp?v=1770714277</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoi-acqua-standard-green-line-pump-kit</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoi Acqua Standard Green Line Pump Kit – H 29 cm con Nicchia Pompa - 87 litri</Name>
     <Brand>Motomarine</Brand>
     <Description>I Serbatoi Green Line &quot;Pump Kit&quot; Modello Standard offrono il perfetto equilibrio tra capacità e compattezza per l&apos;impianto idrico di bordo. Con un&apos; altezza di 29 cm , sfruttano al meglio lo spazio verticale nei gavoni per garantire una riserva d&apos;acqua più</Description>
@@ -39951,6 +40464,23 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/19572XXc.png?v=1773342025</Image3>
     <Condition>nuovo</Condition>
     <ParentID>spazzole-roca-extraflex-in-acciaio-brunito-l-455-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Specchietto retrovisore 100x300 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Specchietto retrovisore con carcassa in nylon , specchio in vetro e supporto in zama cromato orientabile e adattabile sia a cruscotto che a parabrezza. Modello super panoramico. mm Ø fori mm 100x300 5 Caratteristiche principali Visuale super panoramica gr</Description>
+    <OriginalPrice>35.48</OriginalPrice>
+    <Price>25.34</Price>
+    <Code>64.494.00</Code>
+    <Link>https://www.onautica.com/products/specchietto-retrovisore-100x300-mm?variant=52577488109915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Specchietto_retrovisore_100x300_mm..png?v=1773341819</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>4710587820972</EanCode>
+    <Weight>0.52</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
@@ -43744,6 +44274,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626168641</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>portachiavi-parabordo-allungato-bianco-blu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portachiavi parabordo allungato blu/rosso</Name>
+    <Brand>Osculati</Brand>
+    <Description>Portachiavi galleggianti parabordi in soffice e robusto PVC. Misure 28x80 (lunghezza) mm. Caratteristiche principali Galleggiante: non va a fondo se cade in acqua Colorazione bicolore blu/rosso, facilmente identificabile a bordo Forma allungata che richia</Description>
+    <OriginalPrice>6.88</OriginalPrice>
+    <Price>5.09</Price>
+    <Code>35.511.02</Code>
+    <Link>https://www.onautica.com/products/portachiavi-parabordo-allungato-blu-rosso?variant=52577475559771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_parabordo_allungato_blu_rosso.png?v=1773341776</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137124044</EanCode>
+    <Weight>0.05</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>portachiavi-parabordo-allungato-blu-rosso</ParentID>
   </Offer>
   <Offer>
     <Name>Portachiavi parabordo allungato rosso/bianco</Name>
