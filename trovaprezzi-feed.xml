@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-10T14:31:19.306Z -->
-<!-- Offerte: 2874 -->
+<!-- Generato: 2026-07-10T18:11:01.385Z -->
+<!-- Offerte: 2875 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -4644,7 +4644,7 @@
     <Price>5.62</Price>
     <Code>14.191.02</Code>
     <Link>https://www.onautica.com/products/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446?variant=52577488175451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446.webp?v=1776327988</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -9465,22 +9465,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>morsetti-batteria-n-duty</ParentID>
   </Offer>
   <Offer>
-    <Name>Coppia di morsetti in ottone per batterie</Name>
-    <Brand>Osculati</Brand>
-    <Description>Confezionati in coppia, + e - modello universale. Perni differenziati da mm. 8 e 10 per evitare di invertire i cavi batteria. Versione con perni e dadi in acciaio inox. Caratteristiche principali Perni e dadi in acciaio inox per massima resistenza alla co</Description>
-    <OriginalPrice>17.22</OriginalPrice>
-    <Price>12.30</Price>
-    <Code>14.386.00</Code>
-    <Link>https://www.onautica.com/products/coppia-morsetti-per-batteria-in-bronzo?variant=52577431159131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coppia_morsetti_per_batteria_in_bronzo.jpg?v=1773341648</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137010866</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>coppia-morsetti-per-batteria-in-bronzo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fischietto di segnalazione nostromo ottone nichelato</Name>
     <Brand>Osculati</Brand>
     <Description>Il fischietto nostromo in ottone nichelato è uno strumento di segnalazione acustica tradizionale, ideale per l&apos;utilizzo in ambiente marino. Grazie ai materiali di costruzione resistenti alla corrosione, garantisce affidabilità e durata nel tempo anche nel</Description>
@@ -11940,8 +11924,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-A a Lightning - 1 mt. (Apple)</Name>
     <Brand>Ferramenta Sardo Piemontese</Brand>
     <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>16.12</Price>
+    <OriginalPrice>7.80</OriginalPrice>
+    <Price>5.18</Price>
     <Code>309908</Code>
     <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083658075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -12379,6 +12363,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>cleaner-264-pulitore-pvc-poliuretano</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppia di morsetti in ottone per batterie</Name>
+    <Brand>Osculati</Brand>
+    <Description>Confezionati in coppia, + e - modello universale. Perni differenziati da mm. 8 e 10 per evitare di invertire i cavi batteria. Versione con perni e dadi in acciaio inox. Caratteristiche principali Perni e dadi in acciaio inox per massima resistenza alla co</Description>
+    <OriginalPrice>17.22</OriginalPrice>
+    <Price>12.30</Price>
+    <Code>14.386.00</Code>
+    <Link>https://www.onautica.com/products/coppia-morsetti-per-batteria-in-bronzo?variant=52577431159131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coppia_morsetti_per_batteria_in_bronzo.jpg?v=1773341648</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137010866</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>coppia-morsetti-per-batteria-in-bronzo</ParentID>
   </Offer>
   <Offer>
     <Name>Copriparabordi in Neoprene Reversibile – Serie A (Sferici) - A1 - Ø 290 mm.</Name>
@@ -13182,6 +13182,48 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>copriparabordo-navishell-a-type-nero-in-acrilico-marino-uv-resistant</ParentID>
   </Offer>
   <Offer>
+    <Name>Corda Ritorta in Polipropilene Arancio Galleggiante – Confezione 220 m - Ø 8 mm</Name>
+    <Brand>Monteisola Corde</Brand>
+    <Description>Corda Ritorta in Polipropilene Arancio – Confezione da 220 m Corda ritorta a 3 capi (tripla torsione Z-S) in filato di polipropilene stabilizzato UV, colore arancio, galleggiante. Disponibile nei diametri Ø 8, Ø 10 e Ø 12 mm. Venduta in confezione intera </Description>
+    <Price>54.78</Price>
+    <Code>CRPP8</Code>
+    <Link>https://www.onautica.com/products/corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m?variant=53567812436315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/img_ritorta_3240.webp?v=1783680678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda Ritorta in Polipropilene Arancio Galleggiante – Confezione 220 m - Ø 10 mm</Name>
+    <Brand>Monteisola Corde</Brand>
+    <Description>Corda Ritorta in Polipropilene Arancio – Confezione da 220 m Corda ritorta a 3 capi (tripla torsione Z-S) in filato di polipropilene stabilizzato UV, colore arancio, galleggiante. Disponibile nei diametri Ø 8, Ø 10 e Ø 12 mm. Venduta in confezione intera </Description>
+    <Price>83.82</Price>
+    <Code>CRPP10</Code>
+    <Link>https://www.onautica.com/products/corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m?variant=53565762961755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/img_ritorta_3240.webp?v=1783680678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda Ritorta in Polipropilene Arancio Galleggiante – Confezione 220 m - Ø 12 mm</Name>
+    <Brand>Monteisola Corde</Brand>
+    <Description>Corda Ritorta in Polipropilene Arancio – Confezione da 220 m Corda ritorta a 3 capi (tripla torsione Z-S) in filato di polipropilene stabilizzato UV, colore arancio, galleggiante. Disponibile nei diametri Ø 8, Ø 10 e Ø 12 mm. Venduta in confezione intera </Description>
+    <Price>145.86</Price>
+    <Code>CRPP12</Code>
+    <Link>https://www.onautica.com/products/corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m?variant=53567812469083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/img_ritorta_3240.webp?v=1783680678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Deviatore 100A/300A continuo/intermitente staccabatteria</Name>
     <Brand>Osculati</Brand>
     <Description>Questo deviatore batteria è un componente di sicurezza cruciale per la gestione dell&apos;alimentazione di bordo, specialmente in sistemi con più batterie. Permette di controllare e isolare le batterie con la massima flessibilità. Funzionalità e Prestazioni El</Description>
@@ -13198,22 +13240,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.923.12.png?v=1773341653</Image3>
     <Condition>nuovo</Condition>
     <ParentID>deviatore-batteria-4-posizioni-100a-continuo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Deviatore Staccabatterie Heavy Duty (HD) - Controllo a 4 Posizioni - 280A/380A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo deviatore staccabatterie è progettato per un uso continuato in impianti a doppia batteria, garantendo massima sicurezza e flessibilità nella gestione dell&apos;alimentazione di bordo. Caratteristiche Principali: Funzione Multipla: Offre **quattro posizi</Description>
-    <OriginalPrice>59.33</OriginalPrice>
-    <Price>42.38</Price>
-    <Code>2103028</Code>
-    <Link>https://www.onautica.com/products/deviatore-staccabatterie-hd-4-posizioni-280a-350a?variant=52513459372379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Deviatore_staccabatterie_HD_280A_capacit_intermitente_380A.png?v=1773341651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062178</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>deviatore-staccabatterie-hd-4-posizioni-280a-350a</ParentID>
   </Offer>
   <Offer>
     <Name>Deviatore/staccabatterie Selecta New MK III: gestione avanzata e sicura per impianto di bordo</Name>
@@ -15142,8 +15168,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Segnale di Fonda a Pallone Ø 300 mm – Segnale Diurno in Policarbonato per Ancoraggio</Name>
     <Brand>Osculati</Brand>
     <Description>E’ realizzato in policarbonato nero antiriflesso, va issato di giorno, quando la barca é all’ancora. Nel caso la barca non governi, ne vanno issati due verticalmente. Obbligatorio come dotazione di bordo da entro 1 miglio a senza limiti di distanza della </Description>
-    <OriginalPrice>9.53</OriginalPrice>
-    <Price>6.80</Price>
+    <OriginalPrice>10.01</OriginalPrice>
+    <Price>7.15</Price>
     <Code>30.650.00</Code>
     <Link>https://www.onautica.com/products/segnale-fonda-pallone-o-300-mm?variant=52577528316251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15818,23 +15844,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenacciolo-antivibrante-acciaio-inox-316-lucidato_misura.webp?v=1775212119</Image2>
     <Condition>nuovo</Condition>
     <ParentID>catenacciolo-antivibrante-inox-aisi-316-85x30</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catenacciolo Antivibrante Lucchettabile in Acciaio Inox 85x27 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Catenacciolo Antivibrante Lucchettabile è un accessorio di ferramenta nautica progettato per offrire sicurezza e comfort acustico a bordo. Realizzato in Acciaio Inox lucidato , questo componente garantisce un&apos;elevata resistenza alla corrosione e agli a</Description>
-    <OriginalPrice>11.37</OriginalPrice>
-    <Price>8.12</Price>
-    <Code>38.214.00</Code>
-    <Link>https://www.onautica.com/products/catenacciolo-antivibrante-lucchettabile-inox-85x27?variant=52577424081243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenacciolo-antivibrante-lucchettabile-acciaio-inox.webp?v=1775212685</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137128318</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenacciolo-antivibrante-lucchettabile-acciaio-inoxmisura.webp?v=1775212685</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>catenacciolo-antivibrante-lucchettabile-inox-85x27</ParentID>
   </Offer>
   <Offer>
     <Name>Cerniera 75x37 mm. biscotto SQ/L inox</Name>
@@ -18455,6 +18464,23 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626023063</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>basi-o-25-mm-triangolari-per-candelieri-piana</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catenacciolo Antivibrante Lucchettabile in Acciaio Inox 85x27 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Catenacciolo Antivibrante Lucchettabile è un accessorio di ferramenta nautica progettato per offrire sicurezza e comfort acustico a bordo. Realizzato in Acciaio Inox lucidato , questo componente garantisce un&apos;elevata resistenza alla corrosione e agli a</Description>
+    <OriginalPrice>11.37</OriginalPrice>
+    <Price>8.12</Price>
+    <Code>38.214.00</Code>
+    <Link>https://www.onautica.com/products/catenacciolo-antivibrante-lucchettabile-inox-85x27?variant=52577424081243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenacciolo-antivibrante-lucchettabile-acciaio-inox.webp?v=1775212685</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137128318</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenacciolo-antivibrante-lucchettabile-acciaio-inoxmisura.webp?v=1775212685</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>catenacciolo-antivibrante-lucchettabile-inox-85x27</ParentID>
   </Offer>
   <Offer>
     <Name>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo - Centralina elettronica 12/24V</Name>
@@ -21630,24 +21656,6 @@ L 320mm. - Ø22</Name>
     <ParentID>raccordo-giunzione-per-tubo-25x1-2-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Salvagente Autogonfiabile Junior 150N EN ISO 12402-3 con Attivazione Automatica e Nastro Cosciale</Name>
-    <Brand>Viridex</Brand>
-    <Description>Salvagente Autogonfiabile Junior 150N – Omologato EN ISO 12402-3 con Attivazione Automatica per Bambini oltre 25 kg Il salvagente autogonfiabile Junior 150N è il dispositivo di sicurezza definitivo per proteggere i giovani membri dell&apos;equipaggio durante l</Description>
-    <OriginalPrice>84.52</OriginalPrice>
-    <Price>76.84</Price>
-    <Code>22.299.01</Code>
-    <Link>https://www.onautica.com/products/salvagente-autogonfiabile-junior-150n-iso-12402-3-bambini?variant=52590241055067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-junior-150n-iso-12402-3-automatico-bambini.webp?v=1776355413</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.78</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-junior-1maj-150nspalla.webp?v=1773486823</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.298.13c.png?v=1773341522</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-autogonfiabile-junior-150n-iso-12402-3-bambini</ParentID>
-  </Offer>
-  <Offer>
     <Name>Salvagente Autogonfiabile MK150 150N EN ISO 12402-3 con Attivatore UML-5</Name>
     <Brand>Osculati</Brand>
     <Description>Salvagente Autogonfiabile MK150 150N – Omologato EN ISO 12402-3 con Attivatore Automatico UML-5 per Adulti Il salvagente autogonfiabile MK150 da 150 Newton garantisce massima sicurezza e comfort durante le navigazioni costiere e d&apos;altura. Omologato EN ISO</Description>
@@ -24095,7 +24103,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Giubbotto Salvagente SV-Isabel - 100N Entro 3/6 miglia - fino a 15 Kg.</Name>
     <Brand>Osculati</Brand>
-    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilit�� di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla co</Description>
+    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilità di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla cos</Description>
     <OriginalPrice>51.30</OriginalPrice>
     <Price>28.48</Price>
     <Code>22.465.01</Code>
@@ -24111,7 +24119,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Giubbotto Salvagente SV-Isabel - 100N Entro 3/6 miglia - 30&lt;&gt;40 Kg.</Name>
     <Brand>Osculati</Brand>
-    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilit�� di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla co</Description>
+    <Description>Questo giubbotto salvagente garantisce la sicurezza necessaria per la navigazione costiera, essendo omologato EN 12402-4 con una galleggiabilità di 100 Newton . È la dotazione di sicurezza obbligatoria per la navigazione entro le 3 e le 6 miglia dalla cos</Description>
     <OriginalPrice>57.30</OriginalPrice>
     <Price>31.82</Price>
     <Code>22.465.03</Code>
@@ -26704,24 +26712,6 @@ L 320mm. - Ø22</Name>
     <ParentID>luce-strip-led-incasso-ip67-tecnopolimero-12v</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Autoclave Europump 4 Basso Consumo 12V – 3,8 l/min</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Autoclave Europump 4 a basso consumo è la soluzione ideale per chi cerca affidabilità ed efficienza energetica a bordo. Progettata per servire fino a 2 utenze contemporaneamente, questa pompa garantisce un flusso costante con un assorbimento di corrent</Description>
-    <OriginalPrice>35.10</OriginalPrice>
-    <Price>23.42</Price>
-    <Code>16.503.12</Code>
-    <Link>https://www.onautica.com/products/autoclave-europump-4-basso-consumo-12v?variant=52577375748443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v.png?v=1773341520</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007743</EanCode>
-    <Weight>0.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v_confezione.png?v=1773341521</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-europump-4-basso-consumo-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Estrazione Olio BG a Siringa in Ottone con Tubi Multi-Misura - 230 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Pompa Estrazione Olio BG è uno strumento professionale essenziale per la manutenzione del motore marino. Il suo design a siringa, realizzato in robusto Ottone , garantisce un&apos;estrazione dell&apos;olio semplice, veloce e pulita, specialmente negli spazi rist</Description>
@@ -27067,6 +27057,24 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rete-portaoggetti-elastica-abs-bianca_blister.png?v=1773341798</Image3>
     <Condition>nuovo</Condition>
     <ParentID>rete-portaoggetti-elastica-abs</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Salvagente Autogonfiabile Junior 150N EN ISO 12402-3 con Attivazione Automatica e Nastro Cosciale</Name>
+    <Brand>Viridex</Brand>
+    <Description>Salvagente Autogonfiabile Junior 150N – Omologato EN ISO 12402-3 con Attivazione Automatica per Bambini oltre 25 kg Il salvagente autogonfiabile Junior 150N è il dispositivo di sicurezza definitivo per proteggere i giovani membri dell&apos;equipaggio durante l</Description>
+    <OriginalPrice>84.52</OriginalPrice>
+    <Price>76.84</Price>
+    <Code>22.299.01</Code>
+    <Link>https://www.onautica.com/products/salvagente-autogonfiabile-junior-150n-iso-12402-3-bambini?variant=52590241055067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-junior-150n-iso-12402-3-automatico-bambini.webp?v=1776355413</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.78</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-junior-1maj-150nspalla.webp?v=1773486823</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.298.13c.png?v=1773341522</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>salvagente-autogonfiabile-junior-150n-iso-12402-3-bambini</ParentID>
   </Offer>
   <Offer>
     <Name>Serratura in kit con maniglia sporgente</Name>
@@ -29695,6 +29703,24 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825500b_b121e52d-1813-496f-baa0-9d73625988cb.png?v=1773341969</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-pompa-autoadescanti-el-marine-deck-45-lt-corpo-bronzo-24v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Autoclave Europump 4 Basso Consumo 12V – 3,8 l/min</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Autoclave Europump 4 a basso consumo è la soluzione ideale per chi cerca affidabilità ed efficienza energetica a bordo. Progettata per servire fino a 2 utenze contemporaneamente, questa pompa garantisce un flusso costante con un assorbimento di corrent</Description>
+    <OriginalPrice>35.10</OriginalPrice>
+    <Price>23.42</Price>
+    <Code>16.503.12</Code>
+    <Link>https://www.onautica.com/products/autoclave-europump-4-basso-consumo-12v?variant=52577375748443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007743</EanCode>
+    <Weight>0.45</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v_confezione.png?v=1773341521</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-europump-4-basso-consumo-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa autoclave Flojet triplex 11 lt/min. 12V</Name>
@@ -32351,23 +32377,6 @@ L 320mm. - Ø22</Name>
     <ParentID>basetta-passante-per-doccette-cromata</ParentID>
   </Offer>
   <Offer>
-    <Name>Bileva comando B46 g.i. bileva inclinate cromata Ultraflex</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Bileva comando B46 g.i. con bileva inclinate cromata Ultraflex rappresenta una soluzione di precisione per il controllo delle imbarcazioni, offrendo affidabilità e resistenza grazie alla finitura cromata. Progettato per garantire una gestione fluida e </Description>
-    <OriginalPrice>370.75</OriginalPrice>
-    <Price>285.19</Price>
-    <Code>34461P</Code>
-    <Link>https://www.onautica.com/products/offerta-bileva-comando-b46-g-i-bileva-inclinate-cromata-ultraflex?variant=52577456292187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Bileva_comando_B46_g.i._bileva_inclinate_cromata_Ultraflex.png?v=1773341715</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8031164344619</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Bileva_comando_B46_g.i._bileva_inclinate_cromata_Ultraflex_1.png?v=1773341716</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-bileva-comando-b46-g-i-bileva-inclinate-cromata-ultraflex</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boccole Recuperabili per Tubo Oleodinamico R2T in Acciaio al Carbonio - R2 - 3/8&quot;</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Boccole Recuperabili AC R2T sono componenti essenziali per l&apos;assemblaggio di tubazioni oleodinamiche senza l&apos;utilizzo di pressatrici industriali. Realizzate in robusto Acciaio al Carbonio , garantiscono elevata resistenza alla pressione e durata nel te</Description>
@@ -33158,175 +33167,6 @@ L 320mm. - Ø22</Name>
     <EanCode>745061037977</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cartuccia-per-filtro-mercury-mercruiser-35-60494a4-35-807172a4-35-802893q4-e-volvo-penta-855686-2</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 6 ft. - 1.80 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>39.05</OriginalPrice>
-    <Price>27.89</Price>
-    <Code>30160B</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52513500201307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301605</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 7 ft. - 2.10 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>40.49</OriginalPrice>
-    <Price>28.92</Price>
-    <Code>30161C</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270153563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301612</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 8 ft. - 2.40 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>41.94</OriginalPrice>
-    <Price>29.96</Price>
-    <Code>30162D</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270186331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301629</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 9 ft. - 2.70 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>43.39</OriginalPrice>
-    <Price>30.99</Price>
-    <Code>30163E</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270219099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301636</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 11 ft. - 3.30 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>46.37</OriginalPrice>
-    <Price>33.12</Price>
-    <Code>30165G</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270284635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301650</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 13 ft. - 3.90 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>49.27</OriginalPrice>
-    <Price>35.19</Price>
-    <Code>30167I</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270350171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 14 ft. - 4.20 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>50.71</OriginalPrice>
-    <Price>36.22</Price>
-    <Code>30168L</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270382939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301681</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 18 ft. - 5.40 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>56.59</OriginalPrice>
-    <Price>40.42</Price>
-    <Code>30172F</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270448475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301728</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 19 ft. - 5.70 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>58.03</OriginalPrice>
-    <Price>41.45</Price>
-    <Code>10001</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270481243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301735</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 20 ft. - 6.00 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
-    <OriginalPrice>59.57</OriginalPrice>
-    <Price>42.55</Price>
-    <Code>30174H</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270514011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164301742</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
   </Offer>
   <Offer>
     <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 5 ft. - 1.50 mt.</Name>
@@ -37019,6 +36859,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-bileva-comando-b102-g-i-nera-ultraflex</ParentID>
   </Offer>
   <Offer>
+    <Name>Bileva comando B46 g.i. bileva inclinate cromata Ultraflex</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Bileva comando B46 g.i. con bileva inclinate cromata Ultraflex rappresenta una soluzione di precisione per il controllo delle imbarcazioni, offrendo affidabilità e resistenza grazie alla finitura cromata. Progettato per garantire una gestione fluida e </Description>
+    <OriginalPrice>370.75</OriginalPrice>
+    <Price>285.19</Price>
+    <Code>34461P</Code>
+    <Link>https://www.onautica.com/products/offerta-bileva-comando-b46-g-i-bileva-inclinate-cromata-ultraflex?variant=52577456292187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Bileva_comando_B46_g.i._bileva_inclinate_cromata_Ultraflex.png?v=1773341715</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164344619</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Bileva_comando_B46_g.i._bileva_inclinate_cromata_Ultraflex_1.png?v=1773341716</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-bileva-comando-b46-g-i-bileva-inclinate-cromata-ultraflex</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bileva comando B47 grigio Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il Bileva comando B47 grigio Ultraflex rappresenta una soluzione professionale per il controllo preciso delle funzioni di bordo. Realizzato con materiali di alta qualità e dal design ergonomico, questo dispositivo garantisce affidabilità e comfort nell’us</Description>
@@ -37229,6 +37086,175 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.741.03c.png?v=1773341721</Image3>
     <Condition>nuovo</Condition>
     <ParentID>altoparlanti-nautici-doppio-cono-bianchi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 6 ft. - 1.80 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>39.05</OriginalPrice>
+    <Price>27.89</Price>
+    <Code>30160B</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52513500201307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301605</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 7 ft. - 2.10 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>40.49</OriginalPrice>
+    <Price>28.92</Price>
+    <Code>30161C</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270153563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301612</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 8 ft. - 2.40 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>41.94</OriginalPrice>
+    <Price>29.96</Price>
+    <Code>30162D</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270186331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301629</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 9 ft. - 2.70 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>43.39</OriginalPrice>
+    <Price>30.99</Price>
+    <Code>30163E</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270219099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301636</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 11 ft. - 3.30 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>46.37</OriginalPrice>
+    <Price>33.12</Price>
+    <Code>30165G</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270284635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301650</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 13 ft. - 3.90 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>49.27</OriginalPrice>
+    <Price>35.19</Price>
+    <Code>30167I</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270350171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 14 ft. - 4.20 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>50.71</OriginalPrice>
+    <Price>36.22</Price>
+    <Code>30168L</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270382939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301681</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 18 ft. - 5.40 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>56.59</OriginalPrice>
+    <Price>40.42</Price>
+    <Code>30172F</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270448475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301728</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 19 ft. - 5.70 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>58.03</OriginalPrice>
+    <Price>41.45</Price>
+    <Code>10001</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270481243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301735</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 20 ft. - 6.00 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>59.57</OriginalPrice>
+    <Price>42.55</Price>
+    <Code>30174H</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270514011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301742</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
   </Offer>
   <Offer>
     <Name>Cavi Telecomando Universali Ultraflex C8 – Heavy Duty (Entrobordo/Fuoribordo) - 6 ft. - 1.80 mt.</Name>
@@ -39279,23 +39305,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo</ParentID>
   </Offer>
   <Offer>
-    <Name>Portachiavi parabordo tondo bianco/blu</Name>
-    <Brand>Osculati</Brand>
-    <Description>Portachiavi a forma di parabordo tondo, realizzato in PVC flessibile nei classici colori bianco e blu : il gadget ideale per tenere sempre con sé un tocco di vita marinara. Pratico e resistente, è il regalo perfetto per gli appassionati di nautica. Materi</Description>
-    <OriginalPrice>6.88</OriginalPrice>
-    <Price>5.09</Price>
-    <Code>35.511.03</Code>
-    <Link>https://www.onautica.com/products/portachiavi-parabordo-tondo-bianco-blu?variant=52577475690843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_parabordo_tondo_bianco_blu.png?v=1773341776</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137124051</EanCode>
-    <Weight>0.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>portachiavi-parabordo-tondo-bianco-blu</ParentID>
-  </Offer>
-  <Offer>
     <Name>Portello contenitore radio/cd/vhf</Name>
     <Brand>Motomarine</Brand>
     <Description>Portello stagno progettato per l&apos;installazione a bordo di apparati radio, CD o VHF. Costruito per garantire protezione e ordine nella sistemazione della strumentazione di comunicazione, si adatta perfettamente alle esigenze dei diportisti che cercano una </Description>
@@ -40037,8 +40046,8 @@ bocche Ø 14 mm.</Name>
     <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La serie di Serbatoi Rigidi Rettangolari è realizzata in polietilene bianco di alta qualità, idoneo per il contenimento di acqua potabile. La forma regolare a sezione rettangolare li rende particolarmente versatili, adatti per essere installati nella part</Description>
-    <OriginalPrice>75.50</OriginalPrice>
-    <Price>62.93</Price>
+    <OriginalPrice>80.40</OriginalPrice>
+    <Price>67.02</Price>
     <Code>52.194.50</Code>
     <Link>https://www.onautica.com/products/serbatoio-acqua-potabile-rettangolare-polietilene?variant=52514394079579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40054,8 +40063,8 @@ bocche Ø 14 mm.</Name>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>128.91</OriginalPrice>
-    <Price>88.90</Price>
+    <OriginalPrice>136.07</OriginalPrice>
+    <Price>93.84</Price>
     <Code>52.033.01</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627493211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42556,24 +42565,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
   </Offer>
   <Offer>
-    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
-    <OriginalPrice>230.81</OriginalPrice>
-    <Price>177.55</Price>
-    <Code>3265268</Code>
-    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953760603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626034106</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cartuccia Filtro Sfiato Acque Nere WC Can</Name>
     <Brand>CAN</Brand>
     <Description>Filtro sfiato WC ai carboni attivi per serbatoi acque nere. Ricambio cartuccia carboni attivi. Intercetta e filtra i cattivi odori. Caratteristiche principali Cartuccia di ricambio compatibile con i filtri sfiato per serbatoi acque nere Carboni attivi ad </Description>
@@ -44323,6 +44314,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626181541</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>portachiavi-parabordo-colorati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portachiavi parabordo tondo bianco/blu</Name>
+    <Brand>Osculati</Brand>
+    <Description>Portachiavi a forma di parabordo tondo, realizzato in PVC flessibile nei classici colori bianco e blu : il gadget ideale per tenere sempre con sé un tocco di vita marinara. Pratico e resistente, è il regalo perfetto per gli appassionati di nautica. Materi</Description>
+    <OriginalPrice>6.88</OriginalPrice>
+    <Price>5.09</Price>
+    <Code>35.511.03</Code>
+    <Link>https://www.onautica.com/products/portachiavi-parabordo-tondo-bianco-blu?variant=52577475690843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_parabordo_tondo_bianco_blu.png?v=1773341776</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137124051</EanCode>
+    <Weight>0.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>portachiavi-parabordo-tondo-bianco-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Portachiavi parabordo tondo blu/rosso</Name>
