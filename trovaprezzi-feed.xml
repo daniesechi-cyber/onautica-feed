@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-10T18:11:01.385Z -->
+<!-- Generato: 2026-07-11T06:31:32.730Z -->
 <!-- Offerte: 2875 -->
 <Products>
   <Offer>
@@ -834,7 +834,7 @@
     <Price>7.88</Price>
     <Code>3221901</Code>
     <Link>https://www.onautica.com/products/base-attacco-tendalini-grigio-da-incollare-per-gommoni?variant=52577501675867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3221901.png?v=1773341861</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -6841,7 +6841,7 @@
     <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-suzuki-dt55-65-alluminio.webp?v=1773341573</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>1957000020363</EanCode>
+    <EanCode>3054626412690</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>anodo-pinna-suzuki-dt55-65-alluminio</ParentID>
   </Offer>
@@ -15257,7 +15257,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>15.03</Price>
     <Code>11442</Code>
     <Link>https://www.onautica.com/products/sikaflex-591-sigillante-marino-300ml?variant=52517464408411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sikaflex-591-sigillante-polimero-300ml.png?v=1769452252</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15602,7 +15602,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15779,38 +15779,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Catenaccio_90_mm._ottone_cromato_1.png?v=1773341640</Image2>
     <Condition>nuovo</Condition>
     <ParentID>catenaccio-90-mm-ottone-cromato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catenaccio Serie Smooth in Acciaio Inox con Angoli Smussati - 86x38 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Catenaccio Serie Smooth è un elemento di ferramenta nautica che coniuga robustezza meccanica e un design moderno ed elegante. Realizzato interamente in Acciaio Inox , questo catenaccio è progettato per resistere all&apos;ambiente marino più aggressivo, gara</Description>
-    <OriginalPrice>21.89</OriginalPrice>
-    <Price>15.64</Price>
-    <Code>0342580</Code>
-    <Link>https://www.onautica.com/products/catenaccio-smooth-inox-angoli-smussati?variant=52743106822491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenaccio-smooth-acciaio-inox-angoli-smussati.webp?v=1775212372</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626018182</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>catenaccio-smooth-inox-angoli-smussati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catenaccio Serie Smooth in Acciaio Inox con Angoli Smussati - 94x40 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Catenaccio Serie Smooth è un elemento di ferramenta nautica che coniuga robustezza meccanica e un design moderno ed elegante. Realizzato interamente in Acciaio Inox , questo catenaccio è progettato per resistere all&apos;ambiente marino più aggressivo, gara</Description>
-    <OriginalPrice>26.81</OriginalPrice>
-    <Price>19.15</Price>
-    <Code>0342581</Code>
-    <Link>https://www.onautica.com/products/catenaccio-smooth-inox-angoli-smussati?variant=52743106855259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenaccio-smooth-acciaio-inox-angoli-smussati.webp?v=1775212372</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626018199</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>catenaccio-smooth-inox-angoli-smussati</ParentID>
   </Offer>
   <Offer>
     <Name>Catenaccio standard 115x25 mm. ottone cromato</Name>
@@ -18464,6 +18432,38 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626023063</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>basi-o-25-mm-triangolari-per-candelieri-piana</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catenaccio Serie Smooth in Acciaio Inox con Angoli Smussati - 86x38 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Catenaccio Serie Smooth è un elemento di ferramenta nautica che coniuga robustezza meccanica e un design moderno ed elegante. Realizzato interamente in Acciaio Inox , questo catenaccio è progettato per resistere all&apos;ambiente marino più aggressivo, gara</Description>
+    <OriginalPrice>21.89</OriginalPrice>
+    <Price>15.64</Price>
+    <Code>0342580</Code>
+    <Link>https://www.onautica.com/products/catenaccio-smooth-inox-angoli-smussati?variant=52743106822491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenaccio-smooth-acciaio-inox-angoli-smussati.webp?v=1775212372</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626018182</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>catenaccio-smooth-inox-angoli-smussati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Catenaccio Serie Smooth in Acciaio Inox con Angoli Smussati - 94x40 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Catenaccio Serie Smooth è un elemento di ferramenta nautica che coniuga robustezza meccanica e un design moderno ed elegante. Realizzato interamente in Acciaio Inox , questo catenaccio è progettato per resistere all&apos;ambiente marino più aggressivo, gara</Description>
+    <OriginalPrice>26.81</OriginalPrice>
+    <Price>19.15</Price>
+    <Code>0342581</Code>
+    <Link>https://www.onautica.com/products/catenaccio-smooth-inox-angoli-smussati?variant=52743106855259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catenaccio-smooth-acciaio-inox-angoli-smussati.webp?v=1775212372</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626018199</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>catenaccio-smooth-inox-angoli-smussati</ParentID>
   </Offer>
   <Offer>
     <Name>Catenacciolo Antivibrante Lucchettabile in Acciaio Inox 85x27 mm</Name>
@@ -21674,22 +21674,6 @@ L 320mm. - Ø22</Name>
     <ParentID>salvagente-autogonfiabile-mk150-150n-iso-12402-3-uml5</ParentID>
   </Offer>
   <Offer>
-    <Name>Salvagente Autogonfiabile Premium 300N EN ISO 12402-2 con Sistema Idrostatico HAMMAR e Imbracatura ISO 12401</Name>
-    <Brand>Viridex</Brand>
-    <Description>Salvagente Autogonfiabile Premium 300N – Omologato EN ISO 12402-2 con Sistema Idrostatico HAMMAR e Imbracatura ISO 12401 Il salvagente autogonfiabile Premium 300N rappresenta il vertice della sicurezza nautica, un Dispositivo di Protezione Individuale (DP</Description>
-    <OriginalPrice>190.78</OriginalPrice>
-    <Price>173.44</Price>
-    <Code>22.393.00</Code>
-    <Link>https://www.onautica.com/products/salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar?variant=52590347977051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar-imbracatura.webp?v=1776355325</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.44</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar</ParentID>
-  </Offer>
-  <Offer>
     <Name>Salvagente Autogonfiabile Professionale 180N EN ISO 12402-3 con Imbracatura ISO 12401 e Finestra di Ispezione</Name>
     <Brand>Viridex</Brand>
     <Description>Salvagente Autogonfiabile Professionale 180N – Omologato EN ISO 12402-3 con Imbracatura ISO 12401 e Finestra di Ispezione Il salvagente autogonfiabile professionale 180N è un Dispositivo di Protezione Individuale (DPI) per adulti, studiato per garantire a</Description>
@@ -23709,8 +23693,8 @@ L 320mm. - Ø22</Name>
     <Name>Faro di Profondità Night Eye LED con Attacco da Pulpito 12/24V</Name>
     <Brand>Osculati</Brand>
     <Description>Il Faro di profondità Night Eye LED con attacco da pulpito combina la potenza della tecnologia LED moderna con la versatilità di un faro orientabile e portatile. Progettato per resistere all&apos;ambiente marino, offre prestazioni eccezionali con un consumo ri</Description>
-    <OriginalPrice>210.27</OriginalPrice>
-    <Price>161.75</Price>
+    <OriginalPrice>214.56</OriginalPrice>
+    <Price>165.05</Price>
     <Code>2121016</Code>
     <Link>https://www.onautica.com/products/faro-profondita-night-eye-led-attacco-pulpito?variant=52577458946395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -24324,7 +24308,7 @@ L 320mm. - Ø22</Name>
     <ParentID>kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia</ParentID>
   </Offer>
   <Offer>
-    <Name>Lampadina LED 12/24V 30W E27 – Lampadina Multivoltaggio SMD per Barca e Camper</Name>
+    <Name>Lampadina LED 12/24V 30W E27 ��� Lampadina Multivoltaggio SMD per Barca e Camper</Name>
     <Brand>Osculati</Brand>
     <Description>Questa lampadina a LED di ultima generazione è la soluzione perfetta per l&apos;illuminazione di imbarcazioni, camper e qualsiasi sistema alimentato a bassa tensione. Grazie alla sua tecnologia multivoltaggio 12/24V , si adatta automaticamente alla tensione de</Description>
     <OriginalPrice>19.59</OriginalPrice>
@@ -24799,24 +24783,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-led-magnetica-tendalini-barcautilizzo2.png?v=1768650496</Image3>
     <Condition>nuovo</Condition>
     <ParentID>luce-led-magnetica-tendalini-telecomando</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Luce Segnapasso LED IP68 da Incasso con Palpebra Inox AISI 316 – Luce verso il basso - Luce Bianca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa Luce di Cortesia LED da Incasso combina l&apos;eleganza dell&apos;acciaio inossidabile con la massima affidabilità tecnica. Progettata con una speciale struttura a &quot;palpebra&quot;, orienta il fascio luminoso verso il basso , rendendola la soluzione perfetta per i</Description>
-    <OriginalPrice>7.80</OriginalPrice>
-    <Price>5.57</Price>
-    <Code>13.188.11</Code>
-    <Link>https://www.onautica.com/products/luce-segnapasso-led-incasso-inox-ip68-palpebra?variant=52513539391835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Interna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-cortesia-led-incasso-inox-palpebra-down_bianco.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137083310</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-cortesia-led-incasso-inox-palpebra-down_luce_blu.png?v=1773341697</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-segnapasso-scena-a-bordo.webp?v=1783612861</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>luce-segnapasso-led-incasso-inox-ip68-palpebra</ParentID>
   </Offer>
   <Offer>
     <Name>Luce Segnapasso LED IP68 da Incasso con Palpebra Inox AISI 316 – Luce verso il basso - Luce Blu</Name>
@@ -25690,55 +25656,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/quatix_7X_SolarEditionc.png?v=1773341529</Image3>
     <Condition>nuovo</Condition>
     <ParentID>garmin-quatix-7x-solar-edition-titanio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 550xH730 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
-    <OriginalPrice>83.29</OriginalPrice>
-    <Price>55.52</Price>
-    <Code>3802104</Code>
-    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52549799543131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8712256010680</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 650xH880 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
-    <OriginalPrice>127.11</OriginalPrice>
-    <Price>84.74</Price>
-    <Code>3802105</Code>
-    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52513545781595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 850xH1050 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
-    <OriginalPrice>176.15</OriginalPrice>
-    <Price>117.43</Price>
-    <Code>3802106</Code>
-    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52549799575899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 100x300 mm.</Name>
@@ -27004,24 +26921,6 @@ L 320mm. - Ø22</Name>
     <ParentID>rete-portaoggetti-elastica-abs</ParentID>
   </Offer>
   <Offer>
-    <Name>Rete Portaoggetti Elastica con Cornice in ABS – Fissaggio Adesivo o Viti - 360x160x10 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Rete Portaoggetti con Cornice è la soluzione perfetta per organizzare piccoli oggetti a bordo, tenendoli al sicuro ma sempre a portata di mano. Ideale per riporre telefoni, occhiali, chiavi o accessori nautici sia in cabina che nel pozzetto. È costitui</Description>
-    <OriginalPrice>25.11</OriginalPrice>
-    <Price>17.94</Price>
-    <Code>48.434.12</Code>
-    <Link>https://www.onautica.com/products/rete-portaoggetti-elastica-abs?variant=52519925285211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Tappi d Ispezione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rete-portaoggetti-elastica-abs-bianca_spesso.png?v=1773341797</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137050442</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rete-portaoggetti-elastica-abs-bianca_slim.png?v=1773341797</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rete-portaoggetti-elastica-abs-bianca_blister.png?v=1773341798</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rete-portaoggetti-elastica-abs</ParentID>
-  </Offer>
-  <Offer>
     <Name>Rete Portaoggetti Elastica con Cornice in ABS – Fissaggio Adesivo o Viti - 250x115x30 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>La Rete Portaoggetti con Cornice è la soluzione perfetta per organizzare piccoli oggetti a bordo, tenendoli al sicuro ma sempre a portata di mano. Ideale per riporre telefoni, occhiali, chiavi o accessori nautici sia in cabina che nel pozzetto. È costitui</Description>
@@ -27075,6 +26974,22 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.298.13c.png?v=1773341522</Image3>
     <Condition>nuovo</Condition>
     <ParentID>salvagente-autogonfiabile-junior-150n-iso-12402-3-bambini</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Salvagente Autogonfiabile Premium 300N EN ISO 12402-2 con Sistema Idrostatico HAMMAR e Imbracatura ISO 12401</Name>
+    <Brand>Viridex</Brand>
+    <Description>Salvagente Autogonfiabile Premium 300N – Omologato EN ISO 12402-2 con Sistema Idrostatico HAMMAR e Imbracatura ISO 12401 Il salvagente autogonfiabile Premium 300N rappresenta il vertice della sicurezza nautica, un Dispositivo di Protezione Individuale (DP</Description>
+    <OriginalPrice>190.78</OriginalPrice>
+    <Price>173.44</Price>
+    <Code>22.393.00</Code>
+    <Link>https://www.onautica.com/products/salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar?variant=52590347977051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar-imbracatura.webp?v=1776355325</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.44</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar</ParentID>
   </Offer>
   <Offer>
     <Name>Serratura in kit con maniglia sporgente</Name>
@@ -29463,14 +29378,14 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>Pompe di ossigenazione Rule per vasche del pescato con porta doppia per connessione opzionale di lavaggio. Corpo girevole per agevolare le connessioni e cartuccia estraibile per una semplice pulizia. Porta di ossigenazione filettata 3/4&quot; con portagomma dr</Description>
     <OriginalPrice>111.21</OriginalPrice>
-    <Price>81.47</Price>
+    <Price>87.29</Price>
     <Code>1821640</Code>
     <Link>https://www.onautica.com/products/offerta-ossigenatore-pompa-rule-livewell-baitwell-800ghp-12v-3028lph?variant=52577366868315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821640.png?v=1773341485</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>042237095947</EanCode>
+    <EanCode>042237115744</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-ossigenatore-pompa-rule-livewell-baitwell-800ghp-12v-3028lph</ParentID>
   </Offer>
@@ -29542,6 +29457,55 @@ L 320mm. - Ø22</Name>
     <Weight>0.15</Weight>
     <Condition>nuovo</Condition>
     <ParentID>panno-microfibra-vileda-style-4-pz-36x38-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 550xH730 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
+    <OriginalPrice>83.29</OriginalPrice>
+    <Price>55.52</Price>
+    <Code>3802104</Code>
+    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52549799543131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8712256010680</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 650xH880 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
+    <OriginalPrice>127.11</OriginalPrice>
+    <Price>84.74</Price>
+    <Code>3802105</Code>
+    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52513545781595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 850xH1050 mm.</Name>
+    <Brand>Majoni</Brand>
+    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
+    <OriginalPrice>176.15</OriginalPrice>
+    <Price>117.43</Price>
+    <Code>3802106</Code>
+    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52549799575899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
   </Offer>
   <Offer>
     <Name>Pasta Abrasiva Lucida Heavy Cut 1000 - Gelcoat Ossidati (Grana P1000)</Name>
@@ -29861,7 +29825,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>La Pompa di Sentina RULE Mate ad immersione è la soluzione &quot;All-in-One&quot; definitiva per mantenere la sentina asciutta in totale autonomia. Questo modello completamente automatico è dotato di un avanzato sistema di rilevamento elettronico, racchiuso in un c</Description>
     <OriginalPrice>233.08</OriginalPrice>
-    <Price>179.29</Price>
+    <Price>192.09</Price>
     <Code>16.020.12</Code>
     <Link>https://www.onautica.com/products/pompa-rule-mate-automatica-immersione?variant=52526571946331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30125,7 +30089,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>La Pompa di Sentina Rule &quot;New Generation&quot; (Versione 12V) rappresenta l&apos;evoluzione dello standard di affidabilità per le pompe sommergibili in ambito nautico. Riprogettata per offrire prestazioni nettamente superiori mantenendo dimensioni ultra-compatte, è</Description>
     <OriginalPrice>50.27</OriginalPrice>
-    <Price>36.83</Price>
+    <Price>39.45</Price>
     <Code>0500036013</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-new-generation-12v?variant=52513549812059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30142,7 +30106,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>La Pompa di Sentina Rule &quot;New Generation&quot; (Versione 12V) rappresenta l&apos;evoluzione dello standard di affidabilità per le pompe sommergibili in ambito nautico. Riprogettata per offrire prestazioni nettamente superiori mantenendo dimensioni ultra-compatte, è</Description>
     <OriginalPrice>60.85</OriginalPrice>
-    <Price>44.58</Price>
+    <Price>47.76</Price>
     <Code>0500050013</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-new-generation-12v?variant=52524445335899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30159,7 +30123,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>La Pompa di Sentina Rule &quot;New Generation&quot; (Versione 12V) rappresenta l&apos;evoluzione dello standard di affidabilità per le pompe sommergibili in ambito nautico. Riprogettata per offrire prestazioni nettamente superiori mantenendo dimensioni ultra-compatte, è</Description>
     <OriginalPrice>105.45</OriginalPrice>
-    <Price>77.25</Price>
+    <Price>82.77</Price>
     <Code>0500110012</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-new-generation-12v?variant=52524445401435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30176,7 +30140,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>La Pompa di Sentina Rule &quot;New Generation&quot; (Versione 24V) rappresenta l&apos;evoluzione dello standard di affidabilità per le pompe sommergibili in ambito nautico. Riprogettata per offrire prestazioni nettamente superiori mantenendo dimensioni ultra-compatte, è</Description>
     <OriginalPrice>120.30</OriginalPrice>
-    <Price>91.28</Price>
+    <Price>97.80</Price>
     <Code>0500110025</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-new-generation-24v?variant=52524464898395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30192,7 +30156,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
     <OriginalPrice>262.32</OriginalPrice>
-    <Price>200.19</Price>
+    <Price>210.19</Price>
     <Code>1821520</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989823323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30209,7 +30173,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
     <OriginalPrice>223.47</OriginalPrice>
-    <Price>163.71</Price>
+    <Price>175.41</Price>
     <Code>1821515</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989856091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30226,7 +30190,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
     <OriginalPrice>329.43</OriginalPrice>
-    <Price>246.27</Price>
+    <Price>258.58</Price>
     <Code>1821524</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989757787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30243,7 +30207,7 @@ L 320mm. - Ø22</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
     <OriginalPrice>195.75</OriginalPrice>
-    <Price>146.39</Price>
+    <Price>156.85</Price>
     <Code>1821516</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989790555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -31694,6 +31658,25 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/secchio-pop-up-nautico-pieghevole-arancio-11lchiudendo.webp?v=1774368773</Image3>
     <Condition>nuovo</Condition>
     <ParentID>secchio-pop-up-nautico-pieghevole-arancio-11l</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio di Espansione (Autoclave) in ABS 0,75 lt Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Serbatoio di Espansione (Autoclave) in ABS 0,75 lt Serbatoio di espansione (vaso di accumulo) in ABS per l’impianto idrico di bordo con pompa autoclave. Accumula acqua in pressione a valle della pompa: ai piccoli prelievi l’acqua esce dal serbatoio invece</Description>
+    <OriginalPrice>31.20</OriginalPrice>
+    <Price>25.97</Price>
+    <Code>16.127.00</Code>
+    <Link>https://www.onautica.com/products/serbatoio-di-espansione-autoclave-in-abs-0-75-lt-osculati?variant=53522563072347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.127.00.webp?v=1783358543</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137059070</EanCode>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10574961049947_0.webp?v=1783542574</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10574961049947_1.webp?v=1783542577</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-di-espansione-autoclave-in-abs-0-75-lt-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio di espansione Seaflo 0,75 lt.</Name>
@@ -33167,144 +33150,6 @@ L 320mm. - Ø22</Name>
     <EanCode>745061037977</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>cartuccia-per-filtro-mercury-mercruiser-35-60494a4-35-807172a4-35-802893q4-e-volvo-penta-855686-2</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 5 ft. - 1.50 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>40.40</OriginalPrice>
-    <Price>28.86</Price>
-    <Code>32410C</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52513501872475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324109</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 7 ft. - 2.10 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>43.30</OriginalPrice>
-    <Price>30.93</Price>
-    <Code>32421E</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545351942491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324123</EanCode>
-    <Weight>0.67</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 8 ft. - 2.40 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>44.74</OriginalPrice>
-    <Price>31.96</Price>
-    <Code>32413F</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545351975259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324130</EanCode>
-    <Weight>0.67</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 9 ft. - 2.70 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>46.19</OriginalPrice>
-    <Price>32.99</Price>
-    <Code>32414G</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352008027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324147</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 10 ft. - 3.0 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>47.73</OriginalPrice>
-    <Price>34.09</Price>
-    <Code>32415H</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352040795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324154</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 14 ft. - 4.20 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>53.51</OriginalPrice>
-    <Price>38.22</Price>
-    <Code>32419N</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352171867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324192</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 15 ft. - 4.50 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>55.05</OriginalPrice>
-    <Price>39.32</Price>
-    <Code>32420E</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352204635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324208</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 17 ft. - 5.10 mt.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
-    <OriginalPrice>57.95</OriginalPrice>
-    <Price>41.39</Price>
-    <Code>32424I</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352237403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164324246</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
     <Name>Comandi Up-Down a piede bianco Quick salpa ancora</Name>
@@ -37597,6 +37442,144 @@ bocche Ø 14 mm.</Name>
     <ParentID>cavo-telecomando-universale-ultraflex-c8</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 5 ft. - 1.50 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>40.40</OriginalPrice>
+    <Price>28.86</Price>
+    <Code>32410C</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52513501872475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324109</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 7 ft. - 2.10 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>43.30</OriginalPrice>
+    <Price>30.93</Price>
+    <Code>32421E</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545351942491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324123</EanCode>
+    <Weight>0.67</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 8 ft. - 2.40 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>44.74</OriginalPrice>
+    <Price>31.96</Price>
+    <Code>32413F</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545351975259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324130</EanCode>
+    <Weight>0.67</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 9 ft. - 2.70 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>46.19</OriginalPrice>
+    <Price>32.99</Price>
+    <Code>32414G</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352008027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324147</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 10 ft. - 3.0 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>47.73</OriginalPrice>
+    <Price>34.09</Price>
+    <Code>32415H</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352040795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324154</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 14 ft. - 4.20 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>53.51</OriginalPrice>
+    <Price>38.22</Price>
+    <Code>32419N</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352171867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324192</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 15 ft. - 4.50 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>55.05</OriginalPrice>
+    <Price>39.32</Price>
+    <Code>32420E</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352204635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324208</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Comando Ultraflex C14 - Compatibile BRP® – Evinrude® (OMC®) - 17 ft. - 5.10 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C14 sono la scelta specifica per il comando di acceleratore e invertitore sui motori fuoribordo del gruppo Johnson, Evinrude (OMC / BRP) . Questo modello è progettato specificamente per i motori prodotti dal 1979 in poi . A di</Description>
+    <OriginalPrice>57.95</OriginalPrice>
+    <Price>41.39</Price>
+    <Code>32424I</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c14-johnson-evinrude?variant=52545352237403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c14-johnson-evinrude.webp?v=1770993052</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164324246</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C14_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 2.10 metri - 7 ft.</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
@@ -39474,6 +39457,7 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/raccordo-portagomma-gomito-38mm-filetto-1-mezzo.webp?v=1773341599</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965094702</EanCode>
     <Weight>0.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>raccordo-portagomma-gomito-38mm-filetto-1-1-2</ParentID>
@@ -41631,7 +41615,7 @@ bocche Ø 14 mm.</Name>
     <Price>15.46</Price>
     <Code>52.193.00</Code>
     <Link>https://www.onautica.com/products/yachticon-aqua-clean-trattamento-acqua?variant=52559580430683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aqua_Clean_100_gr._liquido_-_trattamento_e_conservazione_acqua_nel_serbatoio.png?v=1773341622</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -41743,6 +41727,24 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
     <Condition>nuovo</Condition>
     <ParentID>antenna-vhf-glomex-vetroresina-vela-09m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antenna VHF Glomex RA106 Glomeasy con Attacco FME e Accessori - Antenna Glomex Vhf RA106 Grp Fme</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna VHF RA106 della linea Glomeasy è progettata per offrire massima versatilità e facilità di installazione su qualsiasi tipo di imbarcazione. È disponibile in due versioni: in Vetroresina (GRP) bianca o in Acciaio Inox (SLS) . Il sistema si basa s</Description>
+    <OriginalPrice>65.90</OriginalPrice>
+    <Price>50.68</Price>
+    <Code>10072</Code>
+    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra106-glomeasy-fme-accessori?variant=52513477558619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme.png?v=1767706660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566303014</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme_base.png?v=1767706660</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme_manicotto.png?v=1767706660</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-vhf-glomex-ra106-glomeasy-fme-accessori</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna VHF Marina Glomex RA112 in Vetroresina per Barche a Motore (1,5 mt.)</Name>
@@ -47367,7 +47369,7 @@ bocche Ø 14 mm.</Name>
     <ParentID>boccole-ottone-assi-portaelica-idrolub-metrico-pollici</ParentID>
   </Offer>
   <Offer>
-    <Name>Chartplotter ECHOMAP™ UHD2 52cv - 5 pollici, Tasti, Ecoscandaglio CHIRP e ClearVü - Senza Trasduttore</Name>
+    <Name>Chartplotter ECHOMAP��� UHD2 52cv - 5 pollici, Tasti, Ecoscandaglio CHIRP e ClearVü - Senza Trasduttore</Name>
     <Brand>Garmin</Brand>
     <Description>Il Chartplotter ECHOMAP™ UHD2 da 5&quot; (modello 52cv) è il dispositivo ideale per la nautica e la pesca quando lo spazio è limitato o per kit portatili. Dotato di un display luminoso a tasti, questo chartplotter rende più facile che mai distinguere strutture</Description>
     <OriginalPrice>449.00</OriginalPrice>
