@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-13T06:31:40.444Z -->
-<!-- Offerte: 2943 -->
+<!-- Generato: 2026-07-13T10:31:00.336Z -->
+<!-- Offerte: 2942 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -11195,6 +11195,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_PVC_gommoni.png?v=1773341610</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>0.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>adesivo-gommoni-sup-tender-bicomponente-per-pvc</ParentID>
   </Offer>
@@ -12513,6 +12514,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Categories>Nautica;Manutenzione;Diluenti e Primers</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cleaner-264-pulitore-pvc-poliuretano.webp?v=1773341651</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cleaner-264-pulitore-pvc-poliuretano</ParentID>
   </Offer>
@@ -14161,6 +14163,20 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.705.00b.png?v=1773341945</Image2>
     <Condition>nuovo</Condition>
     <ParentID>kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Ormeggio Completo – Cima, Parabordi e Copriparabordi - Ø 12 mm. / OF1	- 15x61 cm. / F1 - Ø 14-16 cm.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Tutto quello che serve per ormeggiare la tua barca in sicurezza, in un unico kit. Abbiamo riunito i tre prodotti più richiesti per la banchina — cima da ormeggio, parabordi e copriparabordi — così non devi cercarli uno per uno: scegli misure e colori e ri</Description>
+    <Price>50.91</Price>
+    <Code>10508243829083-53165996114267</Code>
+    <Link>https://www.onautica.com/products/kit-ormeggio-completo-cima-parabordi-e-copriparabordi?variant=53165996114267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-ormeggio-completo-cima-parabordi-copriparabordi.webp?v=1780074533</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-ormeggio-completo-cima-parabordi-e-copriparabordi</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Riparazione Gommoni Sup Tender per PVC con Tessuto - Bianco</Name>
@@ -16655,24 +16671,6 @@ L 320mm. - Ø22</Name>
     <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
   </Offer>
   <Offer>
-    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Heavy Duty (Rinforzata Anti-pizzicamento)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
-    <OriginalPrice>48.40</OriginalPrice>
-    <Price>38.71</Price>
-    <Code>10791</Code>
-    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783137627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626438997</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fermaporta a Molla in Acciaio Inox AISI 316</Name>
     <Brand>Osculati</Brand>
     <Description>Il Fermaporta a Molla in Acciaio Inox è un componente di ferramenta nautica di alta qualità, progettato specificamente per resistere alle condizioni più severe dell&apos;ambiente marino. Realizzato interamente in Acciaio Inox AISI 316 lucidato a specchio , que</Description>
@@ -18037,22 +18035,6 @@ L 320mm. - Ø22</Name>
     <EanCode>4000000126911</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>raccordo-per-pulpiti-o-25-mm-a-croce-acciaio-inox-aisi-316-da-fusione</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Segnale di Fonda a Cono H 470 mm – Segnale Diurno Pieghevole in Plastica per Barca</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Segnale diurno in Plastica. Forma Cono.\nSmontabile e pieghevole per un facile stoccaggio. Caratteristiche principali Altezza 470 mm per una buona visibilità da parte delle imbarcazioni in transito Design a cono conforme alla segnaletica di fonda prevista</Description>
-    <OriginalPrice>11.04</OriginalPrice>
-    <Price>7.88</Price>
-    <Code>3025047</Code>
-    <Link>https://www.onautica.com/products/segnale-fonda-cono-h-470-mm?variant=52577486733659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Segnale_fonda_cono_H._470_mm..png?v=1773341814</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>3054626085948</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>segnale-fonda-cono-h-470-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Serratura da accostare con pomolo DX/SX 98x58 mm. H. 25 mm. 3.656P</Name>
@@ -19481,6 +19463,7 @@ L 320mm. - Ø22</Name>
     <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica3.png?v=1773341726</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>3.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
@@ -23831,22 +23814,6 @@ L 320mm. - Ø22</Name>
     <ParentID>fanali-di-prua-led-bow-flush-inox-ce-12m</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanali di via mini rosso black (R.I.N.A.)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Fanali di via mini rosso black (R.I.N.A.) Il fanale di via mini rosso in versione black è un dispositivo di segnalazione luminosa omologato R.I.N.A., pensato per garantire la visibilità notturna dell&apos;imbarcazione secondo le normative vigenti. A chi è rivo</Description>
-    <OriginalPrice>15.19</OriginalPrice>
-    <Price>10.85</Price>
-    <Code>2111400</Code>
-    <Link>https://www.onautica.com/products/fanali-di-via-mini-rosso-black-r-i-n-a?variant=49393132896603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_mini_rosso_black_R.I.N.A..png?v=1762785493</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626063533</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-di-via-mini-rosso-black-r-i-n-a</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanali midi rosso black R.I.N.A. di via</Name>
     <Brand>Motomarine</Brand>
     <Description>Fanali midi rosso black R.I.N.A. di via Il fanale midi rosso black R.I.N.A. di via è un fanale di navigazione omologato R.I.N.A., pensato per garantire la corretta segnalazione luminosa a bordo nel rispetto della normativa vigente. A chi è rivolto Ideale </Description>
@@ -26388,6 +26355,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misuremontaggio.webp?v=1776247359</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordi-cilindrici-majoni-sf-star-fender-blu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF1	- 15x61 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
+    <OriginalPrice>28.10</OriginalPrice>
+    <Price>18.75</Price>
+    <Code>33.212.09</Code>
+    <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52513545945435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF02 - 19x66 cm.</Name>
@@ -29226,7 +29210,7 @@ L 320mm. - Ø22</Name>
     <Price>10.35</Price>
     <Code>N08</Code>
     <Link>https://www.onautica.com/products/detergente-vetroresina-cfg-750-ml?variant=52577432699227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Detergenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Detergente_vetroresina_CFG_750_ml..jpg?v=1773341650</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -39060,11 +39044,12 @@ bocche Ø 14 mm.</Name>
     <Price>9.71</Price>
     <Code>2323103</Code>
     <Link>https://www.onautica.com/products/detergente-igienizzante-a-base-di-ossigeno-per-serbatoi-acqua-steril-tank-500-ml?variant=52577370964315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/steriltank.png?v=1773341504</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8028151000146</EanCode>
+    <Weight>0.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>detergente-igienizzante-a-base-di-ossigeno-per-serbatoi-acqua-steril-tank-500-ml</ParentID>
   </Offer>
@@ -44613,7 +44598,7 @@ bocche Ø 14 mm.</Name>
     <Price>13.70</Price>
     <Code>10.289.00</Code>
     <Link>https://www.onautica.com/products/nastro-50-mm-x-2-mt-stayput-bianco-autoadesivo-per-riparazioni?variant=52577514815835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Vela;Accessori Vela</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10.289.00.png?v=1773341892</Image>
     <ShippingCost>5.90</ShippingCost>
