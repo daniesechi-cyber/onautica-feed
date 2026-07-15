@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-15T06:31:21.992Z -->
-<!-- Offerte: 2942 -->
+<!-- Generato: 2026-07-15T10:31:15.845Z -->
+<!-- Offerte: 2935 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -128,23 +128,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo HALL compatta - 2</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora Hall è una delle ancore più tradizionali e diffuse nel diporto, nota per la sua versatilità e affidabilità su una vasta gamma di fondali marini. Questa versione classica è realizzata in robusto acciaio e protetta da un trattamento di zincatura a </Description>
-    <OriginalPrice>19.40</OriginalPrice>
-    <Price>14.93</Price>
-    <Code>9851</Code>
-    <Link>https://www.onautica.com/products/ancora-zincata-tipo-hall-compatta?variant=52558791967067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_HALL_compatta_kg._8.png?v=1773341613</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Hall.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-zincata-tipo-hall-compatta</ParentID>
   </Offer>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo HALL compatta - 2.5</Name>
@@ -8862,23 +8845,6 @@
     <ParentID>bitta-classica-ottone-cromato-banchina</ParentID>
   </Offer>
   <Offer>
-    <Name>Boa in Polietilene con Foro Passante Arancione - Ø 170 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
-    <OriginalPrice>11.60</OriginalPrice>
-    <Price>6.42</Price>
-    <Code>33.136.00RO</Code>
-    <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-arancione?variant=52805444206939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Boe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-arancione.webp?v=1776162729</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626112651</EanCode>
-    <Weight>0.22</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>boa-polietilene-foro-passante-arancione</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boa in Polietilene con Foro Passante Arancione - Ø 260 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
@@ -12209,22 +12175,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>chiavetta-sicurezza-universale-fuoribordo-motore</ParentID>
   </Offer>
   <Offer>
-    <Name>Chiavette di Sicurezza per Motori Fuoribordo con Laccio - Johnson / Evinrude (dopo 1995)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Queste chiavette di sicurezza sono un dispositivo essenziale per la sicurezza in navigazione, obbligatorio per l&apos;utilizzo dei motori fuoribordo. Sono progettate per spegnere automaticamente il motore in caso di caduta dell&apos;operatore (Man Over Board - MOB)</Description>
-    <OriginalPrice>6.79</OriginalPrice>
-    <Price>5.03</Price>
-    <Code>4032914</Code>
-    <Link>https://www.onautica.com/products/chiavetta-sicurezza-universale-fuoribordo-motore?variant=52543694569819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Chiavetta_di_Sicurezza_Mercury_Mariner_Completa_di_Lacciolo.png?v=1773341645</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626116840</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>chiavetta-sicurezza-universale-fuoribordo-motore</ParentID>
-  </Offer>
-  <Offer>
     <Name>Chiavette di Sicurezza per Motori Fuoribordo con Laccio - Nuovo Honda</Name>
     <Brand>Osculati</Brand>
     <Description>Queste chiavette di sicurezza sono un dispositivo essenziale per la sicurezza in navigazione, obbligatorio per l&apos;utilizzo dei motori fuoribordo. Sono progettate per spegnere automaticamente il motore in caso di caduta dell&apos;operatore (Man Over Board - MOB)</Description>
@@ -12376,24 +12326,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-alta-tenacita-occhio-impiombato-blu-6-misureblister.webp?v=1777545307</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cima-ormeggio-alta-tenacita-occhio-impiombato-nera</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 12 mm x 7 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
-    <OriginalPrice>20.55</OriginalPrice>
-    <Price>15.81</Price>
-    <Code>06.443.81</Code>
-    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897972945243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure.webp?v=1777538552</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137030468</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure_occhio.webp?v=1777538551</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 14 mm x 9 mt.</Name>
@@ -13744,7 +13676,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>17.49</Price>
     <Code>3020041</Code>
     <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52545494516059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EstintoreMED.png?v=1763201908</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14229,6 +14161,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>0.35</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-riparazione-gommoni-sup-tender-per-pvc-con-tessuto</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio in Custodia PVC Apribile e Impermeabile (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Kit Segnali di Soccorso in Custodia PVC Apribile e Impermeabile per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnic</Description>
+    <OriginalPrice>113.90</OriginalPrice>
+    <Price>99.00</Price>
+    <Code>Kit 6/12/50custodia</Code>
+    <Link>https://www.onautica.com/products/kit-segnali-di-soccorso-entro-50-miglia-diporto-6-miglia-noleggio-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024?variant=53356824854875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-segnali-soccorso-50-miglia-diporto-6-noleggio-custodia-pvc-fp-srl.webp?v=1781111984</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.63</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-segnali-di-soccorso-entro-50-miglia-diporto-6-miglia-noleggio-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Kit tappi turafalle serie da 10 tappi conici in legno per falle da 8 a 38 mm.</Name>
@@ -15510,23 +15458,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>scatola-portafusibili-lamellari-unival-4-8-sedi</ParentID>
   </Offer>
   <Offer>
-    <Name>Segnale di Fonda a Pallone Ø 300 mm – Segnale Diurno in Policarbonato per Ancoraggio</Name>
-    <Brand>Osculati</Brand>
-    <Description>E’ realizzato in policarbonato nero antiriflesso, va issato di giorno, quando la barca é all’ancora. Nel caso la barca non governi, ne vanno issati due verticalmente. Obbligatorio come dotazione di bordo da entro 1 miglio a senza limiti di distanza della </Description>
-    <OriginalPrice>10.01</OriginalPrice>
-    <Price>7.15</Price>
-    <Code>30.650.00</Code>
-    <Link>https://www.onautica.com/products/segnale-fonda-pallone-o-300-mm?variant=52577528316251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fonda1.png?v=1773341945</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137009549</EanCode>
-    <Weight>0.40</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>segnale-fonda-pallone-o-300-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sgancio Idrostatico Hammar H20R per Zattere di Salvataggio</Name>
     <Brand>Hammar</Brand>
     <Description>Sgancio Idrostatico Hammar H20R per Zattere di Salvataggio A chi è rivolto Per chi ha una zattera di salvataggio a bordo e deve installare o sostituire lo sgancio idrostatico (HRU), il dispositivo che libera automaticamente la zattera in caso di affondame</Description>
@@ -15936,6 +15867,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2155503.png?v=1773341986</Image2>
     <Condition>nuovo</Condition>
     <ParentID>terminale-derivazione-2-perni-m8-80a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Valigetta Segnali di Soccorso Entro 3 Miglia (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Valigetta Segnali di Soccorso Entro le 3 Miglia è la dotazione di sicurezza obbligatoria e aggiornata per navigare in totale regola e tranquillità in prossimità della costa. Questo kit è rigorosamente conforme alle ultime disposizioni normative dettate</Description>
+    <OriginalPrice>39.35</OriginalPrice>
+    <Price>34.22</Price>
+    <Code>KIT3.C</Code>
+    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.75</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-migliabusta.webp?v=1774693721</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>valigetta-segnali-soccorso-entro-3-miglia-dm-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
@@ -17138,7 +17086,7 @@ L 320mm. - Ø22</Name>
     <Price>38.43</Price>
     <Code>KIT3Custodia</Code>
     <Link>https://www.onautica.com/products/kit-segnali-di-soccorso-entro-3-miglia-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024?variant=53356821741915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-segnali-soccorso-3-miglia-custodia-pvc-impermeabile-fp-srl.webp?v=1781112102</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28289,22 +28237,6 @@ L 320mm. - Ø22</Name>
     <ParentID>blaster-nautica-sgrassatore-750-ml</ParentID>
   </Offer>
   <Offer>
-    <Name>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm - Profilo 12 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm Bottazzo (profilo parabordo) a T in PVC nero , tipo T2, altezza 45 mm, per proteggere la fiancata dello scafo dagli urti in ormeggio e in banchina. Il profilo si monta su un apposito supporto (bar</Description>
-    <OriginalPrice>282.60</OriginalPrice>
-    <Price>188.42</Price>
-    <Code>383004512</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-a-t-tipo-t2-in-pvc-nero-h-45-mm?variant=53576482455899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo_3240.webp?v=1783783127</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033626179432</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-a-t-tipo-t2-in-pvc-nero-h-45-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm - Profilo 16 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm Bottazzo (profilo parabordo) a T in PVC nero , tipo T2, altezza 45 mm, per proteggere la fiancata dello scafo dagli urti in ormeggio e in banchina. Il profilo si monta su un apposito supporto (bar</Description>
@@ -29106,7 +29038,7 @@ L 320mm. - Ø22</Name>
     <Price>18.72</Price>
     <Code>10527</Code>
     <Link>https://www.onautica.com/products/disincrostante-gel-ferrotone-750-ml?variant=52577432043867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Detergenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Disincrostante_gel_Ferrotone_750_ml..jpg?v=1773341650</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30070,75 +30002,67 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-parabordo-piatto-parafiancata-flat-ferders-blue-650x300x80-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Paraprua 350+350 Ø 80 mm Blu – Parabordo di Prua in PVC con 3 Fori Rinforzati</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Paraprua in robusto PVC blu, ideale per la protezione della prua dell&apos;imbarcazione. Dotato di tre fori di attacco rinforzati per un fissaggio solido e affidabile. Materiale: PVC robusto Colore: Blu Diametro: 80 mm Lunghezza A: 35 cm Lunghezza: 26 cm / 23 </Description>
+    <Name>Paraprua Majoni Classico 35 x 33 cm Blu – Protezione Prua a U con 3 Fori</Name>
+    <Brand>Majoni</Brand>
+    <Description>A chi è rivolto Il Paraprua Majoni Classico 35 x 33 cm blu è pensato per chi vuole proteggere la prua della propria barca dagli urti contro la banchina, il pontile o un&apos;altra imbarcazione. È l&apos;accessorio adatto a chi ormeggia di punta, a chi accosta spess</Description>
     <OriginalPrice>26.95</OriginalPrice>
     <Price>19.25</Price>
     <Code>3800303</Code>
     <Link>https://www.onautica.com/products/paraprua-350-350-o-80-mm-blu?variant=52577468252507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_350_350_80_mm._blu.png?v=1773341756</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pp_3800303_3240.webp?v=1784106015</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8712256012721</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_350_350_80_mm._blu_3.png?v=1773341757</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_350_350_80_mm._blu_6.png?v=1773341758</Image3>
     <Condition>nuovo</Condition>
     <ParentID>paraprua-350-350-o-80-mm-blu</ParentID>
   </Offer>
   <Offer>
-    <Name>Paraprua 500+500 Ø 110 mm Blu – Parabordo di Prua in PVC con 3 Fori Rinforzati</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Paraprua 500+500 è un parabordo in robusto PVC blu, progettato per proteggere efficacemente la prua dell&apos;imbarcazione durante l&apos;ormeggio e le manovre. Dotato di tre fori di attacco rinforzati per un fissaggio sicuro e affidabile. Diametro: Ø 110 mm Mis</Description>
-    <OriginalPrice>48.93</OriginalPrice>
-    <Price>34.95</Price>
-    <Code>3800305</Code>
-    <Link>https://www.onautica.com/products/paraprua-500-500-o-110-mm-blu?variant=52577468350811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._blu.png?v=1773341757</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8712256012820</EanCode>
-    <Weight>1.43</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._blu_3.png?v=1773341758</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._blu_4.png?v=1773341759</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>paraprua-500-500-o-110-mm-blu</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Paraprua 500+500 Ø 110 mm. bianco</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Paraprua in robusto PVC con tre fori di attacco rinforzati. 500 mm. Bianco\n\nCaratteristica:\n \n A → 55 cm. \n B → 41 cm. \n C → 37 cm. \n D → 51 cm. \n colore → bianco \n Caratteristiche principali Diametro di 110 mm per una protezione efficace dello s</Description>
+    <Name>Paraprua Majoni Classico 55 x 53 cm Bianco – Protezione Prua a U con 3 Fori</Name>
+    <Brand>Majoni</Brand>
+    <Description>A chi è rivolto Il Paraprua Majoni Classico 55 x 53 cm bianco è pensato per chi vuole proteggere la prua della propria barca dagli urti contro la banchina, il pontile o un&apos;altra imbarcazione. È l&apos;accessorio adatto a chi ormeggia di punta, a chi accosta sp</Description>
     <OriginalPrice>48.93</OriginalPrice>
     <Price>34.95</Price>
     <Code>3800304</Code>
     <Link>https://www.onautica.com/products/paraprua-500-500-o-110-mm-bianco?variant=52577467597147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._bianco.png?v=1773341756</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pp_3800304_3240.webp?v=1784106021</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8712256012813</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._bianco_3.png?v=1773341756</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_500_500_110_mm._bianco_5.png?v=1773341756</Image3>
     <Condition>nuovo</Condition>
     <ParentID>paraprua-500-500-o-110-mm-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Paraprua in acciaio inox triangolare 34,5x35 cm.</Name>
+    <Name>Paraprua Majoni Classico 55 x 53 cm Blu – Protezione Prua a U con 3 Fori</Name>
+    <Brand>Majoni</Brand>
+    <Description>A chi è rivolto Il Paraprua Majoni Classico 55 x 53 cm blu è pensato per chi vuole proteggere la prua della propria barca dagli urti contro la banchina, il pontile o un&apos;altra imbarcazione. È l&apos;accessorio adatto a chi ormeggia di punta, a chi accosta spess</Description>
+    <OriginalPrice>48.93</OriginalPrice>
+    <Price>34.95</Price>
+    <Code>3800305</Code>
+    <Link>https://www.onautica.com/products/paraprua-500-500-o-110-mm-blu?variant=52577468350811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pp_3800305_3240.webp?v=1784106027</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8712256012820</EanCode>
+    <Weight>1.43</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>paraprua-500-500-o-110-mm-blu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Paraprua Triangolare Sagomabile in Acciaio Inox 35 x 34,5 cm</Name>
     <Brand>Motomarine</Brand>
-    <Description>Paraprua in Acciaio Inox leggero e resistente, modellabile manualmente e facile da applicare grazie alle linee di piegatura.\n\n CARATTERISTICHE \n \n Forma Triangolare \n Larghezza cm 35 \n H cm 34,5 \n \n Caratteristiche principali Acciaio inox resisten</Description>
+    <Description>A chi è rivolto Il Paraprua Triangolare Sagomabile in Acciaio Inox è rivolto a chi cerca una protezione di prua robusta e dall&apos;aspetto pulito, adatta anche a prue che non hanno tutte lo stesso profilo. È la scelta di chi preferisce l&apos;acciaio inox alla pla</Description>
     <OriginalPrice>80.22</OriginalPrice>
     <Price>56.10</Price>
     <Code>3800311</Code>
     <Link>https://www.onautica.com/products/paraprua-in-acciaio-inox-triangolare-34-5x35-cm?variant=52577468449115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_in_acciaio_inox_triangolare_34_5x35_cm..png?v=1773341756</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pp_3800311_3240.webp?v=1784106033</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626175670</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_in_acciaio_inox_triangolare_34_5x35_cm._9.png?v=1773341757</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Paraprua_in_acciaio_inox_triangolare_34_5x35_cm._6.png?v=1773341759</Image3>
     <Condition>nuovo</Condition>
     <ParentID>paraprua-in-acciaio-inox-triangolare-34-5x35-cm</ParentID>
   </Offer>
@@ -31480,6 +31404,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pulitoresentine.png?v=1773341791</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8016818008703</EanCode>
+    <Weight>1.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pulitore-sentina-cfg-1-lt</ParentID>
   </Offer>
@@ -31988,24 +31913,6 @@ L 320mm. - Ø22</Name>
     <Weight>0.21</Weight>
     <Condition>nuovo</Condition>
     <ParentID>spazzola-a-mano-osculati-con-impugnatura-anatomica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzola a Mano Osculati – Spazzola Media con Passaggio Acqua per Lavaggio Coperta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzola a mano i deale per il lavaggio frequente della coperta. Spazzola di media durezza, adatta a tutte le superfici. Tipo mm Spazzola con passaggio acqua, innesto a scatto standard 120x185 Caratteristiche principali Passaggio acqua integrato per un la</Description>
-    <OriginalPrice>11.10</OriginalPrice>
-    <Price>9.27</Price>
-    <Code>11004</Code>
-    <Link>https://www.onautica.com/products/spazzola-a-mano-osculati?variant=52577366376795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00.png?v=1773341481</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033731052538</EanCode>
-    <Weight>0.36</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00b.png?v=1773341481</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzola-a-mano-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Spazzola Boat Line per Pulizia Barca – Corpo in PVC con Bordo in Gomma Antiurto</Name>
@@ -32529,23 +32436,6 @@ L 320mm. - Ø22</Name>
     <ParentID>boccole-recuperabili-tubo-r2t-acciaio-carbonio</ParentID>
   </Offer>
   <Offer>
-    <Name>boetta Luce led visibilità minima 3 miglia</Name>
-    <Brand>Osculati</Brand>
-    <Description>boetta Luce led visibilità minima 3 miglia La boetta luce LED con visibilità minima di 3 miglia è un accessorio di sicurezza pensato per il segnalamento in mare, ideale da abbinare ai salvagente anulari e ai ferri di cavallo. A chi è rivolto Adatto a dipo</Description>
-    <OriginalPrice>20.06</OriginalPrice>
-    <Price>14.33</Price>
-    <Code>30.592.01</Code>
-    <Link>https://www.onautica.com/products/boetta-luce-led-visibilita-minima-3-miglia?variant=52577421754715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boetta_Luce_led_visibilit_minima_3_miglia.png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>6974930070188</EanCode>
-    <Weight>0.15</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>boetta-luce-led-visibilita-minima-3-miglia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boetta Luminosa Solas/MED Sirius – Attivazione Salina</Name>
     <Brand>Motomarine</Brand>
     <Description>La Boetta Luminosa Sirius è un dispositivo di sicurezza salvavita fondamentale da abbinare al salvagente anulare della tua imbarcazione. È un prodotto rigorosamente omologato secondo le norme internazionali SOLAS e la direttiva comunitaria M.E.D. 96/98/CE</Description>
@@ -32662,6 +32552,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round_universal.png?v=1773341635</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626239655</EanCode>
+    <Weight>0.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round_universal_2.png?v=1773341636</Image2>
     <Condition>nuovo</Condition>
     <ParentID>box-doccetta-round-universal</ParentID>
@@ -33429,11 +33320,12 @@ L 320mm. - Ø22</Name>
     <Price>10.63</Price>
     <Code>1513103</Code>
     <Link>https://www.onautica.com/products/doccetta-duo-switch-abs-bianco-2-getti?variant=52577432371547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/doccetta-duo-switch-abs-bianco-2-getti-nautica.webp?v=1775224577</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626043122</EanCode>
+    <Weight>0.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>doccetta-duo-switch-abs-bianco-2-getti</ParentID>
   </Offer>
@@ -44714,24 +44606,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>piatti-dinner-e-soup-venti4-in-melamina-satinata</ParentID>
   </Offer>
   <Offer>
-    <Name>Portabicchieri a scatto su pulpiti o battagliole bianco</Name>
-    <Brand>Osculati</Brand>
-    <Description>Portabicchieri universali in plastica, progettati per un&apos;installazione rapida e sicura a scatto su pulpiti o battagliole. Ideali per tenere bevande a portata di mano durante la navigazione, si montano senza attrezzi e senza forare la barca. Disponibili in</Description>
-    <OriginalPrice>12.63</OriginalPrice>
-    <Price>9.02</Price>
-    <Code>48.430.08</Code>
-    <Link>https://www.onautica.com/products/portabicchieri-a-scatto-su-pulpiti-o-battagliole-bianco?variant=52577475166555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_a_scatto_su_pulpiti_o_battagliole_bianco.png?v=1773341774</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042003</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_a_scatto_su_pulpiti_o_battagliole_bianco_1.png?v=1773341774</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_a_scatto_su_pulpiti_o_battagliole_bianco_3.png?v=1773341774</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>portabicchieri-a-scatto-su-pulpiti-o-battagliole-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Portabicchieri clip bianco 22&lt;&gt;30 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Portabicchieri realizzato in poliuretano integrale morbido , progettato per mantenere saldamente in posizione bevande e accessori anche in navigazione. Grazie alla sua forma universale, accoglie lattine, bicchieri e bottiglie da 33 cl , ma si presta anche</Description>
@@ -44806,7 +44680,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.97</Price>
     <Code>10352</Code>
     <Link>https://www.onautica.com/products/portachiavi-mini-arancio?variant=52577475330395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portachiavi_mini_arancio_7.png?v=1773341776</Image>
     <ShippingCost>5.90</ShippingCost>
