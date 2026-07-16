@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-16T06:31:31.884Z -->
-<!-- Offerte: 2930 -->
+<!-- Generato: 2026-07-16T10:31:06.150Z -->
+<!-- Offerte: 2942 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -94,6 +94,24 @@
     <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
   </Offer>
   <Offer>
+    <Name>Ancora Acciaio Zincato tipo Bruce - 10</Name>
+    <Brand>Bruce</Brand>
+    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
+    <OriginalPrice>77.20</OriginalPrice>
+    <Price>59.38</Price>
+    <Code>0107510</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376862555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>10.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ancora Acciaio Zincato tipo Bruce - 15</Name>
     <Brand>Bruce</Brand>
     <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
@@ -128,6 +146,23 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo HALL compatta - 2</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora Hall è una delle ancore più tradizionali e diffuse nel diporto, nota per la sua versatilità e affidabilità su una vasta gamma di fondali marini. Questa versione classica è realizzata in robusto acciaio e protetta da un trattamento di zincatura a </Description>
+    <OriginalPrice>19.40</OriginalPrice>
+    <Price>14.93</Price>
+    <Code>9851</Code>
+    <Link>https://www.onautica.com/products/ancora-zincata-tipo-hall-compatta?variant=52558791967067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_HALL_compatta_kg._8.png?v=1773341613</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Hall.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-zincata-tipo-hall-compatta</ParentID>
   </Offer>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo HALL compatta - 2.5</Name>
@@ -661,7 +696,7 @@
     <Price>7.88</Price>
     <Code>3221901</Code>
     <Link>https://www.onautica.com/products/base-attacco-tendalini-grigio-da-incollare-per-gommoni?variant=52577501675867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3221901.png?v=1773341861</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -3532,7 +3567,7 @@
   <Offer>
     <Name>Rullo Centrale 60 mm – Rullo di Guida per Alaggio e Varo su Carrello Nautico</Name>
     <Brand>Osculati</Brand>
-    <Description>Rullo centrale piccolo 60 mm Il rullo centrale piccolo da 60 mm è un componente di guida ideale per il rimessaggio e la movimentazione delle imbarcazioni, pensato per facilitare lo scorrimento dello scafo durante le operazioni di alaggio e varo. A chi è r</Description>
+    <Description>Rullo centrale piccolo 60 mm Il rullo centrale piccolo da 60 mm è un componente di guida ideale per il rimessaggio e la movimentazione delle imbarcazioni, pensato per facilitare lo scorrimento dello scafo durante le operazioni di alaggio e varo. A chi �� </Description>
     <OriginalPrice>49.66</OriginalPrice>
     <Price>35.47</Price>
     <Code>10511</Code>
@@ -8156,6 +8191,25 @@
     <ParentID>asta-portabandiera-h-300-mm-plastica</ParentID>
   </Offer>
   <Offer>
+    <Name>Asta portabandiera H 350 mm. ottone cromato</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa asta portabandiera, realizzata in ottone cromato, offre una struttura compatta e robusta ideale per utilizzi professionali. È dotata di una base stabile e di un&apos;asta estraibile con sistema a scatto, che ne facilita il montaggio e lo smontaggio rapi</Description>
+    <OriginalPrice>35.60</OriginalPrice>
+    <Price>25.43</Price>
+    <Code>0810003</Code>
+    <Link>https://www.onautica.com/products/asta-portabandiera-h-350-mm-ottone-cromato?variant=52577418084699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_portabandiera_H_350_mm._ottone_cromato.png?v=1773341625</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626025715</EanCode>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_portabandiera_H_350_mm._ottone_cromato_1.png?v=1773341625</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Asta_portabandiera_H_350_mm._ottone_cromato_2.png?v=1773341627</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-portabandiera-h-350-mm-ottone-cromato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Asta portabandiera H 400 mm. plastica</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa asta portabandiera in plastica è progettata per offrire versatilità e facilità di installazione. Completa di base verticale e orizzontale, può essere montata sia su superfici piane sia a parete, garantendo un fissaggio stabile e sicuro. Per l’utili</Description>
@@ -8283,6 +8337,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bandiera_3240.webp?v=1783782113</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626099631</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>bandiera-francia-in-tessuto</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bandiera Francia in Tessuto - 50 × 75 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Bandiera Francia in Tessuto Bandiera della Francia (tricolore verticale blu-bianco-rosso) in tessuto, per l&apos;esposizione a bordo. Disponibile in quattro misure, da 20×30 a 50×75 cm. A chi è rivolto A chi naviga in acque francesi o in Corsica e deve esporre</Description>
+    <OriginalPrice>22.00</OriginalPrice>
+    <Price>14.68</Price>
+    <Code>3400750</Code>
+    <Link>https://www.onautica.com/products/bandiera-francia-in-tessuto?variant=53576299905371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bandiera_3240.webp?v=1783782113</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626099648</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>bandiera-francia-in-tessuto</ParentID>
   </Offer>
@@ -12310,14 +12380,48 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cima-ormeggio-alta-tenacita-occhio-impiombato-nera</ParentID>
   </Offer>
   <Offer>
+    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Bianca – 6 Misure Disponibili - Ø 16 mm x 11 mt.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Bianca – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia bianca impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, re</Description>
+    <OriginalPrice>37.90</OriginalPrice>
+    <Price>31.62</Price>
+    <Code>06.443.73</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca?variant=52897953907035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misure.webp?v=1777538025</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureocchio.webp?v=1777538024</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-bianca</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Bianca – 6 Misure Disponibili - Ø 20 mm x 12 mt.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Bianca – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia bianca impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, re</Description>
+    <OriginalPrice>69.00</OriginalPrice>
+    <Price>57.52</Price>
+    <Code>06.443.74</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca?variant=52897953939803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misure.webp?v=1777538025</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureocchio.webp?v=1777538024</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-bianca</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 14 mm x 9 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
-    <OriginalPrice>27.08</OriginalPrice>
+    <OriginalPrice>25.00</OriginalPrice>
     <Price>20.83</Price>
     <Code>06.443.82</Code>
     <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897972978011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure.webp?v=1777538552</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12331,8 +12435,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 16 mm x 11 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
-    <OriginalPrice>41.91</OriginalPrice>
-    <Price>32.24</Price>
+    <OriginalPrice>39.40</OriginalPrice>
+    <Price>32.85</Price>
     <Code>06.443.83</Code>
     <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897973010779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -12346,10 +12450,44 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-blu</ParentID>
   </Offer>
   <Offer>
+    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 20 mm x 12 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
+    <OriginalPrice>73.80</OriginalPrice>
+    <Price>61.49</Price>
+    <Code>06.443.84</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897973043547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure.webp?v=1777538552</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure_occhio.webp?v=1777538551</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-blu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 24 mm x 15 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
+    <OriginalPrice>143.80</OriginalPrice>
+    <Price>119.83</Price>
+    <Code>06.443.85</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897973076315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure.webp?v=1777538552</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure_occhio.webp?v=1777538551</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Nera – 6 Misure Disponibili - Ø 12 mm x 7 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Nera – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia nera impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resist</Description>
-    <OriginalPrice>20.55</OriginalPrice>
+    <OriginalPrice>19.00</OriginalPrice>
     <Price>15.81</Price>
     <Code>06.443.91</Code>
     <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-nera?variant=52898344304987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -12367,7 +12505,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Nera – 6 Misure Disponibili - Ø 14 mm x 9 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Nera – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia nera impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resist</Description>
-    <OriginalPrice>27.08</OriginalPrice>
+    <OriginalPrice>25.00</OriginalPrice>
     <Price>20.83</Price>
     <Code>06.443.92</Code>
     <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-nera?variant=52898344337755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -12385,8 +12523,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Nera – 6 Misure Disponibili - Ø 16 mm x 11 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Nera – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia nera impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resist</Description>
-    <OriginalPrice>41.91</OriginalPrice>
-    <Price>32.24</Price>
+    <OriginalPrice>39.40</OriginalPrice>
+    <Price>32.85</Price>
     <Code>06.443.93</Code>
     <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-nera?variant=52898344370523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13453,22 +13591,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>deviatore-batteria-4-posizioni-100a-continuo</ParentID>
   </Offer>
   <Offer>
-    <Name>Deviatore Staccabatterie Heavy Duty (HD) - Controllo a 4 Posizioni - 280A/380A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo deviatore staccabatterie è progettato per un uso continuato in impianti a doppia batteria, garantendo massima sicurezza e flessibilità nella gestione dell&apos;alimentazione di bordo. Caratteristiche Principali: Funzione Multipla: Offre **quattro posizi</Description>
-    <OriginalPrice>59.33</OriginalPrice>
-    <Price>42.38</Price>
-    <Code>2103028</Code>
-    <Link>https://www.onautica.com/products/deviatore-staccabatterie-hd-4-posizioni-280a-350a?variant=52513459372379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Deviatore_staccabatterie_HD_280A_capacit_intermitente_380A.png?v=1773341651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626062178</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>deviatore-staccabatterie-hd-4-posizioni-280a-350a</ParentID>
-  </Offer>
-  <Offer>
     <Name>Deviatore/staccabatterie Selecta New MK III: gestione avanzata e sicura per impianto di bordo</Name>
     <Brand>Osculati</Brand>
     <Description>Garantisci la massima efficienza e sicurezza al tuo impianto elettrico con il nostro selettore staccabatterie versione &quot;MK III&quot; , progettato per offrire un controllo totale sulle batterie di avviamento e dei servizi. Questo dispositivo indispensabile perm</Description>
@@ -14159,6 +14281,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <Weight>1.63</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-segnali-di-soccorso-entro-50-miglia-diporto-6-miglia-noleggio-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit tappi turafalle serie da 10 tappi conici in legno per falle da 8 a 38 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Kit di 10 tappi conici in legno per interventi di emergenza in caso di falla a bordo. I tappi, di diverse dimensioni, consentono di otturare rapidamente aperture con diametro compreso tra 8 e 38 mm , adattandosi a un&apos;ampia varietà di scafi e situazioni di</Description>
+    <OriginalPrice>11.18</OriginalPrice>
+    <Price>7.99</Price>
+    <Code>3025066</Code>
+    <Link>https://www.onautica.com/products/kit-tappi-turafalle-serie-da-10-tappi-conici-in-legno-per-falle-da-8-a-38-mm?variant=52577445937499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Kit_tappi_turafalle_serie_da_10_tappi_conici_in_legno_per_falle_da_8_a_38_mm..png?v=1773341687</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626212320</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-tappi-turafalle-serie-da-10-tappi-conici-in-legno-per-falle-da-8-a-38-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Lucidatrice Levigatrice Vigor VLL-180 1200 watt</Name>
@@ -16481,6 +16619,24 @@ L 320mm. - Ø22</Name>
     <ParentID>compasso-a-molla-hd-l-320mm-o22</ParentID>
   </Offer>
   <Offer>
+    <Name>Compasso a molla Ø 10 mm. - L 220 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il compasso a molla è realizzato in acciaio inox di alta qualità , ideale per resistere alla corrosione e garantire lunga durata anche negli ambienti umidi tipici dell&apos;uso marino. Progettato specificamente per finestrini nautici, il meccanismo a molla ass</Description>
+    <OriginalPrice>11.44</OriginalPrice>
+    <Price>8.17</Price>
+    <Code>1640000</Code>
+    <Link>https://www.onautica.com/products/compasso-a-molla-o-10-mm-l-220-mm?variant=52577431191899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Compasso_a_molla_10_mm._-_L_220_mm..png?v=1773341649</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626049247</EanCode>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Compasso_a_molla_10_mm._-_L_220_mm._3.png?v=1773341649</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>compasso-a-molla-o-10-mm-l-220-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Compasso a molla Ø 14 mm. - L 260 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il compasso a molla è realizzato in acciaio inox di alta qualità , ideale per l&apos;utilizzo in ambiente marino grazie all&apos;elevata resistenza alla corrosione e alla lunga durata anche in condizioni di umidità intensa. Progettato specificamente per l&apos;installaz</Description>
@@ -17566,22 +17722,6 @@ L 320mm. - Ø22</Name>
     <ParentID>moschettone-19-mm-girevole-a4</ParentID>
   </Offer>
   <Offer>
-    <Name>Moschettone inox 100 mm. apertura esterna</Name>
-    <Brand>Osculati</Brand>
-    <Description>Moschettone inox 100 mm. apertura esterna AISI 316 Caratteristiche principali Acciaio inossidabile AISI 316, ideale per l&apos;uso marino in ambienti salini Lunghezza 100 mm per applicazioni che richiedono un aggancio robusto e affidabile Apertura esterna per </Description>
-    <OriginalPrice>12.09</OriginalPrice>
-    <Price>6.72</Price>
-    <Code>09.287.10</Code>
-    <Link>https://www.onautica.com/products/moschettone-inox-100-mm-apertura-esterna?variant=52577452884315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_100_mm._apertura_esterna.png?v=1773341708</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137081538</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>moschettone-inox-100-mm-apertura-esterna</ParentID>
-  </Offer>
-  <Offer>
     <Name>Moschettone inox 120 mm. AISI 316 A4 apertura larga</Name>
     <Brand>Osculati</Brand>
     <Description>Moschettone in acciaio inox a grande apertura in acciaio inox AISI 316, aggancio senza appigli. Caratteristiche: Versione standard A 122 mm. B �� 11 mm. E 23 mm. Caratteristiche principali Acciaio inox AISI 316 A4: massima resistenza alla corrosione in am</Description>
@@ -17914,6 +18054,22 @@ L 320mm. - Ø22</Name>
     <EanCode>4000000126911</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>raccordo-per-pulpiti-o-25-mm-a-croce-acciaio-inox-aisi-316-da-fusione</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Segnale di Fonda a Cono H 470 mm – Segnale Diurno Pieghevole in Plastica per Barca</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Segnale diurno in Plastica. Forma Cono.\nSmontabile e pieghevole per un facile stoccaggio. Caratteristiche principali Altezza 470 mm per una buona visibilità da parte delle imbarcazioni in transito Design a cono conforme alla segnaletica di fonda prevista</Description>
+    <OriginalPrice>11.04</OriginalPrice>
+    <Price>7.88</Price>
+    <Code>3025047</Code>
+    <Link>https://www.onautica.com/products/segnale-fonda-cono-h-470-mm?variant=52577486733659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Segnale_fonda_cono_H._470_mm..png?v=1773341814</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3054626085948</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>segnale-fonda-cono-h-470-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Serratura da accostare con pomolo DX/SX 98x58 mm. H. 25 mm. 3.656P</Name>
@@ -19591,6 +19747,23 @@ L 320mm. - Ø22</Name>
     <ParentID>girante-pompa-neoprene-o51-o-int-10-h22-6-pale</ParentID>
   </Offer>
   <Offer>
+    <Name>Girante Pompa Neoprene Ø51 · Ø int. 8 · H22 · 6 pale</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Girante Pompa Neoprene Ø51 · Ø int. 8 · H22 · 6 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo sog</Description>
+    <OriginalPrice>15.40</OriginalPrice>
+    <Price>12.83</Price>
+    <Code>1814035</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-neoprene-o51-o-int-8-h22-6-pale?variant=53523706741083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814035.webp?v=1783362323</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051127</EanCode>
+    <Weight>0.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-neoprene-o51-o-int-8-h22-6-pale</ParentID>
+  </Offer>
+  <Offer>
     <Name>Girante Pompa Neoprene Ø57 · Ø int. 12 · H29 · 12 pale</Name>
     <Brand>Motomarine</Brand>
     <Description>Girante Pompa Neoprene Ø57 · Ø int. 12 · H29 · 12 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo s</Description>
@@ -20513,24 +20686,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051585</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-parsun</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 9.9/15 HP</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
-    <OriginalPrice>18.40</OriginalPrice>
-    <Price>15.35</Price>
-    <Code>1814244</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718372699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051523</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
     <Condition>nuovo</Condition>
@@ -22818,22 +22973,6 @@ L 320mm. - Ø22</Name>
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
   </Offer>
   <Offer>
-    <Name>Dischetti con velcro Ø 45 mm. per tessuti e rivestimenti 5 cp.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Dischetti maschio+femmina con velcro per fissare tessuti e rivestimenti. Caratteristiche: Ø 45 mm. Pezzi 5 coppie Caratteristiche principali Sistema di fissaggio a doppia componente: dischetto maschio e femmina per una chiusura sicura e rimovibile Forma c</Description>
-    <OriginalPrice>14.25</OriginalPrice>
-    <Price>10.55</Price>
-    <Code>3215006</Code>
-    <Link>https://www.onautica.com/products/dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp?variant=52577502298459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Guarnizioni</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3215006.png?v=1773341863</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626095244</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
     <Brand>Osculati</Brand>
     <Description>Il Fanale di Coperta Inox Rosso 112,5° è un fanale di navigazione in acciaio inossidabile, progettato per segnalare il lato di babordo dell&apos;imbarcazione con un angolo di copertura di 112,5°, in piena conformità con le normative internazionali COLREG . Gar</Description>
@@ -23459,6 +23598,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_midi_verde_white_R.I.N.A._di_via.png?v=1773342063</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626063427</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110902.png?v=1773342060</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110910.png?v=1773342061</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-midi-white-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione R.I.Na. Midi White - fino a 12 metri - 135° Poppa</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di fanali di navigazione di dimensioni medie è un elemento essenziale per la sicurezza e la conformità della tua imbarcazione fino a 12 metri. Il design classico e la costruzione robusta li rendono ideali per l&apos;installazione fissa. Caratteris</Description>
+    <OriginalPrice>13.75</OriginalPrice>
+    <Price>9.82</Price>
+    <Code>2110906</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-midi-white-12m?variant=52545766228315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_midi_verde_white_R.I.N.A._di_via.png?v=1773342063</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626063410</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110902.png?v=1773342060</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2110910.png?v=1773342061</Image3>
     <Condition>nuovo</Condition>
@@ -25350,7 +25507,7 @@ L 320mm. - Ø22</Name>
     <Price>17.49</Price>
     <Code>0700521</Code>
     <Link>https://www.onautica.com/products/mezzo-marinaio-telescopico-easy-alluminio?variant=52540059156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mezzo-marinaio-telescopico-easy-alluminio.png?v=1765216656</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25403,12 +25560,30 @@ L 320mm. - Ø22</Name>
     <Price>17.90</Price>
     <Code>3136506</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450046811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626008053</EanCode>
     <Weight>0.76</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-scena-a-bordo.webp?v=1783612780</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 9 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
+    <OriginalPrice>42.13</OriginalPrice>
+    <Price>30.09</Price>
+    <Code>3136507</Code>
+    <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450079579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008060</EanCode>
+    <Weight>1.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-scena-a-bordo.webp?v=1783612780</Image2>
     <Condition>nuovo</Condition>
     <ParentID>molla-ormeggio-acciaio-inox-lucidato</ParentID>
@@ -25421,7 +25596,7 @@ L 320mm. - Ø22</Name>
     <Price>50.67</Price>
     <Code>3136509</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450112347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-lucidato-anticigolio.webp?v=1776093080</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25473,7 +25648,7 @@ L 320mm. - Ø22</Name>
     <Price>16.34</Price>
     <Code>01.189.12</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-zincato-alta-resistenza-banchina?variant=52559519383899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mollazincata.png?v=1773341951</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25506,7 +25681,7 @@ L 320mm. - Ø22</Name>
     <Price>32.91</Price>
     <Code>01.189.19</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-zincato-alta-resistenza-banchina?variant=52559519416667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mollazincata.png?v=1773341951</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25523,7 +25698,7 @@ L 320mm. - Ø22</Name>
     <Price>15.81</Price>
     <Code>3136032</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-spring-acciaio-inox-lucidato?variant=52513541554523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla-ormeggio-acciaio-inox-spring.png?v=1773341729</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -33071,7 +33246,7 @@ L 320mm. - Ø22</Name>
     <Price>14.86</Price>
     <Code>4121562</Code>
     <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -33120,7 +33295,7 @@ L 320mm. - Ø22</Name>
     <Price>8.17</Price>
     <Code>4121552</Code>
     <Link>https://www.onautica.com/products/cartuccia-per-filtro-senza-separatore?variant=52577423491419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cartuccia_per_filtro_SENZA_separatore.png?v=1773341638</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -33244,6 +33419,24 @@ L 320mm. - Ø22</Name>
     <EanCode>8057090096910</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
+    <OriginalPrice>17.59</OriginalPrice>
+    <Price>13.53</Price>
+    <Code>4121530</Code>
+    <Link>https://www.onautica.com/products/coppa-trasparente-ricambio-filtro-sacs?variant=52577434206555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vaschetta-ricambio-filtro-separatore.png?v=1773341649</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626212788</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coppa_-_Filtro_separatore_M_C_flusso_max_150_lt_h_bicchiere_ricambio_per_4121522_4121524.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_Separatore_Benzina_SACS_con_Vaschetta_Trasparente_Cartuccia_AquaStop_10_Micron.png?v=1773341654</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>coppa-trasparente-ricambio-filtro-sacs</ParentID>
   </Offer>
   <Offer>
     <Name>Dadi Esagonali in Ottone per Presa a Mare Ombrinale - 1&quot;1/4</Name>
@@ -41510,7 +41703,7 @@ bocche Ø 14 mm.</Name>
     <Price>10.49</Price>
     <Code>4020022</Code>
     <Link>https://www.onautica.com/products/tanica-benzina-hdpe-omologata-un-anti-uv?variant=52543820988763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Taniche_UN_per_carburante_trasporto.png?v=1773341665</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -42958,6 +43151,23 @@ bocche Ø 14 mm.</Name>
     <Price>160.60</Price>
     <Code>3265265</Code>
     <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953695067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
+    <OriginalPrice>222.42</OriginalPrice>
+    <Price>171.09</Price>
+    <Code>3265267</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953727835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
@@ -45333,7 +45543,7 @@ bocche Ø 14 mm.</Name>
     <Price>18.77</Price>
     <Code>LSA.7040.000.75</Code>
     <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-grigio-chiaro?variant=52610850685275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-grigio-chiaro.webp?v=1773771955</Image>
     <ShippingCost>5.90</ShippingCost>
