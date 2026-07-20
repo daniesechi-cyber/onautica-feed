@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-20T06:31:43.177Z -->
-<!-- Offerte: 2923 -->
+<!-- Generato: 2026-07-20T10:31:01.422Z -->
+<!-- Offerte: 2940 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -481,6 +481,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Ancora_galleggiante_80x70_cm._fino_a_8_mt..png?v=1773341713</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626295828</EanCode>
+    <Weight>0.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>ancora-galleggiante-top-drag</ParentID>
   </Offer>
@@ -2769,6 +2770,22 @@
     <ParentID>nastro-trazione-nylon-moschettone-arganelli-mano</ParentID>
   </Offer>
   <Offer>
+    <Name>Nastro ad Alta Resistenza con Moschettone per Argani a Mano - 7.5 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di nastri è la soluzione ideale per sostituire i cavi in acciaio sugli arganelli a mano, offrendo maggiore sicurezza e praticità d&apos;uso durante le operazioni di tiro e alaggio. Vantaggi e Sicurezza (Rispetto ai Cavi in Acciaio): Materiale: Rea</Description>
+    <OriginalPrice>23.39</OriginalPrice>
+    <Price>16.71</Price>
+    <Code>02.090.02</Code>
+    <Link>https://www.onautica.com/products/nastro-trazione-nylon-moschettone-arganelli-mano?variant=52543889113435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cinghia_7_5_mt._con_moschettone_per_argani_nylon_fine_mt._7_5_-_carico_rottura_1800_kg._1.png?v=1773341646</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137070112</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>nastro-trazione-nylon-moschettone-arganelli-mano</ParentID>
+  </Offer>
+  <Offer>
     <Name>Nastro ad Alta Resistenza con Moschettone per Argani a Mano - 10 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di nastri è la soluzione ideale per sostituire i cavi in acciaio sugli arganelli a mano, offrendo maggiore sicurezza e praticità d&apos;uso durante le operazioni di tiro e alaggio. Vantaggi e Sicurezza (Rispetto ai Cavi in Acciaio): Materiale: Rea</Description>
@@ -3631,7 +3648,7 @@
     <Price>6.44</Price>
     <Code>02.029.09</Code>
     <Link>https://www.onautica.com/products/rullo-laterale-tecnopolimero-gomma?variant=51746445001051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_L_75_mm._120_mm._foro_18_5_mm._laterale_nero.png?v=1773341805</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4503,7 +4520,7 @@
     <Price>5.62</Price>
     <Code>14.191.02</Code>
     <Link>https://www.onautica.com/products/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446?variant=52577488175451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-13-poli-rimorchi-abs-nero-ottone-cromato-iso-11446.webp?v=1776327988</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -4559,23 +4576,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>0204081</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_per_tubi_rulli_laterale.png?v=1761935882</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>staffa-bloccaggio-per-tubo-rulli-laterali</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Staffa Bloccaggio per Tubo Rulli Laterali Carrelli - 30x30 mm. / 50x50 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Le staffe di fissaggio Osculati della serie 02.040.xx sono componenti strutturali fondamentali per assemblare o riparare i sistemi di rulli laterali e centrali sui rimorchi per barche. Progettate per un montaggio sicuro, queste staffe collegano il rullo a</Description>
-    <OriginalPrice>15.57</OriginalPrice>
-    <Price>11.12</Price>
-    <Code>02.040.82</Code>
-    <Link>https://www.onautica.com/products/staffa-bloccaggio-per-tubo-rulli-laterali?variant=51650499445083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>0204082</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_per_tubi_rulli_laterale.png?v=1761935882</Image2>
     <Condition>nuovo</Condition>
     <ParentID>staffa-bloccaggio-per-tubo-rulli-laterali</ParentID>
@@ -4652,7 +4652,7 @@
     <Price>12.23</Price>
     <Code>02.029.32</Code>
     <Link>https://www.onautica.com/products/staffa-rullo-laterale-rialzata-per-carrelli?variant=52513567342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_rialzata_per_rullo_laterale_30_mm..png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -5526,7 +5526,7 @@
     <Price>8.20</Price>
     <Code>02.029.59</Code>
     <Link>https://www.onautica.com/products/tubo-per-rulli-centrale-30x30-mm-h-300-mm?variant=52577499087195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tubo_per_rulli_centrale_30x30_mm._H_300_mm..png?v=1773341851</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -8886,6 +8886,23 @@
     <ParentID>bitta-classica-ottone-cromato-banchina</ParentID>
   </Offer>
   <Offer>
+    <Name>Boa in Polietilene con Foro Passante Arancione - Ø 170 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
+    <OriginalPrice>11.60</OriginalPrice>
+    <Price>6.42</Price>
+    <Code>33.136.00RO</Code>
+    <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-arancione?variant=52805444206939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-arancione.webp?v=1776162729</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626112651</EanCode>
+    <Weight>0.22</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boa-polietilene-foro-passante-arancione</ParentID>
+  </Offer>
+  <Offer>
     <Name>Boa in Polietilene con Foro Passante Arancione - Ø 260 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
@@ -8893,7 +8910,7 @@
     <Price>10.01</Price>
     <Code>33.135.20RO</Code>
     <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-arancione?variant=52805444239707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Boe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-arancione.webp?v=1776162729</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -8931,6 +8948,22 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626112675</EanCode>
     <Weight>0.22</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boa-polietilene-foro-passante-gialla</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boa in Polietilene con Foro Passante Giallo - Ø 260 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Boa in Polietilene con Foro Passante – Colore Giallo per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore giallo è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di aree acqu</Description>
+    <OriginalPrice>19.00</OriginalPrice>
+    <Price>10.58</Price>
+    <Code>33.135.20GI</Code>
+    <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-gialla?variant=51629510984027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-giallo.webp?v=1776162527</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965092913</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>boa-polietilene-foro-passante-gialla</ParentID>
   </Offer>
@@ -11510,7 +11543,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>28.34</Price>
     <Code>32.914.54</Code>
     <Link>https://www.onautica.com/products/cassetta-di-pronto-soccorso-help?variant=52577526939995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/32.914.54b.png?v=1773341938</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12133,6 +12166,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>chiavetta-sicurezza-universale-fuoribordo-motore</ParentID>
   </Offer>
   <Offer>
+    <Name>Chiavette di Sicurezza per Motori Fuoribordo con Laccio - Johnson / Evinrude (dopo 1995)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Queste chiavette di sicurezza sono un dispositivo essenziale per la sicurezza in navigazione, obbligatorio per l&apos;utilizzo dei motori fuoribordo. Sono progettate per spegnere automaticamente il motore in caso di caduta dell&apos;operatore (Man Over Board - MOB)</Description>
+    <OriginalPrice>6.79</OriginalPrice>
+    <Price>5.03</Price>
+    <Code>4032914</Code>
+    <Link>https://www.onautica.com/products/chiavetta-sicurezza-universale-fuoribordo-motore?variant=52543694569819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Chiavetta_di_Sicurezza_Mercury_Mariner_Completa_di_Lacciolo.png?v=1773341645</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626116840</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>chiavetta-sicurezza-universale-fuoribordo-motore</ParentID>
+  </Offer>
+  <Offer>
     <Name>Chiavette di Sicurezza per Motori Fuoribordo con Laccio - Nuovo Honda</Name>
     <Brand>Osculati</Brand>
     <Description>Queste chiavette di sicurezza sono un dispositivo essenziale per la sicurezza in navigazione, obbligatorio per l&apos;utilizzo dei motori fuoribordo. Sono progettate per spegnere automaticamente il motore in caso di caduta dell&apos;operatore (Man Over Board - MOB)</Description>
@@ -12320,6 +12369,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-bianca</ParentID>
   </Offer>
   <Offer>
+    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 12 mm x 7 mt.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
+    <OriginalPrice>19.00</OriginalPrice>
+    <Price>15.81</Price>
+    <Code>06.443.81</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897972945243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure.webp?v=1777538552</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137030468</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure_occhio.webp?v=1777538551</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 14 mm x 9 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
@@ -12451,7 +12518,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>5.38</Price>
     <Code>06.444.62</Code>
     <Link>https://www.onautica.com/products/cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato?variant=52880730685787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombato.webp?v=1777299351</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13655,7 +13722,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>17.49</Price>
     <Code>3020041</Code>
     <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52545494516059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EstintoreMED.png?v=1763201908</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15557,6 +15624,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>sikaflex-591-tubetto-autoestrudente-70ml</ParentID>
   </Offer>
   <Offer>
+    <Name>Sigillante Poliuretanico per Coperta Sikaflex® 290 DC PRO – Nero 300 ml.</Name>
+    <Brand>Sikaflex</Brand>
+    <Description>Il Sikaflex® 290 DC PRO è un sigillante poliuretanico monocomponente di alta qualità, sviluppato appositamente per il settore nautico professionale. La sua formulazione offre un&apos;eccezionale resistenza ai raggi UV e agli agenti atmosferici, rendendolo la s</Description>
+    <OriginalPrice>31.80</OriginalPrice>
+    <Price>19.89</Price>
+    <Code>11447</Code>
+    <Link>https://www.onautica.com/products/sikaflex-290-dc-pro-sigillante-coperta-nero-300?variant=52577398358363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sikaflex-290-dc-pro-sigillante-coperta-nero.png?v=1773341578</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>7612655148148</EanCode>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sikaflex-290-dc-pro-sigillante-coperta-neroinstallazione.png?v=1773341579</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sikaflex-290-dc-pro-sigillante-coperta-nero-300</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sigillante Siliconico Neutro SikaSeal®-174 / 175 – Multiuso Antimuffa - Trasparente</Name>
     <Brand>Osculati</Brand>
     <Description>Il SikaSeal®-174 / 175 è un sigillante siliconico monocomponente a reticolazione neutra , progettato per offrire una sigillatura elastica e duratura in una vasta gamma di applicazioni, sia in interni che in esterni. A differenza dei siliconi acetici tradi</Description>
@@ -15935,7 +16020,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.27</Price>
     <Code>A5451010</Code>
     <Link>https://www.onautica.com/products/anello-con-perno-acciaio-inox-aisi-316?variant=52650528964955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316.webp?v=1774350511</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17030,7 +17115,7 @@ L 320mm. - Ø22</Name>
     <Price>7.67</Price>
     <Code>A521B14</Code>
     <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601303899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17534,7 +17619,7 @@ L 320mm. - Ø22</Name>
     <Price>9.09</Price>
     <Code>09.187.14</Code>
     <Link>https://www.onautica.com/products/moschettone-classico-inox-aisi-316?variant=52559560835419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/moschettone_inox.png?v=1773342026</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -19511,23 +19596,6 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>034223446833</EanCode>
     <Weight>4.88</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 70 - 66 lt.</Name>
-    <Brand>Igloo</Brand>
-    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
-    <OriginalPrice>179.20</OriginalPrice>
-    <Price>143.33</Price>
-    <Code>50.558.26</Code>
-    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035907419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica13.png?v=1773341723</Image>
-    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
@@ -22576,6 +22644,22 @@ L 320mm. - Ø22</Name>
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
   </Offer>
   <Offer>
+    <Name>Dischetti con velcro Ø 45 mm. per tessuti e rivestimenti 5 cp.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Dischetti maschio+femmina con velcro per fissare tessuti e rivestimenti. Caratteristiche: Ø 45 mm. Pezzi 5 coppie Caratteristiche principali Sistema di fissaggio a doppia componente: dischetto maschio e femmina per una chiusura sicura e rimovibile Forma c</Description>
+    <OriginalPrice>14.25</OriginalPrice>
+    <Price>10.55</Price>
+    <Code>3215006</Code>
+    <Link>https://www.onautica.com/products/dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp?variant=52577502298459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Guarnizioni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3215006.png?v=1773341863</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095244</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
     <Brand>Osculati</Brand>
     <Description>Il Fanale di Coperta Inox Rosso 112,5° è un fanale di navigazione in acciaio inossidabile, progettato per segnalare il lato di babordo dell&apos;imbarcazione con un angolo di copertura di 112,5°, in piena conformità con le normative internazionali COLREG . Gar</Description>
@@ -24161,6 +24245,23 @@ L 320mm. - Ø22</Name>
     <ParentID>giubbotto-salvagente-50n</ParentID>
   </Offer>
   <Offer>
+    <Name>Giubbetto di salvataggio aiuto Galleggiamento 50N - Rosso fluo-nero / 60&lt;&gt;70 kg</Name>
+    <Brand>Osculati</Brand>
+    <Description>Aiuto al galleggiamento 50 N (EN ISO 12402-5) progettato per sport acquatici e navigazione costiera: leggero, confortevole e immediato da indossare. Realizzato in espanso morbido ad alta densità, assicura ottima libertà di movimento per sci d’acqua, wakeb</Description>
+    <OriginalPrice>63.94</OriginalPrice>
+    <Price>37.61</Price>
+    <Code>22.474.03</Code>
+    <Link>https://www.onautica.com/products/giubbotto-salvagente-50n?variant=51634991726939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/PROMO_-_Giubbetto_70_Kg._rosso_XL_aiuto_galleggiamento_Dominator_Ski_-_50N_EN_ISO_12402-5.png?v=1773341968</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137044755</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.47x.XX.png?v=1773342004</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>giubbotto-salvagente-50n</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giubbetto di salvataggio aiuto Galleggiamento 50N - Rosso fluo-nero / 40&lt;&gt;60 kg</Name>
     <Brand>Osculati</Brand>
     <Description>Aiuto al galleggiamento 50 N (EN ISO 12402-5) progettato per sport acquatici e navigazione costiera: leggero, confortevole e immediato da indossare. Realizzato in espanso morbido ad alta densità, assicura ottima libertà di movimento per sci d’acqua, wakeb</Description>
@@ -25199,6 +25300,42 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-segnapasso-scena-a-bordo.webp?v=1783612861</Image3>
     <Condition>nuovo</Condition>
     <ParentID>luce-segnapasso-led-incasso-inox-ip68-palpebra</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Sinistro (Rosso)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
+    <OriginalPrice>19.87</OriginalPrice>
+    <Price>14.20</Price>
+    <Code>11.410.11</Code>
+    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52513539719515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011375</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>luci-via-classic-12-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Destro (Verde)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
+    <OriginalPrice>19.87</OriginalPrice>
+    <Price>14.20</Price>
+    <Code>11.410.12</Code>
+    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765344603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011382</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>luci-via-classic-12-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Prua (Bianco - Motor Light)</Name>
@@ -27558,7 +27695,7 @@ L 320mm. - Ø22</Name>
     <Price>20.52</Price>
     <Code>10800</Code>
     <Link>https://www.onautica.com/products/cera-protettiva-per-gommoni-iosso-raft-wax?variant=52577519796571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Detergenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.212.05.jpg?v=1773341910</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28860,7 +28997,7 @@ L 320mm. - Ø22</Name>
     <Price>21.90</Price>
     <Code>33.212.08</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517458968923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29188,7 +29325,7 @@ L 320mm. - Ø22</Name>
     <Price>27.48</Price>
     <Code>33.300.27</Code>
     <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52549712970075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misure.webp?v=1776246779</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -30712,6 +30849,23 @@ L 320mm. - Ø22</Name>
     <ParentID>serbatoio-di-espansione-seaflo</ParentID>
   </Offer>
   <Offer>
+    <Name>Shampoo biodegradabile universale IOSSO 1 lt.</Name>
+    <Brand>IOSSO</Brand>
+    <Description>Pulizia Profonda e Rispetto per l&apos;Ambiente in un Unico Prodotto Lo shampoo universale IOSSO è la soluzione ecologica e altamente efficace per la pulizia completa della tua imbarcazione. Formulato specificamente con tensioattivi di origine vegetale , quest</Description>
+    <OriginalPrice>29.20</OriginalPrice>
+    <Price>16.24</Price>
+    <Code>10798</Code>
+    <Link>https://www.onautica.com/products/shampoo-biodegradabile-universale-iosso?variant=52577519960411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Detergenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.212.04.jpg?v=1773341911</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8017369503518</EanCode>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>shampoo-biodegradabile-universale-iosso</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sistema di piastre a sgancio rapido GARMIN KRAKEN</Name>
     <Brand>Garmin</Brand>
     <Description>Il Sistema di piastre a sgancio rapido GARMIN KRAKEN garantisce un montaggio e smontaggio veloce e sicuro del tuo dispositivo Garmin. Progettato per offrire massima stabilità e resistenza, permette di fissare e rimuovere facilmente il dispositivo senza l’</Description>
@@ -30725,6 +30879,24 @@ L 320mm. - Ø22</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>sistema-di-piastre-a-sgancio-rapido-garmin-kraken</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzola a Mano Osculati – Spazzola Media con Passaggio Acqua per Lavaggio Coperta</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzola a mano i deale per il lavaggio frequente della coperta. Spazzola di media durezza, adatta a tutte le superfici. Tipo mm Spazzola con passaggio acqua, innesto a scatto standard 120x185 Caratteristiche principali Passaggio acqua integrato per un la</Description>
+    <OriginalPrice>11.10</OriginalPrice>
+    <Price>9.27</Price>
+    <Code>11004</Code>
+    <Link>https://www.onautica.com/products/spazzola-a-mano-osculati?variant=52577366376795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00.png?v=1773341481</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033731052538</EanCode>
+    <Weight>0.36</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00b.png?v=1773341481</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzola-a-mano-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Spazzola Flessibile per Pulizia Cime – Spazzola per Cime, Tubi e Cavi Ø 10-25 mm</Name>
@@ -32636,7 +32808,7 @@ L 320mm. - Ø22</Name>
     <Price>8.90</Price>
     <Code>10513</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-200-gr?variant=52577439514971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gelcoat_bianco_200_gr..png?v=1773341664</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -35012,6 +35184,25 @@ bocche Ø 14 mm.</Name>
     <ParentID>spazzola-boat-line</ParentID>
   </Offer>
   <Offer>
+    <Name>Spazzolone Osculati Special 195×85 mm Setole Medie Blu</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Osculati Special 195×85 mm Setole Medie Blu Spazzolone della linea Special Osculati con testa da 195 × 85 mm e setole medie di colore blu, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indica la dure</Description>
+    <OriginalPrice>26.10</OriginalPrice>
+    <Price>21.73</Price>
+    <Code>36.633.05</Code>
+    <Link>https://www.onautica.com/products/spazzolone-osculati-special-195-85-mm-setole-medie-blu?variant=53517781926235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.633.05.webp?v=1783358507</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052323</EanCode>
+    <Weight>0.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258064219_0.webp?v=1783542486</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258064219_1.webp?v=1783542489</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-osculati-special-195-85-mm-setole-medie-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole extra morbide di colore verde, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il c</Description>
@@ -36106,6 +36297,23 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-flessibile-pvc-spiralato-cavi-motori-fuoribordo-51mm-vendita-metroconboccola.webp?v=1777976125</Image3>
     <Condition>nuovo</Condition>
     <ParentID>boccola-plastica-bianca-raccordo-tubo-cavi-pozzetto-scafo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>boetta Luce led visibilità minima 3 miglia</Name>
+    <Brand>Osculati</Brand>
+    <Description>boetta Luce led visibilità minima 3 miglia La boetta luce LED con visibilità minima di 3 miglia è un accessorio di sicurezza pensato per il segnalamento in mare, ideale da abbinare ai salvagente anulari e ai ferri di cavallo. A chi è rivolto Adatto a dipo</Description>
+    <OriginalPrice>20.06</OriginalPrice>
+    <Price>14.33</Price>
+    <Code>30.592.01</Code>
+    <Link>https://www.onautica.com/products/boetta-luce-led-visibilita-minima-3-miglia?variant=52577421754715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boetta_Luce_led_visibilit_minima_3_miglia.png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>6974930070188</EanCode>
+    <Weight>0.15</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boetta-luce-led-visibilita-minima-3-miglia</ParentID>
   </Offer>
   <Offer>
     <Name>Boetta Luminosa Solas/MED Sirius – Attivazione Salina</Name>
@@ -38956,6 +39164,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
   </Offer>
   <Offer>
+    <Name>Sagola arancione per salvagente 30 mt.</Name>
+    <Brand>LALIZAS</Brand>
+    <Description>Sagola galleggiante per salvagenti regolamentare per navigazione da diporto. Caratteristiche: Ø 8 mm. lunghezza 30 mt. tenuta 400 kg. Caratteristiche principali Colore arancione ad alta visibilità per un recupero rapido in acqua Galleggiante: rimane in su</Description>
+    <OriginalPrice>8.40</OriginalPrice>
+    <Price>6.68</Price>
+    <Code>3009093</Code>
+    <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000071</EanCode>
+    <Weight>0.30</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>sagola-arancione-per-salvagente-o-8-mm-30-mt</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio</Name>
     <Brand>Motomarine</Brand>
     <Description>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio Sagola galleggiante di salvataggio lunga 30 metri , contenuta in una sacca impermeabile da lancio con maniglie . Si lancia verso una persona in mare per il recupero: la sagola galleggia e la sacc</Description>
@@ -38995,7 +39220,7 @@ bocche Ø 14 mm.</Name>
     <Price>33.09</Price>
     <Code>3008160</Code>
     <Link>https://www.onautica.com/products/salvagente-anulare-compatto-med-600-solas?variant=52577463468379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-compatto-med-600-solas.webp?v=1773477432</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -39689,23 +39914,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>La serie di Serbatoi Rigidi Rettangolari è realizzata in polietilene bianco di alta qualità, idoneo per il contenimento di acqua potabile. La forma regolare a sezione rettangolare li rende particolarmente versatili, adatti per essere installati nella part</Description>
-    <OriginalPrice>80.40</OriginalPrice>
-    <Price>67.02</Price>
-    <Code>52.194.50</Code>
-    <Link>https://www.onautica.com/products/serbatoio-acqua-potabile-rettangolare-polietilene?variant=52514394079579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-acqua-rettangolare-polietilene.webp?v=1770718056</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137157318</EanCode>
-    <Weight>3.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-acqua-potabile-rettangolare-polietilene</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
@@ -39975,7 +40183,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.19</Price>
     <Code>3009090</Code>
     <Link>https://www.onautica.com/products/staffa-universale-inox-salvagente-anulare?variant=52577489158491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/staffa-universale-inox-salvagente-anulare.webp?v=1773480511</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -40239,7 +40447,7 @@ bocche Ø 14 mm.</Name>
   <Offer>
     <Name>Timoneria T67 Bianco Ultraflex – Timoneria a Barra per Controllo Preciso del Timone</Name>
     <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T67 bianco Ultraflex rappresenta la soluzione ideale per chi cerca precisione e aff</Description>
+    <Description>��️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T67 bianco Ultraflex rappresenta la soluzione ideale per chi cerca precisione e af</Description>
     <OriginalPrice>101.49</OriginalPrice>
     <Price>70.97</Price>
     <Code>37925M</Code>
@@ -42829,6 +43037,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>nastro-adesivo-psp-dacron-spi-riparazione-vele</ParentID>
   </Offer>
   <Offer>
+    <Name>Piastre 420x340 mm. bianco salvapoppa PL angolate inclinazione 22&lt;1 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa tavoletta, parte della serie di Piastre proteggi poppa in plastica zigrinata, è un accessorio specializzato e non solo una protezione: è una piastra a cuneo progettata per variare l&apos;inclinazione del motore fuoribordo. È essenziale per ottimizzare l</Description>
+    <OriginalPrice>11.91</OriginalPrice>
+    <Price>8.51</Price>
+    <Code>4712245</Code>
+    <Link>https://www.onautica.com/products/tavoletta-proteggi-poppa-plastica-cuneo-motore?variant=52577471955291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tavoletta_proteggi_poppa_plastica_45_x_36_cm_b.png?v=1773341763</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008831</EanCode>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tavoletta_proteggi_poppa_plastica_45_x_36_cm.png?v=1773341764</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tavoletta-proteggi-poppa-plastica-cuneo-motore</ParentID>
+  </Offer>
+  <Offer>
     <Name>Piastre Salvapoppa in Plastica (450 x 360 mm) - Nero</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste piastre extra sono un accessorio protettivo essenziale per lo scafo, ideali per salvaguardare la poppa da urti, graffi e usura causati dal motore fuoribordo e dagli accessori. Caratteristiche Principali: Materiale: Realizzate in robusta Plastica . </Description>
@@ -42911,6 +43137,24 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/PIATTIDINNERESOUPVENTI4c.png?v=1762892799</Image3>
     <Condition>nuovo</Condition>
     <ParentID>piatti-dinner-e-soup-venti4-in-melamina-satinata</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portabicchieri a scatto su pulpiti o battagliole bianco</Name>
+    <Brand>Osculati</Brand>
+    <Description>Portabicchieri universali in plastica, progettati per un&apos;installazione rapida e sicura a scatto su pulpiti o battagliole. Ideali per tenere bevande a portata di mano durante la navigazione, si montano senza attrezzi e senza forare la barca. Disponibili in</Description>
+    <OriginalPrice>12.63</OriginalPrice>
+    <Price>9.02</Price>
+    <Code>48.430.08</Code>
+    <Link>https://www.onautica.com/products/portabicchieri-a-scatto-su-pulpiti-o-battagliole-bianco?variant=52577475166555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_a_scatto_su_pulpiti_o_battagliole_bianco.png?v=1773341774</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137042003</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_a_scatto_su_pulpiti_o_battagliole_bianco_1.png?v=1773341774</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portabicchieri_a_scatto_su_pulpiti_o_battagliole_bianco_3.png?v=1773341774</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portabicchieri-a-scatto-su-pulpiti-o-battagliole-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Portabicchieri clip bianco 22&lt;&gt;30 mm.</Name>
@@ -43882,6 +44126,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8014099040207</EanCode>
+    <Weight>1.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
     <Condition>nuovo</Condition>
     <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
@@ -46632,6 +46877,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte</ParentID>
   </Offer>
   <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
+    <OriginalPrice>109.00</OriginalPrice>
+    <Price>60.57</Price>
+    <Code>VIA91.07</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816950107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164941</EanCode>
+    <Weight>0.36</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bozzello Verticale Pivotante per Cime Barca a Vela - Ø 6 mm.</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello verticale pivotante progettato per una gestione efficiente e fluida delle linee sotto carico verticale. La configurazione pivotante consente un orientamento ottimale del carico senza l’uso di una sfera di testa, riducendo attrito e usura e miglio</Description>
@@ -46645,6 +46907,22 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-verticale-pivotante-per-cime-funi-cavi-nautica-industria</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bozzello Viadana 1 puleggia per Pulpito Plastinox - Ø 6 mm.</Name>
+    <Brand>Viadana</Brand>
+    <Description>Questa serie di bozzelli è realizzata con il sistema su **sfere in Delrin**, noto per garantire un basso attrito e un&apos;elevata efficienza, essenziale per la gestione delle manovre a bordo. Caratteristiche Principali e Materiali: Materiali: La carcassa è re</Description>
+    <OriginalPrice>28.90</OriginalPrice>
+    <Price>16.06</Price>
+    <Code>VIA10.60</Code>
+    <Link>https://www.onautica.com/products/bozzello-girevole-viadana-pulpito-candeliere?variant=52543696372059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzellocandelierepulpito.png?v=1764323110</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137163418</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-girevole-viadana-pulpito-candeliere</ParentID>
   </Offer>
   <Offer>
     <Name>Bozzello Viadana 1 puleggia per Pulpito Plastinox - Ø 8 mm.</Name>
@@ -46899,6 +47177,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>bozzello-viadana-con-arricavo-1-puleggia-plastinox</ParentID>
   </Offer>
   <Offer>
+    <Name>Bozzello Viadana con Arricavo 1 puleggia Plastinox - Ø 12 mm.</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzelli Serie Plastinox: affidabilità, scorrimento fluido e resistenza per ogni manovra di bordo Descrizione: Progettati per chi cerca prestazioni durature e manutenzione minima, i bozzelli della serie Plastinox uniscono la robustezza dell’ acciaio inox </Description>
+    <OriginalPrice>42.20</OriginalPrice>
+    <Price>23.46</Price>
+    <Code>VIA91.02</Code>
+    <Link>https://www.onautica.com/products/bozzello-viadana-con-arricavo-1-puleggia-plastinox?variant=52552786411867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bozzellosemplicearricavoviadanaonautica.png?v=1773341973</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164729</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-viadana-con-arricavo-1-puleggia-plastinox</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bozzello Viadana con Arricavo 2 pulegge Plastinox - Ø 8 mm.</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzelli Serie Plastinox: affidabilità, scorrevolezza e durata per le manovre a bordo Descrizione: Questi bozzelli uniscono la robustezza dell’acciaio inox AISI 316 alla leggerezza del nylon ad alta resistenza, offrendo un componente solido, fluido e dure</Description>
@@ -47072,6 +47366,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137007422</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
+    <OriginalPrice>34.02</OriginalPrice>
+    <Price>25.20</Price>
+    <Code>57.176.10</Code>
+    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-250mm?variant=52577515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-250mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007439</EanCode>
+    <Weight>0.32</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-winch-galleggiante-250mm</ParentID>
   </Offer>
   <Offer>
     <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
@@ -47917,6 +48228,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9788836102013.MAIN.jpg?v=1773341926</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>9788836102013</EanCode>
+    <Weight>0.40</Weight>
     <Condition>nuovo</Condition>
     <ParentID>9-isole-baleari-2-edizione-2024</ParentID>
   </Offer>
@@ -48015,22 +48327,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Boa_sub_380_mm._exp_2.png?v=1773341636</Image3>
     <Condition>nuovo</Condition>
     <ParentID>boa-sub-o-380-mm-exp</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Boccole Idrolub in Ottone per Assi Portaelica (Interno Metrico / Esterno Pollici) - Ø 25 mm. esterno 1&quot;1/2</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Boccole Idrolub sono componenti cruciali per il sistema di trasmissione, progettate per supportare gli assi portaelica e garantire la lubrificazione tramite acqua. Sono ideali per le imbarcazioni che presentano una combinazione di misurazioni metriche </Description>
-    <OriginalPrice>56.60</OriginalPrice>
-    <Price>35.35</Price>
-    <Code>4920025</Code>
-    <Link>https://www.onautica.com/products/boccole-ottone-assi-portaelica-idrolub-metrico-pollici?variant=52513486963035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BOCCOLEINOTTONEPERASSIPORTAELICA.png?v=1764430682</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626130204</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>boccole-ottone-assi-portaelica-idrolub-metrico-pollici</ParentID>
   </Offer>
   <Offer>
     <Name>Boccole Idrolub in Ottone per Assi Portaelica (Interno Metrico / Esterno Pollici) - Ø 30 mm. esterno 1&quot;3/4</Name>
