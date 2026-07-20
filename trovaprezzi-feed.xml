@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-18T11:46:53.695Z -->
-<!-- Offerte: 2920 -->
+<!-- Generato: 2026-07-20T06:31:43.177Z -->
+<!-- Offerte: 2923 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -6166,6 +6166,24 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>628309244866</EanCode>
     <Weight>0.29</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-400mm_misura.png?v=1773341569</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anodo_in_Barre_20x400_1.png?v=1773341617</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-barra-zinco-tonda-400mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Anodo in Barra Tonda di Zinco – Lunghezza 400 mm (Ø 10-18 mm) - Ø 12 mm.</Name>
+    <Brand>Martyr</Brand>
+    <Description>Le Barre di Zinco da 400 mm sono la soluzione ideale per realizzare protezioni galvaniche su misura o per applicazioni specifiche dove gli anodi standard non possono essere installati. Realizzate in Zinco puro , offrono una difesa efficace contro la corro</Description>
+    <OriginalPrice>17.32</OriginalPrice>
+    <Price>12.37</Price>
+    <Code>CMROD12500</Code>
+    <Link>https://www.onautica.com/products/anodo-barra-zinco-tonda-400mm?variant=52577395966299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-400mm.png?v=1773341569</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>628309268619</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-400mm_misura.png?v=1773341569</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anodo_in_Barre_20x400_1.png?v=1773341617</Image3>
     <Condition>nuovo</Condition>
@@ -13553,8 +13571,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Diluente Veneziani 6380 per Gummipaint – 0,5 lt.</Name>
     <Brand>Veneziani</Brand>
     <Description>Il Diluente Veneziani 6380 (Cod. 6380) nel formato da 0,5 Litri è un liquido volatile ad alte prestazioni formulato esclusivamente per l&apos;utilizzo con la linea di smalti e antivegetative elastomeriche Gummipaint e Gummipaint A/F (specifiche per gommoni e s</Description>
-    <OriginalPrice>21.54</OriginalPrice>
-    <Price>15.38</Price>
+    <OriginalPrice>18.11</OriginalPrice>
+    <Price>15.09</Price>
     <Code>65.012.00</Code>
     <Link>https://www.onautica.com/products/diluente-veneziani-6380-gummipaint-05l?variant=52577411957083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -13569,8 +13587,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Diluente Veneziani 6610 per Prodotti Epossidici – 0,5 lt.</Name>
     <Brand>Veneziani</Brand>
     <Description>Il Diluente Veneziani 6610 (Cod. 6610) nel pratico formato da 0,5 Litri è un liquido volatile ad alte prestazioni specificamente formulato per la gamma di prodotti epossidici Veneziani . L&apos;impiego del corretto diluente è un passaggio cruciale nella vernic</Description>
-    <OriginalPrice>15.15</OriginalPrice>
-    <Price>10.82</Price>
+    <OriginalPrice>12.21</OriginalPrice>
+    <Price>10.17</Price>
     <Code>65.013.00</Code>
     <Link>https://www.onautica.com/products/diluente-veneziani-6610-epossidici-05l?variant=52577412055387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13585,8 +13603,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Diluente Veneziani 6700 (0,5 L) – Specifico per Smalto Gel Gloss Pro</Name>
     <Brand>Veneziani</Brand>
     <Description>Il Diluente Veneziani 6700 nel pratico formato da 0,5 litri è la soluzione chimica appositamente formulata per garantire la perfetta applicazione dello smalto poliuretanico Gel Gloss Pro . L&apos;uso del diluente specifico e consigliato dalla casa madre è fond</Description>
-    <OriginalPrice>23.77</OriginalPrice>
-    <Price>16.98</Price>
+    <OriginalPrice>20.00</OriginalPrice>
+    <Price>16.66</Price>
     <Code>65.011.01</Code>
     <Link>https://www.onautica.com/products/diluente-veneziani-6700-05l-gel-gloss-pro?variant=52577411006811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -17017,6 +17035,23 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8051015130376</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>grillo-diritto-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Grillo diritto acciaio inox AISI 316 per applicazioni nautiche e fissaggi resistenti - Ø 16 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Affidabilità, resistenza e precisione: questo grillo a “D” in acciaio inox è progettato per garantire collegamenti sicuri in ambito nautico, ancoraggio e rigging, offrendo performance costanti anche in ambienti marini aggressivi. Costruzione premium per u</Description>
+    <OriginalPrice>15.93</OriginalPrice>
+    <Price>11.38</Price>
+    <Code>A521B16</Code>
+    <Link>https://www.onautica.com/products/grillo-diritto-inox-aisi-316?variant=52559601336667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4.png?v=1773341678</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051015130383</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-diritto-inox-aisi-316</ParentID>
@@ -22020,27 +22055,11 @@ L 320mm. - Ø22</Name>
     <ParentID>tubo-acciaio-inox-316-al-metro</ParentID>
   </Offer>
   <Offer>
-    <Name>Additivo benzina SB Startron benzina 250 ml.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>StarTron 250 ml Benzina mantiene stabile e pulita la benzina nei serbatoi. Con enzimi specializzati che polverizzano le molecole d’acqua presenti nel carburante, evitandone il deposito sul fondo del serbatoio. Pulisce i tubi di alimentazione, gli iniettor</Description>
-    <OriginalPrice>21.73</OriginalPrice>
-    <Price>15.52</Price>
-    <Code>5704585</Code>
-    <Link>https://www.onautica.com/products/additivo-benzina-sb-startron-benzina-250-ml-1?variant=52577412153691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Additivo_benzina_SB_Startron_benzina_250_ml..png?v=1773341611</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>071247930047</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>additivo-benzina-sb-startron-benzina-250-ml-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Additivo Benzina SB Startron Benzina 946 ml.</Name>
     <Brand>Motomarine</Brand>
     <Description>StarTron 250 ml Benzina mantiene stabile e pulita la benzina nei serbatoi. Con enzimi specializzati che polverizzano le molecole d’acqua presenti nel carburante, evitandone il deposito sul fondo del serbatoio. Pulisce i tubi di alimentazione, gli iniettor</Description>
-    <OriginalPrice>48.86</OriginalPrice>
-    <Price>34.90</Price>
+    <OriginalPrice>49.25</OriginalPrice>
+    <Price>35.18</Price>
     <Code>5704588</Code>
     <Link>https://www.onautica.com/products/offerta-additivo-benzina-sb-startron-benzina-946-ml?variant=49393267245403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -22055,8 +22074,8 @@ L 320mm. - Ø22</Name>
     <Name>Additivo diesel SB Startron diesel 250 ml.</Name>
     <Brand>Motomarine</Brand>
     <Description>StarTron Diesel è un additivo enzimatico ad alte prestazioni progettato per mantenere il gasolio stabile e pulito all&apos;interno dei serbatoi. Grazie a enzimi specializzati, polverizza le molecole d&apos;acqua presenti nel carburante impedendone il deposito sul f</Description>
-    <OriginalPrice>38.58</OriginalPrice>
-    <Price>27.56</Price>
+    <OriginalPrice>41.86</OriginalPrice>
+    <Price>29.90</Price>
     <Code>5704576</Code>
     <Link>https://www.onautica.com/products/offerta-additivo-diesel-sb-startron-diesel-250-ml?variant=52577455112539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -22261,6 +22280,37 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/13.240.80b.png?v=1773341633</Image2>
     <Condition>nuovo</Condition>
     <ParentID>basetta-inox-completa</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bocchettone di Scarico Inox MTM - Ø40mm</Name>
+    <Brand>MTM</Brand>
+    <Description>Bocchettone di Scarico Inox MTM Bocchettone di Scarico Inox MTM per la linea di scarico dei motori marini. Disponibile in 4 versioni. A chi è rivolto A chi deve installare o sostituire il bocchettone di uscita dello scarico sullo specchio di poppa. Quando</Description>
+    <OriginalPrice>49.60</OriginalPrice>
+    <Price>41.31</Price>
+    <Code>5004540</Code>
+    <Link>https://www.onautica.com/products/bocchettone-di-scarico-inox-mtm?variant=53617219371355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5004540.webp?v=1784373355</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626135308</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>bocchettone-di-scarico-inox-mtm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bocchettone di Scarico Inox MTM - Ø45mm</Name>
+    <Brand>MTM</Brand>
+    <Description>Bocchettone di Scarico Inox MTM Bocchettone di Scarico Inox MTM per la linea di scarico dei motori marini. Disponibile in 4 versioni. A chi è rivolto A chi deve installare o sostituire il bocchettone di uscita dello scarico sullo specchio di poppa. Quando</Description>
+    <OriginalPrice>55.30</OriginalPrice>
+    <Price>46.12</Price>
+    <Code>5004545</Code>
+    <Link>https://www.onautica.com/products/bocchettone-di-scarico-inox-mtm?variant=53617219404123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5004540.webp?v=1784373355</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>bocchettone-di-scarico-inox-mtm</ParentID>
   </Offer>
   <Offer>
     <Name>Boccole in ottone cromato per scalmiere - gambo Ø 12 mm.</Name>
@@ -25225,8 +25275,8 @@ L 320mm. - Ø22</Name>
     <Name>Marmita watermufflock 40/45/50 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La marmita watermufflock è una marmitta silenziata progettata per motori diesel da installazione nautica, ideale per ridurre efficacemente il rumore di scarico a bordo. Compatibile con tubi di scarico da 40, 45 e 50 mm , offre una soluzione versatile adat</Description>
-    <OriginalPrice>75.02</OriginalPrice>
-    <Price>52.46</Price>
+    <OriginalPrice>67.20</OriginalPrice>
+    <Price>56.02</Price>
     <Code>5003450</Code>
     <Link>https://www.onautica.com/products/marmita-watermufflock-40-45-50-mm?variant=52577451049307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26658,8 +26708,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Gas Combusti R.I.Na. / Lloyd&apos;s - Gomma Antifiamma/Acciaio - Ø 40x50 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo tubo è la soluzione professionale per gli **impianti di scarico dei gas combusti bagnati**, garantendo la massima sicurezza e conformità alle normative nautiche internazionali. Certificazioni e Materiali Avanzati: Omologazioni: Il tubo è omologato </Description>
-    <OriginalPrice>33.10</OriginalPrice>
-    <Price>22.04</Price>
+    <OriginalPrice>31.20</OriginalPrice>
+    <Price>20.77</Price>
     <Code>140334010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-gas-combusti-r-i-na-lloyds-gomma-antifiamma-acciaio?variant=52539957346651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26752,8 +26802,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 102x115 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>80.20</OriginalPrice>
-    <Price>53.45</Price>
+    <OriginalPrice>80.30</OriginalPrice>
+    <Price>53.50</Price>
     <Code>140360005</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986116955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26785,7 +26835,7 @@ L 320mm. - Ø22</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
     <OriginalPrice>106.90</OriginalPrice>
-    <Price>71.28</Price>
+    <Price>71.29</Price>
     <Code>140361210</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986182491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -27897,22 +27947,6 @@ L 320mm. - Ø22</Name>
     <ParentID>detergente-shampoo-tk-boat-cleaner-1-lt</ParentID>
   </Offer>
   <Offer>
-    <Name>Detergente Teak Wonder Cleaner – Pulizia Profonda (Non Caustico)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Teak Wonder Cleaner è il detergente potente studiato per risolvere il problema della pulizia del teak senza ricorrere a metodi drastici. Spesso, per rimuovere il grigio, si utilizzano carteggiature invasive o polveri estremamente caustiche che danneggi</Description>
-    <OriginalPrice>77.16</OriginalPrice>
-    <Price>38.58</Price>
-    <Code>9769</Code>
-    <Link>https://www.onautica.com/products/detergente-teak-wonder-cleaner-non-caustico?variant=52577464648027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/detergente-teak-wonder-cleaner-non-caustico.webp?v=1773341745</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8054956500086</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>detergente-teak-wonder-cleaner-non-caustico</ParentID>
-  </Offer>
-  <Offer>
     <Name>Detergente vetroresina CFG 750 ml.</Name>
     <Brand>CFG</Brand>
     <Description>Detergente Vetroresina CFG: Brillantezza Professionale e Protezione Totale per la Tua Barca! Mantieni la tua imbarcazione splendente come il primo giorno con il Detergente Vetroresina CFG , la soluzione professionale concentrata studiata per la cura compl</Description>
@@ -27961,24 +27995,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.388.50b.png?v=1773341921</Image2>
     <Condition>nuovo</Condition>
     <ParentID>filtro-per-pompa-attwood-16-410-84</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Guanto double-face boat line microfibra</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Speciale guanto in microfibra ideale per pulire ogni superficie in breve tempo. Un lato assorbe acqua e detergenti per una perfetta insaponatura e risciacquo. L’altro lato toglie lo sporco e le incrostazioni. Caratteristiche principali Double-face: due fu</Description>
-    <OriginalPrice>13.50</OriginalPrice>
-    <Price>7.52</Price>
-    <Code>5709174</Code>
-    <Link>https://www.onautica.com/products/guanto-double-face-boat-line?variant=52577444135259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Guanto_double-face_boat_line.png?v=1773341679</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626353399</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Guanto_double-face_boat_line_1.png?v=1773341680</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Guanto_double-face_boat_line_3.png?v=1773341681</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>guanto-double-face-boat-line</ParentID>
   </Offer>
   <Offer>
     <Name>Igienizzante per serbatoi Pulitank 1 lt.</Name>
@@ -28096,43 +28112,6 @@ L 320mm. - Ø22</Name>
     <ParentID>fissa-batteria-doppia-piastra</ParentID>
   </Offer>
   <Offer>
-    <Name>Kit Spazzolone Boat Line con Manico Telescopico Alluminio 100-180 cm</Name>
-    <Brand>Boat Line</Brand>
-    <Description>Kit Spazzolone Boat Line con Manico Telescopico Kit di pulizia Boat Line composto da spazzolone con manico telescopico. La spazzola è in polipropilene con fibre in PVC di alta qualità ; il manico telescopico in alluminio anodizzato si estende da 100 a 180</Description>
-    <OriginalPrice>22.00</OriginalPrice>
-    <Price>16.91</Price>
-    <Code>5709011</Code>
-    <Link>https://www.onautica.com/products/offerta-spazzolone-boat-line-kit-100-180-cm?variant=52577379320155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_0_3240.webp?v=1783783605</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626150882</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_1_3240.webp?v=1783783607</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_2_3240.webp?v=1783783610</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-spazzolone-boat-line-kit-100-180-cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Lama Togli-Acqua Osculati per Vetri e Parabrezza</Name>
-    <Brand>Osculati</Brand>
-    <Description>Lama Togli-Acqua Osculati per Vetri e Parabrezza Lama togli-acqua (tergivetro) Osculati per rimuovere rapidamente l’acqua da vetri, parabrezza e superfici lisce dopo il lavaggio o la pioggia. A chi è rivolto Per chi vuole asciugare in fretta vetri, parabr</Description>
-    <OriginalPrice>7.60</OriginalPrice>
-    <Price>6.32</Price>
-    <Code>36.640.01</Code>
-    <Link>https://www.onautica.com/products/lama-togli-acqua-osculati-per-vetri-e-parabrezza?variant=53517781270875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.640.01.webp?v=1783358478</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052552</EanCode>
-    <Weight>0.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257408859_0.webp?v=1783533463</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257408859_1.webp?v=1783533464</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>lama-togli-acqua-osculati-per-vetri-e-parabrezza</ParentID>
-  </Offer>
-  <Offer>
     <Name>Liquido deodorante antifermentativo Grey Water per acque grigie di camper e barche 1 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>La Soluzione Definitiva per Eliminare i Cattivi Odori dalle Acque Grigie &quot;Grey Water&quot; è un potente additivo liquido, specificamente formulato per il trattamento dei serbatoi delle acque grigie di camper e imbarcazioni. La sua azione mirata previene la for</Description>
@@ -28196,62 +28175,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8017369501811</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-lucidante-iosso-raft-lux-750-ml</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Manico Telescopico Osculati in Alluminio Anodizzato 90/160 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Manico Telescopico Osculati in Alluminio Anodizzato 90/160 cm Manico telescopico in alluminio anodizzato Osculati, che si estende da 90 a 160 cm. Ha l’attacco filettato universale per agganciare spazzoloni, moci e spazzole della linea Osculati. A chi è ri</Description>
-    <OriginalPrice>21.00</OriginalPrice>
-    <Price>17.53</Price>
-    <Code>36.631.01</Code>
-    <Link>https://www.onautica.com/products/manico-telescopico-osculati-in-alluminio-anodizzato-90-160-cm?variant=53517781369179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.631.01.webp?v=1783358481</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052484</EanCode>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257507163_0.webp?v=1783542445</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257507163_1.webp?v=1783542447</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>manico-telescopico-osculati-in-alluminio-anodizzato-90-160-cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Mocio Osculati ad Altissimo Assorbimento per Coperta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Mocio Osculati ad Altissimo Assorbimento per Coperta Mocio Osculati ad altissimo assorbimento per asciugare e pulire la coperta e le superfici della barca, trattenendo grandi quantità d’acqua. A chi è rivolto Per chi deve asciugare velocemente ampie super</Description>
-    <OriginalPrice>17.40</OriginalPrice>
-    <Price>14.52</Price>
-    <Code>36.638.01</Code>
-    <Link>https://www.onautica.com/products/mocio-osculati-ad-altissimo-assorbimento-per-coperta?variant=53517781467483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.638.01.webp?v=1783358486</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052521</EanCode>
-    <Weight>0.35</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257605467_0.webp?v=1783542450</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257605467_1.webp?v=1783542452</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>mocio-osculati-ad-altissimo-assorbimento-per-coperta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Mocio Osculati Super Assorbente a Strisce Larghe 7,5 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Mocio Osculati Super Assorbente a Strisce Larghe 7,5 cm Mocio Osculati super assorbente con strisce larghe da 7,5 cm: la maggiore superficie di contatto asciuga rapidamente coperta e pavimenti di bordo. A chi è rivolto Per chi vuole asciugare in fretta am</Description>
-    <OriginalPrice>36.30</OriginalPrice>
-    <Price>30.28</Price>
-    <Code>36.638.02</Code>
-    <Link>https://www.onautica.com/products/mocio-osculati-super-assorbente-a-strisce-larghe-7-5-cm?variant=53517781533019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.638.02.webp?v=1783358491</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257671003_0.webp?v=1783542459</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257671003_1.webp?v=1783542461</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>mocio-osculati-super-assorbente-a-strisce-larghe-7-5-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Nicchia compact con portello 165x210x80 mm.</Name>
@@ -28628,25 +28551,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Ossigenatore_Sea-Flow_800GHP_dritto_50_lt_min._12V_1.png?v=1773341734</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ossigenatore-seaflo-800gph-dritto</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Panni in Microfibra Osculati Boat Care – Confezione da 2 pz</Name>
-    <Brand>Osculati</Brand>
-    <Description>Panni in Microfibra Osculati Boat Care – Confezione da 2 pz Confezione da 2 panni in microfibra Boat Care Osculati per pulire, asciugare e lucidare le superfici della barca senza graffiare. Trattengono polvere e sporco e si usano a secco o umidi. A chi è </Description>
-    <OriginalPrice>12.30</OriginalPrice>
-    <Price>10.26</Price>
-    <Code>65.230.40</Code>
-    <Link>https://www.onautica.com/products/panni-in-microfibra-osculati-boat-care-confezione-da-2-pz?variant=53517781664091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.230.40.webp?v=1783358497</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137063619</EanCode>
-    <Weight>0.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257802075_0.webp?v=1783542465</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257802075_1.webp?v=1783542468</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>panni-in-microfibra-osculati-boat-care-confezione-da-2-pz</ParentID>
   </Offer>
   <Offer>
     <Name>Panno assorbente bilge per sentina 190 gr.</Name>
@@ -30754,22 +30658,6 @@ L 320mm. - Ø22</Name>
     <ParentID>ripartitore-di-carica-70a-12-24v-mtm-electronic-corrente</ParentID>
   </Offer>
   <Offer>
-    <Name>Sbiancante Teak Wonder Brightener – Schiarente Istantaneo (Step 2)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Teak Wonder Brightener è uno schiarente tecnico formulato per eliminare le ombrature e le zone scure che possono persistere sul legno anche dopo una pulizia profonda. Sebbene non sia sempre necessario su legni nuovi, il suo utilizzo su superfici &quot;vissu</Description>
-    <OriginalPrice>54.01</OriginalPrice>
-    <Price>38.58</Price>
-    <Code>10576</Code>
-    <Link>https://www.onautica.com/products/sbiancante-teak-wonder-brightener?variant=52577464615259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sbiancante-teak-wonder-brightener.webp?v=1773341745</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8054956500093</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>sbiancante-teak-wonder-brightener</ParentID>
-  </Offer>
-  <Offer>
     <Name>Secchio Pop-Up Nautico Pieghevole 11 Litri Arancio</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Secchio Pop-Up è un accessorio intelligente e indispensabile a bordo di qualsiasi imbarcazione. Concepito per ottimizzare gli spazi spesso ridotti dei gavoni nautici, questo secchio pieghevole offre tutta la capienza e la praticità di un contenitore tr</Description>
@@ -30839,22 +30727,6 @@ L 320mm. - Ø22</Name>
     <ParentID>sistema-di-piastre-a-sgancio-rapido-garmin-kraken</ParentID>
   </Offer>
   <Offer>
-    <Name>Spazzola Boat Line per Pulizia Barca – Corpo in PVC con Bordo in Gomma Antiurto</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Spazzola Boat Line è progettata per affrontare lo sporco più ostinato e le incrostazioni più tenaci a bordo. Il corpo robusto in PVC garantisce durabilità nel tempo, mentre il bordo in gomma antiurto protegge le superfici della barca durante l&apos;utilizzo</Description>
-    <OriginalPrice>11.55</OriginalPrice>
-    <Price>8.25</Price>
-    <Code>5709168</Code>
-    <Link>https://www.onautica.com/products/spazzola-boat-line?variant=52577487847771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Spazzola_boat_line.png?v=1773341819</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626353375</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzola-boat-line</ParentID>
-  </Offer>
-  <Offer>
     <Name>Spazzola Flessibile per Pulizia Cime – Spazzola per Cime, Tubi e Cavi Ø 10-25 mm</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzola per pulizia f lessibile per pulire cime ormeggio, tubi, acqua, cavi elettrici, ecc. Utilizzabile per Ø da 10 a 25 mm. Caratteristiche principali Forma flessibile che si adatta alla superficie da pulire senza danneggiare i materiali Compatibile co</Description>
@@ -30872,101 +30744,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.639.01c.png?v=1773341481</Image3>
     <Condition>nuovo</Condition>
     <ParentID>spazzola-per-pulizia-cime</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole extra morbide di colore verde, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il c</Description>
-    <OriginalPrice>30.40</OriginalPrice>
-    <Price>25.33</Price>
-    <Code>36.634.01</Code>
-    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde?variant=53517782384987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.01.webp?v=1783358521</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137225444</EanCode>
-    <Weight>0.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_0.webp?v=1783542524</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_1.webp?v=1783542526</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Osculati Special 250×90 mm Setole Medie Blu</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Osculati Special 250×90 mm Setole Medie Blu Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole medie di colore blu, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indica la dure</Description>
-    <OriginalPrice>30.40</OriginalPrice>
-    <Price>25.33</Price>
-    <Code>36.634.05</Code>
-    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-medie-blu?variant=53517782024539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.05.webp?v=1783358512</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052347</EanCode>
-    <Weight>0.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258162523_0.webp?v=1783542499</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258162523_1.webp?v=1783542502</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-osculati-special-250-90-mm-setole-medie-blu</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Osculati Special 250×90 mm Setole Morbide Giallo</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Osculati Special 250×90 mm Setole Morbide Giallo Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole morbide di colore giallo, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indi</Description>
-    <OriginalPrice>30.40</OriginalPrice>
-    <Price>25.33</Price>
-    <Code>36.634.03</Code>
-    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-morbide-giallo?variant=53517782188379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.03.webp?v=1783358516</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052330</EanCode>
-    <Weight>0.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258293595_0.webp?v=1783542511</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258293595_1.webp?v=1783542514</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-osculati-special-250-90-mm-setole-morbide-giallo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Telescopico Osculati Bi-Level 117/180 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Telescopico Osculati Bi-Level 117/180 cm Spazzolone telescopico Osculati Bi-Level: spazzola e manico estensibile da 117 a 180 cm in un unico strumento. La regolazione Bi-Level orienta la testa su due posizioni. A chi è rivolto Per chi vuole lav</Description>
-    <OriginalPrice>23.50</OriginalPrice>
-    <Price>19.56</Price>
-    <Code>36.191.02</Code>
-    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-bi-level-117-180-cm?variant=53517782614363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.02.webp?v=1783358525</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052293</EanCode>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_0.webp?v=1783542536</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_1.webp?v=1783542539</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
-    <OriginalPrice>26.10</OriginalPrice>
-    <Price>21.75</Price>
-    <Code>36.191.03</Code>
-    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-five-level-117-180-cm?variant=53517782810971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.03.webp?v=1783358529</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052309</EanCode>
-    <Weight>0.75</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_0.webp?v=1783542547</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_1.webp?v=1783542549</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-telescopico-osculati-five-level-117-180-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Strips antiscivolo 3 mt. bianco nastro antiscivolo</Name>
@@ -31100,23 +30877,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Tasca_laterale_420x170x100_mm._bianco_0.png?v=1773341746</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-tasca-laterale-420x170x100-mm-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Teak Wonder combo pak pulitore/sbiancante 2x1 lt.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il TEAK WONDER Combo Pack è la soluzione indispensabile per la pulizia profonda e il ripristino dell&apos;aspetto &quot;nuovo&quot; del teak della tua imbarcazione. Questo kit combinato permette di eliminare il grigio accumulatosi e riscoprire lo splendido colore dorato</Description>
-    <OriginalPrice>36.01</OriginalPrice>
-    <Price>25.72</Price>
-    <Code>5735305</Code>
-    <Link>https://www.onautica.com/products/teak-wonder-combo-pack-pulitore-sbiancante?variant=52577465303387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/teak-wonder-combo-pack-cleaner-brightener.png?v=1773341746</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626193698</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/teak-wonder-combo-pack-cleaner-brightener_confezione.png?v=1773341747</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>teak-wonder-combo-pack-pulitore-sbiancante</ParentID>
   </Offer>
   <Offer>
     <Name>Teak Wonder Dressing &amp; Sealer – Protettivo Non Oleoso (Effetto Dorato) - 1 litro</Name>
@@ -31254,22 +31014,6 @@ L 320mm. - Ø22</Name>
     <ParentID>vano-portaoggetti-364x183x75-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Basetta passante per doccette cromata</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Basetta passante per doccette cromata La basetta passante per doccette cromata è un accessorio per il fissaggio e il passaggio del tubo della doccetta, progettato per garantire un&apos;installazione ordinata e resistente a bordo. A chi è rivolto Ideale per arm</Description>
-    <OriginalPrice>12.72</OriginalPrice>
-    <Price>9.09</Price>
-    <Code>1513184</Code>
-    <Link>https://www.onautica.com/products/basetta-passante-per-doccette-cromata?variant=52577420214619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Basetta_passante_per_doccette_cromata.png?v=1773341632</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626213532</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>basetta-passante-per-doccette-cromata</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boccole Recuperabili per Tubo Oleodinamico R2T in Acciaio al Carbonio - R2 - 3/8&quot;</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Boccole Recuperabili AC R2T sono componenti essenziali per l&apos;assemblaggio di tubazioni oleodinamiche senza l&apos;utilizzo di pressatrici industriali. Realizzate in robusto Acciaio al Carbonio , garantiscono elevata resistenza alla pressione e durata nel te</Description>
@@ -31302,23 +31046,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_2.png?v=1773341636</Image3>
     <Condition>nuovo</Condition>
     <ParentID>box-doccetta-uni-s</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Box Doccetta Dritta da Incasso per Barca – Contenitore in Plastica Anti-UV</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore box in plastica antiurto e resistente ai raggi UV, progettato per l’incasso di doccette. Installazione verticale. Da completare con doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70 97 65 Caratteristiche principali P</Description>
-    <OriginalPrice>11.44</OriginalPrice>
-    <Price>8.17</Price>
-    <Code>1513603</Code>
-    <Link>https://www.onautica.com/products/box-doccetta-dritta-246?variant=52577421590875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246.png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626259042</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246_1.png?v=1773341635</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>box-doccetta-dritta-246</ParentID>
   </Offer>
   <Offer>
     <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
@@ -31357,23 +31084,6 @@ L 320mm. - Ø22</Name>
     <ParentID>box-doccetta-round-universal</ParentID>
   </Offer>
   <Offer>
-    <Name>Box Doccetta Tondo da Incasso per Barca – Contenitore con Chiusura Morbida</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore tondo da incasso in plastica per doccette, dotato di chiusura morbida. Si completa con doccetta ( 1 getto ) e tubo flessibile a scelta. incasso mm. esterno mm. altezza mm. 57 77 65 Caratteristiche principali Design tondo a incasso per un&apos;insta</Description>
-    <OriginalPrice>10.15</OriginalPrice>
-    <Price>7.25</Price>
-    <Code>1513600</Code>
-    <Link>https://www.onautica.com/products/box-doccetta-round?variant=52577421689179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round_2.png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626043542</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round.png?v=1773341635</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>box-doccetta-round</ParentID>
-  </Offer>
-  <Offer>
     <Name>Box per innesto rapido per tubo doccetta</Name>
     <Brand>Motomarine</Brand>
     <Description>Contenitore box tondo da incasso con innesto rapido da 3/8&quot; per tubo della doccetta, ideale per collegare e scollegare rapidamente la doccetta dalla presa. ø Esterno mm Dim incasso mm 97 Ø70xH40 Caratteristiche principali Innesto rapido da 3/8&quot; per connes</Description>
@@ -31390,22 +31100,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_innesto_rapido_doccia_3.png?v=1773341637</Image3>
     <Condition>nuovo</Condition>
     <ParentID>box-innesto-rapido-doccia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Box per Miscelatore da Incasso Bianco – Contenitore in Plastica UV per Rubinetto</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore box progettato per miscelatori da incasso, realizzato in plastica antiurto con resistenza ai raggi UV. Può essere installato sia in posizione verticale che orizzontale. Completa la dotazione con il miscelatore modello 1511112 . Ø int. mm. Ø es</Description>
-    <OriginalPrice>15.40</OriginalPrice>
-    <Price>9.09</Price>
-    <Code>1511111</Code>
-    <Link>https://www.onautica.com/products/box-miscelatore?variant=52577371685211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1511111.png?v=1773341507</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685132689</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>box-miscelatore</ParentID>
   </Offer>
   <Offer>
     <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - DR7EA NGK</Name>
@@ -31996,72 +31690,6 @@ L 320mm. - Ø22</Name>
     <ParentID>cartuccia-per-filtro-mercury-mercruiser-35-60494a4-35-807172a4-35-802893q4-e-volvo-penta-855686-2</ParentID>
   </Offer>
   <Offer>
-    <Name>Contenitore Stagno Waterproof 15 lt – Custodia Cilindrica Impermeabile da Bordo</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore cilindrico stagno da 15 litri , ideale per conservare in totale sicurezza a bordo artifizi da segnalazione, medicinali, documenti e effetti personali. Grazie alla costruzione impermeabile, protegge il contenuto dall&apos;acqua e dall&apos;umidità anche </Description>
-    <OriginalPrice>42.38</OriginalPrice>
-    <Price>30.27</Price>
-    <Code>3030815</Code>
-    <Link>https://www.onautica.com/products/contenitore-waterproof-15-lt?variant=52577431552347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_15_lt..png?v=1773341649</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685132870</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_15_lt._1.png?v=1773341649</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>contenitore-waterproof-15-lt</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Contenitore Stagno Waterproof 8 lt – Custodia Cilindrica Impermeabile da Bordo</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Contenitore cilindrico stagno da 8 litri , ideale per conservare in totale sicurezza a bordo artifizi da segnalazione, medicinali, documenti e altri effetti personali che non devono entrare in contatto con l&apos;acqua. Caratteristiche principali Forma cilindr</Description>
-    <OriginalPrice>36.29</OriginalPrice>
-    <Price>25.92</Price>
-    <Code>3030808</Code>
-    <Link>https://www.onautica.com/products/contenitore-waterproof-8-lt?variant=52577433387355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_8_lt..png?v=1773341650</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685132856</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_8_lt._1.png?v=1773341651</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>contenitore-waterproof-8-lt</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 3 uscite</Name>
-    <Brand>Quick</Brand>
-    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
-    <OriginalPrice>154.47</OriginalPrice>
-    <Price>106.53</Price>
-    <Code>1205312</Code>
-    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074002779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057090096842</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 4 uscite</Name>
-    <Brand>Quick</Brand>
-    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
-    <OriginalPrice>174.96</OriginalPrice>
-    <Price>120.66</Price>
-    <Code>1205012</Code>
-    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074068315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057090096910</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
-  </Offer>
-  <Offer>
     <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
     <Brand>Motomarine</Brand>
     <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
@@ -32094,6 +31722,22 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626039620</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>dadi-esagonali-in-ottone-per-presa-a-mare-ombrinale</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Detergente Teak Wonder Cleaner – Pulizia Profonda (Non Caustico)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Teak Wonder Cleaner è il detergente potente studiato per risolvere il problema della pulizia del teak senza ricorrere a metodi drastici. Spesso, per rimuovere il grigio, si utilizzano carteggiature invasive o polveri estremamente caustiche che danneggi</Description>
+    <OriginalPrice>77.16</OriginalPrice>
+    <Price>38.58</Price>
+    <Code>9769</Code>
+    <Link>https://www.onautica.com/products/detergente-teak-wonder-cleaner-non-caustico?variant=52577464648027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/detergente-teak-wonder-cleaner-non-caustico.webp?v=1773341745</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8054956500086</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>detergente-teak-wonder-cleaner-non-caustico</ParentID>
   </Offer>
   <Offer>
     <Name>Doccetta Duo Switch in ABS Bianco - 2 Getti</Name>
@@ -33296,6 +32940,24 @@ L 320mm. - Ø22</Name>
     <ParentID>gomito-maschio-femmina-in-ottone</ParentID>
   </Offer>
   <Offer>
+    <Name>Guanto double-face boat line microfibra</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Speciale guanto in microfibra ideale per pulire ogni superficie in breve tempo. Un lato assorbe acqua e detergenti per una perfetta insaponatura e risciacquo. L’altro lato toglie lo sporco e le incrostazioni. Caratteristiche principali Double-face: due fu</Description>
+    <OriginalPrice>13.50</OriginalPrice>
+    <Price>7.52</Price>
+    <Code>5709174</Code>
+    <Link>https://www.onautica.com/products/guanto-double-face-boat-line?variant=52577444135259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Guanto_double-face_boat_line.png?v=1773341679</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626353399</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Guanto_double-face_boat_line_1.png?v=1773341680</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Guanto_double-face_boat_line_3.png?v=1773341681</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>guanto-double-face-boat-line</ParentID>
+  </Offer>
+  <Offer>
     <Name>Innesti Carburante Johnson/Evinrude - Serie Completa Maschio e Femmina - Innesto Maschio per Serbatoio</Name>
     <Brand>Evinrude</Brand>
     <Description>Questa serie di innesti è essenziale per la sicurezza e l&apos;affidabilità del sistema di alimentazione del tuo motore fuoribordo, garantendo un collegamento rapido e a tenuta stagna tra il serbatoio e il motore. Guida alle Varianti (Innesti Maschi e Femmina)</Description>
@@ -33449,6 +33111,62 @@ L 320mm. - Ø22</Name>
     <EanCode>8033745210245</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>kit-resina-e-lana-di-vetro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Spazzolone Boat Line con Manico Telescopico Alluminio 100-180 cm</Name>
+    <Brand>Boat Line</Brand>
+    <Description>Kit Spazzolone Boat Line con Manico Telescopico Kit di pulizia Boat Line composto da spazzolone con manico telescopico. La spazzola è in polipropilene con fibre in PVC di alta qualità ; il manico telescopico in alluminio anodizzato si estende da 100 a 180</Description>
+    <OriginalPrice>22.00</OriginalPrice>
+    <Price>16.91</Price>
+    <Code>5709011</Code>
+    <Link>https://www.onautica.com/products/offerta-spazzolone-boat-line-kit-100-180-cm?variant=52577379320155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_0_3240.webp?v=1783783605</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626150882</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_1_3240.webp?v=1783783607</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_2_3240.webp?v=1783783610</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-spazzolone-boat-line-kit-100-180-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Lama Togli-Acqua Osculati per Vetri e Parabrezza</Name>
+    <Brand>Osculati</Brand>
+    <Description>Lama Togli-Acqua Osculati per Vetri e Parabrezza Lama togli-acqua (tergivetro) Osculati per rimuovere rapidamente l’acqua da vetri, parabrezza e superfici lisce dopo il lavaggio o la pioggia. A chi è rivolto Per chi vuole asciugare in fretta vetri, parabr</Description>
+    <OriginalPrice>7.60</OriginalPrice>
+    <Price>6.32</Price>
+    <Code>36.640.01</Code>
+    <Link>https://www.onautica.com/products/lama-togli-acqua-osculati-per-vetri-e-parabrezza?variant=53517781270875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.640.01.webp?v=1783358478</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052552</EanCode>
+    <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257408859_0.webp?v=1783533463</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257408859_1.webp?v=1783533464</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>lama-togli-acqua-osculati-per-vetri-e-parabrezza</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manico Telescopico Osculati in Alluminio Anodizzato 90/160 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Manico Telescopico Osculati in Alluminio Anodizzato 90/160 cm Manico telescopico in alluminio anodizzato Osculati, che si estende da 90 a 160 cm. Ha l’attacco filettato universale per agganciare spazzoloni, moci e spazzole della linea Osculati. A chi è ri</Description>
+    <OriginalPrice>21.00</OriginalPrice>
+    <Price>17.53</Price>
+    <Code>36.631.01</Code>
+    <Link>https://www.onautica.com/products/manico-telescopico-osculati-in-alluminio-anodizzato-90-160-cm?variant=53517781369179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.631.01.webp?v=1783358481</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052484</EanCode>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257507163_0.webp?v=1783542445</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257507163_1.webp?v=1783542447</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>manico-telescopico-osculati-in-alluminio-anodizzato-90-160-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Manicotto Filettato in Acciaio Inox AISI 316 – Raccorderia Gas - 1&quot;</Name>
@@ -33626,40 +33344,41 @@ L 320mm. - Ø22</Name>
     <ParentID>miscelatore-elka-lavello-doccetta-estraibile-shut-off</ParentID>
   </Offer>
   <Offer>
-    <Name>Musone a Ribalta Pesante Classic Osculati in Acciaio Inox 304 Lucidato per Ancore Delta, Bruce, Trefoil, CQR, SOC - Tipo 3 (ancore max 10 kg) — A 330 mm</Name>
+    <Name>Mocio Osculati ad Altissimo Assorbimento per Coperta</Name>
     <Brand>Osculati</Brand>
-    <Description>Musone a Ribalta Pesante &quot;Classic&quot; Osculati in Acciaio Inox 304 Lucidato Il musone a ribalta pesante Classic di Osculati è il sistema professionale per ancorare la cima e proteggere la prua dall&apos;attrito di catena e ancora durante le manovre di salpamento.</Description>
-    <OriginalPrice>183.04</OriginalPrice>
-    <Price>140.80</Price>
-    <Code>01.333.01</Code>
-    <Link>https://www.onautica.com/products/musone-a-ribalta-pesante-classic-osculati-in-acciaio-inox-304-lucidato-per-ancore-delta-bruce-trefoil-cqr-soc?variant=52988318843227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Description>Mocio Osculati ad Altissimo Assorbimento per Coperta Mocio Osculati ad altissimo assorbimento per asciugare e pulire la coperta e le superfici della barca, trattenendo grandi quantità d’acqua. A chi è rivolto Per chi deve asciugare velocemente ampie super</Description>
+    <OriginalPrice>17.40</OriginalPrice>
+    <Price>14.52</Price>
+    <Code>36.638.01</Code>
+    <Link>https://www.onautica.com/products/mocio-osculati-ad-altissimo-assorbimento-per-coperta?variant=53517781467483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-ribalta-pesante-classic-osculati-inox-304-vista-principale.webp?v=1778864909</Image>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.638.01.webp?v=1783358486</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137197789</EanCode>
-    <Weight>3.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-ribalta-pesante-classic-osculati-schema-misure-a-b-c.webp?v=1778864912</Image2>
+    <EanCode>8033137052521</EanCode>
+    <Weight>0.35</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257605467_0.webp?v=1783542450</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257605467_1.webp?v=1783542452</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>musone-a-ribalta-pesante-classic-osculati-in-acciaio-inox-304-lucidato-per-ancore-delta-bruce-trefoil-cqr-soc</ParentID>
+    <ParentID>mocio-osculati-ad-altissimo-assorbimento-per-coperta</ParentID>
   </Offer>
   <Offer>
-    <Name>Musone di Prua a Bascula in Acciaio Inox AISI 316 con Spina di Sicurezza</Name>
+    <Name>Mocio Osculati Super Assorbente a Strisce Larghe 7,5 cm</Name>
     <Brand>Osculati</Brand>
-    <Description>Il Musone a Ribalta con Spina di Sicurezza è un componente di prua indispensabile per una gestione fluida e sicura dell&apos;ancoraggio. Realizzato interamente in Acciaio Inox AISI 316 , offre una protezione totale contro la corrosione marina, garantendo una b</Description>
-    <OriginalPrice>109.43</OriginalPrice>
-    <Price>75.47</Price>
-    <Code>01.419.00</Code>
-    <Link>https://www.onautica.com/products/musone-prua-basculante-inox-316-spina-sicurezza?variant=52577461174619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Description>Mocio Osculati Super Assorbente a Strisce Larghe 7,5 cm Mocio Osculati super assorbente con strisce larghe da 7,5 cm: la maggiore superficie di contatto asciuga rapidamente coperta e pavimenti di bordo. A chi è rivolto Per chi vuole asciugare in fretta am</Description>
+    <OriginalPrice>36.30</OriginalPrice>
+    <Price>30.28</Price>
+    <Code>36.638.02</Code>
+    <Link>https://www.onautica.com/products/mocio-osculati-super-assorbente-a-strisce-larghe-7-5-cm?variant=53517781533019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezza.webp?v=1775574598</Image>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.638.02.webp?v=1783358491</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137000287</EanCode>
-    <Weight>1.65</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezzaschema.webp?v=1775574596</Image2>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257671003_0.webp?v=1783542459</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257671003_1.webp?v=1783542461</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>musone-prua-basculante-inox-316-spina-sicurezza</ParentID>
+    <ParentID>mocio-osculati-super-assorbente-a-strisce-larghe-7-5-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Nipple Maschio-Maschio in Acciaio Inox AISI 316 - 1&quot;</Name>
@@ -33802,6 +33521,25 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ombrinale-scarico-telescopico-50mm-solo-valvola-non-ritorno.png?v=1771954915</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ombrinale-scarico-telescopico-50mm-valvola-non-ritorno</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Panni in Microfibra Osculati Boat Care – Confezione da 2 pz</Name>
+    <Brand>Osculati</Brand>
+    <Description>Panni in Microfibra Osculati Boat Care – Confezione da 2 pz Confezione da 2 panni in microfibra Boat Care Osculati per pulire, asciugare e lucidare le superfici della barca senza graffiare. Trattengono polvere e sporco e si usano a secco o umidi. A chi è </Description>
+    <OriginalPrice>12.30</OriginalPrice>
+    <Price>10.26</Price>
+    <Code>65.230.40</Code>
+    <Link>https://www.onautica.com/products/panni-in-microfibra-osculati-boat-care-confezione-da-2-pz?variant=53517781664091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.230.40.webp?v=1783358497</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137063619</EanCode>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257802075_0.webp?v=1783542465</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573257802075_1.webp?v=1783542468</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>panni-in-microfibra-osculati-boat-care-confezione-da-2-pz</ParentID>
   </Offer>
   <Offer>
     <Name>Passascafi lunghi Ø 22,7/30 mm. int./est. 100 mm. L con portagomma grigio filettati plastica</Name>
@@ -33992,22 +33730,6 @@ bocche Ø 14 mm.</Name>
     <Weight>0.07</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompetta-benzina-o-8-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Porta Smartphone Stagno Bianco 15x8 cm – Custodia Impermeabile Touch fino a 6 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Contenitori stagni per cellulari, i-Pod, i-Phone, GPS, VHF, macchine fotografiche, ecc.... stagni fino a 6 m. Compatibili con tecnologia touch screen. Caratteristiche principali Colorazione bianca, facile da individuare anche in condizioni di scarsa visib</Description>
-    <OriginalPrice>27.63</OriginalPrice>
-    <Price>19.73</Price>
-    <Code>23.500.02</Code>
-    <Link>https://www.onautica.com/products/porta-smartphone-bianco-15x8-cm?variant=52577474806107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Porta_smartphone_bianco_15x8_cm..png?v=1773341774</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051827524592</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>porta-smartphone-bianco-15x8-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Portagomma Maschio Filettato in Acciaio Inox AISI 316 - 1/2&quot;x20</Name>
@@ -34904,40 +34626,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Dimensioni precise: lunghezza 49 mm, diametro 61 mm, foro da 13 mm per un montaggio esatto Ricambio originale compatibile con salpa ancore elettrici e musoni di prua </Description>
-    <OriginalPrice>13.92</OriginalPrice>
-    <Price>9.94</Price>
-    <Code>01.519.02</Code>
-    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia?variant=52577484407131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_61_mm._-_foro_13_mm._puleggia.png?v=1773341805</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137003691</EanCode>
-    <Weight>0.05</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Rullo di ricambio specifico per salpa ancore elettrici e musoni di prua Dimensioni precise per una sostituzione diretta senza modifiche Foro centrale da Ø 13 mm per u</Description>
-    <OriginalPrice>21.55</OriginalPrice>
-    <Price>15.39</Price>
-    <Code>01.519.01</Code>
-    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia?variant=52577484767579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_86_mm._-_foro_13_mm._puleggia.png?v=1773341806</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137003684</EanCode>
-    <Weight>0.05</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sacca per alloggiamento tubo doccia</Name>
     <Brand>Osculati</Brand>
     <Description>Una pratica sacca in rete plastica per contenere il tubo della doccia sottocoperta evitando che vada ad incattivirsi nelle attrezzature rendendo difficile l&apos;estrazione della doccia. Facile da fissare e adattare alle varie situazioni. Caratteristiche princ</Description>
@@ -34954,58 +34642,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_per_alloggiamento_tubo_doccia_4.png?v=1773341810</Image3>
     <Condition>nuovo</Condition>
     <ParentID>sacca-per-alloggiamento-tubo-doccia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sacca stagna impermeabile per protezione attrezzature e materiali outdoor - 250x500 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa sacca stagna è l’accessorio indispensabile per chi vive la nautica e le attività outdoor: protegge in modo affidabile oggetti di valore, abbigliamento, dispositivi elettronici e documenti da acqua, sabbia e polvere, rivelandosi ideale per barca, ka</Description>
-    <OriginalPrice>14.20</OriginalPrice>
-    <Price>10.14</Price>
-    <Code>23.765.01</Code>
-    <Link>https://www.onautica.com/products/sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor?variant=52545024655707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_stagna_400x700_mm..png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042928</EanCode>
-    <Weight>0.14</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sacca stagna impermeabile per protezione attrezzature e materiali outdoor - 300x600 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa sacca stagna è l’accessorio indispensabile per chi vive la nautica e le attività outdoor: protegge in modo affidabile oggetti di valore, abbigliamento, dispositivi elettronici e documenti da acqua, sabbia e polvere, rivelandosi ideale per barca, ka</Description>
-    <OriginalPrice>15.22</OriginalPrice>
-    <Price>10.87</Price>
-    <Code>23.765.02</Code>
-    <Link>https://www.onautica.com/products/sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor?variant=52545024688475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_stagna_400x700_mm..png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042935</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sacca stagna impermeabile per protezione attrezzature e materiali outdoor - 400x700 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa sacca stagna è l’accessorio indispensabile per chi vive la nautica e le attività outdoor: protegge in modo affidabile oggetti di valore, abbigliamento, dispositivi elettronici e documenti da acqua, sabbia e polvere, rivelandosi ideale per barca, ka</Description>
-    <OriginalPrice>18.64</OriginalPrice>
-    <Price>13.32</Price>
-    <Code>23.765.03</Code>
-    <Link>https://www.onautica.com/products/sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor?variant=52513559806299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_stagna_400x700_mm..png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042942</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
   </Offer>
   <Offer>
     <Name>Saracinesca a Sfera in Ottone Nichelato - Passaggio Totale PN25 - 3/8&quot;</Name>
@@ -35108,6 +34744,22 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Valvola_a_Sfera_Ottone_Nichelato_F-F_Passaggio_Totale_PN25_schema.png?v=1773341855</Image2>
     <Condition>nuovo</Condition>
     <ParentID>valvola-sfera-ottone-nichelato-passaggio-totale-pn25</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sbiancante Teak Wonder Brightener – Schiarente Istantaneo (Step 2)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Teak Wonder Brightener è uno schiarente tecnico formulato per eliminare le ombrature e le zone scure che possono persistere sul legno anche dopo una pulizia profonda. Sebbene non sia sempre necessario su legni nuovi, il suo utilizzo su superfici &quot;vissu</Description>
+    <OriginalPrice>54.01</OriginalPrice>
+    <Price>38.58</Price>
+    <Code>10576</Code>
+    <Link>https://www.onautica.com/products/sbiancante-teak-wonder-brightener?variant=52577464615259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sbiancante-teak-wonder-brightener.webp?v=1773341745</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8054956500093</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>sbiancante-teak-wonder-brightener</ParentID>
   </Offer>
   <Offer>
     <Name>Scarico a Mare filettato in Ottone Fuso Giallo - 3/8&quot;</Name>
@@ -35344,20 +34996,115 @@ bocche Ø 14 mm.</Name>
     <ParentID>ombrinale-di-scarico-21-4-x-38-mm-con-valvola-non-ritorno-scarico</ParentID>
   </Offer>
   <Offer>
-    <Name>Set Buste Yellow Baggy Impermeabili | 3 pz.</Name>
+    <Name>Spazzola Boat Line per Pulizia Barca – Corpo in PVC con Bordo in Gomma Antiurto</Name>
     <Brand>Motomarine</Brand>
-    <Description>Tre buste stagne galleggianti in giallo brillante per proteggere oggetti di valore durante le attività in acqua. Il set comprende tre formati: piccolo (12x15cm) medio (18x24cm) grande (27x33cm) Ideali per documenti, elettronica e accessori. Impermeabili e</Description>
-    <OriginalPrice>17.52</OriginalPrice>
-    <Price>12.52</Price>
-    <Code>3030355</Code>
-    <Link>https://www.onautica.com/products/set-buste-yellow-baggy-3-pz?variant=52577487126875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Set_buste_yellow_baggy_3_pz..png?v=1773341815</Image>
+    <Description>La Spazzola Boat Line è progettata per affrontare lo sporco più ostinato e le incrostazioni più tenaci a bordo. Il corpo robusto in PVC garantisce durabilità nel tempo, mentre il bordo in gomma antiurto protegge le superfici della barca durante l&apos;utilizzo</Description>
+    <OriginalPrice>11.55</OriginalPrice>
+    <Price>8.25</Price>
+    <Code>5709168</Code>
+    <Link>https://www.onautica.com/products/spazzola-boat-line?variant=52577487847771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Spazzola_boat_line.png?v=1773341819</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626170378</EanCode>
+    <EanCode>8033626353375</EanCode>
     <Condition>nuovo</Condition>
-    <ParentID>set-buste-yellow-baggy-3-pz</ParentID>
+    <ParentID>spazzola-boat-line</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole extra morbide di colore verde, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il c</Description>
+    <OriginalPrice>30.40</OriginalPrice>
+    <Price>25.33</Price>
+    <Code>36.634.01</Code>
+    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde?variant=53517782384987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.01.webp?v=1783358521</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137225444</EanCode>
+    <Weight>0.45</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_0.webp?v=1783542524</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_1.webp?v=1783542526</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Osculati Special 250×90 mm Setole Medie Blu</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Osculati Special 250×90 mm Setole Medie Blu Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole medie di colore blu, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indica la dure</Description>
+    <OriginalPrice>30.40</OriginalPrice>
+    <Price>25.33</Price>
+    <Code>36.634.05</Code>
+    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-medie-blu?variant=53517782024539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.05.webp?v=1783358512</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052347</EanCode>
+    <Weight>0.45</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258162523_0.webp?v=1783542499</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258162523_1.webp?v=1783542502</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-osculati-special-250-90-mm-setole-medie-blu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Osculati Special 250×90 mm Setole Morbide Giallo</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Osculati Special 250×90 mm Setole Morbide Giallo Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole morbide di colore giallo, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indi</Description>
+    <OriginalPrice>30.40</OriginalPrice>
+    <Price>25.33</Price>
+    <Code>36.634.03</Code>
+    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-morbide-giallo?variant=53517782188379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.03.webp?v=1783358516</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052330</EanCode>
+    <Weight>0.45</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258293595_0.webp?v=1783542511</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258293595_1.webp?v=1783542514</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-osculati-special-250-90-mm-setole-morbide-giallo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Telescopico Osculati Bi-Level 117/180 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Telescopico Osculati Bi-Level 117/180 cm Spazzolone telescopico Osculati Bi-Level: spazzola e manico estensibile da 117 a 180 cm in un unico strumento. La regolazione Bi-Level orienta la testa su due posizioni. A chi è rivolto Per chi vuole lav</Description>
+    <OriginalPrice>23.50</OriginalPrice>
+    <Price>19.56</Price>
+    <Code>36.191.02</Code>
+    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-bi-level-117-180-cm?variant=53517782614363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.02.webp?v=1783358525</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052293</EanCode>
+    <Weight>0.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_0.webp?v=1783542536</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_1.webp?v=1783542539</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
+    <OriginalPrice>26.10</OriginalPrice>
+    <Price>21.75</Price>
+    <Code>36.191.03</Code>
+    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-five-level-117-180-cm?variant=53517782810971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.03.webp?v=1783358529</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052309</EanCode>
+    <Weight>0.75</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_0.webp?v=1783542547</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_1.webp?v=1783542549</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-telescopico-osculati-five-level-117-180-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Stucco Epossidico Sottomarino Safe Fill Underwater EVO (Kit 1+1)</Name>
@@ -35705,6 +35452,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626038012</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tappo-o-22-7-mm-di-scarico-regolabile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Teak Wonder combo pak pulitore/sbiancante 2x1 lt.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il TEAK WONDER Combo Pack è la soluzione indispensabile per la pulizia profonda e il ripristino dell&apos;aspetto &quot;nuovo&quot; del teak della tua imbarcazione. Questo kit combinato permette di eliminare il grigio accumulatosi e riscoprire lo splendido colore dorato</Description>
+    <OriginalPrice>36.01</OriginalPrice>
+    <Price>25.72</Price>
+    <Code>5735305</Code>
+    <Link>https://www.onautica.com/products/teak-wonder-combo-pack-pulitore-sbiancante?variant=52577465303387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/teak-wonder-combo-pack-cleaner-brightener.png?v=1773341746</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626193698</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/teak-wonder-combo-pack-cleaner-brightener_confezione.png?v=1773341747</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>teak-wonder-combo-pack-pulitore-sbiancante</ParentID>
   </Offer>
   <Offer>
     <Name>Trinella - Baderna Premistoppa per Asse Elica – Confezione 1,5m - 6x6 mm.</Name>
@@ -36091,23 +35855,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>vaschetta-ricambio-filtro-separatore-trasparente</ParentID>
   </Offer>
   <Offer>
-    <Name>Anello traina sci in acciaio inox Ø60 Perni 75x10mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Anello traino sci in Acciaio Inox. Si monta a poppa.\n\n CARATTERISTICHE \n \n ∅ mm 60 \n Perni mm 75x10 \n \n Caratteristiche principali Acciaio inox resistente alla corrosione, ideale per l&apos;ambiente marino Forma ad anello per un aggancio sicuro e rapido</Description>
-    <OriginalPrice>30.74</OriginalPrice>
-    <Price>21.96</Price>
-    <Code>3015006</Code>
-    <Link>https://www.onautica.com/products/anello-traina-sci-in-acciaio-inox-o60-perni-75x10mm-1?variant=52577415135579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anello_traina_sci_in_acciaio_inox_60_Perni_75x10mm..png?v=1773341618</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626082480</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anello_traina_sci_in_acciaio_inox_60_Perni_75x10mm._2.png?v=1773341619</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>anello-traina-sci-in-acciaio-inox-o60-perni-75x10mm-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Attacco a Forcella L25 per Cavi Comando Motore – Compatibile C2/MACHZero/C8/C33</Name>
     <Brand>Ultraflex</Brand>
     <Description>Attacco a forcella L25 per cavi di controllo motore, compatibile con i sistemi C2 , MACHZero , C8 e C33 . Componente di raccordo essenziale per garantire un collegamento preciso e affidabile tra il cavo e l&apos;organo di comando. Caratteristiche principali Co</Description>
@@ -36206,6 +35953,22 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626022509</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>base-scaletta-o-25-mm-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Basetta passante per doccette cromata</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Basetta passante per doccette cromata La basetta passante per doccette cromata è un accessorio per il fissaggio e il passaggio del tubo della doccetta, progettato per garantire un&apos;installazione ordinata e resistente a bordo. A chi è rivolto Ideale per arm</Description>
+    <OriginalPrice>12.72</OriginalPrice>
+    <Price>9.09</Price>
+    <Code>1513184</Code>
+    <Link>https://www.onautica.com/products/basetta-passante-per-doccette-cromata?variant=52577420214619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Basetta_passante_per_doccette_cromata.png?v=1773341632</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626213532</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>basetta-passante-per-doccette-cromata</ParentID>
   </Offer>
   <Offer>
     <Name>Bileva comando B102 g.i. nera Ultraflex</Name>
@@ -36393,6 +36156,56 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137032189</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-boetta-luminosa-starled</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box Doccetta Dritta da Incasso per Barca – Contenitore in Plastica Anti-UV</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore box in plastica antiurto e resistente ai raggi UV, progettato per l’incasso di doccette. Installazione verticale. Da completare con doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70 97 65 Caratteristiche principali P</Description>
+    <OriginalPrice>11.44</OriginalPrice>
+    <Price>8.17</Price>
+    <Code>1513603</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-dritta-246?variant=52577421590875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246.png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626259042</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246_1.png?v=1773341635</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-dritta-246</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box Doccetta Tondo da Incasso per Barca – Contenitore con Chiusura Morbida</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore tondo da incasso in plastica per doccette, dotato di chiusura morbida. Si completa con doccetta ( 1 getto ) e tubo flessibile a scelta. incasso mm. esterno mm. altezza mm. 57 77 65 Caratteristiche principali Design tondo a incasso per un&apos;insta</Description>
+    <OriginalPrice>10.15</OriginalPrice>
+    <Price>7.25</Price>
+    <Code>1513600</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-round?variant=52577421689179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round_2.png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626043542</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_round.png?v=1773341635</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-round</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box per Miscelatore da Incasso Bianco – Contenitore in Plastica UV per Rubinetto</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore box progettato per miscelatori da incasso, realizzato in plastica antiurto con resistenza ai raggi UV. Può essere installato sia in posizione verticale che orizzontale. Completa la dotazione con il miscelatore modello 1511112 . Ø int. mm. Ø es</Description>
+    <OriginalPrice>15.40</OriginalPrice>
+    <Price>9.09</Price>
+    <Code>1511111</Code>
+    <Link>https://www.onautica.com/products/box-miscelatore?variant=52577371685211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1511111.png?v=1773341507</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685132689</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>box-miscelatore</ParentID>
   </Offer>
   <Offer>
     <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 6 ft. - 1.80 mt.</Name>
@@ -37537,6 +37350,72 @@ bocche Ø 14 mm.</Name>
     <ParentID>comandi-up-down-a-piede-nero-quick-salpa-ancora</ParentID>
   </Offer>
   <Offer>
+    <Name>Contenitore Stagno Waterproof 15 lt – Custodia Cilindrica Impermeabile da Bordo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore cilindrico stagno da 15 litri , ideale per conservare in totale sicurezza a bordo artifizi da segnalazione, medicinali, documenti e effetti personali. Grazie alla costruzione impermeabile, protegge il contenuto dall&apos;acqua e dall&apos;umidità anche </Description>
+    <OriginalPrice>42.38</OriginalPrice>
+    <Price>30.27</Price>
+    <Code>3030815</Code>
+    <Link>https://www.onautica.com/products/contenitore-waterproof-15-lt?variant=52577431552347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_15_lt..png?v=1773341649</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685132870</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_15_lt._1.png?v=1773341649</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>contenitore-waterproof-15-lt</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Contenitore Stagno Waterproof 8 lt – Custodia Cilindrica Impermeabile da Bordo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore cilindrico stagno da 8 litri , ideale per conservare in totale sicurezza a bordo artifizi da segnalazione, medicinali, documenti e altri effetti personali che non devono entrare in contatto con l&apos;acqua. Caratteristiche principali Forma cilindr</Description>
+    <OriginalPrice>36.29</OriginalPrice>
+    <Price>25.92</Price>
+    <Code>3030808</Code>
+    <Link>https://www.onautica.com/products/contenitore-waterproof-8-lt?variant=52577433387355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_8_lt..png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685132856</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Contenitore_waterproof_8_lt._1.png?v=1773341651</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>contenitore-waterproof-8-lt</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 3 uscite</Name>
+    <Brand>Quick</Brand>
+    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
+    <OriginalPrice>154.47</OriginalPrice>
+    <Price>106.53</Price>
+    <Code>1205312</Code>
+    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074002779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057090096842</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 4 uscite</Name>
+    <Brand>Quick</Brand>
+    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
+    <OriginalPrice>174.96</OriginalPrice>
+    <Price>120.66</Price>
+    <Code>1205012</Code>
+    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074068315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057090096910</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimozzo cromato X91 per timoneria  T91 e T93Z</Name>
     <Brand>Ultraflex</Brand>
     <Description>Coprimozzo cromato X91 per timoneria T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una pro</Description>
@@ -37614,88 +37493,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8031164366543</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>coprimozzo-nero-x34-per-timoneria-t71-t72-t73</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino bicolore con manico -  Sci d&apos;acqua</Name>
-    <Brand>Osculati</Brand>
-    <Description>T reccia bicolore ad alta visibilità . L m ø mm 22,5 12 Caratteristiche principali Design bicolore ad alta visibilità per essere sempre individuabile in acqua Manico ergonomico integrato per una presa sicura e confortevole durante il traino Costruzione in</Description>
-    <OriginalPrice>36.98</OriginalPrice>
-    <Price>26.41</Price>
-    <Code>64.428.01</Code>
-    <Link>https://www.onautica.com/products/offerta-treccia-traino-bicolore-con-manico-sci-dacqua?variant=52577465368923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Treccia_traino_bicolore_con_manico_-_Sci_d_acqua.png?v=1773341747</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007538</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-treccia-traino-bicolore-con-manico-sci-dacqua</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino blu con manico -  Sci d&apos;acqua</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino per sci d&apos;acqua. L m ø mm 23 8 La corda da traino per sci d&apos;acqua con manico è un accessorio essenziale per chi pratica questo sport sul lago o in mare. Con diametro da 23 mm e lunghezza di 8 metri, offre una presa sicura e resistente dura</Description>
-    <OriginalPrice>36.16</OriginalPrice>
-    <Price>25.82</Price>
-    <Code>3015020</Code>
-    <Link>https://www.onautica.com/products/treccia-traino-blu-con-manico-sci-dacqua?variant=52577497940315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_traino_blu_con_manico_-_Sci_d_acqua.png?v=1773341849</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000156</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-traino-blu-con-manico-sci-dacqua</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino con 8 sezioni diversi colori per accorciamenti eventuali  - sci d&apos;acqua</Name>
-    <Brand>Osculati</Brand>
-    <Description>Treccia con 8 sezioni di diversi colori per eventuali accorciamenti. L m ø mm 22,5 12 Caratteristiche principali 8 sezioni di colori diversi per identificare rapidamente il punto di accorciamento Facilmente regolabile in lunghezza secondo le esigenze di t</Description>
-    <OriginalPrice>37.24</OriginalPrice>
-    <Price>26.60</Price>
-    <Code>64.428.02</Code>
-    <Link>https://www.onautica.com/products/treccia-traino-con-8-sezioni-diversi-colori-per-accorciamenti-eventuali-sci-dacqua?variant=52577498136923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/64.428.02.png?v=1773341849</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007545</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-traino-con-8-sezioni-diversi-colori-per-accorciamenti-eventuali-sci-dacqua</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino per Skitube max 2 persone</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 1/2 persone Lunghezza 15,2 metri Carico di rottura 1077 Kg. Caratteristiche principali Progettata specificamente per lo traino di ski tube, garantisce una trazione</Description>
-    <OriginalPrice>51.64</OriginalPrice>
-    <Price>28.69</Price>
-    <Code>3015516</Code>
-    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-1-2-persone-15-2-metri?variant=52577520648539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_e2e9a513-de4b-4f19-8022-9fe3d346bac7.png?v=1773341915</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8718181287715</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_9e26db82-9642-4b27-91fa-d76d79510080.png?v=1773341915</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>corda-traino-ski-tube-max-1-2-persone-15-2-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino per Skitube max 4 persone</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 3/4 persone Lunghezza 16,8 metri Carico di rottura 1882 Kg. Caratteristiche principali Progettata specificamente per ski tube e sport acquatici trainabili Galleggi</Description>
-    <OriginalPrice>72.14</OriginalPrice>
-    <Price>40.08</Price>
-    <Code>3015517</Code>
-    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-3-4-persone-16-8-metri?variant=52577520746843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_932538e9-e140-4b47-98ae-a4790bbf8b27.png?v=1773341914</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8718181287722</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_6fbde0bf-380d-4538-b01b-40ddb0a30f75.png?v=1773341915</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>corda-traino-ski-tube-max-3-4-persone-16-8-metri</ParentID>
   </Offer>
   <Offer>
     <Name>Cuffia passa paratia ad incastro Ø 105x70 mm. grigio</Name>
@@ -38531,6 +38328,42 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-monoleva-comando-b90-nero-con-blocco-ultraflex</ParentID>
   </Offer>
   <Offer>
+    <Name>Musone a Ribalta Pesante Classic Osculati in Acciaio Inox 304 Lucidato per Ancore Delta, Bruce, Trefoil, CQR, SOC - Tipo 3 (ancore max 10 kg) — A 330 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Musone a Ribalta Pesante &quot;Classic&quot; Osculati in Acciaio Inox 304 Lucidato Il musone a ribalta pesante Classic di Osculati è il sistema professionale per ancorare la cima e proteggere la prua dall&apos;attrito di catena e ancora durante le manovre di salpamento.</Description>
+    <OriginalPrice>183.04</OriginalPrice>
+    <Price>140.80</Price>
+    <Code>01.333.01</Code>
+    <Link>https://www.onautica.com/products/musone-a-ribalta-pesante-classic-osculati-in-acciaio-inox-304-lucidato-per-ancore-delta-bruce-trefoil-cqr-soc?variant=52988318843227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-ribalta-pesante-classic-osculati-inox-304-vista-principale.webp?v=1778864909</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137197789</EanCode>
+    <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-ribalta-pesante-classic-osculati-schema-misure-a-b-c.webp?v=1778864912</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>musone-a-ribalta-pesante-classic-osculati-in-acciaio-inox-304-lucidato-per-ancore-delta-bruce-trefoil-cqr-soc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Musone di Prua a Bascula in Acciaio Inox AISI 316 con Spina di Sicurezza</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Musone a Ribalta con Spina di Sicurezza è un componente di prua indispensabile per una gestione fluida e sicura dell&apos;ancoraggio. Realizzato interamente in Acciaio Inox AISI 316 , offre una protezione totale contro la corrosione marina, garantendo una b</Description>
+    <OriginalPrice>109.43</OriginalPrice>
+    <Price>75.47</Price>
+    <Code>01.419.00</Code>
+    <Link>https://www.onautica.com/products/musone-prua-basculante-inox-316-spina-sicurezza?variant=52577461174619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezza.webp?v=1775574598</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137000287</EanCode>
+    <Weight>1.65</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/musone-prua-basculante-inox-316-spina-sicurezzaschema.webp?v=1775574596</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>musone-prua-basculante-inox-316-spina-sicurezza</ParentID>
+  </Offer>
+  <Offer>
     <Name>Musone di Prua Basculante Classic in Acciaio Inox 316 - L280 x W80 - max 10 Kg.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Musone di Prua Basculante Classic è un accessorio di ancoraggio fondamentale per facilitare e rendere sicure le operazioni di cala e recupero dell&apos;ancora a bordo. Costruito con una robusta struttura nervata interamente in Acciaio Inox AISI 316 , offre </Description>
@@ -38714,6 +38547,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>plancia-tinox-in-carabottino-con-supporto-motore-285x470-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Porta Smartphone Stagno Bianco 15x8 cm – Custodia Impermeabile Touch fino a 6 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Contenitori stagni per cellulari, i-Pod, i-Phone, GPS, VHF, macchine fotografiche, ecc.... stagni fino a 6 m. Compatibili con tecnologia touch screen. Caratteristiche principali Colorazione bianca, facile da individuare anche in condizioni di scarsa visib</Description>
+    <OriginalPrice>27.63</OriginalPrice>
+    <Price>19.73</Price>
+    <Code>23.500.02</Code>
+    <Link>https://www.onautica.com/products/porta-smartphone-bianco-15x8-cm?variant=52577474806107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Porta_smartphone_bianco_15x8_cm..png?v=1773341774</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051827524592</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>porta-smartphone-bianco-15x8-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pulsante a Piede Quick Serie 900 per Verricelli (Coperchio Bianco) – Salita / Discesa - SALITA (UP)</Name>
     <Brand>Quick</Brand>
     <Description>I Pulsanti a Piede Quick Serie 900 sono comandi affidabili e robusti progettati per azionare qualsiasi tipo di verricello elettrico o salpa ancora. Questa versione è caratterizzata da un elegante coperchio di protezione bianco in plastica antiurto. La lor</Description>
@@ -38834,6 +38683,40 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626029805</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>rullo-ricambio-l-42-mm-o-60-mm-foro-o-11-mm-puleggia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Dimensioni precise: lunghezza 49 mm, diametro 61 mm, foro da 13 mm per un montaggio esatto Ricambio originale compatibile con salpa ancore elettrici e musoni di prua </Description>
+    <OriginalPrice>13.92</OriginalPrice>
+    <Price>9.94</Price>
+    <Code>01.519.02</Code>
+    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia?variant=52577484407131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_61_mm._-_foro_13_mm._puleggia.png?v=1773341805</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137003691</EanCode>
+    <Weight>0.05</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>rullo-ricambio-l-49-mm-o-61-mm-foro-o-13-mm-puleggia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rullo ricambio - L 49 mm. - Ø 86 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Rullo di ricambio specifico per salpa ancore elettrici e musoni di prua Dimensioni precise per una sostituzione diretta senza modifiche Foro centrale da Ø 13 mm per u</Description>
+    <OriginalPrice>21.55</OriginalPrice>
+    <Price>15.39</Price>
+    <Code>01.519.01</Code>
+    <Link>https://www.onautica.com/products/rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia?variant=52577484767579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_ricambio_-_L_49_mm._-_86_mm._-_foro_13_mm._puleggia.png?v=1773341806</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137003684</EanCode>
+    <Weight>0.05</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>rullo-ricambio-l-49-mm-o-86-mm-foro-o-13-mm-puleggia</ParentID>
   </Offer>
   <Offer>
     <Name>Rullo ricambio - L 50 mm. - Ø 56 mm. - foro Ø 11 mm. puleggia</Name>
@@ -39019,6 +38902,58 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-portaoggetti-navishell-smallparticolari.png?v=1770042727</Image3>
     <Condition>nuovo</Condition>
     <ParentID>sacca-portaoggetti-navishell-small</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sacca stagna impermeabile per protezione attrezzature e materiali outdoor - 250x500 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa sacca stagna è l’accessorio indispensabile per chi vive la nautica e le attività outdoor: protegge in modo affidabile oggetti di valore, abbigliamento, dispositivi elettronici e documenti da acqua, sabbia e polvere, rivelandosi ideale per barca, ka</Description>
+    <OriginalPrice>14.20</OriginalPrice>
+    <Price>10.14</Price>
+    <Code>23.765.01</Code>
+    <Link>https://www.onautica.com/products/sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor?variant=52545024655707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_stagna_400x700_mm..png?v=1773341807</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137042928</EanCode>
+    <Weight>0.14</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sacca stagna impermeabile per protezione attrezzature e materiali outdoor - 300x600 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa sacca stagna è l’accessorio indispensabile per chi vive la nautica e le attività outdoor: protegge in modo affidabile oggetti di valore, abbigliamento, dispositivi elettronici e documenti da acqua, sabbia e polvere, rivelandosi ideale per barca, ka</Description>
+    <OriginalPrice>15.22</OriginalPrice>
+    <Price>10.87</Price>
+    <Code>23.765.02</Code>
+    <Link>https://www.onautica.com/products/sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor?variant=52545024688475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_stagna_400x700_mm..png?v=1773341807</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137042935</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sacca stagna impermeabile per protezione attrezzature e materiali outdoor - 400x700 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa sacca stagna è l’accessorio indispensabile per chi vive la nautica e le attività outdoor: protegge in modo affidabile oggetti di valore, abbigliamento, dispositivi elettronici e documenti da acqua, sabbia e polvere, rivelandosi ideale per barca, ka</Description>
+    <OriginalPrice>18.64</OriginalPrice>
+    <Price>13.32</Price>
+    <Code>23.765.03</Code>
+    <Link>https://www.onautica.com/products/sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor?variant=52513559806299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sacca_stagna_400x700_mm..png?v=1773341807</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137042942</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
   </Offer>
   <Offer>
     <Name>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio</Name>
@@ -39968,6 +39903,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>kit-4-staffe-fissaggio-serbatoio</ParentID>
   </Offer>
   <Offer>
+    <Name>Set Buste Yellow Baggy Impermeabili | 3 pz.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Tre buste stagne galleggianti in giallo brillante per proteggere oggetti di valore durante le attività in acqua. Il set comprende tre formati: piccolo (12x15cm) medio (18x24cm) grande (27x33cm) Ideali per documenti, elettronica e accessori. Impermeabili e</Description>
+    <OriginalPrice>17.52</OriginalPrice>
+    <Price>12.52</Price>
+    <Code>3030355</Code>
+    <Link>https://www.onautica.com/products/set-buste-yellow-baggy-3-pz?variant=52577487126875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sacche Stagne</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Set_buste_yellow_baggy_3_pz..png?v=1773341815</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626170378</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>set-buste-yellow-baggy-3-pz</ParentID>
+  </Offer>
+  <Offer>
     <Name>Snodo A44 Inox per Timoneria a Cavi – Giunto con Filetto Terminale per Barca</Name>
     <Brand>Ultraflex</Brand>
     <Description>Per cavi timoneria con filetto terminale. Lo snodo A44 in acciaio inox è un accessorio per sistemi di timoneria a cavi, progettato per garantire flessibilità e continuità di movimento tra i componenti del sistema di governo. A chi è rivolto Ideale per arm</Description>
@@ -39997,44 +39948,6 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>a44-zincato-attacco-sferico-sgancio-rapido</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sportello d&apos;Ispezione Calpestabile Stagno in ABS ST/Large 315x440 mm - Bianco e Grigio - Serratura con chiave (accessorio)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Sportello d&apos;Ispezione Calpestabile Stagno in ABS ST/Large 315×440 mm A chi è rivolto Per chi deve chiudere gavoni, vani tecnici e pozzetti calpestabili a bordo, mantenendo la tenuta stagna e un accesso comodo anche in spazi ristretti. Quando e perché sceg</Description>
-    <OriginalPrice>17.11</OriginalPrice>
-    <Price>12.22</Price>
-    <Code>0343300</Code>
-    <Link>https://www.onautica.com/products/sportello-dispezione-calpestabile-stagno-in-abs-st-large-315x440-mm-bianco-e-grigio?variant=53420319736155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-calpestabile-abs-st-large-bianco-aperto.webp?v=1782123237</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685134379</EanCode>
-    <Weight>0.06</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-calpestabile-abs-bianco-grigio-maniglia.webp?v=1782123238</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-calpestabile-abs-st-large-misure-315x440.webp?v=1782123240</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-dispezione-calpestabile-stagno-in-abs-st-large-315x440-mm-bianco-e-grigio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
-    <OriginalPrice>102.56</OriginalPrice>
-    <Price>56.98</Price>
-    <Code>4000150</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057685133754</EanCode>
-    <Weight>2.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Staffa di Poppa a Snodo S39 Ultraflex – Supporto Snodato per Timoneria a Poppa</Name>
@@ -40431,22 +40344,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_k.png?v=1773341748</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-timoneria-t93tz-non-reversibile-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua</Name>
-    <Brand>Osculati</Brand>
-    <Description>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua Caratteristiche principali Lunghezza standard da competizione: 21,7 metri, ideale per sci d&apos;acqua agonistico Diametro di 7,5 mm per una presa salda e una gestione ottimale in acqua Costruzione int</Description>
-    <OriginalPrice>32.60</OriginalPrice>
-    <Price>23.29</Price>
-    <Code>64.421.00</Code>
-    <Link>https://www.onautica.com/products/treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua?variant=52577498071387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_Sci_da_Competizione_21_7_mt._7_5_mm._Sci_d_acqua.jpg?v=1773341848</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137034527</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua</ParentID>
   </Offer>
   <Offer>
     <Name>Tubo di ricambio in alluminio filettato per S39</Name>
@@ -40908,22 +40805,21 @@ bocche Ø 14 mm.</Name>
     <ParentID>aghi-riparazione-vele-6-pz-1</ParentID>
   </Offer>
   <Offer>
-    <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna CB RA127 di Glomex è progettata specificamente per le comunicazioni in banda cittadina (Citizen Band) in ambiente marino. Grazie al suo stilo realizzato in vetroresina di alta qualità con finitura poliuretanica, garantisce un&apos;eccellente resiste</Description>
-    <OriginalPrice>133.80</OriginalPrice>
-    <Price>102.89</Price>
-    <Code>5636415</Code>
-    <Link>https://www.onautica.com/products/antenna-cb-glomex-ra127?variant=52577378992475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Name>Anello traina sci in acciaio inox Ø60 Perni 75x10mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Anello traino sci in Acciaio Inox. Si monta a poppa.\n\n CARATTERISTICHE \n \n ∅ mm 60 \n Perni mm 75x10 \n \n Caratteristiche principali Acciaio inox resistente alla corrosione, ideale per l&apos;ambiente marino Forma ad anello per un aggancio sicuro e rapido</Description>
+    <OriginalPrice>30.74</OriginalPrice>
+    <Price>21.96</Price>
+    <Code>3015006</Code>
+    <Link>https://www.onautica.com/products/anello-traina-sci-in-acciaio-inox-o60-perni-75x10mm-1?variant=52577415135579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-cb-glomex-ra127_a216f354-956c-443a-89a9-7023e51f8be4.png?v=1773341526</Image>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anello_traina_sci_in_acciaio_inox_60_Perni_75x10mm..png?v=1773341618</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301140</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-prolunga-antenna-cb-glomex.png?v=1773341529</Image3>
+    <EanCode>8033626082480</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anello_traina_sci_in_acciaio_inox_60_Perni_75x10mm._2.png?v=1773341619</Image2>
     <Condition>nuovo</Condition>
-    <ParentID>antenna-cb-glomex-ra127</ParentID>
+    <ParentID>anello-traina-sci-in-acciaio-inox-o60-perni-75x10mm-1</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna Dipolo FM/AM 75 Ohm – Antenna Radio di Ricambio per Installazione Interna</Name>
@@ -40942,24 +40838,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>antenna-dipolo-fm-am-75-ohm-autoradio</ParentID>
   </Offer>
   <Offer>
-    <Name>Antenna Radio AM/FM Glomex Compatta in Gomma Flessibile (30 cm)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna Glomex AM/FM Compatta è la soluzione perfetta per chi cerca un&apos;antenna radio discreta, resistente e facile da installare. Realizzata in nylon e gomma flessibile resistente ai raggi UV, questa antenna è progettata per durare nel tempo senza ingi</Description>
-    <OriginalPrice>60.60</OriginalPrice>
-    <Price>46.61</Price>
-    <Code>29.128.10</Code>
-    <Link>https://www.onautica.com/products/antenna-am-fm-glomex-flessibile-compatta?variant=52577378697563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile.png?v=1773341526</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301065</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile_flex.png?v=1773341527</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-am-fm-glomex-flessibile-compatta</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antenna TV + Radio FM Omnidirezionale Glomex Avior VT300</Name>
     <Brand>Glomex</Brand>
     <Description>L&apos; Antenna Glomex Avior VT300 è la soluzione ideale per chi cerca prestazioni elevate in dimensioni estremamente contenute. Questa antenna omnidirezionale è progettata per ricevere sia segnali TV (analogici e digitali terrestri) che segnali Radio FM, tutt</Description>
@@ -40976,59 +40854,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/amplificatore_antenna-tv-fm-glomex-avior-vt300.png?v=1773341956</Image3>
     <Condition>nuovo</Condition>
     <ParentID>antenna-tv-radio-glomex-avior-vt300</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antenna VHF Glomex in Vetroresina per Testa d&apos;Albero (0,9 m) – Serie Sail - Senza Cavo</Name>
-    <Brand>Glomex</Brand>
-    <Description>Le Antenne VHF Glomex Serie Sail sono progettate specificamente per l&apos;installazione in testa d&apos;albero su barche a vela . Lo stilo conico in vetroresina garantisce leggerezza, flessibilità e una resistenza eccezionale agli agenti atmosferici marini, riduce</Description>
-    <OriginalPrice>101.10</OriginalPrice>
-    <Price>77.80</Price>
-    <Code>5636311</Code>
-    <Link>https://www.onautica.com/products/antenna-vhf-glomex-vetroresina-vela-09m?variant=52520429683035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra109grp-vela.png?v=1773341953</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566300822</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-vhf-glomex-vetroresina-vela-09m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antenna VHF Glomex RA106 Glomeasy con Attacco FME e Accessori - Antenna Glomex Vhf RA106 Grp Fme</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna VHF RA106 della linea Glomeasy è progettata per offrire massima versatilità e facilità di installazione su qualsiasi tipo di imbarcazione. È disponibile in due versioni: in Vetroresina (GRP) bianca o in Acciaio Inox (SLS) . Il sistema si basa s</Description>
-    <OriginalPrice>65.90</OriginalPrice>
-    <Price>50.68</Price>
-    <Code>10072</Code>
-    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra106-glomeasy-fme-accessori?variant=52513477558619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme.png?v=1767706660</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566303014</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme_base.png?v=1767706660</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme_manicotto.png?v=1767706660</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-vhf-glomex-ra106-glomeasy-fme-accessori</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antenna VHF Marina Glomex RA112 in Vetroresina per Barche a Motore (1,5 mt.)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna VHF RA112 è un classico della gamma Glomex, progettata specificamente per l&apos;installazione su barche a motore . La sua struttura in vetroresina con finitura poliuretanica lucida garantisce un&apos;estetica elegante e una protezione totale contro i ra</Description>
-    <OriginalPrice>73.80</OriginalPrice>
-    <Price>56.80</Price>
-    <Code>5636215</Code>
-    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra112-barche-motore?variant=52577378369883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra112-motore.png?v=1773341526</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566300624</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-vhf-glomex-ra112-barche-motore</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna VHF Marina Glomex RA400 in Vetroresina (1,5 m) – Universale</Name>
@@ -41208,22 +41033,6 @@ bocche Ø 14 mm.</Name>
     <Weight>0.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>base-antenna-morsetto-abs-1un-25mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Base Antenna Regolabile a Pomello in Nylon Rinforzato</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa base è un componente versatile per l&apos;installazione delle antenne di bordo, ideale per chi necessita di poter regolare l&apos;inclinazione o l&apos;angolo di montaggio con facilità. Caratteristiche Principali: Materiale: Realizzata in Nylon Rinforzato , garan</Description>
-    <OriginalPrice>14.36</OriginalPrice>
-    <Price>10.63</Price>
-    <Code>5636500</Code>
-    <Link>https://www.onautica.com/products/base-regolabile-pomello-nylon-47x75?variant=52577501380955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEREGOLABILEAPOMELLOINNYLONRINFORZATO.png?v=1773341861</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626147578</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>base-regolabile-pomello-nylon-47x75</ParentID>
   </Offer>
   <Offer>
     <Name>Base II Supporto Tavolo Twist Lock in Alluminio Anodizzato a Filo Pavimento</Name>
@@ -41642,6 +41451,88 @@ bocche Ø 14 mm.</Name>
     <ParentID>coprimotore-tessuto-poliestere-impermeabile-anti-uv</ParentID>
   </Offer>
   <Offer>
+    <Name>Corda traino bicolore con manico -  Sci d&apos;acqua</Name>
+    <Brand>Osculati</Brand>
+    <Description>T reccia bicolore ad alta visibilità . L m ø mm 22,5 12 Caratteristiche principali Design bicolore ad alta visibilità per essere sempre individuabile in acqua Manico ergonomico integrato per una presa sicura e confortevole durante il traino Costruzione in</Description>
+    <OriginalPrice>36.98</OriginalPrice>
+    <Price>26.41</Price>
+    <Code>64.428.01</Code>
+    <Link>https://www.onautica.com/products/offerta-treccia-traino-bicolore-con-manico-sci-dacqua?variant=52577465368923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Treccia_traino_bicolore_con_manico_-_Sci_d_acqua.png?v=1773341747</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007538</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-treccia-traino-bicolore-con-manico-sci-dacqua</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino blu con manico -  Sci d&apos;acqua</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Corda da traino per sci d&apos;acqua. L m ø mm 23 8 La corda da traino per sci d&apos;acqua con manico è un accessorio essenziale per chi pratica questo sport sul lago o in mare. Con diametro da 23 mm e lunghezza di 8 metri, offre una presa sicura e resistente dura</Description>
+    <OriginalPrice>36.16</OriginalPrice>
+    <Price>25.82</Price>
+    <Code>3015020</Code>
+    <Link>https://www.onautica.com/products/treccia-traino-blu-con-manico-sci-dacqua?variant=52577497940315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_traino_blu_con_manico_-_Sci_d_acqua.png?v=1773341849</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000156</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-traino-blu-con-manico-sci-dacqua</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino con 8 sezioni diversi colori per accorciamenti eventuali  - sci d&apos;acqua</Name>
+    <Brand>Osculati</Brand>
+    <Description>Treccia con 8 sezioni di diversi colori per eventuali accorciamenti. L m ø mm 22,5 12 Caratteristiche principali 8 sezioni di colori diversi per identificare rapidamente il punto di accorciamento Facilmente regolabile in lunghezza secondo le esigenze di t</Description>
+    <OriginalPrice>37.24</OriginalPrice>
+    <Price>26.60</Price>
+    <Code>64.428.02</Code>
+    <Link>https://www.onautica.com/products/treccia-traino-con-8-sezioni-diversi-colori-per-accorciamenti-eventuali-sci-dacqua?variant=52577498136923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/64.428.02.png?v=1773341849</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007545</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-traino-con-8-sezioni-diversi-colori-per-accorciamenti-eventuali-sci-dacqua</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino per Skitube max 2 persone</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 1/2 persone Lunghezza 15,2 metri Carico di rottura 1077 Kg. Caratteristiche principali Progettata specificamente per lo traino di ski tube, garantisce una trazione</Description>
+    <OriginalPrice>51.64</OriginalPrice>
+    <Price>28.69</Price>
+    <Code>3015516</Code>
+    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-1-2-persone-15-2-metri?variant=52577520648539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_e2e9a513-de4b-4f19-8022-9fe3d346bac7.png?v=1773341915</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8718181287715</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_9e26db82-9642-4b27-91fa-d76d79510080.png?v=1773341915</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-traino-ski-tube-max-1-2-persone-15-2-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino per Skitube max 4 persone</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 3/4 persone Lunghezza 16,8 metri Carico di rottura 1882 Kg. Caratteristiche principali Progettata specificamente per ski tube e sport acquatici trainabili Galleggi</Description>
+    <OriginalPrice>72.14</OriginalPrice>
+    <Price>40.08</Price>
+    <Code>3015517</Code>
+    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-3-4-persone-16-8-metri?variant=52577520746843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_932538e9-e140-4b47-98ae-a4790bbf8b27.png?v=1773341914</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8718181287722</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_6fbde0bf-380d-4538-b01b-40ddb0a30f75.png?v=1773341915</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-traino-ski-tube-max-3-4-persone-16-8-metri</ParentID>
+  </Offer>
+  <Offer>
     <Name>Dispositivo Antifurto Universale per Tappo Imbarco Diesel – Inox AISI 316</Name>
     <Brand>Osculati</Brand>
     <Description>Proteggi il serbatoio della tua imbarcazione con questo robusto dispositivo antifurto per tappi imbarco Diesel . Realizzato interamente in pregiato acciaio inox AISI 316 lucidato a specchio, offre una resistenza superiore alla corrosione marina e un&apos;estet</Description>
@@ -41721,11 +41612,27 @@ bocche Ø 14 mm.</Name>
     <ParentID>smalto-poliuretanico-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
+    <Name>Fascetta Acciaio Inox Alta Coppia di Serraggio T-BOLT HD - 56/59 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo collare a bullone è progettato per un uso professionale e gravoso , garantendo la massima sicurezza e tenuta su tubi e manicotti ad alta pressione o soggetti a forte stress meccanico. Caratteristiche Premium: Coppia di Serraggio Estrema: Offre una </Description>
+    <OriginalPrice>7.30</OriginalPrice>
+    <Price>5.25</Price>
+    <Code>1401556</Code>
+    <Link>https://www.onautica.com/products/collare-inox-t-bolt-hd-5x-coppia-serraggio?variant=52543802900827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Collare_inox_T-Bolt_HD_98_103_mm..png?v=1773341648</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626169327</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>collare-inox-t-bolt-hd-5x-coppia-serraggio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fascetta Acciaio Inox Alta Coppia di Serraggio T-BOLT HD - 60/63 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo collare a bullone è progettato per un uso professionale e gravoso , garantendo la massima sicurezza e tenuta su tubi e manicotti ad alta pressione o soggetti a forte stress meccanico. Caratteristiche Premium: Coppia di Serraggio Estrema: Offre una </Description>
-    <OriginalPrice>6.93</OriginalPrice>
-    <Price>5.13</Price>
+    <OriginalPrice>7.60</OriginalPrice>
+    <Price>5.44</Price>
     <Code>1401560</Code>
     <Link>https://www.onautica.com/products/collare-inox-t-bolt-hd-5x-coppia-serraggio?variant=52543802933595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42630,6 +42537,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>inclinometro-marine-2001</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit Serratura Opzionale con Chiave per Sportelli in ABS</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo Kit Serratura Opzionale è l&apos;accessorio indispensabile per chi desidera maggiore sicurezza a bordo. Progettato specificamente per la linea di Sportelli in ABS (come i modelli QT, BT e simili), permette di sostituire o integrare il sistema di chiusur</Description>
+    <OriginalPrice>17.11</OriginalPrice>
+    <Price>12.22</Price>
+    <Code>0343300</Code>
+    <Link>https://www.onautica.com/products/kit-serratura-sportelli-abs-0343300?variant=52577451475291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serratura-sportello-abs-box-bt-medium.png?v=1773341702</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685134379</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-serratura-sportelli-abs-0343300</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit Tubo Lavaggio Barca Tricotex® con Pistola e Raccordi Rapidi - 15 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Il Kit Tubo Lavaggio Barca è la soluzione professionale e completa per la pulizia della tua imbarcazione. Fornito di un tubo di alta qualità Tricotex® Antitorsione e di tutti gli accessori necessari per il collegamento universale. Caratteristiche Principa</Description>
@@ -42665,42 +42588,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex_raccordi.png?v=1773341944</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-tubo-lavaggio-barca-tricotex-pistola-raccordi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Midland Alan 100 Plus B – CB Veicolare Compatto 40 Canali AM/FM</Name>
-    <Brand>MY-X</Brand>
-    <Description>Il Midland Alan 100 Plus B è il ricetrasmettitore che dal 1998 rappresenta il punto di riferimento per chi cerca l&apos;essenzialità e l&apos;affidabilità. È il dispositivo ideale per affacciarsi al mondo del baracchino: semplice, immediato e dotato di tutto ciò ch</Description>
-    <OriginalPrice>152.52</OriginalPrice>
-    <Price>112.98</Price>
-    <Code>C442.12</Code>
-    <Link>https://www.onautica.com/products/midland-alan-100-plus-b-cb?variant=52577505149275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-100-plus-b-cb-compatto1.png?v=1773341870</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8011869204524</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-100-plus-b-cb-compatto2.png?v=1773341870</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-100-plus-b-cb-compatto3.png?v=1773341870</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>midland-alan-100-plus-b-cb</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Midland Alan Quarantotto – Il CB AM/FM Storico con Noise Blanker</Name>
-    <Brand>Fortek</Brand>
-    <Description>Il Midland Alan Quarantotto non ha bisogno di presentazioni: è il ricetrasmettitore che ha fatto la storia della comunicazione su gomma in Italia. Da oltre 30 anni è il dispositivo più venduto e amato da camionisti, camperisti e appassionati, un vero e pr</Description>
-    <OriginalPrice>356.89</OriginalPrice>
-    <Price>264.36</Price>
-    <Code>C217.09</Code>
-    <Link>https://www.onautica.com/products/midland-alan-quarantotto-cb?variant=52577505706331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-quarantotto-cb-am-fm..png?v=1773341870</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8011869192425</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-quarantotto-cb-am-fm1..png?v=1773341872</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-quarantotto-cb-am-fm2..png?v=1773341872</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>midland-alan-quarantotto-cb</ParentID>
   </Offer>
   <Offer>
     <Name>Nastro autoadesivo PSP Heavy Duty Stayput bianco 100 mm. x 2 mt. per riparazioni</Name>
@@ -42940,22 +42827,6 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10.288.00b.png?v=1773342024</Image2>
     <Condition>nuovo</Condition>
     <ParentID>nastro-adesivo-psp-dacron-spi-riparazione-vele</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passacavo Stagno Glomex RA140 in Nylon per Cavi Coassiali</Name>
-    <Brand>Glomex</Brand>
-    <Description>Il Passacavo Stagno Glomex RA140 è un componente essenziale per chi desidera installare antenne VHF o altri apparati elettronici a bordo in modo pulito e professionale. Realizzato in Nylon di alta qualità resistente ai raggi UV e alla salsedine, questo pa</Description>
-    <OriginalPrice>11.55</OriginalPrice>
-    <Price>8.25</Price>
-    <Code>5637112</Code>
-    <Link>https://www.onautica.com/products/passacavo-stagno-glomex-ra140-cavi-coassiali?variant=52577467859291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/passacavo-stagno-glomex-ra140-nylon-cavo-vhf.webp?v=1775226059</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301317</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>passacavo-stagno-glomex-ra140-cavi-coassiali</ParentID>
   </Offer>
   <Offer>
     <Name>Piastre Salvapoppa in Plastica (450 x 360 mm) - Nero</Name>
@@ -44118,6 +43989,25 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/19572XXc.png?v=1773342025</Image3>
     <Condition>nuovo</Condition>
     <ParentID>spazzole-roca-extraflex-in-acciaio-brunito-l-455-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
+    <OriginalPrice>102.56</OriginalPrice>
+    <Price>56.98</Price>
+    <Code>4000150</Code>
+    <Link>https://www.onautica.com/products/sportello-abs-calpestabile-qt-large-bianco?variant=52513566916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_c46e1ea1-27a3-42e2-b662-8c8afa6d9a94.png?v=1768295288</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057685133754</EanCode>
+    <Weight>2.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-calpestabile-qt-large-bianco_misure.png?v=1768295288</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4000150c.png?v=1773341933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-abs-calpestabile-qt-large-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Sportello</Name>
@@ -45683,22 +45573,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>tergicristalli-w10m-12v-perno-28-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Toilette Marina Elettrica Jabsco 37010 - 12V Compact</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La Toilette Marina Elettrica JABSCO Serie 37010 è la soluzione professionale per imbarcazioni dove lo spazio è un fattore critico. Grazie al suo design con ciotola compatta e il funzionamento intuitivo tramite un singolo pulsante, offre il massimo comfort</Description>
-    <OriginalPrice>789.42</OriginalPrice>
-    <Price>526.28</Price>
-    <Code>50.225.12</Code>
-    <Link>https://www.onautica.com/products/toilette-marina-elettrica-jabsco-37010-compact-12v?variant=52577455767899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-marina-elettrica-jabsco-37010-12v.jpg?v=1773341713</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/compact2.png?v=1773341713</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Torre Portacanna Abbattibile Universale in Alluminio – 6 Posti</Name>
     <Brand>Osculati</Brand>
     <Description>La Torre Portacanna Abbattibile è una struttura robusta e versatile, progettata per l&apos;installazione su diverse tipologie di imbarcazioni (Open, Console, ecc.). Realizzata interamente in alluminio anodizzato , garantisce un&apos;eccellente resistenza alla corro</Description>
@@ -45750,6 +45624,22 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tovagliettatavolobordogrigio.png?v=1762891533</Image3>
     <Condition>nuovo</Condition>
     <ParentID>tovaglietta-antiscivolo-per-tavolo-stay-mat</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua</Name>
+    <Brand>Osculati</Brand>
+    <Description>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua Caratteristiche principali Lunghezza standard da competizione: 21,7 metri, ideale per sci d&apos;acqua agonistico Diametro di 7,5 mm per una presa salda e una gestione ottimale in acqua Costruzione int</Description>
+    <OriginalPrice>32.60</OriginalPrice>
+    <Price>23.29</Price>
+    <Code>64.421.00</Code>
+    <Link>https://www.onautica.com/products/treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua?variant=52577498071387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_Sci_da_Competizione_21_7_mt._7_5_mm._Sci_d_acqua.jpg?v=1773341848</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137034527</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua</ParentID>
   </Offer>
   <Offer>
     <Name>Tubo Spiralato Armato per Impianti - Ø 30 mm.</Name>
@@ -46058,22 +45948,6 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8057457200868</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Nero RAL 9005</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
-    <OriginalPrice>13.68</OriginalPrice>
-    <Price>9.77</Price>
-    <Code>52.570.02</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563063131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057457200837</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
   </Offer>
@@ -46591,52 +46465,93 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
   </Offer>
   <Offer>
-    <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
-    <Brand>Seaflo</Brand>
-    <Description>Il WC chimico portatile Seaflo SFPT-12-03 è la soluzione igienica compatta e affidabile per piccoli natanti e per tutte le situazioni in mare dove non sono disponibili servizi igienici a bordo. Progettato per garantire comfort e praticità anche negli spaz</Description>
-    <OriginalPrice>122.15</OriginalPrice>
-    <Price>84.24</Price>
-    <Code>10318</Code>
-    <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-seaflo-sfpt-12-03?variant=52577466155355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna CB RA127 di Glomex è progettata specificamente per le comunicazioni in banda cittadina (Citizen Band) in ambiente marino. Grazie al suo stilo realizzato in vetroresina di alta qualità con finitura poliuretanica, garantisce un&apos;eccellente resiste</Description>
+    <OriginalPrice>133.80</OriginalPrice>
+    <Price>102.89</Price>
+    <Code>5636415</Code>
+    <Link>https://www.onautica.com/products/antenna-cb-glomex-ra127?variant=52577378992475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Wc_chimico_Porta_Potti_Seaflo_SFPT-12-03.png?v=1773341750</Image>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-cb-glomex-ra127_a216f354-956c-443a-89a9-7023e51f8be4.png?v=1773341526</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626433312</EanCode>
+    <EanCode>8051566301140</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-prolunga-antenna-cb-glomex.png?v=1773341529</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>offerta-wc-chimico-porta-potti-seaflo-sfpt-12-03</ParentID>
+    <ParentID>antenna-cb-glomex-ra127</ParentID>
   </Offer>
   <Offer>
-    <Name>Wc chimico Porta Potti Thetford QUBE 165 bianco</Name>
-    <Brand>Thetford</Brand>
-    <Description>Il Porta Potti Qube 165 di Thetford è un WC chimico portatile dalla forma compatta e dal design moderno, ideale per imbarcazioni da diporto, camper e uso esterno. Pratico e igienico, garantisce comfort a bordo anche negli spazi più ridotti. Serbatoio supe</Description>
-    <OriginalPrice>146.31</OriginalPrice>
-    <Price>100.91</Price>
-    <Code>50.217.06</Code>
-    <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-thetford-qube-165-bianco?variant=52577466220891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Name>Antenna Radio AM/FM Glomex Compatta in Gomma Flessibile (30 cm)</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna Glomex AM/FM Compatta è la soluzione perfetta per chi cerca un&apos;antenna radio discreta, resistente e facile da installare. Realizzata in nylon e gomma flessibile resistente ai raggi UV, questa antenna è progettata per durare nel tempo senza ingi</Description>
+    <OriginalPrice>60.60</OriginalPrice>
+    <Price>46.61</Price>
+    <Code>29.128.10</Code>
+    <Link>https://www.onautica.com/products/antenna-am-fm-glomex-flessibile-compatta?variant=52577378697563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Wc_chimico_Porta_Potti_Thetford_QUBE_165_bianco.png?v=1773341751</Image>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile.png?v=1773341526</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8710315024548</EanCode>
+    <EanCode>8051566301065</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-am-fm-glomex-gomma-flessibile_flex.png?v=1773341527</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>offerta-wc-chimico-porta-potti-thetford-qube-165-bianco</ParentID>
+    <ParentID>antenna-am-fm-glomex-flessibile-compatta</ParentID>
   </Offer>
   <Offer>
-    <Name>WC Manuale Compact JABSCO con Sistema Twist &apos;n&apos; Lock</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La Toilette Manuale Jabsco Compact è progettata per offrire la massima sicurezza, igiene e facilità d&apos;uso a bordo. Questo modello è lo standard di riferimento per l&apos;installazione su barche a vela o a motore, risultando idoneo sia sopra che sotto la linea </Description>
-    <OriginalPrice>329.13</OriginalPrice>
-    <Price>219.42</Price>
-    <Code>1322001</Code>
-    <Link>https://www.onautica.com/products/toilette-manuale-jabsco-compact-twist-lock-wc-nautico?variant=52577456324955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Name>Antenna VHF Glomex in Vetroresina per Testa d&apos;Albero (0,9 m) – Serie Sail - Senza Cavo</Name>
+    <Brand>Glomex</Brand>
+    <Description>Le Antenne VHF Glomex Serie Sail sono progettate specificamente per l&apos;installazione in testa d&apos;albero su barche a vela . Lo stilo conico in vetroresina garantisce leggerezza, flessibilità e una resistenza eccezionale agli agenti atmosferici marini, riduce</Description>
+    <OriginalPrice>101.10</OriginalPrice>
+    <Price>77.80</Price>
+    <Code>5636311</Code>
+    <Link>https://www.onautica.com/products/antenna-vhf-glomex-vetroresina-vela-09m?variant=52520429683035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock.png?v=1773341715</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock_misure.png?v=1773341715</Image2>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra109grp-vela.png?v=1773341953</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566300822</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>toilette-manuale-jabsco-compact-twist-lock-wc-nautico</ParentID>
+    <ParentID>antenna-vhf-glomex-vetroresina-vela-09m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antenna VHF Glomex RA106 Glomeasy con Attacco FME e Accessori - Antenna Glomex Vhf RA106 Grp Fme</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna VHF RA106 della linea Glomeasy è progettata per offrire massima versatilità e facilità di installazione su qualsiasi tipo di imbarcazione. È disponibile in due versioni: in Vetroresina (GRP) bianca o in Acciaio Inox (SLS) . Il sistema si basa s</Description>
+    <OriginalPrice>65.90</OriginalPrice>
+    <Price>50.68</Price>
+    <Code>10072</Code>
+    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra106-glomeasy-fme-accessori?variant=52513477558619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme.png?v=1767706660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566303014</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme_base.png?v=1767706660</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra106-glomeasy-fme_manicotto.png?v=1767706660</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-vhf-glomex-ra106-glomeasy-fme-accessori</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antenna VHF Marina Glomex RA112 in Vetroresina per Barche a Motore (1,5 mt.)</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos; Antenna VHF RA112 è un classico della gamma Glomex, progettata specificamente per l&apos;installazione su barche a motore . La sua struttura in vetroresina con finitura poliuretanica lucida garantisce un&apos;estetica elegante e una protezione totale contro i ra</Description>
+    <OriginalPrice>73.80</OriginalPrice>
+    <Price>56.80</Price>
+    <Code>5636215</Code>
+    <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra112-barche-motore?variant=52577378369883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-vhf-glomex-ra112-motore.png?v=1773341526</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566300624</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-vhf-glomex-ra112-barche-motore</ParentID>
   </Offer>
   <Offer>
     <Name>Attacco Tangone Inox per Albero Ø 55-60 mm – Anello 6 mm</Name>
@@ -46652,6 +46567,22 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>attacco-tangone-inox-albero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Base Antenna Regolabile a Pomello in Nylon Rinforzato</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa base è un componente versatile per l&apos;installazione delle antenne di bordo, ideale per chi necessita di poter regolare l&apos;inclinazione o l&apos;angolo di montaggio con facilità. Caratteristiche Principali: Materiale: Realizzata in Nylon Rinforzato , garan</Description>
+    <OriginalPrice>14.36</OriginalPrice>
+    <Price>10.63</Price>
+    <Code>5636500</Code>
+    <Link>https://www.onautica.com/products/base-regolabile-pomello-nylon-47x75?variant=52577501380955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEREGOLABILEAPOMELLOINNYLONRINFORZATO.png?v=1773341861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626147578</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>base-regolabile-pomello-nylon-47x75</ParentID>
   </Offer>
   <Offer>
     <Name>Bozzello 8x28 mm. singolo da incasso</Name>
@@ -47159,6 +47090,42 @@ bocche Ø 14 mm.</Name>
     <ParentID>manovella-antal-single-grip-200mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Midland Alan 100 Plus B – CB Veicolare Compatto 40 Canali AM/FM</Name>
+    <Brand>MY-X</Brand>
+    <Description>Il Midland Alan 100 Plus B è il ricetrasmettitore che dal 1998 rappresenta il punto di riferimento per chi cerca l&apos;essenzialità e l&apos;affidabilità. È il dispositivo ideale per affacciarsi al mondo del baracchino: semplice, immediato e dotato di tutto ciò ch</Description>
+    <OriginalPrice>152.52</OriginalPrice>
+    <Price>112.98</Price>
+    <Code>C442.12</Code>
+    <Link>https://www.onautica.com/products/midland-alan-100-plus-b-cb?variant=52577505149275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-100-plus-b-cb-compatto1.png?v=1773341870</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011869204524</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-100-plus-b-cb-compatto2.png?v=1773341870</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-100-plus-b-cb-compatto3.png?v=1773341870</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>midland-alan-100-plus-b-cb</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Midland Alan Quarantotto – Il CB AM/FM Storico con Noise Blanker</Name>
+    <Brand>Fortek</Brand>
+    <Description>Il Midland Alan Quarantotto non ha bisogno di presentazioni: è il ricetrasmettitore che ha fatto la storia della comunicazione su gomma in Italia. Da oltre 30 anni è il dispositivo più venduto e amato da camionisti, camperisti e appassionati, un vero e pr</Description>
+    <OriginalPrice>356.89</OriginalPrice>
+    <Price>264.36</Price>
+    <Code>C217.09</Code>
+    <Link>https://www.onautica.com/products/midland-alan-quarantotto-cb?variant=52577505706331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-quarantotto-cb-am-fm..png?v=1773341870</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8011869192425</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-quarantotto-cb-am-fm1..png?v=1773341872</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/midland-alan-quarantotto-cb-am-fm2..png?v=1773341872</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>midland-alan-quarantotto-cb</ParentID>
+  </Offer>
+  <Offer>
     <Name>Moschettone Spi Sgancio Rapido Inox 316 – 74mm con Grillo</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Moschettone Spi con Grillo Girevole (74 mm) è un accessorio tecnico di alta gamma, progettato per garantire manovre rapide e sicure su imbarcazioni a vela performanti. Costruito interamente in Acciaio Inox AISI 316 (microfusione), offre la massima resi</Description>
@@ -47173,6 +47140,22 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/moschettone-spi-inox-316-grillo-misura.png?v=1773341592</Image2>
     <Condition>nuovo</Condition>
     <ParentID>moschettone-spi-inox-316-grillo-74mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passacavo Stagno Glomex RA140 in Nylon per Cavi Coassiali</Name>
+    <Brand>Glomex</Brand>
+    <Description>Il Passacavo Stagno Glomex RA140 è un componente essenziale per chi desidera installare antenne VHF o altri apparati elettronici a bordo in modo pulito e professionale. Realizzato in Nylon di alta qualità resistente ai raggi UV e alla salsedine, questo pa</Description>
+    <OriginalPrice>11.55</OriginalPrice>
+    <Price>8.25</Price>
+    <Code>5637112</Code>
+    <Link>https://www.onautica.com/products/passacavo-stagno-glomex-ra140-cavi-coassiali?variant=52577467859291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/passacavo-stagno-glomex-ra140-nylon-cavo-vhf.webp?v=1775226059</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8051566301317</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>passacavo-stagno-glomex-ra140-cavi-coassiali</ParentID>
   </Offer>
   <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
@@ -47691,6 +47674,54 @@ bocche Ø 14 mm.</Name>
     <ParentID>tasca-manovella-winch-navishell-ventosa</ParentID>
   </Offer>
   <Offer>
+    <Name>Toilette Marina Elettrica Jabsco 37010 - 12V Compact</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La Toilette Marina Elettrica JABSCO Serie 37010 è la soluzione professionale per imbarcazioni dove lo spazio è un fattore critico. Grazie al suo design con ciotola compatta e il funzionamento intuitivo tramite un singolo pulsante, offre il massimo comfort</Description>
+    <OriginalPrice>789.42</OriginalPrice>
+    <Price>526.28</Price>
+    <Code>50.225.12</Code>
+    <Link>https://www.onautica.com/products/toilette-marina-elettrica-jabsco-37010-compact-12v?variant=52577455767899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-marina-elettrica-jabsco-37010-12v.jpg?v=1773341713</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/compact2.png?v=1773341713</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
+    <Brand>Seaflo</Brand>
+    <Description>Il WC chimico portatile Seaflo SFPT-12-03 è la soluzione igienica compatta e affidabile per piccoli natanti e per tutte le situazioni in mare dove non sono disponibili servizi igienici a bordo. Progettato per garantire comfort e praticità anche negli spaz</Description>
+    <OriginalPrice>122.15</OriginalPrice>
+    <Price>84.24</Price>
+    <Code>10318</Code>
+    <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-seaflo-sfpt-12-03?variant=52577466155355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Wc_chimico_Porta_Potti_Seaflo_SFPT-12-03.png?v=1773341750</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626433312</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-wc-chimico-porta-potti-seaflo-sfpt-12-03</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Wc chimico Porta Potti Thetford QUBE 165 bianco</Name>
+    <Brand>Thetford</Brand>
+    <Description>Il Porta Potti Qube 165 di Thetford è un WC chimico portatile dalla forma compatta e dal design moderno, ideale per imbarcazioni da diporto, camper e uso esterno. Pratico e igienico, garantisce comfort a bordo anche negli spazi più ridotti. Serbatoio supe</Description>
+    <OriginalPrice>146.31</OriginalPrice>
+    <Price>100.91</Price>
+    <Code>50.217.06</Code>
+    <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-thetford-qube-165-bianco?variant=52577466220891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Wc_chimico_Porta_Potti_Thetford_QUBE_165_bianco.png?v=1773341751</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8710315024548</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-wc-chimico-porta-potti-thetford-qube-165-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>WC Elettrico Silent Compact 12V Osculati</Name>
     <Brand>Osculati</Brand>
     <Description>Questo WC elettrico, parte della serie Evolution, è la scelta ideale per chi cerca l&apos;efficienza di un sistema elettrico unita al massimo comfort acustico. Il modello Compact è perfetto per le installazioni dove lo spazio è ridotto. Caratteristiche Esclusi</Description>
@@ -47706,6 +47737,22 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/WCelettricoSilentCompact12VOsculatib.png?v=1773341536</Image2>
     <Condition>nuovo</Condition>
     <ParentID>wc-elettrico-silent-compact-12v-maceratore-basso-rumore</ParentID>
+  </Offer>
+  <Offer>
+    <Name>WC Manuale Compact JABSCO con Sistema Twist &apos;n&apos; Lock</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La Toilette Manuale Jabsco Compact è progettata per offrire la massima sicurezza, igiene e facilità d&apos;uso a bordo. Questo modello è lo standard di riferimento per l&apos;installazione su barche a vela o a motore, risultando idoneo sia sopra che sotto la linea </Description>
+    <OriginalPrice>329.13</OriginalPrice>
+    <Price>219.42</Price>
+    <Code>1322001</Code>
+    <Link>https://www.onautica.com/products/toilette-manuale-jabsco-compact-twist-lock-wc-nautico?variant=52577456324955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock.png?v=1773341715</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock_misure.png?v=1773341715</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>toilette-manuale-jabsco-compact-twist-lock-wc-nautico</ParentID>
   </Offer>
   <Offer>
     <Name>Zerbino poliuretano 40x68 cm Ancora</Name>
@@ -47728,8 +47775,8 @@ bocche Ø 14 mm.</Name>
     <Name>Zerbino poliuretano 40x68 cm. Marlin</Name>
     <Brand>Marlin</Brand>
     <Description>Questo zerbino mezzaluna Format misura 40x68 cm. è realizzato in poliuretano espanso a cellule chiuse, garantendo una struttura compatta e durevole. La superficie è rivestita con uno strato morbido di velour colorato, che assicura una piacevole sensazione</Description>
-    <OriginalPrice>27.20</OriginalPrice>
-    <Price>19.43</Price>
+    <OriginalPrice>30.17</OriginalPrice>
+    <Price>21.55</Price>
     <Code>23.909.08</Code>
     <Link>https://www.onautica.com/products/zerbinetto-poliuretano-40x68-cm-marlin?variant=52577500823899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -47744,8 +47791,8 @@ bocche Ø 14 mm.</Name>
     <Name>Zerbino poliuretano 40x68 cm. Pirata</Name>
     <Brand>Osculati</Brand>
     <Description>Questo zerbino mezzaluna Format misura 40x68 cm. è realizzato in poliuretano espanso a cellule chiuse, garantendo una struttura compatta e durevole. La superficie è rivestita con uno strato morbido di velour colorato, che assicura una piacevole sensazione</Description>
-    <OriginalPrice>27.20</OriginalPrice>
-    <Price>19.43</Price>
+    <OriginalPrice>30.17</OriginalPrice>
+    <Price>21.55</Price>
     <Code>23.909.06</Code>
     <Link>https://www.onautica.com/products/zerbinetto-poliuretano-40x68-cm-pirata?variant=52577500692827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
