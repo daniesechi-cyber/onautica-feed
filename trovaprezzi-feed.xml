@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-21T14:31:28.007Z -->
-<!-- Offerte: 2935 -->
+<!-- Generato: 2026-07-21T18:11:06.676Z -->
+<!-- Offerte: 2938 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -2403,7 +2403,7 @@
     <Price>11.77</Price>
     <Code>349013 8</Code>
     <Link>https://www.onautica.com/products/guanti-nitrile-pesca-lunghi-46cm?variant=52516552278363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/guanti-nitrile-pesca-lunghi-46cm.png?v=1773341067</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -5934,6 +5934,24 @@
     <ParentID>anodo-barra-alluminio-johnson-evinrude-60-300hp-5007089</ParentID>
   </Offer>
   <Offer>
+    <Name>Anodo Barra in Alluminio per Yamaha 115-350 HP – Rif. 6G5-45251-02</Name>
+    <Brand>Yamaha</Brand>
+    <Description>L&apos; Anodo a Barra in Alluminio è la soluzione ottimale per la protezione della staffa (bracket) dei motori fuoribordo Yamaha di media e alta potenza (da 115 a 350 HP). Sostituendo il tradizionale anodo in zinco con questo modello in lega di alluminio, si r</Description>
+    <OriginalPrice>36.30</OriginalPrice>
+    <Price>22.71</Price>
+    <Code>5126015</Code>
+    <Link>https://www.onautica.com/products/anodo-barra-alluminio-yamaha-115-350hp-6g5-45251-02?variant=52577395671387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-alluminio-yamaha-115-350hp.png?v=1773341567</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>628309100759</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-alluminio-yamaha-115-350hpsotto.png?v=1773341569</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-alluminio-yamaha-115-350hpmisura.png?v=1773341570</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-barra-alluminio-yamaha-115-350hp-6g5-45251-02</ParentID>
+  </Offer>
+  <Offer>
     <Name>Anodo Barra in Alluminio per Yamaha 40-100 HP – Rif. 6H1-45251-02</Name>
     <Brand>Yamaha</Brand>
     <Description>L&apos; Anodo a Barra in Alluminio è il ricambio di nuova generazione per la protezione della staffa (bracket) dei motori fuoribordo Yamaha da 40 a 100 HP . Rispetto al classico anodo in zinco, questa versione in lega di alluminio offre un rapporto peso/presta</Description>
@@ -6071,6 +6089,23 @@
     <ParentID>anodo-carena-zinco-sgsh5-saldare</ParentID>
   </Offer>
   <Offer>
+    <Name>Anodo da Carena in Zinco Serie SGSH5 con Piattina da Saldare - 2.20 kg.</Name>
+    <Brand>Martyr</Brand>
+    <Description>Proteggi lo scafo della tua imbarcazione commerciale o da diporto con l&apos; Anodo da Carena Serie SGSH5 in Zinco . Questo anodo sacrificale è progettato per offrire una protezione catodica robusta e duratura in acqua di mare , ideale per installazioni su sca</Description>
+    <OriginalPrice>28.07</OriginalPrice>
+    <Price>20.05</Price>
+    <Code>SGSH509Z</Code>
+    <Link>https://www.onautica.com/products/anodo-carena-zinco-sgsh5-saldare?variant=52519202160987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-carena-zinco-sgsh5-saldare.png?v=1773341568</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>2.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-carena-zinco-sgsh5-saldaremisura.png?v=1773341571</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-carena-zinco-sgsh5-saldare</ParentID>
+  </Offer>
+  <Offer>
     <Name>Anodo di Poppa 140x35 mm in Alluminio – Anodo Sacrificale Anticorrosione per Barca</Name>
     <Brand>Osculati</Brand>
     <Description>Anodo per poppa. Materiale Ø base mm Altezza mm alluminio 140 35 1,3 Caratteristiche principali Realizzato in lega di alluminio , ideale per acque salmastre e salate Dimensioni compatte 140x35 mm , progettate per un&apos;installazione precisa a poppa Protegge </Description>
@@ -6163,7 +6198,7 @@
     <Price>12.37</Price>
     <Code>CMROD12500</Code>
     <Link>https://www.onautica.com/products/anodo-barra-zinco-tonda-400mm?variant=52577395966299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-barra-zinco-400mm.png?v=1773341569</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -6554,6 +6589,24 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>628309209476</EanCode>
     <Weight>0.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-elica-beneteau-martyr.png?v=1768933265</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-zinco-beneteau-martyr_misure.jpg?v=1773341753</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-ogiva-zinco-elica-beneteau</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Anodo Ogiva in Zinco per Dado Elica Beneteau (Martyr) - Ø 45 mm.</Name>
+    <Brand>Martyr</Brand>
+    <Description>Proteggi efficacemente l&apos;elica e l&apos;asse della tua imbarcazione dalla corrosione galvanica con l&apos; Anodo a Ogiva in Zinco Martyr . Questo anodo sacrificale è specificamente progettato per essere installato sul dado di fissaggio dell&apos;elica (Prop Nut Anode), </Description>
+    <OriginalPrice>17.38</OriginalPrice>
+    <Price>12.41</Price>
+    <Code>CMAN245EUZ</Code>
+    <Link>https://www.onautica.com/products/anodo-ogiva-zinco-elica-beneteau?variant=52519627915611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Assi ed Eliche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-elica-beneteau-martyr_vari_lati.png?v=1768933265</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>628309211400</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-elica-beneteau-martyr.png?v=1768933265</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-ogiva-zinco-beneteau-martyr_misure.jpg?v=1773341753</Image3>
     <Condition>nuovo</Condition>
@@ -7137,7 +7190,7 @@
     <Price>6.48</Price>
     <Code>5124012</Code>
     <Link>https://www.onautica.com/products/anodo-rondella-alluminio-suzuki-dt-4-8hp-11130-94600?variant=52577397670235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-rondella-alluminio-suzuki-dt-4-8hp-11130-94600.png?v=1773341574</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12964,7 +13017,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>10.37</Price>
     <Code>3813002BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52517249286491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17064,7 +17117,7 @@ L 320mm. - Ø22</Name>
     <Price>7.62</Price>
     <Code>3500124</Code>
     <Link>https://www.onautica.com/products/lastrina-giunzione-angolare-hd-acciaio-inox-316?variant=52676576936283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lastrina-giunzione-angolare-hd-acciaio-inox-316.webp?v=1774698802</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -23558,6 +23611,25 @@ L 320mm. - Ø22</Name>
     <ParentID>gancio-da-ormeggio-boatasy-hooklinker</ParentID>
   </Offer>
   <Offer>
+    <Name>Gancio da Ormeggio Scrubbis Catching con Manico Telescopico fino a 210 cm - Standard</Name>
+    <Brand>Scrubbis</Brand>
+    <Description>Gancio da Ormeggio Scrubbis Catching con Manico Telescopico fino a 210 cm Gancio da ormeggio multifunzione Scrubbis Catching completo del manico telescopico Scrubbis Waterline, allungabile fino a 210 cm. Venduto già assemblato, pronto all&apos;uso. A chi è riv</Description>
+    <OriginalPrice>135.45</OriginalPrice>
+    <Price>100.35</Price>
+    <Code>10012</Code>
+    <Link>https://www.onautica.com/products/gancio-da-ormeggio-scrubbis-catching-con-manico-telescopico-fino-a-210-cm?variant=53617630904667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scr_gancio_clean.webp?v=1784386166</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>7350066861071</EanCode>
+    <Weight>1.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scr_gancio2_clean.webp?v=1784386168</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scr_gancio3_clean.webp?v=1784386170</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>gancio-da-ormeggio-scrubbis-catching-con-manico-telescopico-fino-a-210-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Suzuki (2T / 4T) - 1814284</Name>
     <Brand>Suzuki</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Suzuki Marine . Realizzate con elastomeri di alta qualità, assicurano una perfetta tenuta e un flusso d&apos;acqua costante per il raffreddamento del motore. Disponibili per un</Description>
@@ -29900,23 +29972,6 @@ L 320mm. - Ø22</Name>
     <ParentID>pompa-sentina-rule-new-generation-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 12V / 2000GHP</Name>
-    <Brand>Rule</Brand>
-    <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
-    <OriginalPrice>262.32</OriginalPrice>
-    <Price>210.19</Price>
-    <Code>1821520</Code>
-    <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989823323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-standard-2000.png?v=1773341737</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>042237083326</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-standard-1500.png?v=1773341738</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-sentina-rule-standard-1500-2000</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 12V / 1500GHP</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
@@ -33489,7 +33544,7 @@ L 320mm. - Ø22</Name>
     <Price>8.18</Price>
     <Code>1430040</Code>
     <Link>https://www.onautica.com/products/portagomma-maschio-ottone?variant=51595088167259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Portagomma_1_-1_2x38_mm._maschio_in_ottone.png?v=1773341778</Image>
     <ShippingCost>5.90</ShippingCost>
