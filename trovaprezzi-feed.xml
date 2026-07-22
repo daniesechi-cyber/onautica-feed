@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-22T10:31:08.543Z -->
-<!-- Offerte: 2933 -->
+<!-- Generato: 2026-07-22T14:31:23.253Z -->
+<!-- Offerte: 2930 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -11259,23 +11259,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>barra-connessione-150a-12m4-2m6-rossa</ParentID>
   </Offer>
   <Offer>
-    <Name>Blister 4 pz. elastici con palline fissavele e usi vari 50 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Blister 4 pezzi di e lastici con palline fissavele e usi vari. Caratteristiche principali Confezione da 4 elastici, pronti all&apos;uso e facili da riporre a bordo Lunghezza 50 cm, versatile per molteplici applicazioni nautiche Palline terminali per un fissagg</Description>
-    <OriginalPrice>8.33</OriginalPrice>
-    <Price>5.95</Price>
-    <Code>10738</Code>
-    <Link>https://www.onautica.com/products/elastici-con-pallina-50cm?variant=52577525039451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/palline4pezzi.png?v=1773341932</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626094117</EanCode>
-    <Weight>0.12</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>elastici-con-pallina-50cm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Borsa con dotazioni entro le 3 miglia per 4 persone - Borsa piena con dotazioni</Name>
     <Brand>LALIZAS</Brand>
     <Description>Borsa con dotazioni di sicurezza per 4 persone entro le 3 miglia dalla costa. Comprende: 4 giubbini omologati 100N conformi 1 30mt di cima galleggiante da 8mm 1 estintore com manometro 1 segnalatore acustico 1 sessula 1 ancora ad ombrello 1 mezzo marinaio</Description>
@@ -11545,7 +11528,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>28.34</Price>
     <Code>32.914.54</Code>
     <Link>https://www.onautica.com/products/cassetta-di-pronto-soccorso-help?variant=52577526939995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/32.914.54b.png?v=1773341938</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -19466,24 +19449,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.10d.png?v=1773341727</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-ghiacciaia-igloo-wheelie-38-36lt-blu-con-ruote</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Girante di Ricambio per Motori Fuoribordo Tomos (2 Tempi)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Girante pompa acqua di ricambio specifica per motori fuoribordo Tomos . Questo componente è essenziale per il sistema di raffreddamento del motore, garantendo il corretto flusso d&apos;acqua e prevenendo danni da surriscaldamento. Il ricambio è compatibile con</Description>
-    <OriginalPrice>25.40</OriginalPrice>
-    <Price>21.18</Price>
-    <Code>10068</Code>
-    <Link>https://www.onautica.com/products/girante-ricambio-motori-tomos?variant=52577389936987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos.png?v=1773341552</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.15</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos3.png?v=1773341553</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos2.png?v=1773341554</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>girante-ricambio-motori-tomos</ParentID>
   </Offer>
   <Offer>
     <Name>Girante Pompa Johnson 09-1077B-9</Name>
@@ -29345,6 +29310,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825500.png?v=1773341967</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626053602</EanCode>
+    <Weight>2.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pompa_autoadescante_30_lt_min._corpo_bronzo_12V.png?v=1773341968</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825500b_b121e52d-1813-496f-baa0-9d73625988cb.png?v=1773341969</Image3>
     <Condition>nuovo</Condition>
@@ -36744,6 +36710,157 @@ L 320mm. - Ø22</Name>
     <ParentID>cavo-telecomando-ultraflex-c14-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 2.10 metri - 7 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>117.25</OriginalPrice>
+    <Price>81.99</Price>
+    <Code>35857P</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52513506066779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 2.75 metri - 9 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>126.95</OriginalPrice>
+    <Price>87.55</Price>
+    <Code>35859T</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349842779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358593</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 3.36 metri - 11 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>135.00</OriginalPrice>
+    <Price>93.10</Price>
+    <Code>35861L</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349908315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358616</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 3.66 metri - 12 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>139.03</OriginalPrice>
+    <Price>95.88</Price>
+    <Code>35862M</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349941083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358623</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 4.27 metri - 14 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>147.07</OriginalPrice>
+    <Price>101.43</Price>
+    <Code>35864O</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350006619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358647</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 4.59 metri - 15 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>151.09</OriginalPrice>
+    <Price>104.20</Price>
+    <Code>35865P</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350039387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358654</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 4.88 metri - 16 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>155.12</OriginalPrice>
+    <Price>106.98</Price>
+    <Code>35866Q</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350072155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 5.19 metri - 17 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>159.15</OriginalPrice>
+    <Price>109.76</Price>
+    <Code>35867R</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350104923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358678</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 6.60 metri - 22 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>179.28</OriginalPrice>
+    <Price>123.64</Price>
+    <Code>35872O</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350137691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358722</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
     <Name>Comandi Up-Down a piede bianco Quick salpa ancora</Name>
     <Brand>Quick</Brand>
     <Description>Il comando a piede Quick SERIE 900 per salpa ancora è un interruttore a pedale stagno, progettato con precisione per offrire un controllo affidabile e sicuro su qualsiasi modello di verricello elettrico. La sua struttura garantisce un’elevata resistenza a</Description>
@@ -39442,21 +39559,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>set-buste-yellow-baggy-3-pz</ParentID>
   </Offer>
   <Offer>
-    <Name>Snodo A44 Zincato per Timoneria a Cavi – Giunto con Filetto Terminale per Barca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Per cavi timoneria con filetto terminale. Lo snodo A44 zincato è un accessorio per sistemi di timoneria, progettato per garantire un collegamento articolato affidabile nei cavi con filetto terminale. La zincatura lo rende adatto all&apos;uso in ambiente marino</Description>
-    <OriginalPrice>37.85</OriginalPrice>
-    <Price>27.04</Price>
-    <Code>10683</Code>
-    <Link>https://www.onautica.com/products/a44-zincato-attacco-sferico-sgancio-rapido?variant=52577412383067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/A44.png?v=1773341611</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>a44-zincato-attacco-sferico-sgancio-rapido</ParentID>
-  </Offer>
-  <Offer>
     <Name>Staffa di Poppa a Snodo S39 Ultraflex – Supporto Snodato per Timoneria a Poppa</Name>
     <Brand>Ultraflex</Brand>
     <Description>La staffa di poppa a snodo S39 Ultraflex è un accessorio dedicato ai sistemi di timoneria, progettato per il fissaggio e il supporto dei comandi a poppa. Grazie al suo meccanismo snodato, garantisce mobilità e adattabilità durante l&apos;installazione, facilit</Description>
@@ -40801,157 +40903,6 @@ bocche Ø 14 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>catalizzatore-pu-l100-smalto-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 2.10 metri - 7 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>117.25</OriginalPrice>
-    <Price>81.99</Price>
-    <Code>35857P</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52513506066779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 2.75 metri - 9 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>126.95</OriginalPrice>
-    <Price>87.55</Price>
-    <Code>35859T</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349842779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358593</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 3.36 metri - 11 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>135.00</OriginalPrice>
-    <Price>93.10</Price>
-    <Code>35861L</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349908315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358616</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 3.66 metri - 12 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>139.03</OriginalPrice>
-    <Price>95.88</Price>
-    <Code>35862M</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349941083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358623</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 4.27 metri - 14 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>147.07</OriginalPrice>
-    <Price>101.43</Price>
-    <Code>35864O</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350006619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358647</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 4.59 metri - 15 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>151.09</OriginalPrice>
-    <Price>104.20</Price>
-    <Code>35865P</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350039387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358654</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 4.88 metri - 16 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>155.12</OriginalPrice>
-    <Price>106.98</Price>
-    <Code>35866Q</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350072155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 5.19 metri - 17 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>159.15</OriginalPrice>
-    <Price>109.76</Price>
-    <Code>35867R</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350104923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358678</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 6.60 metri - 22 ft.</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
-    <OriginalPrice>179.28</OriginalPrice>
-    <Price>123.64</Price>
-    <Code>35872O</Code>
-    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514350137691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164358722</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
   </Offer>
   <Offer>
     <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 1.50 metri - 5 ft.</Name>
@@ -43968,6 +43919,21 @@ bocche Ø 14 mm.</Name>
     <EanCode>8031164300448</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>a44-inox-attacco-sferico-sgancio-rapido</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Snodo A44 Zincato per Timoneria a Cavi – Giunto con Filetto Terminale per Barca</Name>
+    <Brand>Osculati</Brand>
+    <Description>Per cavi timoneria con filetto terminale. Lo snodo A44 zincato è un accessorio per sistemi di timoneria, progettato per garantire un collegamento articolato affidabile nei cavi con filetto terminale. La zincatura lo rende adatto all&apos;uso in ambiente marino</Description>
+    <OriginalPrice>37.85</OriginalPrice>
+    <Price>27.04</Price>
+    <Code>10683</Code>
+    <Link>https://www.onautica.com/products/a44-zincato-attacco-sferico-sgancio-rapido?variant=52577412383067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/A44.png?v=1773341611</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>a44-zincato-attacco-sferico-sgancio-rapido</ParentID>
   </Offer>
   <Offer>
     <Name>Snodo per Stick Timone in Alluminio – Tenuta Orizzontale</Name>
@@ -47033,23 +46999,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033137007422</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
-    <OriginalPrice>34.02</OriginalPrice>
-    <Price>25.20</Price>
-    <Code>57.176.10</Code>
-    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-250mm?variant=52577515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-250mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007439</EanCode>
-    <Weight>0.32</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-winch-galleggiante-250mm</ParentID>
   </Offer>
   <Offer>
     <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
