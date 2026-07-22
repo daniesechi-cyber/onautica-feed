@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-22T14:31:23.253Z -->
-<!-- Offerte: 2930 -->
+<!-- Generato: 2026-07-22T18:11:11.953Z -->
+<!-- Offerte: 2928 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -17685,7 +17685,7 @@ L 320mm. - Ø22</Name>
     <Price>7.21</Price>
     <Code>41.170.93</Code>
     <Link>https://www.onautica.com/products/portacanne-multiplo-plastica-parete-2-3-4-posti?variant=52513550795099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_3.png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -19347,21 +19347,6 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-ghiacciaia-igloo-bmx-52-49lt-blu-5-giorni</ParentID>
   </Offer>
   <Offer>
-    <Name>Ghiacciaia Igloo Marine Profile II 50 QT - 47 lt. grigia</Name>
-    <Brand>Igloo</Brand>
-    <Description>Fabbricati con materiali UV resistenti con isolamento termico ad alta efficienza. Complete di maniglie per il trasporto. Concepite per l&apos;uso a bordo. Ideali per la conservazione degli alimenti, del pescato o come vasche per esche vive. Interno in material</Description>
-    <OriginalPrice>94.50</OriginalPrice>
-    <Price>75.61</Price>
-    <Code>50.558.50</Code>
-    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia?variant=52577366802779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.50.png?v=1773341484</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 25 - 23 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
@@ -19392,25 +19377,6 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica3.png?v=1773341726</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>3.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 54 - 51 lt.</Name>
-    <Brand>Igloo</Brand>
-    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
-    <OriginalPrice>130.50</OriginalPrice>
-    <Price>104.38</Price>
-    <Code>1540051</Code>
-    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035874651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica14.png?v=1773341724</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>034223446833</EanCode>
-    <Weight>4.88</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
@@ -34657,7 +34623,7 @@ L 320mm. - Ø22</Name>
     <ParentID>spazzola-a-mano-osculati</ParentID>
   </Offer>
   <Offer>
-    <Name>Spazzola Boat Line per Pulizia Barca – Corpo in PVC con Bordo in Gomma Antiurto</Name>
+    <Name>Spazzola Boat Line per Pulizia Barca �� Corpo in PVC con Bordo in Gomma Antiurto</Name>
     <Brand>Motomarine</Brand>
     <Description>La Spazzola Boat Line è progettata per affrontare lo sporco più ostinato e le incrostazioni più tenaci a bordo. Il corpo robusto in PVC garantisce durabilità nel tempo, mentre il bordo in gomma antiurto protegge le superfici della barca durante l&apos;utilizzo</Description>
     <OriginalPrice>11.55</OriginalPrice>
@@ -39678,6 +39644,22 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tanica-benzina-scena-a-bordo.webp?v=1783613775</Image2>
     <Condition>nuovo</Condition>
     <ParentID>tanica-benzina-hdpe-omologata-un-anti-uv</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo di imbarco in acciaio inox a 45° collo Ø 38 mm. acqua</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Tappi imbarco angolati in acciaio con apertura a scomparsa. Caratteristiche: Collo Ø 38 mm. Flangia Ø 82 mm. Caratteristiche principali Angolazione a 45° per un montaggio ottimale su superfici inclinate o spazi ridotti Costruito in acciaio inox per massim</Description>
+    <OriginalPrice>44.65</OriginalPrice>
+    <Price>31.89</Price>
+    <Code>4043277</Code>
+    <Link>https://www.onautica.com/products/tappo-o-38-mm-di-imbarco-in-acciaio-inox-45-water?variant=52577494696283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._di_imbarco_in_acciaio_inox_45_water_4.png?v=1773341839</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008725</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-o-38-mm-di-imbarco-in-acciaio-inox-45-water</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo di imbarco in acciaio inox collo Ø 38 mm. acqua</Name>
@@ -45438,22 +45420,6 @@ bocche Ø 14 mm.</Name>
     <Price>244.05</Price>
     <Code>46.165.02</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230088027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-invernale-atlas.png?v=1773341992</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-invernale-atlas_dettagli.png?v=1773341993</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>oceansouth-telo-copribarca-invernale-atlas-ultra-resistente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Telo Coprigommone Invernale Ultra Resistente per RIB con Roll-Bar – Oceansouth - 540/560 cm.</Name>
-    <Brand>Oceansouth</Brand>
-    <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
-    <OriginalPrice>307.60</OriginalPrice>
-    <Price>246.11</Price>
-    <Code>46.165.03</Code>
-    <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230120795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-invernale-atlas.png?v=1773341992</Image>
