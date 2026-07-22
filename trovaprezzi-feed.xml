@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-22T06:31:33.543Z -->
-<!-- Offerte: 2940 -->
+<!-- Generato: 2026-07-22T10:31:08.543Z -->
+<!-- Offerte: 2933 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -3300,8 +3300,8 @@
     <Name>Rivestimento Nautico in Fintapelle Artico B41 Grigio per Interni ed Esterni</Name>
     <Brand>Italvipla</Brand>
     <Description>La Fintapelle Artico in variante B41 Grigio è un rivestimento tecnico di alta qualità, progettato specificamente per rispondere alle esigenze estetiche e funzionali del settore nautico moderno. La tonalità Grigio B41 offre un look contemporaneo e versatil</Description>
-    <OriginalPrice>47.50</OriginalPrice>
-    <Price>29.69</Price>
+    <OriginalPrice>53.60</OriginalPrice>
+    <Price>33.47</Price>
     <Code>ARTB41GR</Code>
     <Link>https://www.onautica.com/products/rivestimento-nautico-fintapelle-artico-b41-grigio?variant=52577504919899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -3316,8 +3316,8 @@
     <Name>Rivestimento Nautico in Fintapelle Artico D61 per Interni ed Esterni Beige</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Rivestimento Nautico Artico (Colore D61) è la soluzione definitiva per chi cerca un materiale d&apos;eccellenza capace di adattarsi alle sfide degli ambienti di bordo, sia indoor che outdoor. Grazie alla sua grana delicata che simula fedelmente il fiore del</Description>
-    <OriginalPrice>47.50</OriginalPrice>
-    <Price>29.69</Price>
+    <OriginalPrice>53.60</OriginalPrice>
+    <Price>33.47</Price>
     <Code>ARTD61BGE</Code>
     <Link>https://www.onautica.com/products/rivestimento-nautico-fintapelle-artico-d61-interni-esterni?variant=52577504887131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -3332,8 +3332,8 @@
     <Name>Rivestimento Nautico in Fintapelle Artico P35 Bianco per Interni ed Esterni</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Rivestimento Nautico Artico (Colore P35 – Bianco) è la soluzione definitiva per chi cerca un materiale d&apos;eccellenza capace di adattarsi alle sfide degli ambienti di bordo, sia indoor che outdoor. Grazie alla sua grana delicata che simula fedelmente il </Description>
-    <OriginalPrice>47.50</OriginalPrice>
-    <Price>29.69</Price>
+    <OriginalPrice>53.60</OriginalPrice>
+    <Price>33.47</Price>
     <Code>ARTP35BCO</Code>
     <Link>https://www.onautica.com/products/rivestimento-nautico-in-fintapelle-artico-p35-bianco-per-interni-ed-esterni?variant=53576616640859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -3348,8 +3348,8 @@
     <Name>Rivestimento Nautico in Fintapelle Blue Navy Artico G78 per Interni ed Esterni</Name>
     <Brand>Italvipla</Brand>
     <Description>La Fintapelle Artico in variante G78 rappresenta l&apos;eccellenza nei materiali da rivestimento per il settore nautico, coniugando un&apos;estetica luminosa e raffinata a prestazioni tecniche di livello professionale. La tonalità G78 è stata studiata per esaltare </Description>
-    <OriginalPrice>47.50</OriginalPrice>
-    <Price>29.69</Price>
+    <OriginalPrice>53.60</OriginalPrice>
+    <Price>33.47</Price>
     <Code>ARTG78BLU</Code>
     <Link>https://www.onautica.com/products/rivestimento-nautico-fintapelle-artico-g78-interni-esterni?variant=52773581848923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -5443,8 +5443,8 @@
     <Name>Tessuto Fintapelle Nautica Bianco 116 - Altezza 140 cm</Name>
     <Brand>GFN</Brand>
     <Description>Il Tessuto Fintapelle Nautica Bianco 116 è la scelta d&apos;elezione per chi cerca un rivestimento versatile, elegante e tecnicamente avanzato per l&apos;ambiente marino. Caratterizzato da una finitura liscia standard e una tonalità di bianco puro, questo tessuto è</Description>
-    <OriginalPrice>19.57</OriginalPrice>
-    <Price>14.49</Price>
+    <OriginalPrice>21.65</OriginalPrice>
+    <Price>16.03</Price>
     <Code>503350</Code>
     <Link>https://www.onautica.com/products/tessuto-fintapelle-nautica-bianco-116-metro?variant=52577526022491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -9305,7 +9305,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>8.75</Price>
     <Code>14.381.25</Code>
     <Link>https://www.onautica.com/products/cavo-batterie-rame-stagnato-nautico?variant=51796889895259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CAVOBATTERIA.png?v=1773341989</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12267,23 +12267,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>cima-ormeggio-alta-tenacita-occhio-impiombato-blu</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato Nera – 6 Misure Disponibili - Ø 12 mm x 7 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato a Mano Nera – Doppia Treccia Poliestere per Ormeggio Professionale La cima di ormeggio ad alta tenacità con occhio impiombato nera è la soluzione professionale per chi cerca massima affidabilità e pr</Description>
-    <OriginalPrice>17.00</OriginalPrice>
-    <Price>13.06</Price>
-    <Code>06.444.92</Code>
-    <Link>https://www.onautica.com/products/cima-ormeggio-alta-tenacita-occhio-impiombato-nera?variant=52899814867291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-alta-tenacita-occhio-impiombato-nera-6-misure.webp?v=1777557277</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137044489</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-alta-tenacita-occhio-impiombato-blu-6-misureblister.webp?v=1777545307</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-ormeggio-alta-tenacita-occhio-impiombato-nera</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato Nera – 6 Misure Disponibili - Ø 14 mm x 9 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Cima di Ormeggio ad Alta Tenacità con Occhio Impiombato a Mano Nera – Doppia Treccia Poliestere per Ormeggio Professionale La cima di ormeggio ad alta tenacità con occhio impiombato nera è la soluzione professionale per chi cerca massima affidabilità e pr</Description>
@@ -12507,24 +12490,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137030352</EanCode>
     <Weight>0.31</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombatoconfezione.webp?v=1777299351</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm 2,5 m con Occhiello Impiombato - Nero</Name>
-    <Brand>Osculati</Brand>
-    <Description>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm – 2,5 m con Occhiello Impiombato a Mano La cima per parabordi in doppia treccia di poliestere da 12 mm è l&apos;accessorio indispensabile per il fissaggio sicuro e stabile dei parabordi durante le manovr</Description>
-    <OriginalPrice>7.81</OriginalPrice>
-    <Price>5.79</Price>
-    <Code>06.444.57</Code>
-    <Link>https://www.onautica.com/products/cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato?variant=52880730718555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombato.webp?v=1777299351</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137030550</EanCode>
-    <Weight>0.33</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombatoconfezione.webp?v=1777299351</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato</ParentID>
@@ -13017,7 +12982,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>10.37</Price>
     <Code>3813002BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52517249286491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -14985,24 +14950,6 @@ Dimensioni: 100x70x27 mm.</Name>
     <EanCode>8033137218910</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>prese-incasso-accendisigari-doppio-usb</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Prese incasso doppia USB cover nera</Name>
-    <Brand>Osculati</Brand>
-    <Description>Presa a incasso doppia USB con cover nera, ideale per installazioni a bordo su imbarcazioni da diporto. Il corpo è realizzato in nylon resistente , dotato di cappuccio di protezione che garantisce la tenuta all&apos;umidità e agli spruzzi d&apos;acqua tipici dell&apos;a</Description>
-    <OriginalPrice>24.12</OriginalPrice>
-    <Price>15.07</Price>
-    <Code>14.516.01</Code>
-    <Link>https://www.onautica.com/products/prese-incasso-doppia-usb?variant=52577479590235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.516.05.png?v=1773341788</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137038150</EanCode>
-    <Weight>0.06</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.516.05b.png?v=1773341789</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>prese-incasso-doppia-usb</ParentID>
   </Offer>
   <Offer>
     <Name>Primer Antiosmosi Bicomponente Veneziani Aquastop – 0,75 L</Name>
@@ -19086,21 +19033,6 @@ L 320mm. - Ø22</Name>
     <ParentID>contenitore-isotermico-150-lt-melange-254-grigio-blu-atp</ParentID>
   </Offer>
   <Offer>
-    <Name>Cornice di Finitura per Frigorifero Nautico Frigo° 50L</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Cornice di Finitura a 4 Lati è l&apos;accessorio opzionale originale specificamente dedicato al Frigorifero Nautico Osculati Frigo° da 50 Litri . Studiata per integrarsi perfettamente con il moderno design del pannello frontale del frigo, questa cornice è l</Description>
-    <OriginalPrice>63.90</OriginalPrice>
-    <Price>58.09</Price>
-    <Code>50.961.30</Code>
-    <Link>https://www.onautica.com/products/cornice-finitura-frigorifero-nautico-frigo-50l?variant=52684999950683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>cornice-finitura-frigorifero-nautico-frigo-50l</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cuffie passa acqua per lavaggio motore</Name>
     <Brand>Osculati</Brand>
     <Description>Il Motor Flusher Universale è lo strumento essenziale per la manutenzione e il lavaggio (flushing) dei motori fuoribordo, rimuovendo il sale e i detriti dal circuito di raffreddamento dopo l&apos;uso in acqua salata. Caratteristiche Universali e Design Innovat</Description>
@@ -19279,24 +19211,6 @@ L 320mm. - Ø22</Name>
     <EanCode>8033626010438</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>filtro-acqua-pipe-3-4-portagomma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Nautico 50L 12/24V – Pannello Clean Touch Anti-impronta</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Frigorifero Frigo° da 50 Litri combina prestazioni di raffreddamento eccellenti con un design moderno e funzionale, studiato specificamente per l&apos;ambiente nautico e i veicoli ricreazionali. La caratteristica distintiva di questa serie è il pannello fro</Description>
-    <OriginalPrice>503.76</OriginalPrice>
-    <Price>457.97</Price>
-    <Code>50.960.00</Code>
-    <Link>https://www.onautica.com/products/frigorifero-nautico-50l-clean-touch?variant=52577545486683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchchiuso.png?v=1773342024</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.88</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchmisure.png?v=1773342026</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-nautico-50l-clean-touch</ParentID>
   </Offer>
   <Offer>
     <Name>Frigorifero Portatile a Compressore Travel Box ITB 32 (32 Litri)</Name>
@@ -26607,8 +26521,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Gas Combusti R.I.Na. / Lloyd&apos;s - Gomma Antifiamma/Acciaio - Ø 40x50 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo tubo è la soluzione professionale per gli **impianti di scarico dei gas combusti bagnati**, garantendo la massima sicurezza e conformità alle normative nautiche internazionali. Certificazioni e Materiali Avanzati: Omologazioni: Il tubo è omologato </Description>
-    <OriginalPrice>31.20</OriginalPrice>
-    <Price>20.77</Price>
+    <OriginalPrice>36.40</OriginalPrice>
+    <Price>24.27</Price>
     <Code>140334010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-gas-combusti-r-i-na-lloyds-gomma-antifiamma-acciaio?variant=52539957346651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26622,8 +26536,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Gas Combusti R.I.Na. / Lloyd&apos;s - Gomma Antifiamma/Acciaio - Ø 50x60 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo tubo è la soluzione professionale per gli **impianti di scarico dei gas combusti bagnati**, garantendo la massima sicurezza e conformità alle normative nautiche internazionali. Certificazioni e Materiali Avanzati: Omologazioni: Il tubo è omologato </Description>
-    <OriginalPrice>35.00</OriginalPrice>
-    <Price>23.36</Price>
+    <OriginalPrice>41.00</OriginalPrice>
+    <Price>27.31</Price>
     <Code>140335010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-gas-combusti-r-i-na-lloyds-gomma-antifiamma-acciaio?variant=52539957379419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -26637,8 +26551,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 45x53 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>42.70</OriginalPrice>
-    <Price>28.46</Price>
+    <OriginalPrice>49.90</OriginalPrice>
+    <Price>33.26</Price>
     <Code>140354510</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539985985883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26653,8 +26567,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 60x70 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>51.60</OriginalPrice>
-    <Price>34.39</Price>
+    <OriginalPrice>60.30</OriginalPrice>
+    <Price>40.20</Price>
     <Code>140356010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986018651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26669,8 +26583,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 80x90 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>68.70</OriginalPrice>
-    <Price>45.81</Price>
+    <OriginalPrice>80.30</OriginalPrice>
+    <Price>53.55</Price>
     <Code>140358010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986084187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26685,8 +26599,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 90x100 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>73.20</OriginalPrice>
-    <Price>48.80</Price>
+    <OriginalPrice>85.60</OriginalPrice>
+    <Price>57.03</Price>
     <Code>140359010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52513579499867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26701,8 +26615,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 102x115 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>80.30</OriginalPrice>
-    <Price>53.50</Price>
+    <OriginalPrice>93.80</OriginalPrice>
+    <Price>62.53</Price>
     <Code>140360005</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986116955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26717,8 +26631,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 110x122 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>90.40</OriginalPrice>
-    <Price>60.26</Price>
+    <OriginalPrice>105.60</OriginalPrice>
+    <Price>70.43</Price>
     <Code>140361005</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986149723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26733,8 +26647,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 127x139 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>106.90</OriginalPrice>
-    <Price>71.29</Price>
+    <OriginalPrice>125.00</OriginalPrice>
+    <Price>83.32</Price>
     <Code>140361210</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986182491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -26749,8 +26663,8 @@ L 320mm. - Ø22</Name>
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 152x164 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>130.40</OriginalPrice>
-    <Price>86.96</Price>
+    <OriginalPrice>152.50</OriginalPrice>
+    <Price>101.64</Price>
     <Code>140351505</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986215259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -29811,7 +29725,7 @@ L 320mm. - Ø22</Name>
     <Price>26.17</Price>
     <Code>16.122.06</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-europump-ii-sommergibile-rina?variant=52525415989595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_64_lt_min._Europump_II_1000_12V.png?v=1773341769</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -32449,7 +32363,7 @@ L 320mm. - Ø22</Name>
     <Price>13.66</Price>
     <Code>GIPS010</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-1kg-con-catalizzatore?variant=52577502855515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat_f60f7dea-758b-499b-a150-a6d4e70e802c.png?v=1773341865</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -35971,6 +35885,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boetta-luminosa-solas-med-sirius.webp?v=1773341716</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626085184</EanCode>
+    <Weight>0.60</Weight>
     <Condition>nuovo</Condition>
     <ParentID>boetta-luminosa-solas-med-sirius</ParentID>
   </Offer>
@@ -39314,22 +39229,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio 60 lt. flessibili acqua potabile rettangolari lt. 60</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Serbatoi 60 lt. flessibili acqua potabile rettangolari lt. 61 Caratteristiche principali Capacità da 60 litri, ideale per autonomie medie e lunghe navigazioni Design flessibile che si adatta agli spazi irregolari a bordo Forma rettangolare per un posizion</Description>
-    <OriginalPrice>152.14</OriginalPrice>
-    <Price>104.92</Price>
-    <Code>10067</Code>
-    <Link>https://www.onautica.com/products/offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60?variant=52577464025435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_60_lt._flessibili_acqua_potabile_rettangolari_lt._60.jpg?v=1773341742</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965096225</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
@@ -39679,22 +39578,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>tanica-benzina-hdpe-omologata-un-anti-uv</ParentID>
   </Offer>
   <Offer>
-    <Name>Tappo di imbarco in acciaio inox a 45° collo Ø 38 mm. acqua</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Tappi imbarco angolati in acciaio con apertura a scomparsa. Caratteristiche: Collo Ø 38 mm. Flangia Ø 82 mm. Caratteristiche principali Angolazione a 45° per un montaggio ottimale su superfici inclinate o spazi ridotti Costruito in acciaio inox per massim</Description>
-    <OriginalPrice>44.65</OriginalPrice>
-    <Price>31.89</Price>
-    <Code>4043277</Code>
-    <Link>https://www.onautica.com/products/tappo-o-38-mm-di-imbarco-in-acciaio-inox-45-water?variant=52577494696283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._di_imbarco_in_acciaio_inox_45_water_4.png?v=1773341839</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626008725</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-o-38-mm-di-imbarco-in-acciaio-inox-45-water</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tappo di imbarco in acciaio inox collo Ø 38 mm. acqua</Name>
     <Brand>Motomarine</Brand>
     <Description>Tappi imbarco in acciaio inox con apertura a scomparsa. Caratteristiche: Collo Ø 38 mm. Flangia Ø 82 mm. Caratteristiche principali Realizzato in acciaio inossidabile per massima resistenza alla corrosione marina Apertura a scomparsa per una superficie pu</Description>
@@ -39874,6 +39757,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_nero_Ultraflex.png?v=1773341745</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164358098</EanCode>
+    <Weight>1.70</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_nero_Ultraflex_6.png?v=1773341745</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_nero_Ultraflex_7.png?v=1773341746</Image3>
     <Condition>nuovo</Condition>
@@ -40024,8 +39908,8 @@ bocche Ø 14 mm.</Name>
     <Name>Tubo Flessibile Spiralato in PVC per Passaggio Cavi Motori Fuoribordo – Bianco e Grigio Ø 51 mm - Tubo Bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Tubo Flessibile Spiralato in PVC per Passaggio Cavi Motori Fuoribordo – Con Spirale di Rinforzo, Compatibile OMC Yamaha Mercury, Vendita al Metro Il tubo flessibile spiralato in PVC per passaggio cavi motori fuoribordo Ø 51 mm è il componente specifico pe</Description>
-    <OriginalPrice>10.73</OriginalPrice>
-    <Price>7.95</Price>
+    <OriginalPrice>11.37</OriginalPrice>
+    <Price>8.42</Price>
     <Code>16.104.37</Code>
     <Link>https://www.onautica.com/products/tubo-flessibile-pvc-spiralato-cavi-fuoribordo-51mm-vendita-metro?variant=52540393980251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -40043,8 +39927,8 @@ bocche Ø 14 mm.</Name>
     <Name>Tubo Flessibile Spiralato in PVC per Passaggio Cavi Motori Fuoribordo – Bianco e Grigio Ø 51 mm - Tubo Grigio</Name>
     <Brand>Osculati</Brand>
     <Description>Tubo Flessibile Spiralato in PVC per Passaggio Cavi Motori Fuoribordo – Con Spirale di Rinforzo, Compatibile OMC Yamaha Mercury, Vendita al Metro Il tubo flessibile spiralato in PVC per passaggio cavi motori fuoribordo Ø 51 mm è il componente specifico pe</Description>
-    <OriginalPrice>10.73</OriginalPrice>
-    <Price>7.95</Price>
+    <OriginalPrice>11.37</OriginalPrice>
+    <Price>8.42</Price>
     <Code>16.104.38</Code>
     <Link>https://www.onautica.com/products/tubo-flessibile-pvc-spiralato-cavi-fuoribordo-51mm-vendita-metro?variant=52513512063323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40335,8 +40219,8 @@ bocche Ø 14 mm.</Name>
     <Name>Volante Ultraflex V32 nero Ø 335 mm.</Name>
     <Brand>Ultraflex</Brand>
     <Description>Volante Ultraflex V32 nero Ø 335 mm. Il volante Ultraflex V32 in colore nero con diametro di 335 mm è un volante nautico dal design sportivo ed elegante, pensato per garantire controllo e comfort alla guida dell&apos;imbarcazione. A chi è rivolto Ideale per ar</Description>
-    <OriginalPrice>41.80</OriginalPrice>
-    <Price>29.86</Price>
+    <OriginalPrice>46.58</OriginalPrice>
+    <Price>33.27</Price>
     <Code>10389</Code>
     <Link>https://www.onautica.com/products/volante-ultraflex-v32-nero-o-335-mm?variant=52577500660059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40344,6 +40228,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Volante_Ultraflex_V32_nero_335_mm..png?v=1773341858</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164354328</EanCode>
+    <Weight>1.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>volante-ultraflex-v32-nero-o-335-mm</ParentID>
   </Offer>
@@ -47271,8 +47156,8 @@ bocche Ø 14 mm.</Name>
     <Name>Pavimento Nautico in PVC Lario - Colore Bianco 500</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Pavimento Nautico Lario nella variante Bianco 500 è la soluzione ideale per chi desidera conferire massima luminosità e un senso di ampiezza agli spazi interni ed esterni della propria imbarcazione. Questo rivestimento in PVC si distingue per l&apos;elegant</Description>
-    <OriginalPrice>32.94</OriginalPrice>
-    <Price>24.40</Price>
+    <OriginalPrice>36.44</OriginalPrice>
+    <Price>26.99</Price>
     <Code>LRI500</Code>
     <Link>https://www.onautica.com/products/pavimento-pvc-lario-bianco-500-boucle?variant=52577503609179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -47288,8 +47173,8 @@ bocche Ø 14 mm.</Name>
     <Name>Pavimento Nautico in PVC Lario - Colore Grigio 294</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Pavimento Nautico Lario nella variante Grigio 294 offre una soluzione di rivestimento contemporanea ed estremamente funzionale per gli ambienti di calpestio a bordo. Realizzato in PVC di alta qualità e caratterizzato da un elegante disegno a &quot;effetto b</Description>
-    <OriginalPrice>32.94</OriginalPrice>
-    <Price>24.40</Price>
+    <OriginalPrice>36.44</OriginalPrice>
+    <Price>26.99</Price>
     <Code>LRI294</Code>
     <Link>https://www.onautica.com/products/pavimento-pvc-lario-grigio-294-boucle?variant=52577503773019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
