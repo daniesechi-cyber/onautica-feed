@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-23T06:31:41.259Z -->
-<!-- Offerte: 2927 -->
+<!-- Generato: 2026-07-23T10:31:06.535Z -->
+<!-- Offerte: 2948 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1257,7 +1257,7 @@
   <Offer>
     <Name>Copridraglie Navishell Blue Navy con Zip – Tessuto Acrilico - 150 cm. Blu Navy</Name>
     <Brand>Navishell</Brand>
-    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalit�� tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di </Description>
+    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalità tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di a</Description>
     <OriginalPrice>53.95</OriginalPrice>
     <Price>39.96</Price>
     <Code>3840044</Code>
@@ -1275,7 +1275,7 @@
   <Offer>
     <Name>Copridraglie Navishell Blue Navy con Zip – Tessuto Acrilico - 100 cm. Blu Navy</Name>
     <Brand>Navishell</Brand>
-    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalit�� tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di </Description>
+    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalità tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di a</Description>
     <OriginalPrice>46.32</OriginalPrice>
     <Price>34.31</Price>
     <Code>3840043</Code>
@@ -4367,6 +4367,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SEGNAVENTOWINDEX.png?v=1764692634</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>7350001560083</EanCode>
+    <Weight>0.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SEGNAVENTOWINDEXb.png?v=1764692707</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SEGNAVENTOWINDEXc.png?v=1764676126</Image3>
     <Condition>nuovo</Condition>
@@ -4576,6 +4577,23 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>0204081</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_per_tubi_rulli_laterale.png?v=1761935882</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>staffa-bloccaggio-per-tubo-rulli-laterali</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Staffa Bloccaggio per Tubo Rulli Laterali Carrelli - 30x30 mm. / 50x50 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le staffe di fissaggio Osculati della serie 02.040.xx sono componenti strutturali fondamentali per assemblare o riparare i sistemi di rulli laterali e centrali sui rimorchi per barche. Progettate per un montaggio sicuro, queste staffe collegano il rullo a</Description>
+    <OriginalPrice>15.57</OriginalPrice>
+    <Price>11.12</Price>
+    <Code>02.040.82</Code>
+    <Link>https://www.onautica.com/products/staffa-bloccaggio-per-tubo-rulli-laterali?variant=51650499445083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_di_fissaggio_Q.40_T.80x40_mm._fissa_gambo_Staffa.png?v=1773341822</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>0204082</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Staffa_per_tubi_rulli_laterale.png?v=1761935882</Image2>
     <Condition>nuovo</Condition>
     <ParentID>staffa-bloccaggio-per-tubo-rulli-laterali</ParentID>
@@ -8956,6 +8974,23 @@
     <ParentID>boa-polietilene-foro-passante-arancione</ParentID>
   </Offer>
   <Offer>
+    <Name>Boa in Polietilene con Foro Passante Bianco - Ø 170 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Boa in Polietilene con Foro Passante – Colore Bianco per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore bianco è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di aree acqu</Description>
+    <OriginalPrice>12.20</OriginalPrice>
+    <Price>6.79</Price>
+    <Code>33.136.00BI</Code>
+    <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-bianco?variant=52805470847323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa-polietilene-foro-passante-bianco.webp?v=1776162986</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965092876</EanCode>
+    <Weight>0.22</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boa-polietilene-foro-passante-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Boa in Polietilene con Foro Passante Bianco - Ø 260 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Boa in Polietilene con Foro Passante – Colore Bianco per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore bianco è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di aree acqu</Description>
@@ -9742,7 +9777,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>19.96</Price>
     <Code>33.171.12AR</Code>
     <Link>https://www.onautica.com/products/gavitello-biconico-polietilene-doppio-anello?variant=51837130015067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Boe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa_gavitello_bicono.png?v=1773341985</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -11210,6 +11245,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>adesivo-gommoni-sup-tender-bicomponente-per-pvc</ParentID>
   </Offer>
   <Offer>
+    <Name>Adesivo kit riparazione neoprene per gommoni tessuto resistente impermeabile - Grigio</Name>
+    <Brand>Osculati</Brand>
+    <Description>Kit riparazione completo con adesivo specifico per gommoni in neoprene, ideale per intervenire rapidamente su forature, tagli e piccole lacerazioni del tessuto. Perfetto come dotazione di bordo per chi pratica nautica e motonautica e desidera mantenere il</Description>
+    <OriginalPrice>49.83</OriginalPrice>
+    <Price>29.31</Price>
+    <Code>66.235.00</Code>
+    <Link>https://www.onautica.com/products/kit-riparazione-gommoni-neoprene-adeco-125ml?variant=52513472151899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_grigio.png?v=1773341610</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137170157</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_bianco.png?v=1773341610</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-riparazione-gommoni-neoprene-adeco-125ml</ParentID>
+  </Offer>
+  <Offer>
     <Name>Adesivo kit riparazione neoprene per gommoni tessuto resistente impermeabile - Bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Kit riparazione completo con adesivo specifico per gommoni in neoprene, ideale per intervenire rapidamente su forature, tagli e piccole lacerazioni del tessuto. Perfetto come dotazione di bordo per chi pratica nautica e motonautica e desidera mantenere il</Description>
@@ -12476,6 +12528,40 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombatoconfezione.webp?v=1777299351</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm 2,5 m con Occhiello Impiombato - Nero</Name>
+    <Brand>Osculati</Brand>
+    <Description>Cima per Parabordi in Doppia Treccia di Poliestere 12 mm – 2,5 m con Occhiello Impiombato a Mano La cima per parabordi in doppia treccia di poliestere da 12 mm è l&apos;accessorio indispensabile per il fissaggio sicuro e stabile dei parabordi durante le manovr</Description>
+    <OriginalPrice>7.81</OriginalPrice>
+    <Price>5.79</Price>
+    <Code>06.444.57</Code>
+    <Link>https://www.onautica.com/products/cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato?variant=52880730718555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombato.webp?v=1777299351</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137030550</EanCode>
+    <Weight>0.33</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-parabordi-doppia-treccia-poliestere-12mm-2-5m-occhiello-impiombatoconfezione.webp?v=1777299351</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cleaner 264 – Pulitore per Tessuti PVC e Poliuretano (Pre-Incollaggio)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Cleaner 264 è un solvente tecnico specifico formulato per la pulizia profonda e la preparazione delle superfici in tessuto PVC e Poliuretano (PU). Questo prodotto è un passaggio fondamentale e indispensabile prima di qualsiasi operazione di riparazione</Description>
+    <OriginalPrice>15.80</OriginalPrice>
+    <Price>10.51</Price>
+    <Code>10123</Code>
+    <Link>https://www.onautica.com/products/cleaner-264-pulitore-pvc-poliuretano?variant=52577433354587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Diluenti e Primers</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cleaner-264-pulitore-pvc-poliuretano.webp?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>cleaner-264-pulitore-pvc-poliuretano</ParentID>
   </Offer>
   <Offer>
     <Name>Coppia di morsetti in ottone per batterie</Name>
@@ -14060,6 +14146,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>deviatore-staccabatterie-classic-175a-12-24v</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit di sopravvivenza in accordo con D.M. 17/09/2024</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo kit di sopravvivenza è realizzato per le unità pneumatiche (gommoni) ad uso privato munite di marchiatura CE e conformi agli standard UNI EN ISO 6185 parti 3/4. È un accessorio fondamentale per la sicurezza, valido solo per l&apos;Italia e in accordo al</Description>
+    <OriginalPrice>243.70</OriginalPrice>
+    <Price>162.48</Price>
+    <Code>22.705.00</Code>
+    <Link>https://www.onautica.com/products/kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia?variant=52577528512859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.705.00.png?v=1773341945</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>5.26</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.705.00b.png?v=1773341945</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit Ormeggio Completo – Cima, Parabordi e Copriparabordi - Ø 12 mm. / OF1	- 15x61 cm. / F1 - Ø 14-16 cm.</Name>
     <Brand>Onautica</Brand>
     <Description>Tutto quello che serve per ormeggiare la tua barca in sicurezza, in un unico kit. Abbiamo riunito i tre prodotti più richiesti per la banchina — cima da ormeggio, parabordi e copriparabordi — così non devi cercarli uno per uno: scegli misure e colori e ri</Description>
@@ -14935,6 +15038,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>prese-incasso-accendisigari-doppio-usb</ParentID>
   </Offer>
   <Offer>
+    <Name>Prese incasso doppia USB cover nera</Name>
+    <Brand>Osculati</Brand>
+    <Description>Presa a incasso doppia USB con cover nera, ideale per installazioni a bordo su imbarcazioni da diporto. Il corpo è realizzato in nylon resistente , dotato di cappuccio di protezione che garantisce la tenuta all&apos;umidità e agli spruzzi d&apos;acqua tipici dell&apos;a</Description>
+    <OriginalPrice>24.12</OriginalPrice>
+    <Price>15.07</Price>
+    <Code>14.516.01</Code>
+    <Link>https://www.onautica.com/products/prese-incasso-doppia-usb?variant=52577479590235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.516.05.png?v=1773341788</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137038150</EanCode>
+    <Weight>0.06</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.516.05b.png?v=1773341789</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>prese-incasso-doppia-usb</ParentID>
+  </Offer>
+  <Offer>
     <Name>Primer Antiosmosi Bicomponente Veneziani Aquastop – 0,75 L</Name>
     <Brand>Veneziani</Brand>
     <Description>Veneziani Aquastop (Cod. 6491) nel formato da 0,75 Litri è un protettivo impermeabilizzante bicomponente di altissima qualità, sviluppato appositamente per le imbarcazioni in vetroresina (VTR). Questo speciale primer è la soluzione definitiva per la preve</Description>
@@ -15785,7 +15906,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -18999,6 +19120,21 @@ L 320mm. - Ø22</Name>
     <ParentID>contenitore-isotermico-150-lt-melange-254-grigio-blu-atp</ParentID>
   </Offer>
   <Offer>
+    <Name>Cornice di Finitura per Frigorifero Nautico Frigo° 50L</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Cornice di Finitura a 4 Lati è l&apos;accessorio opzionale originale specificamente dedicato al Frigorifero Nautico Osculati Frigo° da 50 Litri . Studiata per integrarsi perfettamente con il moderno design del pannello frontale del frigo, questa cornice è l</Description>
+    <OriginalPrice>63.90</OriginalPrice>
+    <Price>58.09</Price>
+    <Code>50.961.30</Code>
+    <Link>https://www.onautica.com/products/cornice-finitura-frigorifero-nautico-frigo-50l?variant=52684999950683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>cornice-finitura-frigorifero-nautico-frigo-50l</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cuffie passa acqua per lavaggio motore</Name>
     <Brand>Osculati</Brand>
     <Description>Il Motor Flusher Universale è lo strumento essenziale per la manutenzione e il lavaggio (flushing) dei motori fuoribordo, rimuovendo il sale e i detriti dal circuito di raffreddamento dopo l&apos;uso in acqua salata. Caratteristiche Universali e Design Innovat</Description>
@@ -19179,6 +19315,24 @@ L 320mm. - Ø22</Name>
     <ParentID>filtro-acqua-pipe-3-4-portagomma</ParentID>
   </Offer>
   <Offer>
+    <Name>Frigorifero Nautico 50L 12/24V – Pannello Clean Touch Anti-impronta</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Frigorifero Frigo° da 50 Litri combina prestazioni di raffreddamento eccellenti con un design moderno e funzionale, studiato specificamente per l&apos;ambiente nautico e i veicoli ricreazionali. La caratteristica distintiva di questa serie è il pannello fro</Description>
+    <OriginalPrice>503.76</OriginalPrice>
+    <Price>457.97</Price>
+    <Code>50.960.00</Code>
+    <Link>https://www.onautica.com/products/frigorifero-nautico-50l-clean-touch?variant=52577545486683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchchiuso.png?v=1773342024</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>17.88</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchfrontale.png?v=1773342024</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-nautico-50l-clean-touchmisure.png?v=1773342026</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-nautico-50l-clean-touch</ParentID>
+  </Offer>
+  <Offer>
     <Name>Frigorifero Portatile a Compressore Travel Box ITB 32 (32 Litri)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 32 offre la massima praticità per la conservazione in viaggio. Con una capacità compatta di 32 litri , è la soluzione ideale per chi cerca prestazioni elevate e affidabilità a bordo della propria imbar</Description>
@@ -19330,6 +19484,21 @@ L 320mm. - Ø22</Name>
     <ParentID>offerta-ghiacciaia-igloo-bmx-52-49lt-blu-5-giorni</ParentID>
   </Offer>
   <Offer>
+    <Name>Ghiacciaia Igloo Marine Profile II 50 QT - 47 lt. grigia</Name>
+    <Brand>Igloo</Brand>
+    <Description>Fabbricati con materiali UV resistenti con isolamento termico ad alta efficienza. Complete di maniglie per il trasporto. Concepite per l&apos;uso a bordo. Ideali per la conservazione degli alimenti, del pescato o come vasche per esche vive. Interno in material</Description>
+    <OriginalPrice>94.50</OriginalPrice>
+    <Price>75.61</Price>
+    <Code>50.558.50</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia?variant=52577366802779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.50.png?v=1773341484</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 25 - 23 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
@@ -19360,6 +19529,42 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica3.png?v=1773341726</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 54 - 51 lt.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
+    <OriginalPrice>130.50</OriginalPrice>
+    <Price>104.38</Price>
+    <Code>1540051</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035874651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica14.png?v=1773341724</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>034223446833</EanCode>
+    <Weight>4.88</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 70 - 66 lt.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
+    <OriginalPrice>179.20</OriginalPrice>
+    <Price>143.33</Price>
+    <Code>50.558.26</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035907419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica13.png?v=1773341723</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
@@ -34736,6 +34941,25 @@ L 320mm. - Ø22</Name>
     <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
   </Offer>
   <Offer>
+    <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
+    <OriginalPrice>26.10</OriginalPrice>
+    <Price>21.75</Price>
+    <Code>36.191.03</Code>
+    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-five-level-117-180-cm?variant=53517782810971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.03.webp?v=1783358529</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052309</EanCode>
+    <Weight>0.75</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_0.webp?v=1783542547</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_1.webp?v=1783542549</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-telescopico-osculati-five-level-117-180-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Stucco Epossidico Sottomarino Safe Fill Underwater EVO (Kit 1+1)</Name>
     <Brand>Safe Nanotech</Brand>
     <Description>Lo Stucco Epossidico Fill Underwater EVO di Safe Nanotechnologies è un avanzato sistema bicomponente ad altissima tixotropia, appositamente formulato per l&apos;applicazione diretta sott&apos;acqua, sia dolce che salata, o in zona bagnasciuga. Rappresenta la soluzi</Description>
@@ -36078,6 +36302,23 @@ L 320mm. - Ø22</Name>
     <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 16 ft. - 4.80 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
+    <OriginalPrice>53.69</OriginalPrice>
+    <Price>38.35</Price>
+    <Code>30170D</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c5-mercury?variant=52545270415707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-ultraflex-c5-mercury.webp?v=1770983766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164301704</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C5_FT.9_1.png?v=1773341641</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-c5-mercury</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 18 ft. - 5.40 mt.</Name>
     <Brand>Ultraflex</Brand>
     <Description>I Cavi Telecomando Ultraflex C5 sono la soluzione specifica e di alta qualità per il comando di acceleratore e invertitore sui motori del gruppo Mercury, Mercruiser e Mariner . A differenza dei cavi universali, il modello C5 è progettato con terminazioni </Description>
@@ -36687,6 +36928,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164358593</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M58 Ultraflex – Per Scatola T67 (Compatibile Morse/Teleflex) - 3.05 metri - 10 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M58 è il componente di trasmissione essenziale per i sistemi di guida meccanica su imbarcazioni fuoribordo ed entrofuoribordo. Progettato con standard qualitativi elevati, garantisce una manovrabilità fluida e precisa. Questo c</Description>
+    <OriginalPrice>130.96</OriginalPrice>
+    <Price>90.32</Price>
+    <Code>35860K</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m58-ultraflex-t67?variant=52514349875547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67.webp?v=1770998977</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164358609</EanCode>
+    <Weight>1.99</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m58-ultraflex-t67schema.webp?v=1770998977</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-timoneria-m58-ultraflex-t67</ParentID>
@@ -38145,6 +38404,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>pompa-centrifuga-9-lt-min-a-immersione-bocca-o-10-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa manuale mm. 15 travaso liquidi con tubo 10 lt/min.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa pompa manuale è lo strumento geniale e indispensabile per il travaso di tutti i tipi di liquido (acqua, gasolio, benzina, ecc.) da un contenitore all&apos;altro, senza alcuna fatica e senza il rischio di sporcare . È la soluzione perfetta per rifornire </Description>
+    <OriginalPrice>18.53</OriginalPrice>
+    <Price>13.53</Price>
+    <Code>52.739.00</Code>
+    <Link>https://www.onautica.com/products/offerta-pompa-manuale-mm-15-travaso-liquidi-con-tubo-10-lt-min?variant=52577534673243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale_3a2ca09e-7126-4289-97bf-bbd6a6f726d1.png?v=1773341968</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137027697</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale4.png?v=1773341968</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale5.png?v=1773341968</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-pompa-manuale-mm-15-travaso-liquidi-con-tubo-10-lt-min</ParentID>
+  </Offer>
+  <Offer>
     <Name>Porta Smartphone Stagno Bianco 15x8 cm – Custodia Impermeabile Touch fino a 6 m</Name>
     <Brand>Osculati</Brand>
     <Description>Contenitori stagni per cellulari, i-Pod, i-Phone, GPS, VHF, macchine fotografiche, ecc.... stagni fino a 6 m. Compatibili con tecnologia touch screen. Caratteristiche principali Colorazione bianca, facile da individuare anche in condizioni di scarsa visib</Description>
@@ -38856,6 +39133,25 @@ bocche Ø 14 mm.</Name>
     <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
   </Offer>
   <Offer>
+    <Name>Scaletta Pieghevole in Acciaio Inox AISI 316 con Gradini Ovali - 4 gradini</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa scaletta pieghevole è la soluzione premium per la risalita a bordo, unendo l&apos;eleganza dell&apos;acciaio inox a caratteristiche di design che ne aumentano il comfort e la sicurezza. Caratteristiche Premium: Materiale: Realizzata in Acciaio Inox AISI 316 </Description>
+    <OriginalPrice>76.10</OriginalPrice>
+    <Price>60.87</Price>
+    <Code>49.582.04</Code>
+    <Link>https://www.onautica.com/products/scaletta-pieghevole-inox-aisi316-gradini-ovali?variant=52541969269083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03.png?v=1773341983</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626006233</EanCode>
+    <Weight>2.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scaletta-bagno-scena-a-bordo.webp?v=1783613536</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scaletta Pieghevole in Acciaio Inox AISI 316 con Gradini Ovali - 5 gradini</Name>
     <Brand>Osculati</Brand>
     <Description>Questa scaletta pieghevole è la soluzione premium per la risalita a bordo, unendo l&apos;eleganza dell&apos;acciaio inox a caratteristiche di design che ne aumentano il comfort e la sicurezza. Caratteristiche Premium: Materiale: Realizzata in Acciaio Inox AISI 316 </Description>
@@ -39293,6 +39589,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8055965096270</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
+    <Brand>Osculati</Brand>
+    <Description>La serie di Serbatoi Rigidi Rettangolari è realizzata in polietilene bianco di alta qualità, idoneo per il contenimento di acqua potabile. La forma regolare a sezione rettangolare li rende particolarmente versatili, adatti per essere installati nella part</Description>
+    <OriginalPrice>80.40</OriginalPrice>
+    <Price>67.02</Price>
+    <Code>52.194.50</Code>
+    <Link>https://www.onautica.com/products/serbatoio-acqua-potabile-rettangolare-polietilene?variant=52514394079579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-acqua-rettangolare-polietilene.webp?v=1770718056</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137157318</EanCode>
+    <Weight>3.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-acqua-potabile-rettangolare-polietilene</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
@@ -40949,6 +41262,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.36 metri - 11 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>143.42</OriginalPrice>
+    <Price>98.91</Price>
+    <Code>38173Q</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344337755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164381737</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 3.66 metri - 12 ft.</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
@@ -41025,6 +41354,21 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164381782</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Timoneria M66 Ultraflex – Per Scatole Guida T71 e T85 - 5.19 metri - 17 ft.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il Cavo Timoneria Ultraflex M66 è il cavo di ricambio standard ad alte prestazioni per le timonerie meccaniche più diffuse sul mercato. Costruito con materiali resistenti all&apos;ambiente marino, garantisce una guida precisa e una lunga durata nel tempo. Ques</Description>
+    <OriginalPrice>170.38</OriginalPrice>
+    <Price>117.50</Price>
+    <Code>38179Y</Code>
+    <Link>https://www.onautica.com/products/cavo-timoneria-m66-ultraflex-t71-t85?variant=52514344534363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-timoneria-m66-ultraflex-t71-t85.webp?v=1771000001</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>cavo-timoneria-m66-ultraflex-t71-t85</ParentID>
   </Offer>
@@ -43989,6 +44333,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>spazzole-roca-extraflex-in-acciaio-brunito-l-455-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Specchietto retrovisore 100x300 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Specchietto retrovisore con carcassa in nylon , specchio in vetro e supporto in zama cromato orientabile e adattabile sia a cruscotto che a parabrezza. Modello super panoramico. mm Ø fori mm 100x300 5 Caratteristiche principali Visuale super panoramica gr</Description>
+    <OriginalPrice>35.48</OriginalPrice>
+    <Price>25.34</Price>
+    <Code>64.494.00</Code>
+    <Link>https://www.onautica.com/products/specchietto-retrovisore-100x300-mm?variant=52577488109915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Specchietto_retrovisore_100x300_mm..png?v=1773341819</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>4710587820972</EanCode>
+    <Weight>0.52</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>specchietto-retrovisore-100x300-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sportello d’Ispezione Stagno in ABS Calpestabile QT/Large – Bianco (458x513 mm) - Sportello d’Ispezione</Name>
     <Brand>Motomarine</Brand>
     <Description>Lo Sportello in ABS Calpestabile QT/Large è progettato per garantire massima accessibilità e robustezza a bordo. Realizzato in ABS ASA di alta qualità, offre un&apos;eccellente resistenza ai raggi UV e all&apos;ambiente marino, mantenendo il colore bianco inalterat</Description>
@@ -45947,6 +46308,23 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8057457200868</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray Flessibile per Gommoni in PVC, Parabordi e Cuscineria in finta pelle - Nero RAL 9005</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Mimic Paint è una vernice spray professionale formulata specificamente per il restauro e il rinnovo di superfici elastiche in ambito nautico. Grazie alla sua composizione flessibile a base di PVC , questa vernice aderisce perfettamente senza screpolars</Description>
+    <OriginalPrice>13.68</OriginalPrice>
+    <Price>9.77</Price>
+    <Code>52.570.02</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-flessibile-mimic-paint-pvc?variant=52540563063131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-flessibile-mimic-paint-pvc-parabordi.webp?v=1775204565</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057457200837</EanCode>
+    <Weight>0.40</Weight>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-flessibile-mimic-paint-pvc</ParentID>
   </Offer>
@@ -48019,22 +48397,6 @@ bocche Ø 14 mm.</Name>
     <Weight>0.40</Weight>
     <Condition>nuovo</Condition>
     <ParentID>9-isole-baleari-2-edizione-2024</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anemometro Skywatch Xplorer 1 – Misuratore Tascabile Velocità del Vento in Nodi</Name>
-    <Brand>Skywatch</Brand>
-    <Description>Anemometro compatto Skywatch Xplorer1 con visualizzazione velocità del vento in km/h, mph, m/s, fps e nodi. Velocità del vento attuale e quella massima. Quadro retroilluminato. Caratteristiche principali Formato tascabile, facile da portare sempre con sé </Description>
-    <OriginalPrice>56.69</OriginalPrice>
-    <Price>40.49</Price>
-    <Code>2420003</Code>
-    <Link>https://www.onautica.com/products/anemometro-skywatch-xplorer-4?variant=52577414906203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anemometro_Skywatch_Xplorer_1.png?v=1773341618</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626076113</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>anemometro-skywatch-xplorer-4</ParentID>
   </Offer>
   <Offer>
     <Name>Assorbiumidità Ariasana Kit Aero-360 Tab</Name>
