@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-23T14:31:27.167Z -->
-<!-- Offerte: 2948 -->
+<!-- Generato: 2026-07-23T18:11:11.026Z -->
+<!-- Offerte: 2964 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1257,7 +1257,7 @@
   <Offer>
     <Name>Copridraglie Navishell Blue Navy con Zip – Tessuto Acrilico - 150 cm. Blu Navy</Name>
     <Brand>Navishell</Brand>
-    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalità tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di a</Description>
+    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalit�� tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di </Description>
     <OriginalPrice>53.95</OriginalPrice>
     <Price>39.96</Price>
     <Code>3840044</Code>
@@ -1275,7 +1275,7 @@
   <Offer>
     <Name>Copridraglie Navishell Blue Navy con Zip – Tessuto Acrilico - 100 cm. Blu Navy</Name>
     <Brand>Navishell</Brand>
-    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalità tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di a</Description>
+    <Description>Il Copridraglie Navishell Blue Navy unisce l&apos;eleganza classica del blu nautico alla funzionalit�� tecnica, trasformando le draglie in un comodo supporto per la schiena e proteggendo le vele dall&apos;abrasione. Realizzato in tessuto acrilico idrorepellente di </Description>
     <OriginalPrice>46.32</OriginalPrice>
     <Price>34.31</Price>
     <Code>3840043</Code>
@@ -1408,6 +1408,7 @@
     <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cordone-ombelicale-elastico-euro-spring-line-2.webp?v=1773484810</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137044182</EanCode>
     <Weight>0.42</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cordone-ombelicale-elastico-euro-spring-line-2sacca.webp?v=1773484810</Image2>
     <Condition>nuovo</Condition>
@@ -2218,6 +2219,22 @@
     <ParentID>giunto-apribile-tas-inox-aisi-316-capottine</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto Apribile TAS in Acciaio Inox AISI 316 per Capottine - Ø 25 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Giunto Apribile TAS è la soluzione professionale per chi necessita di una struttura per tendalini e capottine estremamente versatile e facile da smontare. Realizzato in Acciaio Inox AISI 316 microfuso e lucidato a specchio, questo giunto offre una resi</Description>
+    <OriginalPrice>19.32</OriginalPrice>
+    <Price>13.80</Price>
+    <Code>3230225</Code>
+    <Link>https://www.onautica.com/products/giunto-apribile-tas-inox-aisi-316-capottine?variant=52750067728731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giunto-apribile-tas-inox-aisi-316-capottine.webp?v=1775236268</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095879</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-apribile-tas-inox-aisi-316-capottine</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto per ancora girevole con snodo per catena Ø 6/8 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo giunto per ancora rappresenta la soluzione tecnicamente più avanzata per chi cerca la massima efficienza e sicurezza nella linea di ancoraggio. Il suo design innovativo combina due funzioni essenziali: è sia girevole che snodato . Questa doppia art</Description>
@@ -2687,39 +2704,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghie_B_3240.webp?v=1783768433</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-cinghie-di-tensionamento-per-tendalini-coppia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit Conversione WC Elettrico Universale 12V – Interasse 95 mm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo Kit di Conversione Elettrico 12V è la soluzione pratica ed efficiente per trasformare il WC manuale della tua imbarcazione in un moderno sistema elettrico, migliorando il comfort di bordo e riducendo lo sforzo fisico. La progettazione intelligente </Description>
-    <OriginalPrice>195.83</OriginalPrice>
-    <Price>150.64</Price>
-    <Code>1320512</Code>
-    <Link>https://www.onautica.com/products/kit-conversione-wc-elettrico-12v-universale-95mm?variant=52577459437915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-conversione-wc-elettrico-12v-universale.png?v=1773341728</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626033840</EanCode>
-    <Weight>2.93</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-conversione-wc-elettrico-12v-universale-95mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit di Conversione Pompa WC Manuale – Universale 4 Bulloni (Interasse 95 mm)</Name>
-    <Brand>Matromarine</Brand>
-    <Description>Il Kit di Conversione per WC Manuale è la soluzione universale ideale per il ripristino o l&apos;aggiornamento del sistema di scarico di bordo. Progettato con Tecnologia Ocean , questo gruppo pompa completo di basamento permette di rigenerare la maggior parte </Description>
-    <OriginalPrice>151.61</OriginalPrice>
-    <Price>104.56</Price>
-    <Code>50.207.41</Code>
-    <Link>https://www.onautica.com/products/kit-conversione-pompa-wc-manuale-universale-95mm?variant=52577473167707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-conversione-pompa-wc-manuale-universale.png?v=1773341769</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137051265</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-conversione-pompa-wc-manuale-universale-95mm</ParentID>
   </Offer>
   <Offer>
     <Name>Maceratore BW40 12V 280x110 mm. 40 lt/min.</Name>
@@ -5647,6 +5631,22 @@
     <ParentID>offerta-verricelli-per-alaggio-manuale-kg-1454-n-velocita-2</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricelli per alaggio manuale kg. 900 n. velocità 2</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Verricello 900 kg manuale per un facile alaggio dell&apos;imbarcazione. \n Capacità Kg: peso limite che il verricello può sopportare su traino orizzontale con slittamento ottimale. \n Su traini inclinati si consiglia di non superare i due terzi del peso limite</Description>
+    <OriginalPrice>100.99</OriginalPrice>
+    <Price>70.62</Price>
+    <Code>2810125</Code>
+    <Link>https://www.onautica.com/products/offerta-verricelli-per-alaggio-manuale-kg-900-n-velocita-2?variant=52577465696603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_verricelli_per_alaggio_manuale_kg._900_n._velocit_2.png?v=1773341748</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626007629</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-verricelli-per-alaggio-manuale-kg-900-n-velocita-2</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricelli per alaggio manuali 630 kg. - velocità n. 1</Name>
     <Brand>Motomarine</Brand>
     <Description>Il verricello manuale da 630 kg è la soluzione ideale per un alaggio sicuro e agevole della tua imbarcazione. Robusto e affidabile, garantisce prestazioni ottimali nelle operazioni di traino orizzontale fino al peso indicato. Nota importante: la capacità </Description>
@@ -5681,6 +5681,22 @@
     <ParentID>offerta-verricelli-kg-525-con-cinghia-per-alaggio-manuale-n-1-velocita</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricello 900 kg. con cavo per alaggio manuale</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Verricello manuale in acciaio verniciato per alaggio imbarcazioni. Costruzione estremamente robusta per uso anche professionale. Completo di cavo da 7,6 metri e gancio. Capacità Kg: peso limite che il verricello può sopportare su traino orizzontale con sl</Description>
+    <OriginalPrice>81.58</OriginalPrice>
+    <Price>56.26</Price>
+    <Code>2810155</Code>
+    <Link>https://www.onautica.com/products/offerta-verricelli-kg-900-con-cinghia-per-alaggio-manuale-n-2-velocita?variant=52577465467227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2810169.png?v=1773341747</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626078650</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-verricelli-kg-900-con-cinghia-per-alaggio-manuale-n-2-velocita</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello elettrico per alaggio Kg. 1360 12V con cavo</Name>
     <Brand>Motomarine</Brand>
     <Description>Verricello elettrico per alaggio imbarcazioni e applicazione su fuoristrada. Alaggio e varo si effettuano elettricamente con pulsantiera cablata. Motore 12V a magneti permanenti da 0,9 kW con frizione per il rilascio manuale e sistema automatico di frenat</Description>
@@ -5695,6 +5711,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Verricello_elettrico_per_alaggio_Kg._1360_12V_con_cavo_3.png?v=1773341749</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-verricello-elettrico-per-alaggio-kg-1360-12v-con-cavo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello elettrico per alaggio kg. 1810 12V con cavo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Verricello elettrico per alaggio imbarcazioni e applicazione su fuoristrada. Alaggio e varo si effettuano elettricamente con pulsantiera cablata. Motore 12V a magneti permanenti da 1,3 kW con frizione per il rilascio manuale e sistema automatico di frenat</Description>
+    <OriginalPrice>460.89</OriginalPrice>
+    <Price>354.53</Price>
+    <Code>2820508</Code>
+    <Link>https://www.onautica.com/products/offerta-verricello-elettrico-per-alaggio-kg-1810-12v-con-cavo?variant=52577466122587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Verricello_elettrico_per_alaggio_kg._1810_12V_con_cavo.png?v=1773341749</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Verricello_elettrico_per_alaggio_kg._1810_12V_con_cavo_5.png?v=1773341749</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-verricello-elettrico-per-alaggio-kg-1810-12v-con-cavo</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello elettrico per alaggio kg. 900 con cavo</Name>
@@ -7542,24 +7574,6 @@
     <ParentID>antivegetativa-sp-classic-153-autolevigante</ParentID>
   </Offer>
   <Offer>
-    <Name>Antivegetativa Autolevigante SP Classic 153 – Universale Copper Free Stagionale - Bianca / 0,75 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa SP Classic 153 è la scelta ideale per i proprietari di imbarcazioni a vela e a motore con velocità di crociera moderata (fino a 25 nodi ) che cercano una manutenzione semplificata. Essendo una pittura a matrice autolevigante (self-polish</Description>
-    <OriginalPrice>28.10</OriginalPrice>
-    <Price>25.54</Price>
-    <Code>65.601.11</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-sp-classic-153-autolevigante?variant=52113059283291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante.png?v=1770883129</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137062919</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-classic-153-autolevigante_2.5.png?v=1770883146</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-sp-classic-153-autolevigante</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antivegetativa Autolevigante SP Classic 153 – Universale Copper Free Stagionale - Bianca / 2,5 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Antivegetativa SP Classic 153 è la scelta ideale per i proprietari di imbarcazioni a vela e a motore con velocità di crociera moderata (fino a 25 nodi ) che cercano una manutenzione semplificata. Essendo una pittura a matrice autolevigante (self-polish</Description>
@@ -8633,6 +8647,22 @@
     <EanCode>8033137123665</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>bandiere-per-barca-a-motore-e-vela-polonia-40x60-cm-in-tessuto</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Base per asta portabandiera Gummy flat G per gommoni</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Base per asta portabandiera Gummy flat G per gommoni Caratteristiche principali Design piatto (flat) pensato per non interferire con la superficie del gommone Materiale gummy morbido che protegge lo scafo da graffi e abrasioni Compatibile con aste portaba</Description>
+    <OriginalPrice>21.89</OriginalPrice>
+    <Price>15.64</Price>
+    <Code>0810269</Code>
+    <Link>https://www.onautica.com/products/base-per-asta-portabandiera-gummy-flat-g-per-gommoni?variant=52577418641755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Base_per_asta_portabandiera_Gummy_flat_G_per_gommoni.png?v=1773341629</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626026125</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>base-per-asta-portabandiera-gummy-flat-g-per-gommoni</ParentID>
   </Offer>
   <Offer>
     <Name>Base per bandiera inox Nawa Ø 22&lt;&gt;25 mm.</Name>
@@ -11154,8 +11184,8 @@ Dimensioni: 100x70x27 mm.</Name>
     <Name>Acetone Puro 2BM – Solvente Sgrassante Universale - 5 litro</Name>
     <Brand>Fraschetti</Brand>
     <Description>L&apos; Acetone Puro 2BM è il solvente tecnico per eccellenza, caratterizzato da un&apos;elevata volatilità e da un potere sgrassante superiore. È un prodotto di ampio utilizzo, indispensabile sia in ambito industriale che artigianale per operazioni di pulizia prof</Description>
-    <OriginalPrice>27.30</OriginalPrice>
-    <Price>19.47</Price>
+    <OriginalPrice>27.70</OriginalPrice>
+    <Price>19.75</Price>
     <Code>8391028</Code>
     <Link>https://www.onautica.com/products/acetone-puro-2bm?variant=52577400783195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13050,7 +13080,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>9.09</Price>
     <Code>3813001BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52513515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13374,7 +13404,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>28.64</Price>
     <Code>3813104GY</Code>
     <Link>https://www.onautica.com/products/copriparabordo-navishell-a-type-grigio-in-acrilico-marino-uv-resistant?variant=53069562085723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordo-navishell-a-type-grigio.webp?v=1779702661</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13454,6 +13484,21 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>9.09</Price>
     <Code>3813001GY</Code>
     <Link>https://www.onautica.com/products/copriparabordo-navishell-f-type-in-tessuto-grigio?variant=53576454308187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copri_3240.webp?v=1783782858</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>copriparabordo-navishell-f-type-in-tessuto-grigio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Copriparabordo Navishell F-Type in Tessuto Grigio - F2 · parabordo Ø 21-24 cm</Name>
+    <Brand>Navishell</Brand>
+    <Description>Copriparabordo Navishell F-Type in Tessuto Grigio Copriparabordo (calza) Navishell serie F-Type in tessuto grigio, da infilare sul parabordo per proteggere lo scafo dai segni e mantenere il parabordo pulito. Disponibile in 11 misure, dalla F1 alla F13, pe</Description>
+    <OriginalPrice>15.55</OriginalPrice>
+    <Price>10.37</Price>
+    <Code>3813002GY</Code>
+    <Link>https://www.onautica.com/products/copriparabordo-navishell-f-type-in-tessuto-grigio?variant=53576454340955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copri_3240.webp?v=1783782858</Image>
@@ -13551,6 +13596,22 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.923.12.png?v=1773341653</Image3>
     <Condition>nuovo</Condition>
     <ParentID>deviatore-batteria-4-posizioni-100a-continuo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Deviatore Staccabatterie Heavy Duty (HD) - Controllo a 4 Posizioni - 280A/380A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo deviatore staccabatterie è progettato per un uso continuato in impianti a doppia batteria, garantendo massima sicurezza e flessibilità nella gestione dell&apos;alimentazione di bordo. Caratteristiche Principali: Funzione Multipla: Offre **quattro posizi</Description>
+    <OriginalPrice>59.33</OriginalPrice>
+    <Price>42.38</Price>
+    <Code>2103028</Code>
+    <Link>https://www.onautica.com/products/deviatore-staccabatterie-hd-4-posizioni-280a-350a?variant=52513459372379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Deviatore_staccabatterie_HD_280A_capacit_intermitente_380A.png?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626062178</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>deviatore-staccabatterie-hd-4-posizioni-280a-350a</ParentID>
   </Offer>
   <Offer>
     <Name>Diluente Nitro Antinebbia LE100 – Solvente Bilanciato Professionale - 5 litri</Name>
@@ -14281,7 +14342,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>14.84</Price>
     <Code>1004124</Code>
     <Link>https://www.onautica.com/products/sigillante-adesivo-ms-super?variant=52513437155675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_sigillante_MS_Super_nero_cc.290.png?v=1773341609</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17184,7 +17245,7 @@ L 320mm. - Ø22</Name>
     <Price>7.62</Price>
     <Code>3500124</Code>
     <Link>https://www.onautica.com/products/lastrina-giunzione-angolare-hd-acciaio-inox-316?variant=52676576936283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lastrina-giunzione-angolare-hd-acciaio-inox-316.webp?v=1774698802</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17348,6 +17409,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lucchetto-hardinox-arco-standard-acciaio-inox-specchio-nautica-3-misureblister.webp?v=1777564511</Image3>
     <Condition>nuovo</Condition>
     <ParentID>lucchetto-hardinox-arco-standard-acciaio-inox-specchio-nautica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manica a vento autoportante per oblò 30/40 cm. laterale Wind scoop</Name>
+    <Brand>Osculati</Brand>
+    <Description>Manica a vento autoportante per oblò 30/40 cm. laterale Wind scoop Caratteristiche principali Design autoportante: si installa senza supporti aggiuntivi, direttamente sull&apos;oblò Compatibile con oblò laterali da 30 a 40 cm Cattura e convoglia l&apos;aria esterna</Description>
+    <OriginalPrice>37.80</OriginalPrice>
+    <Price>31.51</Price>
+    <Code>10475</Code>
+    <Link>https://www.onautica.com/products/manica-a-vento-autoportante-per-oblo-30-40-cm-laterale-wind-scoop?variant=52577449181531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manica_a_vento_autoportante_per_obl_30_40_cm._laterale_Wind_scoop.png?v=1773341698</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>00020240175417</EanCode>
+    <Weight>0.27</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>manica-a-vento-autoportante-per-oblo-30-40-cm-laterale-wind-scoop</ParentID>
   </Offer>
   <Offer>
     <Name>Maniche a vento high profile Ø 70 mm.</Name>
@@ -20272,6 +20350,24 @@ L 320mm. - Ø22</Name>
     <ParentID>giranti-ricambio-motori-honda</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814465</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>22.80</OriginalPrice>
+    <Price>18.96</Price>
+    <Code>1814465</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740065115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052100</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814304</Name>
     <Brand>Honda</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
@@ -20658,6 +20754,24 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051585</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-parsun</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 9.9/15 HP</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>15.35</Price>
+    <Code>1814244</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718372699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051523</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
     <Condition>nuovo</Condition>
@@ -21802,6 +21916,24 @@ L 320mm. - Ø22</Name>
     <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
   </Offer>
   <Offer>
+    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 22 mm. / Passante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
+    <OriginalPrice>15.39</OriginalPrice>
+    <Price>10.99</Price>
+    <Code>0621922</Code>
+    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958464347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023568</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
+  </Offer>
+  <Offer>
     <Name>Supporti Passamano NEW LINE in Acciaio Inox (Base Rettangolare) - 25 mm. / DX</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di supporti passamano New Line è ideale per il fissaggio di corrimano e strutture tubolari, offrendo un&apos;estetica moderna e robusta a bordo. Sono realizzati in Acciaio Inox da fusione con un&apos;elegante base rettangolare . Caratteristiche Princip</Description>
@@ -22206,6 +22338,21 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/13.240.80b.png?v=1773341633</Image2>
     <Condition>nuovo</Condition>
     <ParentID>basetta-inox-completa</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bocchettone di Scarico Inox con Patella MTM - Ø90mm</Name>
+    <Brand>MTM</Brand>
+    <Description>Bocchettone di Scarico Inox con Patella MTM Bocchettone di Scarico Inox con Patella MTM per la linea di scarico dei motori marini. Disponibile in 8 versioni. A chi è rivolto A chi deve installare o sostituire il bocchettone di uscita dello scarico sullo s</Description>
+    <OriginalPrice>94.70</OriginalPrice>
+    <Price>78.88</Price>
+    <Code>5004630</Code>
+    <Link>https://www.onautica.com/products/bocchettone-di-scarico-inox-con-patella-mtm?variant=53617231364443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5004624.webp?v=1784373465</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>bocchettone-di-scarico-inox-con-patella-mtm</ParentID>
   </Offer>
   <Offer>
     <Name>Bocchettone di Scarico Inox MTM - Ø40mm</Name>
@@ -25293,7 +25440,7 @@ L 320mm. - Ø22</Name>
     <Price>10.45</Price>
     <Code>10129</Code>
     <Link>https://www.onautica.com/products/marine-hydraulic-oil-1-lt?variant=52577451147611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Marine_Hydraulic_Oil_1_lt..png?v=1773341703</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25442,8 +25589,8 @@ L 320mm. - Ø22</Name>
     <Name>Molla d&apos;Ormeggio in Acciaio Inox Lucidato con Piattelli Anticigolio - Fino a 11 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Tenere la barca ferma in banchina quando c&apos;è risacca o vento non è mai semplice. La molla d&apos;ormeggio in acciaio inox lucidato è pensata per chi vuole dormire tranquillo: ammortizza i carichi dinamici sulle cime e sulle bitte, riducendo gli strappi e l&apos;usu</Description>
-    <OriginalPrice>72.46</OriginalPrice>
-    <Price>50.67</Price>
+    <OriginalPrice>74.40</OriginalPrice>
+    <Price>52.03</Price>
     <Code>3136509</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-inox-lucidato?variant=52559450112347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -25494,8 +25641,8 @@ L 320mm. - Ø22</Name>
     <Name>Molla d&apos;Ormeggio in Acciaio Zincato ad Alta Resistenza - Fino a 9 metri</Name>
     <Brand>Osculati</Brand>
     <Description>La Molla per Ormeggio in Acciaio Zincato è un componente essenziale per salvaguardare la tua imbarcazione e le strutture portuali durante la sosta in banchina. Costruita in un acciaio speciale ad alta resistenza e zincato , questa molla è stata progettata</Description>
-    <OriginalPrice>22.38</OriginalPrice>
-    <Price>16.34</Price>
+    <OriginalPrice>22.97</OriginalPrice>
+    <Price>16.77</Price>
     <Code>01.189.12</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-zincato-alta-resistenza-banchina?variant=52559519383899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -25527,8 +25674,8 @@ L 320mm. - Ø22</Name>
     <Name>Molla d&apos;Ormeggio in Acciaio Zincato ad Alta Resistenza - Fino a 13 metri</Name>
     <Brand>Osculati</Brand>
     <Description>La Molla per Ormeggio in Acciaio Zincato è un componente essenziale per salvaguardare la tua imbarcazione e le strutture portuali durante la sosta in banchina. Costruita in un acciaio speciale ad alta resistenza e zincato , questa molla è stata progettata</Description>
-    <OriginalPrice>46.07</OriginalPrice>
-    <Price>32.91</Price>
+    <OriginalPrice>47.33</OriginalPrice>
+    <Price>33.81</Price>
     <Code>01.189.19</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-zincato-alta-resistenza-banchina?variant=52559519416667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -28255,8 +28402,8 @@ L 320mm. - Ø22</Name>
     <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 7 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
-    <OriginalPrice>22.14</OriginalPrice>
-    <Price>15.81</Price>
+    <OriginalPrice>22.74</OriginalPrice>
+    <Price>16.24</Price>
     <Code>3136032</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-spring-acciaio-inox-lucidato?variant=52513541554523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -28289,8 +28436,8 @@ L 320mm. - Ø22</Name>
     <Name>Molla da Ormeggio SPRING in Acciaio Inox Lucidato Anti-Snervamento - Fino a 10 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Le Molle da Ormeggio in Acciaio Inox sono progettate per garantire la massima sicurezza e il comfort durante l&apos;ormeggio della tua imbarcazione, assorbendo efficacemente gli strattoni delle cime. Caratteristiche e Vantaggi Principali: Materiale Premium: Re</Description>
-    <OriginalPrice>34.08</OriginalPrice>
-    <Price>24.34</Price>
+    <OriginalPrice>59.06</OriginalPrice>
+    <Price>42.18</Price>
     <Code>3136039</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-spring-acciaio-inox-lucidato?variant=52559508504923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -30238,24 +30385,6 @@ L 320mm. - Ø22</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-colflo-scena-a-bordo.webp?v=1783612047</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompe-autoclave-colflo-triplex-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompe Autoclave Europump 3 Valvole 12V - Europump 11 - 11 lt/min. 12V</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa pompa autoclave autoaspirante a 3 valvole della serie Europump è progettata per fornire una pressione costante e affidabile all&apos;impianto idrico della tua imbarcazione, garantendo al contempo un funzionamento molto silenzioso e esente da vibrazioni </Description>
-    <OriginalPrice>64.07</OriginalPrice>
-    <Price>53.39</Price>
-    <Code>16.510.12</Code>
-    <Link>https://www.onautica.com/products/pompe-autoclave-europump-3-valvole-12v?variant=52513550008667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.510.12.png?v=1762506743</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052590</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.510.12b.png?v=1762506746</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.510.12c.png?v=1762506748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompe-autoclave-europump-3-valvole-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompe Autoclave Jabsco Par-Max HD - Par-Max HD3 40PSI - 11 lt/min.</Name>
@@ -35825,40 +35954,6 @@ L 320mm. - Ø22</Name>
     <ParentID>attacco-a-forcella-l26</ParentID>
   </Offer>
   <Offer>
-    <Name>Attacco Motore A75 Ultraflex – Forcella per Cavo Timoneria a Fuoribordo</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>L&apos; attacco motore A75 di Ultraflex è un componente essenziale per i sistemi di timoneria, progettato per collegare il cavo di sterzo al motore fuoribordo mediante una forcella robusta e affidabile. Garantisce una trasmissione precisa e sicura dei comandi </Description>
-    <OriginalPrice>37.58</OriginalPrice>
-    <Price>26.84</Price>
-    <Code>34459X</Code>
-    <Link>https://www.onautica.com/products/attacco-motore-a75-ultraflex?variant=52577417462107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_motore_A75_Ultraflex.png?v=1773341626</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164344596</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>attacco-motore-a75-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Barre rinvio motore inox A73SS Ultraflex</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Le barre di rinvio Ultraflex A73SS in acciaio inossidabile sono componenti per timoneria progettati per assicurare una trasmissione dei comandi precisa e affidabile sui motori fuoribordo Mercury . Grazie alla costruzione in acciaio inox, garantiscono elev</Description>
-    <OriginalPrice>123.07</OriginalPrice>
-    <Price>86.06</Price>
-    <Code>4637073</Code>
-    <Link>https://www.onautica.com/products/barre-rinvio-motore-inox-a73ss-ultraflex?variant=52577419428187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barre_rinvio_motore_inox_A73SS_Ultraflex.png?v=1773341628</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164412554</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barre_rinvio_motore_inox_A73SS_Ultraflex_1.png?v=1773341630</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barre_rinvio_motore_inox_A73SS_Ultraflex_2.png?v=1773341630</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>barre-rinvio-motore-inox-a73ss-ultraflex</ParentID>
-  </Offer>
-  <Offer>
     <Name>Barre rinvio motore inox A74SS Johnson/evinrude Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>La barra di rinvio Ultraflex A74SS è un componente per timoneria realizzato in acciaio inossidabile , progettato specificamente per motori fuoribordo Johnson ed Evinrude . Garantisce un collegamento preciso e affidabile tra il sistema di governo e il moto</Description>
@@ -37303,6 +37398,25 @@ L 320mm. - Ø22</Name>
     <ParentID>cuffia-o-150x110-mm-passa-paratia-nero-grande</ParentID>
   </Offer>
   <Offer>
+    <Name>Cuffia passa paratia Ø 50x80 mm. bianco</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Cuffia passaparatia ideale per il passaggio ordinato e protetto di tubazioni carburante, cavi telecomando e cavi elettrici attraverso le paratie dell&apos;imbarcazione. Garantisce una finitura curata e professionale, proteggendo al contempo i cavi e i tubi da </Description>
+    <OriginalPrice>7.67</OriginalPrice>
+    <Price>5.68</Price>
+    <Code>4048021</Code>
+    <Link>https://www.onautica.com/products/cuffia-o-50x80-mm-passa-paratia-bianco?variant=52577432076635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cuffia_50x80_mm._passa_paratia_bianco.png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626118400</EanCode>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cuffia_50x80_mm._passa_paratia_bianco_1.png?v=1773341650</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cuffia_50x80_mm._passa_paratia_bianco_3.png?v=1773341650</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cuffia-o-50x80-mm-passa-paratia-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cuffia passa paratia Ø 50x80 mm. grigio</Name>
     <Brand>Motomarine</Brand>
     <Description>Cuffia passa paratia ideale per il passaggio protetto di tubazioni carburante, cavi telecomando e cavi elettrici attraverso le paratie dell&apos;imbarcazione. Garantisce una posa in opera ordinata e sicura, proteggendo i cablaggi dall&apos;attrito e dagli agenti es</Description>
@@ -38418,6 +38532,23 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626055774</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>pompa-a-pedale-bi-foot-16-lt-min-bocche-o-14-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa centrifuga 15 lt/min. a immersione bocca Ø 10/12 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pompa centrifuga non adescante ad immersione.\nPer taniche e serbatoi con fori entrata stretti.\n\n CARATTERISTICHE \n \n Lt/ min→ 15 \n ∅ Bocche mm→ 10/12 \n Dimensione mm→ ∅ 49 x H 115 \n Caratteristiche principali Design compatto che permette l&apos;inserim</Description>
+    <OriginalPrice>28.91</OriginalPrice>
+    <Price>20.65</Price>
+    <Code>1825201</Code>
+    <Link>https://www.onautica.com/products/pompa-centrifuga-15-lt-min-a-immersione-bocca-o-10-12-mm?variant=52577473823067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_centrifuga_15_lt_min._a_immersione_bocca_10_12_mm..png?v=1773341768</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626279330</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_centrifuga_15_lt_min._a_immersione_bocca_10_12_mm._3.png?v=1773341769</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-centrifuga-15-lt-min-a-immersione-bocca-o-10-12-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa centrifuga 9 lt/min. a immersione bocca Ø 10 mm.</Name>
@@ -39624,6 +39755,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoio 60 lt. flessibili acqua potabile rettangolari lt. 60</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Serbatoi 60 lt. flessibili acqua potabile rettangolari lt. 61 Caratteristiche principali Capacità da 60 litri, ideale per autonomie medie e lunghe navigazioni Design flessibile che si adatta agli spazi irregolari a bordo Forma rettangolare per un posizion</Description>
+    <OriginalPrice>152.14</OriginalPrice>
+    <Price>104.92</Price>
+    <Code>10067</Code>
+    <Link>https://www.onautica.com/products/offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60?variant=52577464025435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_60_lt._flessibili_acqua_potabile_rettangolari_lt._60.jpg?v=1773341742</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965096225</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La serie di Serbatoi Rigidi Rettangolari è realizzata in polietilene bianco di alta qualità, idoneo per il contenimento di acqua potabile. La forma regolare a sezione rettangolare li rende particolarmente versatili, adatti per essere installati nella part</Description>
@@ -40070,6 +40217,24 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-rifornimento-filo-inox-maniglietta_carburante_dritto.png?v=1773341472</Image3>
     <Condition>nuovo</Condition>
     <ParentID>tappo-rifornimento-filo-inox-maniglietta-apertura</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo Imbarco in Plastica con Coperchio Stagno – Acqua e Carburante - Acqua Ø 38 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questi Tappi di Imbarco in Plastica sono la soluzione ideale per chi cerca funzionalità e resistenza a un prezzo contenuto. Progettati con un corpo interamente in materiale plastico, eliminano definitivamente il problema della corrosione e dell&apos;ossidazion</Description>
+    <OriginalPrice>23.61</OriginalPrice>
+    <Price>17.49</Price>
+    <Code>4043142</Code>
+    <Link>https://www.onautica.com/products/tappo-imbarco-plastica-coperchio-stagno?variant=52513572749659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-imbarco-plastica-coperchio-water.png?v=1773341903</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626118059</EanCode>
+    <Weight>0.12</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tappo-imbarco-plastica-coperchio-fuel.png?v=1773341840</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-imbarco-plastica-coperchio-stagno</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo Imbarco in Plastica con Coperchio Stagno – Acqua e Carburante - Carburante Ø 50 mm.</Name>
@@ -40613,6 +40778,23 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-volante-poliuretano-nero-o-350-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Volante Ultraflex V32 bianco Ø 335 mm.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Volante Ultraflex V32 bianco Ø 335 mm. Il volante Ultraflex V32 in bianco con diametro di 335 mm è un comando nautico dal design sportivo ed elegante, pensato per garantire controllo e stile al timone della propria imbarcazione. A chi è rivolto Ideale per</Description>
+    <OriginalPrice>46.58</OriginalPrice>
+    <Price>33.27</Price>
+    <Code>10390</Code>
+    <Link>https://www.onautica.com/products/volante-ultraflex-v32-bianco-o-335-mm?variant=52577500627291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Volante_Ultraflex_V32_bianco_335_mm..png?v=1773341857</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164355097</EanCode>
+    <Weight>0.59</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>volante-ultraflex-v32-bianco-o-335-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Volante Ultraflex V32 nero Ø 335 mm.</Name>
     <Brand>Ultraflex</Brand>
     <Description>Volante Ultraflex V32 nero Ø 335 mm. Il volante Ultraflex V32 in colore nero con diametro di 335 mm è un volante nautico dal design sportivo ed elegante, pensato per garantire controllo e comfort alla guida dell&apos;imbarcazione. A chi è rivolto Ideale per ar</Description>
@@ -40892,6 +41074,40 @@ bocche Ø 14 mm.</Name>
     <ParentID>antiruggine-sintetica-02-fondo-ferro</ParentID>
   </Offer>
   <Offer>
+    <Name>Attacco Motore A75 Ultraflex – Forcella per Cavo Timoneria a Fuoribordo</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>L&apos; attacco motore A75 di Ultraflex è un componente essenziale per i sistemi di timoneria, progettato per collegare il cavo di sterzo al motore fuoribordo mediante una forcella robusta e affidabile. Garantisce una trasmissione precisa e sicura dei comandi </Description>
+    <OriginalPrice>37.58</OriginalPrice>
+    <Price>26.84</Price>
+    <Code>34459X</Code>
+    <Link>https://www.onautica.com/products/attacco-motore-a75-ultraflex?variant=52577417462107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_motore_A75_Ultraflex.png?v=1773341626</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164344596</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>attacco-motore-a75-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Barre rinvio motore inox A73SS Ultraflex</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Le barre di rinvio Ultraflex A73SS in acciaio inossidabile sono componenti per timoneria progettati per assicurare una trasmissione dei comandi precisa e affidabile sui motori fuoribordo Mercury . Grazie alla costruzione in acciaio inox, garantiscono elev</Description>
+    <OriginalPrice>123.07</OriginalPrice>
+    <Price>86.06</Price>
+    <Code>4637073</Code>
+    <Link>https://www.onautica.com/products/barre-rinvio-motore-inox-a73ss-ultraflex?variant=52577419428187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barre_rinvio_motore_inox_A73SS_Ultraflex.png?v=1773341628</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164412554</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barre_rinvio_motore_inox_A73SS_Ultraflex_1.png?v=1773341630</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Barre_rinvio_motore_inox_A73SS_Ultraflex_2.png?v=1773341630</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>barre-rinvio-motore-inox-a73ss-ultraflex</ParentID>
+  </Offer>
+  <Offer>
     <Name>Base II Supporto Tavolo Twist Lock in Alluminio Anodizzato a Filo Pavimento</Name>
     <Brand>Trem</Brand>
     <Description>Base II Supporto Tavolo Twist Lock in Alluminio Anodizzato Base a filo pavimento per supporti tavolo telescopici da imbarcazione, realizzata in alluminio anodizzato satinato di alta qualità. Sistema di aggancio rapido Twist Lock : il piede del tavolo si i</Description>
@@ -41061,6 +41277,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
   </Offer>
   <Offer>
+    <Name>Capottina Tendalino 3 Archi Bianco (+ Alte) – Struttura Alluminio e Tessuto PVC - 200 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top (+ Alte) sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi, in questa versione con altez</Description>
+    <OriginalPrice>241.30</OriginalPrice>
+    <Price>185.62</Price>
+    <Code>3265260</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-bianco-alte?variant=52519962935643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-alluminioschemafrontale.png?v=1768237256</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>1.25</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
+  </Offer>
+  <Offer>
     <Name>Capottina Tendalino 3 Archi Bianco – Struttura Alluminio e Tessuto PVC - 170 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi garantisce una buona tensione del telo</Description>
@@ -41107,6 +41341,24 @@ bocche Ø 14 mm.</Name>
     <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
+    <OriginalPrice>230.81</OriginalPrice>
+    <Price>177.55</Price>
+    <Code>3265268</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953760603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626034106</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
     <Condition>nuovo</Condition>
@@ -43104,24 +43356,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626008824</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>piastre-salvapoppa-plastica-450x360mm-nero-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Piastre Salvapoppa in Plastica - Versione BIANCA Standard - 300x220 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Queste piastre salva poppa sono un accessorio di protezione essenziale per lo scafo, specificamente progettate per salvaguardare la poppa da urti, graffi e usura causati dal motore fuoribordo e dagli accessori. Caratteristiche Principali: Materiale: Reali</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
-    <Code>4712130</Code>
-    <Link>https://www.onautica.com/products/piastre-salvapoppa-plastica-bianco-300-450mm?variant=52513547845979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Piastre_320-450_mm._bianco_salvapoppa.png?v=1773341761</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626124906</EanCode>
-    <Weight>0.23</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Piastre_320x220_mm._bianco_salvapoppa_8.png?v=1773341761</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>piastre-salvapoppa-plastica-bianco-300-450mm</ParentID>
   </Offer>
   <Offer>
     <Name>Piastre Salvapoppa in Plastica - Versione BIANCA Standard - 450x360 mm.</Name>
@@ -45163,6 +45397,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
   </Offer>
   <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size M</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>24.49</OriginalPrice>
+    <Price>17.49</Price>
+    <Code>3270203</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242507099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216045</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
@@ -46408,149 +46660,6 @@ bocche Ø 14 mm.</Name>
     <Weight>0.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tk-color-antiruggine-grigio-vernice-spray-motore-marino</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Metal Silver</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710059</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52513581072731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 71/80</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710055</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151244635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120370</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 81/83</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710056</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151277403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120387</EanCode>
-    <Weight>0.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue 69/82</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>11001</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151310171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120424</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue XP</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710063</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Grey</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710058</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151375707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151292</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710098</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52513582383451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120783</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710050</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52517132992859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151216</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Marine Blue 84</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710051</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52517133025627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151223</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Trasparente Nautica a Solvente (Flatting) – Alta Resistenza - Opaco</Name>
@@ -48007,6 +48116,101 @@ bocche Ø 14 mm.</Name>
     <ParentID>vernice-spray-tk-motori-honda</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Metal Silver</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710059</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52513581072731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 71/80</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710055</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151244635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120370</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 81/83</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710056</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151277403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120387</EanCode>
+    <Weight>0.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue 69/82</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>11001</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151310171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120424</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Blue XP</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710063</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Grey</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710058</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151375707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151292</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Mariner – Colori Originali - Light Grey - Grigio Chiaro</Name>
     <Brand>Motomarine</Brand>
     <Description>Restituisci l&apos;aspetto originale al tuo fuoribordo con le Vernici Spray TK , formulate specificamente per replicare le tinte di grigio che contraddistinguono i motori Mariner . Queste vernici alla nitrocombinata sono la soluzione ideale per riparare danni </Description>
@@ -48148,6 +48352,54 @@ bocche Ø 14 mm.</Name>
     <EanCode>8052705120578</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710098</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52513582383451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120783</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Ocean Blue</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710050</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52517132992859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151216</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Marine Blue 84</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710051</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-yamaha?variant=52517133025627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-yamaha.jpg?v=1769767190</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151223</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Spray TK – Lacca Trasparente Protettiva (Clear Coat)</Name>
@@ -48476,6 +48728,22 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Boa_sub_380_mm._exp_2.png?v=1773341636</Image3>
     <Condition>nuovo</Condition>
     <ParentID>boa-sub-o-380-mm-exp</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boccole Idrolub in Ottone per Assi Portaelica (Interno Metrico / Esterno Pollici) - Ø 25 mm. esterno 1&quot;1/2</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Boccole Idrolub sono componenti cruciali per il sistema di trasmissione, progettate per supportare gli assi portaelica e garantire la lubrificazione tramite acqua. Sono ideali per le imbarcazioni che presentano una combinazione di misurazioni metriche </Description>
+    <OriginalPrice>56.60</OriginalPrice>
+    <Price>35.35</Price>
+    <Code>4920025</Code>
+    <Link>https://www.onautica.com/products/boccole-ottone-assi-portaelica-idrolub-metrico-pollici?variant=52513486963035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BOCCOLEINOTTONEPERASSIPORTAELICA.png?v=1764430682</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626130204</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>boccole-ottone-assi-portaelica-idrolub-metrico-pollici</ParentID>
   </Offer>
   <Offer>
     <Name>Boccole Idrolub in Ottone per Assi Portaelica (Interno Metrico / Esterno Pollici) - Ø 30 mm. esterno 1&quot;3/4</Name>
