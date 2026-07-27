@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-27T06:31:58.919Z -->
-<!-- Offerte: 2958 -->
+<!-- Generato: 2026-07-27T10:31:02.128Z -->
+<!-- Offerte: 2954 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -27101,7 +27101,7 @@ L 320mm. - Ø22</Name>
     <Price>13.41</Price>
     <Code>LTS51</Code>
     <Link>https://www.onautica.com/products/atf-red-oil-invertitori-idraulici?variant=52577466777947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/atf-red-oil-invertitori-idraulici.png?v=1773341754</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29321,6 +29321,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-dockside-fd-smooth-610x150mm-bianco-testa-blu.webp?v=1776246021</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>776113726211</EanCode>
+    <Weight>1.83</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-dockside-fd-smooth-bianco-testa-blu_5c3ca4b5-7add-42d0-b5a2-a76f5163f974.webp?v=1776246022</Image2>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-dockside-fd-smooth-610x150mm-bianco-blu</ParentID>
@@ -37190,22 +37191,6 @@ L 320mm. - Ø22</Name>
     <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
   </Offer>
   <Offer>
-    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 4 uscite</Name>
-    <Brand>Quick</Brand>
-    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
-    <OriginalPrice>174.96</OriginalPrice>
-    <Price>120.66</Price>
-    <Code>1205012</Code>
-    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074068315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057090096910</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
-  </Offer>
-  <Offer>
     <Name>Coprimozzo cromato X91 per timoneria  T91 e T93Z</Name>
     <Brand>Ultraflex</Brand>
     <Description>Coprimozzo cromato X91 per timoneria T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una pro</Description>
@@ -38930,23 +38915,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
   </Offer>
   <Offer>
-    <Name>Sagola arancione per salvagente 30 mt.</Name>
-    <Brand>LALIZAS</Brand>
-    <Description>Sagola galleggiante per salvagenti regolamentare per navigazione da diporto. Caratteristiche: Ø 8 mm. lunghezza 30 mt. tenuta 400 kg. Caratteristiche principali Colore arancione ad alta visibilità per un recupero rapido in acqua Galleggiante: rimane in su</Description>
-    <OriginalPrice>8.40</OriginalPrice>
-    <Price>6.68</Price>
-    <Code>3009093</Code>
-    <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000071</EanCode>
-    <Weight>0.30</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>sagola-arancione-per-salvagente-o-8-mm-30-mt</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio</Name>
     <Brand>Motomarine</Brand>
     <Description>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio Sagola galleggiante di salvataggio lunga 30 metri , contenuta in una sacca impermeabile da lancio con maniglie . Si lancia verso una persona in mare per il recupero: la sagola galleggia e la sacc</Description>
@@ -39008,6 +38976,7 @@ bocche Ø 14 mm.</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-ponza-med-750-solas.webp?v=1773478159</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8055965093163</EanCode>
+    <Weight>2.58</Weight>
     <Condition>nuovo</Condition>
     <ParentID>salvagente-anulare-ponza-med-750-solas</ParentID>
   </Offer>
@@ -47314,23 +47283,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
-    <OriginalPrice>35.03</OriginalPrice>
-    <Price>25.95</Price>
-    <Code>57.176.10</Code>
-    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-250mm?variant=52577515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-250mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007439</EanCode>
-    <Weight>0.32</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-winch-galleggiante-250mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
     <Brand>Antal</Brand>
     <Description>La Manovella Antal Single-Grip da 200 mm (8&quot;) rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. Il corpo è realizzato in alluminio forgiato a caldo e presenta una serie di fori </Description>
@@ -48327,22 +48279,6 @@ bocche Ø 14 mm.</Name>
     <EanCode>8033626433312</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-wc-chimico-porta-potti-seaflo-sfpt-12-03</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Wc chimico Porta Potti Thetford QUBE 165 bianco</Name>
-    <Brand>Thetford</Brand>
-    <Description>Il Porta Potti Qube 165 di Thetford è un WC chimico portatile dalla forma compatta e dal design moderno, ideale per imbarcazioni da diporto, camper e uso esterno. Pratico e igienico, garantisce comfort a bordo anche negli spazi più ridotti. Serbatoio supe</Description>
-    <OriginalPrice>146.31</OriginalPrice>
-    <Price>100.91</Price>
-    <Code>50.217.06</Code>
-    <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-thetford-qube-165-bianco?variant=52577466220891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Wc_chimico_Porta_Potti_Thetford_QUBE_165_bianco.png?v=1773341751</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8710315024548</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-wc-chimico-porta-potti-thetford-qube-165-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>WC Elettrico Silent Compact 12V Osculati</Name>
