@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-27T14:31:19.160Z -->
-<!-- Offerte: 2953 -->
+<!-- Generato: 2026-07-27T18:11:16.667Z -->
+<!-- Offerte: 2949 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -70,24 +70,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>5.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Bruce - 7.5</Name>
-    <Brand>Bruce</Brand>
-    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
-    <OriginalPrice>58.90</OriginalPrice>
-    <Price>45.31</Price>
-    <Code>0107507</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376829787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>7.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
@@ -2983,22 +2965,6 @@
     <ParentID>pompa-maceratore-autoadescante-acque-nere</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Manuale Originale Jabsco Twist &apos;n&apos; Lock per WC Nautico</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La Pompa Manuale Originale Jabsco (PAR) è il componente di ricambio fondamentale per la manutenzione e il ripristino dei WC nautici manuali. Progettata per garantire affidabilità e igiene a bordo, questa pompa integra tutte le caratteristiche tecniche ava</Description>
-    <OriginalPrice>171.32</OriginalPrice>
-    <Price>118.15</Price>
-    <Code>0392904030</Code>
-    <Link>https://www.onautica.com/products/pompa-manuale-originale-jabsco-twist-n-lock?variant=52577462485339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-manuale-originale-jabsco-par.jpg?v=1773341737</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>671880587914</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-manuale-originale-jabsco-twist-n-lock</ParentID>
-  </Offer>
-  <Offer>
     <Name>Presa a 13 Poli per Rimorchi in ABS Nero con Particolari in Ottone Cromato ISO 11446</Name>
     <Brand>Osculati</Brand>
     <Description>Presa a 13 Poli per Rimorchi – Corpo in ABS Nero con Particolari in Ottone Cromato, Norma ISO 11446 La presa a 13 poli per rimorchi in ABS nero è il componente regolamentare per il collegamento elettrico tra il veicolo trainante e il rimorchio porta barch</Description>
@@ -5407,7 +5373,7 @@
     <ParentID>terminale-o-7-mm-a-forcella-autobloccante-per-cavo-parafil</ParentID>
   </Offer>
   <Offer>
-    <Name>Terminale Ø 7 mm. a occhio autobloccante per cavo parafil</Name>
+    <Name>Terminale �� 7 mm. a occhio autobloccante per cavo parafil</Name>
     <Brand>Osculati</Brand>
     <Description>Terminali autobloccanti in Acciaio Inox per cavo Parafil. A occhio, 7 mm.\nFacili da usare permettono di montare le draglie velocemente. Caratteristiche principali Sistema autobloccante che garantisce una presa sicura e stabile sul cavo parafil Terminazio</Description>
     <OriginalPrice>14.86</OriginalPrice>
@@ -8366,22 +8332,6 @@
     <ParentID>bandiera-francia-in-tessuto</ParentID>
   </Offer>
   <Offer>
-    <Name>Bandiera Francia in Tessuto - 30 × 45 cm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Bandiera Francia in Tessuto Bandiera della Francia (tricolore verticale blu-bianco-rosso) in tessuto, per l&apos;esposizione a bordo. Disponibile in quattro misure, da 20×30 a 50×75 cm. A chi è rivolto A chi naviga in acque francesi o in Corsica e deve esporre</Description>
-    <OriginalPrice>12.60</OriginalPrice>
-    <Price>8.42</Price>
-    <Code>3400730</Code>
-    <Link>https://www.onautica.com/products/bandiera-francia-in-tessuto?variant=53576299839835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bandiera_3240.webp?v=1783782113</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626099624</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>bandiera-francia-in-tessuto</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bandiera Francia in Tessuto - 40 × 60 cm</Name>
     <Brand>Motomarine</Brand>
     <Description>Bandiera Francia in Tessuto Bandiera della Francia (tricolore verticale blu-bianco-rosso) in tessuto, per l&apos;esposizione a bordo. Disponibile in quattro misure, da 20×30 a 50×75 cm. A chi è rivolto A chi naviga in acque francesi o in Corsica e deve esporre</Description>
@@ -10467,7 +10417,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>14.44</Price>
     <Code>CMFL075Z</Code>
     <Link>https://www.onautica.com/products/piastra-anodo-flap-130x50x18-mm-senza-fori?variant=52577471856987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Piastra_anodo_flap_130x50x18_mm._senza_fori.jpg?v=1773341761</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -27094,25 +27044,6 @@ L 320mm. - Ø22</Name>
     <ParentID>atf-red-oil-invertitori-idraulici</ParentID>
   </Offer>
   <Offer>
-    <Name>Autoclave Europump 8 – 12V 8 l/min Autoaspirante Silenziosa</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Autoclave Europump &quot;8&quot; è una pompa autoaspirante a 3 valvole progettata per offrire affidabilità e silenziosità nell&apos;impianto idrico di bordo. Dotata di un motore a magneti permanenti con albero autolubrificante e cuscinetti interni in acciaio inox , q</Description>
-    <OriginalPrice>74.70</OriginalPrice>
-    <Price>49.79</Price>
-    <Code>16.509.12</Code>
-    <Link>https://www.onautica.com/products/autoclave-europump-8-12v?variant=52577398751579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12v.webp?v=1773341577</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052583</EanCode>
-    <Weight>2.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vmisure.webp?v=1773341578</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-8-12vscatola.webp?v=1773341579</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-europump-8-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Autoclave SuperFlow a 3 Valvole 12V per Imbarcazioni</Name>
     <Brand>Osculati</Brand>
     <Description>Autoclave SuperFlow a 3 Valvole 12V – Pompa Pressione Silenziosa per Impianti Idrici di Bordo L&apos; autoclave SuperFlow a 3 valvole 12V è la soluzione ideale per chi cerca una pompa pressione affidabile, silenziosa e di lunga durata per l&apos;impianto idrico del</Description>
@@ -36092,7 +36023,7 @@ L 320mm. - Ø22</Name>
     <Price>19.87</Price>
     <Code>3020005</Code>
     <Link>https://www.onautica.com/products/offerta-boetta-luminosa-solas-med-vega?variant=52577456980315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Boetta_luminosa_Solas_med_vegav_2.png?v=1773341716</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -39888,7 +39819,7 @@ bocche Ø 14 mm.</Name>
     <Price>5.34</Price>
     <Code>3009090</Code>
     <Link>https://www.onautica.com/products/staffa-universale-inox-salvagente-anulare?variant=52577489158491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/staffa-universale-inox-salvagente-anulare.webp?v=1773480511</Image>
     <ShippingCost>5.90</ShippingCost>
