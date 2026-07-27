@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-27T10:31:02.128Z -->
-<!-- Offerte: 2954 -->
+<!-- Generato: 2026-07-27T14:31:19.160Z -->
+<!-- Offerte: 2953 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -5629,22 +5629,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>tubo-sanitation-sanitari</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricelli per alaggio manuale kg. 1454 n. velocità 2</Name>
-    <Brand>Osculati</Brand>
-    <Description>Verricello manuale progettato per l&apos;alaggio in sicurezza delle imbarcazioni, con una capacità di trazione fino a 1454 kg e 2 velocità di recupero selezionabili per adattarsi alle diverse fasi dell&apos;operazione. Ideale per chi cerca praticità e affidabilità </Description>
-    <OriginalPrice>124.72</OriginalPrice>
-    <Price>86.01</Price>
-    <Code>02.260.00</Code>
-    <Link>https://www.onautica.com/products/offerta-verricelli-per-alaggio-manuale-kg-1454-n-velocita-2?variant=52577465598299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Verricelli_per_alaggio_manuale_kg._1454_n._velocit_2.png?v=1773341748</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137070358</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-verricelli-per-alaggio-manuale-kg-1454-n-velocita-2</ParentID>
   </Offer>
   <Offer>
     <Name>Verricelli per alaggio manuale kg. 900 n. velocità 2</Name>
