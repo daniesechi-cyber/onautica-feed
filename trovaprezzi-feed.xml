@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-27T18:11:16.667Z -->
+<!-- Generato: 2026-07-28T06:32:05.214Z -->
 <!-- Offerte: 2949 -->
 <Products>
   <Offer>
@@ -5373,7 +5373,7 @@
     <ParentID>terminale-o-7-mm-a-forcella-autobloccante-per-cavo-parafil</ParentID>
   </Offer>
   <Offer>
-    <Name>Terminale �� 7 mm. a occhio autobloccante per cavo parafil</Name>
+    <Name>Terminale Ø 7 mm. a occhio autobloccante per cavo parafil</Name>
     <Brand>Osculati</Brand>
     <Description>Terminali autobloccanti in Acciaio Inox per cavo Parafil. A occhio, 7 mm.\nFacili da usare permettono di montare le draglie velocemente. Caratteristiche principali Sistema autobloccante che garantisce una presa sicura e stabile sul cavo parafil Terminazio</Description>
     <OriginalPrice>14.86</OriginalPrice>
@@ -6921,24 +6921,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-yamaha-25-100hp-alluminio-misura.png?v=1773341563</Image3>
     <Condition>nuovo</Condition>
     <ParentID>anodo-pinna-yamaha-alluminio-67f-45371-00</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anodo Pinna in Alluminio per Yamaha 25-60 HP – Rif. Orig. 67C-45371-00</Name>
-    <Brand>Yamaha</Brand>
-    <Description>Questo Anodo a Pinna (Trim Tab) in Lega di Alluminio è progettato specificamente per proteggere dalla corrosione galvanica i motori fuoribordo Yamaha di media potenza. Rispetto al tradizionale zinco, la versione in alluminio offre una maggiore efficienza </Description>
-    <OriginalPrice>10.10</OriginalPrice>
-    <Price>6.29</Price>
-    <Code>5126004</Code>
-    <Link>https://www.onautica.com/products/anodo-pinna-alluminio-yamaha-25-60hp?variant=52577389379931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-alluminio-yamaha-25-60hp.png?v=1773341552</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626137715</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-alluminio-yamaha-25-60hp_sotto.png?v=1773341553</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo-pinna-alluminio-yamaha-25-60hp_misure.png?v=1773341554</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-pinna-alluminio-yamaha-25-60hp</ParentID>
   </Offer>
   <Offer>
     <Name>Anodo Pinna in Zinco per Suzuki DT115-140 (Rif. 55125-94502)</Name>
@@ -12067,6 +12049,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>caviglia-inox-per-impiombatura-180-cm</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-C a USB-C - 1 mt.</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
+    <OriginalPrice>9.40</OriginalPrice>
+    <Price>6.26</Price>
+    <Code>309904</Code>
+    <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083559771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3571211504696</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavo Elettrico Banchina 32A 220V – Tripolare 3x6 mm² Blu (Sea Water Resistant)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Cavo Elettrico Sea Water Resistant (Cod. 14.593.01) è la soluzione professionale per collegare l&apos;imbarcazione alla colonnina di banchina in totale sicurezza, garantendo una portata fino a 32 Ampere . Progettato secondo le più severe norme europee (IEC </Description>
@@ -15916,7 +15916,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>34.22</Price>
     <Code>KIT3.C</Code>
     <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-3-miglia-dm-2024?variant=52577367720283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-miglia.webp?v=1774693721</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -15924,6 +15924,23 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-migliabusta.webp?v=1774693721</Image2>
     <Condition>nuovo</Condition>
     <ParentID>valigetta-segnali-soccorso-entro-3-miglia-dm-2024</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Valigetta Segnali di Soccorso per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnico è rigorosamente allineato alle r</Description>
+    <OriginalPrice>108.59</OriginalPrice>
+    <Price>94.43</Price>
+    <Code>KIT6/12/50</Code>
+    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.63</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diportobusta.webp?v=1774693894</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Valigetta Segnali di Soccorso Oltre 50 Miglia Diporto / Oltre 6 Miglia Noleggio (DM 21/09/2024)</Name>
@@ -25976,23 +25993,6 @@ L 320mm. - Ø22</Name>
     <ParentID>plafoniera-led-stagna-incasso-abs-bianco-ip65</ParentID>
   </Offer>
   <Offer>
-    <Name>Plafoniera Strip LED da Incasso 200mm – Impermeabile IP67 – Luce Naturale</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Luce Strip LED a Incasso è una soluzione di illuminazione versatile e robusta, progettata specificamente per l&apos;ambiente marino. Il corpo è realizzato in Tecnopolimero , un materiale plastico tecnico che garantisce totale immunità alla corrosione e alla</Description>
-    <OriginalPrice>19.32</OriginalPrice>
-    <Price>13.80</Price>
-    <Code>2145727</Code>
-    <Link>https://www.onautica.com/products/luce-strip-led-incasso-ip67-tecnopolimero-12v?variant=52577472020827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Interna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-strip-led-incasso-ip67-tecnopolimero.png?v=1773341764</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626281593</EanCode>
-    <Weight>0.05</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>luce-strip-led-incasso-ip67-tecnopolimero-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa riempimento olio piede o gruppo poppiero o Sail Drive</Name>
     <Brand>Osculati</Brand>
     <Description>Consente il rabbocco/riempimento dell&apos;olio piede o gruppo poppiero o Sail Drive, partendo da un fustino standard da 1/5 litri. Il kit comprende: Pompa da inserire nel fustino, completa di adattatore per filetto fustino sia USA sia europeo; 3 raccordi per </Description>
@@ -32520,7 +32520,7 @@ L 320mm. - Ø22</Name>
     <Price>8.90</Price>
     <Code>10513</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-200-gr?variant=52577439514971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gelcoat_bianco_200_gr..png?v=1773341664</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -35114,23 +35114,6 @@ L 320mm. - Ø22</Name>
     <EanCode>5204980139421</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>succhiarola-in-plastica-con-portagomma-per-tubi-da-18-20-24-mm-145x60xh38</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Succhiarola in Plastica Verticale con Valvola di non Ritorno  25/38 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Succhiarola verticale con valvola di non ritorno.\n\n CARATTERISTICHE \n \n Ref- Verticale \n Per tubi ∅ mm 25-38 (1&apos;&apos;-1 1/2&apos;&apos;) \n Caratteristiche principali Costruzione verticale, ideale per installazioni in spazi ridotti a bordo Valvola di non ritorno i</Description>
-    <OriginalPrice>33.83</OriginalPrice>
-    <Price>24.17</Price>
-    <Code>1426036</Code>
-    <Link>https://www.onautica.com/products/succhiarola-in-plastica-verticale-con-valvola-di-non-ritorno-25-38-mm?variant=52577489650011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Succhiarola_in_Plastica_Verticale_con_Valvola_di_non_Ritorno_25_38_mm..png?v=1773341824</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626038500</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Succhiarola_in_Plastica_Verticale_con_Valvola_di_non_Ritorno_25_38_mm._9.png?v=1773341825</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>succhiarola-in-plastica-verticale-con-valvola-di-non-ritorno-25-38-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo a Vite in Acciaio Inox AISI 316 – Raccorderia Idraulica - 1&quot;1/4</Name>
@@ -46191,6 +46174,21 @@ bocche Ø 14 mm.</Name>
     <Price>97.75</Price>
     <Code>76495-40</Code>
     <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152614235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-tricogel-nts-banchina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 3/4&quot; / 15 mt</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
+    <OriginalPrice>36.89</OriginalPrice>
+    <Price>30.74</Price>
+    <Code>76495-25</Code>
+    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152647003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
