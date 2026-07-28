@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-28T06:32:05.214Z -->
-<!-- Offerte: 2949 -->
+<!-- Generato: 2026-07-28T10:30:58.807Z -->
+<!-- Offerte: 2947 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -8278,6 +8278,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bandiera-sardegna-quattro-mori-poliestere.png?v=1773341627</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137122651</EanCode>
+    <Weight>0.03</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bandiera-sardegna-quattro-mori-nautica</ParentID>
   </Offer>
@@ -10359,7 +10360,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>passacavi-200-mm-ottone-cromato</ParentID>
   </Offer>
   <Offer>
-    <Name>Passacavi Ottone Cromato 250 mm in Coppia – Passacavi DX e SX per Cime fino a Ø 24 mm</Name>
+    <Name>Passacavi Ottone Cromato 250 mm in Coppia – Passacavi DX e SX per Cime fino a �� 24 mm</Name>
     <Brand>Motomarine</Brand>
     <Description>Passacavi in coppia (destro e sinistro) in Ottone Cromato, 250 mm. Base con 2 fori di fissaggio.\n\nCaratteristiche:\ncima max Ø 24 mm.\ndimensione 250x45 mm.\ninterasse fori 208 mm. Caratteristiche principali Finitura in ottone cromato per elevata resist</Description>
     <OriginalPrice>122.34</OriginalPrice>
@@ -24467,6 +24468,7 @@ L 320mm. - Ø22</Name>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Giubbetto_10_20_kg._salvagente_con_mutandina.png?v=1773341893</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137034664</EanCode>
+    <Weight>0.45</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/100N.png?v=1773341895</Image2>
     <Condition>nuovo</Condition>
     <ParentID>iubbotto-salvagente-sv-100-100n-top-quality</ParentID>
@@ -35458,7 +35460,7 @@ L 320mm. - Ø22</Name>
   <Offer>
     <Name>Tubo Carburante Carbopomp R.I.Na. Ø 50 mm – Gomma Autoestinguente Aspirazione e Mandata Vendita al Metro</Name>
     <Brand>Motomarine</Brand>
-    <Description>Tubo Carburante Carbopomp R.I.Na. Ø 50 mm – Gomma Autoestinguente per Aspirazione e Mandata Carburanti a Bordo Il tubo carburante Carbopomp Ø 50 mm certificato R.I.Na. è la soluzione professionale per gli impianti di aspirazione e mandata carburanti a bor</Description>
+    <Description>Tubo Carburante Carbopomp R.I.Na. Ø 50 mm – Gomma Autoestinguente per Aspirazione e Mandata Carburanti a Bordo Il tubo carburante Carbopomp Ø 50 mm certificato R.I.Na. �� la soluzione professionale per gli impianti di aspirazione e mandata carburanti a bo</Description>
     <OriginalPrice>54.02</OriginalPrice>
     <Price>40.01</Price>
     <Code>140205010</Code>
@@ -41740,22 +41742,6 @@ bocche Ø 14 mm.</Name>
     <ParentID>offerta-treccia-traino-bicolore-con-manico-sci-dacqua</ParentID>
   </Offer>
   <Offer>
-    <Name>Corda traino blu con manico -  Sci d&apos;acqua</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino per sci d&apos;acqua. L m ø mm 23 8 La corda da traino per sci d&apos;acqua con manico è un accessorio essenziale per chi pratica questo sport sul lago o in mare. Con diametro da 23 mm e lunghezza di 8 metri, offre una presa sicura e resistente dura</Description>
-    <OriginalPrice>36.16</OriginalPrice>
-    <Price>25.82</Price>
-    <Code>3015020</Code>
-    <Link>https://www.onautica.com/products/treccia-traino-blu-con-manico-sci-dacqua?variant=52577497940315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_traino_blu_con_manico_-_Sci_d_acqua.png?v=1773341849</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000156</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-traino-blu-con-manico-sci-dacqua</ParentID>
-  </Offer>
-  <Offer>
     <Name>Corda traino con 8 sezioni diversi colori per accorciamenti eventuali  - sci d&apos;acqua</Name>
     <Brand>Osculati</Brand>
     <Description>Treccia con 8 sezioni di diversi colori per eventuali accorciamenti. L m ø mm 22,5 12 Caratteristiche principali 8 sezioni di colori diversi per identificare rapidamente il punto di accorciamento Facilmente regolabile in lunghezza secondo le esigenze di t</Description>
@@ -47178,22 +47164,6 @@ bocche Ø 14 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-fissaggio-pavimento-wc-chimico-porta-potti-qube-thetford5.webp?v=1777906577</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-fissaggio-pavimento-porta-potti-qube-thetford</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
-    <OriginalPrice>45.40</OriginalPrice>
-    <Price>26.70</Price>
-    <Code>57.176.09</Code>
-    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007422</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
   </Offer>
   <Offer>
     <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
