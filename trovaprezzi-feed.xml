@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-29T06:31:00.700Z -->
-<!-- Offerte: 2944 -->
+<!-- Generato: 2026-07-29T10:31:28.022Z -->
+<!-- Offerte: 2956 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -71,6 +71,24 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137065095</EanCode>
     <Weight>5.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Bruce - 7.5</Name>
+    <Brand>Bruce</Brand>
+    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
+    <OriginalPrice>58.90</OriginalPrice>
+    <Price>45.31</Price>
+    <Code>0107507</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376829787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>7.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
     <Condition>nuovo</Condition>
@@ -2727,6 +2745,23 @@
     <ParentID>kit-cinghie-di-tensionamento-per-tendalini-coppia</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit Conversione WC Elettrico Universale 12V – Interasse 95 mm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo Kit di Conversione Elettrico 12V è la soluzione pratica ed efficiente per trasformare il WC manuale della tua imbarcazione in un moderno sistema elettrico, migliorando il comfort di bordo e riducendo lo sforzo fisico. La progettazione intelligente </Description>
+    <OriginalPrice>195.83</OriginalPrice>
+    <Price>150.64</Price>
+    <Code>1320512</Code>
+    <Link>https://www.onautica.com/products/kit-conversione-wc-elettrico-12v-universale-95mm?variant=52577459437915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-conversione-wc-elettrico-12v-universale.png?v=1773341728</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626033840</EanCode>
+    <Weight>2.93</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-conversione-wc-elettrico-12v-universale-95mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Maceratore BW40 12V 280x110 mm. 40 lt/min.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Maceratore BW40 è la soluzione affidabile per lo svuotamento dei serbatoi delle acque nere a bordo. Autoadescante e ad alta efficienza, garantisce operazioni di scarico rapide e complete in ogni condizione di navigazione. Tensione di alimentazione: 12V</Description>
@@ -3009,6 +3044,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-maceratore-autoadescante-acque-nere_bronzo.webp?v=1773341964</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-maceratore-autoadescante-acque-nere</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Manuale Originale Jabsco Twist &apos;n&apos; Lock per WC Nautico</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La Pompa Manuale Originale Jabsco (PAR) è il componente di ricambio fondamentale per la manutenzione e il ripristino dei WC nautici manuali. Progettata per garantire affidabilità e igiene a bordo, questa pompa integra tutte le caratteristiche tecniche ava</Description>
+    <OriginalPrice>171.32</OriginalPrice>
+    <Price>118.15</Price>
+    <Code>0392904030</Code>
+    <Link>https://www.onautica.com/products/pompa-manuale-originale-jabsco-twist-n-lock?variant=52577462485339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-manuale-originale-jabsco-par.jpg?v=1773341737</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>671880587914</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-manuale-originale-jabsco-twist-n-lock</ParentID>
   </Offer>
   <Offer>
     <Name>Presa a 13 Poli per Rimorchi in ABS Nero con Particolari in Ottone Cromato ISO 11446</Name>
@@ -4721,8 +4772,8 @@
     <Name>Staffa Rullo Laterale Rialzata per Carrelli - 30 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Queste staffe rialzate sono componenti essenziali per il tuo carrello alaggio o rimorchio barca, progettate per montare i rulli laterali (modello 02.029.07 , venduto separatamente) e garantire il corretto supporto e allineamento dello scafo. La loro confo</Description>
-    <OriginalPrice>18.99</OriginalPrice>
-    <Price>13.57</Price>
+    <OriginalPrice>17.12</OriginalPrice>
+    <Price>12.23</Price>
     <Code>02.029.32</Code>
     <Link>https://www.onautica.com/products/staffa-rullo-laterale-rialzata-per-carrelli?variant=52513567342939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -8456,6 +8507,22 @@
     <ParentID>bandiera-francia-in-tessuto</ParentID>
   </Offer>
   <Offer>
+    <Name>Bandiera Francia in Tessuto - 30 × 45 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Bandiera Francia in Tessuto Bandiera della Francia (tricolore verticale blu-bianco-rosso) in tessuto, per l&apos;esposizione a bordo. Disponibile in quattro misure, da 20×30 a 50×75 cm. A chi è rivolto A chi naviga in acque francesi o in Corsica e deve esporre</Description>
+    <OriginalPrice>12.60</OriginalPrice>
+    <Price>8.42</Price>
+    <Code>3400730</Code>
+    <Link>https://www.onautica.com/products/bandiera-francia-in-tessuto?variant=53576299839835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bandiera_3240.webp?v=1783782113</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626099624</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>bandiera-francia-in-tessuto</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bandiera Francia in Tessuto - 40 × 60 cm</Name>
     <Brand>Motomarine</Brand>
     <Description>Bandiera Francia in Tessuto Bandiera della Francia (tricolore verticale blu-bianco-rosso) in tessuto, per l&apos;esposizione a bordo. Disponibile in quattro misure, da 20×30 a 50×75 cm. A chi è rivolto A chi naviga in acque francesi o in Corsica e deve esporre</Description>
@@ -9070,8 +9137,8 @@
     <Name>Boa in Polietilene con Foro Passante Arancione - Ø 170 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
-    <OriginalPrice>12.20</OriginalPrice>
-    <Price>6.79</Price>
+    <OriginalPrice>11.60</OriginalPrice>
+    <Price>6.42</Price>
     <Code>33.136.00RO</Code>
     <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-arancione?variant=52805444206939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -9087,8 +9154,8 @@
     <Name>Boa in Polietilene con Foro Passante Arancione - Ø 260 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Boa in Polietilene con Foro Passante – Colore Arancione per Delimitazione Corsie e Recinzioni Acquatiche Il boa in polietilene con foro passante colore arancione è la soluzione professionale per la delimitazione di corsie in piscina , la recinzione di are</Description>
-    <OriginalPrice>19.00</OriginalPrice>
-    <Price>10.58</Price>
+    <OriginalPrice>18.00</OriginalPrice>
+    <Price>10.01</Price>
     <Code>33.135.20RO</Code>
     <Link>https://www.onautica.com/products/boa-polietilene-foro-passante-arancione?variant=52805444239707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -9293,6 +9360,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-misure.png?v=1767806956</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bussola-riviera-artica-ba2-staffa</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Comet 2&quot; (48 mm) – Serie Compatta - Nero con Staffa</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Comet 2&quot; è lo strumento ideale per chi necessita di una navigazione precisa in spazi ridotti. Progettata per piccole imbarcazioni e scafi veloci, questa bussola magnetica si distingue per la sua robustezza e la chiara leggibilità. Dotat</Description>
+    <OriginalPrice>45.64</OriginalPrice>
+    <Price>32.60</Price>
+    <Code>62.00203.01</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-comet-2-pollici?variant=52520382792027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-comet-2-pollici_nero_staffa.png?v=1773341716</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626076724</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-comet-2-pollici_grigio_bianco_staffa.png?v=1773341718</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-comet-2-pollici_grigio_bianco_piano.png?v=1773341716</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-comet-2-pollici</ParentID>
   </Offer>
   <Offer>
     <Name>Bussola Magnetica Riviera Comet 2&quot; (48 mm) – Serie Compatta - Grigio con Chiesuola</Name>
@@ -11526,6 +11611,24 @@ Dimensioni: 100x70x27 mm.</Name>
     <ParentID>caricabatteria-victron-bluesmart-ip65-bluetooth</ParentID>
   </Offer>
   <Offer>
+    <Name>Caricabatteria Victron BlueSmart IP65 - Bluetooth Integrato e Gestione Smart - 24/13</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il Victron BlueSmart IP65 è il caricabatteria professionale di nuova generazione dotato di Bluetooth integrato . Progettato per resistere agli ambienti più difficili, permette un monitoraggio totale direttamente dal tuo smartphone, garantendo una ricarica</Description>
+    <OriginalPrice>236.10</OriginalPrice>
+    <Price>168.66</Price>
+    <Code>14.273.19</Code>
+    <Link>https://www.onautica.com/products/caricabatteria-victron-bluesmart-ip65-bluetooth?variant=52526033371483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-bluesmart-ip65-charger-bluetooth.png?v=1766425333</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137204845</EanCode>
+    <Weight>2.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-bluesmart-ip65-charger-bluetoothapp.png?v=1766425333</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatteria-victron-bluesmart-ip65-bluetooth</ParentID>
+  </Offer>
+  <Offer>
     <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 16 A / 1 uscita</Name>
     <Brand>Victron Energy</Brand>
     <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
@@ -13256,7 +13359,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>9.09</Price>
     <Code>3813001BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52513515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13644,7 +13747,7 @@ Dimensioni: 100x70x27 mm.</Name>
     <Price>28.64</Price>
     <Code>3813104BK</Code>
     <Link>https://www.onautica.com/products/copriparabordo-navishell-a-type-nero-in-acrilico-marino-uv-resistant?variant=53069565460827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordo-navishell-a-type-nero.webp?v=1779702673</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -17167,23 +17270,6 @@ L 320mm. - Ø22</Name>
     <Weight>0.54</Weight>
     <Condition>nuovo</Condition>
     <ParentID>girelle-o-13-mm-occhio-forcella-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Girelle Ø 8 mm. forcella-forcella acciaio inox AISI316</Name>
-    <Brand>Osculati</Brand>
-    <Description>Girelle Ø 8 mm. forcella-forcella acciaio inox AISI317 Caratteristiche principali Acciaio inox AISI 316, ideale per l&apos;uso marino grazie all&apos;elevata resistenza alla corrosione salina Terminali a forcella su entrambi i lati per un collegamento sicuro e vers</Description>
-    <OriginalPrice>8.67</OriginalPrice>
-    <Price>6.19</Price>
-    <Code>A54308</Code>
-    <Link>https://www.onautica.com/products/girelle-o-8-mm-forcella-forcella-acciaio-inox-aisi316?variant=52577440203099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Girelle_8_mm._forcella-forcella_acciaio_inox_AISI316.png?v=1773341667</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137067181</EanCode>
-    <Weight>0.15</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>girelle-o-8-mm-forcella-forcella-acciaio-inox-aisi316</ParentID>
   </Offer>
   <Offer>
     <Name>Girelle Ø 8 mm. occhio-forcella acciaio inox AISI 316</Name>
@@ -26297,6 +26383,23 @@ L 320mm. - Ø22</Name>
     <ParentID>plafoniera-led-stagna-incasso-abs-bianco-ip65</ParentID>
   </Offer>
   <Offer>
+    <Name>Plafoniera Strip LED da Incasso 200mm – Impermeabile IP67 – Luce Naturale</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Luce Strip LED a Incasso è una soluzione di illuminazione versatile e robusta, progettata specificamente per l&apos;ambiente marino. Il corpo è realizzato in Tecnopolimero , un materiale plastico tecnico che garantisce totale immunità alla corrosione e alla</Description>
+    <OriginalPrice>19.32</OriginalPrice>
+    <Price>13.80</Price>
+    <Code>2145727</Code>
+    <Link>https://www.onautica.com/products/luce-strip-led-incasso-ip67-tecnopolimero-12v?variant=52577472020827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Interna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luce-strip-led-incasso-ip67-tecnopolimero.png?v=1773341764</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626281593</EanCode>
+    <Weight>0.05</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>luce-strip-led-incasso-ip67-tecnopolimero-12v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa riempimento olio piede o gruppo poppiero o Sail Drive</Name>
     <Brand>Osculati</Brand>
     <Description>Consente il rabbocco/riempimento dell&apos;olio piede o gruppo poppiero o Sail Drive, partendo da un fustino standard da 1/5 litri. Il kit comprende: Pompa da inserire nel fustino, completa di adattatore per filetto fustino sia USA sia europeo; 3 raccordi per </Description>
@@ -27326,7 +27429,7 @@ L 320mm. - Ø22</Name>
     <Name>Batteria Servizi AGM Bosch S5 A05 12V 60Ah</Name>
     <Brand>Bosch</Brand>
     <Description>La Bosch S5 A05 è una batteria AGM da 12 V con 60 Ah di capacità, adatta ad alimentare i servizi di bordo : frigo, luci, strumentazione, VHF e pompe, cioè tutto quello che continua a lavorare a motore fermo. L&apos;acido non è libero ma completamente assorbito</Description>
-    <OriginalPrice>246.10</OriginalPrice>
+    <OriginalPrice>257.80</OriginalPrice>
     <Price>161.11</Price>
     <Code>BOS0092S5A050</Code>
     <Link>https://www.onautica.com/products/batteria-agm-bosch-60ah-680a-12v?variant=52577399898459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -27343,7 +27446,7 @@ L 320mm. - Ø22</Name>
     <Name>Batteria Servizi AGM Bosch S5 A11 12V 80Ah</Name>
     <Brand>Bosch</Brand>
     <Description>La Bosch S5 A11 è una batteria AGM da 12 V con 80 Ah di capacità, adatta ad alimentare i servizi di bordo : frigo, luci, strumentazione, VHF e pompe, cioè tutto quello che continua a lavorare a motore fermo. L&apos;acido non è libero ma completamente assorbito</Description>
-    <OriginalPrice>355.40</OriginalPrice>
+    <OriginalPrice>371.60</OriginalPrice>
     <Price>232.22</Price>
     <Code>BOS0092S5A110</Code>
     <Link>https://www.onautica.com/products/batteria-agm-bosch-80ah-800a-12v?variant=52577399865691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -27359,8 +27462,8 @@ L 320mm. - Ø22</Name>
     <Name>Batteria Servizi AGM Bosch S5 A15 12V 105Ah</Name>
     <Brand>Bosch</Brand>
     <Description>La Bosch S5 A15 è una batteria AGM da 12 V con 105 Ah di capacità, adatta ad alimentare i servizi di bordo : frigo, luci, strumentazione, VHF e pompe, cioè tutto quello che continua a lavorare a motore fermo. L&apos;acido non è libero ma completamente assorbit</Description>
-    <OriginalPrice>491.50</OriginalPrice>
-    <Price>322.00</Price>
+    <OriginalPrice>516.00</OriginalPrice>
+    <Price>322.48</Price>
     <Code>BOS0092S5A150</Code>
     <Link>https://www.onautica.com/products/batteria-agm-bosch-105ah-950a-12v?variant=52577399505243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -28159,7 +28262,7 @@ L 320mm. - Ø22</Name>
     <Price>8.27</Price>
     <Code>0332902</Code>
     <Link>https://www.onautica.com/products/gancio-porta-parabordi-battagliola-plastica-stanfender?variant=52577438892379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-porta-parabordi-battagliola-plastica-stanfender.webp?v=1775062856</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28174,7 +28277,7 @@ L 320mm. - Ø22</Name>
     <Price>8.27</Price>
     <Code>10060</Code>
     <Link>https://www.onautica.com/products/gancio-porta-parabordi-draglia-plastica-stanfender?variant=52577439449435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Parabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-porta-parabordi-draglia-plastica-stanfender.webp?v=1775062573</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29620,8 +29723,8 @@ L 320mm. - Ø22</Name>
     <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA1 - Ø 29 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordo Sferico Heavy Duty in PVC – Corpo Bianco Testa Blu per Protezione Fiancate e Boa da Ormeggio Il parabordo sferico Heavy Duty in PVC morbido di alta qualità è la soluzione di protezione superiore per chi non scende a compromessi sulla sicurezza d</Description>
-    <OriginalPrice>35.71</OriginalPrice>
-    <Price>22.32</Price>
+    <OriginalPrice>30.15</OriginalPrice>
+    <Price>18.84</Price>
     <Code>33.300.12</Code>
     <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52513546273115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30098,25 +30201,6 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-whale-supersub-smart-automatica_schema_2.png?v=1773341785</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-sentina-automatica-whale-supersub-smart-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di sentina Europump II automatica | Osculati - G600 - 38 lt/min.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Protezione Compatta, Automatica e Certificata per la Tua Sentina La pompa di sentina Europump II è la soluzione moderna e affidabile per mantenere la sentina sempre asciutta. Il suo design estremamente compatto la rende ideale per installazioni anche in s</Description>
-    <OriginalPrice>29.69</OriginalPrice>
-    <Price>24.74</Price>
-    <Code>10944</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-europump-ii-automatica-osculati?variant=52559585706331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05.png?v=1773341985</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137035050</EanCode>
-    <Weight>0.55</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05b.png?v=1773341986</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05c.png?v=1773341987</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-europump-ii-automatica-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di sentina Europump II automatica | Osculati - G750 - 48 lt/min.</Name>
@@ -30909,6 +30993,22 @@ L 320mm. - Ø22</Name>
     <Weight>0.84</Weight>
     <Condition>nuovo</Condition>
     <ParentID>remo-in-alluminio-anodizzato-l-190-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Remo in alluminio anodizzato L 210 cm.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Remo in alluminio anodizzato con pala in plastica. ø mm L cm 35 210 Caratteristiche principali Costruzione in alluminio anodizzato: leggero, resistente alla corrosione marina e durevole nel tempo Pala in plastica robusta, progettata per una vogata efficac</Description>
+    <OriginalPrice>63.30</OriginalPrice>
+    <Price>31.64</Price>
+    <Code>0701021</Code>
+    <Link>https://www.onautica.com/products/remo-in-alluminio-anodizzato-l-210-cm?variant=52577368441179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/07010XX.png?v=1773341492</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626024435</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>remo-in-alluminio-anodizzato-l-210-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Rete Portaoggetti Elastica con Cornice in ABS – Fissaggio Adesivo o Viti - 360x160x30 mm.</Name>
@@ -33072,7 +33172,7 @@ L 320mm. - Ø22</Name>
     <Price>13.66</Price>
     <Code>GIPS010</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-1kg-con-catalizzatore?variant=52577502855515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat_f60f7dea-758b-499b-a150-a6d4e70e802c.png?v=1773341865</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -33088,7 +33188,7 @@ L 320mm. - Ø22</Name>
     <Price>8.90</Price>
     <Code>10513</Code>
     <Link>https://www.onautica.com/products/gelcoat-bianco-200-gr?variant=52577439514971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gelcoat_bianco_200_gr..png?v=1773341664</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -35575,11 +35675,27 @@ L 320mm. - Ø22</Name>
     <Price>7.52</Price>
     <Code>PSM0002</Code>
     <Link>https://www.onautica.com/products/stucco-metallico-per-riparazioni?variant=52552791425371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccometallico.png?v=1773341949</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033745210023</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>stucco-metallico-per-riparazioni</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Stucco Metallico per Riparazioni – Stucco Bicomponente alle Polveri di Alluminio - 750 ml.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo stucco metallico è un prodotto bicomponente a base di resine poliestere, arricchito con polveri metalliche, tipicamente alluminio. Questa composizione conferisce al prodotto una notevole durezza, resistenza e un&apos;eccellente adesione su superfici in resi</Description>
+    <OriginalPrice>23.50</OriginalPrice>
+    <Price>15.81</Price>
+    <Code>PSM0003</Code>
+    <Link>https://www.onautica.com/products/stucco-metallico-per-riparazioni?variant=52513570718043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccometallico.png?v=1773341949</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033745210030</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>stucco-metallico-per-riparazioni</ParentID>
   </Offer>
@@ -36615,6 +36731,23 @@ L 320mm. - Ø22</Name>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_Uni-S_2.png?v=1773341636</Image3>
     <Condition>nuovo</Condition>
     <ParentID>box-doccetta-uni-s</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box Doccetta Dritta da Incasso per Barca – Contenitore in Plastica Anti-UV</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Contenitore box in plastica antiurto e resistente ai raggi UV, progettato per l’incasso di doccette. Installazione verticale. Da completare con doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70 97 65 Caratteristiche principali P</Description>
+    <OriginalPrice>11.44</OriginalPrice>
+    <Price>8.17</Price>
+    <Code>1513603</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-dritta-246?variant=52577421590875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246.png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626259042</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_doccetta_dritta_246_1.png?v=1773341635</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-dritta-246</ParentID>
   </Offer>
   <Offer>
     <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
@@ -39493,6 +39626,23 @@ bocche Ø 14 mm.</Name>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
     <Condition>nuovo</Condition>
     <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sagola arancione per salvagente 30 mt.</Name>
+    <Brand>LALIZAS</Brand>
+    <Description>Sagola galleggiante per salvagenti regolamentare per navigazione da diporto. Caratteristiche: Ø 8 mm. lunghezza 30 mt. tenuta 400 kg. Caratteristiche principali Colore arancione ad alta visibilità per un recupero rapido in acqua Galleggiante: rimane in su</Description>
+    <OriginalPrice>8.40</OriginalPrice>
+    <Price>6.68</Price>
+    <Code>3009093</Code>
+    <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000071</EanCode>
+    <Weight>0.53</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>sagola-arancione-per-salvagente-o-8-mm-30-mt</ParentID>
   </Offer>
   <Offer>
     <Name>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio</Name>
@@ -42676,6 +42826,22 @@ bocche Ø 14 mm.</Name>
     <ParentID>collare-inox-t-bolt-hd-5x-coppia-serraggio</ParentID>
   </Offer>
   <Offer>
+    <Name>Fascetta Acciaio Inox Alta Coppia di Serraggio T-BOLT HD - 149/161 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo collare a bullone è progettato per un uso professionale e gravoso , garantendo la massima sicurezza e tenuta su tubi e manicotti ad alta pressione o soggetti a forte stress meccanico. Caratteristiche Premium: Coppia di Serraggio Estrema: Offre una </Description>
+    <OriginalPrice>14.76</OriginalPrice>
+    <Price>10.54</Price>
+    <Code>1401602</Code>
+    <Link>https://www.onautica.com/products/collare-inox-t-bolt-hd-5x-coppia-serraggio?variant=52543803359579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Collare_inox_T-Bolt_HD_98_103_mm..png?v=1773341648</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626035837</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>collare-inox-t-bolt-hd-5x-coppia-serraggio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fascetta Acciaio Inox Alta Coppia di Serraggio T-BOLT HD - 162/174 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo collare a bullone è progettato per un uso professionale e gravoso , garantendo la massima sicurezza e tenuta su tubi e manicotti ad alta pressione o soggetti a forte stress meccanico. Caratteristiche Premium: Coppia di Serraggio Estrema: Offre una </Description>
@@ -43376,8 +43542,8 @@ bocche Ø 14 mm.</Name>
     <Name>Kit Tubo Lavaggio Barca Tricotex® con Pistola e Raccordi Rapidi - 15 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Il Kit Tubo Lavaggio Barca è la soluzione professionale e completa per la pulizia della tua imbarcazione. Fornito di un tubo di alta qualità Tricotex® Antitorsione e di tutti gli accessori necessari per il collegamento universale. Caratteristiche Principa</Description>
-    <OriginalPrice>45.40</OriginalPrice>
-    <Price>37.86</Price>
+    <OriginalPrice>48.50</OriginalPrice>
+    <Price>40.43</Price>
     <Code>36.464.15</Code>
     <Link>https://www.onautica.com/products/kit-tubo-lavaggio-barca-tricotex-pistola-raccordi?variant=52526592491867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -43693,6 +43859,24 @@ bocche Ø 14 mm.</Name>
     <ParentID>piastre-salvapoppa-plastica-450x360mm-nero-bianco</ParentID>
   </Offer>
   <Offer>
+    <Name>Piastre Salvapoppa in Plastica - Versione BIANCA Standard - 300x220 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste piastre salva poppa sono un accessorio di protezione essenziale per lo scafo, specificamente progettate per salvaguardare la poppa da urti, graffi e usura causati dal motore fuoribordo e dagli accessori. Caratteristiche Principali: Materiale: Reali</Description>
+    <OriginalPrice>7.07</OriginalPrice>
+    <Price>5.24</Price>
+    <Code>4712130</Code>
+    <Link>https://www.onautica.com/products/piastre-salvapoppa-plastica-bianco-300-450mm?variant=52513547845979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Piastre_320-450_mm._bianco_salvapoppa.png?v=1773341761</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626124906</EanCode>
+    <Weight>0.23</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Piastre_320x220_mm._bianco_salvapoppa_8.png?v=1773341761</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>piastre-salvapoppa-plastica-bianco-300-450mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Piastre Salvapoppa in Plastica - Versione BIANCA Standard - 450x360 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste piastre salva poppa sono un accessorio di protezione essenziale per lo scafo, specificamente progettate per salvaguardare la poppa da urti, graffi e usura causati dal motore fuoribordo e dagli accessori. Caratteristiche Principali: Materiale: Reali</Description>
@@ -43730,8 +43914,8 @@ bocche Ø 14 mm.</Name>
     <Name>Portabicchieri a scatto su pulpiti o battagliole bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Portabicchieri universali in plastica, progettati per un&apos;installazione rapida e sicura a scatto su pulpiti o battagliole. Ideali per tenere bevande a portata di mano durante la navigazione, si montano senza attrezzi e senza forare la barca. Disponibili in</Description>
-    <OriginalPrice>13.32</OriginalPrice>
-    <Price>9.52</Price>
+    <OriginalPrice>12.63</OriginalPrice>
+    <Price>9.02</Price>
     <Code>48.430.08</Code>
     <Link>https://www.onautica.com/products/portabicchieri-a-scatto-su-pulpiti-o-battagliole-bianco?variant=52577475166555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -46863,7 +47047,7 @@ bocche Ø 14 mm.</Name>
     <Price>16.44</Price>
     <Code>LEG005/075LUC</Code>
     <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52514360394075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Vernici</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -47189,6 +47373,23 @@ bocche Ø 14 mm.</Name>
     <Weight>0.34</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
+    <OriginalPrice>79.80</OriginalPrice>
+    <Price>44.35</Price>
+    <Code>VIA90.09</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816917339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164934</EanCode>
+    <Weight>0.25</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
   </Offer>
   <Offer>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
