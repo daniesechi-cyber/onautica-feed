@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-30T06:31:05.763Z -->
-<!-- Offerte: 2958 -->
+<!-- Generato: 2026-07-30T10:31:48.935Z -->
+<!-- Offerte: 2953 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -869,23 +869,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavallotirimorchiob.png?v=1763578343</Image2>
     <Condition>nuovo</Condition>
     <ParentID>staffa-ad-u-fissaggio-rulli</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 5 mm. - 7.5 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo cavo è un componente di ricambio essenziale per i verricelli e gli arganelli a mano. È realizzato in acciaio zincato flessibile di tipo **“Aircraft”**, offrendo un&apos;eccellente combinazione di resistenza meccanica e flessibilità, essenziale per il co</Description>
-    <OriginalPrice>27.62</OriginalPrice>
-    <Price>15.34</Price>
-    <Code>02.091.02</Code>
-    <Link>https://www.onautica.com/products/cavo-verricello-acciaio-zincato-aircraft-moschettone?variant=52543881773403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_verricello_6_mm._x_7_5_mt.png?v=1773341643</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137070150</EanCode>
-    <Weight>0.96</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-verricello-acciaio-zincato-aircraft-moschettone</ParentID>
   </Offer>
   <Offer>
     <Name>Cavo Acciaio Zincato per Verricello tipo &quot;Aircraft&quot; - Ø 6 mm. - 7.5 mt.</Name>
@@ -7781,25 +7764,6 @@
     <ParentID>antivegetativa-sp-premium-365-autolevigante</ParentID>
   </Offer>
   <Offer>
-    <Name>Antivegetativa Autolevigante SP Premium 365 – Protezione Annuale (Universale) - Blu / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa SP Premium 365 è la soluzione premium a matrice autolevigante progettata per garantire una carena pulita e protetta per tutto l&apos;anno (365 giorni). È ideale per armatori di barche a vela e a motore (fino a 25 nodi ) che desiderano ridurre</Description>
-    <OriginalPrice>103.10</OriginalPrice>
-    <Price>93.76</Price>
-    <Code>65.602.22</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-sp-premium-365-autolevigante?variant=52113049157979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale.png?v=1770883268</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137063169</EanCode>
-    <Weight>3.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-sp-premium-365-autolevigante-annuale_2.5.png?v=1770883282</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-sp-premium-365-autolevigante</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antivegetativa Autolevigante SP Premium 365 – Protezione Annuale (Universale) - Bianca / 0,75 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Antivegetativa SP Premium 365 è la soluzione premium a matrice autolevigante progettata per garantire una carena pulita e protetta per tutto l&apos;anno (365 giorni). È ideale per armatori di barche a vela e a motore (fino a 25 nodi ) che desiderano ridurre</Description>
@@ -13802,6 +13766,7 @@
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copri_3240.webp?v=1783782858</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>0.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>copriparabordo-navishell-f-type-in-tessuto-grigio</ParentID>
   </Offer>
@@ -14078,7 +14043,7 @@
     <Price>17.49</Price>
     <Code>3020041</Code>
     <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52545494516059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EstintoreMED.png?v=1763201908</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -16238,7 +16203,7 @@
     <ParentID>stucco-acrilico-3m-marine-verde</ParentID>
   </Offer>
   <Offer>
-    <Name>Stucco Epossidico Subacqueo Veneziani Sub Coat XT ��� Riparazioni in Acqua</Name>
+    <Name>Stucco Epossidico Subacqueo Veneziani Sub Coat XT – Riparazioni in Acqua</Name>
     <Brand>Veneziani</Brand>
     <Description>Veneziani Sub Coat XT (Cod. 6612) è lo speciale stucco epossidico bicomponente formulato per applicazioni subacquee e su superfici bagnate. È il prodotto indispensabile da avere a bordo per le emergenze , poiché permette di intervenire immediatamente su f</Description>
     <OriginalPrice>113.80</OriginalPrice>
@@ -22995,7 +22960,7 @@
     <Price>5.51</Price>
     <Code>C0181</Code>
     <Link>https://www.onautica.com/products/crc-6-66-marine-lubrificante-multiuso-spray?variant=52525363462491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/crc-6-66-marine-lubrificante-multiuso-spray-marino.webp?v=1776183546</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -23290,22 +23255,6 @@
     <EanCode>8033626182616</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanale-led-360-asta-inox-64cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale di Via On Deck Rosso a LED – Fanale di Navigazione da Coperta per Barca</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Fanale di navigazione a LED per installazione a coperta, ideale per imbarcazioni da diporto. Realizzato in plastica robusta e resistente agli agenti atmosferici, garantisce visibilità e affidabilità nelle condizioni tipiche della navigazione. Colore luce:</Description>
-    <OriginalPrice>15.74</OriginalPrice>
-    <Price>11.24</Price>
-    <Code>2111020</Code>
-    <Link>https://www.onautica.com/products/fanale-on-deck-rosso-led?variant=52577434435931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_On_Deck_rosso_Led.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626281333</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-on-deck-rosso-led</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale led rosso inox Attwood side mount R.I.N.A. &lt; 20M</Name>
@@ -24028,22 +23977,6 @@
     <EanCode>8033626203069</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanali-midi-rosso-black-r-i-n-a-di-via</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali midi verde black R.I.N.A. di via</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Fanali midi verde black R.I.N.A. di via Il fanale midi verde black R.I.N.A. di via è un fanale di navigazione omologato R.I.N.A., progettato per segnalare la fiancata dritta dell&apos;imbarcazione durante la navigazione notturna o in condizioni di scarsa visib</Description>
-    <OriginalPrice>13.75</OriginalPrice>
-    <Price>9.82</Price>
-    <Code>2110802</Code>
-    <Link>https://www.onautica.com/products/fanali-midi-verde-black-r-i-n-a-di-via?variant=49393134174555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_midi_verde_black_R.I.N.A._di_via.png?v=1762785395</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626203076</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-midi-verde-black-r-i-n-a-di-via</ParentID>
   </Offer>
   <Offer>
     <Name>Faretto LED da Coperta G-Line E160 18W Flood – Luce Diffusa IP67 - Bianco</Name>
@@ -24925,7 +24858,7 @@
     <Price>78.36</Price>
     <Code>3010102-6PZ</Code>
     <Link>https://www.onautica.com/products/giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-6-pezzi?variant=53483111907675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-conf-6pz-3240.webp?v=1782927003</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -26464,7 +26397,7 @@
     <Price>9.81</Price>
     <Code>65.116.20</Code>
     <Link>https://www.onautica.com/products/pompa-riempimento-olio-piede?variant=52577474838875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_riempimento_olio_piede.png?v=1773341772</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -32603,7 +32536,7 @@
   <Offer>
     <Name>Filtro Aria a Pannello per Motori Volvo Penta (Rif. Orig. 876185)</Name>
     <Brand>Volvo Penta</Brand>
-    <Description>Questo Filtro Aria a Pannello è un componente di ricambio essenziale per la corretta manutenzione dei motori marini Volvo Penta compatibili. La sua struttura piatta a pannello garantisce un&apos;ampia superficie filtrante, assicurando che l&apos;aria aspirata dal m</Description>
+    <Description>Questo Filtro Aria a Pannello �� un componente di ricambio essenziale per la corretta manutenzione dei motori marini Volvo Penta compatibili. La sua struttura piatta a pannello garantisce un&apos;ampia superficie filtrante, assicurando che l&apos;aria aspirata dal </Description>
     <OriginalPrice>16.50</OriginalPrice>
     <Price>10.99</Price>
     <Code>17.498.03</Code>
@@ -35530,25 +35463,6 @@
     <ParentID>spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde</ParentID>
   </Offer>
   <Offer>
-    <Name>Spazzolone Osculati Special 250×90 mm Setole Medie Blu</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Osculati Special 250×90 mm Setole Medie Blu Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole medie di colore blu, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indica la dure</Description>
-    <OriginalPrice>30.40</OriginalPrice>
-    <Price>25.33</Price>
-    <Code>36.634.05</Code>
-    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-medie-blu?variant=53517782024539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.05.webp?v=1783358512</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052347</EanCode>
-    <Weight>0.83</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258162523_0.webp?v=1783542499</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258162523_1.webp?v=1783542502</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-osculati-special-250-90-mm-setole-medie-blu</ParentID>
-  </Offer>
-  <Offer>
     <Name>Spazzolone Osculati Special 250×90 mm Setole Morbide Giallo</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzolone Osculati Special 250×90 mm Setole Morbide Giallo Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole morbide di colore giallo, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indi</Description>
@@ -37792,38 +37706,6 @@
     <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
   </Offer>
   <Offer>
-    <Name>Coprimozzo cromato X91 per timoneria T91 e T93Z</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Coprimozzo cromato X91 per timoneria T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una pro</Description>
-    <OriginalPrice>40.40</OriginalPrice>
-    <Price>28.86</Price>
-    <Code>42850N</Code>
-    <Link>https://www.onautica.com/products/coprimozzo-cromato-x91-per-timoneria-t91-e-t93z?variant=52577433518427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimozzox90.png?v=1773341650</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimozzox901.png?v=1773341651</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>coprimozzo-cromato-x91-per-timoneria-t91-e-t93z</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coprimozzo nero X34 per timoneria T71 T72 T73</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Coprimozzo nero X34 per timoneria T71 T72 T73 Il coprimozzo nero X34 è stato progettato specificamente per le timonerie T71, T72 e T73, offrendo una protezione affidabile e una finitura elegante. Realizzato con materiali di alta qualità, garantisce durevo</Description>
-    <OriginalPrice>22.92</OriginalPrice>
-    <Price>16.37</Price>
-    <Code>36654B</Code>
-    <Link>https://www.onautica.com/products/coprimozzo-nero-x34-per-timoneria-t71-t72-t73?variant=52577431355739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimozzox34.png?v=1773341649</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164366543</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>coprimozzo-nero-x34-per-timoneria-t71-t72-t73</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cuffia passa paratia ad incastro Ø 105x70 mm. grigio</Name>
     <Brand>Osculati</Brand>
     <Description>Tramite una apposita flangia incorporata, si monta a pressione sulla paratia del pozzetto, senza ghiere o viti. Terminale predisposto per essere tagliato. Caratteristiche: Variante grigio A 105 mm. B 100 mm. C 70 mm. D 3/5 mm. E 10/20 mm. Caratteristiche </Description>
@@ -37964,23 +37846,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4048022b.png?v=1773341958</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cuffia-o-70x100-mm-passa-paratia-grigio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Dado Antivibrante S21 Ultraflex – Ghiera di Fissaggio per Snodi Timoneria</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Dado antivibrante S21 Ultraflex, ideale per il fissaggio e la stabilizzazione degli snodi nelle timonerie. Compatibile con gli articoli 129015 , 128970 e 128995 . Caratteristiche principali Funzione antivibrante per ridurre le sollecitazioni sui component</Description>
-    <OriginalPrice>15.72</OriginalPrice>
-    <Price>11.23</Price>
-    <Code>30662V</Code>
-    <Link>https://www.onautica.com/products/dado-antivibrante-s21-ultraflex?variant=52577433256283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Dado_antivibrante_S21_Ultraflex.png?v=1773341650</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164306624</EanCode>
-    <Weight>0.01</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>dado-antivibrante-s21-ultraflex</ParentID>
   </Offer>
   <Offer>
     <Name>Detergente igienizzante a base di ossigeno per serbatoi acqua Steril Tank 500 ml.</Name>
@@ -38607,24 +38472,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manopola_nera_per_volante_7821a211-0b93-4672-93cb-b46209048d5d.png?v=1773341966</Image2>
     <Condition>nuovo</Condition>
     <ParentID>manopola-bianca-per-volante</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Manopola Grigia per Volante – Pomello Universale Rotazione Rapida per Timone</Name>
-    <Brand>Osculati</Brand>
-    <Description>Da applicare alla corona dei timoni per rotazione rapida, universale. Caratteristiche principali Compatibile con la maggior parte dei volanti nautici in commercio (montaggio universale) Consente la rotazione rapida del timone con una sola mano Finitura gr</Description>
-    <OriginalPrice>62.05</OriginalPrice>
-    <Price>34.47</Price>
-    <Code>45.134.02</Code>
-    <Link>https://www.onautica.com/products/manopola-grigia-per-volante?variant=52577451376987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manopola_grigia_per_volante.png?v=1773341702</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137143939</EanCode>
-    <Weight>0.25</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manopola_nera_per_volante_7821a211-0b93-4672-93cb-b46209048d5d.png?v=1773341966</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>manopola-grigia-per-volante</ParentID>
   </Offer>
   <Offer>
     <Name>Miscelatore Acqua Calda/Fredda T-Mixer con Attacchi da 3/8&quot;</Name>
@@ -40928,24 +40775,6 @@
     <ParentID>terminale-a-snodo-l12-per-cavo-c2-c7-c8</ParentID>
   </Offer>
   <Offer>
-    <Name>Timoneria T67 Bianco Ultraflex – Timoneria a Barra per Controllo Preciso del Timone</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T67 bianco Ultraflex rappresenta la soluzione ideale per chi cerca precisione e aff</Description>
-    <OriginalPrice>101.49</OriginalPrice>
-    <Price>70.97</Price>
-    <Code>37925M</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t67-bianco-ultraflex?variant=52577464910171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_bianco_Ultraflex.png?v=1773341745</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164379253</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_bianco_Ultraflex_9.png?v=1773341745</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_bianco_Ultraflex_7.png?v=1773341746</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t67-bianco-ultraflex</ParentID>
-  </Offer>
-  <Offer>
     <Name>Timoneria T67 Nero Ultraflex – Timoneria per Controllo Preciso del Timone di Bordo</Name>
     <Brand>Ultraflex</Brand>
     <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T67 nero Ultraflex rappresenta una soluzione di controllo preciso e affidabile per </Description>
@@ -40963,96 +40792,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_nero_Ultraflex_7.png?v=1773341746</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-timoneria-t67-nero-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T71 F.C. Ultraflex – Timoneria a Risposta Fluida per Controllo del Timone</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T71 F.C. Ultraflex rappresenta la soluzione ideale per chi cerca precisione e affid</Description>
-    <OriginalPrice>138.52</OriginalPrice>
-    <Price>95.53</Price>
-    <Code>38867H</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t71-f-c-ultraflex?variant=52577464942939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T71_F.C._Ultraflex.png?v=1773341745</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164388675</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T71_F.C._Ultraflex_7.png?v=1773341745</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T71_F.C._Ultraflex_6.png?v=1773341746</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t71-f-c-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T73 NRFC Ultraflex – Timoneria Senza Giochi per Controllo Preciso del Timone</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T73 NRFC Ultraflex rappresenta la perfetta sintesi tra precisione ingegneristica e </Description>
-    <OriginalPrice>194.32</OriginalPrice>
-    <Price>149.48</Price>
-    <Code>38869M</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t73-nrfc-ultraflex?variant=52577465762139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex.png?v=1773341746</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164388699</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_8.png?v=1773341747</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_5.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T85 standard type Ultraflex coprimozzo bianco</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T85 standard type di Ultraflex è la soluzione ideale per chi cerca affidabilità e p</Description>
-    <OriginalPrice>123.86</OriginalPrice>
-    <Price>85.42</Price>
-    <Code>39213M</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco?variant=52577465565531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco.png?v=1773341746</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164392139</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_7.png?v=1773341746</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_5.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T91 high performance Ultraflex</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T91 High Performance di Ultraflex rappresenta la soluzione ideale per chi cerca pre</Description>
-    <OriginalPrice>160.28</OriginalPrice>
-    <Price>110.54</Price>
-    <Code>42647S</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t91-high-performance-ultraflex?variant=52577465205083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex.png?v=1773341745</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164426476</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex_7.png?v=1773341746</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex_5.png?v=1773341746</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t91-high-performance-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T93TZ Non Reversibile Ultraflex</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T93TZ Non Reversibile Ultraflex rappresenta la soluzione ideale per chi cerca preci</Description>
-    <OriginalPrice>237.59</OriginalPrice>
-    <Price>182.76</Price>
-    <Code>42648U</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t93tz-non-reversibile-ultraflex?variant=52577465827675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex.png?v=1773341747</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8031164426483</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_3.png?v=1773341748</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_k.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t93tz-non-reversibile-ultraflex</ParentID>
   </Offer>
   <Offer>
     <Name>Tubo di ricambio in alluminio filettato per S39</Name>
@@ -42453,6 +42192,22 @@
     <ParentID>coprimotore-tessuto-poliestere-impermeabile-anti-uv</ParentID>
   </Offer>
   <Offer>
+    <Name>Coprimozzo cromato X91 per timoneria T91 e T93Z</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Coprimozzo cromato X91 per timoneria T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una pro</Description>
+    <OriginalPrice>40.40</OriginalPrice>
+    <Price>28.86</Price>
+    <Code>42850N</Code>
+    <Link>https://www.onautica.com/products/coprimozzo-cromato-x91-per-timoneria-t91-e-t93z?variant=52577433518427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimozzox90.png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimozzox901.png?v=1773341651</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimozzo-cromato-x91-per-timoneria-t91-e-t93z</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimozzo in Ottone Lucido per Ruote Timone - 490&lt;&gt;650 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Dona un tocco di eleganza classica alla tua timoneria con il Coprimozzo in Ottone Lucido . Questo accessorio è progettato per coprire il dado di fissaggio centrale e la parte terminale dell&apos;asse del timone, rifinendo esteticamente la ruota. Realizzato in </Description>
@@ -42497,6 +42252,22 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>coprimozzo-nero-semplice</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coprimozzo nero X34 per timoneria T71 T72 T73</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Coprimozzo nero X34 per timoneria T71 T72 T73 Il coprimozzo nero X34 è stato progettato specificamente per le timonerie T71, T72 e T73, offrendo una protezione affidabile e una finitura elegante. Realizzato con materiali di alta qualità, garantisce durevo</Description>
+    <OriginalPrice>22.92</OriginalPrice>
+    <Price>16.37</Price>
+    <Code>36654B</Code>
+    <Link>https://www.onautica.com/products/coprimozzo-nero-x34-per-timoneria-t71-t72-t73?variant=52577431355739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimozzox34.png?v=1773341649</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164366543</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimozzo-nero-x34-per-timoneria-t71-t72-t73</ParentID>
   </Offer>
   <Offer>
     <Name>Corda traino bicolore con manico - Sci d&apos;acqua</Name>
@@ -42565,6 +42336,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_6fbde0bf-380d-4538-b01b-40ddb0a30f75.png?v=1773341915</Image2>
     <Condition>nuovo</Condition>
     <ParentID>corda-traino-ski-tube-max-3-4-persone-16-8-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Dado Antivibrante S21 Ultraflex – Ghiera di Fissaggio per Snodi Timoneria</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Dado antivibrante S21 Ultraflex, ideale per il fissaggio e la stabilizzazione degli snodi nelle timonerie. Compatibile con gli articoli 129015 , 128970 e 128995 . Caratteristiche principali Funzione antivibrante per ridurre le sollecitazioni sui component</Description>
+    <OriginalPrice>15.72</OriginalPrice>
+    <Price>11.23</Price>
+    <Code>30662V</Code>
+    <Link>https://www.onautica.com/products/dado-antivibrante-s21-ultraflex?variant=52577433256283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Dado_antivibrante_S21_Ultraflex.png?v=1773341650</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164306624</EanCode>
+    <Weight>0.01</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>dado-antivibrante-s21-ultraflex</ParentID>
   </Offer>
   <Offer>
     <Name>Dispositivo Antifurto Universale per Tappo Imbarco Diesel – Inox AISI 316</Name>
@@ -42872,234 +42660,6 @@
     <ParentID>collare-inox-t-bolt-hd-5x-coppia-serraggio</ParentID>
   </Offer>
   <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Rosso / 15 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
-    <Code>65.108.15RO</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609583451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045028</EanCode>
-    <Weight>0.07</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Rosso / 30 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>11.87</OriginalPrice>
-    <Price>8.48</Price>
-    <Code>65.108.30RO</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609550683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045264</EanCode>
-    <Weight>0.12</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Rosso / 50 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>15.60</OriginalPrice>
-    <Price>11.15</Price>
-    <Code>65.108.00RO</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609517915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137168482</EanCode>
-    <Weight>0.18</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Nero / 15 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
-    <Code>65.108.15NE</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609681755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045011</EanCode>
-    <Weight>0.07</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Nero / 30 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>11.87</OriginalPrice>
-    <Price>8.48</Price>
-    <Code>65.108.30NE</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609648987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045035</EanCode>
-    <Weight>0.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Nero / 50 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>15.60</OriginalPrice>
-    <Price>11.15</Price>
-    <Code>65.108.00NE</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609616219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137168468</EanCode>
-    <Weight>0.18</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 15 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
-    <Code>65.108.15BL</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609780059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045004</EanCode>
-    <Weight>0.07</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 30 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>11.87</OriginalPrice>
-    <Price>8.48</Price>
-    <Code>65.108.30BL</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609747291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045042</EanCode>
-    <Weight>0.12</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 50 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>15.60</OriginalPrice>
-    <Price>11.15</Price>
-    <Code>65.108.00BL</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609714523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137168451</EanCode>
-    <Weight>0.19</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Bianco / 15 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
-    <Code>65.108.15BI</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609878363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137044991</EanCode>
-    <Weight>0.07</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Bianco / 30 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>10.56</OriginalPrice>
-    <Price>7.54</Price>
-    <Code>65.108.30BI</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609845595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137045059</EanCode>
-    <Weight>0.07</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Bianco / 50 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
-    <OriginalPrice>15.60</OriginalPrice>
-    <Price>11.15</Price>
-    <Code>65.108.00BI</Code>
-    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609812827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137168444</EanCode>
-    <Weight>0.18</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
-  </Offer>
-  <Offer>
     <Name>Filo Marlow Poliestere Cerato Bianco per Impiombature e Cuciture Vele - Medio Ø 0.8 mm - 41 m</Name>
     <Brand>Marlow</Brand>
     <Description>Filo Marlow in Poliestere Cerato Bianco per Impiombature e Cuciture Vele Il filo Marlow in poliestere cerato bianco è lo strumento indispensabile per chi effettua impiombature professionali e cuciture su vele e cime . Prodotto da Marlow Ropes , azienda br</Description>
@@ -43238,256 +42798,6 @@
     <ParentID>galleggiante-200-600-mm-sensore-uflex</ParentID>
   </Offer>
   <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Verde Acacia / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <Price>12.88</Price>
-    <Code>LEG060/0750VAC</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464563547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Palissandro / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <Price>12.06</Price>
-    <Code>74062075</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464629083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115167</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Canapa / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <Price>11.71</Price>
-    <Code>LEG060/075canapa</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464661851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115310</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Blu Antico / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <Price>12.88</Price>
-    <Code>LEG060/0750BLA</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464694619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Teak / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>16.29</OriginalPrice>
-    <Price>12.06</Price>
-    <Code>74069175</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464727387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115853</EanCode>
-    <Weight>0.77</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>16.29</OriginalPrice>
-    <Price>12.06</Price>
-    <Code>74061075</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464792923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115914</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 2,50 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>45.82</OriginalPrice>
-    <Price>33.94</Price>
-    <Code>LEG060/025Castagno</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464825691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115921</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Mogano / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>16.29</OriginalPrice>
-    <Price>12.06</Price>
-    <Code>74065075</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464858459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115105</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Mogano / 2,50 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>45.82</OriginalPrice>
-    <Price>33.94</Price>
-    <Code>LEG060/025Mogano</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464891227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115075</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>16.89</OriginalPrice>
-    <Price>12.06</Price>
-    <Code>74010075</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464923995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115716</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 2,50 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>47.52</OriginalPrice>
-    <Price>33.94</Price>
-    <Code>LEG060/025TRASP</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464956763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>16.89</OriginalPrice>
-    <Price>12.06</Price>
-    <Code>74064575</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464989531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115945</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 2,50 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>47.52</OriginalPrice>
-    <Price>33.94</Price>
-    <Code>LEG060/025</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465022299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115952</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 0,75 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>16.89</OriginalPrice>
-    <Price>12.06</Price>
-    <Code>74067075</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465055067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115884</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 2,50 L</Name>
-    <Brand>Sivac</Brand>
-    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
-    <OriginalPrice>47.52</OriginalPrice>
-    <Price>33.94</Price>
-    <Code>LEG060/025Noce</Code>
-    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465087835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115891</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
-  </Offer>
-  <Offer>
     <Name>Inclinometro Marine 2001 – Scala Amplificata per Assetto Fine</Name>
     <Brand>Motomarine</Brand>
     <Description>L&apos; Inclinometro Marine 2001 è uno strumento di precisione indispensabile per monitorare l&apos;assetto dell&apos;imbarcazione e ottimizzare le prestazioni a vela. La caratteristica che distingue questo modello dai comuni inclinometri è la presenza di una doppia sca</Description>
@@ -43557,6 +42867,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex_raccordi.png?v=1773341944</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-tubo-lavaggio-barca-tricotex-pistola-raccordi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manopola Grigia per Volante – Pomello Universale Rotazione Rapida per Timone</Name>
+    <Brand>Osculati</Brand>
+    <Description>Da applicare alla corona dei timoni per rotazione rapida, universale. Caratteristiche principali Compatibile con la maggior parte dei volanti nautici in commercio (montaggio universale) Consente la rotazione rapida del timone con una sola mano Finitura gr</Description>
+    <OriginalPrice>62.05</OriginalPrice>
+    <Price>34.47</Price>
+    <Code>45.134.02</Code>
+    <Link>https://www.onautica.com/products/manopola-grigia-per-volante?variant=52577451376987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manopola_grigia_per_volante.png?v=1773341702</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137143939</EanCode>
+    <Weight>0.25</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Manopola_nera_per_volante_7821a211-0b93-4672-93cb-b46209048d5d.png?v=1773341966</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>manopola-grigia-per-volante</ParentID>
   </Offer>
   <Offer>
     <Name>Nastro autoadesivo PSP Heavy Duty Stayput bianco 100 mm. x 2 mt. per riparazioni</Name>
@@ -44398,23 +43726,6 @@
     <ParentID>radio-stereo-boss-mr762brgb-cd-bluetooth</ParentID>
   </Offer>
   <Offer>
-    <Name>Rivestimento Epossidico Veneziani Ceramite – Serbatoi e Sentine (Inodore)</Name>
-    <Brand>Veneziani</Brand>
-    <Description>Veneziani Ceramite Yachting è un rivestimento epossidico ad alto spessore , formulato senza solventi, specifico per la protezione e l&apos;impermeabilizzazione delle superfici interne più delicate dell&apos;imbarcazione. Essendo totalmente inodore e privo di solven</Description>
-    <OriginalPrice>83.40</OriginalPrice>
-    <Price>46.33</Price>
-    <Code>65.014.00</Code>
-    <Link>https://www.onautica.com/products/rivestimento-epossidico-veneziani-ceramite?variant=52577525301595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rivestimento-epossidico-veneziani-ceramite-serbatoi.png?v=1773341932</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Veneziani_777c96d2-cc38-4872-b020-25e24b45002a.png?v=1773342084</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>rivestimento-epossidico-veneziani-ceramite</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ruota Timone Classica in Mogano e Ottone Lucido – Mozzo Conico Standard - Ø 420 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Arricchisci la tua imbarcazione con lo stile intramontabile della Ruota Timone in Mogano . Realizzata con legno pregiato verniciato per resistere all&apos;ambiente marino, questa ruota a caviglie offre una presa calda e sicura, ideale per barche d&apos;epoca, gozzi</Description>
@@ -44662,248 +43973,6 @@
     <EanCode>8033626050625</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>sfiato-o-16-mm-dritto-oc-h-68-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Lucido</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>22.90</OriginalPrice>
-    <Price>11.45</Price>
-    <Code>ECO010/375BCO</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025441115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627253524</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Opaco</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>22.20</OriginalPrice>
-    <Price>11.09</Price>
-    <Code>ECO020/375BCO</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025473883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627253548</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Lucido</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>37.50</OriginalPrice>
-    <Price>18.74</Price>
-    <Code>ECO010/075LCBCO</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025375579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627091751</EanCode>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Opaco</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>37.50</OriginalPrice>
-    <Price>18.74</Price>
-    <Code>947202175</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025408347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627091706</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 2,5 lt / Lucido</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>110.10</OriginalPrice>
-    <Price>55.06</Price>
-    <Code>ECO010/25LUCBCO</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025310043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 2,5 lt / Opaco</Name>
-    <Brand>Sivac</Brand>
-    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
-    <OriginalPrice>110.10</OriginalPrice>
-    <Price>55.06</Price>
-    <Code>947202102</Code>
-    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025342811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627091201</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 0.75 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>25.30</OriginalPrice>
-    <Price>16.86</Price>
-    <Code>LSA.9016.000.75</Code>
-    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827911515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 2.50 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>71.10</OriginalPrice>
-    <Price>47.41</Price>
-    <Code>LSA.9016.002.50</Code>
-    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827944283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 4.00 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>108.60</OriginalPrice>
-    <Price>72.40</Price>
-    <Code>LSA.9016.004.00</Code>
-    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827977051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Blu Navy - 0.75 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>28.20</OriginalPrice>
-    <Price>18.77</Price>
-    <Code>LSA.5002.000.75</Code>
-    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-blu-navy?variant=52610834104667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-nautico-lack-alkyd-blu-navy</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Grigio Chiaro - 0.75 lt.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
-    <OriginalPrice>28.20</OriginalPrice>
-    <Price>18.77</Price>
-    <Code>LSA.7040.000.75</Code>
-    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-grigio-chiaro?variant=52610850685275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-grigio-chiaro.webp?v=1773771955</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-nautico-lack-alkyd-grigio-chiaro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto per Sentina Bilge HB Monocomponente – 0,75 L</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Lo Smalto per Sentina Bilge HB nel formato da 0,75 Litri (Cod. BLH) è una vernice monocomponente ad altissima resistenza, formulata con una speciale miscela di clorocaucciù e resine alchidiche. È progettato specificamente per proteggere e rinnovare i vani</Description>
-    <OriginalPrice>25.85</OriginalPrice>
-    <Price>19.15</Price>
-    <Code>BLH.0201.000.75</Code>
-    <Link>https://www.onautica.com/products/smalto-sentina-bilge-hb-075l?variant=52577501512027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-sentina-bilge-hb-075l.webp?v=1773341861</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-sentina-bilge-hb-075l</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Blu Atlantico</Name>
-    <Brand>Veneziani</Brand>
-    <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
-    <OriginalPrice>80.20</OriginalPrice>
-    <Price>44.54</Price>
-    <Code>65.008.00BA</Code>
-    <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52513566687579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8014099040283</EanCode>
-    <Weight>1.13</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Bianco</Name>
-    <Brand>Veneziani</Brand>
-    <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
-    <OriginalPrice>71.30</OriginalPrice>
-    <Price>44.54</Price>
-    <Code>65.008.00BI</Code>
-    <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52522606133595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8014099040207</EanCode>
-    <Weight>1.17</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Grigio</Name>
-    <Brand>Veneziani</Brand>
-    <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
-    <OriginalPrice>71.30</OriginalPrice>
-    <Price>44.54</Price>
-    <Code>65.008.00GA</Code>
-    <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52522606166363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8014099040344</EanCode>
-    <Weight>1.17</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
   </Offer>
   <Offer>
     <Name>Snodo A44 Inox per Timoneria a Cavi – Giunto con Filetto Terminale per Barca</Name>
@@ -46671,6 +45740,114 @@
     <ParentID>tergicristalli-w10m-12v-perno-28-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Timoneria T67 Bianco Ultraflex – Timoneria a Barra per Controllo Preciso del Timone</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T67 bianco Ultraflex rappresenta la soluzione ideale per chi cerca precisione e aff</Description>
+    <OriginalPrice>101.49</OriginalPrice>
+    <Price>70.97</Price>
+    <Code>37925M</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t67-bianco-ultraflex?variant=52577464910171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_bianco_Ultraflex.png?v=1773341745</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164379253</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_bianco_Ultraflex_9.png?v=1773341745</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T67_bianco_Ultraflex_7.png?v=1773341746</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t67-bianco-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria T71 F.C. Ultraflex – Timoneria a Risposta Fluida per Controllo del Timone</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T71 F.C. Ultraflex rappresenta la soluzione ideale per chi cerca precisione e affid</Description>
+    <OriginalPrice>138.52</OriginalPrice>
+    <Price>95.53</Price>
+    <Code>38867H</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t71-f-c-ultraflex?variant=52577464942939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T71_F.C._Ultraflex.png?v=1773341745</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164388675</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T71_F.C._Ultraflex_7.png?v=1773341745</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T71_F.C._Ultraflex_6.png?v=1773341746</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t71-f-c-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria T73 NRFC Ultraflex – Timoneria Senza Giochi per Controllo Preciso del Timone</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T73 NRFC Ultraflex rappresenta la perfetta sintesi tra precisione ingegneristica e </Description>
+    <OriginalPrice>194.32</OriginalPrice>
+    <Price>149.48</Price>
+    <Code>38869M</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t73-nrfc-ultraflex?variant=52577465762139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex.png?v=1773341746</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164388699</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_8.png?v=1773341747</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_5.png?v=1773341748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria T85 standard type Ultraflex coprimozzo bianco</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T85 standard type di Ultraflex è la soluzione ideale per chi cerca affidabilità e p</Description>
+    <OriginalPrice>123.86</OriginalPrice>
+    <Price>85.42</Price>
+    <Code>39213M</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco?variant=52577465565531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco.png?v=1773341746</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164392139</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_7.png?v=1773341746</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_5.png?v=1773341748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria T91 high performance Ultraflex</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T91 High Performance di Ultraflex rappresenta la soluzione ideale per chi cerca pre</Description>
+    <OriginalPrice>160.28</OriginalPrice>
+    <Price>110.54</Price>
+    <Code>42647S</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t91-high-performance-ultraflex?variant=52577465205083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex.png?v=1773341745</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164426476</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex_7.png?v=1773341746</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex_5.png?v=1773341746</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t91-high-performance-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria T93TZ Non Reversibile Ultraflex</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T93TZ Non Reversibile Ultraflex rappresenta la soluzione ideale per chi cerca preci</Description>
+    <OriginalPrice>237.59</OriginalPrice>
+    <Price>182.76</Price>
+    <Code>42648U</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t93tz-non-reversibile-ultraflex?variant=52577465827675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex.png?v=1773341747</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164426483</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_3.png?v=1773341748</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_k.png?v=1773341748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t93tz-non-reversibile-ultraflex</ParentID>
+  </Offer>
+  <Offer>
     <Name>Torre Portacanna Abbattibile Universale in Alluminio – 6 Posti</Name>
     <Brand>Osculati</Brand>
     <Description>La Torre Portacanna Abbattibile è una struttura robusta e versatile, progettata per l&apos;installazione su diverse tipologie di imbarcazioni (Open, Console, ecc.). Realizzata interamente in alluminio anodizzato , garantisce un&apos;eccellente resistenza alla corro</Description>
@@ -46986,55 +46163,6 @@
     <Weight>0.26</Weight>
     <Condition>nuovo</Condition>
     <ParentID>vano-porta-estintore-scatto-abs-anaf-1kg</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Antiscivolo Coperta Deck Antiskid – Bianco - 5 Kg.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Deck Antiskid in colorazione Bianca (Cod. DEA) nel pratico formato da 1 e 5 Kg è lo smalto sintetico monocomponente al clorocaucciù ideale per i ritocchi o la verniciatura di piccole coperte e camminamenti. Crea una superficie calpestabile dalla finitura </Description>
-    <OriginalPrice>80.20</OriginalPrice>
-    <Price>53.44</Price>
-    <Code>DEA.0201.005.00</Code>
-    <Link>https://www.onautica.com/products/smalto-antiscivolo-deck-antiskid-bianco?variant=52610866315611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-antiscivolo-coperta-deck-antiskid-bianco.webp?v=1773341875</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-antiscivolo-deck-antiskid-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Opaco</Name>
-    <Brand>Sivac</Brand>
-    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
-    <OriginalPrice>23.02</OriginalPrice>
-    <Price>16.44</Price>
-    <Code>LEG005/075OPA</Code>
-    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52513582514523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115778</EanCode>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Lucido</Name>
-    <Brand>Sivac</Brand>
-    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
-    <OriginalPrice>23.02</OriginalPrice>
-    <Price>16.44</Price>
-    <Code>LEG005/075LUC</Code>
-    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52514360394075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8022627115723</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
@@ -47898,6 +47026,234 @@
     <ParentID>smalto-poliuretanico-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Rosso / 15 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>7.07</OriginalPrice>
+    <Price>5.24</Price>
+    <Code>65.108.15RO</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609583451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045028</EanCode>
+    <Weight>0.07</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Rosso / 30 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>11.87</OriginalPrice>
+    <Price>8.48</Price>
+    <Code>65.108.30RO</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609550683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045264</EanCode>
+    <Weight>0.12</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Rosso / 50 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>15.60</OriginalPrice>
+    <Price>11.15</Price>
+    <Code>65.108.00RO</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609517915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137168482</EanCode>
+    <Weight>0.18</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Nero / 15 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>7.07</OriginalPrice>
+    <Price>5.24</Price>
+    <Code>65.108.15NE</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609681755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045011</EanCode>
+    <Weight>0.07</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Nero / 30 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>11.87</OriginalPrice>
+    <Price>8.48</Price>
+    <Code>65.108.30NE</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609648987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045035</EanCode>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Nero / 50 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>15.60</OriginalPrice>
+    <Price>11.15</Price>
+    <Code>65.108.00NE</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609616219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137168468</EanCode>
+    <Weight>0.18</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 15 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>7.07</OriginalPrice>
+    <Price>5.24</Price>
+    <Code>65.108.15BL</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609780059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045004</EanCode>
+    <Weight>0.07</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 30 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>11.87</OriginalPrice>
+    <Price>8.48</Price>
+    <Code>65.108.30BL</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609747291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045042</EanCode>
+    <Weight>0.12</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Blu / 50 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>15.60</OriginalPrice>
+    <Price>11.15</Price>
+    <Code>65.108.00BL</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609714523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137168451</EanCode>
+    <Weight>0.19</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Bianco / 15 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>7.07</OriginalPrice>
+    <Price>5.24</Price>
+    <Code>65.108.15BI</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609878363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137044991</EanCode>
+    <Weight>0.07</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Bianco / 30 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>10.56</OriginalPrice>
+    <Price>7.54</Price>
+    <Code>65.108.30BI</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609845595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137045059</EanCode>
+    <Weight>0.07</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fascia Adesiva Linea di Galleggiamento – Permanente Effetto Vernice (10 mt) - Bianco / 50 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rinnovare l&apos;estetica della tua imbarcazione non è mai stato così semplice ed efficace. Questa Fascia Adesiva per Linea di Galleggiamento è la soluzione innovativa che sostituisce la classica verniciatura, offrendo un risultato professionale con una frazio</Description>
+    <OriginalPrice>15.60</OriginalPrice>
+    <Price>11.15</Price>
+    <Code>65.108.00BI</Code>
+    <Link>https://www.onautica.com/products/fascia-adesiva-linea-galleggiamento-permanente?variant=51840609812827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fascia_Adesiva_Linea_Galleggiamento_Effetto_Vernice_Permanente.png?v=1773341696</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137168444</EanCode>
+    <Weight>0.18</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_blister.png?v=1773341698</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fascia-adesiva-linea-galleggiamento-effetto-vernice_montaggio.png?v=1773341698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fascia-adesiva-linea-galleggiamento-permanente</ParentID>
+  </Offer>
+  <Offer>
     <Name>Guida posteriore per strozzascotta VIA25.10 e VIA25.50</Name>
     <Brand>Osculati</Brand>
     <Description>Questa uscita a rulli è l&apos;accessorio opzionale ad alte prestazioni, progettato per essere montato sugli strozzascotte a camme e trasformarli in un sistema da regata di livello superiore. La sua funzione è quella di guidare la cima in uscita, garantendo un</Description>
@@ -47913,6 +47269,256 @@
     <Weight>0.01</Weight>
     <Condition>nuovo</Condition>
     <ParentID>guida-posteriore-per-strozzascotta-via25-10-e-via25-50</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Verde Acacia / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <Price>12.88</Price>
+    <Code>LEG060/0750VAC</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464563547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Palissandro / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <Price>12.06</Price>
+    <Code>74062075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464629083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115167</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Canapa / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <Price>11.71</Price>
+    <Code>LEG060/075canapa</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464661851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115310</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Blu Antico / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <Price>12.88</Price>
+    <Code>LEG060/0750BLA</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464694619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Teak / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.29</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74069175</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464727387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115853</EanCode>
+    <Weight>0.77</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.29</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74061075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464792923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115914</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Castagno / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>45.82</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025Castagno</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464825691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115921</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Mogano / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.29</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74065075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464858459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115105</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Mogano / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>45.82</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025Mogano</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464891227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115075</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.89</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74010075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464923995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115716</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Trasparente / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>47.52</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025TRASP</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464956763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>2.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.89</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74064575</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618464989531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115945</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce Scuro / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>47.52</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465022299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115952</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 0,75 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>16.89</OriginalPrice>
+    <Price>12.06</Price>
+    <Code>74067075</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465055067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115884</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Noce / 2,50 L</Name>
+    <Brand>Sivac</Brand>
+    <Description>Ecosivac Legno Cerato è l&apos;impregnante protettivo a base acrilica all&apos;acqua pensato per chi vuole proteggere il legno mantenendone inalterata la bellezza naturale. Ideale sia per Interni che per Esterni , la sua formula avanzata penetra in profondità nelle</Description>
+    <OriginalPrice>47.52</OriginalPrice>
+    <Price>33.94</Price>
+    <Code>LEG060/025Noce</Code>
+    <Link>https://www.onautica.com/products/impregnante-cerato-acqua-ecosivac?variant=51618465087835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno_interno.png?v=1773341991</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115891</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/impregnante-cerato-acqua-ecosivac-legno.png?v=1773341680</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>impregnante-cerato-acqua-ecosivac</ParentID>
   </Offer>
   <Offer>
     <Name>Impregnante Protettivo Legno Veneziani Wood Line – Alta Resa</Name>
@@ -48249,6 +47855,119 @@
     <ParentID>puleggia-nylon-sfere-delrin</ParentID>
   </Offer>
   <Offer>
+    <Name>Rivestimento Epossidico Veneziani Ceramite – Serbatoi e Sentine (Inodore)</Name>
+    <Brand>Veneziani</Brand>
+    <Description>Veneziani Ceramite Yachting è un rivestimento epossidico ad alto spessore , formulato senza solventi, specifico per la protezione e l&apos;impermeabilizzazione delle superfici interne più delicate dell&apos;imbarcazione. Essendo totalmente inodore e privo di solven</Description>
+    <OriginalPrice>83.40</OriginalPrice>
+    <Price>46.33</Price>
+    <Code>65.014.00</Code>
+    <Link>https://www.onautica.com/products/rivestimento-epossidico-veneziani-ceramite?variant=52577525301595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rivestimento-epossidico-veneziani-ceramite-serbatoi.png?v=1773341932</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Veneziani_777c96d2-cc38-4872-b020-25e24b45002a.png?v=1773342084</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>rivestimento-epossidico-veneziani-ceramite</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>22.90</OriginalPrice>
+    <Price>11.45</Price>
+    <Code>ECO010/375BCO</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025441115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627253524</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,375 lt / Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>22.20</OriginalPrice>
+    <Price>11.09</Price>
+    <Code>ECO020/375BCO</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025473883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627253548</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>37.50</OriginalPrice>
+    <Price>18.74</Price>
+    <Code>ECO010/075LCBCO</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025375579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627091751</EanCode>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 0,75 lt / Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>37.50</OriginalPrice>
+    <Price>18.74</Price>
+    <Code>947202175</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025408347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627091706</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 2,5 lt / Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>110.10</OriginalPrice>
+    <Price>55.06</Price>
+    <Code>ECO010/25LUCBCO</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025310043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Acrilico all&apos;Acqua Nautico – Interni/Esterni Bianco - 2,5 lt / Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>Lo Smalto Acrilico all&apos;Acqua Nautico è la soluzione professionale ed ecologica per la protezione e la decorazione di tutte le superfici di bordo. Grazie alla sua formulazione inodore e a basso impatto ambientale, è ideale per l&apos;uso in interni (cabine, bag</Description>
+    <OriginalPrice>110.10</OriginalPrice>
+    <Price>55.06</Price>
+    <Code>947202102</Code>
+    <Link>https://www.onautica.com/products/smalto-acrilico-acqua-nautico-alimentare?variant=51803025342811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-acrilico-acqua-nautico-alimentare.png?v=1773341816</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627091201</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-acrilico-acqua-nautico-alimentare</ParentID>
+  </Offer>
+  <Offer>
     <Name>Smalto Elastico VENEZIANI Gummipaint – Finitura per Gommoni (Cod. 6715) - Grigio</Name>
     <Brand>Veneziani</Brand>
     <Description>La Finitura Elastica VENEZIANI Gummipaint (Cod. 6715) è uno smalto monocomponente formulato specificamente per il restauro e la verniciatura dei tubolari dei gommoni. È la soluzione ideale per rinnovare l&apos;estetica di battelli pneumatici invecchiati o scol</Description>
@@ -48334,6 +48053,152 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Veneziani_777c96d2-cc38-4872-b020-25e24b45002a.png?v=1773342084</Image2>
     <Condition>nuovo</Condition>
     <ParentID>smalto-monocomponente-veneziani-unigloss</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 0.75 lt.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
+    <OriginalPrice>25.30</OriginalPrice>
+    <Price>16.86</Price>
+    <Code>LSA.9016.000.75</Code>
+    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827911515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 2.50 lt.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
+    <OriginalPrice>71.10</OriginalPrice>
+    <Price>47.41</Price>
+    <Code>LSA.9016.002.50</Code>
+    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827944283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Bianco - 4.00 lt.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
+    <OriginalPrice>108.60</OriginalPrice>
+    <Price>72.40</Price>
+    <Code>LSA.9016.004.00</Code>
+    <Link>https://www.onautica.com/products/smalto-sintetico-lack-alkyd-bianco?variant=52610827977051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-sintetico-lack-alkyd-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Blu Navy - 0.75 lt.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
+    <OriginalPrice>28.20</OriginalPrice>
+    <Price>18.77</Price>
+    <Code>LSA.5002.000.75</Code>
+    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-blu-navy?variant=52610834104667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-bianco.webp?v=1773771651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-nautico-lack-alkyd-blu-navy</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Nautico Sintetico Brillante Lack Alkyd Grigio Chiaro - 0.75 lt.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto Nautico Sintetico Lack Alkyd di Safe Nanotechnologies è una finitura monocomponente di altissima qualità, formulata a base di resine alchidiche modificate per affrontare le sfide del duro ambiente marino. Rappresenta la soluzione ideale per il r</Description>
+    <OriginalPrice>28.20</OriginalPrice>
+    <Price>18.77</Price>
+    <Code>LSA.7040.000.75</Code>
+    <Link>https://www.onautica.com/products/smalto-nautico-lack-alkyd-grigio-chiaro?variant=52610850685275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-nautico-lack-alkyd-grigio-chiaro.webp?v=1773771955</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-nautico-lack-alkyd-grigio-chiaro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto per Sentina Bilge HB Monocomponente – 0,75 L</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Lo Smalto per Sentina Bilge HB nel formato da 0,75 Litri (Cod. BLH) è una vernice monocomponente ad altissima resistenza, formulata con una speciale miscela di clorocaucciù e resine alchidiche. È progettato specificamente per proteggere e rinnovare i vani</Description>
+    <OriginalPrice>25.85</OriginalPrice>
+    <Price>19.15</Price>
+    <Code>BLH.0201.000.75</Code>
+    <Link>https://www.onautica.com/products/smalto-sentina-bilge-hb-075l?variant=52577501512027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-sentina-bilge-hb-075l.webp?v=1773341861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-sentina-bilge-hb-075l</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Blu Atlantico</Name>
+    <Brand>Veneziani</Brand>
+    <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
+    <OriginalPrice>80.20</OriginalPrice>
+    <Price>44.54</Price>
+    <Code>65.008.00BA</Code>
+    <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52513566687579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099040283</EanCode>
+    <Weight>1.13</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Bianco</Name>
+    <Brand>Veneziani</Brand>
+    <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
+    <OriginalPrice>71.30</OriginalPrice>
+    <Price>44.54</Price>
+    <Code>65.008.00BI</Code>
+    <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52522606133595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099040207</EanCode>
+    <Weight>1.17</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Smalto Poliuretanico Bicomponente Veneziani Gel Gloss Pro – Finitura a Specchio - Grigio</Name>
+    <Brand>Veneziani</Brand>
+    <Description>Lo Smalto Veneziani Gel Gloss Pro (Cod. 6766) è una finitura poliuretanica bicomponente di altissima qualità, progettata per chi esige un risultato estetico impeccabile su scafo, coperta e sovrastrutture (opera morta). La sua formulazione avanzata garanti</Description>
+    <OriginalPrice>71.30</OriginalPrice>
+    <Price>44.54</Price>
+    <Code>65.008.00GA</Code>
+    <Link>https://www.onautica.com/products/smalto-poliuretanico-veneziani-gel-gloss-pro?variant=52522606166363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/smalto-poliuretanico-veneziani-gel-gloss-pro.png?v=1773341975</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8014099040344</EanCode>
+    <Weight>1.17</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Veneziani.png?v=1773341990</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-poliuretanico-veneziani-gel-gloss-pro</ParentID>
   </Offer>
   <Offer>
     <Name>Stopper Antal Cam 611 Doppio – Per Cime 6-11 mm</Name>
@@ -48707,6 +48572,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/compact2.png?v=1773341713</Image2>
     <Condition>nuovo</Condition>
     <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Antiscivolo Coperta Deck Antiskid – Bianco - 5 Kg.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Deck Antiskid in colorazione Bianca (Cod. DEA) nel pratico formato da 1 e 5 Kg è lo smalto sintetico monocomponente al clorocaucciù ideale per i ritocchi o la verniciatura di piccole coperte e camminamenti. Crea una superficie calpestabile dalla finitura </Description>
+    <OriginalPrice>80.20</OriginalPrice>
+    <Price>53.44</Price>
+    <Code>DEA.0201.005.00</Code>
+    <Link>https://www.onautica.com/products/smalto-antiscivolo-deck-antiskid-bianco?variant=52610866315611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-antiscivolo-coperta-deck-antiskid-bianco.webp?v=1773341875</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-antiscivolo-deck-antiskid-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Antiscivolo Coperta Deck Antiskid – Verde (Clorocaucciù) - 1 Kg.</Name>
@@ -49255,6 +49136,39 @@
     <EanCode>8022627113750</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-trasparente-nautica-solvente-flatting</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Opaco</Name>
+    <Brand>Sivac</Brand>
+    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
+    <OriginalPrice>23.02</OriginalPrice>
+    <Price>16.44</Price>
+    <Code>LEG005/075OPA</Code>
+    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52513582514523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115778</EanCode>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Trasparente Nautica all&apos;Acqua (Flatting) – Non Ingiallente - Lucido</Name>
+    <Brand>Sivac</Brand>
+    <Description>La Vernice Trasparente Nautica all&apos;Acqua (Ecosivac Flatting) è la scelta moderna ed ecologica per proteggere il legno della tua barca. Grazie alla sua formulazione acrilica in emulsione acquosa, è quasi totalmente inodore e priva di solventi nocivi, rende</Description>
+    <OriginalPrice>23.02</OriginalPrice>
+    <Price>16.44</Price>
+    <Code>LEG005/075LUC</Code>
+    <Link>https://www.onautica.com/products/vernice-trasparente-nautica-acqua-flatting?variant=52514360394075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-trasparente-nautica-flatting-legno..png?v=1773341855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8022627115723</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-trasparente-nautica-acqua-flatting</ParentID>
   </Offer>
   <Offer>
     <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
