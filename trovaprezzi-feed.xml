@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-29T18:11:28.137Z -->
-<!-- Offerte: 2939 -->
+<!-- Generato: 2026-07-30T06:31:05.763Z -->
+<!-- Offerte: 2958 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -1081,7 +1081,6 @@
     <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettone-inox100-200.png?v=1770048050</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>3015063</EanCode>
     <Weight>0.48</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-1moschettone-inox.png?v=1770048051</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghia-sicurezza-2moschettoni-inox.png?v=1770048051</Image3>
@@ -2957,7 +2956,6 @@
     <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/perni-ricambio-rulli-carrelli-barca.webp?v=1774351087</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>0202967</EanCode>
     <Weight>0.55</Weight>
     <Condition>nuovo</Condition>
     <ParentID>perni-ricambio-rulli-carrelli-barca</ParentID>
@@ -8886,7 +8884,6 @@
     <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/binocolo-nikon-action-ex-7x50.png?v=1773341716</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>340294</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>binocolo-nautico-nikon-action-ex-7x50-cf</ParentID>
   </Offer>
@@ -9282,7 +9279,6 @@
     <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bussola_da_rilevamento_tascabile_nera.png?v=1773341636</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>L25 35 135Z</EanCode>
     <Weight>0.05</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bussola-da-rilevamento-tascabile-nera</ParentID>
@@ -9442,7 +9438,6 @@
     <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu1-incasso.png?v=1773341964</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>00020210038854</EanCode>
     <Weight>1.66</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu1-incasso_misura.png?v=1773341965</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Riviera.png?v=1773341967</Image3>
@@ -9478,7 +9473,6 @@
     <Categories>Nautica;Manutenzione;Anodi Assi ed Eliche</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Collare_zn_tipo_L_int._30_mm..png?v=1773341648</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>957000001850</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Collare_zn_tipo_L_int._30_mm._1.png?v=1773341649</Image2>
     <Condition>nuovo</Condition>
     <ParentID>collare-zn-tipo-l-o-int-30-mm</ParentID>
@@ -11747,7 +11741,6 @@
     <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CARICABATTERIESBCNRG_c.png?v=1773342026</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>FBNRP0500FR0A001017554020</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CARICABATTERIESBCNRG.png?v=1773342026</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CARICABATTERIESBCNRG_b.png?v=1773342026</Image3>
     <Condition>nuovo</Condition>
@@ -12344,7 +12337,7 @@
     <Price>8.75</Price>
     <Code>14.381.25</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-nero?variant=52517170577755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CAVOBATTERIA.png?v=1773341989</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -12870,6 +12863,22 @@
     <ParentID>cima-parabordi-doppia-treccia-poliestere-12mm-occhiello-impiombato</ParentID>
   </Offer>
   <Offer>
+    <Name>Cleaner 264 – Pulitore per Tessuti PVC e Poliuretano (Pre-Incollaggio)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Cleaner 264 è un solvente tecnico specifico formulato per la pulizia profonda e la preparazione delle superfici in tessuto PVC e Poliuretano (PU). Questo prodotto è un passaggio fondamentale e indispensabile prima di qualsiasi operazione di riparazione</Description>
+    <OriginalPrice>15.80</OriginalPrice>
+    <Price>10.51</Price>
+    <Code>10123</Code>
+    <Link>https://www.onautica.com/products/cleaner-264-pulitore-pvc-poliuretano?variant=52577433354587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Diluenti e Primers</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cleaner-264-pulitore-pvc-poliuretano.webp?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.26</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>cleaner-264-pulitore-pvc-poliuretano</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coppia di morsetti in ottone per batterie</Name>
     <Brand>Osculati</Brand>
     <Description>Confezionati in coppia, + e - modello universale. Perni differenziati da mm. 8 e 10 per evitare di invertire i cavi batteria. Versione con perni e dadi in acciaio inox. Caratteristiche principali Perni e dadi in acciaio inox per massima resistenza alla co</Description>
@@ -13355,7 +13364,7 @@
     <Price>9.09</Price>
     <Code>3813001BK</Code>
     <Link>https://www.onautica.com/products/copriparabordi-navishell-f-type-nero?variant=52513515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/copriparabordi-navishell-f-type-nero.png?v=1773341724</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -13877,8 +13886,8 @@
     <Name>Deviatore Staccabatterie Heavy Duty (HD) - Controllo a 4 Posizioni - 280A/380A</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo deviatore staccabatterie è progettato per un uso continuato in impianti a doppia batteria, garantendo massima sicurezza e flessibilità nella gestione dell&apos;alimentazione di bordo. Caratteristiche Principali: Funzione Multipla: Offre **quattro posizi</Description>
-    <OriginalPrice>59.33</OriginalPrice>
-    <Price>42.38</Price>
+    <OriginalPrice>59.65</OriginalPrice>
+    <Price>42.61</Price>
     <Code>2103028</Code>
     <Link>https://www.onautica.com/products/deviatore-staccabatterie-hd-4-posizioni-280a-350a?variant=52513459372379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -14128,6 +14137,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_10-12_mm._1.png?v=1773341661</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ferma-catena-da-ancoraggio-o-10-12-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ferma catena da ancoraggio Ø 6-8 mm.</Name>
+    <Brand>Onautica</Brand>
+    <Description>Ferma catena da ancoraggio in acciaio inox. Preserva il verricello da colpi e shock. Evita lo scavallamento della catena dal barbotin. Annulla la trasmissione di noiose vibrazioni dovute al movimento dell&apos;imbarcazione all&apos;ancora . Per catena Ø mm 10-12 Ca</Description>
+    <OriginalPrice>21.95</OriginalPrice>
+    <Price>15.68</Price>
+    <Code>0133518</Code>
+    <Link>https://www.onautica.com/products/ferma-catena-da-ancoraggio-o-6-8-mm-chain-clower?variant=52577436205403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_6-8_mm._chain_clower.png?v=1773341654</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137067501</EanCode>
+    <Weight>0.28</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_6-8_mm._chain_clower_1.png?v=1773341656</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ferma-catena-da-ancoraggio-o-6-8-mm-chain-clower</ParentID>
   </Offer>
   <Offer>
     <Name>Fondo Riempitivo UNIFONDO – Primer Uniformante per Legno e Muri - 0.50 litri</Name>
@@ -16211,7 +16238,7 @@
     <ParentID>stucco-acrilico-3m-marine-verde</ParentID>
   </Offer>
   <Offer>
-    <Name>Stucco Epossidico Subacqueo Veneziani Sub Coat XT – Riparazioni in Acqua</Name>
+    <Name>Stucco Epossidico Subacqueo Veneziani Sub Coat XT ��� Riparazioni in Acqua</Name>
     <Brand>Veneziani</Brand>
     <Description>Veneziani Sub Coat XT (Cod. 6612) è lo speciale stucco epossidico bicomponente formulato per applicazioni subacquee e su superfici bagnate. È il prodotto indispensabile da avere a bordo per le emergenze , poiché permette di intervenire immediatamente su f</Description>
     <OriginalPrice>113.80</OriginalPrice>
@@ -16434,6 +16461,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anello-con-perno-acciaio-inox-aisi-316_misura.webp?v=1774350479</Image2>
     <Condition>nuovo</Condition>
     <ParentID>anello-con-perno-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Attuatore a Gas 20 kg L 550 mm – Pistone a Molla con Stelo Cromato per Portelli</Name>
+    <Brand>Osculati</Brand>
+    <Description>Realizzate con stelo in acciaio cromato a spessore e corpo rivestito con polveri epossidiche. Caratteristiche: Aperto mm Corsa mm Reazione kg Ø corpo mm Ø stelo mm 550 229 20 19 8 Caratteristiche principali Stelo in acciaio cromato di spessore per garanti</Description>
+    <OriginalPrice>14.69</OriginalPrice>
+    <Price>10.49</Price>
+    <Code>38.014.01</Code>
+    <Link>https://www.onautica.com/products/attuatore-20-kg-l-550-mm?variant=52577531593051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attuatore_20_kg._-_L_550_mm..png?v=1773341955</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137046827</EanCode>
+    <Weight>0.27</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/molla_gas.png?v=1773341956</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>attuatore-20-kg-l-550-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Base led per supporto portacanne a incasso</Name>
@@ -17283,6 +17328,23 @@
     <ParentID>girelle-o-13-mm-occhio-forcella-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
+    <Name>Girelle Ø 8 mm. forcella-forcella acciaio inox AISI316</Name>
+    <Brand>Osculati</Brand>
+    <Description>Girelle Ø 8 mm. forcella-forcella acciaio inox AISI317 Caratteristiche principali Acciaio inox AISI 316, ideale per l&apos;uso marino grazie all&apos;elevata resistenza alla corrosione salina Terminali a forcella su entrambi i lati per un collegamento sicuro e vers</Description>
+    <OriginalPrice>8.67</OriginalPrice>
+    <Price>6.19</Price>
+    <Code>A54308</Code>
+    <Link>https://www.onautica.com/products/girelle-o-8-mm-forcella-forcella-acciaio-inox-aisi316?variant=52577440203099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Girelle_8_mm._forcella-forcella_acciaio_inox_AISI316.png?v=1773341667</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137067181</EanCode>
+    <Weight>0.15</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>girelle-o-8-mm-forcella-forcella-acciaio-inox-aisi316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Girelle Ø 8 mm. occhio-forcella acciaio inox AISI 316</Name>
     <Brand>Osculati</Brand>
     <Description>Girelle Ø 8 mm. occhio-forcella acciaio inox AISI 317 Caratteristiche principali Configurazione occhio-forcella per connessioni rapide e orientabili Diametro 8 mm, adatto a carichi medi su cime e cavi di bordo Acciaio inox AISI 316, altamente resistente a</Description>
@@ -17829,6 +17891,23 @@
     <EanCode>8033626017406</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>maniglia-crema-250-mm-pvc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Maniglia grigio chiaro 205 mm. PVC ral 7035</Name>
+    <Brand>Osculati</Brand>
+    <Description>Maniglia realizzata in PVC morbido con struttura interna rinforzata. Il fissaggio avviene tramite viti passanti occultate. Lunghezza mm Altezza mm Interasse mm Ø fori mm Colore 205 55 154 7 grigio 7035 Caratteristiche principali Colore grigio chiaro RAL 7</Description>
+    <OriginalPrice>13.66</OriginalPrice>
+    <Price>9.76</Price>
+    <Code>41.914.03</Code>
+    <Link>https://www.onautica.com/products/maniglia-grigio-chiaro-205-mm-pvc-ral-7035?variant=52577451245915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Maniglia_grigio_chiaro_205_mm._PVC_ral_7035.png?v=1773341702</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137049620</EanCode>
+    <Weight>0.09</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-grigio-chiaro-205-mm-pvc-ral-7035</ParentID>
   </Offer>
   <Offer>
     <Name>Maniglia grigio chiaro 250 mm. PVC ral 7035</Name>
@@ -18584,7 +18663,6 @@
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2902002.webp?v=1783359714</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>21989342603598</EanCode>
     <Weight>0.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>sgancio-idrostatico-hammar-h20r-per-zattere-di-salvataggio</ParentID>
@@ -19579,7 +19657,6 @@
     <Categories>Nautica;Motore;Filtri</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_acqua_di_mare_1_RGL_1162_ottone_conforme_R.I.N.A..png?v=1773341654</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>0001162220006</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>filtro-acqua-di-mare-1-rgl-1162-ottone-conforme-r-i-n-a</ParentID>
   </Offer>
@@ -19881,14 +19958,14 @@
     <Name>Ghiacciaia Igloo BMX 25 rinforzato 23 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>La ghiacciaia Igloo BMX 25 ha una capacità di 23 lt. Questa ghiacciaia è il nuovo modello rinforzato da barca della Igloo, leader mondiale dal 1947 nella produzione di ghiacciaie nautiche e da campeggio. Costruzione resistente in plastica soffiata ad alta</Description>
-    <OriginalPrice>216.30</OriginalPrice>
-    <Price>188.05</Price>
+    <OriginalPrice>183.10</OriginalPrice>
+    <Price>159.22</Price>
     <Code>50.558.40</Code>
     <Link>https://www.onautica.com/products/offerta-ghiacciaia-igloo-bmx-25-23lt-blu-5-giorni?variant=52577458618715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Ghiacciaia_Igloo_BMX_25_23lt_blu_-_5_giorni.jpg?v=1773341723</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137216596</EanCode>
     <Weight>4.70</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.40.png?v=1773341724</Image2>
@@ -19899,8 +19976,8 @@
     <Name>Ghiacciaia Igloo BMX 52 rinforzato 49 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>La ghiacciaia Igloo BMX 52 ha una capacità di 49 lt. Questa ghiacciaia è il nuovo modello rinforzato da barca della Igloo, leader mondiale dal 1947 nella produzione di ghiacciaie nautiche e da campeggio. Costruzione resistente in plastica soffiata ad alta</Description>
-    <OriginalPrice>312.20</OriginalPrice>
-    <Price>271.50</Price>
+    <OriginalPrice>264.30</OriginalPrice>
+    <Price>229.87</Price>
     <Code>50.558.41</Code>
     <Link>https://www.onautica.com/products/offerta-ghiacciaia-igloo-bmx-52-49lt-blu-5-giorni?variant=52577458913627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19963,6 +20040,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137216565</EanCode>
     <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 54 - 51 lt.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
+    <OriginalPrice>130.50</OriginalPrice>
+    <Price>104.38</Price>
+    <Code>1540051</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035874651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica14.png?v=1773341724</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>034223446833</EanCode>
+    <Weight>4.88</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
@@ -21730,6 +21826,24 @@
     <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Molla a Gas in Acciaio Inox Occhio-Occhio (Ammortizzatore per Portelli) - 18 kg. - L 355 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di molle a gas è realizzata in acciaio inox ed è progettata per sostenere e ammortizzare il peso di portelli, gavoni, cofani motore e coperchi della barca. I terminali sono ad occhio , con un foro di 8 mm per un fissaggio sicuro tramite bullo</Description>
+    <OriginalPrice>36.47</OriginalPrice>
+    <Price>26.05</Price>
+    <Code>38.009.05</Code>
+    <Link>https://www.onautica.com/products/molla-gas-acciaio-inox-occhio-foro8mm?variant=52542752489819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio.png?v=1764701670</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137046544</EanCode>
+    <Weight>0.19</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Molla_a_gas_in_acciaio_inox_occhio_-_occhio_b.png?v=1764701670</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Molla a Gas in Acciaio Inox Occhio-Occhio (Ammortizzatore per Portelli) - 30 kg. - L 355 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di molle a gas è realizzata in acciaio inox ed è progettata per sostenere e ammortizzare il peso di portelli, gavoni, cofani motore e coperchi della barca. I terminali sono ad occhio , con un foro di 8 mm per un fissaggio sicuro tramite bullo</Description>
@@ -23260,6 +23374,24 @@
     <ParentID>fanale-su-asta-360-inox-h-100-cm-plastica-bianca</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale su asta 360° inox H 100 cm. plastica nero</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale su asta a 360° ideale per imbarcazioni fino a 20 metri di lunghezza. La struttura è realizzata interamente in acciaio inox lucido a specchio , per garantire resistenza alla corrosione e un aspetto elegante nel tempo. Altezza asta: 100 cm Colore fan</Description>
+    <OriginalPrice>61.01</OriginalPrice>
+    <Price>43.58</Price>
+    <Code>11.147.10</Code>
+    <Link>https://www.onautica.com/products/fanale-su-asta-360-inox-h-100-cm-plastica-nero?variant=52577434992987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_su_asta_360_inox_H_100_cm._plastica_nero.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137012839</EanCode>
+    <Weight>0.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_su_asta_360_inox_H_100_cm._plastica_nero_1.png?v=1773341653</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-su-asta-360-inox-h-100-cm-plastica-nero</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale testa d&apos;albero 360° (R.I.N.A.) luce rossa corpo nero</Name>
     <Brand>Motomarine</Brand>
     <Description>Fanale di testa d&apos;albero a 360° omologato R.I.N.A. , progettato per imbarcazioni fino a 12 metri . Corpo in policarbonato di colore rosso , con struttura esterna in nero , garantisce resistenza e durabilità anche nelle condizioni marine più impegnative. A</Description>
@@ -24759,7 +24891,7 @@
     <Price>13.58</Price>
     <Code>3010101</Code>
     <Link>https://www.onautica.com/products/cintura-salvagente-100n?variant=52530111086939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura100n.png?v=1773341965</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29794,6 +29926,24 @@
     <ParentID>pompa-autoadescante-nuova-water-puppy-12v</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa Autoclave Europump 4 Basso Consumo 12V – 3,8 l/min</Name>
+    <Brand>Osculati</Brand>
+    <Description>L&apos; Autoclave Europump 4 a basso consumo è la soluzione ideale per chi cerca affidabilità ed efficienza energetica a bordo. Progettata per servire fino a 2 utenze contemporaneamente, questa pompa garantisce un flusso costante con un assorbimento di corrent</Description>
+    <OriginalPrice>35.10</OriginalPrice>
+    <Price>23.42</Price>
+    <Code>16.503.12</Code>
+    <Link>https://www.onautica.com/products/autoclave-europump-4-basso-consumo-12v?variant=52577375748443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v.png?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007743</EanCode>
+    <Weight>0.69</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/autoclave-europump-4-basso-consumo-12v_confezione.png?v=1773341521</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-europump-4-basso-consumo-12v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa autoclave Flojet triplex 11 lt/min. 12V</Name>
     <Brand>Flojet</Brand>
     <Description>Questa serie di pompe autoclavi Flojet Triplex è la soluzione affidabile per l&apos;impianto idrico di bordo, ideale per servire lavelli e doccette (progettata per da 1 a 3 utenze ). Il design &quot;Triplex&quot; (a tre camere) è rinomato per la sua affidabilità e capac</Description>
@@ -29805,7 +29955,6 @@
     <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827112.png?v=1773341769</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>22E10824</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>pompa-autoclave-flojet-triplex-11-lt-min-12v</ParentID>
   </Offer>
@@ -29988,6 +30137,25 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-whale-supersub-smart-automatica_schema_2.png?v=1773341785</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-sentina-automatica-whale-supersub-smart-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa di sentina Europump II automatica | Osculati - G600 - 38 lt/min.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Protezione Compatta, Automatica e Certificata per la Tua Sentina La pompa di sentina Europump II è la soluzione moderna e affidabile per mantenere la sentina sempre asciutta. Il suo design estremamente compatto la rende ideale per installazioni anche in s</Description>
+    <OriginalPrice>29.69</OriginalPrice>
+    <Price>24.74</Price>
+    <Code>10944</Code>
+    <Link>https://www.onautica.com/products/pompa-di-sentina-europump-ii-automatica-osculati?variant=52559585706331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05.png?v=1773341985</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137035050</EanCode>
+    <Weight>0.55</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05b.png?v=1773341986</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05c.png?v=1773341987</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-di-sentina-europump-ii-automatica-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di sentina Europump II automatica | Osculati - G750 - 48 lt/min.</Name>
@@ -30655,7 +30823,6 @@
     <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Regolatore_di_carica_20_Amp_max_-_2_batt._max_-_12_24V.jpg?v=1773341797</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>042203601183XBEL-00085</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>regolatore-di-carica-20-amp-max-2-batt-max-12-24v</ParentID>
   </Offer>
@@ -30995,8 +31162,8 @@
     <Name>Serbatoio di espansione Seaflo 0,75 lt.</Name>
     <Brand>Seaflo</Brand>
     <Description>Il serbatoio di espansione Seaflo da 0,75 litri è progettato per essere abbinato alle pompe autoclave di bordo, garantendo una pressione stabile e costante nell&apos;impianto idrico della tua imbarcazione. Grazie alla pre-pressurizzazione a 0,7 bar , riduce i </Description>
-    <OriginalPrice>37.74</OriginalPrice>
-    <Price>26.96</Price>
+    <OriginalPrice>40.30</OriginalPrice>
+    <Price>28.79</Price>
     <Code>1827503</Code>
     <Link>https://www.onautica.com/products/serbatoio-di-espansione-seaflo?variant=52577486668123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -32332,7 +32499,6 @@
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF90_100_115.png?v=1773341660</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>803313705008</EanCode>
     <Weight>0.03</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_DF8_9_9_15_20.png?v=1773341660</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-suzuki-4t_df40_50_60_70.png?v=1773341660</Image3>
@@ -36275,7 +36441,6 @@
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_a_forcella_L26.png?v=1773341625</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>33246600</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Attacco_a_forcella_L26_1.png?v=1773341625</Image2>
     <Condition>nuovo</Condition>
     <ParentID>attacco-a-forcella-l26</ParentID>
@@ -36981,6 +37146,23 @@
     <ParentID>cavo-telecomando-universale-ultraflex-c8</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavi Telecomando Universali Ultraflex C8 – Heavy Duty (Entrobordo/Fuoribordo) - 14 ft. - 4.20 mt.</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>I Cavi Telecomando Universali Ultraflex C8 sono progettati per garantire prestazioni superiori e una lunga durata in ambiente marino. Caratterizzati da una costruzione molto robusta , rappresentano lo standard di riferimento per chi cerca affidabilità nel</Description>
+    <OriginalPrice>50.34</OriginalPrice>
+    <Price>35.96</Price>
+    <Code>30219F</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-universale-ultraflex-c8?variant=52545436451163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-universale-ultraflex-c8.webp?v=1770993407</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164302190</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C8_FT.9_1.png?v=1773341643</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-universale-ultraflex-c8</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavi Telecomando Universali Ultraflex C8 – Heavy Duty (Entrobordo/Fuoribordo) - 15 ft. - 4.50 mt.</Name>
     <Brand>Ultraflex</Brand>
     <Description>I Cavi Telecomando Universali Ultraflex C8 sono progettati per garantire prestazioni superiori e una lunga durata in ambiente marino. Caratterizzati da una costruzione molto robusta , rappresentano lo standard di riferimento per chi cerca affidabilità nel</Description>
@@ -37145,7 +37327,6 @@
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-universale-ultraflex-c8.webp?v=1770993407</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>36429407</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cavo_comando_C8_FT.9_1.png?v=1773341643</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-universale-ultraflex-c8</ParentID>
@@ -38033,7 +38214,6 @@
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>3411-133-17</EanCode>
     <Weight>1.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
@@ -38151,7 +38331,6 @@
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>2411&apos;135&apos;15</EanCode>
     <Weight>1.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
@@ -38834,7 +39013,6 @@
     <Categories>Nautica;Accessori;Scalette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Plancia_Tinox_con_scaletta_3_gradini_410x450_mm..png?v=1773341736</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>70960002</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm</ParentID>
   </Offer>
@@ -38958,6 +39136,25 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale5.png?v=1773341968</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-pompa-manuale-mm-15-travaso-liquidi-con-tubo-10-lt-min</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa manuale mm. 19 travaso liquidi con tubo 15 lt/min.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa pompa manuale è lo strumento geniale e indispensabile per il travaso di tutti i tipi di liquido (acqua, gasolio, benzina, ecc.) da un contenitore all&apos;altro, senza alcuna fatica e senza il rischio di sporcare . È la soluzione perfetta per rifornire </Description>
+    <OriginalPrice>23.11</OriginalPrice>
+    <Price>16.86</Price>
+    <Code>52.739.01</Code>
+    <Link>https://www.onautica.com/products/offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo?variant=52577463501147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale.png?v=1773341738</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137036477</EanCode>
+    <Weight>0.52</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale4.png?v=1773341968</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompamanuale5.png?v=1773341968</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo</ParentID>
   </Offer>
   <Offer>
     <Name>Porta Smartphone Stagno Bianco 15x8 cm – Custodia Impermeabile Touch fino a 6 m</Name>
@@ -39093,7 +39290,6 @@
     <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rubinetto_classic_DX_con_canna_abbattibile.png?v=1773341803</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626042760</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rubinetto_classic_DX_con_canna_abbattibile_3.png?v=1773341804</Image2>
     <Condition>nuovo</Condition>
     <ParentID>rubinetto-classic-dx-con-canna-abbattibile</ParentID>
@@ -39316,7 +39512,6 @@
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-blu-navy-680mm.webp?v=1774635336</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>04000349</EanCode>
     <Weight>1.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmaperto.webp?v=1774634669</Image3>
@@ -39395,6 +39590,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_23.765.01-02-C.jpg?v=1773341806</Image2>
     <Condition>nuovo</Condition>
     <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sagola arancione per salvagente 30 mt.</Name>
+    <Brand>LALIZAS</Brand>
+    <Description>Sagola galleggiante per salvagenti regolamentare per navigazione da diporto. Caratteristiche: Ø 8 mm. lunghezza 30 mt. tenuta 400 kg. Caratteristiche principali Colore arancione ad alta visibilità per un recupero rapido in acqua Galleggiante: rimane in su</Description>
+    <OriginalPrice>8.40</OriginalPrice>
+    <Price>6.68</Price>
+    <Code>3009093</Code>
+    <Link>https://www.onautica.com/products/sagola-arancione-per-salvagente-o-8-mm-30-mt?variant=52577485226331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Sagola_arancione_per_salvagente_8_mm_-_30_mt..png?v=1773341808</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000071</EanCode>
+    <Weight>0.53</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>sagola-arancione-per-salvagente-o-8-mm-30-mt</ParentID>
   </Offer>
   <Offer>
     <Name>Sagola Galleggiante di Salvataggio 30 m con Sacca da Lancio</Name>
@@ -39999,11 +40211,30 @@
     <ParentID>sensore-livello-verticale-s5-inox-240-33-ohm</ParentID>
   </Offer>
   <Offer>
+    <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (240-33 Ohm) - 28 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>I Sensori di Livello Verticali S5 offrono precisione e durata nel monitoraggio dei liquidi a bordo. Costruiti interamente in Acciaio Inox 316 , sono progettati per resistere all&apos;ambiente marino e sono idonei per l&apos;uso in serbatoi di carburante (benzina/di</Description>
+    <OriginalPrice>37.30</OriginalPrice>
+    <Price>20.73</Price>
+    <Code>27.160.28</Code>
+    <Link>https://www.onautica.com/products/sensore-livello-verticale-s5-inox-240-33-ohm?variant=52513565573467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-240-33-ohm.png?v=1767896811</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137008924</EanCode>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-240-33-ohmattacco.png?v=1767896811</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-240-33-ohmbase.png?v=1767896811</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sensore-livello-verticale-s5-inox-240-33-ohm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoi Acqua Piatti Green Line Pump Kit – H 20 cm con Nicchia Pompa - 45 litri</Name>
     <Brand>Motomarine</Brand>
     <Description>I Serbatoi Green Line &quot;Pump Kit&quot; Modello Piatto sono la soluzione salvaspazio definitiva per l&apos;impianto idrico di bordo. Con un&apos; altezza di soli 20 cm , sono progettati per essere installati facilmente sotto i paglioli, nei gavoni bassi o sotto le cuccett</Description>
-    <OriginalPrice>139.63</OriginalPrice>
-    <Price>103.43</Price>
+    <OriginalPrice>160.01</OriginalPrice>
+    <Price>118.53</Price>
     <Code>1531245</Code>
     <Link>https://www.onautica.com/products/serbatoi-acqua-piatti-green-line-pump-kit?variant=52259068739931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40020,8 +40251,8 @@
     <Name>Serbatoi Acqua Piatti Green Line Pump Kit – H 20 cm con Nicchia Pompa - 60 litri</Name>
     <Brand>Motomarine</Brand>
     <Description>I Serbatoi Green Line &quot;Pump Kit&quot; Modello Piatto sono la soluzione salvaspazio definitiva per l&apos;impianto idrico di bordo. Con un&apos; altezza di soli 20 cm , sono progettati per essere installati facilmente sotto i paglioli, nei gavoni bassi o sotto le cuccett</Description>
-    <OriginalPrice>149.78</OriginalPrice>
-    <Price>110.95</Price>
+    <OriginalPrice>171.64</OriginalPrice>
+    <Price>127.14</Price>
     <Code>1531260</Code>
     <Link>https://www.onautica.com/products/serbatoi-acqua-piatti-green-line-pump-kit?variant=52259068707163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40072,8 +40303,8 @@
     <Name>Serbatoio 100 lt. flessibili acqua potabile rettangolari lt. 100</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
-    <OriginalPrice>178.47</OriginalPrice>
-    <Price>123.08</Price>
+    <OriginalPrice>190.61</OriginalPrice>
+    <Price>131.45</Price>
     <Code>1522410</Code>
     <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=52577463730523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40088,8 +40319,8 @@
     <Name>Serbatoio 100 lt. flessibili acqua potabile triangolari lt. 100 con raccordi</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoio flessibile per acqua potabile dalla forma triangolare, ideale per ottimizzare gli spazi a bordo nelle zone di prua o in altri angoli difficili da sfruttare. Realizzato in tessuto gommato rinforzato, garantisce robustezza e durata nel tempo, mant</Description>
-    <OriginalPrice>183.15</OriginalPrice>
-    <Price>126.31</Price>
+    <OriginalPrice>195.61</OriginalPrice>
+    <Price>134.90</Price>
     <Code>1523410</Code>
     <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-triangolari-lt-100-con-raccordi?variant=52577463763291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40104,8 +40335,8 @@
     <Name>Serbatoio 150 lt. flessibili acqua potabile rettangolari lt. 150</Name>
     <Brand>Motomarine</Brand>
     <Description>Il serbatoio flessibile rettangolare da 150 litri è la soluzione ideale per stoccare acqua potabile a bordo in modo sicuro ed efficiente. Realizzato in tessuto gommato rinforzato, si adatta facilmente agli spazi disponibili nella sentina o sotto coperta, </Description>
-    <OriginalPrice>170.50</OriginalPrice>
-    <Price>131.15</Price>
+    <OriginalPrice>182.09</OriginalPrice>
+    <Price>140.07</Price>
     <Code>1522415</Code>
     <Link>https://www.onautica.com/products/offerta-serbatoi-150-lt-flessibili-acqua-potabile-rettangolari-lt-150?variant=52577463894363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40120,8 +40351,8 @@
     <Name>Serbatoio 55 lt. flessibili acqua potabile triangolari lt. 55</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoio flessibile per acqua potabile dalla forma triangolare, ideale per sfruttare al meglio gli spazi irregolari a bordo. Realizzato in tessuto gommato rinforzato, garantisce resistenza e durata nel tempo. Completo di boccaporto con raccordi girevoli </Description>
-    <OriginalPrice>163.24</OriginalPrice>
-    <Price>112.58</Price>
+    <OriginalPrice>174.35</OriginalPrice>
+    <Price>120.24</Price>
     <Code>1523405</Code>
     <Link>https://www.onautica.com/products/offerta-serbatoi-55-lt-flessibili-acqua-potabile-triangolari-lt-55?variant=52577463959899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40136,8 +40367,8 @@
     <Name>Serbatoio 60 lt. flessibili acqua potabile rettangolari lt. 60</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoi 60 lt. flessibili acqua potabile rettangolari lt. 61 Caratteristiche principali Capacità da 60 litri, ideale per autonomie medie e lunghe navigazioni Design flessibile che si adatta agli spazi irregolari a bordo Forma rettangolare per un posizion</Description>
-    <OriginalPrice>152.14</OriginalPrice>
-    <Price>104.92</Price>
+    <OriginalPrice>181.22</OriginalPrice>
+    <Price>124.98</Price>
     <Code>10067</Code>
     <Link>https://www.onautica.com/products/offerta-serbatoi-60-lt-flessibili-acqua-potabile-rettangolari-lt-60?variant=52577464025435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40152,8 +40383,8 @@
     <Name>Serbatoio Acqua Potabile Rettangolare in Polietilene (45-163 Litri) - 45 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La serie di Serbatoi Rigidi Rettangolari è realizzata in polietilene bianco di alta qualità, idoneo per il contenimento di acqua potabile. La forma regolare a sezione rettangolare li rende particolarmente versatili, adatti per essere installati nella part</Description>
-    <OriginalPrice>80.40</OriginalPrice>
-    <Price>67.02</Price>
+    <OriginalPrice>85.90</OriginalPrice>
+    <Price>71.58</Price>
     <Code>52.194.50</Code>
     <Link>https://www.onautica.com/products/serbatoio-acqua-potabile-rettangolare-polietilene?variant=52514394079579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40169,8 +40400,8 @@
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>136.07</OriginalPrice>
-    <Price>93.84</Price>
+    <OriginalPrice>152.59</OriginalPrice>
+    <Price>105.23</Price>
     <Code>52.033.01</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627493211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40207,8 +40438,8 @@
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 70 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>178.92</OriginalPrice>
-    <Price>123.39</Price>
+    <OriginalPrice>200.63</OriginalPrice>
+    <Price>138.37</Price>
     <Code>52.033.03</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627558747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40226,8 +40457,8 @@
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 43 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>152.69</OriginalPrice>
-    <Price>105.30</Price>
+    <OriginalPrice>171.22</OriginalPrice>
+    <Price>118.08</Price>
     <Code>52.033.05</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627624283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40264,14 +40495,14 @@
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 102 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>229.86</OriginalPrice>
-    <Price>176.81</Price>
+    <OriginalPrice>257.77</OriginalPrice>
+    <Price>198.28</Price>
     <Code>52.033.24</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627886427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.24-25-26.png?v=1767117331</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <EanCode>8033137156854</EanCode>
     <Weight>10.23</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
@@ -40283,8 +40514,8 @@
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 120 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>243.51</OriginalPrice>
-    <Price>187.32</Price>
+    <OriginalPrice>273.08</OriginalPrice>
+    <Price>210.06</Price>
     <Code>52.033.25</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627919195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40302,8 +40533,8 @@
     <Name>Serbatoio Portatile Carburante in Eltex con Pescante – Da 12 a 30 Litri - 12 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La gamma di Serbatoi Portatili per Carburante è realizzata in robusto Eltex (polietilene ad alta densità), materiale che garantisce leggerezza e totale resistenza alla corrosione e agli urti. Progettati secondo la normativa ISO 13591 , offrono sicurezza e</Description>
-    <OriginalPrice>37.49</OriginalPrice>
-    <Price>26.78</Price>
+    <OriginalPrice>40.04</OriginalPrice>
+    <Price>28.60</Price>
     <Code>52.733.10</Code>
     <Link>https://www.onautica.com/products/serbatoio-portatile-carburante-eltex-pescante?variant=52524528140635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40321,8 +40552,8 @@
     <Name>Serbatoio Portatile Carburante in Eltex con Pescante – Da 12 a 30 Litri - 23 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La gamma di Serbatoi Portatili per Carburante è realizzata in robusto Eltex (polietilene ad alta densità), materiale che garantisce leggerezza e totale resistenza alla corrosione e agli urti. Progettati secondo la normativa ISO 13591 , offrono sicurezza e</Description>
-    <OriginalPrice>47.46</OriginalPrice>
-    <Price>33.90</Price>
+    <OriginalPrice>50.68</OriginalPrice>
+    <Price>36.20</Price>
     <Code>52.738.24</Code>
     <Link>https://www.onautica.com/products/serbatoio-portatile-carburante-eltex-pescante?variant=52524528173403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40340,8 +40571,8 @@
     <Name>Serbatoio Portatile Carburante in Eltex con Pescante – Da 12 a 30 Litri - 30 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La gamma di Serbatoi Portatili per Carburante è realizzata in robusto Eltex (polietilene ad alta densità), materiale che garantisce leggerezza e totale resistenza alla corrosione e agli urti. Progettati secondo la normativa ISO 13591 , offrono sicurezza e</Description>
-    <OriginalPrice>53.20</OriginalPrice>
-    <Price>38.00</Price>
+    <OriginalPrice>56.81</OriginalPrice>
+    <Price>40.58</Price>
     <Code>52.738.29</Code>
     <Link>https://www.onautica.com/products/serbatoio-portatile-carburante-eltex-pescante?variant=52513565901147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -41678,8 +41909,8 @@
     <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
-    <OriginalPrice>230.81</OriginalPrice>
-    <Price>177.55</Price>
+    <OriginalPrice>231.86</OriginalPrice>
+    <Price>178.35</Price>
     <Code>3265268</Code>
     <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953760603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42264,7 +42495,6 @@
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimozzo_nero_semplice.png?v=1762786170</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>19010201Q2</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>coprimozzo-nero-semplice</ParentID>
   </Offer>
@@ -43304,6 +43534,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137032271</EanCode>
     <Weight>2.08</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex_pistola.png?v=1773341944</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex_raccordi.png?v=1773341944</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-tubo-lavaggio-barca-tricotex-pistola-raccordi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Tubo Lavaggio Barca Tricotex® con Pistola e Raccordi Rapidi - 25 metri</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Kit Tubo Lavaggio Barca è la soluzione professionale e completa per la pulizia della tua imbarcazione. Fornito di un tubo di alta qualità Tricotex® Antitorsione e di tutti gli accessori necessari per il collegamento universale. Caratteristiche Principa</Description>
+    <OriginalPrice>59.40</OriginalPrice>
+    <Price>49.51</Price>
+    <Code>36.464.25</Code>
+    <Link>https://www.onautica.com/products/kit-tubo-lavaggio-barca-tricotex-pistola-raccordi?variant=52513536967003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex.png?v=1773341944</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137038259</EanCode>
+    <Weight>3.30</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex_pistola.png?v=1773341944</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-tubo-lavaggio-barca-tricotex_raccordi.png?v=1773341944</Image3>
     <Condition>nuovo</Condition>
@@ -44878,7 +45127,6 @@
     <Categories>Nautica;Motore;Strumenti Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>802-00190</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
     <Condition>nuovo</Condition>
@@ -44911,7 +45159,6 @@
     <Categories>Nautica;Motore;Strumenti Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivelloacquegrigie-nere.png?v=1765381431</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>802-00200</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
     <Condition>nuovo</Condition>
@@ -45058,7 +45305,6 @@
     <Categories>Nautica;Motore;Strumenti Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburantebianco.png?v=1765380193</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>802-00186</EanCode>
     <Weight>0.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShuntbianco.png?v=1765380193</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometrodigitaleconShuntbianco.png?v=1765380193</Image3>
@@ -47110,6 +47356,23 @@
     <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte</ParentID>
   </Offer>
   <Offer>
+    <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
+    <OriginalPrice>103.80</OriginalPrice>
+    <Price>57.68</Price>
+    <Code>VIA90.09</Code>
+    <Link>https://www.onautica.com/products/bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo?variant=53327816917339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Bozzello_Viadana_a_violino_con_strozzascotte_Plastinox_per_barca.webp?v=1778856197</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164934</EanCode>
+    <Weight>0.25</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-plastinox-viadana-2-pulegge-a-violino-con-strozzascotte-e-arricavo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 12×56 (Ø cima 12 mm, puleggia 56 mm)</Name>
     <Brand>Viadana</Brand>
     <Description>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo Bozzello a 2 pulegge a violino con strozzascotte integrato e arricavo della linea Plastinox di Viadana . Versione completa con il cordino di arricavo che riporta automaticamente l</Description>
@@ -47685,6 +47948,40 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-fissaggio-pavimento-wc-chimico-porta-potti-qube-thetford5.webp?v=1777906577</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-fissaggio-pavimento-porta-potti-qube-thetford</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
+    <OriginalPrice>45.40</OriginalPrice>
+    <Price>26.70</Price>
+    <Code>57.176.09</Code>
+    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007422</EanCode>
+    <Weight>0.28</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
+    <OriginalPrice>35.03</OriginalPrice>
+    <Price>25.95</Price>
+    <Code>57.176.10</Code>
+    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-250mm?variant=52577515569499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-250mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007439</EanCode>
+    <Weight>0.32</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-winch-galleggiante-250mm</ParentID>
   </Offer>
   <Offer>
     <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
@@ -48335,7 +48632,6 @@
     <Categories>Nautica;Vela;Winch e Manovre</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-4-12mm.webp?v=1775146680</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>7436832393</EanCode>
     <Weight>0.07</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-4-12mmgabbia.webp?v=1775146654</Image2>
     <Condition>nuovo</Condition>
@@ -48977,6 +49273,23 @@
     <ParentID>offerta-wc-chimico-porta-potti-seaflo-sfpt-12-03</ParentID>
   </Offer>
   <Offer>
+    <Name>Wc chimico Porta Potti Thetford QUBE 165 bianco</Name>
+    <Brand>Thetford</Brand>
+    <Description>Il Porta Potti Qube 165 di Thetford è un WC chimico portatile dalla forma compatta e dal design moderno, ideale per imbarcazioni da diporto, camper e uso esterno. Pratico e igienico, garantisce comfort a bordo anche negli spazi più ridotti. Serbatoio supe</Description>
+    <OriginalPrice>146.31</OriginalPrice>
+    <Price>100.91</Price>
+    <Code>50.217.06</Code>
+    <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-thetford-qube-165-bianco?variant=52577466220891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Wc_chimico_Porta_Potti_Thetford_QUBE_165_bianco.png?v=1773341751</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8710315024548</EanCode>
+    <Weight>5.18</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-wc-chimico-porta-potti-thetford-qube-165-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>WC Elettrico Silent Compact 12V Osculati</Name>
     <Brand>Osculati</Brand>
     <Description>Questo WC elettrico, parte della serie Evolution, è la scelta ideale per chi cerca l&apos;efficienza di un sistema elettrico unita al massimo comfort acustico. Il modello Compact è perfetto per le installazioni dove lo spazio è ridotto. Caratteristiche Esclusi</Description>
@@ -49485,7 +49798,6 @@
     <Categories>Nautica;Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/contagiri-contaore-ecms-all-black_6000.png?v=1765906172</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>902-00015</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/contagiri-contaore-ecms-all-black_4000.png?v=1765906196</Image2>
     <Condition>nuovo</Condition>
     <ParentID>contagiri-contaore-ecms-all-black-ip67</ParentID>
@@ -49502,7 +49814,6 @@
     <Categories>Nautica;Accessori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/contagiri-contaore-ecms-all-black_6000.png?v=1765906172</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>902-00010</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/contagiri-contaore-ecms-all-black_4000.png?v=1765906196</Image2>
     <Condition>nuovo</Condition>
     <ParentID>contagiri-contaore-ecms-all-black-ip67</ParentID>
