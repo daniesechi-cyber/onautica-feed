@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-07-31T06:31:43.065Z -->
-<!-- Offerte: 2952 -->
+<!-- Generato: 2026-07-31T10:31:08.802Z -->
+<!-- Offerte: 2943 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
@@ -12247,8 +12247,8 @@
     <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-C a USB-C - 1 mt.</Name>
     <Brand>Ferramenta Sardo Piemontese</Brand>
     <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
-    <OriginalPrice>9.40</OriginalPrice>
-    <Price>6.26</Price>
+    <OriginalPrice>9.30</OriginalPrice>
+    <Price>6.22</Price>
     <Code>309904</Code>
     <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083559771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -16340,22 +16340,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diportobusta.webp?v=1774693894</Image2>
     <Condition>nuovo</Condition>
     <ParentID>valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Valigetta Segnali di Soccorso Oltre 50 Miglia Diporto / Oltre 6 Miglia Noleggio (DM 21/09/2024)</Name>
-    <Brand>FDF</Brand>
-    <Description>La Valigetta Segnali di Soccorso per Navigazione Oltre le 50 Miglia (Diporto) e Oltre le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio definitivo per affrontare le navigazioni d&apos;altura e d&apos;avventura (senza limiti dalla costa)</Description>
-    <OriginalPrice>142.05</OriginalPrice>
-    <Price>123.53</Price>
-    <Code>11592</Code>
-    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-oltre-50-miglia-diporto-dm-2024?variant=52676458578267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-oltre-50-miglia-diporto.webp?v=1774694843</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.63</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>valigetta-segnali-soccorso-oltre-50-miglia-diporto-dm-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Z.Pren 2000 Adesivo-Sigillante Marino 0,850 kg – Tenuta Strutturale per Barca</Name>
@@ -24842,7 +24826,7 @@
     <Price>52.24</Price>
     <Code>3010102-4PZ</Code>
     <Link>https://www.onautica.com/products/giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-4-pezzi?variant=53483108532571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-conf-4pz-3240.webp?v=1782926995</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25924,23 +25908,6 @@
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
   </Offer>
   <Offer>
-    <Name>Mezzo Marinaio Telescopico EASY - Alluminio Anodizzato (Comodo e Sicuro) - 120 &lt;&gt; 200 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Mezzo Marinaio Telescopico EASY è uno strumento essenziale per tutte le manovre di ormeggio e disormeggio, progettato per offrire massima leggerezza e sicurezza d&apos;uso. Design Robusto e Maneggevole: Materiale: Realizzato in Alluminio Anodizzato , garant</Description>
-    <Price>17.49</Price>
-    <Code>0700521</Code>
-    <Link>https://www.onautica.com/products/mezzo-marinaio-telescopico-easy-alluminio?variant=52540059156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mezzo-marinaio-telescopico-easy-alluminio.png?v=1765216656</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000132</EanCode>
-    <Weight>0.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/schemautilizzomezzo-marinaio-telescopico-easy-alluminio.png?v=1765216597</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
-  </Offer>
-  <Offer>
     <Name>Nastro Adesivo in PVC Espanso Nero per Oblò e Passauomo 3 mt. - 3x19 mm. - 3 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo nastro adesivo in PVC espanso è un componente essenziale, studiato per ripristinare o creare una sigillatura stagna su tutte le aperture della tua imbarcazione, come oblò, passauomo e finestrini. Grazie al suo materiale in PVC espanso nero , garant</Description>
@@ -26411,7 +26378,7 @@
   <Offer>
     <Name>Portachiavi Autogonfiabile Davis – Portachiavi Galleggiante Antismarrimento per Barca</Name>
     <Brand>Motomarine</Brand>
-    <Description>Portachiavi autogonfiabile che una volta caduto in mare si apre e il tubo al suo interno si gonfia evitando così lo smarrimento delle chiavi. Quando gonfiato il tubo è alto 36cm e riesce a supportare un peso fino a 80gr. Il portachiavi �� monouso, la sost</Description>
+    <Description>Portachiavi autogonfiabile che una volta caduto in mare si apre e il tubo al suo interno si gonfia evitando così lo smarrimento delle chiavi. Quando gonfiato il tubo è alto 36cm e riesce a supportare un peso fino a 80gr. Il portachiavi è monouso, la sosta</Description>
     <OriginalPrice>24.35</OriginalPrice>
     <Price>17.39</Price>
     <Code>10312</Code>
@@ -27119,7 +27086,7 @@
     <Price>16.51</Price>
     <Code>2915618</Code>
     <Link>https://www.onautica.com/products/valvola-sovrapressione-per-gonfiabili?variant=52577505411419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Tender e Gommoni;Gonfiatori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valvola-sovrapressione-gommoni-gonfiabili.webp?v=1775208550</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -29078,25 +29045,6 @@
     <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 120x450 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
-    <OriginalPrice>16.37</OriginalPrice>
-    <Price>11.95</Price>
-    <Code>3801100</Code>
-    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52513545814363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8712256002081</EanCode>
-    <Weight>1.13</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/testaparabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misuremontaggio.webp?v=1776247359</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-cilindrici-majoni-sf-star-fender-blu</ParentID>
-  </Offer>
-  <Offer>
     <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 150x580 mm.</Name>
     <Brand>Majoni</Brand>
     <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
@@ -30249,23 +30197,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-manuale-stantuffo-emergenza.png?v=1773341771</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626056153</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-manuale-stantuffo-emergenza_utilizzo.png?v=1766729644</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-manuale-a-stantuffo-portatile-con-tubo-flessibile</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di Sentina Manuale a Stantuffo Portatile con Tubo Flessibile - 75 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Pompa di Sentina Manuale a stantuffo è l&apos;accessorio di sicurezza indispensabile su ogni imbarcazione, dal piccolo tender allo yacht (come dotazione di emergenza). Progettata per essere leggera, robusta e immediatamente pronta all&apos;uso, permette di svuot</Description>
-    <OriginalPrice>32.47</OriginalPrice>
-    <Price>23.19</Price>
-    <Code>1835575</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-manuale-a-stantuffo-portatile-con-tubo-flessibile?variant=52513456423259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-manuale-stantuffo-emergenza.png?v=1773341771</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626056160</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-manuale-stantuffo-emergenza_utilizzo.png?v=1766729644</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-manuale-a-stantuffo-portatile-con-tubo-flessibile</ParentID>
@@ -35464,25 +35395,6 @@
     <ParentID>spazzolone-osculati-special-250-90-mm-setole-morbide-giallo</ParentID>
   </Offer>
   <Offer>
-    <Name>Spazzolone Telescopico Osculati Bi-Level 117/180 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Telescopico Osculati Bi-Level 117/180 cm Spazzolone telescopico Osculati Bi-Level: spazzola e manico estensibile da 117 a 180 cm in un unico strumento. La regolazione Bi-Level orienta la testa su due posizioni. A chi è rivolto Per chi vuole lav</Description>
-    <OriginalPrice>23.50</OriginalPrice>
-    <Price>19.56</Price>
-    <Code>36.191.02</Code>
-    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-bi-level-117-180-cm?variant=53517782614363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.02.webp?v=1783358525</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052293</EanCode>
-    <Weight>0.94</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_0.webp?v=1783542536</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_1.webp?v=1783542539</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
@@ -39477,7 +39389,7 @@
     <Price>33.09</Price>
     <Code>3008160</Code>
     <Link>https://www.onautica.com/products/salvagente-anulare-compatto-med-600-solas?variant=52577463468379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Salvagenti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-anulare-compatto-med-600-solas.webp?v=1773477432</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -39825,25 +39737,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137009099</EanCode>
     <Weight>0.24</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (0-190 Ohm) - 20 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Sensori di Livello Verticali S5 sono la soluzione universale e affidabile per il monitoraggio dei liquidi a bordo. Realizzati interamente in Acciaio Inox 316 , garantiscono la massima resistenza alla corrosione e sono compatibili sia con serbatoi di car</Description>
-    <OriginalPrice>36.30</OriginalPrice>
-    <Price>20.18</Price>
-    <Code>27.161.20</Code>
-    <Link>https://www.onautica.com/products/sensore-livello-verticale-s5-inox-0-190-ohm?variant=52520156266843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm.jpg?v=1773341988</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137009105</EanCode>
-    <Weight>0.27</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
     <Condition>nuovo</Condition>
@@ -40776,6 +40669,42 @@
     <ParentID>offerta-timoneria-t67-nero-ultraflex</ParentID>
   </Offer>
   <Offer>
+    <Name>Timoneria T73 NRFC Ultraflex – Timoneria Senza Giochi per Controllo Preciso del Timone</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T73 NRFC Ultraflex rappresenta la perfetta sintesi tra precisione ingegneristica e </Description>
+    <OriginalPrice>194.32</OriginalPrice>
+    <Price>149.48</Price>
+    <Code>38869M</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t73-nrfc-ultraflex?variant=52577465762139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex.png?v=1773341746</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164388699</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_8.png?v=1773341747</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_5.png?v=1773341748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria T93TZ Non Reversibile Ultraflex</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T93TZ Non Reversibile Ultraflex rappresenta la soluzione ideale per chi cerca preci</Description>
+    <OriginalPrice>237.59</OriginalPrice>
+    <Price>182.76</Price>
+    <Code>42648U</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t93tz-non-reversibile-ultraflex?variant=52577465827675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex.png?v=1773341747</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164426483</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_3.png?v=1773341748</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_k.png?v=1773341748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t93tz-non-reversibile-ultraflex</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tubo di ricambio in alluminio filettato per S39</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il tubo di ricambio in alluminio filettato per S39 è un componente specifico progettato per il ripristino funzionale dei sistemi di timoneria. Realizzato in alluminio, garantisce robustezza e resistenza all&apos;uso in ambiente marino, assicurando continuità o</Description>
@@ -41299,23 +41228,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/amplificatore_antenna-tv-fm-glomex-avior-vt300.png?v=1773341956</Image3>
     <Condition>nuovo</Condition>
     <ParentID>antenna-tv-radio-glomex-avior-vt300</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antifurto inox per motori 230 mm. per motori fino 25 hp</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo antifurto è un sistema di sicurezza robusto ed efficace, progettato specificamente per proteggere i motori fuoribordo dal rischio di furto. Il suo design intelligente blocca i galletti di fissaggio del motore allo specchio di poppa, impedendone lo </Description>
-    <OriginalPrice>62.34</OriginalPrice>
-    <Price>44.53</Price>
-    <Code>38.176.10</Code>
-    <Link>https://www.onautica.com/products/antifurto-inox-per-motori-230-mm-per-motori-fino-25-hp?variant=52577416118619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Antifurto_inox_per_motori_230_mm._per_motori_fino_25_hp.png?v=1773341622</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137037719</EanCode>
-    <Weight>0.59</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>antifurto-inox-per-motori-230-mm-per-motori-fino-25-hp</ParentID>
   </Offer>
   <Offer>
     <Name>Antifurto inox per motori 280 mm. per motori oltre 25 hp</Name>
@@ -44934,25 +44846,6 @@
     <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
   </Offer>
   <Offer>
-    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size XL</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>37.11</OriginalPrice>
-    <Price>26.51</Price>
-    <Code>3270205</Code>
-    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242572635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626216779</EanCode>
-    <Weight>5.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
-  </Offer>
-  <Offer>
     <Name>Telo Copribarca &quot;Jumbo&quot; Universale per T-Top e Cabina – Oceansouth - 580/640 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
@@ -45758,24 +45651,6 @@
     <ParentID>offerta-timoneria-t71-f-c-ultraflex</ParentID>
   </Offer>
   <Offer>
-    <Name>Timoneria T73 NRFC Ultraflex – Timoneria Senza Giochi per Controllo Preciso del Timone</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T73 NRFC Ultraflex rappresenta la perfetta sintesi tra precisione ingegneristica e </Description>
-    <OriginalPrice>194.32</OriginalPrice>
-    <Price>149.48</Price>
-    <Code>38869M</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t73-nrfc-ultraflex?variant=52577465762139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex.png?v=1773341746</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164388699</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_8.png?v=1773341747</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T73_NRFC_Ultraflex_5.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
-  </Offer>
-  <Offer>
     <Name>Timoneria T85 standard type Ultraflex coprimozzo bianco</Name>
     <Brand>Ultraflex</Brand>
     <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T85 standard type di Ultraflex è la soluzione ideale per chi cerca affidabilità e p</Description>
@@ -45810,24 +45685,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T91_high_performance_Ultraflex_5.png?v=1773341746</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-timoneria-t91-high-performance-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria T93TZ Non Reversibile Ultraflex</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T93TZ Non Reversibile Ultraflex rappresenta la soluzione ideale per chi cerca preci</Description>
-    <OriginalPrice>237.59</OriginalPrice>
-    <Price>182.76</Price>
-    <Code>42648U</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t93tz-non-reversibile-ultraflex?variant=52577465827675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex.png?v=1773341747</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8031164426483</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_3.png?v=1773341748</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T93TZ_Non_Reversibile_Ultraflex_k.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t93tz-non-reversibile-ultraflex</ParentID>
   </Offer>
   <Offer>
     <Name>Torre Portacanna Abbattibile Universale in Alluminio – 6 Posti</Name>
@@ -46114,22 +45971,6 @@
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 1/2&quot; / 15 mt</Name>
-    <Brand>Ferramenta Sardo Piemontese</Brand>
-    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
-    <OriginalPrice>25.53</OriginalPrice>
-    <Price>21.28</Price>
-    <Code>76495-02</Code>
-    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152712539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8011779390287</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-tricogel-nts-banchina</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vano Porta-Estintore a Scatto in ABS (Per Modelli ANAF 1 Kg)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Vano Porta-Estintore a Scatto è una soluzione pratica, ordinata e sicura per alloggiare l&apos;equipaggiamento antincendio a bordo della tua imbarcazione. Realizzato in ABS bianco ad alta resistenza marina, offre un vano da incasso dal design pulito che si </Description>
@@ -46145,6 +45986,22 @@
     <Weight>0.26</Weight>
     <Condition>nuovo</Condition>
     <ParentID>vano-porta-estintore-scatto-abs-anaf-1kg</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Antiscivolo Coperta Deck Antiskid – Bianco - 5 Kg.</Name>
+    <Brand>Safe Nanotech</Brand>
+    <Description>Deck Antiskid in colorazione Bianca (Cod. DEA) nel pratico formato da 1 e 5 Kg è lo smalto sintetico monocomponente al clorocaucciù ideale per i ritocchi o la verniciatura di piccole coperte e camminamenti. Crea una superficie calpestabile dalla finitura </Description>
+    <OriginalPrice>80.20</OriginalPrice>
+    <Price>53.44</Price>
+    <Code>DEA.0201.005.00</Code>
+    <Link>https://www.onautica.com/products/smalto-antiscivolo-deck-antiskid-bianco?variant=52610866315611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-antiscivolo-coperta-deck-antiskid-bianco.webp?v=1773341875</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>smalto-antiscivolo-deck-antiskid-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
@@ -48554,22 +48411,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/compact2.png?v=1773341713</Image2>
     <Condition>nuovo</Condition>
     <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Antiscivolo Coperta Deck Antiskid – Bianco - 5 Kg.</Name>
-    <Brand>Safe Nanotech</Brand>
-    <Description>Deck Antiskid in colorazione Bianca (Cod. DEA) nel pratico formato da 1 e 5 Kg è lo smalto sintetico monocomponente al clorocaucciù ideale per i ritocchi o la verniciatura di piccole coperte e camminamenti. Crea una superficie calpestabile dalla finitura </Description>
-    <OriginalPrice>80.20</OriginalPrice>
-    <Price>53.44</Price>
-    <Code>DEA.0201.005.00</Code>
-    <Link>https://www.onautica.com/products/smalto-antiscivolo-deck-antiskid-bianco?variant=52610866315611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-antiscivolo-coperta-deck-antiskid-bianco.webp?v=1773341875</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>smalto-antiscivolo-deck-antiskid-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Antiscivolo Coperta Deck Antiskid – Verde (Clorocaucciù) - 1 Kg.</Name>
