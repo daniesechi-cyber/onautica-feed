@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-03T06:32:08.109Z -->
-<!-- Offerte: 2941 -->
+<!-- Generato: 2026-08-03T10:31:07.759Z -->
+<!-- Offerte: 2939 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo Bruce - 5</Name>
@@ -3284,25 +3284,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137068003</EanCode>
     <Weight>2.46</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio.png?v=1764692246</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_c.png?v=1764691347</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ruotino-appoggio-anteriore-carrelli-rimorchi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ruotino di Appoggio Anteriore per Carrelli Portabarche - 150 Kg.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il ruotino di appoggio anteriore (o jockey wheel) è un accessorio fondamentale per la manovrabilità e il corretto stazionamento dei carrelli porta imbarcazioni. Permette di sollevare, abbassare e spostare manualmente l&apos;asse del rimorchio quando non è agga</Description>
-    <OriginalPrice>46.62</OriginalPrice>
-    <Price>33.30</Price>
-    <Code>750808</Code>
-    <Link>https://www.onautica.com/products/ruotino-appoggio-anteriore-carrelli-rimorchi?variant=52543443894619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_b.png?v=1764692547</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137067976</EanCode>
-    <Weight>3.60</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio.png?v=1764692246</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_c.png?v=1764691347</Image3>
     <Condition>nuovo</Condition>
@@ -10920,7 +10901,7 @@
     <Price>17.04</Price>
     <Code>66.240.51</Code>
     <Link>https://www.onautica.com/products/adesivo-gommoni-sup-tender-bicomponente-per-pvc?variant=52542651105627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_PVC_gommoni.png?v=1773341610</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24521,6 +24502,24 @@
     <ParentID>giranti-spx-johnson-volvo-penta-diesel</ParentID>
   </Offer>
   <Offer>
+    <Name>Giubbetto di salvataggio aiuto Galleggiamento 50N - Rosso fluo-nero / Oltre 70 kg</Name>
+    <Brand>Osculati</Brand>
+    <Description>Aiuto al galleggiamento 50 N (EN ISO 12402-5) progettato per sport acquatici e navigazione costiera: leggero, confortevole e immediato da indossare. Realizzato in espanso morbido ad alta densità, assicura ottima libertà di movimento per sci d’acqua, wakeb</Description>
+    <OriginalPrice>60.57</OriginalPrice>
+    <Price>35.63</Price>
+    <Code>22.474.04</Code>
+    <Link>https://www.onautica.com/products/giubbotto-salvagente-50n?variant=51634991694171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/PROMO_-_Giubbetto_70_Kg._rosso_XL_aiuto_galleggiamento_Dominator_Ski_-_50N_EN_ISO_12402-5.png?v=1773341968</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137044762</EanCode>
+    <Weight>0.55</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/22.47x.XX.png?v=1773342004</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>giubbotto-salvagente-50n</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giubbetto di salvataggio aiuto Galleggiamento 50N - Rosso fluo-nero / 60&lt;&gt;70 kg</Name>
     <Brand>Osculati</Brand>
     <Description>Aiuto al galleggiamento 50 N (EN ISO 12402-5) progettato per sport acquatici e navigazione costiera: leggero, confortevole e immediato da indossare. Realizzato in espanso morbido ad alta densità, assicura ottima libertà di movimento per sci d’acqua, wakeb</Description>
@@ -31449,13 +31448,32 @@
     <Price>12.90</Price>
     <Code>PRL0005</Code>
     <Link>https://www.onautica.com/products/kit-resina-e-lana-di-vetro?variant=52577503379803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/resinakit.png?v=1773341867</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033745210245</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>kit-resina-e-lana-di-vetro</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Spazzolone Boat Line con Manico Telescopico Alluminio 100-180 cm</Name>
+    <Brand>Boat Line</Brand>
+    <Description>Kit Spazzolone Boat Line con Manico Telescopico Kit di pulizia Boat Line composto da spazzolone con manico telescopico. La spazzola è in polipropilene con fibre in PVC di alta qualità ; il manico telescopico in alluminio anodizzato si estende da 100 a 180</Description>
+    <OriginalPrice>22.00</OriginalPrice>
+    <Price>16.91</Price>
+    <Code>5709011</Code>
+    <Link>https://www.onautica.com/products/offerta-spazzolone-boat-line-kit-100-180-cm?variant=52577379320155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_0_3240.webp?v=1783783605</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626150882</EanCode>
+    <Weight>0.79</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_1_3240.webp?v=1783783607</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spaz_2_3240.webp?v=1783783610</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-spazzolone-boat-line-kit-100-180-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Lama Togli-Acqua Osculati per Vetri e Parabrezza</Name>
@@ -33756,7 +33774,7 @@
     <Price>8.92</Price>
     <Code>LASSTVET500</Code>
     <Link>https://www.onautica.com/products/stucco-vetroresina-per-riparazioni?variant=52552792572251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stuccovetroresina.png?v=1773341949</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -37066,6 +37084,24 @@
     <ParentID>scaletta-3-gradini-biscaglina-eco</ParentID>
   </Offer>
   <Offer>
+    <Name>Scaletta Biscaglina 4 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
+    <Brand>Osculati</Brand>
+    <Description>La scaletta biscaglina a 4 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in totale sicurezza. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato , garantisce robustezza e durata anche in</Description>
+    <OriginalPrice>23.64</OriginalPrice>
+    <Price>16.89</Price>
+    <Code>49.524.04</Code>
+    <Link>https://www.onautica.com/products/scaletta-4-gradini-biscaglina-eco?variant=52577485324635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_4_gradini_biscaglina_eco.png?v=1773341807</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137042904</EanCode>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_4_gradini_biscaglina_eco_1.png?v=1773341809</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-4-gradini-biscaglina-eco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scaletta Biscaglina 5 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
     <Brand>Osculati</Brand>
     <Description>La scaletta biscaglina a 5 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in totale sicurezza. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato, garantisce robustezza, leggerezza e buon</Description>
@@ -37777,23 +37813,6 @@
     <ParentID>verricello-salpancora-italwinch-smart-r3-1000w</ParentID>
   </Offer>
   <Offer>
-    <Name>Zattera di salvataggio rigida 8 persone 900x900xH250</Name>
-    <Brand>Osculati</Brand>
-    <Description>Zattera di salvataggio rigida 8 persone 900x900xH251 Caratteristiche principali Struttura rigida per massima stabilità e resistenza in condizioni di emergenza Capacità omologata per 8 persone, ideale per imbarcazioni da diporto di medie e grandi dimension</Description>
-    <OriginalPrice>385.69</OriginalPrice>
-    <Price>296.68</Price>
-    <Code>2900808</Code>
-    <Link>https://www.onautica.com/products/offerta-zattera-di-salvataggio-rigida-8-persone-900x900xh250?variant=49393366991195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Zattera_di_salvataggio_rigida_8_persone_900x900xH250.png?v=1762781039</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137112522</EanCode>
-    <Weight>18.40</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-zattera-di-salvataggio-rigida-8-persone-900x900xh250</ParentID>
-  </Offer>
-  <Offer>
     <Name>Anello traina sci in acciaio inox Ø60 Perni 75x10mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Anello traino sci in Acciaio Inox. Si monta a poppa.\n\n CARATTERISTICHE \n \n ∅ mm 60 \n Perni mm 75x10 \n \n Caratteristiche principali Acciaio inox resistente alla corrosione, ideale per l&apos;ambiente marino Forma ad anello per un aggancio sicuro e rapido</Description>
@@ -37860,6 +37879,23 @@
     <Weight>0.59</Weight>
     <Condition>nuovo</Condition>
     <ParentID>antifurto-inox-per-motori-230-mm-per-motori-fino-25-hp</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antifurto inox per motori 280 mm. per motori oltre 25 hp</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo antifurto è un sistema di sicurezza robusto ed efficace, progettato specificamente per proteggere i motori fuoribordo dal rischio di furto. Il suo design intelligente blocca i galletti di fissaggio del motore allo specchio di poppa, impedendone lo </Description>
+    <OriginalPrice>65.28</OriginalPrice>
+    <Price>46.63</Price>
+    <Code>38.176.11</Code>
+    <Link>https://www.onautica.com/products/antifurto-inox-per-motori-280-mm-per-motori-oltre-25-hp?variant=52577416085851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Antifurto_inox_per_motori_280_mm._per_motori_oltre_25_hp.png?v=1773341622</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137037702</EanCode>
+    <Weight>0.65</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>antifurto-inox-per-motori-280-mm-per-motori-oltre-25-hp</ParentID>
   </Offer>
   <Offer>
     <Name>Attacco a Forcella L25 per Cavi Comando Motore – Compatibile C2/MACHZero/C8/C33</Name>
@@ -41028,24 +41064,6 @@
     <ParentID>sacca-portaoggetti-navishell-small</ParentID>
   </Offer>
   <Offer>
-    <Name>Scaletta Biscaglina 4 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
-    <Brand>Osculati</Brand>
-    <Description>La scaletta biscaglina a 4 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in totale sicurezza. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato , garantisce robustezza e durata anche in</Description>
-    <OriginalPrice>23.64</OriginalPrice>
-    <Price>16.89</Price>
-    <Code>49.524.04</Code>
-    <Link>https://www.onautica.com/products/scaletta-4-gradini-biscaglina-eco?variant=52577485324635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_4_gradini_biscaglina_eco.png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042904</EanCode>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_4_gradini_biscaglina_eco_1.png?v=1773341809</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scaletta-4-gradini-biscaglina-eco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Selettore L23 per Doppia Stazione – Comando Monoleva Acceleratore/Invertitore</Name>
     <Brand>Ultraflex</Brand>
     <Description>Meccanismo progettato per l’applicazione delle monoleve su installazioni con doppia stazione. \n \nQuesto selettore permette di manovrare acceleratore ed invertitore indipendentemente, ora dal ponte superiore, ora dalla cabina. \n \n ATTENZIONE : quando s</Description>
@@ -41414,22 +41432,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-acqua-piatto-green-line-pump-kitmisureportagomma.webp?v=1770714277</Image3>
     <Condition>nuovo</Condition>
     <ParentID>serbatoi-acqua-standard-green-line-pump-kit</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio 100 lt. flessibili acqua potabile rettangolari lt. 100</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
-    <OriginalPrice>190.61</OriginalPrice>
-    <Price>131.45</Price>
-    <Code>1522410</Code>
-    <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=52577463730523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_100_lt._flessibili_acqua_potabile_rettangolari_lt._100.png?v=1773341742</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626044082</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio 100 lt. flessibili acqua potabile triangolari lt. 100 con raccordi</Name>
@@ -42543,22 +42545,6 @@
     <ParentID>tappo-o-38-mm-imbarco-water-acciaio-inox-apertura-con-manovella-del-winch</ParentID>
   </Offer>
   <Offer>
-    <Name>Tappo di imbarco in plastica collo Ø 38 mm. acqua</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Tappi imbarco in plastica rinforzata bianca con apertura a leva incassata. Caratteristiche: Collo Ø 38 mm. Flangia Ø 85 mm. Caratteristiche principali Apertura a leva incassata per un utilizzo pratico e sicuro anche con le mani bagnate Costruito in plasti</Description>
-    <OriginalPrice>14.47</OriginalPrice>
-    <Price>10.72</Price>
-    <Code>4043162</Code>
-    <Link>https://www.onautica.com/products/tappo-o-38-mm-imbarco-water-plastica?variant=52577506132315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4043162.png?v=1773341875</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626118103</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-o-38-mm-imbarco-water-plastica</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tappo di Rifornimento a Filo in Acciaio Inox con Maniglietta – Serie Microfusa - Ø 50 mm. Benzina - Dritto</Name>
     <Brand>Osculati</Brand>
     <Description>Il Tappo di rifornimento a filo in acciaio inox rappresenta la sintesi perfetta tra estetica e funzionalità per la coperta della tua imbarcazione. Caratterizzato da una finitura lucidata a specchio , questo imbarco è progettato per rimanere completamente </Description>
@@ -43224,23 +43210,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image2>
     <Condition>nuovo</Condition>
     <ParentID>kit-antenna-vhf-glomex-ra106-base-ra135</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antifurto inox per motori 280 mm. per motori oltre 25 hp</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo antifurto è un sistema di sicurezza robusto ed efficace, progettato specificamente per proteggere i motori fuoribordo dal rischio di furto. Il suo design intelligente blocca i galletti di fissaggio del motore allo specchio di poppa, impedendone lo </Description>
-    <OriginalPrice>65.28</OriginalPrice>
-    <Price>46.63</Price>
-    <Code>38.176.11</Code>
-    <Link>https://www.onautica.com/products/antifurto-inox-per-motori-280-mm-per-motori-oltre-25-hp?variant=52577416085851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Antifurto_inox_per_motori_280_mm._per_motori_oltre_25_hp.png?v=1773341622</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137037702</EanCode>
-    <Weight>0.65</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>antifurto-inox-per-motori-280-mm-per-motori-oltre-25-hp</ParentID>
   </Offer>
   <Offer>
     <Name>Antiruggine al Fosfato di Zinco – Protezione Superiore (Ambiente Marino/Industriale) - 0.50 litri</Name>
@@ -44626,6 +44595,23 @@
     <Weight>0.06</Weight>
     <Condition>nuovo</Condition>
     <ParentID>filo-marlow-poliestere-cerato-rosso-per-impiombature-e-cuciture-vele</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Guida posteriore per strozzascotta VIA25.10 e VIA25.50</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa uscita a rulli è l&apos;accessorio opzionale ad alte prestazioni, progettato per essere montato sugli strozzascotte a camme e trasformarli in un sistema da regata di livello superiore. La sua funzione è quella di guidare la cima in uscita, garantendo un</Description>
+    <OriginalPrice>19.00</OriginalPrice>
+    <Price>11.89</Price>
+    <Code>VIA25.14</Code>
+    <Link>https://www.onautica.com/products/guida-posteriore-per-strozzascotta-via25-10-e-via25-50?variant=52577371816283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/VIA25str.png?v=1773341516</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137165610</EanCode>
+    <Weight>0.01</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>guida-posteriore-per-strozzascotta-via25-10-e-via25-50</ParentID>
   </Offer>
   <Offer>
     <Name>Impregnante Cerato all&apos;Acqua Ecosivac – Protezione Legno (Interni/Esterni) - Verde Acacia / 0,75 L</Name>
@@ -48767,23 +48753,6 @@
     <Weight>0.15</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-fisso-girevole-1-puleggia-plastinox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Guida posteriore per strozzascotta VIA25.10 e VIA25.50</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa uscita a rulli è l&apos;accessorio opzionale ad alte prestazioni, progettato per essere montato sugli strozzascotte a camme e trasformarli in un sistema da regata di livello superiore. La sua funzione è quella di guidare la cima in uscita, garantendo un</Description>
-    <OriginalPrice>19.00</OriginalPrice>
-    <Price>11.89</Price>
-    <Code>VIA25.14</Code>
-    <Link>https://www.onautica.com/products/guida-posteriore-per-strozzascotta-via25-10-e-via25-50?variant=52577371816283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/VIA25str.png?v=1773341516</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137165610</EanCode>
-    <Weight>0.01</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>guida-posteriore-per-strozzascotta-via25-10-e-via25-50</ParentID>
   </Offer>
   <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
