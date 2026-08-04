@@ -1,129 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-04T10:31:18.448Z -->
-<!-- Offerte: 2936 -->
+<!-- Generato: 2026-08-04T14:31:30.070Z -->
+<!-- Offerte: 2933 -->
 <Products>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 1.5 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>13.10</OriginalPrice>
-    <Price>10.09</Price>
-    <Code>0104015</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52558781186395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 2.5 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>21.25</OriginalPrice>
-    <Price>16.34</Price>
-    <Code>0104025</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376043355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000088</EanCode>
-    <Weight>2.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 3.2 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>26.25</OriginalPrice>
-    <Price>20.20</Price>
-    <Code>0104032</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376076123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>3.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 4 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>34.50</OriginalPrice>
-    <Price>26.53</Price>
-    <Code>0104040</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376108891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137032042</EanCode>
-    <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 6 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>48.20</OriginalPrice>
-    <Price>37.07</Price>
-    <Code>0104060</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376141659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>6.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 8 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>60.85</OriginalPrice>
-    <Price>46.80</Price>
-    <Code>0104080</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376174427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Acciaio Zincato tipo Ombrello - 10 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
-    <OriginalPrice>71.85</OriginalPrice>
-    <Price>55.27</Price>
-    <Code>0104110</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376207195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>10.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
-  </Offer>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
     <Brand>Osculati</Brand>
@@ -183,7 +62,7 @@
     <Price>8.17</Price>
     <Code>3221901</Code>
     <Link>https://www.onautica.com/products/base-attacco-tendalini-grigio-da-incollare-per-gommoni?variant=52577501675867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3221901.png?v=1773341861</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -5496,6 +5375,127 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Hall.png?v=1773341520</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ancora-zincata-tipo-hall-compatta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 1.5 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>13.10</OriginalPrice>
+    <Price>10.09</Price>
+    <Code>0104015</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52558781186395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 2.5 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>21.25</OriginalPrice>
+    <Price>16.34</Price>
+    <Code>0104025</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376043355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000088</EanCode>
+    <Weight>2.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 3.2 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>26.25</OriginalPrice>
+    <Price>20.20</Price>
+    <Code>0104032</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376076123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>3.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 4 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>34.50</OriginalPrice>
+    <Price>26.53</Price>
+    <Code>0104040</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376108891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137032042</EanCode>
+    <Weight>4.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 6 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>48.20</OriginalPrice>
+    <Price>37.07</Price>
+    <Code>0104060</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376141659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>6.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 8 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>60.85</OriginalPrice>
+    <Price>46.80</Price>
+    <Code>0104080</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376174427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 10 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>71.85</OriginalPrice>
+    <Price>55.27</Price>
+    <Code>0104110</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376207195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>10.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
   </Offer>
   <Offer>
     <Name>Ancora Galleggiante Conica Drag in Poliestere Rinforzato - fino a 6 metri</Name>
@@ -13506,60 +13506,6 @@
     <ParentID>pannello-interruttori-contour-usb</ParentID>
   </Offer>
   <Offer>
-    <Name>Pannello interruttori Contour Impermeabile con Interruttori Basculanti e Fusibili - 3x15A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La serie di pannelli elettrici &quot;Contour&quot; è progettata per offrire un controllo affidabile e sicuro delle utenze elettriche in ambiente marino. Realizzati su una placca in alluminio anodizzato , questi pannelli non solo sono robusti, ma anche resistenti al</Description>
-    <OriginalPrice>45.74</OriginalPrice>
-    <Price>32.67</Price>
-    <Code>2102621</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-contour-protezione-circuiti?variant=52513459175771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_3x15A_posti.png?v=1773341732</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626061836</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_4x15A_posti_4.png?v=1773341732</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_6x15A_posti_1.png?v=1773341732</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-contour-protezione-circuiti</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello interruttori Contour Impermeabile con Interruttori Basculanti e Fusibili - 4x15A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La serie di pannelli elettrici &quot;Contour&quot; è progettata per offrire un controllo affidabile e sicuro delle utenze elettriche in ambiente marino. Realizzati su una placca in alluminio anodizzato , questi pannelli non solo sono robusti, ma anche resistenti al</Description>
-    <OriginalPrice>58.82</OriginalPrice>
-    <Price>41.13</Price>
-    <Code>2102620</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-contour-protezione-circuiti?variant=52559618703707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_3x15A_posti.png?v=1773341732</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626061829</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_4x15A_posti_4.png?v=1773341732</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_6x15A_posti_1.png?v=1773341732</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-contour-protezione-circuiti</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello interruttori Contour Impermeabile con Interruttori Basculanti e Fusibili - 6x15A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La serie di pannelli elettrici &quot;Contour&quot; è progettata per offrire un controllo affidabile e sicuro delle utenze elettriche in ambiente marino. Realizzati su una placca in alluminio anodizzato , questi pannelli non solo sono robusti, ma anche resistenti al</Description>
-    <OriginalPrice>87.39</OriginalPrice>
-    <Price>61.11</Price>
-    <Code>2102622</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-contour-protezione-circuiti?variant=52559618736475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_3x15A_posti.png?v=1773341732</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626061843</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_4x15A_posti_4.png?v=1773341732</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_6x15A_posti_1.png?v=1773341732</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-contour-protezione-circuiti</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pannello interruttori New Classic Black 4x10A</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Pannello interruttori New Classic Black una soluzione avanzata per la gestione sicura ed efficiente degli impianti elettrici a 12V. Realizzato in materiale ABS resistente, garantisce durata e protezione contro gli agenti esterni. È dotato di interrutto</Description>
@@ -16084,7 +16030,7 @@
     <Price>17.49</Price>
     <Code>3020041</Code>
     <Link>https://www.onautica.com/products/estintori-a-polvere-certificati-med-ce-con-manometro?variant=52545494516059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EstintoreMED.png?v=1763201908</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -16758,22 +16704,6 @@
     <ParentID>maniglia-grigio-chiaro-205-mm-pvc-ral-7035</ParentID>
   </Offer>
   <Offer>
-    <Name>Maniglia grigio chiaro 250 mm. PVC ral 7035</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Maniglia realizzata in PVC morbido con struttura interna rinforzata. Il fissaggio avviene tramite viti passanti occultate. La distanza tra i fori delle viti è di 195 mm. L mm H mm Colore 250 60 grigio chiaro 7035 Caratteristiche principali Colore grigio c</Description>
-    <OriginalPrice>19.57</OriginalPrice>
-    <Price>13.98</Price>
-    <Code>0340721</Code>
-    <Link>https://www.onautica.com/products/maniglia-grigio-chiaro-250-mm-pvc-ral-7035?variant=52577450852699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Maniglia_grigio_chiaro_250_mm._PVC_ral_7035.png?v=1773341702</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137043796</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-grigio-chiaro-250-mm-pvc-ral-7035</ParentID>
-  </Offer>
-  <Offer>
     <Name>Maniglia ottone cromato a incasso 92x63x9 m.cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Maniglia a incasso rettangolare in Ottone. Impugnatura dritta. Caratteristiche: Dimensione 92x63x9 mm. Finitura ottone cromato Caratteristiche principali Profilo a incasso: non sporge dalla superficie, eliminando ostacoli e rischi di impiglio a bordo Fini</Description>
@@ -17062,6 +16992,60 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-ghost-12v-interruttori-impermeabili_3.png?v=1773341734</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-ghost-12v-interruttori-impermeabili</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello interruttori Contour Impermeabile con Interruttori Basculanti e Fusibili - 3x15A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La serie di pannelli elettrici &quot;Contour&quot; è progettata per offrire un controllo affidabile e sicuro delle utenze elettriche in ambiente marino. Realizzati su una placca in alluminio anodizzato , questi pannelli non solo sono robusti, ma anche resistenti al</Description>
+    <OriginalPrice>45.74</OriginalPrice>
+    <Price>32.67</Price>
+    <Code>2102621</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-contour-protezione-circuiti?variant=52513459175771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_3x15A_posti.png?v=1773341732</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626061836</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_4x15A_posti_4.png?v=1773341732</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_6x15A_posti_1.png?v=1773341732</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-contour-protezione-circuiti</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello interruttori Contour Impermeabile con Interruttori Basculanti e Fusibili - 4x15A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La serie di pannelli elettrici &quot;Contour&quot; è progettata per offrire un controllo affidabile e sicuro delle utenze elettriche in ambiente marino. Realizzati su una placca in alluminio anodizzato , questi pannelli non solo sono robusti, ma anche resistenti al</Description>
+    <OriginalPrice>58.82</OriginalPrice>
+    <Price>41.13</Price>
+    <Code>2102620</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-contour-protezione-circuiti?variant=52559618703707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_3x15A_posti.png?v=1773341732</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626061829</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_4x15A_posti_4.png?v=1773341732</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_6x15A_posti_1.png?v=1773341732</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-contour-protezione-circuiti</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello interruttori Contour Impermeabile con Interruttori Basculanti e Fusibili - 6x15A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La serie di pannelli elettrici &quot;Contour&quot; è progettata per offrire un controllo affidabile e sicuro delle utenze elettriche in ambiente marino. Realizzati su una placca in alluminio anodizzato , questi pannelli non solo sono robusti, ma anche resistenti al</Description>
+    <OriginalPrice>87.39</OriginalPrice>
+    <Price>61.11</Price>
+    <Code>2102622</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-contour-protezione-circuiti?variant=52559618736475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_3x15A_posti.png?v=1773341732</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626061843</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_4x15A_posti_4.png?v=1773341732</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pannelli_contour_6x15A_posti_1.png?v=1773341732</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-contour-protezione-circuiti</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello interruttori Contour tester digital 3</Name>
@@ -20063,24 +20047,6 @@
     <ParentID>girante-pompa-neoprene-o51-o-int-10-h22-6-pale</ParentID>
   </Offer>
   <Offer>
-    <Name>Girante Pompa Nitrile Ø95 · Ø int. 25 · H88.5 · 12 pale</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Girante Pompa Nitrile Ø95 · Ø int. 25 · H88.5 · 12 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo </Description>
-    <OriginalPrice>72.40</OriginalPrice>
-    <Price>60.35</Price>
-    <Code>1814170</Code>
-    <Link>https://www.onautica.com/products/girante-pompa-nitrile-o95-o-int-25-h88-5-12-pale?variant=53523717914971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814170.webp?v=1783362429</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10575404171611_mm1.webp?v=1783542582</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10575404171611_mm2.webp?v=1783542585</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>girante-pompa-nitrile-o95-o-int-25-h88-5-12-pale</ParentID>
-  </Offer>
-  <Offer>
     <Name>Girelle Ø 10 mm. forcella-forcella acciaio inox AISI316</Name>
     <Brand>Osculati</Brand>
     <Description>Girelle Ø 10 mm. forcella-forcella acciaio inox AISI317 Caratteristiche principali Terminali a forcella su entrambi i lati per un collegamento sicuro e versatile Acciaio inossidabile AISI 316, ideale per ambienti marini grazie all&apos;elevata resistenza alla </Description>
@@ -20513,6 +20479,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Igloo.png?v=1773341955</Image2>
     <Condition>nuovo</Condition>
     <ParentID>maniglia-igloo-120-150-qt</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Maniglia grigio chiaro 250 mm. PVC ral 7035</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Maniglia realizzata in PVC morbido con struttura interna rinforzata. Il fissaggio avviene tramite viti passanti occultate. La distanza tra i fori delle viti è di 195 mm. L mm H mm Colore 250 60 grigio chiaro 7035 Caratteristiche principali Colore grigio c</Description>
+    <OriginalPrice>19.57</OriginalPrice>
+    <Price>13.98</Price>
+    <Code>0340721</Code>
+    <Link>https://www.onautica.com/products/maniglia-grigio-chiaro-250-mm-pvc-ral-7035?variant=52577450852699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Maniglia_grigio_chiaro_250_mm._PVC_ral_7035.png?v=1773341702</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137043796</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-grigio-chiaro-250-mm-pvc-ral-7035</ParentID>
   </Offer>
   <Offer>
     <Name>Maniglia grigio scuro 250 mm. PVC</Name>
@@ -23224,6 +23206,24 @@
     <ParentID>girante-pompa-nitrile-o95-o-int-25-h63-5-12-pale</ParentID>
   </Offer>
   <Offer>
+    <Name>Girante Pompa Nitrile Ø95 · Ø int. 25 · H88.5 · 12 pale</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Girante Pompa Nitrile Ø95 · Ø int. 25 · H88.5 · 12 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo </Description>
+    <OriginalPrice>72.40</OriginalPrice>
+    <Price>60.35</Price>
+    <Code>1814170</Code>
+    <Link>https://www.onautica.com/products/girante-pompa-nitrile-o95-o-int-25-h88-5-12-pale?variant=53523717914971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814170.webp?v=1783362429</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10575404171611_mm1.webp?v=1783542582</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10575404171611_mm2.webp?v=1783542585</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-pompa-nitrile-o95-o-int-25-h88-5-12-pale</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Generatori e Motori Marini Onan - 12 MDJC / 15 MDJC 30 MDEH / 50 MDEG Motori Diesel 4 cilindri</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili con motori e generatori marini Onan (Cummins Onan). Questi componenti sono essenziali per garantire il corretto funzionamento del circuito di raffreddamento dei gruppi elettrogeni e motori di propulsion</Description>
@@ -24977,40 +24977,6 @@
     <Weight>4.31</Weight>
     <Condition>nuovo</Condition>
     <ParentID>gonfiatore-bravo-turbo-max-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gonfiatore elettrico GE BP-1 12V Bravo</Name>
-    <Brand>Bravo</Brand>
-    <Description>Dotato di un sistema di controllo che garantisce l’arresto automatico alla pressione selezionata. Con una portata di 160 l/min è in grado di gonfiare ad un pressione massima di 1200 mbar (18 psi). Il sistema di aggancio tubo-gonfiatore del tipo &quot;a vite&quot; l</Description>
-    <OriginalPrice>180.57</OriginalPrice>
-    <Price>138.90</Price>
-    <Code>66.449.11</Code>
-    <Link>https://www.onautica.com/products/offerta-gonfiatore-elettrico-ge-bp-1-12v-bravo?variant=52577459503451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Tender e Gommoni;Gonfiatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Gonfiatore_elettrico_GE_BP-1_12V_Bravo.jpg?v=1773341726</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137218835</EanCode>
-    <Weight>2.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-gonfiatore-elettrico-ge-bp-1-12v-bravo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gonfiatore elettrico per gommoni e sup</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il gonfiatore elettrico a due stadi è la soluzione ideale per gonfiare e sgonfiare rapidamente gommoni e SUP board. Grazie al controller digitale con display LCD, impostare la pressione desiderata è semplice e preciso. Il design compatto e la comoda manig</Description>
-    <OriginalPrice>154.89</OriginalPrice>
-    <Price>106.82</Price>
-    <Code>66.451.01</Code>
-    <Link>https://www.onautica.com/products/offerta-gonfiatore-elettrico-per-gommoni-e-sup?variant=52577459208539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Tender e Gommoni;Gonfiatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Gonfiatore_elettrico_per_gommoni_e_sup.png?v=1773341726</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137198557</EanCode>
-    <Weight>1.63</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-gonfiatore-elettrico-per-gommoni-e-sup</ParentID>
   </Offer>
   <Offer>
     <Name>Gonfiatore Tiger con manometro - max 1000 mbar (14,5 PSI) - 4 lt.</Name>
@@ -28428,24 +28394,6 @@
     <ParentID>paraprua-in-acciaio-inox-triangolare-34-5x35-cm</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Aeratrice Attwood Tsunami MK2 – Ricircolo Vivo (T500 / T800) - In linea 38 lt/min</Name>
-    <Brand>Attwood</Brand>
-    <Description>La Attwood Tsunami MK2 è la pompa elettrica di nuova generazione progettata per l&apos;aerazione e il ricircolo dell&apos;acqua nelle vasche del pescato e delle esche vive . Questa serie risolve i problemi comuni delle pompe tradizionali grazie a un design intellig</Description>
-    <OriginalPrice>76.50</OriginalPrice>
-    <Price>58.83</Price>
-    <Code>16.411.01</Code>
-    <Link>https://www.onautica.com/products/pompa-aeratrice-attwood-tsunami-mk2-vivo?variant=52513548796251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-aeratrice-attwood-tsunami-mk2-vivoinlinea.webp?v=1770979992</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.25</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-aeratrice-attwood-tsunami-mk2-vivomontaggiointerno.webp?v=1770979992</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-aeratrice-attwood-tsunami-mk2-vivogomito.webp?v=1770979992</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-aeratrice-attwood-tsunami-mk2-vivo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa aeratrice per vasche esche/pescato</Name>
     <Brand>Osculati</Brand>
     <Description>Fissaggio nella vasca tramite ventosa. Completa di tubo aeratore da fissare con ventose alla parete della vasca. Caratteristiche: V Portata l/min Consumo A Prevalenza m 12 22 1 3 Caratteristiche principali Funzionamento silenzioso, ideale per non disturba</Description>
@@ -29381,25 +29329,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>scalmiere-ottone-o-68-mm-gambo-o-14-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio di Espansione (Autoclave) in ABS 0,75 lt Osculati</Name>
-    <Brand>Osculati</Brand>
-    <Description>Serbatoio di Espansione (Autoclave) in ABS 0,75 lt Serbatoio di espansione (vaso di accumulo) in ABS per l’impianto idrico di bordo con pompa autoclave. Accumula acqua in pressione a valle della pompa: ai piccoli prelievi l’acqua esce dal serbatoio invece</Description>
-    <OriginalPrice>31.20</OriginalPrice>
-    <Price>25.97</Price>
-    <Code>16.127.00</Code>
-    <Link>https://www.onautica.com/products/serbatoio-di-espansione-autoclave-in-abs-0-75-lt-osculati?variant=53522563072347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.127.00.webp?v=1783358543</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137059070</EanCode>
-    <Weight>0.46</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10574961049947_0.webp?v=1783542574</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10574961049947_1.webp?v=1783542577</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-di-espansione-autoclave-in-abs-0-75-lt-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio di espansione Seaflo 0,75 lt.</Name>
@@ -31177,7 +31106,7 @@
     <Price>9.33</Price>
     <Code>50.209.00</Code>
     <Link>https://www.onautica.com/products/liquido-deodorante-antifermentativo-grey-water-per-acque-grigie-di-camper-e-barche-1-lt?variant=52577448788315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Comfort di Bordo;Prodotti Chimici WC</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Liquido_deodorante_antifermentativo_Grey_Water_per_acque_grigie_di_camper_e_barche_1_lt..png?v=1773341696</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -31363,23 +31292,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>manicotto-ridotto-ottone-femmina-femmina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Microsfere cave di vetro per laminazione</Name>
-    <Brand>Osculati</Brand>
-    <Description>Microsfere cave di vetro finissime, vengono impiegato per dare corpo senza aumentare troppo il peso, nelle cordonature e per colmare grosse imperfezioni superficiali. Aggiunto ad altri additivi, migliora la spatolabilità e la grana degli stucchi che così </Description>
-    <OriginalPrice>21.98</OriginalPrice>
-    <Price>14.65</Price>
-    <Code>65.533.01</Code>
-    <Link>https://www.onautica.com/products/microsfere-cave-di-vetro-per-laminazione?variant=52577528906075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.533.01.png?v=1773341946</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137169250</EanCode>
-    <Weight>0.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>microsfere-cave-di-vetro-per-laminazione</ParentID>
   </Offer>
   <Offer>
     <Name>Mocio Osculati ad Altissimo Assorbimento per Coperta</Name>
@@ -31725,6 +31637,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Polish_protettivo_con_cera_500_gr._3.png?v=1773341770</Image3>
     <Condition>nuovo</Condition>
     <ParentID>polish-wax-osculati-05kg-anti-uv</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Aeratrice Attwood Tsunami MK2 – Ricircolo Vivo (T500 / T800) - In linea 38 lt/min</Name>
+    <Brand>Attwood</Brand>
+    <Description>La Attwood Tsunami MK2 è la pompa elettrica di nuova generazione progettata per l&apos;aerazione e il ricircolo dell&apos;acqua nelle vasche del pescato e delle esche vive . Questa serie risolve i problemi comuni delle pompe tradizionali grazie a un design intellig</Description>
+    <OriginalPrice>76.50</OriginalPrice>
+    <Price>58.83</Price>
+    <Code>16.411.01</Code>
+    <Link>https://www.onautica.com/products/pompa-aeratrice-attwood-tsunami-mk2-vivo?variant=52513548796251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-aeratrice-attwood-tsunami-mk2-vivoinlinea.webp?v=1770979992</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.25</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-aeratrice-attwood-tsunami-mk2-vivomontaggiointerno.webp?v=1770979992</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-aeratrice-attwood-tsunami-mk2-vivogomito.webp?v=1770979992</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-aeratrice-attwood-tsunami-mk2-vivo</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di Sentina Attwood Tsunami MK2 – Sommergibile 12V (X-Air) - T500 - 32 lt/min.</Name>
@@ -36158,6 +36088,23 @@
     <ParentID>kit-resina-e-lana-di-vetro</ParentID>
   </Offer>
   <Offer>
+    <Name>Microsfere cave di vetro per laminazione</Name>
+    <Brand>Osculati</Brand>
+    <Description>Microsfere cave di vetro finissime, vengono impiegato per dare corpo senza aumentare troppo il peso, nelle cordonature e per colmare grosse imperfezioni superficiali. Aggiunto ad altri additivi, migliora la spatolabilità e la grana degli stucchi che così </Description>
+    <OriginalPrice>21.98</OriginalPrice>
+    <Price>14.65</Price>
+    <Code>65.533.01</Code>
+    <Link>https://www.onautica.com/products/microsfere-cave-di-vetro-per-laminazione?variant=52577528906075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/65.533.01.png?v=1773341946</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137169250</EanCode>
+    <Weight>0.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>microsfere-cave-di-vetro-per-laminazione</ParentID>
+  </Offer>
+  <Offer>
     <Name>Miscelatore Acqua Calda/Fredda T-Mixer con Attacchi da 3/8&quot;</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Miscelatore Acqua Calda/Fredda T-Mixer è un componente essenziale per la gestione efficiente dell&apos;impianto idrico di bordo. Progettato per offrire un controllo preciso della miscelazione della temperatura, questo set è la soluzione ideale per chi cerca</Description>
@@ -37039,24 +36986,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Salvagente_Baywatch_lifeguard_1.png?v=1773341741</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-salvagente-baywatch-lifeguard</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scaletta Biscaglina 5 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
-    <Brand>Osculati</Brand>
-    <Description>La scaletta biscaglina a 5 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in totale sicurezza. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato, garantisce robustezza, leggerezza e buon</Description>
-    <OriginalPrice>29.38</OriginalPrice>
-    <Price>20.98</Price>
-    <Code>49.524.05</Code>
-    <Link>https://www.onautica.com/products/scaletta-5-gradini-biscaglina-eco?variant=52577485357403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_5_gradini_biscaglina_eco.png?v=1773341807</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137042911</EanCode>
-    <Weight>0.55</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_5_gradini_biscaglina_eco_1.png?v=1773341809</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scaletta-5-gradini-biscaglina-eco</ParentID>
   </Offer>
   <Offer>
     <Name>Segnalatore Man-Overboard IKAROS Hansson Pyrotech (Luce + Fumo)</Name>
@@ -40782,6 +40711,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_4_gradini_biscaglina_eco_1.png?v=1773341809</Image2>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-4-gradini-biscaglina-eco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scaletta Biscaglina 5 Gradini – Scaletta in Corda Nylon e Policarbonato per Barca</Name>
+    <Brand>Osculati</Brand>
+    <Description>La scaletta biscaglina a 5 gradini è la soluzione pratica e resistente per salire e scendere dall&apos;imbarcazione in totale sicurezza. Realizzata con corda in nylon blu da 12 mm di diametro e gradini in policarbonato, garantisce robustezza, leggerezza e buon</Description>
+    <OriginalPrice>29.38</OriginalPrice>
+    <Price>20.98</Price>
+    <Code>49.524.05</Code>
+    <Link>https://www.onautica.com/products/scaletta-5-gradini-biscaglina-eco?variant=52577485357403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_5_gradini_biscaglina_eco.png?v=1773341807</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137042911</EanCode>
+    <Weight>0.55</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scaletta_5_gradini_biscaglina_eco_1.png?v=1773341809</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-5-gradini-biscaglina-eco</ParentID>
   </Offer>
   <Offer>
     <Name>Scaletta in Tubo Anticorodal - Leggera e Galleggiante - 3 Gradini</Name>
@@ -44702,23 +44649,6 @@
     <ParentID>kit-tubo-lavaggio-barca-tricotex-pistola-raccordi</ParentID>
   </Offer>
   <Offer>
-    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
-    <OriginalPrice>45.40</OriginalPrice>
-    <Price>26.70</Price>
-    <Code>57.176.09</Code>
-    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007422</EanCode>
-    <Weight>0.28</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
     <Brand>Osculati</Brand>
     <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
@@ -48561,6 +48491,23 @@
     <Weight>0.01</Weight>
     <Condition>nuovo</Condition>
     <ParentID>guida-posteriore-per-strozzascotta-via25-10-e-via25-50</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
+    <OriginalPrice>45.40</OriginalPrice>
+    <Price>26.70</Price>
+    <Code>57.176.09</Code>
+    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007422</EanCode>
+    <Weight>0.28</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
   </Offer>
   <Offer>
     <Name>Moschettone Spi Sgancio Rapido Inox 316 – 74mm con Grillo</Name>
