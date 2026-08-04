@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-04T06:31:38.532Z -->
-<!-- Offerte: 2941 -->
+<!-- Generato: 2026-08-04T10:31:18.448Z -->
+<!-- Offerte: 2936 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo Ombrello - 1.5 Kg.</Name>
@@ -240,6 +240,23 @@
     <EanCode>8033626095930</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>basetta-piana-bps-inox-aisi-316-perno-sfilabile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Borsone Vuoto per Dotazione di Bordo - 4 persone / 150N</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo articolo è il solo borsone/marsupio , progettato per contenere le dotazioni di sicurezza obbligatorie (kit navigazione) per natanti e imbarcazioni. Fa parte della serie di kit navigazione Marsupio, ed è ideale per chi necessita di sostituire il con</Description>
+    <OriginalPrice>45.51</OriginalPrice>
+    <Price>32.51</Price>
+    <Code>22.409.37</Code>
+    <Link>https://www.onautica.com/products/solo-borsone-marsupio-kit-navigazione-4-12?variant=51800021041499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Borsone_marsupio_4_persone.png?v=1773341634</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137017971</EanCode>
+    <Weight>1.35</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>solo-borsone-marsupio-kit-navigazione-4-12</ParentID>
   </Offer>
   <Offer>
     <Name>Borsone Vuoto per Dotazione di Bordo - 6 persone / 100N</Name>
@@ -1514,23 +1531,6 @@
     <Condition>nuovo</Condition>
     <ParentID>giacca-lavoro-nautica-ocean-offshore-pro-verde</ParentID>
     <Size>M</Size>
-  </Offer>
-  <Offer>
-    <Name>Giubbotto Salvataggio Cane Taglia L (25-40 Kg) – Con Maniglia Dorsale</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Cintura di Salvataggio Pet Taglia L (Cod. 3014002) è un dispositivo di sicurezza di qualità eccezionale, progettato specificamente per proteggere il tuo cane a bordo e in acqua. Questa misura è ideale per cani di taglia medio-grande con un peso compres</Description>
-    <OriginalPrice>36.29</OriginalPrice>
-    <Price>25.92</Price>
-    <Code>3014002</Code>
-    <Link>https://www.onautica.com/products/giubbotto-salvataggio-cane-taglia-l-25-40kg?variant=52577532346715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giubbotto-salvataggio-cane.webp?v=1773341957</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626082329</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giubbotto-salvataggio-cane-taglia-l-25-40kg.png?v=1773341959</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>giubbotto-salvataggio-cane-taglia-l-25-40kg</ParentID>
   </Offer>
   <Offer>
     <Name>Giubbotto Salvataggio Cane Taglia M (10-25 Kg) – Con Maniglia Dorsale</Name>
@@ -4099,23 +4099,6 @@
     <Weight>5.64</Weight>
     <Condition>nuovo</Condition>
     <ParentID>rullo-basculante-40-mm-da-6-rulli</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Stivali Antinfortunistici in PVC Dunlop Work-Its – Classe S5 con Puntale e Lamina in Acciaio - 39</Name>
-    <Brand>Ferramenta Sardo Piemontese</Brand>
-    <Description>Gli Stivali Antinfortunistici Dunlop Work-Its rappresentano la scelta solida e sicura per chi opera in ambienti difficili, dai cantieri navali alle sale macchine, fino alla pesca professionale. Realizzati in robusto PVC, offrono una protezione totale graz</Description>
-    <OriginalPrice>35.90</OriginalPrice>
-    <Price>22.45</Price>
-    <Code>10150</Code>
-    <Link>https://www.onautica.com/products/stivali-antinfortunistici-dunlop-work-its-s5?variant=52519661666651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stivali-antinfortunistici-dunlop-work-its-s5.png?v=1768930888</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8011779267169</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>stivali-antinfortunistici-dunlop-work-its-s5</ParentID>
-    <Size>39</Size>
   </Offer>
   <Offer>
     <Name>Stivali Antinfortunistici in PVC Dunlop Work-Its – Classe S5 con Puntale e Lamina in Acciaio - 40</Name>
@@ -23824,24 +23807,6 @@
     <ParentID>giranti-ricambio-motori-parsun</ParentID>
   </Offer>
   <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 9.9/15 HP</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
-    <OriginalPrice>18.40</OriginalPrice>
-    <Price>15.35</Price>
-    <Code>1814244</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718372699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051523</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-parsun</ParentID>
-  </Offer>
-  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 20/25 HP</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
@@ -24014,24 +23979,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu.png?v=1767375902</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051844</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu8.png?v=1767375902</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu9.png?v=1767375902</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-ricambio-motori-tohatsu</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Giranti di Ricambio per Motori Fuoribordo Tohatsu (2T / 4T) - 1814306</Name>
-    <Brand>Tohatsu</Brand>
-    <Description>Gamma di giranti pompa acqua di ricambio compatibili con motori fuoribordo Tohatsu . Questi componenti sono essenziali per garantire il corretto raffreddamento del motore e prevenire surriscaldamenti. I ricambi sono disponibili per le principali serie di </Description>
-    <OriginalPrice>19.00</OriginalPrice>
-    <Price>15.85</Price>
-    <Code>1814306</Code>
-    <Link>https://www.onautica.com/products/giranti-ricambio-motori-tohatsu?variant=52525760414043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu.png?v=1767375902</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626051882</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu8.png?v=1767375902</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu9.png?v=1767375902</Image3>
     <Condition>nuovo</Condition>
@@ -28772,7 +28719,7 @@
     <Price>14.78</Price>
     <Code>16.122.02</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-europump-ii-sommergibile-rina?variant=52513549517147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_64_lt_min._Europump_II_1000_12V.png?v=1773341769</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -42591,24 +42538,6 @@
     <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
   </Offer>
   <Offer>
-    <Name>Timoneria T85 standard type Ultraflex coprimozzo bianco</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T85 standard type di Ultraflex è la soluzione ideale per chi cerca affidabilità e p</Description>
-    <OriginalPrice>123.86</OriginalPrice>
-    <Price>85.42</Price>
-    <Code>39213M</Code>
-    <Link>https://www.onautica.com/products/offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco?variant=52577465565531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco.png?v=1773341746</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164392139</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_7.png?v=1773341746</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_5.png?v=1773341748</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Timoneria T91 high performance Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T91 High Performance di Ultraflex rappresenta la soluzione ideale per chi cerca pre</Description>
@@ -46486,23 +46415,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_50_mm._imbarco_acciaio_inox_fuel_completo_di_chiavetta_46.png?v=1773341842</Image2>
     <Condition>nuovo</Condition>
     <ParentID>tappo-o-50-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 38 mm. carburante</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tappo di imbarco per carburante in acciaio inox, microfuso e lucidato a specchio, conforme alle normative R.I.N.A. Dotato di apertura a leva a ribalta e flangia a copertura totale delle viti per un&apos;installazione curata e sicura. Materiale: acciaio inox mi</Description>
-    <OriginalPrice>77.29</OriginalPrice>
-    <Price>54.05</Price>
-    <Code>20.568.31</Code>
-    <Link>https://www.onautica.com/products/tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave?variant=52577493287259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_di_imbarco_fuel_38_mm._in_acciaio_inox_con_serratura_regolamentare_RINA_chiave.png?v=1773341834</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137036965</EanCode>
-    <Weight>0.76</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 50 mm. carburante</Name>
@@ -50475,7 +50387,7 @@
     <Price>6.90</Price>
     <Code>54270-06/0</Code>
     <Link>https://www.onautica.com/products/tuta-dupont-tyvek-200-easysafe?variant=52516910235995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Accessori Verniciatura</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/dupont-tyvek-200-easysafe.png?v=1769860415</Image>
     <ShippingCost>5.90</ShippingCost>
