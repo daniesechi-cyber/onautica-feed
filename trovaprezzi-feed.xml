@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-04T14:31:30.070Z -->
-<!-- Offerte: 2933 -->
+<!-- Generato: 2026-08-04T18:11:29.463Z -->
+<!-- Offerte: 2932 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -1053,23 +1053,6 @@
     <EanCode>8033626284433</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>ferma-prua-domar-150x70xh80-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fermo di Prua Completo H 50 cm – Sistema Blocca-Prua per Carrello Porta-Barche</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fermo di prua completo H. 50 cm Il fermo di prua completo da 50 cm è un componente essenziale per il rimessaggio e il trasporto dell&apos;imbarcazione, progettato per bloccare e stabilizzare la prua durante le fasi di alaggio e stivaggio su carrello. A chi è r</Description>
-    <OriginalPrice>54.59</OriginalPrice>
-    <Price>38.99</Price>
-    <Code>10080</Code>
-    <Link>https://www.onautica.com/products/fermo-di-prua-completo-h-50-cm?variant=52577435976027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fermo_di_prua_completo_H._50_cm.jpg?v=1773341655</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137069574</EanCode>
-    <Weight>3.36</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>fermo-di-prua-completo-h-50-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Fermo di prua, versione regolabile, tipo pesante</Name>
@@ -28669,11 +28652,11 @@
     <Link>https://www.onautica.com/products/pompa-sentina-europump-ii-sommergibile-rina?variant=52513549517147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_64_lt_min._Europump_II_1000_12V.png?v=1773341769</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_32_lt_min._Europump_II_550_12V.png?v=1773341769</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137044649</EanCode>
     <Weight>0.33</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_32_lt_min._Europump_II_550_12V.png?v=1773341769</Image2>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_di_sentina_64_lt_min._Europump_II_1000_12V.png?v=1773341769</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.122.06.png?v=1773341769</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-sentina-europump-ii-sommergibile-rina</ParentID>
@@ -30725,39 +30708,6 @@
     <Weight>0.39</Weight>
     <Condition>nuovo</Condition>
     <ParentID>gelcoat-spray-bianco-400-ml-ral-9003</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gelcoat Spray TK Alta Densità – 400 ml - Bianco Sporco</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Gelcoat Spray TK è una vernice tecnica ad alta densità specificamente formulata per il ritocco e il ripristino di superfici in vetroresina rivestite con Gelcoat e resina poliestere. Grazie alla sua formula professionale, permette di intervenire su graf</Description>
-    <OriginalPrice>31.86</OriginalPrice>
-    <Price>22.76</Price>
-    <Code>5724824</Code>
-    <Link>https://www.onautica.com/products/gelcoat-spray-tk-alta-densita-bianco?variant=52513524613467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat-spray-tk-bianco-400ml.png?v=1773341957</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626255532</EanCode>
-    <Weight>0.45</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gelcoat Spray TK Alta Densità – 400 ml - Bianco Puro</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Gelcoat Spray TK è una vernice tecnica ad alta densità specificamente formulata per il ritocco e il ripristino di superfici in vetroresina rivestite con Gelcoat e resina poliestere. Grazie alla sua formula professionale, permette di intervenire su graf</Description>
-    <OriginalPrice>25.05</OriginalPrice>
-    <Price>17.89</Price>
-    <Code>5724826</Code>
-    <Link>https://www.onautica.com/products/gelcoat-spray-tk-alta-densita-bianco?variant=52525696221531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat-spray-tk-bianco-400ml.png?v=1773341957</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705121278</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Gomito a 90° Femmina-Femmina in Acciaio Inox AISI 316 - 1&quot;</Name>
@@ -35924,6 +35874,39 @@
     <Weight>0.14</Weight>
     <Condition>nuovo</Condition>
     <ParentID>stucco-gelcoat-bianco-monocomponente-100-gr</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gelcoat Spray TK Alta Densità – 400 ml - Bianco Sporco</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Gelcoat Spray TK è una vernice tecnica ad alta densità specificamente formulata per il ritocco e il ripristino di superfici in vetroresina rivestite con Gelcoat e resina poliestere. Grazie alla sua formula professionale, permette di intervenire su graf</Description>
+    <OriginalPrice>31.86</OriginalPrice>
+    <Price>22.76</Price>
+    <Code>5724824</Code>
+    <Link>https://www.onautica.com/products/gelcoat-spray-tk-alta-densita-bianco?variant=52513524613467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat-spray-tk-bianco-400ml.png?v=1773341957</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626255532</EanCode>
+    <Weight>0.45</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gelcoat Spray TK Alta Densità – 400 ml - Bianco Puro</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Gelcoat Spray TK è una vernice tecnica ad alta densità specificamente formulata per il ritocco e il ripristino di superfici in vetroresina rivestite con Gelcoat e resina poliestere. Grazie alla sua formula professionale, permette di intervenire su graf</Description>
+    <OriginalPrice>25.05</OriginalPrice>
+    <Price>17.89</Price>
+    <Code>5724826</Code>
+    <Link>https://www.onautica.com/products/gelcoat-spray-tk-alta-densita-bianco?variant=52525696221531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Resine e Stucchi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gelcoat-spray-tk-bianco-400ml.png?v=1773341957</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705121278</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>gelcoat-spray-tk-alta-densita-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Innesti Carburante Johnson/Evinrude - Serie Completa Maschio e Femmina - Innesto Maschio per Serbatoio</Name>
@@ -41783,186 +41766,6 @@
     <ParentID>stereo-marino-boss-mgr250b-bluetooth</ParentID>
   </Offer>
   <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore livello carburante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>22.89</Price>
-    <Code>2361006</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52513569866075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>802-00190</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore livello acqua</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>22.89</Price>
-    <Code>2361016</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007383387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivelloacqua.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore livello acque grigie/nere</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>22.89</Price>
-    <Code>2361026</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007416155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivelloacquegrigie-nere.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>802-00200</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore pressione olio 0-5 bar</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>22.89</Price>
-    <Code>2361045</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007448923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio0-10.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore pressione olio 0-10 bar</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>22.89</Price>
-    <Code>2361051</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007481691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio0-10.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137040580</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore pressione olio 0-30 bar</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>26.35</Price>
-    <Code>2361054</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007514459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Voltmetro 12/24V</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>26.35</Price>
-    <Code>2361060</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007579995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Voltmetro12-24V.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626325228</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Contaore</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>32.28</Price>
-    <Code>2361096</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007678299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/contaoredigitale.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore angolo di barra</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>26.35</Price>
-    <Code>2361071</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007711067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore trim 0-190 Ohm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>26.35</Price>
-    <Code>2361087</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007743835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore trim 167-10 Ohm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
-    <Price>26.35</Price>
-    <Code>2361088</Code>
-    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007776603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
-  </Offer>
-  <Offer>
     <Name>Strumentazione Nautica ECMS White Chrome IP67 - Acciaio Inox 316 - Indicatore livello carburante</Name>
     <Brand>Motomarine</Brand>
     <Description>La strumentazione ECMS White Chrome offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo eleganza cromata e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale pe</Description>
@@ -44666,22 +44469,6 @@
     <ParentID>maniglia-winch-galleggiante-250mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
-    <Brand>Antal</Brand>
-    <Description>La Manovella Antal Single-Grip da 200 mm (8&quot;) rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. Il corpo è realizzato in alluminio forgiato a caldo e presenta una serie di fori </Description>
-    <OriginalPrice>126.77</OriginalPrice>
-    <Price>93.90</Price>
-    <Code>3751201</Code>
-    <Link>https://www.onautica.com/products/manovella-antal-single-grip-200mm?variant=52577515405659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626109590</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>manovella-antal-single-grip-200mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Midland Alan 100 Plus B – CB Veicolare Compatto 40 Canali AM/FM</Name>
     <Brand>MY-X</Brand>
     <Description>Il Midland Alan 100 Plus B è il ricetrasmettitore che dal 1998 rappresenta il punto di riferimento per chi cerca l&apos;essenzialità e l&apos;affidabilità. È il dispositivo ideale per affacciarsi al mondo del baracchino: semplice, immediato e dotato di tutto ciò ch</Description>
@@ -46056,6 +45843,186 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/strozzatore-camme-lewmar-cime-4-12mm.webp?v=1775146680</Image2>
     <Condition>nuovo</Condition>
     <ParentID>strozzatore-camme-lewmar-cime-4-12mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore livello carburante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>22.89</Price>
+    <Code>2361006</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52513569866075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>802-00190</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore livello acqua</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>22.89</Price>
+    <Code>2361016</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007383387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivelloacqua.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore livello acque grigie/nere</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>22.89</Price>
+    <Code>2361026</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007416155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivelloacquegrigie-nere.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>802-00200</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore pressione olio 0-5 bar</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>22.89</Price>
+    <Code>2361045</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007448923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio0-10.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore pressione olio 0-10 bar</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>22.89</Price>
+    <Code>2361051</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007481691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio0-10.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137040580</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore pressione olio 0-30 bar</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>26.35</Price>
+    <Code>2361054</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007514459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Voltmetro 12/24V</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>26.35</Price>
+    <Code>2361060</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007579995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Voltmetro12-24V.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626325228</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Contaore</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>32.28</Price>
+    <Code>2361096</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007678299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/contaoredigitale.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore angolo di barra</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>26.35</Price>
+    <Code>2361071</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007711067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore trim 0-190 Ohm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>26.35</Price>
+    <Code>2361087</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007743835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strumentazione Nautica ECMS All Black IP67 - Acciaio Inox 316 - Indicatore trim 167-10 Ohm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La strumentazione ECMS All Black offre una gamma completa di manometri marini progettati per l&apos;uso professionale, unendo estetica moderna e massima durabilità in ambiente marino. Funziona con un range di tensione universale 9-32V , rendendola ideale per i</Description>
+    <Price>26.35</Price>
+    <Code>2361088</Code>
+    <Link>https://www.onautica.com/products/strumentazione-nautica-ecms-all-black?variant=52540007776603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorelivellocarburante.png?v=1765381431</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Indicatorepressioneolio.png?v=1765381431</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AmperometroanalogicoconShunt.png?v=1765381431</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>strumentazione-nautica-ecms-all-black</ParentID>
   </Offer>
   <Offer>
     <Name>Supporto Abbattibile Rako in Acciaio Inox per Tavoli e Mensole</Name>
@@ -48508,6 +48475,22 @@
     <Weight>0.28</Weight>
     <Condition>nuovo</Condition>
     <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
+    <Brand>Antal</Brand>
+    <Description>La Manovella Antal Single-Grip da 200 mm (8&quot;) rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. Il corpo è realizzato in alluminio forgiato a caldo e presenta una serie di fori </Description>
+    <OriginalPrice>126.77</OriginalPrice>
+    <Price>93.90</Price>
+    <Code>3751201</Code>
+    <Link>https://www.onautica.com/products/manovella-antal-single-grip-200mm?variant=52577515405659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626109590</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>manovella-antal-single-grip-200mm</ParentID>
   </Offer>
   <Offer>
     <Name>Moschettone Spi Sgancio Rapido Inox 316 – 74mm con Grillo</Name>
