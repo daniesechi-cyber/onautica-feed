@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-03T18:11:16.951Z -->
-<!-- Offerte: 2944 -->
+<!-- Generato: 2026-08-04T06:31:38.532Z -->
+<!-- Offerte: 2941 -->
 <Products>
   <Offer>
     <Name>Ancora Acciaio Zincato tipo Ombrello - 1.5 Kg.</Name>
@@ -240,23 +240,6 @@
     <EanCode>8033626095930</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>basetta-piana-bps-inox-aisi-316-perno-sfilabile</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Borsone Vuoto per Dotazione di Bordo - 4 persone / 150N</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo articolo è il solo borsone/marsupio , progettato per contenere le dotazioni di sicurezza obbligatorie (kit navigazione) per natanti e imbarcazioni. Fa parte della serie di kit navigazione Marsupio, ed è ideale per chi necessita di sostituire il con</Description>
-    <OriginalPrice>45.51</OriginalPrice>
-    <Price>32.51</Price>
-    <Code>22.409.37</Code>
-    <Link>https://www.onautica.com/products/solo-borsone-marsupio-kit-navigazione-4-12?variant=51800021041499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Borsone_marsupio_4_persone.png?v=1773341634</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137017971</EanCode>
-    <Weight>1.35</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>solo-borsone-marsupio-kit-navigazione-4-12</ParentID>
   </Offer>
   <Offer>
     <Name>Borsone Vuoto per Dotazione di Bordo - 6 persone / 100N</Name>
@@ -22982,7 +22965,7 @@
     <ParentID>girante-pompa-neoprene-o57-o-int-12-h29-12-pale</ParentID>
   </Offer>
   <Offer>
-    <Name>Girante Pompa Neoprene Ø57 · Ø int. 16 �� H31.5 · 12 pale</Name>
+    <Name>Girante Pompa Neoprene Ø57 · Ø int. 16 · H31.5 · 12 pale</Name>
     <Brand>Motomarine</Brand>
     <Description>Girante Pompa Neoprene Ø57 · Ø int. 16 · H31.5 · 12 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo</Description>
     <OriginalPrice>34.90</OriginalPrice>
@@ -34283,7 +34266,7 @@
   <Offer>
     <Name>Boetta Luminosa Solas/MED Sirius – Attivazione Salina</Name>
     <Brand>Motomarine</Brand>
-    <Description>La Boetta Luminosa Sirius �� un dispositivo di sicurezza salvavita fondamentale da abbinare al salvagente anulare della tua imbarcazione. È un prodotto rigorosamente omologato secondo le norme internazionali SOLAS e la direttiva comunitaria M.E.D. 96/98/C</Description>
+    <Description>La Boetta Luminosa Sirius è un dispositivo di sicurezza salvavita fondamentale da abbinare al salvagente anulare della tua imbarcazione. È un prodotto rigorosamente omologato secondo le norme internazionali SOLAS e la direttiva comunitaria M.E.D. 96/98/CE</Description>
     <OriginalPrice>30.57</OriginalPrice>
     <Price>22.31</Price>
     <Code>3020006</Code>
@@ -39798,23 +39781,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626229298</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50/60 / 4T 11.80 x 11 (Plus) - 11.80 x 11 (Plus)</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>175.50</OriginalPrice>
-    <Price>146.26</Price>
-    <Code>495331111811</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305545051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375018060</EanCode>
     <Weight>1.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
@@ -49098,23 +49064,6 @@
     <Weight>1.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>zerbino-poliuretano-40x68-cm-ancora</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Zerbino poliuretano 40x68 cm. Marlin</Name>
-    <Brand>Marlin</Brand>
-    <Description>Questo zerbino mezzaluna Format misura 40x68 cm. è realizzato in poliuretano espanso a cellule chiuse, garantendo una struttura compatta e durevole. La superficie è rivestita con uno strato morbido di velour colorato, che assicura una piacevole sensazione</Description>
-    <OriginalPrice>30.17</OriginalPrice>
-    <Price>21.55</Price>
-    <Code>23.909.08</Code>
-    <Link>https://www.onautica.com/products/zerbinetto-poliuretano-40x68-cm-marlin?variant=52577500823899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Zerbini Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/zerbinomarlin.png?v=1773341858</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137113413</EanCode>
-    <Weight>1.16</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>zerbinetto-poliuretano-40x68-cm-marlin</ParentID>
   </Offer>
   <Offer>
     <Name>Zerbino poliuretano 40x68 cm. Pirata</Name>
