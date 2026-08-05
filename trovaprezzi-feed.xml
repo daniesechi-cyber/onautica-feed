@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-04T18:11:29.463Z -->
-<!-- Offerte: 2932 -->
+<!-- Generato: 2026-08-05T06:31:37.514Z -->
+<!-- Offerte: 2937 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -119,23 +119,6 @@
     <EanCode>8033626095930</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>basetta-piana-bps-inox-aisi-316-perno-sfilabile</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Borsone Vuoto per Dotazione di Bordo - 4 persone / 150N</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo articolo è il solo borsone/marsupio , progettato per contenere le dotazioni di sicurezza obbligatorie (kit navigazione) per natanti e imbarcazioni. Fa parte della serie di kit navigazione Marsupio, ed è ideale per chi necessita di sostituire il con</Description>
-    <OriginalPrice>45.51</OriginalPrice>
-    <Price>32.51</Price>
-    <Code>22.409.37</Code>
-    <Link>https://www.onautica.com/products/solo-borsone-marsupio-kit-navigazione-4-12?variant=51800021041499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Borsone_marsupio_4_persone.png?v=1773341634</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137017971</EanCode>
-    <Weight>1.35</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>solo-borsone-marsupio-kit-navigazione-4-12</ParentID>
   </Offer>
   <Offer>
     <Name>Borsone Vuoto per Dotazione di Bordo - 6 persone / 100N</Name>
@@ -2194,8 +2177,8 @@
     <Name>Pompa Manuale Originale Jabsco Twist &apos;n&apos; Lock per WC Nautico</Name>
     <Brand>Jabsco</Brand>
     <Description>La Pompa Manuale Originale Jabsco (PAR) è il componente di ricambio fondamentale per la manutenzione e il ripristino dei WC nautici manuali. Progettata per garantire affidabilità e igiene a bordo, questa pompa integra tutte le caratteristiche tecniche ava</Description>
-    <OriginalPrice>171.32</OriginalPrice>
-    <Price>118.15</Price>
+    <OriginalPrice>163.57</OriginalPrice>
+    <Price>112.81</Price>
     <Code>0392904030</Code>
     <Link>https://www.onautica.com/products/pompa-manuale-originale-jabsco-twist-n-lock?variant=52577462485339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3038,6 +3021,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137068003</EanCode>
     <Weight>2.46</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio.png?v=1764692246</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_c.png?v=1764691347</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ruotino-appoggio-anteriore-carrelli-rimorchi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ruotino di Appoggio Anteriore per Carrelli Portabarche - 150 Kg.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il ruotino di appoggio anteriore (o jockey wheel) è un accessorio fondamentale per la manovrabilità e il corretto stazionamento dei carrelli porta imbarcazioni. Permette di sollevare, abbassare e spostare manualmente l&apos;asse del rimorchio quando non è agga</Description>
+    <OriginalPrice>46.62</OriginalPrice>
+    <Price>33.30</Price>
+    <Code>750808</Code>
+    <Link>https://www.onautica.com/products/ruotino-appoggio-anteriore-carrelli-rimorchi?variant=52543443894619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_b.png?v=1764692547</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137067976</EanCode>
+    <Weight>3.60</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio.png?v=1764692246</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ruotino_regolabile_rimorchio_c.png?v=1764691347</Image3>
     <Condition>nuovo</Condition>
@@ -11729,8 +11731,8 @@
     <Name>Cavo Elettrico Marino per Batterie in Rame Stagnato Nero - 25 mm2</Name>
     <Brand>Osculati</Brand>
     <Description>Questo cavo è la scelta professionale e certificata per i collegamenti dei poli positivi (rossi) delle batterie a bordo, garantendo la massima sicurezza elettrica e una resistenza superiore agli agenti marini. Caratteristiche di Sicurezza e Protezione (Ce</Description>
-    <OriginalPrice>12.30</OriginalPrice>
-    <Price>8.75</Price>
+    <OriginalPrice>14.80</OriginalPrice>
+    <Price>10.54</Price>
     <Code>14.381.25</Code>
     <Link>https://www.onautica.com/products/cavo-elettrico-marino-per-batterie-in-rame-stagnato-nero?variant=52517170577755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -12635,6 +12637,23 @@
     <ParentID>interruttore-avvio-motore-on-off</ParentID>
   </Offer>
   <Offer>
+    <Name>Interruttore di sicurezza universale, clip di stacco + chiave sicurezza</Name>
+    <Brand>Osculati</Brand>
+    <Description>Stacco automatico/interruttore di sicurezza regolamentare per accensione con sistema a clip sfilabile, universale in quanto può sia aprire che chiudere il circuito a seconda dei terminali che vengono collegati. Caratteristiche principali Sistema a clip sf</Description>
+    <OriginalPrice>15.90</OriginalPrice>
+    <Price>11.36</Price>
+    <Code>2102012</Code>
+    <Link>https://www.onautica.com/products/interruttore-di-sicurezza-universale-grey-button?variant=52577445216603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Interruttore_di_sicurezza_universale_grey_button.png?v=1773341684</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137001697</EanCode>
+    <Weight>0.06</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>interruttore-di-sicurezza-universale-grey-button</ParentID>
+  </Offer>
+  <Offer>
     <Name>Interruttore impermeabile bipolare (ON)-OFF-ON IP55 Signal 5 terminali</Name>
     <Brand>Motomarine</Brand>
     <Description>Interruttori basculanti 12V-16A impermeabili IP55 completi di luce LED e etichette. 5 Terminali\n\nFunzione: (ON)-OFF-ON\nNumero Terminali: 5\nTipo: Bipolare Caratteristiche principali Protezione IP55: resistente agli spruzzi d&apos;acqua e alla polvere, ideal</Description>
@@ -12995,6 +13014,23 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>kit-ormeggio-completo-cima-parabordi-e-copriparabordi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Riparazione Gommoni Sup Tender per PVC con Tessuto - Bianco</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo kit ADECO è la soluzione professionale specifica per la riparazione definitiva di **gommoni, tender, sup e manufatti realizzati in tessuto PVC**. Contenuto e Caratteristiche Principali (Versione PVC): Tipo Collante: Kit composto da **collante e att</Description>
+    <OriginalPrice>62.17</OriginalPrice>
+    <Price>36.57</Price>
+    <Code>66.234.03</Code>
+    <Link>https://www.onautica.com/products/kit-riparazione-gommoni-sup-tender-per-pvc-con-tessuto?variant=52513536901467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_PVC_per_gommoni_-_tessuto_bianco_PVC.png?v=1773341610</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137170133</EanCode>
+    <Weight>0.37</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-riparazione-gommoni-sup-tender-per-pvc-con-tessuto</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Riparazione Gommoni Sup Tender per PVC con Tessuto - Grigio</Name>
@@ -14861,8 +14897,8 @@
     <Name>Cleaner 264 – Pulitore per Tessuti PVC e Poliuretano (Pre-Incollaggio)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Cleaner 264 è un solvente tecnico specifico formulato per la pulizia profonda e la preparazione delle superfici in tessuto PVC e Poliuretano (PU). Questo prodotto è un passaggio fondamentale e indispensabile prima di qualsiasi operazione di riparazione</Description>
-    <OriginalPrice>15.80</OriginalPrice>
-    <Price>10.51</Price>
+    <OriginalPrice>19.10</OriginalPrice>
+    <Price>12.75</Price>
     <Code>10123</Code>
     <Link>https://www.onautica.com/products/cleaner-264-pulitore-pvc-poliuretano?variant=52577433354587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -19997,22 +20033,6 @@
     <ParentID>girante-pompa-marco-16300100</ParentID>
   </Offer>
   <Offer>
-    <Name>Girante Pompa Neoprene MTM (rif. 1814252)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Girante Pompa rif. La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo soggetto a usura e va sostituito con </Description>
-    <OriginalPrice>14.70</OriginalPrice>
-    <Price>12.24</Price>
-    <Code>1814252</Code>
-    <Link>https://www.onautica.com/products/giranti-neoprene?variant=53523718111579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/g8_1b7db36a-15b0-4074-b063-61a540c816cb.webp?v=1783432823</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>giranti-neoprene</ParentID>
-  </Offer>
-  <Offer>
     <Name>Girante Pompa Neoprene Ø51 · Ø int. 10 · H22 · 6 pale</Name>
     <Brand>Motomarine</Brand>
     <Description>Girante Pompa Neoprene Ø51 · Ø int. 10 · H22 · 6 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo so</Description>
@@ -20517,8 +20537,8 @@
     <Name>Molla a Gas in Acciaio Inox Occhio-Occhio (Ammortizzatore per Portelli) - 18 kg. - L 355 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di molle a gas è realizzata in acciaio inox ed è progettata per sostenere e ammortizzare il peso di portelli, gavoni, cofani motore e coperchi della barca. I terminali sono ad occhio , con un foro di 8 mm per un fissaggio sicuro tramite bullo</Description>
-    <OriginalPrice>36.47</OriginalPrice>
-    <Price>26.05</Price>
+    <OriginalPrice>38.48</OriginalPrice>
+    <Price>27.49</Price>
     <Code>38.009.05</Code>
     <Link>https://www.onautica.com/products/molla-gas-acciaio-inox-occhio-foro8mm?variant=52542752489819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -21019,24 +21039,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626023551</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>supporti-passamano-classici-inox-base-ovale</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Supporti Passamano Classici in Acciaio Inox da Fusione (Base Ovale) - Ø 22 mm. / Terminale</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di supporti passamano è la scelta classica ed elegante per il fissaggio di corrimano, pulpiti e draglie. Sono realizzati in Acciaio Inox da fusione per garantire la massima resistenza strutturale e alla corrosione. Caratteristiche Principali:</Description>
-    <OriginalPrice>15.39</OriginalPrice>
-    <Price>10.99</Price>
-    <Code>0621822</Code>
-    <Link>https://www.onautica.com/products/supporti-passamano-classici-inox-base-ovale?variant=51840958431579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_d.png?v=1764784939</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023544</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_b.png?v=1764784939</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SUPPORTI_PASSAMANO_CLASSICI_IN_ACCIAIO_INOX_c.png?v=1764784939</Image3>
     <Condition>nuovo</Condition>
@@ -22864,6 +22866,22 @@
     <ParentID>faro-orientabile-ocean-halogen-11-rc-12-24v</ParentID>
   </Offer>
   <Offer>
+    <Name>Girante Pompa Neoprene MTM (rif. 1814252)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Girante Pompa rif. La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo soggetto a usura e va sostituito con </Description>
+    <OriginalPrice>14.70</OriginalPrice>
+    <Price>12.24</Price>
+    <Code>1814252</Code>
+    <Link>https://www.onautica.com/products/giranti-neoprene?variant=53523718111579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/g8_1b7db36a-15b0-4074-b063-61a540c816cb.webp?v=1783432823</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-neoprene</ParentID>
+  </Offer>
+  <Offer>
     <Name>Girante Pompa Neoprene Ø40 · Ø int. 8.1 · H19 · 6 pale</Name>
     <Brand>Motomarine</Brand>
     <Description>Girante Pompa Neoprene Ø40 · Ø int. 8.1 · H19 · 6 pale La girante è il componente in gomma flessibile della pompa di raffreddamento del motore: ruotando dentro il corpo pompa, fa circolare l&apos;acqua che raffredda il propulsore. Essendo in gomma è un pezzo s</Description>
@@ -24671,8 +24689,8 @@
     <Name>Giubbotto di Salvataggio 100N entro 6 Miglia - 15&lt;&gt;40 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Assicurati la massima tranquillità a bordo con questo giubbotto di salvataggio, progettato per offrire protezione affidabile a tutta la famiglia durante la navigazione costiera. Questo salvagente, con una galleggiabilità di 100 Newton , è omologato second</Description>
-    <OriginalPrice>25.80</OriginalPrice>
-    <Price>13.58</Price>
+    <OriginalPrice>27.00</OriginalPrice>
+    <Price>14.19</Price>
     <Code>3010101</Code>
     <Link>https://www.onautica.com/products/cintura-salvagente-100n?variant=52530111086939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -24960,6 +24978,40 @@
     <Weight>4.31</Weight>
     <Condition>nuovo</Condition>
     <ParentID>gonfiatore-bravo-turbo-max-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gonfiatore elettrico GE BP-1 12V Bravo</Name>
+    <Brand>Bravo</Brand>
+    <Description>Dotato di un sistema di controllo che garantisce l’arresto automatico alla pressione selezionata. Con una portata di 160 l/min è in grado di gonfiare ad un pressione massima di 1200 mbar (18 psi). Il sistema di aggancio tubo-gonfiatore del tipo &quot;a vite&quot; l</Description>
+    <OriginalPrice>180.57</OriginalPrice>
+    <Price>138.90</Price>
+    <Code>66.449.11</Code>
+    <Link>https://www.onautica.com/products/offerta-gonfiatore-elettrico-ge-bp-1-12v-bravo?variant=52577459503451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Tender e Gommoni;Gonfiatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Gonfiatore_elettrico_GE_BP-1_12V_Bravo.jpg?v=1773341726</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137218835</EanCode>
+    <Weight>2.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-gonfiatore-elettrico-ge-bp-1-12v-bravo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gonfiatore elettrico per gommoni e sup</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il gonfiatore elettrico a due stadi è la soluzione ideale per gonfiare e sgonfiare rapidamente gommoni e SUP board. Grazie al controller digitale con display LCD, impostare la pressione desiderata è semplice e preciso. Il design compatto e la comoda manig</Description>
+    <OriginalPrice>154.89</OriginalPrice>
+    <Price>106.82</Price>
+    <Code>66.451.01</Code>
+    <Link>https://www.onautica.com/products/offerta-gonfiatore-elettrico-per-gommoni-e-sup?variant=52577459208539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Tender e Gommoni;Gonfiatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Gonfiatore_elettrico_per_gommoni_e_sup.png?v=1773341726</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137198557</EanCode>
+    <Weight>1.63</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-gonfiatore-elettrico-per-gommoni-e-sup</ParentID>
   </Offer>
   <Offer>
     <Name>Gonfiatore Tiger con manometro - max 1000 mbar (14,5 PSI) - 4 lt.</Name>
@@ -26392,23 +26444,6 @@
     <ParentID>supporto-antivibrante-m12-105-kg</ParentID>
   </Offer>
   <Offer>
-    <Name>Supporto antivibrante M16 220 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Supporti antivibranti progettati per motori diesel di media potenza, ideali per ridurre le vibrazioni trasmesse allo scafo e garantire comfort e silenziosità a bordo. Certificati Det Norske Veritas (DNV) , assicurano affidabilità e conformità agli standar</Description>
-    <OriginalPrice>91.50</OriginalPrice>
-    <Price>76.27</Price>
-    <Code>4810018</Code>
-    <Link>https://www.onautica.com/products/supporto-antivibrante-m16-220-kg?variant=52577491353947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_antivibrante_M16_220_Kg..png?v=1773341826</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626126993</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_antivibrante_M16_220_Kg._2.png?v=1773341827</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>supporto-antivibrante-m16-220-kg</ParentID>
-  </Offer>
-  <Offer>
     <Name>Supporto antivibrante M16 280 Kg.</Name>
     <Brand>Motomarine</Brand>
     <Description>Supporto antivibrante progettato per motori diesel di media potenza, con una portata massima di 280 kg . Certificato Det Norske Veritas (DNV) , garantisce affidabilità e sicurezza nelle applicazioni marine più esigenti. Riduce efficacemente le vibrazioni </Description>
@@ -26901,37 +26936,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/scr_gancio3_clean.webp?v=1784386170</Image3>
     <Condition>nuovo</Condition>
     <ParentID>gancio-da-ormeggio-scrubbis-catching-con-manico-telescopico-fino-a-210-cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gancio Porta-Parabordi per Battagliola in Plastica StanFender - 2 pz.</Name>
-    <Brand>StanFender</Brand>
-    <Description>Il Gancio Porta-Parabordi per Battagliola StanFender è l&apos;accessorio ideale per ottimizzare e velocizzare le operazioni di ormeggio a bordo. Venduto in una pratica confezione da 2 pezzi , questo gancio è stato sviluppato appositamente per essere installato</Description>
-    <OriginalPrice>11.58</OriginalPrice>
-    <Price>8.27</Price>
-    <Code>0332902</Code>
-    <Link>https://www.onautica.com/products/gancio-porta-parabordi-battagliola-plastica-stanfender?variant=52577438892379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-porta-parabordi-battagliola-plastica-stanfender.webp?v=1775062856</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>gancio-porta-parabordi-battagliola-plastica-stanfender</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gancio Porta-Parabordi per Draglia in Plastica StanFender - 2 pz.</Name>
-    <Brand>StanFender</Brand>
-    <Description>Il Gancio Porta-Parabordi per Draglia StanFender è un accessorio nautico estremamente pratico, concepito per semplificare e velocizzare notevolmente le manovre di ormeggio. Fornito in una comoda confezione da 2 pezzi , questo dispositivo è progettato in m</Description>
-    <OriginalPrice>11.58</OriginalPrice>
-    <Price>8.27</Price>
-    <Code>10060</Code>
-    <Link>https://www.onautica.com/products/gancio-porta-parabordi-draglia-plastica-stanfender?variant=52577439449435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/gancio-porta-parabordi-draglia-plastica-stanfender.webp?v=1775062573</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.05</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>gancio-porta-parabordi-draglia-plastica-stanfender</ParentID>
   </Offer>
   <Offer>
     <Name>Interruttore elettronico Johnson ultima</Name>
@@ -27464,8 +27468,8 @@
     <Name>Olio Motore Quicksilver® 4 Tempi 10W-30 Outboard Oil per Fuoribordo - 1 litro</Name>
     <Brand>Quicksilver</Brand>
     <Description>L&apos; Olio Motore Quicksilver® 4 Tempi 10W-30 Outboard Oil è formulato specificamente per le esigenze dei motori fuoribordo a 4 tempi. Questo olio è essenziale per garantire la massima durata e le prestazioni affidabili del tuo motore in tutte le condizioni </Description>
-    <OriginalPrice>33.80</OriginalPrice>
-    <Price>16.90</Price>
+    <OriginalPrice>202.78</OriginalPrice>
+    <Price>101.39</Price>
     <Code>5701214</Code>
     <Link>https://www.onautica.com/products/olio-motore-quicksilver-4-tempi-10w30-fuoribordo?variant=52513544241499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -28467,22 +28471,6 @@
     <ParentID>offerta-pompa-autoadescanti-el-marine-deck-45-lt-corpo-bronzo-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Autoadescante Nuova Water Puppy 12V</Name>
-    <Brand>Onautica</Brand>
-    <Description>Pompa Autoadescante Nuova Water Puppy 12V La Pompa Autoadescante Nuova Water Puppy 12V è una soluzione compatta e affidabile per il trasferimento di acqua a bordo, alimentata direttamente dalla batteria da 12V tipica delle imbarcazioni. A chi è rivolto Pe</Description>
-    <OriginalPrice>198.31</OriginalPrice>
-    <Price>152.55</Price>
-    <Code>0122368012</Code>
-    <Link>https://www.onautica.com/products/pompa-autoadescante-nuova-water-puppy-12v?variant=52577473233243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_Autoadescante_Nuova_Water_Puppy_12V.jpg?v=1773341768</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>671880547086</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-autoadescante-nuova-water-puppy-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Autoclave Europump 4 Basso Consumo 12V – 3,8 l/min</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Autoclave Europump 4 a basso consumo è la soluzione ideale per chi cerca affidabilità ed efficienza energetica a bordo. Progettata per servire fino a 2 utenze contemporaneamente, questa pompa garantisce un flusso costante con un assorbimento di corrent</Description>
@@ -28589,8 +28577,8 @@
     <Name>Pompa di sentina Europump II automatica | Osculati - G600 - 38 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>Protezione Compatta, Automatica e Certificata per la Tua Sentina La pompa di sentina Europump II è la soluzione moderna e affidabile per mantenere la sentina sempre asciutta. Il suo design estremamente compatto la rende ideale per installazioni anche in s</Description>
-    <OriginalPrice>29.69</OriginalPrice>
-    <Price>24.74</Price>
+    <OriginalPrice>32.96</OriginalPrice>
+    <Price>27.47</Price>
     <Code>10944</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-europump-ii-automatica-osculati?variant=52559585706331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -28785,24 +28773,6 @@
     <ParentID>pompa-sentina-manuale-aspirante-premente-390mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa di Sentina Rule New Generation 24V – Ad Immersione - 1100GHP - 74 lt/min. 24V</Name>
-    <Brand>Rule</Brand>
-    <Description>La Pompa di Sentina Rule &quot;New Generation&quot; (Versione 24V) rappresenta l&apos;evoluzione dello standard di affidabilità per le pompe sommergibili in ambito nautico. Riprogettata per offrire prestazioni nettamente superiori mantenendo dimensioni ultra-compatte, è</Description>
-    <OriginalPrice>120.30</OriginalPrice>
-    <Price>87.89</Price>
-    <Code>0500110025</Code>
-    <Link>https://www.onautica.com/products/pompa-sentina-rule-new-generation-24v?variant=52524464898395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-rule-new-generation-12v.webp?v=1772806001</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137096006</EanCode>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-rule-new-generation-immersione_confezione.png?v=1773341967</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-sentina-rule-new-generation-24v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Estrazione Olio BG a Siringa in Ottone con Tubi Multi-Misura - 230 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Pompa Estrazione Olio BG è uno strumento professionale essenziale per la manutenzione del motore marino. Il suo design a siringa, realizzato in robusto Ottone , garantisce un&apos;estrazione dell&apos;olio semplice, veloce e pulita, specialmente negli spazi rist</Description>
@@ -28901,6 +28871,25 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-colflo-scena-a-bordo-ia.webp?v=1785520816</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompe-autoclave-colflo-triplex-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompe Autoclave Europump 3 Valvole 12V - Europump 11 - 11 lt/min. 12V</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa pompa autoclave autoaspirante a 3 valvole della serie Europump è progettata per fornire una pressione costante e affidabile all&apos;impianto idrico della tua imbarcazione, garantendo al contempo un funzionamento molto silenzioso e esente da vibrazioni </Description>
+    <OriginalPrice>64.07</OriginalPrice>
+    <Price>53.39</Price>
+    <Code>16.510.12</Code>
+    <Link>https://www.onautica.com/products/pompe-autoclave-europump-3-valvole-12v?variant=52513550008667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.510.12.png?v=1762506743</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052590</EanCode>
+    <Weight>2.05</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.510.12b.png?v=1762506746</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.510.12c.png?v=1762506748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompe-autoclave-europump-3-valvole-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompe Autoclave Jabsco Par-Max HD - Par-Max HD3 40PSI - 11 lt/min.</Name>
@@ -29314,6 +29303,25 @@
     <ParentID>scalmiere-ottone-o-68-mm-gambo-o-14-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoio di Espansione (Autoclave) in ABS 0,75 lt Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Serbatoio di Espansione (Autoclave) in ABS 0,75 lt Serbatoio di espansione (vaso di accumulo) in ABS per l’impianto idrico di bordo con pompa autoclave. Accumula acqua in pressione a valle della pompa: ai piccoli prelievi l’acqua esce dal serbatoio invece</Description>
+    <OriginalPrice>31.20</OriginalPrice>
+    <Price>25.97</Price>
+    <Code>16.127.00</Code>
+    <Link>https://www.onautica.com/products/serbatoio-di-espansione-autoclave-in-abs-0-75-lt-osculati?variant=53522563072347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.127.00.webp?v=1783358543</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137059070</EanCode>
+    <Weight>0.46</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10574961049947_0.webp?v=1783542574</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10574961049947_1.webp?v=1783542577</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-di-espansione-autoclave-in-abs-0-75-lt-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoio di espansione Seaflo 0,75 lt.</Name>
     <Brand>Seaflo</Brand>
     <Description>Il serbatoio di espansione Seaflo da 0,75 litri è progettato per essere abbinato alle pompe autoclave di bordo, garantendo una pressione stabile e costante nell&apos;impianto idrico della tua imbarcazione. Grazie alla pre-pressurizzazione a 0,7 bar , riduce i </Description>
@@ -29443,6 +29451,23 @@
     <EanCode>8033626126962</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>supporto-antivibrante-45-kg-sh45</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Supporto antivibrante M16 220 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Supporti antivibranti progettati per motori diesel di media potenza, ideali per ridurre le vibrazioni trasmesse allo scafo e garantire comfort e silenziosità a bordo. Certificati Det Norske Veritas (DNV) , assicurano affidabilità e conformità agli standar</Description>
+    <OriginalPrice>91.50</OriginalPrice>
+    <Price>76.27</Price>
+    <Code>4810018</Code>
+    <Link>https://www.onautica.com/products/supporto-antivibrante-m16-220-kg?variant=52577491353947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_antivibrante_M16_220_Kg..png?v=1773341826</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626126993</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_antivibrante_M16_220_Kg._2.png?v=1773341827</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-antivibrante-m16-220-kg</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo d&apos;Ispezione a Vite Bianco – Tenuta Stagna con O-Ring – Approvato CE - Ø 210x152 mm.</Name>
@@ -31768,6 +31793,24 @@
     <ParentID>pompa-sentina-rule-new-generation-12v</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa di Sentina Rule New Generation 24V – Ad Immersione - 1100GHP - 74 lt/min. 24V</Name>
+    <Brand>Rule</Brand>
+    <Description>La Pompa di Sentina Rule &quot;New Generation&quot; (Versione 24V) rappresenta l&apos;evoluzione dello standard di affidabilità per le pompe sommergibili in ambito nautico. Riprogettata per offrire prestazioni nettamente superiori mantenendo dimensioni ultra-compatte, è</Description>
+    <OriginalPrice>120.30</OriginalPrice>
+    <Price>87.89</Price>
+    <Code>0500110025</Code>
+    <Link>https://www.onautica.com/products/pompa-sentina-rule-new-generation-24v?variant=52524464898395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-rule-new-generation-12v.webp?v=1772806001</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137096006</EanCode>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-sentina-rule-new-generation-immersione_confezione.png?v=1773341967</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-sentina-rule-new-generation-24v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 12V / 2000GHP</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
@@ -33363,6 +33406,23 @@
     <ParentID>shampoo-biodegradabile-universale-iosso</ParentID>
   </Offer>
   <Offer>
+    <Name>Spazzola a mano Osculati con impugnatura anatomica</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzola a mano i deale per il lavaggio frequente della coperta. Spazzola di media durezza, adatta a tutte le superfici. Tipo mm Spazzola con impugnatura anatomica 120x185 Caratteristiche principali Impugnatura anatomica progettata per ridurre l&apos;affaticam</Description>
+    <OriginalPrice>8.70</OriginalPrice>
+    <Price>7.25</Price>
+    <Code>11005</Code>
+    <Link>https://www.onautica.com/products/spazzola-a-mano-osculati-con-impugnatura-anatomica?variant=52577366409563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.637.00.png?v=1773341481</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137124945</EanCode>
+    <Weight>0.21</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzola-a-mano-osculati-con-impugnatura-anatomica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Spazzola a Mano Osculati – Spazzola Media con Passaggio Acqua per Lavaggio Coperta</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzola a mano i deale per il lavaggio frequente della coperta. Spazzola di media durezza, adatta a tutte le superfici. Tipo mm Spazzola con passaggio acqua, innesto a scatto standard 120x185 Caratteristiche principali Passaggio acqua integrato per un la</Description>
@@ -34741,7 +34801,7 @@
     <Price>14.86</Price>
     <Code>4121562</Code>
     <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36364,7 +36424,7 @@
   <Offer>
     <Name>Pompa a Pedale 9 lt/min – Pompa Manuale in Nylon Rinforzato per Lavelli di Bordo</Name>
     <Brand>Motomarine</Brand>
-    <Description>Questa pompa a pedale �� realizzata con materiali resistenti come gomma e nylon rinforzato, garantendo durata e affidabilità nell&apos;uso quotidiano. Progettata specificamente per i lavelli, assicura un flusso fino a 9 litri al minuto, facilitando le operazio</Description>
+    <Description>Questa pompa a pedale ��� realizzata con materiali resistenti come gomma e nylon rinforzato, garantendo durata e affidabilità nell&apos;uso quotidiano. Progettata specificamente per i lavelli, assicura un flusso fino a 9 litri al minuto, facilitando le operazi</Description>
     <OriginalPrice>42.04</OriginalPrice>
     <Price>26.27</Price>
     <Code>1830000</Code>
@@ -37884,6 +37944,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137041464</EanCode>
     <Weight>2.03</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01b.png?v=1773341965</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01c.png?v=1773341966</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>altoparlanti-nautici-2-vie-impermeabili</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Casse Altoparlanti Stereo Osculati 2 Vie - 80 Watt</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di altoparlanti è ideale per chi cerca una soluzione audio di qualità e durevole per l&apos;ambiente nautico. Essendo classificati WATERPROOF , sono adatti all&apos;installazione sia in aree interne che esterne dell&apos;imbarcazione. Caratteristiche Audio </Description>
+    <OriginalPrice>53.58</OriginalPrice>
+    <Price>38.27</Price>
+    <Code>29.740.02</Code>
+    <Link>https://www.onautica.com/products/altoparlanti-nautici-2-vie-impermeabili?variant=52513498399067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01.png?v=1773341964</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137041471</EanCode>
+    <Weight>2.23</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01b.png?v=1773341965</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01c.png?v=1773341966</Image3>
     <Condition>nuovo</Condition>
@@ -40290,8 +40369,8 @@
     <Name>Pompa manuale mm. 19 travaso liquidi con tubo 15 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa pompa manuale è lo strumento geniale e indispensabile per il travaso di tutti i tipi di liquido (acqua, gasolio, benzina, ecc.) da un contenitore all&apos;altro, senza alcuna fatica e senza il rischio di sporcare . È la soluzione perfetta per rifornire </Description>
-    <OriginalPrice>23.11</OriginalPrice>
-    <Price>16.86</Price>
+    <OriginalPrice>26.88</OriginalPrice>
+    <Price>19.62</Price>
     <Code>52.739.01</Code>
     <Link>https://www.onautica.com/products/offerta-pompa-manuale-mm-19-travaso-liquidi-con-tubo?variant=52577463501147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -40768,6 +40847,25 @@
     <ParentID>scaletta-pieghevole-anticorodal-galleggiante</ParentID>
   </Offer>
   <Offer>
+    <Name>Scaletta inox 3 gradini 22x63 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa scaletta pieghevole in acciaio inox a finitura lucidato a specchio è progettata per il montaggio sulla murata della poppa. È dotata di tre gradini con superficie ovalizzata che, rispetto ai tradizionali gradini rotondi, offrono un appoggio più conf</Description>
+    <OriginalPrice>58.20</OriginalPrice>
+    <Price>46.58</Price>
+    <Code>0503003</Code>
+    <Link>https://www.onautica.com/products/scaletta-inox-3-gradini-22x63-cm?variant=52577486143835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.572.33.png?v=1773341808</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137152221</EanCode>
+    <Weight>1.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.572.05.png?v=1773341971</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.572.05b.png?v=1773341972</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-inox-3-gradini-22x63-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scaletta inox 5 gradini 26x115 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa scaletta pieghevole è progettata per il fissaggio sicuro sulla murata della poppa, realizzata in acciaio inox lucidato a specchio che garantisce resistenza alla corrosione e un aspetto elegante. Il modello si distingue per i gradini ovalizzati, una</Description>
@@ -40821,24 +40919,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/05054XXc.png?v=1773341812</Image3>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-inox-telescopica-3-gradini-up-ws</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scaletta Pieghevole in Acciaio Inox AISI 316 con Gradini Ovali - 3 gradini</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa scaletta pieghevole è la soluzione premium per la risalita a bordo, unendo l&apos;eleganza dell&apos;acciaio inox a caratteristiche di design che ne aumentano il comfort e la sicurezza. Caratteristiche Premium: Materiale: Realizzata in Acciaio Inox AISI 316 </Description>
-    <OriginalPrice>65.10</OriginalPrice>
-    <Price>52.05</Price>
-    <Code>49.582.03</Code>
-    <Link>https://www.onautica.com/products/scaletta-pieghevole-inox-aisi316-gradini-ovali?variant=52513563705691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03.png?v=1773341983</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137152245</EanCode>
-    <Weight>2.13</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/49.582.03b.png?v=1773341983</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scaletta-pieghevole-inox-aisi316-gradini-ovali</ParentID>
   </Offer>
   <Offer>
     <Name>Scaletta Pieghevole in Acciaio Inox AISI 316 con Gradini Ovali - 4 gradini</Name>
@@ -41161,8 +41241,8 @@
     <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (240-33 Ohm) - 28 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Sensori di Livello Verticali S5 offrono precisione e durata nel monitoraggio dei liquidi a bordo. Costruiti interamente in Acciaio Inox 316 , sono progettati per resistere all&apos;ambiente marino e sono idonei per l&apos;uso in serbatoi di carburante (benzina/di</Description>
-    <OriginalPrice>37.30</OriginalPrice>
-    <Price>20.73</Price>
+    <OriginalPrice>39.40</OriginalPrice>
+    <Price>21.88</Price>
     <Code>27.160.28</Code>
     <Link>https://www.onautica.com/products/sensore-livello-verticale-s5-inox-240-33-ohm?variant=52513565573467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42288,6 +42368,24 @@
     <ParentID>offerta-timoneria-t73-nrfc-ultraflex</ParentID>
   </Offer>
   <Offer>
+    <Name>Timoneria T85 standard type Ultraflex coprimozzo bianco</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T85 standard type di Ultraflex è la soluzione ideale per chi cerca affidabilità e p</Description>
+    <OriginalPrice>123.86</OriginalPrice>
+    <Price>85.42</Price>
+    <Code>39213M</Code>
+    <Link>https://www.onautica.com/products/offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco?variant=52577465565531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco.png?v=1773341746</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164392139</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_7.png?v=1773341746</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Timoneria_T85_standard_type_Ultraflex_coprimozzo_bianco_5.png?v=1773341748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-timoneria-t85-standard-type-ultraflex-coprimozzo-bianco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Timoneria T91 high performance Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>⚠️ ATTENZIONE: il volante raffigurato nelle foto NON è incluso nella vendita. È mostrato solo a scopo dimostrativo, per illustrare come si monta la timoneria. La Timoneria T91 High Performance di Ultraflex rappresenta la soluzione ideale per chi cerca pre</Description>
@@ -43165,23 +43263,6 @@
     <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
   </Offer>
   <Offer>
-    <Name>Capottina Tendalino 3 Archi Bianco (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top (+ Alte) sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi, in questa versione con altez</Description>
-    <OriginalPrice>207.89</OriginalPrice>
-    <Price>159.91</Price>
-    <Code>3265258</Code>
-    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-bianco-alte?variant=52519962902875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-alluminioschemafrontale.png?v=1768237256</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
-  </Offer>
-  <Offer>
     <Name>Capottina Tendalino 3 Archi Bianco (+ Alte) – Struttura Alluminio e Tessuto PVC - 200 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top (+ Alte) sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi, in questa versione con altez</Description>
@@ -43246,24 +43327,6 @@
     <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>capottina-tendalino-3-archi-blu-altezza-maggiorata</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Capottina Tendalino 3 Archi Blu (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Le Capottine Tendalini a 3 Archi &quot;+ Alte&quot; offrono una soluzione superiore in termini di abitabilità. Rispetto ai modelli standard, questa versione vanta un&apos;altezza di 140 cm , garantendo maggiore spazio verticale e facilità di movimento nel pozzetto. La s</Description>
-    <OriginalPrice>231.86</OriginalPrice>
-    <Price>178.35</Price>
-    <Code>3265268</Code>
-    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-blu-altezza-maggiorata?variant=52519953760603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-blu-alluminio.png?v=1768236798</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626034106</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image3>
     <Condition>nuovo</Condition>
@@ -44436,8 +44499,8 @@
     <Name>Kit Tubo Lavaggio Barca Tricotex® con Pistola e Raccordi Rapidi - 25 metri</Name>
     <Brand>Osculati</Brand>
     <Description>Il Kit Tubo Lavaggio Barca è la soluzione professionale e completa per la pulizia della tua imbarcazione. Fornito di un tubo di alta qualità Tricotex® Antitorsione e di tutti gli accessori necessari per il collegamento universale. Caratteristiche Principa</Description>
-    <OriginalPrice>59.40</OriginalPrice>
-    <Price>49.51</Price>
+    <OriginalPrice>67.70</OriginalPrice>
+    <Price>56.43</Price>
     <Code>36.464.25</Code>
     <Link>https://www.onautica.com/products/kit-tubo-lavaggio-barca-tricotex-pistola-raccordi?variant=52513536967003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -44825,8 +44888,8 @@
     <Name>Piastre Salvapoppa in Plastica - Versione BIANCA Standard - 300x220 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste piastre salva poppa sono un accessorio di protezione essenziale per lo scafo, specificamente progettate per salvaguardare la poppa da urti, graffi e usura causati dal motore fuoribordo e dagli accessori. Caratteristiche Principali: Materiale: Reali</Description>
-    <OriginalPrice>7.07</OriginalPrice>
-    <Price>5.24</Price>
+    <OriginalPrice>7.32</OriginalPrice>
+    <Price>5.42</Price>
     <Code>4712130</Code>
     <Link>https://www.onautica.com/products/piastre-salvapoppa-plastica-bianco-300-450mm?variant=52513547845979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -46314,6 +46377,23 @@
     <ParentID>tappo-o-50-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta</ParentID>
   </Offer>
   <Offer>
+    <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 38 mm. carburante</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tappo di imbarco per carburante in acciaio inox, microfuso e lucidato a specchio, conforme alle normative R.I.N.A. Dotato di apertura a leva a ribalta e flangia a copertura totale delle viti per un&apos;installazione curata e sicura. Materiale: acciaio inox mi</Description>
+    <OriginalPrice>77.29</OriginalPrice>
+    <Price>54.05</Price>
+    <Code>20.568.31</Code>
+    <Link>https://www.onautica.com/products/tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave?variant=52577493287259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_di_imbarco_fuel_38_mm._in_acciaio_inox_con_serratura_regolamentare_RINA_chiave.png?v=1773341834</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137036965</EanCode>
+    <Weight>0.76</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 50 mm. carburante</Name>
     <Brand>Osculati</Brand>
     <Description>Tappo di imbarco per carburante in acciaio inox, microfuso e lucidato a specchio, conforme alle normative R.I.N.A. Dotato di apertura a leva a ribalta e flangia a copertura totale delle viti per un aspetto curato e una tenuta sicura. Collo: Ø 50 mm Flangi</Description>
@@ -46343,24 +46423,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216038</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size M</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
-    <OriginalPrice>24.49</OriginalPrice>
-    <Price>17.49</Price>
-    <Code>3270203</Code>
-    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242507099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626216045</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
@@ -48060,8 +48122,8 @@
     <Name>Wc chimico Porta Potti Thetford QUBE 165 bianco</Name>
     <Brand>Thetford</Brand>
     <Description>Il Porta Potti Qube 165 di Thetford è un WC chimico portatile dalla forma compatta e dal design moderno, ideale per imbarcazioni da diporto, camper e uso esterno. Pratico e igienico, garantisce comfort a bordo anche negli spazi più ridotti. Serbatoio supe</Description>
-    <OriginalPrice>146.31</OriginalPrice>
-    <Price>100.91</Price>
+    <OriginalPrice>154.45</OriginalPrice>
+    <Price>106.52</Price>
     <Code>50.217.06</Code>
     <Link>https://www.onautica.com/products/offerta-wc-chimico-porta-potti-thetford-qube-165-bianco?variant=52577466220891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -48407,6 +48469,22 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-viadana-con-arricavo-3-pulegge-plastinox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bozzello Viadana fisso/girevole 1 puleggia Plastinox - Ø 8 mm.</Name>
+    <Brand>Viadana</Brand>
+    <Description>Bozzelli Viadana Serie Plastinox: Affidabilità e Versatilità in Acciaio e Nylon Corpo della Descrizione: La serie di bozzelli Plastinox di Viadana rappresenta la soluzione ideale per chi cerca un prodotto affidabile, versatile e con un eccellente rapporto</Description>
+    <OriginalPrice>28.70</OriginalPrice>
+    <Price>15.97</Price>
+    <Code>VIA89.03</Code>
+    <Link>https://www.onautica.com/products/bozzello-viadana-fisso-girevole-1-puleggia-plastinox?variant=52513490370907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bozzellosempliceviadanaonautica.png?v=1773341973</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137164651</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>bozzello-viadana-fisso-girevole-1-puleggia-plastinox</ParentID>
   </Offer>
   <Offer>
     <Name>Bozzello Viadana fisso/girevole 1 puleggia Plastinox - Ø 10 mm.</Name>
@@ -48906,6 +48984,23 @@
     <Weight>1.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>zerbino-poliuretano-40x68-cm-ancora</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Zerbino poliuretano 40x68 cm. Marlin</Name>
+    <Brand>Marlin</Brand>
+    <Description>Questo zerbino mezzaluna Format misura 40x68 cm. è realizzato in poliuretano espanso a cellule chiuse, garantendo una struttura compatta e durevole. La superficie è rivestita con uno strato morbido di velour colorato, che assicura una piacevole sensazione</Description>
+    <OriginalPrice>30.17</OriginalPrice>
+    <Price>21.55</Price>
+    <Code>23.909.08</Code>
+    <Link>https://www.onautica.com/products/zerbinetto-poliuretano-40x68-cm-marlin?variant=52577500823899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Zerbini Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/zerbinomarlin.png?v=1773341858</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137113413</EanCode>
+    <Weight>1.16</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>zerbinetto-poliuretano-40x68-cm-marlin</ParentID>
   </Offer>
   <Offer>
     <Name>Zerbino poliuretano 40x68 cm. Pirata</Name>
