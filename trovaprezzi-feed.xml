@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-05T14:31:30.506Z -->
-<!-- Offerte: 2928 -->
+<!-- Generato: 2026-08-05T18:11:13.442Z -->
+<!-- Offerte: 2929 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -1500,7 +1500,7 @@
     <Price>13.80</Price>
     <Code>3230225</Code>
     <Link>https://www.onautica.com/products/giunto-apribile-tas-inox-aisi-316-capottine?variant=52750067728731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giunto-apribile-tas-inox-aisi-316-capottine.webp?v=1775236268</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -3527,8 +3527,8 @@
     <Name>Segnavento Windex - Precisione e Affidabilità per il Vento Apparente - 6&quot; (150 mm)</Name>
     <Brand>Osculati</Brand>
     <Description>Il segnavento Windex è lo strumento essenziale per avere informazioni accurate sulla direzione del vento apparente , fondamentale per la regolazione delle vele e la navigazione. Caratteristiche Tecniche e Design: Alta Precisione: Il movimento dell&apos;asta è </Description>
-    <OriginalPrice>61.36</OriginalPrice>
-    <Price>45.45</Price>
+    <OriginalPrice>64.42</OriginalPrice>
+    <Price>47.72</Price>
     <Code>2420008</Code>
     <Link>https://www.onautica.com/products/segnavento-windex-cuscinetti-zaffiro-bolina?variant=52543563235675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3546,8 +3546,8 @@
     <Name>Segnavento Windex - Precisione e Affidabilità per il Vento Apparente - 10&quot; (250 mm)</Name>
     <Brand>Osculati</Brand>
     <Description>Il segnavento Windex è lo strumento essenziale per avere informazioni accurate sulla direzione del vento apparente , fondamentale per la regolazione delle vele e la navigazione. Caratteristiche Tecniche e Design: Alta Precisione: Il movimento dell&apos;asta è </Description>
-    <OriginalPrice>57.69</OriginalPrice>
-    <Price>42.73</Price>
+    <OriginalPrice>60.58</OriginalPrice>
+    <Price>44.87</Price>
     <Code>2420010</Code>
     <Link>https://www.onautica.com/products/segnavento-windex-cuscinetti-zaffiro-bolina?variant=52543563268443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -11674,6 +11674,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>3571211504696</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-ricarica-smartphone-dati-10w-1m-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo di Ricarica e Dati Smartphone 10W - 1 Metro (Varie Connessioni) - USB-C a USB-C - 2 mt.</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il Cavo di Ricarica e Dati per Smartphone è un accessorio essenziale da tenere sempre a portata di mano, perfetto per l&apos;uso quotidiano in casa, in ufficio o da portare a bordo della propria imbarcazione. Realizzato con un resistente rivestimento in PVC di</Description>
+    <OriginalPrice>11.20</OriginalPrice>
+    <Price>7.45</Price>
+    <Code>309906</Code>
+    <Link>https://www.onautica.com/products/cavo-ricarica-smartphone-dati-10w-1m-bianco?variant=52646083592539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-C_a_USB-C.png?v=1774288953</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3571211472865</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_USB-C.png?v=1774289010</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-ricarica-smartphone-dati-10w_USB-A_a_Micro_USB.png?v=1774289033</Image3>
     <Condition>nuovo</Condition>
@@ -25517,8 +25535,8 @@
     <Name>Luce LED Magnetica Ricaricabile per Tendalini e Tende (con Telecomando) - Batterie Ricaricabili Varta 2 pz.</Name>
     <Brand>Motomarine</Brand>
     <Description>La Luce LED per Tendalini è la soluzione intelligente e versatile per illuminare il pozzetto, la zona pranzo esterna o la cabina senza la necessità di complessi cablaggi o installazioni fisse. Progettata per la nautica e il campeggio, offre una pratica fo</Description>
-    <OriginalPrice>18.34</OriginalPrice>
-    <Price>9.65</Price>
+    <OriginalPrice>11.77</OriginalPrice>
+    <Price>6.19</Price>
     <Code>041320</Code>
     <Link>https://www.onautica.com/products/luce-led-magnetica-tendalini-telecomando?variant=52519753023835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -27647,24 +27665,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image2>
     <Condition>nuovo</Condition>
     <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 100x300 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi Cilindrici Majoni Serie Hole – Foro Passante per Cima di Ormeggio, Verticale o Orizzontale I parabordi cilindrici Majoni serie Hole con foro passante rappresentano una soluzione di protezione altamente versatile e robusta per la fiancata di qual</Description>
-    <OriginalPrice>16.02</OriginalPrice>
-    <Price>11.69</Price>
-    <Code>3801800</Code>
-    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-hole-foro-passante?variant=52513545879899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misure.webp?v=1776247010</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626111234</EanCode>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-hole-foro-passante-5-misuremontaggio.webp?v=1776247010</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-cilindrici-majoni-hole-foro-passante</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordi Cilindrici Majoni Serie Hole con Foro Passante – 5 Misure Disponibili - Ø 150x430 mm.</Name>
@@ -37851,25 +37851,6 @@
     <ParentID>altoparlanti-nautici-2-vie-impermeabili</ParentID>
   </Offer>
   <Offer>
-    <Name>Casse Altoparlanti Stereo Osculati 2 Vie - 80 Watt</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di altoparlanti è ideale per chi cerca una soluzione audio di qualità e durevole per l&apos;ambiente nautico. Essendo classificati WATERPROOF , sono adatti all&apos;installazione sia in aree interne che esterne dell&apos;imbarcazione. Caratteristiche Audio </Description>
-    <OriginalPrice>53.58</OriginalPrice>
-    <Price>38.27</Price>
-    <Code>29.740.02</Code>
-    <Link>https://www.onautica.com/products/altoparlanti-nautici-2-vie-impermeabili?variant=52513498399067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01.png?v=1773341964</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137041471</EanCode>
-    <Weight>2.23</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01b.png?v=1773341965</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01c.png?v=1773341966</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>altoparlanti-nautici-2-vie-impermeabili</ParentID>
-  </Offer>
-  <Offer>
     <Name>Casse Altoparlanti Stereo Osculati a Doppio Cono - 30 Watt</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di altoparlanti è la scelta ideale per chi desidera un audio di qualità e una massima resistenza nell&apos;ambiente marino. Classificati come WATERPROOF e UV RESISTANT , sono perfetti per l&apos;installazione sia in aree interne che esterne, garantendo</Description>
@@ -38251,8 +38232,8 @@
     <Name>Cavi Telecomando Universali Ultraflex C8 – Heavy Duty (Entrobordo/Fuoribordo) - 14 ft. - 4.20 mt.</Name>
     <Brand>Ultraflex</Brand>
     <Description>I Cavi Telecomando Universali Ultraflex C8 sono progettati per garantire prestazioni superiori e una lunga durata in ambiente marino. Caratterizzati da una costruzione molto robusta , rappresentano lo standard di riferimento per chi cerca affidabilità nel</Description>
-    <OriginalPrice>50.34</OriginalPrice>
-    <Price>35.96</Price>
+    <OriginalPrice>63.95</OriginalPrice>
+    <Price>45.68</Price>
     <Code>30219F</Code>
     <Link>https://www.onautica.com/products/cavo-telecomando-universale-ultraflex-c8?variant=52545436451163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -44314,7 +44295,7 @@
   <Offer>
     <Name>Kit di Fissaggio a Pavimento per WC Chimico Porta Potti Qube Thetford</Name>
     <Brand>Thetford</Brand>
-    <Description>Kit di Fissaggio a Pavimento per WC Chimico Porta Potti Qube – Accessorio Opzionale per Installazione Stabile a Bordo Il kit di fissaggio a pavimento per WC chimico Porta Potti Qube è l&apos;accessorio indispensabile per chi desidera installare in modo stabile</Description>
+    <Description>Kit di Fissaggio a Pavimento per WC Chimico Porta Potti Qube ��� Accessorio Opzionale per Installazione Stabile a Bordo Il kit di fissaggio a pavimento per WC chimico Porta Potti Qube è l&apos;accessorio indispensabile per chi desidera installare in modo stabi</Description>
     <OriginalPrice>35.61</OriginalPrice>
     <Price>25.44</Price>
     <Code>1325050</Code>
@@ -47296,6 +47277,22 @@
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
   <Offer>
+    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 5/8&quot; / 15 mt</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
+    <OriginalPrice>30.45</OriginalPrice>
+    <Price>25.38</Price>
+    <Code>76495-10</Code>
+    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152581467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779156869</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-tricogel-nts-banchina</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 3/4&quot; / 50 mt</Name>
     <Brand>Ferramenta Sardo Piemontese</Brand>
     <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
@@ -47338,6 +47335,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8011779390294</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-tricogel-nts-banchina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Tricogel NTS per Banchina e Imbarcazione - 1/2&quot; / 15 mt</Name>
+    <Brand>Ferramenta Sardo Piemontese</Brand>
+    <Description>Il TUBO SUPER TRICOGEL NTS 5 STRATI MAGLIATO è ideale per l&apos;utilizzo in ambito nautico, progettato per chi esige la massima performance, resistenza e zero problemi a bordo. Il Cuore della Tecnologia: NTS® (No Torsion System) Il vero segreto di questo tubo</Description>
+    <OriginalPrice>25.53</OriginalPrice>
+    <Price>21.28</Price>
+    <Code>76495-02</Code>
+    <Link>https://www.onautica.com/products/tubo-tricogel-nts-banchina?variant=51630152712539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/supertricogelperbarcaebanchina.png?v=1762772003</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8011779390287</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tubo-tricogel-nts-banchina</ParentID>
   </Offer>
