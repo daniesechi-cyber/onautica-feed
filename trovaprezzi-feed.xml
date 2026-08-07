@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-07T14:32:09.250Z -->
-<!-- Offerte: 2926 -->
+<!-- Generato: 2026-08-07T18:11:13.595Z -->
+<!-- Offerte: 2957 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -103,22 +103,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basetta-bpi-inox-aisi-316-attacco-pivottantepezzi.webp?v=1775237101</Image2>
     <Condition>nuovo</Condition>
     <ParentID>basetta-bpi-inox-aisi-316-attacco-pivottante</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Basetta Piana BPS in Acciaio Inox AISI 316 con Perno Sfilabile</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Basetta Piana BPS rappresenta l&apos;evoluzione funzionale dei supporti di fissaggio per l&apos;attrezzatura di coperta. Realizzata in Acciaio Inox AISI 316 microfuso e lucidata a specchio, questa basetta unisce la massima resistenza alla corrosione marina a un </Description>
-    <OriginalPrice>10.41</OriginalPrice>
-    <Price>7.44</Price>
-    <Code>3230601</Code>
-    <Link>https://www.onautica.com/products/basetta-piana-bps-inox-aisi-316-perno-sfilabile?variant=52577418969435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basetta-piana-bps-inox-aisi-316-perno-sfilabile.webp?v=1775237304</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626095930</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>basetta-piana-bps-inox-aisi-316-perno-sfilabile</ParentID>
   </Offer>
   <Offer>
     <Name>Borsone Vuoto per Dotazione di Bordo - 4 persone / 150N</Name>
@@ -3617,7 +3601,7 @@
     <Price>8.00</Price>
     <Code>46.629.00</Code>
     <Link>https://www.onautica.com/products/snodo-nylon-90-gradi-tubo-20mm?variant=52577487683931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/snodo-nylon-90-gradi-tubo-20mm.png?v=1775233534</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -5252,6 +5236,24 @@
     <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
   </Offer>
   <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 2.5 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>21.25</OriginalPrice>
+    <Price>16.34</Price>
+    <Code>0104025</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376043355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000088</EanCode>
+    <Weight>2.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ancora Acciaio Zincato tipo Ombrello - 3.2 Kg.</Name>
     <Brand>Motomarine</Brand>
     <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
@@ -5316,6 +5318,23 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Acciaio Zincato tipo Ombrello - 10 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;Ancora ad Ombrello (o a Grappino) è l&apos;accessorio indispensabile per i diportisti che cercano una soluzione compatta, pratica e versatile , ideale per l&apos;uso su piccole imbarcazioni, gommoni o come seconda ancora di rispetto. Realizzata in robusto acciaio</Description>
+    <OriginalPrice>71.85</OriginalPrice>
+    <Price>55.27</Price>
+    <Code>0104110</Code>
+    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-ombrello?variant=52577376207195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_zincata_tipo_ombrello_kg._8.png?v=1773341614</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>10.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ancora_Ombrello.png?v=1773341520</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ancora-acciaio-zincato-tipo-ombrello</ParentID>
@@ -8397,6 +8416,22 @@
     <ParentID>offerta-base-per-bandiera-inox-nawa-o-22-25-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Basetta Piana BPS in Acciaio Inox AISI 316 con Perno Sfilabile</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Basetta Piana BPS rappresenta l&apos;evoluzione funzionale dei supporti di fissaggio per l&apos;attrezzatura di coperta. Realizzata in Acciaio Inox AISI 316 microfuso e lucidata a specchio, questa basetta unisce la massima resistenza alla corrosione marina a un </Description>
+    <OriginalPrice>10.41</OriginalPrice>
+    <Price>7.44</Price>
+    <Code>3230601</Code>
+    <Link>https://www.onautica.com/products/basetta-piana-bps-inox-aisi-316-perno-sfilabile?variant=52577418969435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Accessori Teli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/basetta-piana-bps-inox-aisi-316-perno-sfilabile.webp?v=1775237304</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095930</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>basetta-piana-bps-inox-aisi-316-perno-sfilabile</ParentID>
+  </Offer>
+  <Offer>
     <Name>Binocolo Compatto Nikon Aculon A30 8x25 - Ottiche Eco-Glass e Anti-appannamento</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Nikon Aculon A30 8x25 è un binocolo estremamente compatto e leggero, progettato per chi desidera la qualità ottica Nikon in un formato tascabile. Ideale per l&apos;uso nautico diurno, il trekking e le osservazioni in movimento, questo strumento offre presta</Description>
@@ -8836,76 +8871,6 @@
     <ParentID>bussola-da-rilevamento-tascabile-nera</ParentID>
   </Offer>
   <Offer>
-    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Bianco</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
-    <OriginalPrice>125.92</OriginalPrice>
-    <Price>104.93</Price>
-    <Code>2501008</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52513490960731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Nero</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
-    <OriginalPrice>125.92</OriginalPrice>
-    <Price>104.93</Price>
-    <Code>62.00114.01</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52520337080667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626076861</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Nero</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Artica BA2 è uno strumento di navigazione affidabile e preciso, ideale per imbarcazioni di lunghezza compresa tra i 6 e i 12 metri . Questo modello è progettato per il montaggio su staffa , rendendola perfetta per installazioni su crusc</Description>
-    <OriginalPrice>129.97</OriginalPrice>
-    <Price>108.31</Price>
-    <Code>530115</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba2-staffa?variant=52520357757275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-nera.png?v=1767806956</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626076847</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-bianca.png?v=1767806956</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-misure.png?v=1767806956</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-artica-ba2-staffa</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Bianco</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Artica BA2 è uno strumento di navigazione affidabile e preciso, ideale per imbarcazioni di lunghezza compresa tra i 6 e i 12 metri . Questo modello è progettato per il montaggio su staffa , rendendola perfetta per installazioni su crusc</Description>
-    <OriginalPrice>129.97</OriginalPrice>
-    <Price>108.31</Price>
-    <Code>2501009</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba2-staffa?variant=52520357790043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-nera.png?v=1767806956</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-bianca.png?v=1767806956</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-misure.png?v=1767806956</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-artica-ba2-staffa</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bussola Magnetica Riviera Comet 2&quot; (48 mm) – Serie Compatta - Grigio con Staffa</Name>
     <Brand>Riviera</Brand>
     <Description>La Bussola Riviera Comet 2&quot; è lo strumento ideale per chi necessita di una navigazione precisa in spazi ridotti. Progettata per piccole imbarcazioni e scafi veloci, questa bussola magnetica si distingue per la sua robustezza e la chiara leggibilità. Dotat</Description>
@@ -9014,23 +8979,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Riviera.png?v=1773341967</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bussola-riviera-urania-bu1-incasso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Magnetica Riviera Urania BU2 a Chiesuola (4&quot;) – Per Barche 10-35 mt. - Rosa 2° con Collaudo R.I.Na.</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Urania BU2 è uno strumento professionale a chiesuola progettato per imbarcazioni di dimensioni importanti, dai 10 ai 35 metri . La sua costruzione robusta e affidabile la rende idonea sia per imbarcazioni da diporto che da lavoro (appro</Description>
-    <OriginalPrice>529.32</OriginalPrice>
-    <Price>441.10</Price>
-    <Code>2503914</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-urania-bu2-chiesuola?variant=52520304607579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu2-chiesuola.png?v=1773341964</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu2-chiesuola_misura.png?v=1773341965</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Riviera.png?v=1773341967</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-urania-bu2-chiesuola</ParentID>
   </Offer>
   <Offer>
     <Name>Chiusura Lampo Marina (ZIP) con Cursore e Terminali – Larghezza 42 mm - 1 metro</Name>
@@ -10612,23 +10560,6 @@
     <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
   </Offer>
   <Offer>
-    <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 500 ml.</Name>
-    <Brand>Osculati</Brand>
-    <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
-    <OriginalPrice>46.19</OriginalPrice>
-    <Price>27.17</Price>
-    <Code>66.240.10</Code>
-    <Link>https://www.onautica.com/products/adesivo-bicomponente-per-gommoni-in-neoprene-hypalon?variant=52577380991323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_bicomponente_per_neoprene_hypalon_gommoni.png?v=1773341609</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137170263</EanCode>
-    <Weight>0.60</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>adesivo-bicomponente-per-gommoni-in-neoprene-hypalon</ParentID>
-  </Offer>
-  <Offer>
     <Name>Adesivo Bicomponente per Gommoni in Neoprene Hypalon - 850 ml.</Name>
     <Brand>Osculati</Brand>
     <Description>ADEPRENE FORTE NA è un collante speciale bicomponente a base policloroprenica, riconosciuto come uno dei prodotti più utilizzati e affidabili sul mercato da tutte le principali fabbriche di gommoni. È la scelta ideale per incollaggi e riparazioni su gommo</Description>
@@ -10797,6 +10728,93 @@
     <Weight>0.28</Weight>
     <Condition>nuovo</Condition>
     <ParentID>bus-bar-elettrico-250a-4x8mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Bianco</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
+    <OriginalPrice>125.92</OriginalPrice>
+    <Price>104.93</Price>
+    <Code>2501008</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52513490960731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA1 a Incasso (70 mm) – Per Barche 6-12 mt. - Nero</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA1 è progettata per l&apos;installazione a incasso su console e cruscotti di imbarcazioni di media dimensione (6-12 metri). Il suo design elegante e compatto si integra perfettamente nella plancia, offrendo al contempo una lettura ch</Description>
+    <OriginalPrice>125.92</OriginalPrice>
+    <Price>104.93</Price>
+    <Code>62.00114.01</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba1-incasso?variant=52520337080667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassonero.png?v=1767807352</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626076861</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassobianco.png?v=1767807352</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba1-incassomisura.png?v=1767807352</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba1-incasso</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Nero</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA2 è uno strumento di navigazione affidabile e preciso, ideale per imbarcazioni di lunghezza compresa tra i 6 e i 12 metri . Questo modello è progettato per il montaggio su staffa , rendendola perfetta per installazioni su crusc</Description>
+    <OriginalPrice>129.97</OriginalPrice>
+    <Price>108.31</Price>
+    <Code>530115</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba2-staffa?variant=52520357757275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-nera.png?v=1767806956</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626076847</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-bianca.png?v=1767806956</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-misure.png?v=1767806956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba2-staffa</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Artica BA2 su Staffa (70 mm) – Per Barche 6-12 mt. - Bianco</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Artica BA2 è uno strumento di navigazione affidabile e preciso, ideale per imbarcazioni di lunghezza compresa tra i 6 e i 12 metri . Questo modello è progettato per il montaggio su staffa , rendendola perfetta per installazioni su crusc</Description>
+    <OriginalPrice>129.97</OriginalPrice>
+    <Price>108.31</Price>
+    <Code>2501009</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-artica-ba2-staffa?variant=52520357790043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-nera.png?v=1767806956</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-bianca.png?v=1767806956</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-artica-ba2-staffa-misure.png?v=1767806956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-artica-ba2-staffa</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Magnetica Riviera Urania BU2 a Chiesuola (4&quot;) – Per Barche 10-35 mt. - Rosa 2° con Collaudo R.I.Na.</Name>
+    <Brand>Riviera</Brand>
+    <Description>La Bussola Riviera Urania BU2 è uno strumento professionale a chiesuola progettato per imbarcazioni di dimensioni importanti, dai 10 ai 35 metri . La sua costruzione robusta e affidabile la rende idonea sia per imbarcazioni da diporto che da lavoro (appro</Description>
+    <OriginalPrice>529.32</OriginalPrice>
+    <Price>441.10</Price>
+    <Code>2503914</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-urania-bu2-chiesuola?variant=52520304607579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu2-chiesuola.png?v=1773341964</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu2-chiesuola_misura.png?v=1773341965</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Riviera.png?v=1773341967</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-urania-bu2-chiesuola</ParentID>
   </Offer>
   <Offer>
     <Name>Caricabatteria Victron BlueSmart IP65 - Bluetooth Integrato e Gestione Smart - 12/15</Name>
@@ -12123,25 +12141,6 @@
     <ParentID>corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Deviatore 100A/300A continuo/intermitente staccabatteria</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo deviatore batteria è un componente di sicurezza cruciale per la gestione dell&apos;alimentazione di bordo, specialmente in sistemi con più batterie. Permette di controllare e isolare le batterie con la massima flessibilità. Funzionalità e Prestazioni El</Description>
-    <OriginalPrice>31.99</OriginalPrice>
-    <Price>22.85</Price>
-    <Code>14.923.12</Code>
-    <Link>https://www.onautica.com/products/deviatore-batteria-4-posizioni-100a-continuo?variant=52577434829147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Deviatore_100A_300A_continuo_intermitente_staccabatteria.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137194115</EanCode>
-    <Weight>0.23</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.923.12b.png?v=1773341651</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.923.12.png?v=1773341653</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>deviatore-batteria-4-posizioni-100a-continuo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Deviatore/staccabatterie Selecta New MK III: gestione avanzata e sicura per impianto di bordo</Name>
     <Brand>Osculati</Brand>
     <Description>Garantisci la massima efficienza e sicurezza al tuo impianto elettrico con il nostro selettore staccabatterie versione &quot;MK III&quot; , progettato per offrire un controllo totale sulle batterie di avviamento e dei servizi. Questo dispositivo indispensabile perm</Description>
@@ -12732,25 +12731,6 @@
     <ParentID>interruttore-levetta-led-12v-con-luce</ParentID>
   </Offer>
   <Offer>
-    <Name>Interruttore/deviatore per batterie Heavy Duty 500/310A con chiave serraggio</Name>
-    <Brand>Osculati</Brand>
-    <Description>Progettato per le applicazioni più esigenti, l&apos;interruttore/deviatore Heavy Duty rappresenta la scelta definitiva per chi cerca affidabilità, sicurezza e performance senza compromessi. Realizzato utilizzando esclusivamente i migliori materiali disponibili</Description>
-    <OriginalPrice>72.39</OriginalPrice>
-    <Price>51.71</Price>
-    <Code>14.904.00</Code>
-    <Link>https://www.onautica.com/products/deviatore-heavy-duty-max-interm-contin-500-310a-12-24v-con-chiave-serraggio?variant=52577434960219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/deviatore1.png?v=1773341651</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137037382</EanCode>
-    <Weight>0.66</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/deviatore2.png?v=1773341652</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.904.00.png?v=1773341653</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>deviatore-heavy-duty-max-interm-contin-500-310a-12-24v-con-chiave-serraggio</ParentID>
-  </Offer>
-  <Offer>
     <Name>Interruttore/deviatore per batterie Selecta 175A</Name>
     <Brand>Osculati</Brand>
     <Description>Prendi il pieno controllo del tuo impianto elettrico con il selettore per batterie Selecta . Questo interruttore/deviatore robusto e affidabile è la soluzione ideale per chi gestisce due banchi batteria e necessita della massima flessibilità operativa, si</Description>
@@ -13031,23 +13011,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.608.12c.png?v=1773341942</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pannello-di-controllo-per-pompe-di-sentina-con-allarme-sonoro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello Elettrico Elite 6 Interruttori Riarmabili – Alluminio IP56</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Pannello Elettrico Elite a 6 Interruttori (Cod. 14.700.00) è il quadro di comando premium progettato per chi desidera gestire le principali utenze di bordo con la massima sicurezza e comodità. Il suo principale vantaggio è l&apos;utilizzo di fusibili automa</Description>
-    <OriginalPrice>110.73</OriginalPrice>
-    <Price>77.39</Price>
-    <Code>14.700.00</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-elite-6-interruttori-riarmabili-ip56?variant=52577411563867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-elite-6-interruttori-riarmabili-ip56.webp?v=1773341608</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137002069</EanCode>
-    <Weight>0.51</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-elite-6-interruttori-riarmabili-ip56</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Orizzontale 4 Interruttori – Alluminio IP56</Name>
@@ -14676,6 +14639,22 @@
     <ParentID>cleaner-264-pulitore-pvc-poliuretano</ParentID>
   </Offer>
   <Offer>
+    <Name>Clips di Fissaggio in Acciaio Inox 22/28 mm – Anticorrosione per Nautica</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Clips inox 22/28 mm. Le clips inox da 22/28 mm sono elementi di fissaggio in acciaio inossidabile, progettati per garantire tenuta e resistenza in ambienti marini soggetti a umidità e salsedine. A chi è rivolto Ideale per armatori, cantieri nautici e appa</Description>
+    <OriginalPrice>7.81</OriginalPrice>
+    <Price>5.79</Price>
+    <Code>0712831</Code>
+    <Link>https://www.onautica.com/products/clips-inox-22-28-mm?variant=52577430208859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Clips_inox_22_28_mm..png?v=1773341647</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626025265</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>clips-inox-22-28-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Compasso a molla Ø 10 mm. - L 220 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il compasso a molla è realizzato in acciaio inox di alta qualità , ideale per resistere alla corrosione e garantire lunga durata anche negli ambienti umidi tipici dell&apos;uso marino. Progettato specificamente per finestrini nautici, il meccanismo a molla ass</Description>
@@ -14712,6 +14691,24 @@
     <ParentID>compasso-a-molla-o-14-mm-l-260-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
+    <OriginalPrice>26.90</OriginalPrice>
+    <Price>21.53</Price>
+    <Code>10789</Code>
+    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52513433583963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.43</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Standard (Anti-pizzicamento)</Name>
     <Brand>Motomarine</Brand>
     <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
@@ -14724,6 +14721,25 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626438980</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cerniere-sedili-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppia Cerniere per Sedili Nautici in Alluminio Anodizzato - Heavy Duty (Rinforzata Anti-pizzicamento)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Queste Cerniere per Sedili sono progettate per garantire robustezza e funzionalità nella realizzazione o sostituzione di sedili pieghevoli a bordo. Realizzate in Alluminio Anodizzato di alta qualità, offrono un&apos;eccellente resistenza all&apos;ambiente marino, m</Description>
+    <OriginalPrice>48.40</OriginalPrice>
+    <Price>38.71</Price>
+    <Code>10791</Code>
+    <Link>https://www.onautica.com/products/cerniere-sedili-alluminio-anodizzato?variant=52519783137627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzato.png?v=1768409162</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626438997</EanCode>
+    <Weight>1.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatostandard.png?v=1768409162</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cerniere-sedili-alluminio-anodizzatoHeavyDutynopinch.png?v=1768409162</Image3>
     <Condition>nuovo</Condition>
@@ -15671,6 +15687,25 @@
     <ParentID>copriparabordo-navishell-f-type-in-tessuto-grigio</ParentID>
   </Offer>
   <Offer>
+    <Name>Deviatore 100A/300A continuo/intermitente staccabatteria</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo deviatore batteria è un componente di sicurezza cruciale per la gestione dell&apos;alimentazione di bordo, specialmente in sistemi con più batterie. Permette di controllare e isolare le batterie con la massima flessibilità. Funzionalità e Prestazioni El</Description>
+    <OriginalPrice>31.99</OriginalPrice>
+    <Price>22.85</Price>
+    <Code>14.923.12</Code>
+    <Link>https://www.onautica.com/products/deviatore-batteria-4-posizioni-100a-continuo?variant=52577434829147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Deviatore_100A_300A_continuo_intermitente_staccabatteria.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137194115</EanCode>
+    <Weight>0.23</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.923.12b.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.923.12.png?v=1773341653</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>deviatore-batteria-4-posizioni-100a-continuo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Deviatore Staccabatterie Heavy Duty (HD) - Controllo a 4 Posizioni - 280A/380A</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo deviatore staccabatterie è progettato per un uso continuato in impianti a doppia batteria, garantendo massima sicurezza e flessibilità nella gestione dell&apos;alimentazione di bordo. Caratteristiche Principali: Funzione Multipla: Offre **quattro posizi</Description>
@@ -16059,6 +16094,24 @@
     <ParentID>giunto-t-aperto-90-inox-316</ParentID>
   </Offer>
   <Offer>
+    <Name>Giunto T Aperto 90° in Acciaio Inox Stampato - Ø 22 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo giunto a T aperto a 90° è un componente di raccorderia essenziale per la costruzione o la riparazione di strutture tubolari come pulpiti, draglie e corrimano. Caratteristiche Principali: Materiale: Realizzato in Acciaio Inox stampato , garantendo r</Description>
+    <OriginalPrice>7.67</OriginalPrice>
+    <Price>5.68</Price>
+    <Code>0638022</Code>
+    <Link>https://www.onautica.com/products/giunto-t-aperto-90-inox-tubolari?variant=52541947412827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0638025.png?v=1773341792</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626024091</EanCode>
+    <Weight>0.04</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0638025b.png?v=1773341793</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>giunto-t-aperto-90-inox-tubolari</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giunto T Aperto 90° in Acciaio Inox Stampato - Ø 25 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo giunto a T aperto a 90° è un componente di raccorderia essenziale per la costruzione o la riparazione di strutture tubolari come pulpiti, draglie e corrimano. Caratteristiche Principali: Materiale: Realizzato in Acciaio Inox stampato , garantendo r</Description>
@@ -16181,6 +16234,25 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/grilloinox.png?v=1773341992</Image2>
     <Condition>nuovo</Condition>
     <ParentID>grillo-diritto-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Interruttore/deviatore per batterie Heavy Duty 500/310A con chiave serraggio</Name>
+    <Brand>Osculati</Brand>
+    <Description>Progettato per le applicazioni più esigenti, l&apos;interruttore/deviatore Heavy Duty rappresenta la scelta definitiva per chi cerca affidabilità, sicurezza e performance senza compromessi. Realizzato utilizzando esclusivamente i migliori materiali disponibili</Description>
+    <OriginalPrice>72.39</OriginalPrice>
+    <Price>51.71</Price>
+    <Code>14.904.00</Code>
+    <Link>https://www.onautica.com/products/deviatore-heavy-duty-max-interm-contin-500-310a-12-24v-con-chiave-serraggio?variant=52577434960219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/deviatore1.png?v=1773341651</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137037382</EanCode>
+    <Weight>0.66</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/deviatore2.png?v=1773341652</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/14.904.00.png?v=1773341653</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>deviatore-heavy-duty-max-interm-contin-500-310a-12-24v-con-chiave-serraggio</ParentID>
   </Offer>
   <Offer>
     <Name>Kit di sopravvivenza in accordo con D.M. 17/09/2024</Name>
@@ -16510,41 +16582,6 @@
     <ParentID>moschettone-inox-120-mm-a-occhiolo-aisi-316-occhiello</ParentID>
   </Offer>
   <Offer>
-    <Name>Moschettone inox 120 mm. con ghiera AISI 316 A4 apertura larga CERTIFICATO</Name>
-    <Brand>Carcano</Brand>
-    <Description>Moschettone in acciaio inox a grande apertura in acciaio inox con ghiera AISI 316, aggancio senza appigli. Misura A B C D L Carico di Rottura Peso mm mm mm mm mm mm KN Kg 120 18 15 23 11 125 28 0,22 Caratteristiche principali Certificato: garantisce affid</Description>
-    <OriginalPrice>31.51</OriginalPrice>
-    <Price>22.50</Price>
-    <Code>A580120</Code>
-    <Link>https://www.onautica.com/products/moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga-certificato?variant=52577454031195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/A580120_ad7a1d7e-c4e2-4860-a66a-29325403d443.png?v=1773341708</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8013429580031</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/A580120b.png?v=1773341709</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga-certificato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Moschettone inox 120 mm.con ghiera AISI 316 A4 apertura larga</Name>
-    <Brand>Osculati</Brand>
-    <Description>Moschettone in acciaio inox a grande apertura in acciaio inox con ghiera AISI 316, aggancio senza appigli. Caratteristiche: Versione con ghiera di sicurezza a rotazione A 122 mm. E 11 mm. B 23 mm. Carico di rottura ND Caratteristiche principali Acciaio in</Description>
-    <OriginalPrice>16.19</OriginalPrice>
-    <Price>11.56</Price>
-    <Code>M8054-4-11*120</Code>
-    <Link>https://www.onautica.com/products/moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga?variant=52577453572443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_mm._120_con_ghiera_AISI_316_apertura_larga.png?v=1773341708</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137080951</EanCode>
-    <Weight>0.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/09.177.12b_f0a3a0cf-05f4-40b8-9897-e06fc426c6d7.png?v=1773341709</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pannello Elettrico 8 Interruttori + Presa 12V – Grafite Lucido IP65</Name>
     <Brand>Osculati</Brand>
     <Description>Il Pannello Elettrico a 8 Interruttori con Presa 12V (Cod. 14.843.09) rappresenta la scelta premium per chi desidera una plancia di comando non solo affidabile, ma anche esteticamente ricercata. La sua elegante finitura grafite lucido si integra alla perf</Description>
@@ -16593,6 +16630,23 @@
     <Weight>0.27</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-elite-3-interruttori-riarmabili-ip56</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello Elettrico Elite 6 Interruttori Riarmabili – Alluminio IP56</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico Elite a 6 Interruttori (Cod. 14.700.00) è il quadro di comando premium progettato per chi desidera gestire le principali utenze di bordo con la massima sicurezza e comodità. Il suo principale vantaggio è l&apos;utilizzo di fusibili automa</Description>
+    <OriginalPrice>110.73</OriginalPrice>
+    <Price>77.39</Price>
+    <Code>14.700.00</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-elite-6-interruttori-riarmabili-ip56?variant=52577411563867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-elite-6-interruttori-riarmabili-ip56.webp?v=1773341608</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137002069</EanCode>
+    <Weight>0.51</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-elite-6-interruttori-riarmabili-ip56</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Ghost 12V con Interruttori Impermeabili - Ghost 3 Posizioni</Name>
@@ -16818,23 +16872,6 @@
     <EanCode>8033626305763</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-pannello-contour-tester-digital-3</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passamani cm. 40 in acciaio inox stud 1 Ø 22 mm. H. 5 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Passamano in acciaio inox AISI 316 con finitura lucida a specchio, ideale per garantire sicurezza e stabilità a bordo. La base è dotata di inserto filettato che consente un fissaggio passante da sotto coperta, pratico e solido. Materiale: Acciaio inox AIS</Description>
-    <OriginalPrice>31.86</OriginalPrice>
-    <Price>22.76</Price>
-    <Code>0618240</Code>
-    <Link>https://www.onautica.com/products/offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm?variant=52577461829979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm..png?v=1773341735</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023131</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm._1.png?v=1773341735</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Passamani cm. 60 in acciaio inox stud 1 Ø 22 mm. H. 5 cm.</Name>
@@ -20276,6 +20313,41 @@
     <ParentID>moschettone-19-mm-girevole-a4</ParentID>
   </Offer>
   <Offer>
+    <Name>Moschettone inox 120 mm. con ghiera AISI 316 A4 apertura larga CERTIFICATO</Name>
+    <Brand>Carcano</Brand>
+    <Description>Moschettone in acciaio inox a grande apertura in acciaio inox con ghiera AISI 316, aggancio senza appigli. Misura A B C D L Carico di Rottura Peso mm mm mm mm mm mm KN Kg 120 18 15 23 11 125 28 0,22 Caratteristiche principali Certificato: garantisce affid</Description>
+    <OriginalPrice>31.51</OriginalPrice>
+    <Price>22.50</Price>
+    <Code>A580120</Code>
+    <Link>https://www.onautica.com/products/moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga-certificato?variant=52577454031195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/A580120_ad7a1d7e-c4e2-4860-a66a-29325403d443.png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8013429580031</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/A580120b.png?v=1773341709</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga-certificato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Moschettone inox 120 mm.con ghiera AISI 316 A4 apertura larga</Name>
+    <Brand>Osculati</Brand>
+    <Description>Moschettone in acciaio inox a grande apertura in acciaio inox con ghiera AISI 316, aggancio senza appigli. Caratteristiche: Versione con ghiera di sicurezza a rotazione A 122 mm. E 11 mm. B 23 mm. Carico di rottura ND Caratteristiche principali Acciaio in</Description>
+    <OriginalPrice>16.19</OriginalPrice>
+    <Price>11.56</Price>
+    <Code>M8054-4-11*120</Code>
+    <Link>https://www.onautica.com/products/moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga?variant=52577453572443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_mm._120_con_ghiera_AISI_316_apertura_larga.png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137080951</EanCode>
+    <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/09.177.12b_f0a3a0cf-05f4-40b8-9897-e06fc426c6d7.png?v=1773341709</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-inox-mm-120-con-ghiera-aisi-316-apertura-larga</ParentID>
+  </Offer>
+  <Offer>
     <Name>Moschettone inox con fibbia 25 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Moschettone inox con fibbia 25 mm. Il moschettone inox con fibbia da 25 mm è un elemento di connessione in acciaio inossidabile, pensato per garantire affidabilità e resistenza alla corrosione in ambiente marino. A chi è rivolto Adatto a armatori, velisti</Description>
@@ -20386,6 +20458,23 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Occhioli_acciaio_inox_a_vite_32x3_5_mm._-_blister_7_pz..png?v=1773341713</Image3>
     <Condition>nuovo</Condition>
     <ParentID>occhiolo-vite-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passamani cm. 40 in acciaio inox stud 1 Ø 22 mm. H. 5 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Passamano in acciaio inox AISI 316 con finitura lucida a specchio, ideale per garantire sicurezza e stabilità a bordo. La base è dotata di inserto filettato che consente un fissaggio passante da sotto coperta, pratico e solido. Materiale: Acciaio inox AIS</Description>
+    <OriginalPrice>31.86</OriginalPrice>
+    <Price>22.76</Price>
+    <Code>0618240</Code>
+    <Link>https://www.onautica.com/products/offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm?variant=52577461829979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm..png?v=1773341735</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023131</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm._1.png?v=1773341735</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Passamano in Acciaio Inox FAST 1 - Montaggio Esterno - 250 mm.</Name>
@@ -21375,6 +21464,22 @@
     <ParentID>dischetti-velcro-o-25-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-10pz</ParentID>
   </Offer>
   <Offer>
+    <Name>Dischetti con velcro Ø 45 mm. per tessuti e rivestimenti 5 cp.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Dischetti maschio+femmina con velcro per fissare tessuti e rivestimenti. Caratteristiche: Ø 45 mm. Pezzi 5 coppie Caratteristiche principali Sistema di fissaggio a doppia componente: dischetto maschio e femmina per una chiusura sicura e rimovibile Forma c</Description>
+    <OriginalPrice>14.25</OriginalPrice>
+    <Price>10.55</Price>
+    <Code>3215006</Code>
+    <Link>https://www.onautica.com/products/dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp?variant=52577502298459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Guarnizioni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3215006.png?v=1773341863</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626095244</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>dischetti-velcro-o-45-mm-per-fissare-tessuti-e-rivestimenti-maschio-femmina-5-cp</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale di Coperta Inox Rosso 112,5°</Name>
     <Brand>Osculati</Brand>
     <Description>Il Fanale di Coperta Inox Rosso 112,5° è un fanale di navigazione in acciaio inossidabile, progettato per segnalare il lato di babordo dell&apos;imbarcazione con un angolo di copertura di 112,5°, in piena conformità con le normative internazionali COLREG . Gar</Description>
@@ -21544,6 +21649,38 @@
     <ParentID>fanale-led-360-asta-inox-64cm</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale di Via On Deck Rosso a LED – Fanale di Navigazione da Coperta per Barca</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Fanale di navigazione a LED per installazione a coperta, ideale per imbarcazioni da diporto. Realizzato in plastica robusta e resistente agli agenti atmosferici, garantisce visibilità e affidabilità nelle condizioni tipiche della navigazione. Colore luce:</Description>
+    <OriginalPrice>15.74</OriginalPrice>
+    <Price>11.24</Price>
+    <Code>2111020</Code>
+    <Link>https://www.onautica.com/products/fanale-on-deck-rosso-led?variant=52577434435931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_On_Deck_rosso_Led.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626281333</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-on-deck-rosso-led</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanale di Via On Deck Verde a LED – Fanale di Navigazione da Coperta per Barca</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Fanale di navigazione luce verde a LED, progettato per l&apos;installazione a copertura su imbarcazioni da diporto. La struttura in plastica garantisce resistenza agli agenti atmosferici e leggerezza, rendendolo adatto all&apos;uso in ambiente marino. La tecnologia</Description>
+    <OriginalPrice>15.74</OriginalPrice>
+    <Price>11.24</Price>
+    <Code>2111022</Code>
+    <Link>https://www.onautica.com/products/fanale-on-deck-verde-led?variant=52577434599771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_On_Deck_verde_Led.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626281340</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-on-deck-verde-led</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanale led rosso inox Attwood side mount R.I.N.A. &lt; 20M</Name>
     <Brand>Attwood</Brand>
     <Description>Il fanale di navigazione laterale Attwood a LED 12V è la scelta affidabile per chi cerca sicurezza e durabilità in mare. La cassa in acciaio inox con protezione IPX7 garantisce resistenza all&apos;immersione e alla corrosione, ideale per l&apos;uso marino in qualsi</Description>
@@ -21590,24 +21727,6 @@
     <EanCode>8024827710869</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>fanale-led-verde-inox-r-i-n-a-20m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanale su asta 360° inox H 100 cm. plastica bianca</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di navigazione a 360° su asta, ideale per imbarcazioni fino a 20 metri di lunghezza. L&apos;asta, di colore bianco, è realizzata interamente in acciaio inox lucido a specchio per garantire resistenza alla corrosione e un aspetto curato nel tempo. Altezz</Description>
-    <OriginalPrice>61.77</OriginalPrice>
-    <Price>44.12</Price>
-    <Code>11.147.11</Code>
-    <Link>https://www.onautica.com/products/fanale-su-asta-360-inox-h-100-cm-plastica-bianca?variant=52577435189595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_su_asta_360_inox_H_100_cm._plastica_bianca.png?v=1773341653</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137012846</EanCode>
-    <Weight>0.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanale_su_asta_360_inox_H_100_cm._plastica_bianca_1.png?v=1773341654</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>fanale-su-asta-360-inox-h-100-cm-plastica-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>Fanale testa d&apos;albero 360° (R.I.N.A.) luce rossa corpo nero</Name>
@@ -22248,6 +22367,22 @@
     <ParentID>fanali-midi-rosso-black-r-i-n-a-di-via</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanali midi verde black R.I.N.A. di via</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Fanali midi verde black R.I.N.A. di via Il fanale midi verde black R.I.N.A. di via è un fanale di navigazione omologato R.I.N.A., progettato per segnalare la fiancata dritta dell&apos;imbarcazione durante la navigazione notturna o in condizioni di scarsa visib</Description>
+    <OriginalPrice>13.75</OriginalPrice>
+    <Price>9.82</Price>
+    <Code>2110802</Code>
+    <Link>https://www.onautica.com/products/fanali-midi-verde-black-r-i-n-a-di-via?variant=49393134174555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_midi_verde_black_R.I.N.A._di_via.png?v=1762785395</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626203076</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-midi-verde-black-r-i-n-a-di-via</ParentID>
+  </Offer>
+  <Offer>
     <Name>Faretto LED da Coperta G-Line E160 18W Flood – Luce Diffusa IP67 - Bianco</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Faretto LED G-Line E160 è una soluzione ad alta efficienza per l&apos;illuminazione esterna di barche da lavoro, pesca e diporto. Progettato come luce Flood (Diffusa a 60°) , è ideale per illuminare ampie aree come il pozzetto di poppa, la coperta o la zona</Description>
@@ -22552,6 +22687,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.10d.png?v=1773341727</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-ghiacciaia-igloo-wheelie-38-36lt-blu-con-ruote</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Girante di Ricambio per Motori Fuoribordo Tomos (2 Tempi)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Girante pompa acqua di ricambio specifica per motori fuoribordo Tomos . Questo componente è essenziale per il sistema di raffreddamento del motore, garantendo il corretto flusso d&apos;acqua e prevenendo danni da surriscaldamento. Il ricambio è compatibile con</Description>
+    <OriginalPrice>25.40</OriginalPrice>
+    <Price>21.18</Price>
+    <Code>10068</Code>
+    <Link>https://www.onautica.com/products/girante-ricambio-motori-tomos?variant=52577389936987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos.png?v=1773341552</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos3.png?v=1773341553</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/girante-pompa-acqua-motore-tomos2.png?v=1773341554</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>girante-ricambio-motori-tomos</ParentID>
   </Offer>
   <Offer>
     <Name>Girante Pompa Johnson 09-1077B-9</Name>
@@ -23205,6 +23358,60 @@
     <ParentID>giranti-ricambio-motori-honda</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814465</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>22.80</OriginalPrice>
+    <Price>18.96</Price>
+    <Code>1814465</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740065115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052100</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814304</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>17.90</OriginalPrice>
+    <Price>14.90</Price>
+    <Code>1814304</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740097883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051868</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814466</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>33.20</OriginalPrice>
+    <Price>27.70</Price>
+    <Code>1814466</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740130651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052117</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814467</Name>
     <Brand>Honda</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
@@ -23580,6 +23787,24 @@
     <ParentID>giranti-ricambio-motori-parsun</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 9.9/15 HP</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
+    <OriginalPrice>18.40</OriginalPrice>
+    <Price>15.35</Price>
+    <Code>1814244</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718372699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051523</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-parsun</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 20/25 HP</Name>
     <Brand>Motomarine</Brand>
     <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
@@ -23752,6 +23977,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu.png?v=1767375902</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051844</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu8.png?v=1767375902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu9.png?v=1767375902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Tohatsu (2T / 4T) - 1814306</Name>
+    <Brand>Tohatsu</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili con motori fuoribordo Tohatsu . Questi componenti sono essenziali per garantire il corretto raffreddamento del motore e prevenire surriscaldamenti. I ricambi sono disponibili per le principali serie di </Description>
+    <OriginalPrice>19.00</OriginalPrice>
+    <Price>15.85</Price>
+    <Code>1814306</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-tohatsu?variant=52525760414043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu.png?v=1767375902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051882</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu8.png?v=1767375902</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-tohatsu9.png?v=1767375902</Image3>
     <Condition>nuovo</Condition>
@@ -24153,6 +24396,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051479</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-mercury-mercruiser</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Mercury e Mercruiser (2T / 4T / Piedi Poppieri) - 1814305</Name>
+    <Brand>Mercury</Brand>
+    <Description>Gamma completa di giranti di raffreddamento di alta qualità compatibili con motori fuoribordo Mercury / Mariner e piedi poppieri Mercruiser . Realizzate in polimeri resistenti all&apos;usura e all&apos;ambiente marino, garantiscono un flusso d&apos;acqua ottimale per il</Description>
+    <OriginalPrice>23.20</OriginalPrice>
+    <Price>19.35</Price>
+    <Code>1814305</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-mercury-mercruiser?variant=52525777125723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser.png?v=1767373902</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051875</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser17.png?v=1767373902</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-mercury-mercruiser16.png?v=1767373902</Image3>
     <Condition>nuovo</Condition>
@@ -25552,6 +25813,24 @@
     <ParentID>marine-hydraulic-oil-1-lt</ParentID>
   </Offer>
   <Offer>
+    <Name>Morsetto per tubo per faro 2121014 - 2121016</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il morsetto per tubo da 22 mm è l&apos;accessorio ideale per fissare in modo sicuro e stabile i fari di bordo ai tubi della tua imbarcazione. Progettato per garantire un ancoraggio solido anche nelle condizioni di navigazione più impegnative, assicura che l&apos;il</Description>
+    <OriginalPrice>19.92</OriginalPrice>
+    <Price>14.23</Price>
+    <Code>0810019</Code>
+    <Link>https://www.onautica.com/products/morsetto-per-tubo-per-faro-2121014-2121016?variant=52577452654939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Morsetto_per_tubo_per_faro_2121014_-_2121016.png?v=1773341706</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626025784</EanCode>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Morsetto_per_tubo_per_faro_2121014_-_2121016_1.png?v=1773341707</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>morsetto-per-tubo-per-faro-2121014-2121016</ParentID>
+  </Offer>
+  <Offer>
     <Name>Nastro Adesivo in PVC Espanso Nero per Oblò e Passauomo 3 mt. - 3x19 mm. - 3 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Questo nastro adesivo in PVC espanso è un componente essenziale, studiato per ripristinare o creare una sigillatura stagna su tutte le aperture della tua imbarcazione, come oblò, passauomo e finestrini. Grazie al suo materiale in PVC espanso nero , garant</Description>
@@ -25632,6 +25911,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-piede-quicksilver-sae-80w90-premium-blend_1lt..png?v=1773341732</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>745061005471</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-piede-quicksilver-sae-80w90-premium-blend_237_ml..png?v=1773341732</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>olio-piede-quicksilver-sae-80w90-gear-lube</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Olio Piede Quicksilver® SAE 80W90 Gear Lube Premium Blend - 1 lt.</Name>
+    <Brand>Quicksilver</Brand>
+    <Description>Il Quicksilver® Premium Gear Lube è un olio piede di alta qualità, specificamente sviluppato per la manutenzione e la protezione delle scatole ingranaggi dei motori di potenza moderata. Garantisce un&apos;ottima lubrificazione e una difesa efficace contro la c</Description>
+    <OriginalPrice>34.90</OriginalPrice>
+    <Price>25.47</Price>
+    <Code>5705512</Code>
+    <Link>https://www.onautica.com/products/olio-piede-quicksilver-sae-80w90-gear-lube?variant=52526590624091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-piede-quicksilver-sae-80w90-premium-blend_1lt..png?v=1773341732</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626150363</EanCode>
+    <Weight>1.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/olio-piede-quicksilver-sae-80w90-premium-blend_237_ml..png?v=1773341732</Image2>
     <Condition>nuovo</Condition>
     <ParentID>olio-piede-quicksilver-sae-80w90-gear-lube</ParentID>
@@ -26762,6 +27059,23 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626000125</EanCode>
     <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/schemautilizzomezzo-marinaio-telescopico-easy-alluminio.png?v=1765216597</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Mezzo Marinaio Telescopico EASY - Alluminio Anodizzato (Comodo e Sicuro) - 120 &lt;&gt; 200 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Mezzo Marinaio Telescopico EASY è uno strumento essenziale per tutte le manovre di ormeggio e disormeggio, progettato per offrire massima leggerezza e sicurezza d&apos;uso. Design Robusto e Maneggevole: Materiale: Realizzato in Alluminio Anodizzato , garant</Description>
+    <Price>17.49</Price>
+    <Code>0700521</Code>
+    <Link>https://www.onautica.com/products/mezzo-marinaio-telescopico-easy-alluminio?variant=52540059156827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mezzo-marinaio-telescopico-easy-alluminio.png?v=1765216656</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000132</EanCode>
+    <Weight>0.47</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/schemautilizzomezzo-marinaio-telescopico-easy-alluminio.png?v=1765216597</Image2>
     <Condition>nuovo</Condition>
     <ParentID>mezzo-marinaio-telescopico-easy-alluminio</ParentID>
@@ -30300,6 +30614,22 @@
     <ParentID>detergente-shampoo-tk-boat-cleaner-1-lt</ParentID>
   </Offer>
   <Offer>
+    <Name>Detergente Teak Wonder Cleaner – Pulizia Profonda (Non Caustico)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Teak Wonder Cleaner è il detergente potente studiato per risolvere il problema della pulizia del teak senza ricorrere a metodi drastici. Spesso, per rimuovere il grigio, si utilizzano carteggiature invasive o polveri estremamente caustiche che danneggi</Description>
+    <OriginalPrice>77.16</OriginalPrice>
+    <Price>38.58</Price>
+    <Code>9769</Code>
+    <Link>https://www.onautica.com/products/detergente-teak-wonder-cleaner-non-caustico?variant=52577464648027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/detergente-teak-wonder-cleaner-non-caustico.webp?v=1773341745</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8054956500086</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>detergente-teak-wonder-cleaner-non-caustico</ParentID>
+  </Offer>
+  <Offer>
     <Name>Detergente vetroresina CFG 750 ml.</Name>
     <Brand>CFG</Brand>
     <Description>Detergente Vetroresina CFG: Brillantezza Professionale e Protezione Totale per la Tua Barca! Mantieni la tua imbarcazione splendente come il primo giorno con il Detergente Vetroresina CFG , la soluzione professionale concentrata studiata per la cura compl</Description>
@@ -32650,23 +32980,6 @@
     <ParentID>ripartitore-di-carica-70a-12-24v-mtm-electronic-corrente</ParentID>
   </Offer>
   <Offer>
-    <Name>Rubinetto Intermedio a Leva a Scatto Serie KP per Tubo da 12 mm per Impianti Idrici</Name>
-    <Brand>Osculati</Brand>
-    <Description>Rubinetto Intermedio a Leva Serie KP – Raccordo Rapido a Scatto per Tubo da 12 mm in Polietilene Semirigido Il rubinetto intermedio a leva serie KP a scatto per tubo da 12 mm è la soluzione ideale per intercettare e regolare il flusso dell&apos;acqua negli imp</Description>
-    <OriginalPrice>9.40</OriginalPrice>
-    <Price>6.25</Price>
-    <Code>17.111.19</Code>
-    <Link>https://www.onautica.com/products/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm?variant=52814396555611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm.webp?v=1776263781</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052033</EanCode>
-    <Weight>0.03</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Saracinesca a Sfera in Ottone Nichelato - Passaggio Totale PN25 - 3/8&quot;</Name>
     <Brand>Osculati</Brand>
     <Description>Questa valvola a sfera è un componente di alta qualità, progettato per il controllo del flusso negli impianti idraulici di bordo. La sua costruzione garantisce massima affidabilità e resistenza alla pressione. Caratteristiche Principali: Materiale: Realiz</Description>
@@ -33224,6 +33537,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Succhiarola_di_Fondo_in_Ottone_con_Filtro_Inox_Per_Sentina_gomito_20.png?v=1773341933</Image3>
     <Condition>nuovo</Condition>
     <ParentID>succhiarola-fondo-ottone-filtro-inox-sentina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Succhiarola in Plastica Verticale con Valvola di non Ritorno 25/38 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Succhiarola verticale con valvola di non ritorno.\n\n CARATTERISTICHE \n \n Ref- Verticale \n Per tubi ∅ mm 25-38 (1&apos;&apos;-1 1/2&apos;&apos;) \n Caratteristiche principali Costruzione verticale, ideale per installazioni in spazi ridotti a bordo Valvola di non ritorno i</Description>
+    <OriginalPrice>33.83</OriginalPrice>
+    <Price>24.17</Price>
+    <Code>1426036</Code>
+    <Link>https://www.onautica.com/products/succhiarola-in-plastica-verticale-con-valvola-di-non-ritorno-25-38-mm?variant=52577489650011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Succhiarola_in_Plastica_Verticale_con_Valvola_di_non_Ritorno_25_38_mm..png?v=1773341824</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626038500</EanCode>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Succhiarola_in_Plastica_Verticale_con_Valvola_di_non_Ritorno_25_38_mm._9.png?v=1773341825</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>succhiarola-in-plastica-verticale-con-valvola-di-non-ritorno-25-38-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo a Vite in Acciaio Inox AISI 316 – Raccorderia Idraulica - 1&quot;1/4</Name>
@@ -34199,7 +34530,7 @@
     <Price>14.86</Price>
     <Code>4121562</Code>
     <Link>https://www.onautica.com/products/cartuccia-ricambio-filtro-benzina-sacs-aquastop?variant=52577424179547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cartuccia-ricambio-filtro-sacs-aquastop.png?v=1773341640</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -34250,7 +34581,7 @@
     <Price>8.17</Price>
     <Code>4121552</Code>
     <Link>https://www.onautica.com/products/cartuccia-per-filtro-senza-separatore?variant=52577423491419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cartuccia_per_filtro_SENZA_separatore.png?v=1773341638</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36049,6 +36380,23 @@
     <ParentID>rubinetto-intercettazione-carburante-ottone-grande-passaggio</ParentID>
   </Offer>
   <Offer>
+    <Name>Rubinetto Intermedio a Leva a Scatto Serie KP per Tubo da 12 mm per Impianti Idrici</Name>
+    <Brand>Osculati</Brand>
+    <Description>Rubinetto Intermedio a Leva Serie KP – Raccordo Rapido a Scatto per Tubo da 12 mm in Polietilene Semirigido Il rubinetto intermedio a leva serie KP a scatto per tubo da 12 mm è la soluzione ideale per intercettare e regolare il flusso dell&apos;acqua negli imp</Description>
+    <OriginalPrice>9.40</OriginalPrice>
+    <Price>6.25</Price>
+    <Code>17.111.19</Code>
+    <Link>https://www.onautica.com/products/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm?variant=52814396555611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm.webp?v=1776263781</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052033</EanCode>
+    <Weight>0.03</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>rubinetto-intermedio-leva-serie-kp-scatto-tubo-12mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia</Name>
     <Brand>Osculati</Brand>
     <Description>Rullo ricambio - L 49 mm. - Ø 61 mm. - foro Ø 13 mm. puleggia Caratteristiche principali Dimensioni precise: lunghezza 49 mm, diametro 61 mm, foro da 13 mm per un montaggio esatto Ricambio originale compatibile con salpa ancore elettrici e musoni di prua </Description>
@@ -36937,6 +37285,23 @@
     <Weight>0.15</Weight>
     <Condition>nuovo</Condition>
     <ParentID>boetta-luce-led-visibilita-minima-3-miglia</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boetta Luminosa Solas/MED Sirius – Attivazione Salina</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Boetta Luminosa Sirius è un dispositivo di sicurezza salvavita fondamentale da abbinare al salvagente anulare della tua imbarcazione. È un prodotto rigorosamente omologato secondo le norme internazionali SOLAS e la direttiva comunitaria M.E.D. 96/98/CE</Description>
+    <OriginalPrice>30.57</OriginalPrice>
+    <Price>22.31</Price>
+    <Code>3020006</Code>
+    <Link>https://www.onautica.com/products/boetta-luminosa-solas-med-sirius?variant=52577456521563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boetta-luminosa-solas-med-sirius.webp?v=1773341716</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626085184</EanCode>
+    <Weight>0.60</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boetta-luminosa-solas-med-sirius</ParentID>
   </Offer>
   <Offer>
     <Name>Boetta Luminosa SOLAS/MED Vega – Lampada Galleggiante Omologata per Uomo a Mare</Name>
@@ -38344,40 +38709,6 @@
     <ParentID>coprimozzo-nero-x34-per-timoneria-t71-t72-t73</ParentID>
   </Offer>
   <Offer>
-    <Name>Corda traino per Skitube max 2 persone</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 1/2 persone Lunghezza 15,2 metri Carico di rottura 1077 Kg. Caratteristiche principali Progettata specificamente per lo traino di ski tube, garantisce una trazione</Description>
-    <OriginalPrice>51.64</OriginalPrice>
-    <Price>28.69</Price>
-    <Code>3015516</Code>
-    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-1-2-persone-15-2-metri?variant=52577520648539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_e2e9a513-de4b-4f19-8022-9fe3d346bac7.png?v=1773341915</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8718181287715</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_9e26db82-9642-4b27-91fa-d76d79510080.png?v=1773341915</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>corda-traino-ski-tube-max-1-2-persone-15-2-metri</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino per Skitube max 4 persone</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 3/4 persone Lunghezza 16,8 metri Carico di rottura 1882 Kg. Caratteristiche principali Progettata specificamente per ski tube e sport acquatici trainabili Galleggi</Description>
-    <OriginalPrice>72.14</OriginalPrice>
-    <Price>40.08</Price>
-    <Code>3015517</Code>
-    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-3-4-persone-16-8-metri?variant=52577520746843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_932538e9-e140-4b47-98ae-a4790bbf8b27.png?v=1773341914</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8718181287722</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_6fbde0bf-380d-4538-b01b-40ddb0a30f75.png?v=1773341915</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>corda-traino-ski-tube-max-3-4-persone-16-8-metri</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cuffia passa paratia ad incastro Ø 105x70 mm. grigio</Name>
     <Brand>Osculati</Brand>
     <Description>Tramite una apposita flangia incorporata, si monta a pressione sulla paratia del pozzetto, senza ghiere o viti. Terminale predisposto per essere tagliato. Caratteristiche: Variante grigio A 105 mm. B 100 mm. C 70 mm. D 3/5 mm. E 10/20 mm. Caratteristiche </Description>
@@ -39148,6 +39479,24 @@
     <ParentID>monoleva-b501bt-monomotore-con-trim-ultraflex</ParentID>
   </Offer>
   <Offer>
+    <Name>Monoleva comando B183 con blocco Ultraflex</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il monoleva comando B183 con blocco Ultraflex rappresenta una soluzione avanzata per la gestione precisa e affidabile delle manovre nautiche. Progettato per garantire un controllo ottimale, questo dispositivo integra un sistema di blocco Ultraflex che ass</Description>
+    <OriginalPrice>258.55</OriginalPrice>
+    <Price>198.88</Price>
+    <Code>38945B</Code>
+    <Link>https://www.onautica.com/products/offerta-monoleva-comando-b183-con-blocco-ultraflex?variant=52577460715867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Monoleva_comando_B183_con_blocco_Ultraflex.png?v=1773341730</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164389450</EanCode>
+    <Weight>2.39</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Monoleva_comando_B183_con_blocco_Ultraflex_1.png?v=1773341731</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-monoleva-comando-b183-con-blocco-ultraflex</ParentID>
+  </Offer>
+  <Offer>
     <Name>Monoleva comando B400 inox Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>La monoleva comando B400 in acciaio inox firmata Ultraflex rappresenta la soluzione ideale per gestire con precisione e affidabilità il controllo della trasmissione nelle imbarcazioni. Progettata per garantire durata e resistenza anche in ambienti marini </Description>
@@ -39217,21 +39566,20 @@
     <ParentID>musone-di-prua-basculante-classic-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Musoni L 200 mm. fissi classic inox</Name>
+    <Name>Musoni L 150 mm. fissi classic inox</Name>
     <Brand>Motomarine</Brand>
-    <Description>I Musoni L 200 mm. fissi classic in acciaio inox sono robusti musoni di prua progettati per garantire un ancoraggio sicuro e affidabile. Realizzati in acciaio inox, assicurano elevata resistenza alla corrosione e lunga durata nel tempo, anche in ambienti </Description>
-    <OriginalPrice>53.68</OriginalPrice>
-    <Price>38.34</Price>
-    <Code>1140002</Code>
-    <Link>https://www.onautica.com/products/musoni-l-200-mm-fissi-classic-inox?variant=52577454063963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Description>Musoni di prua fissi in Acciaio Inox. Ferma ancora (optional). Larghezza 50 mm. Ancora Max Kg. 7,5 Lunghezza: 150 mm. Caratteristiche principali Design fisso per una posa stabile e senza parti mobili soggette a usura Finitura Classic in acciaio inox, resi</Description>
+    <OriginalPrice>50.29</OriginalPrice>
+    <Price>35.92</Price>
+    <Code>1140001</Code>
+    <Link>https://www.onautica.com/products/musoni-l-150-mm-fissi-classic-inox?variant=49393253646683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Musoni_L_200_mm._fissi_classic_inox.png?v=1773341709</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Musoni_L_150_mm._fissi_classic_inox.png?v=1762782811</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626029416</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Musoni_L_200_mm._fissi_classic_inox_1.png?v=1773341710</Image2>
+    <EanCode>8033626029409</EanCode>
     <Condition>nuovo</Condition>
-    <ParentID>musoni-l-200-mm-fissi-classic-inox</ParentID>
+    <ParentID>musoni-l-150-mm-fissi-classic-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Musoni L 205 mm. in fusione acciaio inox - 12 kg.</Name>
@@ -39669,6 +40017,25 @@
     <Weight>0.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>sacca-salvagente-ferro-di-cavallo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sacca Porta Salvagente Anulare Bianca in PVC (Ø 680 mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Sacca Porta Salvagente Anulare Bianca (Cod. 3008190) è un accessorio fondamentale per mantenere in perfetto ordine le dotazioni di sicurezza a bordo della tua imbarcazione, proteggendole al contempo dall&apos;usura e dai raggi UV. Realizzata con un robusto </Description>
+    <OriginalPrice>59.70</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>3008190</Code>
+    <Link>https://www.onautica.com/products/sacca-porta-salvagente-anulare-bianca-680mm?variant=52577463828827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmchiuso.webp?v=1774635356</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626196668</EanCode>
+    <Weight>1.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mm.webp?v=1774635356</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-porta-salvagente-anulare-bianca-680mm</ParentID>
   </Offer>
   <Offer>
     <Name>Sacca Porta Salvagente Anulare Blu Navy in PVC (Ø 680 mm)</Name>
@@ -40376,6 +40743,22 @@
     <ParentID>serbatoi-acqua-standard-green-line-pump-kit</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoio 100 lt. flessibili acqua potabile rettangolari lt. 100</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
+    <OriginalPrice>190.61</OriginalPrice>
+    <Price>131.45</Price>
+    <Code>1522410</Code>
+    <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=52577463730523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_100_lt._flessibili_acqua_potabile_rettangolari_lt._100.png?v=1773341742</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626044082</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoio 100 lt. flessibili acqua potabile triangolari lt. 100 con raccordi</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoio flessibile per acqua potabile dalla forma triangolare, ideale per ottimizzare gli spazi a bordo nelle zone di prua o in altri angoli difficili da sfruttare. Realizzato in tessuto gommato rinforzato, garantisce robustezza e durata nel tempo, mant</Description>
@@ -40898,6 +41281,22 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>tappo-o-38-mm-imbarco-water-acciaio-inox-apertura-con-manovella-del-winch</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo di imbarco in plastica collo Ø 38 mm. acqua</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Tappi imbarco in plastica rinforzata bianca con apertura a leva incassata. Caratteristiche: Collo Ø 38 mm. Flangia Ø 85 mm. Caratteristiche principali Apertura a leva incassata per un utilizzo pratico e sicuro anche con le mani bagnate Costruito in plasti</Description>
+    <OriginalPrice>14.47</OriginalPrice>
+    <Price>10.72</Price>
+    <Code>4043162</Code>
+    <Link>https://www.onautica.com/products/tappo-o-38-mm-imbarco-water-plastica?variant=52577506132315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4043162.png?v=1773341875</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626118103</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-o-38-mm-imbarco-water-plastica</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo di Rifornimento a Filo in Acciaio Inox con Maniglietta – Serie Microfusa - Ø 50 mm. Benzina - Dritto</Name>
@@ -41924,6 +42323,23 @@
     <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
   </Offer>
   <Offer>
+    <Name>Capottina Tendalino 3 Archi Bianco (+ Alte) – Struttura Alluminio e Tessuto PVC - 185 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top (+ Alte) sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi, in questa versione con altez</Description>
+    <OriginalPrice>207.89</OriginalPrice>
+    <Price>159.91</Price>
+    <Code>3265258</Code>
+    <Link>https://www.onautica.com/products/capottina-tendalino-3-archi-bianco-alte?variant=52519962902875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-alluminioschemafrontale.png?v=1768237256</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschemafrontale.png?v=1768237289</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/capottina-tendalino-3-archi-bianco-blu-alluminioschema.png?v=1768237300</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>capottina-tendalino-3-archi-bianco-alte</ParentID>
+  </Offer>
+  <Offer>
     <Name>Capottina Tendalino 3 Archi Bianco (+ Alte) – Struttura Alluminio e Tessuto PVC - 200 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Le Capottine Tendalini a 3 Archi della serie Eco-Top (+ Alte) sono la soluzione ideale per chi cerca una protezione efficace sia dal sole che dalla pioggia a bordo di piccole e medie imbarcazioni. Il design classico a 3 archi, in questa versione con altez</Description>
@@ -42215,6 +42631,22 @@
     <ParentID>offerta-treccia-traino-bicolore-con-manico-sci-dacqua</ParentID>
   </Offer>
   <Offer>
+    <Name>Corda traino blu con manico - Sci d&apos;acqua</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Corda da traino per sci d&apos;acqua. L m ø mm 23 8 La corda da traino per sci d&apos;acqua con manico è un accessorio essenziale per chi pratica questo sport sul lago o in mare. Con diametro da 23 mm e lunghezza di 8 metri, offre una presa sicura e resistente dura</Description>
+    <OriginalPrice>36.16</OriginalPrice>
+    <Price>25.82</Price>
+    <Code>3015020</Code>
+    <Link>https://www.onautica.com/products/treccia-traino-blu-con-manico-sci-dacqua?variant=52577497940315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_traino_blu_con_manico_-_Sci_d_acqua.png?v=1773341849</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626000156</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-traino-blu-con-manico-sci-dacqua</ParentID>
+  </Offer>
+  <Offer>
     <Name>Corda traino con 8 sezioni diversi colori per accorciamenti eventuali - sci d&apos;acqua</Name>
     <Brand>Osculati</Brand>
     <Description>Treccia con 8 sezioni di diversi colori per eventuali accorciamenti. L m ø mm 22,5 12 Caratteristiche principali 8 sezioni di colori diversi per identificare rapidamente il punto di accorciamento Facilmente regolabile in lunghezza secondo le esigenze di t</Description>
@@ -42230,6 +42662,40 @@
     <Weight>1.28</Weight>
     <Condition>nuovo</Condition>
     <ParentID>treccia-traino-con-8-sezioni-diversi-colori-per-accorciamenti-eventuali-sci-dacqua</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino per Skitube max 2 persone</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 1/2 persone Lunghezza 15,2 metri Carico di rottura 1077 Kg. Caratteristiche principali Progettata specificamente per lo traino di ski tube, garantisce una trazione</Description>
+    <OriginalPrice>51.64</OriginalPrice>
+    <Price>28.69</Price>
+    <Code>3015516</Code>
+    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-1-2-persone-15-2-metri?variant=52577520648539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_e2e9a513-de4b-4f19-8022-9fe3d346bac7.png?v=1773341915</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8718181287715</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_9e26db82-9642-4b27-91fa-d76d79510080.png?v=1773341915</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-traino-ski-tube-max-1-2-persone-15-2-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino per Skitube max 4 persone</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Corda da traino galleggiante pronta all&apos;uso per ski tube. Caratteristiche: Carico di traino 3/4 persone Lunghezza 16,8 metri Carico di rottura 1882 Kg. Caratteristiche principali Progettata specificamente per ski tube e sport acquatici trainabili Galleggi</Description>
+    <OriginalPrice>72.14</OriginalPrice>
+    <Price>40.08</Price>
+    <Code>3015517</Code>
+    <Link>https://www.onautica.com/products/corda-traino-ski-tube-max-3-4-persone-16-8-metri?variant=52577520746843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516_932538e9-e140-4b47-98ae-a4790bbf8b27.png?v=1773341914</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8718181287722</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3015516a_6fbde0bf-380d-4538-b01b-40ddb0a30f75.png?v=1773341915</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>corda-traino-ski-tube-max-3-4-persone-16-8-metri</ParentID>
   </Offer>
   <Offer>
     <Name>Dispositivo Antifurto Universale per Tappo Imbarco Diesel – Inox AISI 316</Name>
@@ -45310,6 +45776,24 @@
     <ParentID>supporto-motore-pantografo-6hp-acciaio-inox</ParentID>
   </Offer>
   <Offer>
+    <Name>Supporto Motore ANGLED (Angolato) - Struttura Inox e Piastra Regolabile</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questo supporto motore è un accessorio robusto e durevole, ideale per l&apos;installazione di piccoli motori fuoribordo su imbarcazioni ausiliarie, progettato per il fissaggio in una posizione angolata (ANGLED). Caratteristiche Principali: Materiali: La strutt</Description>
+    <OriginalPrice>109.12</OriginalPrice>
+    <Price>68.20</Price>
+    <Code>0520827</Code>
+    <Link>https://www.onautica.com/products/supporto-motore-angled-inox-compensato-30kg?variant=52577492042075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_motore_con_struttura_in_acciaio_inox_e_piastra_regolabile_in_compensato_marino_1.png?v=1773341829</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626259240</EanCode>
+    <Weight>2.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_motore_con_struttura_in_acciaio_inox_e_piastra_regolabile_in_compensato_marino_5.png?v=1773341829</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-motore-angled-inox-compensato-30kg</ParentID>
+  </Offer>
+  <Offer>
     <Name>Supporto Motore Standard - Struttura Inox e Piastra in Compensato Marino</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo supporto motore è un accessorio robusto e durevole, ideale per l&apos;installazione di piccoli motori fuoribordo (fino a 10 HP) su imbarcazioni ausiliarie o tender. Caratteristiche Principali: Materiali: La struttura è realizzata in resistente Acciaio I</Description>
@@ -45567,6 +46051,24 @@
     <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
   </Offer>
   <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size M</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>24.49</OriginalPrice>
+    <Price>17.49</Price>
+    <Code>3270203</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242507099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216045</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
@@ -45580,6 +46082,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626216052</EanCode>
     <Weight>0.16</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size XL</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>37.11</OriginalPrice>
+    <Price>26.51</Price>
+    <Code>3270205</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52522242572635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..png?v=1773341842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216779</EanCode>
+    <Weight>5.80</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.png?v=1773341845</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.png?v=1773341844</Image3>
     <Condition>nuovo</Condition>
@@ -46907,22 +47428,6 @@
     <ParentID>tk-color-inox-vernici-metalliche-spray</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Honda – Grey Metal</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Ripristina l&apos;estetica del tuo fuoribordo con la Vernice Spray TK nella colorazione originale Honda Grey Metal (Grigio Metallizzato). Questa tinta è formulata per integrarsi perfettamente con la livrea classica dei motori Honda Marine. La vernice nitrocomb</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710075</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-honda?variant=52577497842011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-honda.jpg?v=1773341848</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120561</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-honda</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - Metal Silver</Name>
     <Brand>TKline Professional</Brand>
     <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
@@ -46934,6 +47439,22 @@
     <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-johnson</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Johnson – Colori Originali - White 71/80</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina la brillantezza e proteggi il tuo fuoribordo con le Vernici Spray TK , formulate appositamente per rispettare le tinte originali dei motori Johnson . Queste vernici a rapida essiccazione sono approvate per il ritocco e la verniciatura completa </Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710055</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-johnson?variant=52517151244635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-johnson.jpg?v=1773342064</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120370</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-johnson</ParentID>
   </Offer>
@@ -47002,22 +47523,6 @@
     <ParentID>vernice-spray-tk-motori-johnson</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Selva – Colori Originali - Blu</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Mantieni il look del tuo fuoribordo sempre perfetto con le Vernici Spray TK , le uniche che garantiscono la fedeltà cromatica assoluta per i motori Selva Marine , sia per le classiche livree blu che per quelle bianche più recenti. Ideali per ritocchi velo</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710070</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-selva?variant=52517127848283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-selva.jpg?v=1769768015</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120516</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-selva</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
     <Brand>TKline Professional</Brand>
     <Description>Dona nuova vita al tuo fuoribordo con le Vernici Spray TK , le uniche formulate per riprodurre fedelmente la vasta gamma di colorazioni originali dei motori Yamaha , dai classici blu scuri fino alle moderne finiture bianco perla. Queste vernici alla nitro</Description>
@@ -47064,22 +47569,6 @@
     <EanCode>8033626151223</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-yamaha</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK – Lacca Trasparente Protettiva (Clear Coat)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Completa il lavoro di verniciatura con la Lacca Trasparente TK , il tocco finale indispensabile per ottenere un risultato professionale e durevole su qualsiasi motore marino. Questo spray &quot;Clear Coat&quot; è formulato per essere applicato sopra la vernice colo</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710092</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-lacca-trasparente?variant=52577497973083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-lacca-trasparente.jpg?v=1773341848</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626151551</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-lacca-trasparente</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Trasparente Nautica a Solvente (Flatting) – Alta Resistenza - Opaco</Name>
@@ -48590,6 +49079,22 @@
     <ParentID>vernice-spray-tk-motori-aifo-marine</ParentID>
   </Offer>
   <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Honda – Grey Metal</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Ripristina l&apos;estetica del tuo fuoribordo con la Vernice Spray TK nella colorazione originale Honda Grey Metal (Grigio Metallizzato). Questa tinta è formulata per integrarsi perfettamente con la livrea classica dei motori Honda Marine. La vernice nitrocomb</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710075</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-honda?variant=52577497842011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-honda.jpg?v=1773341848</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120561</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-honda</ParentID>
+  </Offer>
+  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Mariner – Colori Originali - Light Grey - Grigio Chiaro</Name>
     <Brand>Motomarine</Brand>
     <Description>Restituisci l&apos;aspetto originale al tuo fuoribordo con le Vernici Spray TK , formulate specificamente per replicare le tinte di grigio che contraddistinguono i motori Mariner . Queste vernici alla nitrocombinata sono la soluzione ideale per riparare danni </Description>
@@ -48636,6 +49141,22 @@
     <EanCode>8052705120349</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Selva – Colori Originali - Blu</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Mantieni il look del tuo fuoribordo sempre perfetto con le Vernici Spray TK , le uniche che garantiscono la fedeltà cromatica assoluta per i motori Selva Marine , sia per le classiche livree blu che per quelle bianche più recenti. Ideali per ritocchi velo</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710070</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-selva?variant=52517127848283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-selva.jpg?v=1769768015</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120516</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-selva</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Suzuki – Colori Originali - Grigio</Name>
@@ -48715,6 +49236,22 @@
     <EanCode>8052705120578</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK – Lacca Trasparente Protettiva (Clear Coat)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Completa il lavoro di verniciatura con la Lacca Trasparente TK , il tocco finale indispensabile per ottenere un risultato professionale e durevole su qualsiasi motore marino. Questo spray &quot;Clear Coat&quot; è formulato per essere applicato sopra la vernice colo</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710092</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-lacca-trasparente?variant=52577497973083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-lacca-trasparente.jpg?v=1773341848</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626151551</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-lacca-trasparente</ParentID>
   </Offer>
   <Offer>
     <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
