@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-06T18:11:08.726Z -->
-<!-- Offerte: 2918 -->
+<!-- Generato: 2026-08-07T06:31:41.353Z -->
+<!-- Offerte: 2925 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -119,6 +119,23 @@
     <EanCode>8033626095930</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>basetta-piana-bps-inox-aisi-316-perno-sfilabile</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Borsone Vuoto per Dotazione di Bordo - 4 persone / 150N</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questo articolo è il solo borsone/marsupio , progettato per contenere le dotazioni di sicurezza obbligatorie (kit navigazione) per natanti e imbarcazioni. Fa parte della serie di kit navigazione Marsupio, ed è ideale per chi necessita di sostituire il con</Description>
+    <OriginalPrice>45.51</OriginalPrice>
+    <Price>32.51</Price>
+    <Code>22.409.37</Code>
+    <Link>https://www.onautica.com/products/solo-borsone-marsupio-kit-navigazione-4-12?variant=51800021041499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Ricambi Giubbotti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Borsone_marsupio_4_persone.png?v=1773341634</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137017971</EanCode>
+    <Weight>1.35</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>solo-borsone-marsupio-kit-navigazione-4-12</ParentID>
   </Offer>
   <Offer>
     <Name>Borsone Vuoto per Dotazione di Bordo - 6 persone / 100N</Name>
@@ -956,6 +973,23 @@
     <EanCode>8033626284433</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>ferma-prua-domar-150x70xh80-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fermo di Prua Completo H 50 cm – Sistema Blocca-Prua per Carrello Porta-Barche</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fermo di prua completo H. 50 cm Il fermo di prua completo da 50 cm è un componente essenziale per il rimessaggio e il trasporto dell&apos;imbarcazione, progettato per bloccare e stabilizzare la prua durante le fasi di alaggio e stivaggio su carrello. A chi è r</Description>
+    <OriginalPrice>54.59</OriginalPrice>
+    <Price>38.99</Price>
+    <Code>10080</Code>
+    <Link>https://www.onautica.com/products/fermo-di-prua-completo-h-50-cm?variant=52577435976027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fermo_di_prua_completo_H._50_cm.jpg?v=1773341655</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137069574</EanCode>
+    <Weight>3.36</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>fermo-di-prua-completo-h-50-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Fermo di prua, versione regolabile, tipo pesante</Name>
@@ -2060,6 +2094,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-maceratore-autoadescante-acque-nere_bronzo.webp?v=1773341964</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-maceratore-autoadescante-acque-nere</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Manuale Originale Jabsco Twist &apos;n&apos; Lock per WC Nautico</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La Pompa Manuale Originale Jabsco (PAR) è il componente di ricambio fondamentale per la manutenzione e il ripristino dei WC nautici manuali. Progettata per garantire affidabilità e igiene a bordo, questa pompa integra tutte le caratteristiche tecniche ava</Description>
+    <OriginalPrice>163.57</OriginalPrice>
+    <Price>112.81</Price>
+    <Code>0392904030</Code>
+    <Link>https://www.onautica.com/products/pompa-manuale-originale-jabsco-twist-n-lock?variant=52577462485339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-manuale-originale-jabsco-par.jpg?v=1773341737</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>671880587914</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-manuale-originale-jabsco-twist-n-lock</ParentID>
   </Offer>
   <Offer>
     <Name>Presa a 13 Poli per Rimorchi in ABS Nero con Particolari in Ottone Cromato ISO 11446</Name>
@@ -9565,6 +9615,23 @@
     <ParentID>gavitello-biconico-polietilene-doppio-anello</ParentID>
   </Offer>
   <Offer>
+    <Name>Gavitello Biconico in Polietilene Soffiato - Arancio / 8 kg</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di gavitelli biconici (o cilindrici) è realizzata in polietilene soffiato , garantendo un galleggiamento affidabile e una struttura robusta per l&apos;uso in mare. Caratteristiche Principali: Design Ottimizzato: Presenta un **doppio anello** su un</Description>
+    <OriginalPrice>15.50</OriginalPrice>
+    <Price>8.62</Price>
+    <Code>33.171.10AR</Code>
+    <Link>https://www.onautica.com/products/gavitello-biconico-polietilene-doppio-anello?variant=51837130080603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boa_gavitello_bicono.png?v=1773341985</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137032233</EanCode>
+    <Weight>0.47</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>gavitello-biconico-polietilene-doppio-anello</ParentID>
+  </Offer>
+  <Offer>
     <Name>Gavitello galleggiante a Pera in Polietilene Soffiato - Rosso</Name>
     <Brand>Osculati</Brand>
     <Description>Questo gavitello a pera in polietilene soffiato, unisce resistenza agli urti, leggerezza e manutenzione minima, risultando perfetto per utilizzi professionali e ricreativi. È ideale per piccoli scafi e ormeggi volanti. Caratteristiche Principali e Materia</Description>
@@ -9859,23 +9926,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Grillo_diritto_inox_8_mm._AISI_316_A4_senza_testa_per_ancore_3.png?v=1773341679</Image3>
     <Condition>nuovo</Condition>
     <ParentID>grillo-diritto-inox-senza-testa</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Interruttore a pulsante (ON)-OFF corpo inox led blu</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Interruttore a pulsante impermeabile con corpo in acciaio inox , ideale per installazioni a bordo in ambienti esposti all&apos;umidità e agli agenti atmosferici. La certificazione IP67 garantisce piena protezione contro la polvere e le immersioni temporanee in</Description>
-    <OriginalPrice>17.11</OriginalPrice>
-    <Price>12.22</Price>
-    <Code>2102017</Code>
-    <Link>https://www.onautica.com/products/interruttore-a-pulsante-corpo-inox-led-blu?variant=52577444921691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Interruttore_a_pulsante_corpo_inox_led_blu.png?v=1773341683</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626358776</EanCode>
-    <Weight>0.03</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>interruttore-a-pulsante-corpo-inox-led-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Anodi Alluminio Martyr per Mercury Verado 6 Cilindri</Name>
@@ -12322,6 +12372,23 @@
     <ParentID>interruttore-carlingswitch-levetta-on-off-on-1493806</ParentID>
   </Offer>
   <Offer>
+    <Name>Interruttore a pulsante (ON)-OFF corpo inox led blu</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Interruttore a pulsante impermeabile con corpo in acciaio inox , ideale per installazioni a bordo in ambienti esposti all&apos;umidità e agli agenti atmosferici. La certificazione IP67 garantisce piena protezione contro la polvere e le immersioni temporanee in</Description>
+    <OriginalPrice>17.11</OriginalPrice>
+    <Price>12.22</Price>
+    <Code>2102017</Code>
+    <Link>https://www.onautica.com/products/interruttore-a-pulsante-corpo-inox-led-blu?variant=52577444921691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Interruttore_a_pulsante_corpo_inox_led_blu.png?v=1773341683</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626358776</EanCode>
+    <Weight>0.03</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>interruttore-a-pulsante-corpo-inox-led-blu</ParentID>
+  </Offer>
+  <Offer>
     <Name>Interruttore a pulsante (ON)-OFF corpo inox led rosso</Name>
     <Brand>Motomarine</Brand>
     <Description>Interruttore a pulsante impermeabile con corpo in acciaio inox , ideale per installazioni a bordo in ambienti esposti a umidità e acqua. Grazie alla certificazione IP67 , garantisce una protezione affidabile contro la penetrazione di acqua e polvere. La r</Description>
@@ -12966,40 +13033,6 @@
     <ParentID>pannello-di-controllo-per-pompe-di-sentina-con-allarme-sonoro</ParentID>
   </Offer>
   <Offer>
-    <Name>Pannello Elettrico 8 Interruttori + Presa 12V – Grafite Lucido IP65</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Pannello Elettrico a 8 Interruttori con Presa 12V (Cod. 14.843.09) rappresenta la scelta premium per chi desidera una plancia di comando non solo affidabile, ma anche esteticamente ricercata. La sua elegante finitura grafite lucido si integra alla perf</Description>
-    <OriginalPrice>149.50</OriginalPrice>
-    <Price>123.95</Price>
-    <Code>14.843.09</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-8-interruttori-presa-12v-grafite?variant=52577411236187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-8-interruttori-presa-12v-grafite.webp?v=1773341607</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137057717</EanCode>
-    <Weight>0.88</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-8-interruttori-presa-12v-grafite</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello Elettrico Elite 3 Interruttori Riarmabili – Alluminio IP56</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Pannello Elettrico Elite a 3 Interruttori (Cod. 14.800.00) rappresenta un vero e proprio upgrade per la plancia della tua imbarcazione. Rispetto ai modelli standard, questa serie si distingue per l&apos;integrazione di fusibili automatici riarmabili : in ca</Description>
-    <OriginalPrice>55.85</OriginalPrice>
-    <Price>39.03</Price>
-    <Code>14.800.00</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-elite-3-interruttori-riarmabili-ip56?variant=52577411203419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-elite-3-interruttori-riarmabili-ip56.webp?v=1773341607</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137002175</EanCode>
-    <Weight>0.27</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-elite-3-interruttori-riarmabili-ip56</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pannello Elettrico Elite 6 Interruttori Riarmabili – Alluminio IP56</Name>
     <Brand>Osculati</Brand>
     <Description>Il Pannello Elettrico Elite a 6 Interruttori (Cod. 14.700.00) è il quadro di comando premium progettato per chi desidera gestire le principali utenze di bordo con la massima sicurezza e comodità. Il suo principale vantaggio è l&apos;utilizzo di fusibili automa</Description>
@@ -13050,24 +13083,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-verticale-6-interruttori-policarbonato-grigio_blister.webp?v=1773341956</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-orizzontale-7-interruttori-policarbonato-grigio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello Elettrico PCP Compact 6 Interruttori LED – IP66</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Pannello Elettrico PCP Compact a 6 Interruttori (Cod. 14.860.06) è la soluzione ideale per chi ha bisogno di gestire un numero maggiore di utenze in plancia mantenendo un design pulito e un&apos;affidabilità totale. Costruito con una robusta carcassa in pol</Description>
-    <OriginalPrice>83.90</OriginalPrice>
-    <Price>66.91</Price>
-    <Code>14.860.06</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-pcp-compact-6-interruttori-led-ip66?variant=52577411465563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-pcp-compact-6-interruttori-led-ip66.webp?v=1773341608</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137038709</EanCode>
-    <Weight>0.51</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/quadro-elettrico-scena-a-bordo-ia.webp?v=1785520795</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-pcp-compact-6-interruttori-led-ip66</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Redtech Impermeabile IP65 con Interruttori Basculanti - 6+presa 12V+presa USB+voltmetro</Name>
@@ -16459,23 +16474,6 @@
     <ParentID>morsetto-cavallotto-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Moschettone a molla 100 mm. acciaio inox AISI 316</Name>
-    <Brand>Viadana</Brand>
-    <Description>Moschettone in acciaio inox con apertura a molla in acciaio inox AISI 316. Caratteristiche: Lunghezza 100 mm. Carico di lavoro 174 kg Carico di rottura 683 kg Caratteristiche principali Acciaio inox AISI 316, la lega più resistente alla corrosione marina,</Description>
-    <OriginalPrice>11.47</OriginalPrice>
-    <Price>6.37</Price>
-    <Code>VIA29.22</Code>
-    <Link>https://www.onautica.com/products/moschettone-inox-a-molla-100-mm?variant=52577452491099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_a_molla_100_mm..png?v=1773341707</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137081361</EanCode>
-    <Weight>0.29</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>moschettone-inox-a-molla-100-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Moschettone Classico in Acciaio Inox AISI 316 - 140 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di moschettoni standard è realizzata in acciaio inox AISI 316 lucidato a specchio . L&apos;AISI 316 è noto per la sua eccellente resistenza alla corrosione, rendendo questi moschettoni ideali per l&apos;uso in ambiente marino e per applicazioni generic</Description>
@@ -16582,6 +16580,23 @@
     <ParentID>moschettone-inox-con-fibbia-25-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Pannello Elettrico 8 Interruttori + Presa 12V – Grafite Lucido IP65</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico a 8 Interruttori con Presa 12V (Cod. 14.843.09) rappresenta la scelta premium per chi desidera una plancia di comando non solo affidabile, ma anche esteticamente ricercata. La sua elegante finitura grafite lucido si integra alla perf</Description>
+    <OriginalPrice>149.50</OriginalPrice>
+    <Price>123.95</Price>
+    <Code>14.843.09</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-8-interruttori-presa-12v-grafite?variant=52577411236187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-8-interruttori-presa-12v-grafite.webp?v=1773341607</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137057717</EanCode>
+    <Weight>0.88</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-8-interruttori-presa-12v-grafite</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pannello Elettrico Classic in Alluminio – Interruttori a Leva - 3 Interruttori</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Pannello Elettrico della serie Classic rappresenta la soluzione più tradizionale, affidabile e intuitiva per la gestione dell&apos;impianto elettrico a bordo. Costruito su una solida piastra in alluminio , garantisce un&apos;eccellente resistenza meccanica e una</Description>
@@ -16596,6 +16611,23 @@
     <EanCode>8033626061850</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-classic-alluminio-interruttori-leva</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello Elettrico Elite 3 Interruttori Riarmabili – Alluminio IP56</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico Elite a 3 Interruttori (Cod. 14.800.00) rappresenta un vero e proprio upgrade per la plancia della tua imbarcazione. Rispetto ai modelli standard, questa serie si distingue per l&apos;integrazione di fusibili automatici riarmabili : in ca</Description>
+    <OriginalPrice>55.85</OriginalPrice>
+    <Price>39.03</Price>
+    <Code>14.800.00</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-elite-3-interruttori-riarmabili-ip56?variant=52577411203419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-elite-3-interruttori-riarmabili-ip56.webp?v=1773341607</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137002175</EanCode>
+    <Weight>0.27</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-elite-3-interruttori-riarmabili-ip56</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Ghost 12V con Interruttori Impermeabili - Ghost 3 Posizioni</Name>
@@ -16681,6 +16713,24 @@
     <Weight>0.51</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-pcp-compact-4-interruttori-led-ip66</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pannello Elettrico PCP Compact 6 Interruttori LED – IP66</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico PCP Compact a 6 Interruttori (Cod. 14.860.06) è la soluzione ideale per chi ha bisogno di gestire un numero maggiore di utenze in plancia mantenendo un design pulito e un&apos;affidabilità totale. Costruito con una robusta carcassa in pol</Description>
+    <OriginalPrice>83.90</OriginalPrice>
+    <Price>66.91</Price>
+    <Code>14.860.06</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-pcp-compact-6-interruttori-led-ip66?variant=52577411465563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-pcp-compact-6-interruttori-led-ip66.webp?v=1773341608</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137038709</EanCode>
+    <Weight>0.51</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/quadro-elettrico-scena-a-bordo-ia.webp?v=1785520795</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-pcp-compact-6-interruttori-led-ip66</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello interruttori Contour con porte USB e interruttori basculanti per impianti - 7 Interruttori + Presa USB</Name>
@@ -20142,6 +20192,23 @@
     <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Moschettone a molla 100 mm. acciaio inox AISI 316</Name>
+    <Brand>Viadana</Brand>
+    <Description>Moschettone in acciaio inox con apertura a molla in acciaio inox AISI 316. Caratteristiche: Lunghezza 100 mm. Carico di lavoro 174 kg Carico di rottura 683 kg Caratteristiche principali Acciaio inox AISI 316, la lega più resistente alla corrosione marina,</Description>
+    <OriginalPrice>11.47</OriginalPrice>
+    <Price>6.37</Price>
+    <Code>VIA29.22</Code>
+    <Link>https://www.onautica.com/products/moschettone-inox-a-molla-100-mm?variant=52577452491099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_a_molla_100_mm..png?v=1773341707</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137081361</EanCode>
+    <Weight>0.29</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-inox-a-molla-100-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Moschettone Acciaio Inox a Pistone AISI 316 - 80x12 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Robusto moschettone in acciaio inox A4 con chiusura a pistone, ideale per applicazioni nautiche e outdoor che richiedono massima affidabilità contro corrosione e usura. Progettato per un’azione fluida e sicura, offre innesto rapido, blocco stabile e lunga</Description>
@@ -21105,22 +21172,6 @@
     <ParentID>cintura-salvagente-150n-oltre-50-kg-pacco-4-pezzi</ParentID>
   </Offer>
   <Offer>
-    <Name>Cintura Salvagente 150N (Oltre 40 Kg) – Pacco 6 pezzi</Name>
-    <Brand>Osculati</Brand>
-    <Description>Confezione da 6 cinture salvagente 150N omologate EN ISO 12402-3 , taglia oltre 40 kg , per la navigazione da diporto entro e oltre 6, 12 e 50 miglia dalla costa. Una sola fornitura per equipaggiare charter, noleggi, scuole vela e imbarcazioni con più per</Description>
-    <Price>95.40</Price>
-    <Code>3010202-6PZ</Code>
-    <Link>https://www.onautica.com/products/cintura-salvagente-150n-oltre-50-kg-pacco-6-pezzi?variant=53483112268123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cint-conf-6pz-3240.webp?v=1782927030</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cint-singolo-3240_0e8a41b5-edce-4d6f-a60c-9623b4f0940b.webp?v=1782927032</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cint-marino-3240_d63af76c-e93f-4951-adb7-98dd014b16d0.webp?v=1782927036</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cintura-salvagente-150n-oltre-50-kg-pacco-6-pezzi</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cintura Salvagente 150N EN ISO 12402-3 – Navigazione 6, 12 e 50 Miglia - Oltre 40 Kg.</Name>
     <Brand>Osculati</Brand>
     <Description>Naviga in totale sicurezza con questo giubbotto di salvataggio a stola da 150 Newton , un modello &quot; Top Quality &quot; progettato per offrire la massima protezione in mare. Omologato secondo la stringente normativa EN ISO 12402-3 , è la scelta ideale per chi c</Description>
@@ -21128,7 +21179,7 @@
     <Price>15.90</Price>
     <Code>3010202</Code>
     <Link>https://www.onautica.com/products/salvagente-150n-oltre-6-miglia?variant=52513528217947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cintura-150n-singola-3240.webp?v=1782927048</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -24879,7 +24930,7 @@
     <Price>25.64</Price>
     <Code>10541804618075-53411658531163</Code>
     <Link>https://www.onautica.com/products/kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia?variant=53411658531163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-sicurezza-offshore-150n.webp?v=1781954590</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -26879,7 +26930,7 @@
     <Price>9.90</Price>
     <Code>01.189.09</Code>
     <Link>https://www.onautica.com/products/molla-ormeggio-acciaio-zincato-alta-resistenza-banchina?variant=52559519351131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/mollazincata.png?v=1773341951</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -28235,6 +28286,25 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05.png?v=1773341985</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137035050</EanCode>
+    <Weight>0.55</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05b.png?v=1773341986</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05c.png?v=1773341987</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-di-sentina-europump-ii-automatica-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa di sentina Europump II automatica | Osculati - G750 - 48 lt/min.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Protezione Compatta, Automatica e Certificata per la Tua Sentina La pompa di sentina Europump II è la soluzione moderna e affidabile per mantenere la sentina sempre asciutta. Il suo design estremamente compatto la rende ideale per installazioni anche in s</Description>
+    <OriginalPrice>33.84</OriginalPrice>
+    <Price>28.20</Price>
+    <Code>10943</Code>
+    <Link>https://www.onautica.com/products/pompa-di-sentina-europump-ii-automatica-osculati?variant=52513436336475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05.png?v=1773341985</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137035074</EanCode>
     <Weight>0.55</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05b.png?v=1773341986</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/16.124.05c.png?v=1773341987</Image3>
@@ -32933,42 +33003,6 @@
     <ParentID>scarico-lungo-in-ottone-1-1-4</ParentID>
   </Offer>
   <Offer>
-    <Name>Scarico nylon 1&quot;-1/2 testa inox e portagomma Ø 38 mm. con valvola di non ritorno</Name>
-    <Brand>Osculati</Brand>
-    <Description>Scarico a mare t ipo lungo in nylon/fibra di vetro. Ø A mm Filetto B Ø B mm C mm D mm E mm Versione Valvola di non ritorno 38 1&quot; 1/2 48 78 70 135 Testa inox con portagomma Si Caratteristiche principali Corpo in nylon rinforzato con fibra di vetro: leggero</Description>
-    <OriginalPrice>25.48</OriginalPrice>
-    <Price>16.99</Price>
-    <Code>17.319.20</Code>
-    <Link>https://www.onautica.com/products/scarico-nylon-1-1-2-testa-inox-e-portagomma-o-38-mm-con-valvola-di-non-ritorno?variant=52577541390683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20.png?v=1773341988</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137002755</EanCode>
-    <Weight>0.24</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20b.png?v=1773341988</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scarico-nylon-1-1-2-testa-inox-e-portagomma-o-38-mm-con-valvola-di-non-ritorno</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scarico nylon 1\&quot;-1/2 testa inox con valvola di non ritorno</Name>
-    <Brand>Osculati</Brand>
-    <Description>Scarico a mare t ipo lungo in nylon/fibra di vetro. Ø A mm Filetto B Ø B mm C mm D mm E mm Versione Valvola di non ritorno - 1&quot; 1/2 - 11BSP 48 78 117 135 Testa inox tutto filetto Si Caratteristiche principali Corpo in nylon rinforzato con fibra di vetro: </Description>
-    <OriginalPrice>29.23</OriginalPrice>
-    <Price>19.48</Price>
-    <Code>17.395.45</Code>
-    <Link>https://www.onautica.com/products/scarico-nylon-1-1-2-testa-inox-con-valvola-di-non-ritorno?variant=52577529102683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.395.45.png?v=1773341946</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137102493</EanCode>
-    <Weight>0.26</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20b.png?v=1773341988</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>scarico-nylon-1-1-2-testa-inox-con-valvola-di-non-ritorno</ParentID>
-  </Offer>
-  <Offer>
     <Name>Secchio Pop-Up Nautico Pieghevole 11 Litri Arancio</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Secchio Pop-Up è un accessorio intelligente e indispensabile a bordo di qualsiasi imbarcazione. Concepito per ottimizzare gli spazi spesso ridotti dei gavoni nautici, questo secchio pieghevole offre tutta la capienza e la praticità di un contenitore tr</Description>
@@ -34310,22 +34344,6 @@
     <ParentID>contenitore-waterproof-8-lt</ParentID>
   </Offer>
   <Offer>
-    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 3 uscite</Name>
-    <Brand>Quick</Brand>
-    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
-    <OriginalPrice>139.02</OriginalPrice>
-    <Price>95.88</Price>
-    <Code>1205312</Code>
-    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074002779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057090096842</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
-  </Offer>
-  <Offer>
     <Name>Coppa Trasparente di Ricambio per Filtro Separatore Benzina SACS</Name>
     <Brand>Motomarine</Brand>
     <Description>La Coppa Trasparente di Ricambio è il componente essenziale per ripristinare la piena funzionalità del tuo Filtro Separatore Benzina SACS (compatibile con il codice filtro completo 4121522). Realizzata in materiale plastico ad alta resistenza, è progettat</Description>
@@ -34498,6 +34516,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137049965</EanCode>
     <Weight>0.23</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t.png?v=1773341659</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t_2.png?v=1773341659</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtri-olio-ricambio-honda-4-tempi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtri Olio di Ricambio per Motori Fuoribordo HONDA 4 Tempi - 15400-PFB-007 15400-ZW4-003</Name>
+    <Brand>Honda</Brand>
+    <Description>I Filtri Olio per Fuoribordo a 4 Tempi HONDA sono componenti di ricambio essenziali per la manutenzione e l&apos;efficienza del tuo motore. Garantiscono una filtrazione superiore, proteggendo i delicati meccanismi interni dall&apos;usura causata da impurità. Applic</Description>
+    <OriginalPrice>12.40</OriginalPrice>
+    <Price>8.86</Price>
+    <Code>17.504.07</Code>
+    <Link>https://www.onautica.com/products/filtri-olio-ricambio-honda-4-tempi?variant=52526537802075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-tohatsu-honda-mercury-4t.png?v=1773341660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137046025</EanCode>
+    <Weight>0.19</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t.png?v=1773341659</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/filtro-olio-fuoribordo-honda-4t_2.png?v=1773341659</Image3>
     <Condition>nuovo</Condition>
@@ -36134,6 +36171,24 @@
     <ParentID>sacca-stagna-impermeabile-per-protezione-attrezzature-e-materiali-outdoor</ParentID>
   </Offer>
   <Offer>
+    <Name>Scarico nylon 1&quot;-1/2 testa inox e portagomma Ø 38 mm. con valvola di non ritorno</Name>
+    <Brand>Osculati</Brand>
+    <Description>Scarico a mare t ipo lungo in nylon/fibra di vetro. Ø A mm Filetto B Ø B mm C mm D mm E mm Versione Valvola di non ritorno 38 1&quot; 1/2 48 78 70 135 Testa inox con portagomma Si Caratteristiche principali Corpo in nylon rinforzato con fibra di vetro: leggero</Description>
+    <OriginalPrice>25.48</OriginalPrice>
+    <Price>16.99</Price>
+    <Code>17.319.20</Code>
+    <Link>https://www.onautica.com/products/scarico-nylon-1-1-2-testa-inox-e-portagomma-o-38-mm-con-valvola-di-non-ritorno?variant=52577541390683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20.png?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137002755</EanCode>
+    <Weight>0.24</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20b.png?v=1773341988</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>scarico-nylon-1-1-2-testa-inox-e-portagomma-o-38-mm-con-valvola-di-non-ritorno</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scarico nylon 1&quot;-3/8 portagomma 29/32 mm. senza valvola di non ritorno</Name>
     <Brand>Osculati</Brand>
     <Description>Scarico a mare t ipo lungo in nylon/fibra di vetro. Ø A mm Filetto B Ø B mm C mm D mm E mm Versione Valvola di non ritorno 29/32 1&quot; 3/8 35 54 86 152 Con portagomma No Caratteristiche principali Costruito in nylon rinforzato con fibra di vetro per elevata </Description>
@@ -36150,6 +36205,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20b.png?v=1773341988</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ombrinale-di-scarico-13-8-x-29-32-mm-senza-valvola-non-ritorno-scarico</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scarico nylon 1\&quot;-1/2 testa inox con valvola di non ritorno</Name>
+    <Brand>Osculati</Brand>
+    <Description>Scarico a mare t ipo lungo in nylon/fibra di vetro. Ø A mm Filetto B Ø B mm C mm D mm E mm Versione Valvola di non ritorno - 1&quot; 1/2 - 11BSP 48 78 117 135 Testa inox tutto filetto Si Caratteristiche principali Corpo in nylon rinforzato con fibra di vetro: </Description>
+    <OriginalPrice>29.23</OriginalPrice>
+    <Price>19.48</Price>
+    <Code>17.395.45</Code>
+    <Link>https://www.onautica.com/products/scarico-nylon-1-1-2-testa-inox-con-valvola-di-non-ritorno?variant=52577529102683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Plastica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.395.45.png?v=1773341946</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137102493</EanCode>
+    <Weight>0.26</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/17.319.20b.png?v=1773341988</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>scarico-nylon-1-1-2-testa-inox-con-valvola-di-non-ritorno</ParentID>
   </Offer>
   <Offer>
     <Name>Scarico nylon 2&quot;-1/4 portagomma 38 mm. con valvola di non ritorno</Name>
@@ -38161,6 +38234,22 @@
     <ParentID>comandi-up-down-a-piede-nero-quick-salpa-ancora</ParentID>
   </Offer>
   <Offer>
+    <Name>Control Box Teleruttori Quick 2500 W per Salpancora - 12V – 3 uscite</Name>
+    <Brand>Quick</Brand>
+    <Description>Control Box Teleruttori Quick 2500 W per Salpancora Control Box (cassetta teleruttori) Quick per il comando del salpancora, potenza 2500 W . Contiene i teleruttori (relè di potenza) che azionano il motore del verricello salpancora dai comandi di bordo. Di</Description>
+    <OriginalPrice>139.02</OriginalPrice>
+    <Price>95.88</Price>
+    <Code>1205312</Code>
+    <Link>https://www.onautica.com/products/control-box-teleruttori-quick-2500-w-per-salpancora?variant=53576074002779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/controlbox_3240.webp?v=1783779629</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057090096842</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>control-box-teleruttori-quick-2500-w-per-salpancora</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimozzo cromato X91 per timoneria T91 e T93Z</Name>
     <Brand>Ultraflex</Brand>
     <Description>Coprimozzo cromato X91 per timoneria T91 e T93Z Il coprimozzo cromato X91 è progettato specificamente per le timonerie T91 e T93Z, offrendo un connubio ideale di robustezza e finitura raffinata. Realizzato con materiali di alta qualità, garantisce una pro</Description>
@@ -38237,23 +38326,6 @@
     <EanCode>8031164366543</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>coprimozzo-nero-x34-per-timoneria-t71-t72-t73</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino bicolore con manico - Sci d&apos;acqua</Name>
-    <Brand>Osculati</Brand>
-    <Description>T reccia bicolore ad alta visibilità . L m ø mm 22,5 12 Caratteristiche principali Design bicolore ad alta visibilità per essere sempre individuabile in acqua Manico ergonomico integrato per una presa sicura e confortevole durante il traino Costruzione in</Description>
-    <OriginalPrice>36.98</OriginalPrice>
-    <Price>26.41</Price>
-    <Code>64.428.01</Code>
-    <Link>https://www.onautica.com/products/offerta-treccia-traino-bicolore-con-manico-sci-dacqua?variant=52577465368923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Treccia_traino_bicolore_con_manico_-_Sci_d_acqua.png?v=1773341747</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007538</EanCode>
-    <Weight>1.18</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-treccia-traino-bicolore-con-manico-sci-dacqua</ParentID>
   </Offer>
   <Offer>
     <Name>Corda traino con 8 sezioni diversi colori per accorciamenti eventuali - sci d&apos;acqua</Name>
@@ -40159,6 +40231,25 @@
     <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
   </Offer>
   <Offer>
+    <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (0-190 Ohm) - 50 cm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>I Sensori di Livello Verticali S5 sono la soluzione universale e affidabile per il monitoraggio dei liquidi a bordo. Realizzati interamente in Acciaio Inox 316 , garantiscono la massima resistenza alla corrosione e sono compatibili sia con serbatoi di car</Description>
+    <OriginalPrice>48.70</OriginalPrice>
+    <Price>27.05</Price>
+    <Code>27.161.50</Code>
+    <Link>https://www.onautica.com/products/sensore-livello-verticale-s5-inox-0-190-ohm?variant=52520156528987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm.jpg?v=1773341988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137009198</EanCode>
+    <Weight>0.31</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_attacco.png?v=1767896368</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sensore-livello-verticale-s5-inox-0-190-ohm_base.png?v=1767896367</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sensore-livello-verticale-s5-inox-0-190-ohm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sensore di Livello Verticale Inox S5 per Acqua e Carburante (240-33 Ohm) - 15 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Sensori di Livello Verticali S5 offrono precisione e durata nel monitoraggio dei liquidi a bordo. Costruiti interamente in Acciaio Inox 316 , sono progettati per resistere all&apos;ambiente marino e sono idonei per l&apos;uso in serbatoi di carburante (benzina/di</Description>
@@ -41061,23 +41152,6 @@
     <ParentID>offerta-timoneria-t93tz-non-reversibile-ultraflex</ParentID>
   </Offer>
   <Offer>
-    <Name>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua</Name>
-    <Brand>Osculati</Brand>
-    <Description>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua Caratteristiche principali Lunghezza standard da competizione: 21,7 metri, ideale per sci d&apos;acqua agonistico Diametro di 7,5 mm per una presa salda e una gestione ottimale in acqua Costruzione int</Description>
-    <OriginalPrice>32.60</OriginalPrice>
-    <Price>23.29</Price>
-    <Code>64.421.00</Code>
-    <Link>https://www.onautica.com/products/treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua?variant=52577498071387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_Sci_da_Competizione_21_7_mt._7_5_mm._Sci_d_acqua.jpg?v=1773341848</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137034527</EanCode>
-    <Weight>0.71</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tubo di ricambio in alluminio filettato per S39</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il tubo di ricambio in alluminio filettato per S39 è un componente specifico progettato per il ripristino funzionale dei sistemi di timoneria. Realizzato in alluminio, garantisce robustezza e resistenza all&apos;uso in ambiente marino, assicurando continuità o</Description>
@@ -41940,6 +42014,25 @@
     <ParentID>altoparlanti-nautici-2-vie-impermeabili</ParentID>
   </Offer>
   <Offer>
+    <Name>Casse Altoparlanti Stereo Osculati 2 Vie - 80 Watt</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di altoparlanti è ideale per chi cerca una soluzione audio di qualità e durevole per l&apos;ambiente nautico. Essendo classificati WATERPROOF , sono adatti all&apos;installazione sia in aree interne che esterne dell&apos;imbarcazione. Caratteristiche Audio </Description>
+    <OriginalPrice>53.58</OriginalPrice>
+    <Price>38.27</Price>
+    <Code>29.740.02</Code>
+    <Link>https://www.onautica.com/products/altoparlanti-nautici-2-vie-impermeabili?variant=52513498399067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01.png?v=1773341964</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137041471</EanCode>
+    <Weight>2.23</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01b.png?v=1773341965</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/29.740.01c.png?v=1773341966</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>altoparlanti-nautici-2-vie-impermeabili</ParentID>
+  </Offer>
+  <Offer>
     <Name>Casse Altoparlanti Stereo Osculati a Doppio Cono - 30 Watt</Name>
     <Brand>Osculati</Brand>
     <Description>Questa serie di altoparlanti è la scelta ideale per chi desidera un audio di qualità e una massima resistenza nell&apos;ambiente marino. Classificati come WATERPROOF e UV RESISTANT , sono perfetti per l&apos;installazione sia in aree interne che esterne, garantendo</Description>
@@ -42104,6 +42197,23 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Coprimotoreintessutoc.png?v=1764941678</Image3>
     <Condition>nuovo</Condition>
     <ParentID>coprimotore-tessuto-poliestere-impermeabile-anti-uv</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Corda traino bicolore con manico - Sci d&apos;acqua</Name>
+    <Brand>Osculati</Brand>
+    <Description>T reccia bicolore ad alta visibilità . L m ø mm 22,5 12 Caratteristiche principali Design bicolore ad alta visibilità per essere sempre individuabile in acqua Manico ergonomico integrato per una presa sicura e confortevole durante il traino Costruzione in</Description>
+    <OriginalPrice>36.98</OriginalPrice>
+    <Price>26.41</Price>
+    <Code>64.428.01</Code>
+    <Link>https://www.onautica.com/products/offerta-treccia-traino-bicolore-con-manico-sci-dacqua?variant=52577465368923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Treccia_traino_bicolore_con_manico_-_Sci_d_acqua.png?v=1773341747</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007538</EanCode>
+    <Weight>1.18</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-treccia-traino-bicolore-con-manico-sci-dacqua</ParentID>
   </Offer>
   <Offer>
     <Name>Dispositivo Antifurto Universale per Tappo Imbarco Diesel – Inox AISI 316</Name>
@@ -46320,6 +46430,23 @@
     <ParentID>tovaglietta-antiscivolo-per-tavolo-stay-mat</ParentID>
   </Offer>
   <Offer>
+    <Name>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua</Name>
+    <Brand>Osculati</Brand>
+    <Description>Treccia Sci da Competizione 21,7 mt. Ø 7,5 mm. Sci d&apos;acqua Caratteristiche principali Lunghezza standard da competizione: 21,7 metri, ideale per sci d&apos;acqua agonistico Diametro di 7,5 mm per una presa salda e una gestione ottimale in acqua Costruzione int</Description>
+    <OriginalPrice>32.60</OriginalPrice>
+    <Price>23.29</Price>
+    <Code>64.421.00</Code>
+    <Link>https://www.onautica.com/products/treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua?variant=52577498071387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_Sci_da_Competizione_21_7_mt._7_5_mm._Sci_d_acqua.jpg?v=1773341848</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137034527</EanCode>
+    <Weight>0.71</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-sci-da-competizione-21-7-mt-o-7-5-mm-sci-dacqua</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tubo Spiralato Armato per Impianti - Ø 30 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Tubo flessibile in PVC trasparente con spirale in acciaio per un’eccellente resistenza al collasso e alla piega. Estremamente morbido e maneggevole, consente curve fino a una volta il diametro esterno senza schiacciarsi, garantendo installazioni pulite an</Description>
@@ -46764,38 +46891,6 @@
     <ParentID>tk-color-inox-vernici-metalliche-spray</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Aifo Marine – Colori Originali (Blu / Rosso) - Blu</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Riporta il tuo motore entrobordo al suo splendore originale con le Vernici Spray TK , appositamente formulate per rispettare le tinte storiche dei motori Aifo Marine . Queste vernici sono approvate per il ritocco e la verniciatura completa, offrendo una s</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710080</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-aifo-marine?variant=52513580941659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-aifo.jpg?v=1769765808</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120615</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-aifo-marine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Aifo Marine – Colori Originali (Blu / Rosso) - Rosso</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Riporta il tuo motore entrobordo al suo splendore originale con le Vernici Spray TK , appositamente formulate per rispettare le tinte storiche dei motori Aifo Marine . Queste vernici sono approvate per il ritocco e la verniciatura completa, offrendo una s</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710081</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-aifo-marine?variant=52517138530651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-aifo.jpg?v=1769765808</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120622</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-aifo-marine</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Honda – Grey Metal</Name>
     <Brand>TKline Professional</Brand>
     <Description>Ripristina l&apos;estetica del tuo fuoribordo con la Vernice Spray TK nella colorazione originale Honda Grey Metal (Grigio Metallizzato). Questa tinta è formulata per integrarsi perfettamente con la livrea classica dei motori Honda Marine. La vernice nitrocomb</Description>
@@ -46923,22 +47018,6 @@
     <ParentID>vernice-spray-tk-motori-mariner</ParentID>
   </Offer>
   <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Mercury – Colori Originali - Nero</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Garantisci al tuo fuoribordo una finitura impeccabile con le Vernici Spray TK , formulate per replicare perfettamente le tonalità originali dei motori Mercury , incluso il caratteristico nero lucido e l&apos;argento della serie Verado. Queste vernici alla nitr</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710052</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-mercury?variant=52513581433179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-mercury.jpg?v=1769766766</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120349</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-mercury</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Selva – Colori Originali - Blu</Name>
     <Brand>TKline Professional</Brand>
     <Description>Mantieni il look del tuo fuoribordo sempre perfetto con le Vernici Spray TK , le uniche che garantiscono la fedeltà cromatica assoluta per i motori Selva Marine , sia per le classiche livree blu che per quelle bianche più recenti. Ideali per ritocchi velo</Description>
@@ -47000,38 +47079,6 @@
     <EanCode>8052705120493</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>vernice-spray-tk-motori-suzuki</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Tohatsu – Colori Originali - Verado Silver</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Mantieni inalterato il valore del tuo fuoribordo con le Vernici Spray TK , realizzate con formule specifiche per riprodurre fedelmente i colori originali dei motori Tohatsu . Ideali sia per piccoli ritocchi su graffi che per la verniciatura completa di ga</Description>
-    <OriginalPrice>24.20</OriginalPrice>
-    <Price>15.13</Price>
-    <Code>5710077</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-tohatsu?variant=52513582219611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-tohatsu.jpg?v=1769765534</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120585</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Vernice Spray TK per Motori Fuoribordo Tohatsu – Colori Originali - Kobalt Blue</Name>
-    <Brand>TKline Professional</Brand>
-    <Description>Mantieni inalterato il valore del tuo fuoribordo con le Vernici Spray TK , realizzate con formule specifiche per riprodurre fedelmente i colori originali dei motori Tohatsu . Ideali sia per piccoli ritocchi su graffi che per la verniciatura completa di ga</Description>
-    <OriginalPrice>19.05</OriginalPrice>
-    <Price>11.90</Price>
-    <Code>5710076</Code>
-    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-tohatsu?variant=52517142987099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-tohatsu.jpg?v=1769765534</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8052705120578</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
     <Name>Vernice Spray TK per Motori Fuoribordo Yamaha – Colori Originali - Grey Metal 94</Name>
@@ -48572,6 +48619,86 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/compact2.png?v=1773341713</Image2>
     <Condition>nuovo</Condition>
     <ParentID>toilette-marina-elettrica-jabsco-37010-compact-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Aifo Marine – Colori Originali (Blu / Rosso) - Blu</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Riporta il tuo motore entrobordo al suo splendore originale con le Vernici Spray TK , appositamente formulate per rispettare le tinte storiche dei motori Aifo Marine . Queste vernici sono approvate per il ritocco e la verniciatura completa, offrendo una s</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710080</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-aifo-marine?variant=52513580941659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-aifo.jpg?v=1769765808</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120615</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-aifo-marine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Aifo Marine – Colori Originali (Blu / Rosso) - Rosso</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Riporta il tuo motore entrobordo al suo splendore originale con le Vernici Spray TK , appositamente formulate per rispettare le tinte storiche dei motori Aifo Marine . Queste vernici sono approvate per il ritocco e la verniciatura completa, offrendo una s</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710081</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-aifo-marine?variant=52517138530651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-aifo.jpg?v=1769765808</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120622</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-aifo-marine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Mercury – Colori Originali - Nero</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Garantisci al tuo fuoribordo una finitura impeccabile con le Vernici Spray TK , formulate per replicare perfettamente le tonalità originali dei motori Mercury , incluso il caratteristico nero lucido e l&apos;argento della serie Verado. Queste vernici alla nitr</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710052</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-mercury?variant=52513581433179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-mercury.jpg?v=1769766766</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120349</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-mercury</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Tohatsu – Colori Originali - Verado Silver</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Mantieni inalterato il valore del tuo fuoribordo con le Vernici Spray TK , realizzate con formule specifiche per riprodurre fedelmente i colori originali dei motori Tohatsu . Ideali sia per piccoli ritocchi su graffi che per la verniciatura completa di ga</Description>
+    <OriginalPrice>24.20</OriginalPrice>
+    <Price>15.13</Price>
+    <Code>5710077</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-tohatsu?variant=52513582219611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-tohatsu.jpg?v=1769765534</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120585</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vernice Spray TK per Motori Fuoribordo Tohatsu – Colori Originali - Kobalt Blue</Name>
+    <Brand>TKline Professional</Brand>
+    <Description>Mantieni inalterato il valore del tuo fuoribordo con le Vernici Spray TK , realizzate con formule specifiche per riprodurre fedelmente i colori originali dei motori Tohatsu . Ideali sia per piccoli ritocchi su graffi che per la verniciatura completa di ga</Description>
+    <OriginalPrice>19.05</OriginalPrice>
+    <Price>11.90</Price>
+    <Code>5710076</Code>
+    <Link>https://www.onautica.com/products/vernice-spray-tk-motori-tohatsu?variant=52517142987099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Vernici Spray</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vernice-spray-tk-motore-tohatsu.jpg?v=1769765534</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8052705120578</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>vernice-spray-tk-motori-tohatsu</ParentID>
   </Offer>
   <Offer>
     <Name>Wc chimico Porta Potti Seaflo SFPT-12-03</Name>
