@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-10T06:32:15.567Z -->
-<!-- Offerte: 2950 -->
+<!-- Generato: 2026-08-10T10:31:03.221Z -->
+<!-- Offerte: 2952 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -3130,6 +3130,7 @@
     <Categories>Nautica;Abbigliamento;Abbigliamento Pesca</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde.webp?v=1765449543</Image>
     <ShippingCost>5.90</ShippingCost>
+    <EanCode>5705332054602</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde_laterale.webp?v=1765449543</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salopette-weather-heavy-ocean-700g-verde_laterale_dietro.webp?v=1765449543</Image3>
     <Condition>nuovo</Condition>
@@ -6748,6 +6749,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CM5032929.png?v=1773341932</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>628309211288</EanCode>
+    <Weight>0.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CM5032929b.png?v=1773341932</Image2>
     <Condition>nuovo</Condition>
     <ParentID>anodo-suzuki-pinna-70-hp-55125-87e01-brp-omc-johnson-evinrude-70hp-4t</ParentID>
@@ -9720,7 +9722,7 @@
   <Offer>
     <Name>Giunto per ancora girevole per catena Ø 6/8 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Questo attacco girevole è la soluzione definitiva per collegare la catena all&apos;ancora, progettato per eliminare i problemi tipici dei grilli tradizionali. La sua caratteristica principale �� il design senza sporgenze , che facilita la risalita attraverso i</Description>
+    <Description>Questo attacco girevole è la soluzione definitiva per collegare la catena all&apos;ancora, progettato per eliminare i problemi tipici dei grilli tradizionali. La sua caratteristica principale è il design senza sporgenze , che facilita la risalita attraverso il</Description>
     <OriginalPrice>28.97</OriginalPrice>
     <Price>20.69</Price>
     <Code>0123000</Code>
@@ -16236,6 +16238,22 @@
     <ParentID>kit-sopravvivenza-gommone-dm-17092024-entro-12-miglia</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit Segnali di Soccorso Entro 3 Miglia in Custodia PVC Apribile e Impermeabile (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Kit Segnali di Soccorso in Custodia PVC Apribile e Impermeabile Entro le 3 Miglia è la dotazione di sicurezza obbligatoria e aggiornata per navigare in totale regola e tranquillità in prossimità della costa. Questo kit è rigorosamente conforme alle ult</Description>
+    <OriginalPrice>44.20</OriginalPrice>
+    <Price>38.43</Price>
+    <Code>KIT3Custodia</Code>
+    <Link>https://www.onautica.com/products/kit-segnali-di-soccorso-entro-3-miglia-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024?variant=53356821741915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-segnali-soccorso-3-miglia-custodia-pvc-impermeabile-fp-srl.webp?v=1781112102</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.75</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-segnali-di-soccorso-entro-3-miglia-in-custodia-pvc-apribile-e-impermeabile-dm-21-09-2024</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio in Custodia PVC Apribile e Impermeabile (DM 21/09/2024)</Name>
     <Brand>FDF</Brand>
     <Description>La Kit Segnali di Soccorso in Custodia PVC Apribile e Impermeabile per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnic</Description>
@@ -18144,6 +18162,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-3-migliabusta.webp?v=1774693721</Image2>
     <Condition>nuovo</Condition>
     <ParentID>valigetta-segnali-soccorso-entro-3-miglia-dm-2024</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Valigetta Segnali di Soccorso Entro 50 Miglia Diporto / 6 Miglia Noleggio (DM 21/09/2024)</Name>
+    <Brand>FDF</Brand>
+    <Description>La Valigetta Segnali di Soccorso per Navigazione Entro le 50 Miglia (Diporto) ed Entro le 6 Miglia (Noleggio) rappresenta l&apos;equipaggiamento di sicurezza obbligatorio e aggiornato per le imbarcazioni. Questo kit pirotecnico è rigorosamente allineato alle r</Description>
+    <OriginalPrice>108.59</OriginalPrice>
+    <Price>94.43</Price>
+    <Code>KIT6/12/50</Code>
+    <Link>https://www.onautica.com/products/valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024?variant=52577367785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diporto.webp?v=1774693895</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.63</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/valigetta-segnali-soccorso-entro-50-miglia-diportobusta.webp?v=1774693894</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>valigetta-segnali-soccorso-entro-50-miglia-diporto-dm-2024</ParentID>
   </Offer>
   <Offer>
     <Name>Aeratore da coperta a fungo PL - base Ø 150 mm. - collo Ø 100 mm.</Name>
