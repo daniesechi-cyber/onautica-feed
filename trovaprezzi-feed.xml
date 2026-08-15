@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-15T06:31:31.445Z -->
+<!-- Generato: 2026-08-15T11:46:15.425Z -->
 <!-- Offerte: 5393 -->
 <Products>
   <Offer>
@@ -23072,6 +23072,7 @@
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-excelsior-doppia-treccia-poliestere-blu-navy-redancia-inox.webp?v=1776250195</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>1.71</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cima-ormeggio-excelsior-doppia-treccia-poliestere-blu-navy</ParentID>
   </Offer>
@@ -24919,6 +24920,7 @@
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/img_ritorta_3240.webp?v=1783680678</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>9.90</Weight>
     <Condition>nuovo</Condition>
     <ParentID>corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m</ParentID>
   </Offer>
@@ -24933,6 +24935,7 @@
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/img_ritorta_3240.webp?v=1783680678</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>14.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>corda-ritorta-in-polipropilene-o-10-mm-arancio-galleggiante-confezione-220-m</ParentID>
   </Offer>
