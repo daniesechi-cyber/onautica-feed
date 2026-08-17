@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-17T06:31:56.496Z -->
-<!-- Offerte: 5396 -->
+<!-- Generato: 2026-08-17T10:31:06.841Z -->
+<!-- Offerte: 5393 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -17453,7 +17453,7 @@
     <ParentID>parabordo-polyform-serie-f</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordo Polyform Serie F - F6 · 109x30 cm</Name>
+    <Name>Parabordo Polyform Serie F - F6 �� 109x30 cm</Name>
     <Brand>Polyform</Brand>
     <Description>Il parabordo Polyform serie F è un parabordo di forma cilindrica e affusolata, pensato per proteggere lo scafo dagli urti contro banchina o altre imbarcazioni. Si posiziona lungo la fiancata tramite una cima passata nell&apos;occhiello superiore e inferiore, r</Description>
     <OriginalPrice>184.80</OriginalPrice>
@@ -22587,23 +22587,6 @@
     <ParentID>tk-color-antivegetativa-nero-spray</ParentID>
   </Offer>
   <Offer>
-    <Name>Victron MultiPlus-II - Inverter/Caricabatterie Professionale Potenziato - 12/5000/220</Name>
-    <Brand>Victron Energy</Brand>
-    <Description>Il Victron MultiPlus-II rappresenta l&apos;ultima evoluzione nei sistemi combinati inverter/caricabatterie per uso professionale e nautico. Eredita tutte le funzioni avanzate della serie MultiPlus classica, integrandole con nuove opzioni di controllo per una g</Description>
-    <OriginalPrice>2651.00</OriginalPrice>
-    <Price>1893.55</Price>
-    <Code>14.269.02</Code>
-    <Link>https://www.onautica.com/products/victron-multiplus-ii-inverter-caricabatterie-potenziato?variant=52526144389467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-multiplus-ii-inverter-charger.png?v=1766424575</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>32.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-multiplus-ii-inverter-charger_sotto.png?v=1766424575</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>victron-multiplus-ii-inverter-caricabatterie-potenziato</ParentID>
-  </Offer>
-  <Offer>
     <Name>Victron MultiPlus-II - Inverter/Caricabatterie Professionale Potenziato - 24/3000/70</Name>
     <Brand>Victron Energy</Brand>
     <Description>Il Victron MultiPlus-II rappresenta l&apos;ultima evoluzione nei sistemi combinati inverter/caricabatterie per uso professionale e nautico. Eredita tutte le funzioni avanzate della serie MultiPlus classica, integrandole con nuove opzioni di controllo per una g</Description>
@@ -22758,6 +22741,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-orion-tr-smart-dc-dc-converter.png?v=1766424991</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>8033137204920</EanCode>
+    <Weight>1.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-orion-tr-smart-dc-dc-converterschema.png?v=1766424991</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>victron-orion-tr-smart-dc-dc-charger-isolated</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Victron Orion-Tr Smart DC-DC – Convertitore e Caricabatterie con Isolamento Galvanico - 24/24/17</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il Victron Orion-Tr Smart è un convertitore DC-DC professionale con isolamento galvanico , progettato per fornire una tensione stabilizzata alle apparecchiature di bordo o per caricare in modo intelligente i banchi batterie. Grazie alla connessione Blueto</Description>
+    <OriginalPrice>351.00</OriginalPrice>
+    <Price>250.68</Price>
+    <Code>14.277.08</Code>
+    <Link>https://www.onautica.com/products/victron-orion-tr-smart-dc-dc-charger-isolated?variant=52513583432027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-orion-tr-smart-dc-dc-converter.png?v=1766424991</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137204937</EanCode>
     <Weight>1.60</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/victron-orion-tr-smart-dc-dc-converterschema.png?v=1766424991</Image2>
     <Condition>nuovo</Condition>
@@ -78121,23 +78122,6 @@
     <ParentID>tappo-o-50-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta</ParentID>
   </Offer>
   <Offer>
-    <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 38 mm. carburante</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tappo di imbarco per carburante in acciaio inox, microfuso e lucidato a specchio, conforme alle normative R.I.N.A. Dotato di apertura a leva a ribalta e flangia a copertura totale delle viti per un&apos;installazione curata e sicura. Materiale: acciaio inox mi</Description>
-    <OriginalPrice>77.29</OriginalPrice>
-    <Price>54.05</Price>
-    <Code>20.568.31</Code>
-    <Link>https://www.onautica.com/products/tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave?variant=52577493287259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_di_imbarco_fuel_38_mm._in_acciaio_inox_con_serratura_regolamentare_RINA_chiave.png?v=1773341834</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137036965</EanCode>
-    <Weight>0.76</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tappo di Rifornimento a Filo in Acciaio Inox con Maniglietta – Serie Microfusa - Ø 50 mm. Benzina - Dritto</Name>
     <Brand>Osculati</Brand>
     <Description>Il Tappo di rifornimento a filo in acciaio inox rappresenta la sintesi perfetta tra estetica e funzionalità per la coperta della tua imbarcazione. Caratterizzato da una finitura lucidata a specchio , questo imbarco è progettato per rimanere completamente </Description>
@@ -79924,23 +79908,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-completo-suzuki-oceansouth-telo-integrale-nero.webp?v=1778608638</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137215216</EanCode>
-    <Weight>1.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3_upscayl_3x_upscayl-lite-4x.webp?v=1778606814</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>coprimotore-completo-suzuki-oceansouth-telo-integrale</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coprimotore Completo Suzuki OceanSouth - Telo Integrale Fuoribordo - DF115BG/140BG - 4 cilindri 4T 2L piede 25&quot;</Name>
-    <Brand>OceanSouth</Brand>
-    <Description>Coprimotore Integrale OceanSouth per Motori Suzuki - Copertura Completa con Gambo Il coprimotore integrale OceanSouth offre la protezione più completa per il tuo motore fuoribordo Suzuki: copre non solo la calandra superiore ma anche il gambo (piede) del </Description>
-    <OriginalPrice>128.23</OriginalPrice>
-    <Price>98.64</Price>
-    <Code>46.552.15</Code>
-    <Link>https://www.onautica.com/products/coprimotore-completo-suzuki-oceansouth-telo-integrale?variant=52967532986715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-completo-suzuki-oceansouth-telo-integrale-nero.webp?v=1778608638</Image>
-    <ShippingCost>5.90</ShippingCost>
     <Weight>1.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3_upscayl_3x_upscayl-lite-4x.webp?v=1778606814</Image2>
     <Condition>nuovo</Condition>
@@ -87268,22 +87235,22 @@
     <ParentID>tender-osculati-a-carena-v-in-vetroresina</ParentID>
   </Offer>
   <Offer>
-    <Name>Tender Osculati Pneumatico con Fondo a Stecche - 2,40 m - 6 CV - 3 posti</Name>
+    <Name>Tender Osculati con Pagliolo Pneumatico ad Alta Rigidità (Dropstitch) - 2,40 m - 4 CV - 2 posti</Name>
     <Brand>Osculati</Brand>
-    <Description>Gommone Tender con Fondo a Stecche Gommone tender leggero con fondo a stecche (listelli rigidi inseriti nel pagliolo che irrigidiscono il piano di calpestio) e tubolari con camere d&apos;aria indipendenti. È la soluzione più leggera e maneggevole, facile da go</Description>
-    <Price>671.87</Price>
-    <Code>22.620.24</Code>
-    <Link>https://www.onautica.com/products/tender-osculati-pneumatico-con-fondo-a-stecche?variant=53534824530267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Description>Gommone Tender con Pagliolo Pneumatico ad Alta Rigidità (Dropstitch) Gommone tender con fondo/pagliolo pneumatico ad alta pressione in dropstitch: da gonfio diventa rigido e calpestabile come un pagliolato, ma da sgonfio si ripone in poco spazio. Tubolari</Description>
+    <Price>762.57</Price>
+    <Code>22.630.25</Code>
+    <Link>https://www.onautica.com/products/tender-osculati-con-pagliolo-pneumatico-ad-alta-rigidita-dropstitch?variant=53534824005979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Tender e Gommoni;Tender</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stecche.webp?v=1783446838</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/drop.webp?v=1783446830</Image>
     <ShippingCost>0</ShippingCost>
-    <EanCode>8033137208379</EanCode>
-    <Weight>32.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579730399579_0.webp?v=1783533435</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579730399579_1.webp?v=1783533437</Image3>
+    <EanCode>8033137208393</EanCode>
+    <Weight>32.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579730039131_0.webp?v=1783533379</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579730039131_1.webp?v=1783533381</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>tender-osculati-pneumatico-con-fondo-a-stecche</ParentID>
+    <ParentID>tender-osculati-con-pagliolo-pneumatico-ad-alta-rigidita-dropstitch</ParentID>
   </Offer>
   <Offer>
     <Name>Toilette Marina Elettrica Jabsco 37010 - 12V Compact</Name>
@@ -93841,24 +93808,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eurovinil_2.webp?v=1785589405</Image3>
     <Condition>nuovo</Condition>
     <ParentID>zattera-osculati-oceandry-eurovinil-iso-9650</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Zattera di Salvataggio Osculati Oceanlife III con Grab Bag Approvata Italia - 6 posti</Name>
-    <Brand>Osculati</Brand>
-    <Description>Zattera di Salvataggio Osculati Oceanlife III con Grab Bag Per navigazione oltre 12 miglia senza limiti dalla costa. Omologate ISO 9650-1, approvate secondo il D.M. 219/02. Revisione biennale. Versione con sacca dotazioni (grab bag) separata per contenere</Description>
-    <OriginalPrice>1639.00</OriginalPrice>
-    <Price>1444.34</Price>
-    <Code>22.840.06</Code>
-    <Link>https://www.onautica.com/products/zattera-di-salvataggio-osculati-oceanlife-iii-con-grab-bag-approvata-italia?variant=53612906021211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Zattere di Salvataggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ocean3gb_1.webp?v=1784307680</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>53.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ocean3gb_2.webp?v=1784307683</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ocean3gb_3.webp?v=1784307685</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>zattera-di-salvataggio-osculati-oceanlife-iii-con-grab-bag-approvata-italia</ParentID>
   </Offer>
   <Offer>
     <Name>Zattera di Salvataggio Osculati Oceanlife III con Grab Bag Approvata Italia - 8 posti</Name>
