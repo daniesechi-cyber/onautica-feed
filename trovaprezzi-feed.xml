@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-17T10:31:06.841Z -->
+<!-- Generato: 2026-08-17T14:31:52.378Z -->
 <!-- Offerte: 5393 -->
 <Products>
   <Offer>
@@ -1808,23 +1808,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghie_B_3240.webp?v=1783768433</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-cinghie-di-tensionamento-per-tendalini-coppia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit Conversione WC Elettrico Universale 12V – Interasse 95 mm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo Kit di Conversione Elettrico 12V è la soluzione pratica ed efficiente per trasformare il WC manuale della tua imbarcazione in un moderno sistema elettrico, migliorando il comfort di bordo e riducendo lo sforzo fisico. La progettazione intelligente </Description>
-    <OriginalPrice>195.83</OriginalPrice>
-    <Price>150.64</Price>
-    <Code>1320512</Code>
-    <Link>https://www.onautica.com/products/kit-conversione-wc-elettrico-12v-universale-95mm?variant=52577459437915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/kit-conversione-wc-elettrico-12v-universale.png?v=1773341728</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626033840</EanCode>
-    <Weight>2.93</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-conversione-wc-elettrico-12v-universale-95mm</ParentID>
   </Offer>
   <Offer>
     <Name>Kit di Conversione Pompa WC Manuale – Universale 4 Bulloni (Interasse 95 mm)</Name>
@@ -11394,7 +11377,7 @@
     <Price>27.12</Price>
     <Code>65.611.11</Code>
     <Link>https://www.onautica.com/products/antivegetativa-hm-classic-153-matrice-dura?variant=51856791732571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-classic-153-matrice-dura.png?v=1773341988</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -16009,7 +15992,7 @@
   <Offer>
     <Name>Giunto per ancora trefoil 20 kg. girevole per catena Ø 6/8 mm.</Name>
     <Brand>Trefoil</Brand>
-    <Description>Questo giunto girevole è la soluzione ingegneristica progettata specificamente per le ancore di tipo Trefoil fino a 20 kg . Il suo design senza sporgenze è studiato per collegare la catena all&apos;ancora in modo fluido e sicuro, eliminando il classico problem</Description>
+    <Description>Questo giunto girevole �� la soluzione ingegneristica progettata specificamente per le ancore di tipo Trefoil fino a 20 kg . Il suo design senza sporgenze è studiato per collegare la catena all&apos;ancora in modo fluido e sicuro, eliminando il classico proble</Description>
     <OriginalPrice>37.11</OriginalPrice>
     <Price>26.51</Price>
     <Code>01.740.09</Code>
@@ -17453,7 +17436,7 @@
     <ParentID>parabordo-polyform-serie-f</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordo Polyform Serie F - F6 �� 109x30 cm</Name>
+    <Name>Parabordo Polyform Serie F - F6 · 109x30 cm</Name>
     <Brand>Polyform</Brand>
     <Description>Il parabordo Polyform serie F è un parabordo di forma cilindrica e affusolata, pensato per proteggere lo scafo dagli urti contro banchina o altre imbarcazioni. Si posiziona lungo la fiancata tramite una cima passata nell&apos;occhiello superiore e inferiore, r</Description>
     <OriginalPrice>184.80</OriginalPrice>
@@ -19458,82 +19441,6 @@
     <ParentID>caricabatteria-victron-bluesmart-ip65-bluetooth</ParentID>
   </Offer>
   <Offer>
-    <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 16 A / 1 uscita</Name>
-    <Brand>Victron Energy</Brand>
-    <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
-    <OriginalPrice>295.34</OriginalPrice>
-    <Price>164.08</Price>
-    <Code>14.272.17</Code>
-    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22?variant=51598436729179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_24_16_carica_max_16A_1_uscite.jpg?v=1773341717</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137090448</EanCode>
-    <Weight>1.51</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_12_20_carica_max_20A_1_uscita.jpg?v=1773341716</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 30 A / 3 uscite</Name>
-    <Brand>Victron Energy</Brand>
-    <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
-    <OriginalPrice>359.94</OriginalPrice>
-    <Price>199.97</Price>
-    <Code>14.272.15</Code>
-    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22?variant=51598436761947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_24_16_carica_max_16A_1_uscite.jpg?v=1773341717</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137090431</EanCode>
-    <Weight>1.53</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_12_20_carica_max_20A_1_uscita.jpg?v=1773341716</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 20 A / 1 uscita</Name>
-    <Brand>Victron Energy</Brand>
-    <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
-    <OriginalPrice>258.91</OriginalPrice>
-    <Price>143.84</Price>
-    <Code>14.272.14</Code>
-    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22?variant=51598436794715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_12_20_carica_max_20A_1_uscita.jpg?v=1773341716</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137090424</EanCode>
-    <Weight>1.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_24_16_carica_max_16A_1_uscite.jpg?v=1773341717</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Caricabatterie Intelligente Victron Energy BlueSmart IP22 (12V e 24V) - 20 A / 3 uscite</Name>
-    <Brand>Victron Energy</Brand>
-    <Description>La gamma Victron Energy BlueSmart IP22 rappresenta una soluzione professionale e all&apos;avanguardia per la ricarica delle batterie in corrente alternata (AC). Questi caricabatterie ad alta efficienza sono dotati di Bluetooth integrato , permettendo un monito</Description>
-    <OriginalPrice>292.62</OriginalPrice>
-    <Price>162.57</Price>
-    <Code>14.272.12</Code>
-    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22?variant=51598436827483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_24_16_carica_max_16A_1_uscite.jpg?v=1773341717</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137090417</EanCode>
-    <Weight>1.48</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Caricabatteria_VICTRON_Bluesmart_IP22_12_20_carica_max_20A_1_uscita.jpg?v=1773341716</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>caricabatterie-victron-blue-smart-ip22</ParentID>
-  </Offer>
-  <Offer>
     <Name>Caricabatterie LiFePO4 20A per Batterie Rebelcell EDGE 12V 24V 36V - 14,6V 20A XT60 (per 12V)</Name>
     <Brand>Rebelcell</Brand>
     <Description>Caricabatterie LiFePO4 20A per Batterie Rebelcell EDGE 12V 24V 36V Caricabatterie da 20A per batterie al litio LiFePO4 Rebelcell EDGE. Ricarica automatica e sicura con profilo corretto di tensione e corrente, spegnimento automatico a fine carica e LED di </Description>
@@ -19654,6 +19561,96 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CARICABATTERIESBCNRG_b.png?v=1773342026</Image3>
     <Condition>nuovo</Condition>
     <ParentID>offerta-caricabatterie-sbc-500-nrg-medium-power</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Caricabatterie Victron Blue Smart IP22 12V - 12V · 20 A · 1 uscita</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il caricabatterie Victron Energy Blue Smart IP22 a 12V è la soluzione professionale per ricaricare le batterie di bordo dalla rete di banchina o da terra. Ha il Bluetooth integrato : dallo smartphone, con l&apos;app VictronConnect , controlli la carica in cors</Description>
+    <OriginalPrice>258.91</OriginalPrice>
+    <Price>143.84</Price>
+    <Code>14.272.14</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22-12v?variant=51598436794715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ip22-12v-20a.webp?v=1786975556</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137090424</EanCode>
+    <Weight>1.47</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-victron-blue-smart-ip22-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Caricabatterie Victron Blue Smart IP22 12V - 12V · 20 A · 3 uscite</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il caricabatterie Victron Energy Blue Smart IP22 a 12V è la soluzione professionale per ricaricare le batterie di bordo dalla rete di banchina o da terra. Ha il Bluetooth integrato : dallo smartphone, con l&apos;app VictronConnect , controlli la carica in cors</Description>
+    <OriginalPrice>292.62</OriginalPrice>
+    <Price>162.57</Price>
+    <Code>14.272.12</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22-12v?variant=51598436827483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ip22-12v-20a.webp?v=1786975556</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137090417</EanCode>
+    <Weight>1.48</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-victron-blue-smart-ip22-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Caricabatterie Victron Blue Smart IP22 12V - 12V · 30 A · 3 uscite</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il caricabatterie Victron Energy Blue Smart IP22 a 12V è la soluzione professionale per ricaricare le batterie di bordo dalla rete di banchina o da terra. Ha il Bluetooth integrato : dallo smartphone, con l&apos;app VictronConnect , controlli la carica in cors</Description>
+    <OriginalPrice>359.94</OriginalPrice>
+    <Price>199.97</Price>
+    <Code>14.272.15</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22-12v?variant=51598436761947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ip22-12v-20a.webp?v=1786975556</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137090431</EanCode>
+    <Weight>1.53</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia.webp?v=1785520730</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-victron-blue-smart-ip22-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Caricabatterie Victron Blue Smart IP22 24V - 24V · 16 A · 1 uscita</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il caricabatterie Victron Energy Blue Smart IP22 a 24V ricarica i banchi batterie a 24 volt dalla presa di banchina, con Bluetooth integrato e app VictronConnect per seguire la carica e impostare l&apos;algoritmo adatto a batterie al piombo (GEL, AGM, acido li</Description>
+    <OriginalPrice>295.34</OriginalPrice>
+    <Price>164.08</Price>
+    <Code>14.272.17</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22-24v?variant=53804026331483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ip22-24v-16a.webp?v=1786975559</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137090448</EanCode>
+    <Weight>1.51</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia_afa57063-b47c-4aff-a97b-929a67de022b.webp?v=1786975176</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-victron-blue-smart-ip22-24v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Caricabatterie Victron Blue Smart IP22 24V - 24V · 16 A · 3 uscite</Name>
+    <Brand>Victron Energy</Brand>
+    <Description>Il caricabatterie Victron Energy Blue Smart IP22 a 24V ricarica i banchi batterie a 24 volt dalla presa di banchina, con Bluetooth integrato e app VictronConnect per seguire la carica e impostare l&apos;algoritmo adatto a batterie al piombo (GEL, AGM, acido li</Description>
+    <OriginalPrice>335.05</OriginalPrice>
+    <Price>186.14</Price>
+    <Code>14.272.18</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-victron-blue-smart-ip22-24v?variant=53804026364251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Caricabatterie e Inverter</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ip22-24v-16a.webp?v=1786975559</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137090455</EanCode>
+    <Weight>1.54</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/caricabatterie-victron-scena-a-bordo-ia_afa57063-b47c-4aff-a97b-929a67de022b.webp?v=1786975176</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-victron-blue-smart-ip22-24v</ParentID>
   </Offer>
   <Offer>
     <Name>Catena Calibrata Inox AISI 316 – Mazza da 50 m - Ø 6 mm</Name>
@@ -21105,25 +21102,6 @@
     <Weight>0.17</Weight>
     <Condition>nuovo</Condition>
     <ParentID>coppia-morsetti-per-batteria-in-bronzo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ferma catena da ancoraggio Ø 10-12 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Ferma catena da ancoraggio in acciaio inox. Preserva il verricello da colpi e shock. Evita lo scavallamento della catena dal barbotin. Annulla la trasmissione di noiose vibrazioni dovute al movimento dell&apos;imbarcazione all&apos;ancora . Per catena Ø mm 10-12 Ca</Description>
-    <OriginalPrice>52.75</OriginalPrice>
-    <Price>37.68</Price>
-    <Code>0133520</Code>
-    <Link>https://www.onautica.com/products/ferma-catena-da-ancoraggio-o-10-12-mm?variant=52577438105947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_10-12_mm..png?v=1773341654</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137067518</EanCode>
-    <Weight>0.88</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_10-12_mm._1.png?v=1773341661</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0133518_1_5e03d71d-1de5-4a93-b23f-ec726191e2ac.webp?v=1786747174</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ferma-catena-da-ancoraggio-o-10-12-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Ferma catena da ancoraggio Ø 6-8 mm.</Name>
@@ -25066,6 +25044,25 @@
     <ParentID>fascia-per-ormeggio-su-roccia</ParentID>
   </Offer>
   <Offer>
+    <Name>Ferma catena da ancoraggio Ø 10-12 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Ferma catena da ancoraggio in acciaio inox. Preserva il verricello da colpi e shock. Evita lo scavallamento della catena dal barbotin. Annulla la trasmissione di noiose vibrazioni dovute al movimento dell&apos;imbarcazione all&apos;ancora . Per catena Ø mm 10-12 Ca</Description>
+    <OriginalPrice>52.75</OriginalPrice>
+    <Price>37.68</Price>
+    <Code>0133520</Code>
+    <Link>https://www.onautica.com/products/ferma-catena-da-ancoraggio-o-10-12-mm?variant=52577438105947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_10-12_mm..png?v=1773341654</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137067518</EanCode>
+    <Weight>0.88</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ferma_catena_da_ancoraggio_10-12_mm._1.png?v=1773341661</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0133518_1_5e03d71d-1de5-4a93-b23f-ec726191e2ac.webp?v=1786747174</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ferma-catena-da-ancoraggio-o-10-12-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Gear Aid Aquasure+FD 28 g – Adesivo Sigillante Poliuretanico per Riparazioni Impermeabili</Name>
     <Brand>Gear Aid</Brand>
     <Description>Gear Aid Aquasure+FD 28 g – Adesivo Sigillante Poliuretanico per Riparazioni Impermeabili Aquasure+FD è l&apos;adesivo sigillante in gomma poliuretanica di Gear Aid per riparazioni impermeabili permanenti. Si stende su forature, strappi e cuciture di gonfiabil</Description>
@@ -25416,24 +25413,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-verticale-6-interruttori-policarbonato-grigio_blister.webp?v=1773341956</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-elettrico-orizzontale-7-interruttori-policarbonato-grigio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello Elettrico PCP Compact 6 Interruttori LED – IP66</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Pannello Elettrico PCP Compact a 6 Interruttori (Cod. 14.860.06) è la soluzione ideale per chi ha bisogno di gestire un numero maggiore di utenze in plancia mantenendo un design pulito e un&apos;affidabilità totale. Costruito con una robusta carcassa in pol</Description>
-    <OriginalPrice>83.90</OriginalPrice>
-    <Price>66.91</Price>
-    <Code>14.860.06</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-pcp-compact-6-interruttori-led-ip66?variant=52577411465563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-pcp-compact-6-interruttori-led-ip66.webp?v=1773341608</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137038709</EanCode>
-    <Weight>0.51</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/quadro-elettrico-scena-a-bordo-ia.webp?v=1785520795</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-pcp-compact-6-interruttori-led-ip66</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello Elettrico Redtech Impermeabile IP65 con Interruttori Basculanti - 6+presa 12V+presa USB+voltmetro</Name>
@@ -30964,6 +30943,24 @@
     <ParentID>pannello-elettrico-pcp-compact-4-interruttori-led-ip66</ParentID>
   </Offer>
   <Offer>
+    <Name>Pannello Elettrico PCP Compact 6 Interruttori LED – IP66</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Pannello Elettrico PCP Compact a 6 Interruttori (Cod. 14.860.06) è la soluzione ideale per chi ha bisogno di gestire un numero maggiore di utenze in plancia mantenendo un design pulito e un&apos;affidabilità totale. Costruito con una robusta carcassa in pol</Description>
+    <OriginalPrice>83.90</OriginalPrice>
+    <Price>66.91</Price>
+    <Code>14.860.06</Code>
+    <Link>https://www.onautica.com/products/pannello-elettrico-pcp-compact-6-interruttori-led-ip66?variant=52577411465563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-pcp-compact-6-interruttori-led-ip66.webp?v=1773341608</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137038709</EanCode>
+    <Weight>0.51</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/quadro-elettrico-scena-a-bordo-ia.webp?v=1785520795</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pannello-elettrico-pcp-compact-6-interruttori-led-ip66</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pannello interruttori Contour con porte USB e interruttori basculanti per impianti - 7 Interruttori + Presa USB</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa linea di pannelli elettrici &quot;Contour&quot; rappresenta una soluzione avanzata per la gestione delle utenze di bordo, combinando design moderno e massima sicurezza. La placca è realizzata in alluminio anodizzato , garantendo un&apos;eccellente resistenza alla</Description>
@@ -31066,23 +31063,6 @@
     <EanCode>8033626305763</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>offerta-pannello-contour-tester-digital-3</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passamani cm. 40 in acciaio inox stud 1 Ø 22 mm. H. 5 cm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Passamano in acciaio inox AISI 316 con finitura lucida a specchio, ideale per garantire sicurezza e stabilità a bordo. La base è dotata di inserto filettato che consente un fissaggio passante da sotto coperta, pratico e solido. Materiale: Acciaio inox AIS</Description>
-    <OriginalPrice>31.86</OriginalPrice>
-    <Price>22.76</Price>
-    <Code>0618240</Code>
-    <Link>https://www.onautica.com/products/offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm?variant=52577461829979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm..png?v=1773341735</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626023131</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm._1.png?v=1773341735</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Passamani cm. 60 in acciaio inox stud 1 Ø 22 mm. H. 5 cm.</Name>
@@ -37083,6 +37063,23 @@
     <ParentID>occhiolo-vite-acciaio-inox</ParentID>
   </Offer>
   <Offer>
+    <Name>Passamani cm. 40 in acciaio inox stud 1 Ø 22 mm. H. 5 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Passamano in acciaio inox AISI 316 con finitura lucida a specchio, ideale per garantire sicurezza e stabilità a bordo. La base è dotata di inserto filettato che consente un fissaggio passante da sotto coperta, pratico e solido. Materiale: Acciaio inox AIS</Description>
+    <OriginalPrice>31.86</OriginalPrice>
+    <Price>22.76</Price>
+    <Code>0618240</Code>
+    <Link>https://www.onautica.com/products/offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm?variant=52577461829979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm..png?v=1773341735</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626023131</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Passamani_cm._40_in_acciaio_inox_stud_1_22_mm._H._5_cm._1.png?v=1773341735</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-passamani-cm-40-in-acciaio-inox-stud-1-o-22-mm-h-5-cm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Passamano in Acciaio Inox FAST 1 - Montaggio Esterno - 250 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo passamano è un accessorio di sicurezza essenziale per l&apos;imbarcazione, fornendo un punto d&apos;appoggio sicuro in coperta o nel pozzetto. È realizzato in robusto Acciaio Inox , garantendo la massima resistenza all&apos;ambiente marino. Caratteristiche Princi</Description>
@@ -37586,57 +37583,6 @@
     <EanCode>8033626102515</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tenditori-modulari-destro-inox-t-rapid-o-6-mm-cavo-o-3-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Termostato per Frigorifero e Congelatore Vitrifrigo - Frigo - Montaggio Laterale</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>Termostato per Frigorifero e Congelatore Vitrifrigo Termostato di ricambio per frigoriferi e congelatori Vitrifrigo. Disponibile nelle versioni laterale e frontale, oltre alla versione specifica per congelatori (intervallo -12/-28 °C). Modelli disponibili</Description>
-    <OriginalPrice>58.91</OriginalPrice>
-    <Price>51.23</Price>
-    <Code>1555009</Code>
-    <Link>https://www.onautica.com/products/termostato-per-frigorifero-e-congelatore-vitrifrigo?variant=53357082706267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-1.webp?v=1781115647</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.15</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-2.webp?v=1781115649</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>termostato-per-frigorifero-e-congelatore-vitrifrigo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Termostato per Frigorifero e Congelatore Vitrifrigo - Frigo - Montaggio Frontale</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>Termostato per Frigorifero e Congelatore Vitrifrigo Termostato di ricambio per frigoriferi e congelatori Vitrifrigo. Disponibile nelle versioni laterale e frontale, oltre alla versione specifica per congelatori (intervallo -12/-28 °C). Modelli disponibili</Description>
-    <OriginalPrice>58.91</OriginalPrice>
-    <Price>51.23</Price>
-    <Code>1555010</Code>
-    <Link>https://www.onautica.com/products/termostato-per-frigorifero-e-congelatore-vitrifrigo?variant=53357082739035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-1.webp?v=1781115647</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.15</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-2.webp?v=1781115649</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>termostato-per-frigorifero-e-congelatore-vitrifrigo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Termostato per Frigorifero e Congelatore Vitrifrigo - Congelatori -12/-28°C - Montaggio Frontale</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>Termostato per Frigorifero e Congelatore Vitrifrigo Termostato di ricambio per frigoriferi e congelatori Vitrifrigo. Disponibile nelle versioni laterale e frontale, oltre alla versione specifica per congelatori (intervallo -12/-28 °C). Modelli disponibili</Description>
-    <OriginalPrice>64.53</OriginalPrice>
-    <Price>56.11</Price>
-    <Code>1555011</Code>
-    <Link>https://www.onautica.com/products/termostato-per-frigorifero-e-congelatore-vitrifrigo?variant=53357082771803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-1.webp?v=1781115647</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.15</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-2.webp?v=1781115649</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>termostato-per-frigorifero-e-congelatore-vitrifrigo</ParentID>
   </Offer>
   <Offer>
     <Name>Unità Refrigerante Isotherm Compact GE 80 - GE 80 – fino a 80 L</Name>
@@ -43777,6 +43723,57 @@
     <ParentID>supporti-per-fanali-con-morsetto-per-tubi-o-22-30-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Termostato per Frigorifero e Congelatore Vitrifrigo - Frigo - Montaggio Laterale</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>Termostato per Frigorifero e Congelatore Vitrifrigo Termostato di ricambio per frigoriferi e congelatori Vitrifrigo. Disponibile nelle versioni laterale e frontale, oltre alla versione specifica per congelatori (intervallo -12/-28 °C). Modelli disponibili</Description>
+    <OriginalPrice>58.91</OriginalPrice>
+    <Price>51.23</Price>
+    <Code>1555009</Code>
+    <Link>https://www.onautica.com/products/termostato-per-frigorifero-e-congelatore-vitrifrigo?variant=53357082706267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-1.webp?v=1781115647</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-2.webp?v=1781115649</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>termostato-per-frigorifero-e-congelatore-vitrifrigo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Termostato per Frigorifero e Congelatore Vitrifrigo - Frigo - Montaggio Frontale</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>Termostato per Frigorifero e Congelatore Vitrifrigo Termostato di ricambio per frigoriferi e congelatori Vitrifrigo. Disponibile nelle versioni laterale e frontale, oltre alla versione specifica per congelatori (intervallo -12/-28 °C). Modelli disponibili</Description>
+    <OriginalPrice>58.91</OriginalPrice>
+    <Price>51.23</Price>
+    <Code>1555010</Code>
+    <Link>https://www.onautica.com/products/termostato-per-frigorifero-e-congelatore-vitrifrigo?variant=53357082739035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-1.webp?v=1781115647</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-2.webp?v=1781115649</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>termostato-per-frigorifero-e-congelatore-vitrifrigo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Termostato per Frigorifero e Congelatore Vitrifrigo - Congelatori -12/-28°C - Montaggio Frontale</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>Termostato per Frigorifero e Congelatore Vitrifrigo Termostato di ricambio per frigoriferi e congelatori Vitrifrigo. Disponibile nelle versioni laterale e frontale, oltre alla versione specifica per congelatori (intervallo -12/-28 °C). Modelli disponibili</Description>
+    <OriginalPrice>64.53</OriginalPrice>
+    <Price>56.11</Price>
+    <Code>1555011</Code>
+    <Link>https://www.onautica.com/products/termostato-per-frigorifero-e-congelatore-vitrifrigo?variant=53357082771803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-1.webp?v=1781115647</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/termostato-frigo-1427-frontale-frigo-1555010-2.webp?v=1781115649</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>termostato-per-frigorifero-e-congelatore-vitrifrigo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Torcia a led subacquea Sub-Extreme</Name>
     <Brand>Osculati</Brand>
     <Description>Equipaggiata con LED Cree ad alta efficenza, subacquea fino a 30 m. Caratteristiche: Impermeabile fino a 30 mt. Lumen 300 Portata 45 mt. Autonomia ore 3,5 Funzione flash No Colore carcassa Giallo fluo 182x89 mm. Batteria 2 C (non incluse) Caratteristiche </Description>
@@ -44653,42 +44650,6 @@
     <Weight>0.96</Weight>
     <Condition>nuovo</Condition>
     <ParentID>atf-red-oil-invertitori-idraulici</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 24 V (19 A)</Name>
-    <Brand>Gianneschi</Brand>
-    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
-    <OriginalPrice>1728.31</OriginalPrice>
-    <Price>1152.90</Price>
-    <Code>1616696</Code>
-    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674603867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052282028519</EanCode>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 12 V (35 A)</Name>
-    <Brand>Gianneschi</Brand>
-    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
-    <OriginalPrice>1945.27</OriginalPrice>
-    <Price>1293.90</Price>
-    <Code>1616695</Code>
-    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674636635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052282028502</EanCode>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Autoclave Gianneschi Idromini ACB con Serbatoio - 24 V (15 A)</Name>
@@ -50702,6 +50663,42 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Aspiratore-ventilatoreAttwoodb.png?v=1773341878</Image2>
     <Condition>nuovo</Condition>
     <ParentID>aspiratore-ventilatore-attwood-turbo-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 24 V (19 A)</Name>
+    <Brand>Gianneschi</Brand>
+    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
+    <OriginalPrice>1728.31</OriginalPrice>
+    <Price>1152.90</Price>
+    <Code>1616696</Code>
+    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674603867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052282028519</EanCode>
+    <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 12 V (35 A)</Name>
+    <Brand>Gianneschi</Brand>
+    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
+    <OriginalPrice>1945.27</OriginalPrice>
+    <Price>1293.90</Price>
+    <Code>1616695</Code>
+    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674636635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052282028502</EanCode>
+    <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Autoclave SuperFlow a 3 Valvole 12V per Imbarcazioni</Name>
@@ -58774,24 +58771,6 @@
     <ParentID>boiler-raritan-serie-1700-con-serbatoio-vetrificato</ParentID>
   </Offer>
   <Offer>
-    <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Box incasso per miscelatore acqua calda/fredda e doccette realizzato in plastica antiurto, resistente ai raggi UV. Da completare con miscelatore T Mixer , doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70x115 98x143 73 Caratteri</Description>
-    <OriginalPrice>26.70</OriginalPrice>
-    <Price>19.07</Price>
-    <Code>1513610</Code>
-    <Link>https://www.onautica.com/products/box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm?variant=52577422934363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm..png?v=1773341635</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626239037</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._1.png?v=1773341650</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._2.png?v=1773341636</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Candele NGK Originali Giapponesi - Ricambi di Serie per Motori Fuoribordo - CR5EH9 NGK</Name>
     <Brand>NGK</Brand>
     <Description>Questa è la serie completa di candele di accensione NGK, prodotte in Giappone e fornite come dotazione di serie sui motori fuoribordo dei marchi leader del settore. Le candele NGK sono essenziali per garantire un avviamento affidabile e prestazioni ottima</Description>
@@ -63289,6 +63268,24 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Boetta_luminosa_Solas_med_vega_1.png?v=1773341718</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-boetta-luminosa-solas-med-vega</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Box Doccetta miscelatore SM ovale - incasso 70x115 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Box incasso per miscelatore acqua calda/fredda e doccette realizzato in plastica antiurto, resistente ai raggi UV. Da completare con miscelatore T Mixer , doccetta e tubo scelti separatamente. incasso mm. esterno mm. altezza mm. 70x115 98x143 73 Caratteri</Description>
+    <OriginalPrice>26.70</OriginalPrice>
+    <Price>19.07</Price>
+    <Code>1513610</Code>
+    <Link>https://www.onautica.com/products/box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm?variant=52577422934363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm..png?v=1773341635</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626239037</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._1.png?v=1773341650</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Box_Doccetta_miscelatore_SM_ovale_-_incasso_70x115_mm._2.png?v=1773341636</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>box-doccetta-miscelatore-sm-ovale-incasso-70x115-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Cavi Telecomando Ultraflex C5 – Per Motori Mercury / Mercruiser (Standard) - 6 ft. - 1.80 mt.</Name>
@@ -78088,23 +78085,6 @@
     <ParentID>tappo-o-38-mm-imbarco-water-acciaio-inox-apertura-con-manovella-del-winch</ParentID>
   </Offer>
   <Offer>
-    <Name>Tappo di imbarco in acciaio inox con chiavetta collo Ø 38 mm. carburante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>T appi imbarco a filo in acciaio inox completi di chiavetta apri/chiudi. Caratteristiche: collo Ø 38 mm. flangia Ø 75 mm. Caratteristiche principali Installazione a filo coperta per un profilo pulito e aerodinamico Chiavetta integrata per apertura e chius</Description>
-    <OriginalPrice>36.29</OriginalPrice>
-    <Price>25.92</Price>
-    <Code>4043096</Code>
-    <Link>https://www.onautica.com/products/tappo-o-38-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta?variant=52577495384411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._imbarco_acciaio_inox_fuel_completo_di_chiavetta.png?v=1773341841</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>3054626008596</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._imbarco_acciaio_inox_fuel_completo_di_chiavetta_3.png?v=1773341841</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-o-38-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tappo di imbarco in acciaio inox con chiavetta collo Ø 50 mm. carburante</Name>
     <Brand>Motomarine</Brand>
     <Description>T appi imbarco a filo in acciaio inox completi di chiavetta apri/chiudi. Caratteristiche: collo Ø 50 mm. flangia Ø 80 mm. Caratteristiche principali Costruito interamente in acciaio inox per massima resistenza alla corrosione in ambiente marino Chiusura a</Description>
@@ -84153,22 +84133,6 @@
     <ParentID>maniglia-winch-galleggiante-250mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
-    <Brand>Antal</Brand>
-    <Description>La Manovella Antal Single-Grip da 200 mm (8&quot;) rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. Il corpo è realizzato in alluminio forgiato a caldo e presenta una serie di fori </Description>
-    <OriginalPrice>126.77</OriginalPrice>
-    <Price>93.90</Price>
-    <Code>3751201</Code>
-    <Link>https://www.onautica.com/products/manovella-antal-single-grip-200mm?variant=52577515405659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626109590</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>manovella-antal-single-grip-200mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Mat di Fibra di Vetro 300 gr/mq (Lana di Vetro) – Confezione 1 mq</Name>
     <Brand>Safe Nanotech</Brand>
     <Description>Il Mat di Fibra di Vetro da 300 gr/mq (comunemente noto anche come &quot;lana di vetro&quot; per stratificazione) è l&apos;anima strutturale delle tue riparazioni in vetroresina. Questa confezione pre-tagliata da 1,0 mq è il formato ideale per interventi di riparazione </Description>
@@ -85817,6 +85781,23 @@
     <EanCode>8033626008671</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>tappo-o-50-mm-imbarco-acciaio-inox-fuel</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo di imbarco in acciaio inox con chiavetta collo Ø 38 mm. carburante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>T appi imbarco a filo in acciaio inox completi di chiavetta apri/chiudi. Caratteristiche: collo Ø 38 mm. flangia Ø 75 mm. Caratteristiche principali Installazione a filo coperta per un profilo pulito e aerodinamico Chiavetta integrata per apertura e chius</Description>
+    <OriginalPrice>36.29</OriginalPrice>
+    <Price>25.92</Price>
+    <Code>4043096</Code>
+    <Link>https://www.onautica.com/products/tappo-o-38-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta?variant=52577495384411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._imbarco_acciaio_inox_fuel_completo_di_chiavetta.png?v=1773341841</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3054626008596</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._imbarco_acciaio_inox_fuel_completo_di_chiavetta_3.png?v=1773341841</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-o-38-mm-imbarco-acciaio-inox-fuel-completo-di-chiavetta</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 50 mm. carburante</Name>
@@ -89806,6 +89787,22 @@
     <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
+    <Brand>Antal</Brand>
+    <Description>La Manovella Antal Single-Grip da 200 mm (8&quot;) rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. Il corpo è realizzato in alluminio forgiato a caldo e presenta una serie di fori </Description>
+    <OriginalPrice>126.77</OriginalPrice>
+    <Price>93.90</Price>
+    <Code>3751201</Code>
+    <Link>https://www.onautica.com/products/manovella-antal-single-grip-200mm?variant=52577515405659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626109590</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>manovella-antal-single-grip-200mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Pavimento Nautico Lario (Variante 290 Azzurro) è un rivestimento tecnico in PVC di alta qualità, progettato per coniugare estetica e massima funzionalità a bordo. Questo modello si distingue per il suo caratteristico disegno a &quot;effetto bouclé&quot; , che co</Description>
@@ -93234,7 +93231,7 @@
     <ParentID>supporto-sedili-girevoli-in-alluminio-anodizzato-osculati</ParentID>
   </Offer>
   <Offer>
-    <Name>Supporto sedili girevoli in alluminio anodizzato Osculati - 450/620 · Telescopico · Alluminio</Name>
+    <Name>Supporto sedili girevoli in alluminio anodizzato Osculati - 450/620 �� Telescopico · Alluminio</Name>
     <Brand>Osculati</Brand>
     <Description>Supporto sedili girevoli in alluminio anodizzato Osculati Il supporto sedili girevole in alluminio anodizzato Osculati è completo di boccole in nylon antifrizione e tubi con anodizzazione a specchio, con base Ø 230 mm. È disponibile con base superiore in </Description>
     <OriginalPrice>177.12</OriginalPrice>
