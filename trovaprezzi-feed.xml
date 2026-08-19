@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-19T14:32:36.899Z -->
-<!-- Offerte: 5094 -->
+<!-- Generato: 2026-08-19T18:11:11.126Z -->
+<!-- Offerte: 5091 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -935,6 +935,24 @@
     <ParentID>fanale-posteriore-grande-carrelli-portabarche-posizione-stop-direzione</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale Posteriore per Carrelli Portabarche – Posizione / Stop / Direzione - Fanale Sinistro</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale Posteriore per Carrelli Portabarche – Posizione, Stop e Direzione con Luce Targa Il fanale posteriore per carrelli portabarche è il componente indispensabile per garantire la completa segnalazione luminosa posteriore del rimorchio porta imbarcazion</Description>
+    <OriginalPrice>7.98</OriginalPrice>
+    <Price>5.91</Price>
+    <Code>02.021.06</Code>
+    <Link>https://www.onautica.com/products/fanale-posteriore-carrelli-portabarche-posizione-stop-direzione?variant=52543533187419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-posteriore-carrelli-portabarche-posizione-stop-direzioneSinistra.webp?v=1776333806</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137068058</EanCode>
+    <Weight>0.13</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/fanale-posteriore-carrelli-portabarche-posizione-stop-direzionedestra.webp?v=1776333806</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>fanale-posteriore-carrelli-portabarche-posizione-stop-direzione</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ferma Prua Arancio in Poliuretano 150x67xH89 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Ferma Prua in Poliuretano è un supporto specificamente progettato per trattenere e proteggere la prua dell&apos;imbarcazione durante le operazioni di alaggio e rimessaggio sul carrello. Grazie al materiale in poliuretano, garantisce un&apos;ottima resistenza agl</Description>
@@ -1056,8 +1074,8 @@
     <Name>Fune di Sicurezza a Strappo per Carrelli Rimorchio – Ø 3mm x 95cm</Name>
     <Brand>Osculati</Brand>
     <Description>La Fune di Sicurezza a Strappo è un dispositivo obbligatorio e fondamentale per la sicurezza di qualsiasi carrello rimorchio o portabarche dotato di impianto frenante. Questo cavetto d&apos;acciaio, definito &quot;Top Quality&quot; per la robustezza dei materiali, svolg</Description>
-    <OriginalPrice>11.85</OriginalPrice>
-    <Price>7.90</Price>
+    <OriginalPrice>13.00</OriginalPrice>
+    <Price>8.67</Price>
     <Code>02.057.13</Code>
     <Link>https://www.onautica.com/products/fune-sicurezza-strappo-carrelli?variant=52577528578395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -2535,8 +2553,8 @@
     <Name>Perni di Ricambio per Rulli Carrelli Barca (Standard ed Ellebi) - Ø 16x220 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>I Perni di Ricambio per Rulli sono accessori essenziali per la corretta manutenzione dei rulli centrali e laterali installati sui carrelli porta imbarcazioni. La tempestiva sostituzione di un perno usurato, ossidato o piegato è fondamentale per garantire </Description>
-    <OriginalPrice>10.51</OriginalPrice>
-    <Price>7.78</Price>
+    <OriginalPrice>11.03</OriginalPrice>
+    <Price>8.17</Price>
     <Code>02.029.68</Code>
     <Link>https://www.onautica.com/products/perni-ricambio-rulli-carrelli-barca?variant=52513547288923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20621,8 +20639,8 @@
     <Name>Adesivo kit riparazione neoprene per gommoni tessuto resistente impermeabile - Grigio</Name>
     <Brand>Adeco</Brand>
     <Description>Kit riparazione completo con adesivo specifico per gommoni in neoprene, ideale per intervenire rapidamente su forature, tagli e piccole lacerazioni del tessuto. Perfetto come dotazione di bordo per chi pratica nautica e motonautica e desidera mantenere il</Description>
-    <OriginalPrice>49.83</OriginalPrice>
-    <Price>29.31</Price>
+    <OriginalPrice>59.18</OriginalPrice>
+    <Price>34.81</Price>
     <Code>66.235.00</Code>
     <Link>https://www.onautica.com/products/kit-riparazione-gommoni-neoprene-adeco-125ml?variant=52513472151899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -20631,24 +20649,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137170157</EanCode>
     <Weight>0.35</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_bianco.png?v=1773341610</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-riparazione-gommoni-neoprene-adeco-125ml</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Adesivo kit riparazione neoprene per gommoni tessuto resistente impermeabile - Bianco</Name>
-    <Brand>Adeco</Brand>
-    <Description>Kit riparazione completo con adesivo specifico per gommoni in neoprene, ideale per intervenire rapidamente su forature, tagli e piccole lacerazioni del tessuto. Perfetto come dotazione di bordo per chi pratica nautica e motonautica e desidera mantenere il</Description>
-    <OriginalPrice>50.85</OriginalPrice>
-    <Price>29.91</Price>
-    <Code>5722803</Code>
-    <Link>https://www.onautica.com/products/kit-riparazione-gommoni-neoprene-adeco-125ml?variant=52577382629723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_grigio.png?v=1773341610</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137170188</EanCode>
-    <Weight>0.30</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_bianco.png?v=1773341610</Image2>
     <Condition>nuovo</Condition>
     <ParentID>kit-riparazione-gommoni-neoprene-adeco-125ml</ParentID>
@@ -23674,7 +23674,7 @@
     <Price>10.78</Price>
     <Code>10598</Code>
     <Link>https://www.onautica.com/products/sikaflex-591-tubetto-autoestrudente-70ml?variant=52517462966619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sikaflex-591-tubetto-autoestrudente-70ml.png?v=1773341923</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -25457,24 +25457,6 @@
     <ParentID>offerta-borsa-dotazioni-entro-6-miglia-per-6-persone</ParentID>
   </Offer>
   <Offer>
-    <Name>Borsa pronto soccorso D.M.10/03/22 tabella D</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Kit di pronto soccorso tabella D Realizzata in accordo con il D.M. 10/03/2022 in vigore dal 10/05/2022. Contenuto: 1 flacone Acqua ossigenata 250 ml; 1 pallone di rianimazione AMBU adulti; 1 maschera oronasale adulti cal.5; 1 maschera oronasale bambini ca</Description>
-    <OriginalPrice>161.95</OriginalPrice>
-    <Price>124.58</Price>
-    <Code>3022034</Code>
-    <Link>https://www.onautica.com/products/nautibag-sacca-pronto-soccorso-tabella-d?variant=52577528381787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/saccatabellaD.png?v=1773341943</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626298256</EanCode>
-    <Weight>4.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/saccatabellaD2.png?v=1773341944</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>nautibag-sacca-pronto-soccorso-tabella-d</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cerniera a Libro Grande in Acciaio Inox 316 (100x100 mm)</Name>
     <Brand>Motomarine</Brand>
     <Description>La Cerniera a Libro Grande (100x100 mm) è il componente di ferramenta heavy-duty per eccellenza, progettato specificamente per le applicazioni navali che richiedono il massimo della resistenza e del supporto strutturale. Realizzata in fusione di Acciaio I</Description>
@@ -27199,8 +27181,8 @@
     <Name>Deviatore 100A/300A continuo/intermitente staccabatteria</Name>
     <Brand>Osculati</Brand>
     <Description>Questo deviatore batteria è un componente di sicurezza cruciale per la gestione dell&apos;alimentazione di bordo, specialmente in sistemi con più batterie. Permette di controllare e isolare le batterie con la massima flessibilità. Funzionalità e Prestazioni El</Description>
-    <OriginalPrice>31.99</OriginalPrice>
-    <Price>22.85</Price>
+    <OriginalPrice>32.83</OriginalPrice>
+    <Price>23.45</Price>
     <Code>14.923.12</Code>
     <Link>https://www.onautica.com/products/deviatore-batteria-4-posizioni-100a-continuo?variant=52577434829147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -28213,7 +28195,7 @@
     <ParentID>pannello-elettrico-8-interruttori-presa-12v-grafite</ParentID>
   </Offer>
   <Offer>
-    <Name>Pannello Elettrico Classic in Alluminio – Interruttori a Leva - 3 Interruttori</Name>
+    <Name>Pannello Elettrico Classic in Alluminio �� Interruttori a Leva - 3 Interruttori</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Pannello Elettrico della serie Classic rappresenta la soluzione più tradizionale, affidabile e intuitiva per la gestione dell&apos;impianto elettrico a bordo. Costruito su una solida piastra in alluminio , garantisce un&apos;eccellente resistenza meccanica e una</Description>
     <OriginalPrice>47.89</OriginalPrice>
@@ -30671,6 +30653,38 @@
     <ParentID>catenacciolo-antivibrante-lucchettabile-inox-85x27</ParentID>
   </Offer>
   <Offer>
+    <Name>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo - Centralina elettronica 12/24V</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo Centralina elettronica di ricambio per frigoriferi e congelatori Vitrifrigo dotati di compressore Danfoss. Gestisce l&apos;alimentazione e i protocolli di sicurezza del compressore. Modelli </Description>
+    <OriginalPrice>245.65</OriginalPrice>
+    <Price>213.60</Price>
+    <Code>1555238</Code>
+    <Link>https://www.onautica.com/products/centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo?variant=53357083263323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/centralina-elettronica-frigo-1429-standard-12-24v-1555238-1.webp?v=1781115655</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>0.30</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo - Centralina elettronica versione avanzata</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo Centralina elettronica di ricambio per frigoriferi e congelatori Vitrifrigo dotati di compressore Danfoss. Gestisce l&apos;alimentazione e i protocolli di sicurezza del compressore. Modelli </Description>
+    <OriginalPrice>306.19</OriginalPrice>
+    <Price>266.25</Price>
+    <Code>1555239</Code>
+    <Link>https://www.onautica.com/products/centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo?variant=53357083296091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/centralina-elettronica-frigo-1429-standard-12-24v-1555238-1.webp?v=1781115655</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>0.35</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cerniera a sfilo DX 60x50 mm. ottone cromato</Name>
     <Brand>Motomarine</Brand>
     <Description>Cerniera a sfilo DX 60x50 mm. ottone cromato La cerniera a sfilo DX in ottone cromato da 60x50 mm è un elemento di giunzione rimovibile, progettato per applicazioni che richiedono praticità di smontaggio rapido senza l&apos;uso di attrezzi. A chi è rivolto Ide</Description>
@@ -32442,6 +32456,120 @@
     <ParentID>frigorifero-vitrifrigo-c60i-chromelock-ad-incasso</ParentID>
   </Offer>
   <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C42L – 42 L, motore esterno remotabile</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>960.14</OriginalPrice>
+    <Price>902.90</Price>
+    <Code>2435061</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516170587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670656260</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C50I – 50 L, motore interno</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>1001.62</OriginalPrice>
+    <Price>940.90</Price>
+    <Code>2435062</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516203355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670656284</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C51I – 51 L, motore interno</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>1029.68</OriginalPrice>
+    <Price>966.90</Price>
+    <Code>2435063</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516236123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670656253</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C62I – 62 L, motore interno</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>1029.68</OriginalPrice>
+    <Price>966.90</Price>
+    <Code>2435065</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516268891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670657243</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C75L – 75 L, motore esterno remotabile</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>1093.12</OriginalPrice>
+    <Price>1023.90</Price>
+    <Code>2435066</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516301659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670656130</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C115I – 115 L, motore interno</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>1246.84</OriginalPrice>
+    <Price>1163.90</Price>
+    <Code>2435068</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516334427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670655591</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
     <Name>Frigorifero Vitrifrigo DW Inox con Apertura a Cassetto - DW42LP – 42 L, motore esterno remotabile</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>La serie DW di Vitrifrigo unisce l&apos;acciaio inox all&apos;apertura a cassetto: il contenuto scorre verso di te su guide, con la maniglia Steelock che integra la funzione vent position — porta socchiusa nei periodi di inattività contro muffe e odori. Completi di</Description>
@@ -32989,41 +33117,6 @@
     <ParentID>ghiacciaia-coleman-xtreme-marine-personal-70</ParentID>
   </Offer>
   <Offer>
-    <Name>Ghiacciaia Igloo Marine Profile II 50 QT - 47 lt. grigia</Name>
-    <Brand>Igloo</Brand>
-    <Description>Fabbricati con materiali UV resistenti con isolamento termico ad alta efficienza. Complete di maniglie per il trasporto. Concepite per l&apos;uso a bordo. Ideali per la conservazione degli alimenti, del pescato o come vasche per esche vive. Interno in material</Description>
-    <OriginalPrice>94.50</OriginalPrice>
-    <Price>75.61</Price>
-    <Code>50.558.50</Code>
-    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia?variant=52577366802779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.50.png?v=1773341484</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.80</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>ghiacciaia-igloo-marine-profile-ii-50-qt-47-lt-grigia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ghiacciaia Igloo Marine Ultra - Latitude Marine Ultra 100 – 94 L</Name>
-    <Brand>Igloo</Brand>
-    <Description>Le ghiacciaie Igloo Marine Ultra sono costruite in schiuma THERMECOOL: lo spesso strato di isolamento mantiene il ghiaccio più a lungo, e il rivestimento protegge da ingiallimento, macchie, odori e dal degrado dei raggi UV. Maniglie rivestite in materiale</Description>
-    <OriginalPrice>276.94</OriginalPrice>
-    <Price>202.90</Price>
-    <Code>2420046</Code>
-    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra-1?variant=53699761799515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2420042-0.webp?v=1785561529</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>034223495480</EanCode>
-    <Weight>4.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2420042-1.webp?v=1785561531</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2420042-2.webp?v=1785561532</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ghiacciaia-igloo-marine-ultra-1</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - MARINE ULTRA 25 - 23 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
@@ -33058,6 +33151,24 @@
     <Weight>3.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ghiacciaia Igloo Marine Ultra – Frigo Portatile Resistente a Salsedine e Sole - PROFILE 50 QT - 47 lt.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Affidabilità e prestazioni marine dal 1967: la collezione IGLOO Marine Ultra è stata progettata specificamente per resistere agli ambienti umidi, salati e soleggiati, mantenendo il tuo pescato, cibi e bevande perfettamente refrigerati. Scegli la capacità </Description>
+    <OriginalPrice>94.50</OriginalPrice>
+    <Price>75.61</Price>
+    <Code>50.558.50</Code>
+    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra?variant=52553035841883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_50.558.33.jpg?v=1773341520</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>4.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica2.png?v=1773341663</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
   </Offer>
@@ -34053,6 +34164,23 @@
     <ParentID>molla-gas-acciaio-inox-occhio-foro8mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Moschettone a molla 70 mm. acciaio inox AISI 316</Name>
+    <Brand>Osculati</Brand>
+    <Description>Moschettone in acciaio inox con apertura a molla in acciaio inox AISI 316. Caratteristiche: Lunghezza 70 mm. Carico di lavoro 59 kg Carico di rottura 231 kg Caratteristiche principali Acciaio inox AISI 316, la lega più resistente alla corrosione marina e </Description>
+    <OriginalPrice>47.77</OriginalPrice>
+    <Price>26.54</Price>
+    <Code>09.247.70</Code>
+    <Link>https://www.onautica.com/products/moschettone-inox-a-molla-70-mm?variant=52577452949851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Moschettone_inox_a_molla_70_mm..png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137081392</EanCode>
+    <Weight>0.04</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>moschettone-inox-a-molla-70-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Moschettone inox 120 mm. con ghiera AISI 316 A4 apertura larga CERTIFICATO</Name>
     <Brand>Carcano</Brand>
     <Description>Moschettone in acciaio inox a grande apertura in acciaio inox con ghiera AISI 316, aggancio senza appigli. Misura A B C D L Carico di Rottura Peso mm mm mm mm mm mm KN Kg 120 18 15 23 11 125 28 0,22 Caratteristiche principali Certificato: garantisce affid</Description>
@@ -34959,38 +35087,6 @@
     <ParentID>basetta-inox-completa</ParentID>
   </Offer>
   <Offer>
-    <Name>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo - Centralina elettronica 12/24V</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo Centralina elettronica di ricambio per frigoriferi e congelatori Vitrifrigo dotati di compressore Danfoss. Gestisce l&apos;alimentazione e i protocolli di sicurezza del compressore. Modelli </Description>
-    <OriginalPrice>245.65</OriginalPrice>
-    <Price>213.60</Price>
-    <Code>1555238</Code>
-    <Link>https://www.onautica.com/products/centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo?variant=53357083263323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/centralina-elettronica-frigo-1429-standard-12-24v-1555238-1.webp?v=1781115655</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.30</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo - Centralina elettronica versione avanzata</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>Centralina Elettronica di Ricambio per Frigo e Congelatori Vitrifrigo Centralina elettronica di ricambio per frigoriferi e congelatori Vitrifrigo dotati di compressore Danfoss. Gestisce l&apos;alimentazione e i protocolli di sicurezza del compressore. Modelli </Description>
-    <OriginalPrice>306.19</OriginalPrice>
-    <Price>266.25</Price>
-    <Code>1555239</Code>
-    <Link>https://www.onautica.com/products/centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo?variant=53357083296091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/centralina-elettronica-frigo-1429-standard-12-24v-1555238-1.webp?v=1781115655</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.35</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>centralina-elettronica-di-ricambio-per-frigo-e-congelatori-vitrifrigo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cerniere bianche per ghiacciaia Igloo</Name>
     <Brand>Igloo</Brand>
     <Description>Cerniere di ricambio originali per ghiacciaie Igloo, progettate per garantire una lunga durata anche in ambiente marino. Realizzate in materiale resistente ai raggi UV, mantengono colore e integrità strutturale nel tempo anche con l&apos;esposizione prolungata</Description>
@@ -35650,25 +35746,6 @@
     <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-bianca</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanale di Fonda 360° su Asta Inox Retrattile 60 cm – Calotta Nera e Portabandiera</Name>
-    <Brand>Osculati</Brand>
-    <Description>Fanale di fonda 360° su asta inox retrattile 60 cm, calotta nera Il fanale di fonda 360° è la luce bianca che segnala la barca quando si è all&apos;ancora. Questo modello Osculati della serie Classic 360° retrattile ha l&apos; asta da 60 cm in acciaio inox e una ba</Description>
-    <OriginalPrice>44.60</OriginalPrice>
-    <Price>38.79</Price>
-    <Code>11.140.00</Code>
-    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera?variant=52577416937819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0_e56bb045-3ec1-47a5-860e-73e425662a3a.webp?v=1786463352</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137012808</EanCode>
-    <Weight>0.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1_0db89ad2-742f-4cbb-8b45-57ca9fe8e493.webp?v=1786463354</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2_9a988122-8108-405a-9e58-8ac40253184e.webp?v=1786463356</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanale di Navigazione 360° a Montaggio Orizzontale Corpo Nero (&lt;12m)</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Fanale di Navigazione 360° a Montaggio Orizzontale è una dotazione indispensabile per segnalare con chiarezza la presenza della tua imbarcazione durante le ore notturne o in situazioni di scarsa visibilità. Emettendo una luce bianca continua a 360 grad</Description>
@@ -36208,82 +36285,6 @@
     <ParentID>fanali-navigazione-rina-sphera-compact-12m</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - Verde</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
-    <OriginalPrice>38.54</OriginalPrice>
-    <Price>27.53</Price>
-    <Code>11.414.02</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52545738998107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011870</EanCode>
-    <Weight>0.26</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - Rosso</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
-    <OriginalPrice>38.54</OriginalPrice>
-    <Price>27.53</Price>
-    <Code>11.414.01</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52545739030875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011863</EanCode>
-    <Weight>0.26</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - 135° Poppa</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
-    <OriginalPrice>38.54</OriginalPrice>
-    <Price>27.53</Price>
-    <Code>11.414.04</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52513518715227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011894</EanCode>
-    <Weight>0.26</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - 225° Prua</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
-    <OriginalPrice>38.54</OriginalPrice>
-    <Price>27.53</Price>
-    <Code>11.414.03</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52545739063643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011887</EanCode>
-    <Weight>0.26</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanali di prua led bow chrome &lt;12M 12V</Name>
     <Brand>Motomarine</Brand>
     <Description>Fanale di prua bicolore rosso/verde, 12V Cromato. Dimensioni: 45 x 100mm. Caratteristiche principali Tecnologia LED ad alta efficienza per un consumo energetico ridotto Finitura cromata per un aspetto elegante e resistenza alla corrosione marina Doppia co</Description>
@@ -36648,120 +36649,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/frigorifero-portatile-compressore-travel-box-itb_interno_pieno.webp?v=1774370863</Image3>
     <Condition>nuovo</Condition>
     <ParentID>frigorifero-portatile-compressore-travel-box-itb-52</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C42L – 42 L, motore esterno remotabile</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
-    <OriginalPrice>960.14</OriginalPrice>
-    <Price>902.90</Price>
-    <Code>2435061</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516170587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670656260</EanCode>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C50I – 50 L, motore interno</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
-    <OriginalPrice>1001.62</OriginalPrice>
-    <Price>940.90</Price>
-    <Code>2435062</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516203355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670656284</EanCode>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C51I – 51 L, motore interno</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
-    <OriginalPrice>1029.68</OriginalPrice>
-    <Price>966.90</Price>
-    <Code>2435063</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516236123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670656253</EanCode>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C62I – 62 L, motore interno</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
-    <OriginalPrice>1029.68</OriginalPrice>
-    <Price>966.90</Price>
-    <Code>2435065</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516268891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670657243</EanCode>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C75L – 75 L, motore esterno remotabile</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
-    <OriginalPrice>1093.12</OriginalPrice>
-    <Price>1023.90</Price>
-    <Code>2435066</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516301659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670656130</EanCode>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C115I – 115 L, motore interno</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
-    <OriginalPrice>1246.84</OriginalPrice>
-    <Price>1163.90</Price>
-    <Code>2435068</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516334427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670655591</EanCode>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
   </Offer>
   <Offer>
     <Name>Ghiacciaia Igloo BMX 25 rinforzato 23 lt.</Name>
@@ -40111,82 +39998,6 @@
     <ParentID>luce-subacquea-passante-led-bluefin-mako-m12-70w-7100-lumen-faro-in-bronzo-foro-65-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Sinistro (Rosso)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
-    <OriginalPrice>20.99</OriginalPrice>
-    <Price>14.99</Price>
-    <Code>11.410.11</Code>
-    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52513539719515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011375</EanCode>
-    <Weight>0.14</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>luci-via-classic-12-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Destro (Verde)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
-    <OriginalPrice>20.99</OriginalPrice>
-    <Price>14.99</Price>
-    <Code>11.410.12</Code>
-    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765344603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011382</EanCode>
-    <Weight>0.14</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>luci-via-classic-12-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Prua (Bianco - Motor Light)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
-    <OriginalPrice>19.87</OriginalPrice>
-    <Price>14.20</Price>
-    <Code>11.410.13</Code>
-    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765377371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137013539</EanCode>
-    <Weight>0.13</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>luci-via-classic-12-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Poppa (Bianco)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
-    <OriginalPrice>19.87</OriginalPrice>
-    <Price>14.20</Price>
-    <Code>11.410.14</Code>
-    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765410139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137015311</EanCode>
-    <Weight>0.13</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>luci-via-classic-12-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Maniglia di Ricambio Igloo 120/150 QT – Coppia Maniglie con Viti per Ghiacciaia</Name>
     <Brand>Igloo</Brand>
     <Description>Maniglie di ricambio per Igloo. Ref Per Igloo Qt Coppia maniglie con 4 viti 90&lt;&gt;100 Caratteristiche principali Maniglie di ricambio originali compatibili con ghiacciaie Igloo da 120 a 150 Qt Vendute in coppia per il ripristino completo della ghiacciaia In</Description>
@@ -42209,6 +42020,25 @@
     <ParentID>elica-tripala-di-ricambio-in-nylon-rinforzato-per-watersnake-geo-spot-65-80-lb</ParentID>
   </Offer>
   <Offer>
+    <Name>Fanale di Fonda 360° su Asta Inox Retrattile 60 cm – Calotta Nera e Portabandiera</Name>
+    <Brand>Osculati</Brand>
+    <Description>Fanale di fonda 360° su asta inox retrattile 60 cm, calotta nera Il fanale di fonda 360° è la luce bianca che segnala la barca quando si è all&apos;ancora. Questo modello Osculati della serie Classic 360° retrattile ha l&apos; asta da 60 cm in acciaio inox e una ba</Description>
+    <OriginalPrice>44.60</OriginalPrice>
+    <Price>38.79</Price>
+    <Code>11.140.00</Code>
+    <Link>https://www.onautica.com/products/asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera?variant=52577416937819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0_e56bb045-3ec1-47a5-860e-73e425662a3a.webp?v=1786463352</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137012808</EanCode>
+    <Weight>0.45</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1_0db89ad2-742f-4cbb-8b45-57ca9fe8e493.webp?v=1786463354</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2_9a988122-8108-405a-9e58-8ac40253184e.webp?v=1786463356</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>asta-luminosa-60-cm-retrattile-luce-bianca-360-plastica-nera</ParentID>
+  </Offer>
+  <Offer>
     <Name>Fanali di Navigazione 360° DHR - Per Barche fino a 20 Metri - Verde 360°</Name>
     <Brand>DHR</Brand>
     <Description>Questa serie di fanali DHR (Den Haan Rotterdam) è progettata per offrire il massimo livello di sicurezza e conformità per la navigazione. Sono specificamente destinati all&apos;uso su imbarcazioni con lunghezza inferiore ai 20 metri che richiedono una copertur</Description>
@@ -42380,6 +42210,82 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_Via_Mini_Bianca_135_White_R.I.N.A..png?v=1773341652</Image2>
     <Condition>nuovo</Condition>
     <ParentID>fanali-navigazione-rina-mini-white-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - Verde</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
+    <OriginalPrice>38.54</OriginalPrice>
+    <Price>27.53</Price>
+    <Code>11.414.02</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52545738998107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011870</EanCode>
+    <Weight>0.26</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - Rosso</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
+    <OriginalPrice>38.54</OriginalPrice>
+    <Price>27.53</Price>
+    <Code>11.414.01</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52545739030875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011863</EanCode>
+    <Weight>0.26</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - 135° Poppa</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
+    <OriginalPrice>38.54</OriginalPrice>
+    <Price>27.53</Price>
+    <Code>11.414.04</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52513518715227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011894</EanCode>
+    <Weight>0.26</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Fanali di Navigazione R.I.Na. UTILITY 85 in Acciaio Inox fino a 12 metri - 225° Prua</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di luci di via è la soluzione ideale per imbarcazioni fino a 12 metri di lunghezza che cercano un&apos;ottima funzionalità unita a un&apos;estetica premium. Caratteristiche Principali: Design e Materiale: Il corpo è realizzato in acciaio inox lucidato </Description>
+    <OriginalPrice>38.54</OriginalPrice>
+    <Price>27.53</Price>
+    <Code>11.414.03</Code>
+    <Link>https://www.onautica.com/products/fanali-navigazione-rina-utility-85-inox-12m?variant=52545739063643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox.png?v=1762858935</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011887</EanCode>
+    <Weight>0.26</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_inox_135_poppa_R.I.N.A._1.png?v=1773341654</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_di_via_acciaio_inox_a.png?v=1762858911</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>fanali-navigazione-rina-utility-85-inox-12m</ParentID>
   </Offer>
   <Offer>
     <Name>Fanali midi rosso black R.I.N.A. di via</Name>
@@ -42670,6 +42576,82 @@
     <Weight>0.05</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-tenuta-albero-21849-jabsco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Sinistro (Rosso)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
+    <OriginalPrice>20.99</OriginalPrice>
+    <Price>14.99</Price>
+    <Code>11.410.11</Code>
+    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52513539719515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011375</EanCode>
+    <Weight>0.14</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>luci-via-classic-12-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Destro (Verde)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
+    <OriginalPrice>20.99</OriginalPrice>
+    <Price>14.99</Price>
+    <Code>11.410.12</Code>
+    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765344603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011382</EanCode>
+    <Weight>0.14</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>luci-via-classic-12-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Prua (Bianco - Motor Light)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
+    <OriginalPrice>19.87</OriginalPrice>
+    <Price>14.20</Price>
+    <Code>11.410.13</Code>
+    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765377371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137013539</EanCode>
+    <Weight>0.13</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>luci-via-classic-12-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Luci di Via Classic 12 per Barche fino a 12 metri – Carcassa Bianca - Poppa (Bianco)</Name>
+    <Brand>Osculati</Brand>
+    <Description>Le Luci di Via Classic 12 sono fanali di navigazione dal design tradizionale e compatto, ideali per imbarcazioni da diporto fino a 12 metri di lunghezza. Questa serie è caratterizzata da una carcassa di colore Bianco , che si integra perfettamente con la </Description>
+    <OriginalPrice>19.87</OriginalPrice>
+    <Price>14.20</Price>
+    <Code>11.410.14</Code>
+    <Link>https://www.onautica.com/products/luci-via-classic-12-bianco?variant=52519765410139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_verde.png?v=1773341652</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137015311</EanCode>
+    <Weight>0.13</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_rosso.png?v=1773341651</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/luci-via-classic-12-bianco_225_prua.jpg?v=1773341956</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>luci-via-classic-12-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Manicotti Ricambio per Scambiatori di Calore Bowman - 2679NP a Gomito 22/32 mm</Name>
@@ -46415,42 +46397,6 @@
     <ParentID>pompa-autoclave-jabsco-par-max-1-12v-35-psi</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Autoclave Marco UP14/E Elettronica 46 l/min - 12-24 V – 46 l/min</Name>
-    <Brand>Marco</Brand>
-    <Description>La UP14/E è l&apos;autoclave elettronica grande di Marco: ingranaggi elicoidali in PEEK con controllo elettronico che modula il motore sulla portata richiesta, corpo e connessioni in ottone nichelato, albero in acciaio inossidabile. Valvola di non ritorno inte</Description>
-    <OriginalPrice>1320.56</OriginalPrice>
-    <Price>887.90</Price>
-    <Code>1600018</Code>
-    <Link>https://www.onautica.com/products/pompa-autoclave-marco-up14-e-elettronica-46-l-min?variant=53699875176795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600018-0.webp?v=1785571696</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052461675763</EanCode>
-    <Weight>1.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600018-1.webp?v=1785571699</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-autoclave-marco-up14-e-elettronica-46-l-min</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Autoclave Marco UP6/E Elettronica - 12-24 V – 26 l/min</Name>
-    <Brand>Marco</Brand>
-    <Description>La UP6/E di Marco è l&apos;autoclave elettronica a ingranaggi elicoidali in PEEK: il controllo elettronico fa girare il motore progressivamente per raggiungere la portata richiesta — niente pressostato che scatta, niente colpi. Valvola di non ritorno integrata</Description>
-    <OriginalPrice>794.84</OriginalPrice>
-    <Price>545.90</Price>
-    <Code>1600011</Code>
-    <Link>https://www.onautica.com/products/pompa-autoclave-marco-up6-e-elettronica?variant=53699841065307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600011-0.webp?v=1785569275</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8022278607455</EanCode>
-    <Weight>1.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600011-1.webp?v=1785569277</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-autoclave-marco-up6-e-elettronica</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Autoclave Triplex Hi Flow Flojet 24V - Pompa autoclave Triplex Hi Flow 24V</Name>
     <Brand>Flojet</Brand>
     <Description>La pompa autoclave Triplex Hi Flow di Flojet è una pompa a membrana dal funzionamento silenzioso, progettata per applicazioni con requisiti idrici elevati. Ha una portata di 15 litri al minuto con scarico libero, senza contropressione, e si spegne automat</Description>
@@ -46518,40 +46464,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z32305-5012-3A-1.webp?v=1785662769</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-lavaggio-ponte-jabsco-hotshot-3-0-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Lavaggio Ponte Jabsco HotShot 4HD - 12 V (11 A)</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La HotShot 4HD è la pompa Jabsco per il lavaggio del ponte a uso intensivo: 15,1 litri al minuto con pressostato che stacca a 4,1 bar (60 PSI) — la pressione che stacca il fango dalla catena e il sale dalla coperta. Valvole in EPDM e membrana in Santopren</Description>
-    <OriginalPrice>317.11</OriginalPrice>
-    <Price>306.90</Price>
-    <Code>ZQ401J-118N-3A</Code>
-    <Link>https://www.onautica.com/products/pompa-lavaggio-ponte-jabsco-hotshot-4hd?variant=53699815702875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZQ401J-118N-3A-0.webp?v=1785566753</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>671880841917</EanCode>
-    <Weight>4.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-lavaggio-ponte-jabsco-hotshot-4hd</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Lavaggio Ponte Jabsco HotShot 4HD - 24 V (6 A)</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La HotShot 4HD è la pompa Jabsco per il lavaggio del ponte a uso intensivo: 15,1 litri al minuto con pressostato che stacca a 4,1 bar (60 PSI) — la pressione che stacca il fango dalla catena e il sale dalla coperta. Valvole in EPDM e membrana in Santopren</Description>
-    <OriginalPrice>369.45</OriginalPrice>
-    <Price>357.90</Price>
-    <Code>ZQ402J-118N-3A</Code>
-    <Link>https://www.onautica.com/products/pompa-lavaggio-ponte-jabsco-hotshot-4hd?variant=53699815735643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZQ401J-118N-3A-0.webp?v=1785566753</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>671880841931</EanCode>
-    <Weight>4.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-lavaggio-ponte-jabsco-hotshot-4hd</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Marco UP2-P 12V Autoadescante - 12V</Name>
@@ -50635,8 +50547,8 @@
     <Name>Cera protettiva per gommoni Raft Wax IOSSO 750 ml.</Name>
     <Brand>IOSSO</Brand>
     <Description>Cera cremosa protettiva, rigenerante e lucidante, per gommoni di qualsiasi materiale. Mantiene a lungo il gommone morbido e protetto, ridonando l&apos;aspetto originale alla gomma invecchiata. Adatto anche per la protezzione di tessuti vinilici (tendalini, cus</Description>
-    <OriginalPrice>36.90</OriginalPrice>
-    <Price>20.52</Price>
+    <OriginalPrice>39.00</OriginalPrice>
+    <Price>21.67</Price>
     <Code>10800</Code>
     <Link>https://www.onautica.com/products/cera-protettiva-per-gommoni-iosso-raft-wax?variant=52577519796571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -51371,7 +51283,7 @@
     <Brand>Osculati</Brand>
     <Description>Panni in Microfibra Osculati Boat Care – Confezione da 2 pz Confezione da 2 panni in microfibra Boat Care Osculati per pulire, asciugare e lucidare le superfici della barca senza graffiare. Trattengono polvere e sporco e si usano a secco o umidi. A chi è </Description>
     <OriginalPrice>12.30</OriginalPrice>
-    <Price>10.26</Price>
+    <Price>10.25</Price>
     <Code>65.230.40</Code>
     <Link>https://www.onautica.com/products/panni-in-microfibra-osculati-boat-care-confezione-da-2-pz?variant=53517781664091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -52200,6 +52112,42 @@
     <ParentID>pompa-autoclave-jabsco-par-max-6hd</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa Autoclave Marco UP14/E Elettronica 46 l/min - 12-24 V – 46 l/min</Name>
+    <Brand>Marco</Brand>
+    <Description>La UP14/E è l&apos;autoclave elettronica grande di Marco: ingranaggi elicoidali in PEEK con controllo elettronico che modula il motore sulla portata richiesta, corpo e connessioni in ottone nichelato, albero in acciaio inossidabile. Valvola di non ritorno inte</Description>
+    <OriginalPrice>1320.56</OriginalPrice>
+    <Price>887.90</Price>
+    <Code>1600018</Code>
+    <Link>https://www.onautica.com/products/pompa-autoclave-marco-up14-e-elettronica-46-l-min?variant=53699875176795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600018-0.webp?v=1785571696</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052461675763</EanCode>
+    <Weight>1.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600018-1.webp?v=1785571699</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-autoclave-marco-up14-e-elettronica-46-l-min</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Autoclave Marco UP6/E Elettronica - 12-24 V – 26 l/min</Name>
+    <Brand>Marco</Brand>
+    <Description>La UP6/E di Marco è l&apos;autoclave elettronica a ingranaggi elicoidali in PEEK: il controllo elettronico fa girare il motore progressivamente per raggiungere la portata richiesta — niente pressostato che scatta, niente colpi. Valvola di non ritorno integrata</Description>
+    <OriginalPrice>794.84</OriginalPrice>
+    <Price>545.90</Price>
+    <Code>1600011</Code>
+    <Link>https://www.onautica.com/products/pompa-autoclave-marco-up6-e-elettronica?variant=53699841065307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600011-0.webp?v=1785569275</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8022278607455</EanCode>
+    <Weight>1.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600011-1.webp?v=1785569277</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-autoclave-marco-up6-e-elettronica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa autoclave Seaflo 3,8 lt/min. 12V</Name>
     <Brand>Seaflo</Brand>
     <Description>Questa pompa autoclave compatta SeaFlo Mini 21 è la soluzione perfetta per impianti idrici di piccole dimensioni, progettata per alimentare in modo efficiente fino a due utenze di bordo (come lavelli o doccette). Caratteristiche Principali: Funzionamento </Description>
@@ -52837,8 +52785,8 @@
     <Name>Pompa di Sentina Europump II – Sommergibile 12V Certificata RINA - 500 - 32 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>La Pompa di Sentina Europump II è una soluzione ad immersione affidabile e compatta, progettata per garantire la sicurezza a bordo svuotando efficacemente la sentina. Questo modello si distingue per l&apos;elevato standard di sicurezza e conformità normativa. </Description>
-    <OriginalPrice>20.68</OriginalPrice>
-    <Price>14.78</Price>
+    <OriginalPrice>22.35</OriginalPrice>
+    <Price>15.97</Price>
     <Code>16.122.02</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-europump-ii-sommergibile-rina?variant=52513549517147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -52856,8 +52804,8 @@
     <Name>Pompa di Sentina Europump II – Sommergibile 12V Certificata RINA - 800 - 51 lt/min.</Name>
     <Brand>Osculati</Brand>
     <Description>La Pompa di Sentina Europump II è una soluzione ad immersione affidabile e compatta, progettata per garantire la sicurezza a bordo svuotando efficacemente la sentina. Questo modello si distingue per l&apos;elevato standard di sicurezza e conformità normativa. </Description>
-    <OriginalPrice>41.29</OriginalPrice>
-    <Price>29.50</Price>
+    <OriginalPrice>43.36</OriginalPrice>
+    <Price>30.97</Price>
     <Code>16.122.05</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-europump-ii-sommergibile-rina?variant=52525415956827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -53466,6 +53414,40 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z23610-3003-1.webp?v=1785563666</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-jabsco-maxi-puppy-3000-in-bronzo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Lavaggio Ponte Jabsco HotShot 4HD - 12 V (11 A)</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La HotShot 4HD è la pompa Jabsco per il lavaggio del ponte a uso intensivo: 15,1 litri al minuto con pressostato che stacca a 4,1 bar (60 PSI) — la pressione che stacca il fango dalla catena e il sale dalla coperta. Valvole in EPDM e membrana in Santopren</Description>
+    <OriginalPrice>317.11</OriginalPrice>
+    <Price>306.90</Price>
+    <Code>ZQ401J-118N-3A</Code>
+    <Link>https://www.onautica.com/products/pompa-lavaggio-ponte-jabsco-hotshot-4hd?variant=53699815702875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZQ401J-118N-3A-0.webp?v=1785566753</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>671880841917</EanCode>
+    <Weight>4.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-lavaggio-ponte-jabsco-hotshot-4hd</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Lavaggio Ponte Jabsco HotShot 4HD - 24 V (6 A)</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La HotShot 4HD è la pompa Jabsco per il lavaggio del ponte a uso intensivo: 15,1 litri al minuto con pressostato che stacca a 4,1 bar (60 PSI) — la pressione che stacca il fango dalla catena e il sale dalla coperta. Valvole in EPDM e membrana in Santopren</Description>
+    <OriginalPrice>369.45</OriginalPrice>
+    <Price>357.90</Price>
+    <Code>ZQ402J-118N-3A</Code>
+    <Link>https://www.onautica.com/products/pompa-lavaggio-ponte-jabsco-hotshot-4hd?variant=53699815735643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZQ401J-118N-3A-0.webp?v=1785566753</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>671880841931</EanCode>
+    <Weight>4.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-lavaggio-ponte-jabsco-hotshot-4hd</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Lavaggio Ponte Jabsco HotShot 6HD - 12 V (19 A)</Name>
@@ -55112,63 +55094,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.636.00b.png?v=1773341481</Image2>
     <Condition>nuovo</Condition>
     <ParentID>spazzola-a-mano-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole extra morbide di colore verde, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il c</Description>
-    <OriginalPrice>30.40</OriginalPrice>
-    <Price>25.33</Price>
-    <Code>36.634.01</Code>
-    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde?variant=53517782384987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.01.webp?v=1783358521</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137225444</EanCode>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_0.webp?v=1783542524</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_1.webp?v=1783542526</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Telescopico Osculati Bi-Level 117/180 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Telescopico Osculati Bi-Level 117/180 cm Spazzolone telescopico Osculati Bi-Level: spazzola e manico estensibile da 117 a 180 cm in un unico strumento. La regolazione Bi-Level orienta la testa su due posizioni. A chi è rivolto Per chi vuole lav</Description>
-    <OriginalPrice>23.50</OriginalPrice>
-    <Price>19.56</Price>
-    <Code>36.191.02</Code>
-    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-bi-level-117-180-cm?variant=53517782614363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.02.webp?v=1783358525</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052293</EanCode>
-    <Weight>0.94</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_0.webp?v=1783542536</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_1.webp?v=1783542539</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
-    <OriginalPrice>26.10</OriginalPrice>
-    <Price>21.75</Price>
-    <Code>36.191.03</Code>
-    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-five-level-117-180-cm?variant=53517782810971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.03.webp?v=1783358529</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137052309</EanCode>
-    <Weight>0.88</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_0.webp?v=1783542547</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_1.webp?v=1783542549</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spazzolone-telescopico-osculati-five-level-117-180-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Supporto in Alluminio Anodizzato per Profilo Parabordo Bottazzo H37 mm – Barre da 2 e 4 m - Tessilmare - Barra 4 metri</Name>
@@ -56868,24 +56793,6 @@
     <ParentID>miscelatore-alto-lavabo-foresti-arena</ParentID>
   </Offer>
   <Offer>
-    <Name>Miscelatore con canna abbattibile modello LOW</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Miscelatore con canna abbattibile e girevole per lavelli. Caratteristiche: H 180 mm. Base 120 mm. Caratteristiche principali Canna abbattibile e girevole, ideale per spazi ridotti a bordo Design compatto modello LOW, pensato per lavelli con poco spazio in</Description>
-    <OriginalPrice>84.70</OriginalPrice>
-    <Price>52.94</Price>
-    <Code>1510011</Code>
-    <Link>https://www.onautica.com/products/miscelatore-abbattibile-low-con-canna?variant=52577452917083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011.png?v=1773341703</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626295187</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011b.png?v=1773341704</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011c.png?v=1773341705</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>miscelatore-abbattibile-low-con-canna</ParentID>
-  </Offer>
-  <Offer>
     <Name>Miscelatore Lavello Foresti Arena Monocomando - Monocomando Ø 50 mm</Name>
     <Brand>Foresti e Suardi</Brand>
     <Description>Il miscelatore lavello Arena di Foresti è il monocomando per la cucina di bordo: foro da Ø 50 mm e attacchi portagomma da 3/8&quot;, pronti per l&apos;impianto nautico. Rubinetteria italiana Foresti e Suardi. A chi è rivolto A chi allestisce o rinnova il cucinotto:</Description>
@@ -57034,23 +56941,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>nipples-ridotto-maschio-maschio-in-ottone-1</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pilette a gomito per lavelli 90° Ø 20 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Pilette a gomito ricambio per lavelli, uscita 20 mm: \n1501040/1501023/1501028/1501037 \n1501039/1501837/1501844/1501560 \n1501660/1501759/1501859/1501949/1502049 \n1502280/1502380/1502510/1502610 Caratteristiche principali Angolazione a 90° che permette </Description>
-    <OriginalPrice>35.06</OriginalPrice>
-    <Price>25.04</Price>
-    <Code>1505006</Code>
-    <Link>https://www.onautica.com/products/pilette-a-gomito-per-lavelli-90-o-20-mm?variant=52577472282971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pilette_a_gomito_per_lavelli_90_20_mm..png?v=1773341764</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626042224</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pilette_a_gomito_per_lavelli_90_20_mm._4.png?v=1773341765</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pilette-a-gomito-per-lavelli-90-o-20-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Pilette a gomito per lavelli 90° Ø 25 mm. foro 40 mm.</Name>
@@ -57969,24 +57859,6 @@
     <ParentID>riduzione-ottone-maschio-femmina</ParentID>
   </Offer>
   <Offer>
-    <Name>Rubinetto Carburante a 3 Vie in Ottone con Flangia (1/4&quot; e 3/8&quot; NPT) - 1/4&quot; NPT</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Rubinetto Carburante a 3 Vie in Ottone è un deviatore idraulico essenziale per le imbarcazioni equipaggiate con sistemi multi-serbatoio. Questo componente consente di collegare in modo pratico e sicuro due serbatoi di carburante separati a un&apos;unica lin</Description>
-    <OriginalPrice>32.08</OriginalPrice>
-    <Price>22.92</Price>
-    <Code>10122</Code>
-    <Link>https://www.onautica.com/products/rubinetto-carburante-3-vie-ottone-flangia?variant=52712257487195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rubinetto-carburante-3-vie-ottone-flangia.webp?v=1775061742</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137100802</EanCode>
-    <Weight>0.18</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/rubinetto-carburante-3-vie-ottone-flangiaschema.webp?v=1775061742</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>rubinetto-carburante-3-vie-ottone-flangia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Rubinetto classic DX con canna abbattibile</Name>
     <Brand>Motomarine</Brand>
     <Description>Rubinetto con canna abbattibile. Ref. DX\nMontaggio su piano. Caratteristiche principali Canna abbattibile per ottimizzare gli spazi ridotti tipici delle imbarcazioni Versione destra (Ref. DX), ideale per installazioni su lato dritta o postazioni specific</Description>
@@ -58624,6 +58496,25 @@
     <ParentID>spazzolone-osculati-special-195-85-mm-setole-medie-blu</ParentID>
   </Offer>
   <Offer>
+    <Name>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Osculati Special 250×90 mm Setole Extra Morbide Verde Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole extra morbide di colore verde, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il c</Description>
+    <OriginalPrice>30.40</OriginalPrice>
+    <Price>25.33</Price>
+    <Code>36.634.01</Code>
+    <Link>https://www.onautica.com/products/spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde?variant=53517782384987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.634.01.webp?v=1783358521</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137225444</EanCode>
+    <Weight>0.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_0.webp?v=1783542524</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258391899_1.webp?v=1783542526</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-osculati-special-250-90-mm-setole-extra-morbide-verde</ParentID>
+  </Offer>
+  <Offer>
     <Name>Spazzolone Osculati Special 250×90 mm Setole Medie Blu</Name>
     <Brand>Osculati</Brand>
     <Description>Spazzolone Osculati Special 250×90 mm Setole Medie Blu Spazzolone della linea Special Osculati con testa da 250 × 90 mm e setole medie di colore blu, per il lavaggio della coperta e delle superfici della barca. Nella linea Special il colore indica la dure</Description>
@@ -58660,6 +58551,44 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258293595_1.webp?v=1783542514</Image3>
     <Condition>nuovo</Condition>
     <ParentID>spazzolone-osculati-special-250-90-mm-setole-morbide-giallo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Telescopico Osculati Bi-Level 117/180 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Telescopico Osculati Bi-Level 117/180 cm Spazzolone telescopico Osculati Bi-Level: spazzola e manico estensibile da 117 a 180 cm in un unico strumento. La regolazione Bi-Level orienta la testa su due posizioni. A chi è rivolto Per chi vuole lav</Description>
+    <OriginalPrice>23.50</OriginalPrice>
+    <Price>19.56</Price>
+    <Code>36.191.02</Code>
+    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-bi-level-117-180-cm?variant=53517782614363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.02.webp?v=1783358525</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052293</EanCode>
+    <Weight>0.94</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_0.webp?v=1783542536</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258522971_1.webp?v=1783542539</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-telescopico-osculati-bi-level-117-180-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spazzolone Telescopico Osculati Five-Level 117/180 cm</Name>
+    <Brand>Osculati</Brand>
+    <Description>Spazzolone Telescopico Osculati Five-Level 117/180 cm Spazzolone telescopico Osculati Five-Level: manico estensibile da 117 a 180 cm con testa regolabile su cinque angolazioni, per adattare l’inclinazione della spazzola alle diverse superfici. A chi è riv</Description>
+    <OriginalPrice>26.10</OriginalPrice>
+    <Price>21.75</Price>
+    <Code>36.191.03</Code>
+    <Link>https://www.onautica.com/products/spazzolone-telescopico-osculati-five-level-117-180-cm?variant=53517782810971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/36.191.03.webp?v=1783358529</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137052309</EanCode>
+    <Weight>0.88</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_0.webp?v=1783542547</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10573258719579_1.webp?v=1783542549</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spazzolone-telescopico-osculati-five-level-117-180-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Stucco Epossidico Sottomarino Safe Fill Underwater EVO (Kit 1+1)</Name>
@@ -61931,6 +61860,24 @@
     <ParentID>miscelatore-acqua-calda-fredda-t-mixer</ParentID>
   </Offer>
   <Offer>
+    <Name>Miscelatore con canna abbattibile modello LOW</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Miscelatore con canna abbattibile e girevole per lavelli. Caratteristiche: H 180 mm. Base 120 mm. Caratteristiche principali Canna abbattibile e girevole, ideale per spazi ridotti a bordo Design compatto modello LOW, pensato per lavelli con poco spazio in</Description>
+    <OriginalPrice>84.70</OriginalPrice>
+    <Price>52.94</Price>
+    <Code>1510011</Code>
+    <Link>https://www.onautica.com/products/miscelatore-abbattibile-low-con-canna?variant=52577452917083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011.png?v=1773341703</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626295187</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011b.png?v=1773341704</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1510011c.png?v=1773341705</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>miscelatore-abbattibile-low-con-canna</ParentID>
+  </Offer>
+  <Offer>
     <Name>Miscelatore Elka Shut Off Standard con Doccetta Estraibile</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Miscelatore Elka Shut Off Standard è la soluzione ideale per chi cerca massima funzionalità e praticità nel lavello della propria imbarcazione. Questo miscelatore monocomando combina un design moderno con la versatilità di una canna girevole e una docc</Description>
@@ -63335,6 +63282,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1205513_1.webp?v=1786696493</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-touch-contacatena-up-down-mz</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pilette a gomito per lavelli 90° Ø 20 mm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pilette a gomito ricambio per lavelli, uscita 20 mm: \n1501040/1501023/1501028/1501037 \n1501039/1501837/1501844/1501560 \n1501660/1501759/1501859/1501949/1502049 \n1502280/1502380/1502510/1502610 Caratteristiche principali Angolazione a 90° che permette </Description>
+    <OriginalPrice>35.06</OriginalPrice>
+    <Price>25.04</Price>
+    <Code>1505006</Code>
+    <Link>https://www.onautica.com/products/pilette-a-gomito-per-lavelli-90-o-20-mm?variant=52577472282971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pilette_a_gomito_per_lavelli_90_20_mm..png?v=1773341764</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626042224</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pilette_a_gomito_per_lavelli_90_20_mm._4.png?v=1773341765</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pilette-a-gomito-per-lavelli-90-o-20-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Plancia di Poppa Inox 400x460 mm – Plancetta in Legno Marino e Telaio AISI 316</Name>
@@ -71590,8 +71554,8 @@
     <Name>Serbatoio Portatile Carburante in Eltex con Pescante – Da 12 a 30 Litri - 12 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La gamma di Serbatoi Portatili per Carburante è realizzata in robusto Eltex (polietilene ad alta densità), materiale che garantisce leggerezza e totale resistenza alla corrosione e agli urti. Progettati secondo la normativa ISO 13591 , offrono sicurezza e</Description>
-    <OriginalPrice>40.04</OriginalPrice>
-    <Price>28.60</Price>
+    <OriginalPrice>44.81</OriginalPrice>
+    <Price>32.01</Price>
     <Code>52.733.10</Code>
     <Link>https://www.onautica.com/products/serbatoio-portatile-carburante-eltex-pescante?variant=52524528140635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -72809,37 +72773,6 @@
     <ParentID>tappo-o-38-mm-imbarco-water-acciaio-inox-apertura-con-manovella-del-winch</ParentID>
   </Offer>
   <Offer>
-    <Name>Tappo di imbarco in acciaio inox collo Ø 38 mm. per winch carburante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Tappi imbarco in acciaio inox. Si aprono con la manovella dei winch. Caratteristiche: Collo Ø 38 mm. Flangia Ø 82 mm. Caratteristiche principali Compatibile con la manovella standard dei winch di bordo, senza necessità di attrezzi aggiuntivi Acciaio inox </Description>
-    <OriginalPrice>48.03</OriginalPrice>
-    <Price>34.31</Price>
-    <Code>4043170</Code>
-    <Link>https://www.onautica.com/products/tappo-o-38-mm-imbarco-fuel-acciaio-inox-apertura-con-manovella-del-winch?variant=52577494794587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._imbarco_fuel_acciaio_inox_apertura_con_manovella_del_winch.png?v=1773341840</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-o-38-mm-imbarco-fuel-acciaio-inox-apertura-con-manovella-del-winch</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tappo di imbarco in acciaio inox collo Ø 50 mm. carburante</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Tappi imbarco in acciaio inox con apertura a scomparsa. Caratteristiche: Collo Ø 50 mm. Flangia Ø 88 mm. Caratteristiche principali Costruzione in acciaio inossidabile per massima resistenza alla corrosione marina Apertura a scomparsa per una superficie c</Description>
-    <OriginalPrice>50.29</OriginalPrice>
-    <Price>35.92</Price>
-    <Code>4043193</Code>
-    <Link>https://www.onautica.com/products/tappo-o-50-mm-imbarco-acciaio-inox-fuel?variant=52577495253339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_50_mm._imbarco_acciaio_inox_fuel.png?v=1773341840</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626008671</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-o-50-mm-imbarco-acciaio-inox-fuel</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tappo di imbarco in acciaio inox con chiavetta collo Ø 38 mm. carburante</Name>
     <Brand>Motomarine</Brand>
     <Description>T appi imbarco a filo in acciaio inox completi di chiavetta apri/chiudi. Caratteristiche: collo Ø 38 mm. flangia Ø 75 mm. Caratteristiche principali Installazione a filo coperta per un profilo pulito e aerodinamico Chiavetta integrata per apertura e chius</Description>
@@ -72889,23 +72822,6 @@
     <Weight>0.76</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tappo-di-imbarco-fuel-o-38-mm-in-acciaio-inox-con-serratura-regolamentare-rina-chiave</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 50 mm. carburante</Name>
-    <Brand>Osculati</Brand>
-    <Description>Tappo di imbarco per carburante in acciaio inox, microfuso e lucidato a specchio, conforme alle normative R.I.N.A. Dotato di apertura a leva a ribalta e flangia a copertura totale delle viti per un aspetto curato e una tenuta sicura. Collo: Ø 50 mm Flangi</Description>
-    <OriginalPrice>77.61</OriginalPrice>
-    <Price>54.27</Price>
-    <Code>4043091</Code>
-    <Link>https://www.onautica.com/products/tappo-di-imbarco-fuel-o-50-mm-in-acciaio-inox-con-serratura-regolamentare-r-i-n-a-chiave?variant=52577493811547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_di_imbarco_fuel_50_mm._in_acciaio_inox_con_serratura_regolamentare_R.I.N.A._chiave.png?v=1773341835</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137036118</EanCode>
-    <Weight>0.76</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tappo-di-imbarco-fuel-o-50-mm-in-acciaio-inox-con-serratura-regolamentare-r-i-n-a-chiave</ParentID>
   </Offer>
   <Offer>
     <Name>Tappo di Rifornimento a Filo in Acciaio Inox con Maniglietta – Serie Microfusa - Ø 50 mm. Benzina - Dritto</Name>
@@ -78906,23 +78822,6 @@
     <ParentID>lenzuolo-elastico-marine-business-tipo-g-90-190-cm-per-cuccette-barca</ParentID>
   </Offer>
   <Offer>
-    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
-    <OriginalPrice>47.38</OriginalPrice>
-    <Price>27.87</Price>
-    <Code>57.176.09</Code>
-    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137007422</EanCode>
-    <Weight>0.28</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Maniglia Winch Galleggiante 250 mm – Universale con Lock-In</Name>
     <Brand>Osculati</Brand>
     <Description>La Maniglia per Winch Galleggiante da 250 mm (10&quot;) è la scelta standard per la maggior parte delle imbarcazioni a vela, offrendo la leva ottimale per gestire carichi importanti con il minimo sforzo. Realizzata in un composito di Nylon e fibra di vetro , q</Description>
@@ -79329,22 +79228,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10.288.00b.png?v=1773342024</Image2>
     <Condition>nuovo</Condition>
     <ParentID>nastro-adesivo-psp-dacron-spi-riparazione-vele</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Portabicchieri clip bianco 22&lt;&gt;30 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Portabicchieri realizzato in poliuretano integrale morbido , progettato per mantenere saldamente in posizione bevande e accessori anche in navigazione. Grazie alla sua forma universale, accoglie lattine, bicchieri e bottiglie da 33 cl , ma si presta anche</Description>
-    <OriginalPrice>39.07</OriginalPrice>
-    <Price>27.91</Price>
-    <Code>5805009</Code>
-    <Link>https://www.onautica.com/products/offerta-portabicchieri-clip-bianco-22-30-mm?variant=49393345593691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Portabicchieri_clip_bianco_22_30_mm..png?v=1762781536</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5204984700894</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-portabicchieri-clip-bianco-22-30-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Portabicchieri pieghevole acciaio inox</Name>
@@ -80153,25 +80036,6 @@
     <ParentID>strozzascotta-fibra-di-carbonio-lega-leggera-o-3-8-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Strozzascotte Clamcleat Ø 4&lt;&gt;8 mm. CL253 alluminio per trapezio e vang.</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Scelta Preferita dai Velisti per la Regolazione del Trapezio su Deriva Il Clamcleat® CL253 è la soluzione compatta e leggera per la regolazione delle cime, rinomato per essere la scelta d&apos;elezione per le manovre del trapezio su derive. Offre un bloccag</Description>
-    <OriginalPrice>34.23</OriginalPrice>
-    <Price>25.36</Price>
-    <Code>VIA26.10</Code>
-    <Link>https://www.onautica.com/products/clamcleat-4-8-mm-cl253-lega-leggera-strozzascotte?variant=52577512391003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL253.png?v=1773341885</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>5024220125300</EanCode>
-    <Weight>0.06</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL253b.png?v=1773341886</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL253c.png?v=1773341887</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>clamcleat-4-8-mm-cl253-lega-leggera-strozzascotte</ParentID>
-  </Offer>
-  <Offer>
     <Name>Strozzatore a Camme LEWMAR per Cime 2-8 mm - Strozzatore</Name>
     <Brand>Lewmar</Brand>
     <Description>Lo Strozzatore a Camme LEWMAR è un componente di alta gamma per l&apos;attrezzatura di coperta della tua barca a vela, specificamente progettato per garantire un bloccaggio rapido e sicuro di scotte e drizze. Questa specifica versione è ottimizzata per la gest</Description>
@@ -80644,6 +80508,54 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.195.44_amb.webp?v=1786029633</Image3>
     <Condition>nuovo</Condition>
     <ParentID>t-top-professionale-o-44-mm-con-telo-atlas-400-g-m-telaio-verniciato-bianco-o-nero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo di imbarco in acciaio inox collo Ø 38 mm. per winch carburante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Tappi imbarco in acciaio inox. Si aprono con la manovella dei winch. Caratteristiche: Collo Ø 38 mm. Flangia Ø 82 mm. Caratteristiche principali Compatibile con la manovella standard dei winch di bordo, senza necessità di attrezzi aggiuntivi Acciaio inox </Description>
+    <OriginalPrice>48.03</OriginalPrice>
+    <Price>34.31</Price>
+    <Code>4043170</Code>
+    <Link>https://www.onautica.com/products/tappo-o-38-mm-imbarco-fuel-acciaio-inox-apertura-con-manovella-del-winch?variant=52577494794587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_38_mm._imbarco_fuel_acciaio_inox_apertura_con_manovella_del_winch.png?v=1773341840</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-o-38-mm-imbarco-fuel-acciaio-inox-apertura-con-manovella-del-winch</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo di imbarco in acciaio inox collo Ø 50 mm. carburante</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Tappi imbarco in acciaio inox con apertura a scomparsa. Caratteristiche: Collo Ø 50 mm. Flangia Ø 88 mm. Caratteristiche principali Costruzione in acciaio inossidabile per massima resistenza alla corrosione marina Apertura a scomparsa per una superficie c</Description>
+    <OriginalPrice>50.29</OriginalPrice>
+    <Price>35.92</Price>
+    <Code>4043193</Code>
+    <Link>https://www.onautica.com/products/tappo-o-50-mm-imbarco-acciaio-inox-fuel?variant=52577495253339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_50_mm._imbarco_acciaio_inox_fuel.png?v=1773341840</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626008671</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-o-50-mm-imbarco-acciaio-inox-fuel</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tappo di imbarco in acciaio inox con serratura regolamentare R.I.N.A. collo Ø 50 mm. carburante</Name>
+    <Brand>Osculati</Brand>
+    <Description>Tappo di imbarco per carburante in acciaio inox, microfuso e lucidato a specchio, conforme alle normative R.I.N.A. Dotato di apertura a leva a ribalta e flangia a copertura totale delle viti per un aspetto curato e una tenuta sicura. Collo: Ø 50 mm Flangi</Description>
+    <OriginalPrice>77.61</OriginalPrice>
+    <Price>54.27</Price>
+    <Code>4043091</Code>
+    <Link>https://www.onautica.com/products/tappo-di-imbarco-fuel-o-50-mm-in-acciaio-inox-con-serratura-regolamentare-r-i-n-a-chiave?variant=52577493811547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Tappi Imbarco</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tappo_di_imbarco_fuel_50_mm._in_acciaio_inox_con_serratura_regolamentare_R.I.N.A._chiave.png?v=1773341835</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137036118</EanCode>
+    <Weight>0.76</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tappo-di-imbarco-fuel-o-50-mm-in-acciaio-inox-con-serratura-regolamentare-r-i-n-a-chiave</ParentID>
   </Offer>
   <Offer>
     <Name>Targa Top II Nero Ø 44 mm – Alluminio Verniciato Epossidico e Telo ATLAS Nero 400 g/m² - Small 1700 x 1600 mm</Name>
@@ -84656,6 +84568,23 @@
     <ParentID>guida-posteriore-per-strozzascotta-via25-10-e-via25-50</ParentID>
   </Offer>
   <Offer>
+    <Name>Maniglia Winch Galleggiante 200 mm – Veloce con Lock-In</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Maniglia per Winch Galleggiante da 200 mm (8&quot;) è la scelta ideale per chi cerca velocità nelle manovre o deve operare in pozzetti con spazi limitati. Realizzata in un robusto composito di Nylon e fibra di vetro , questa maniglia unisce la resistenza me</Description>
+    <OriginalPrice>47.38</OriginalPrice>
+    <Price>27.87</Price>
+    <Code>57.176.09</Code>
+    <Link>https://www.onautica.com/products/maniglia-winch-galleggiante-200mm?variant=52577515241819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/maniglia-winch-galleggiante-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137007422</EanCode>
+    <Weight>0.28</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
     <Brand>Italvipla</Brand>
     <Description>Il Pavimento Nautico Lario (Variante 290 Azzurro) è un rivestimento tecnico in PVC di alta qualità, progettato per coniugare estetica e massima funzionalità a bordo. Questo modello si distingue per il suo caratteristico disegno a &quot;effetto bouclé&quot; , che co</Description>
@@ -84868,6 +84797,25 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL236b.png?v=1773341884</Image2>
     <Condition>nuovo</Condition>
     <ParentID>clamcleat-3-6-mm-cl236-lega-leggera-strozzascotte</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Strozzascotte Clamcleat Ø 4&lt;&gt;8 mm. CL253 alluminio per trapezio e vang.</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Scelta Preferita dai Velisti per la Regolazione del Trapezio su Deriva Il Clamcleat® CL253 è la soluzione compatta e leggera per la regolazione delle cime, rinomato per essere la scelta d&apos;elezione per le manovre del trapezio su derive. Offre un bloccag</Description>
+    <OriginalPrice>34.23</OriginalPrice>
+    <Price>25.36</Price>
+    <Code>VIA26.10</Code>
+    <Link>https://www.onautica.com/products/clamcleat-4-8-mm-cl253-lega-leggera-strozzascotte?variant=52577512391003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL253.png?v=1773341885</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>5024220125300</EanCode>
+    <Weight>0.06</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL253b.png?v=1773341886</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/CL253c.png?v=1773341887</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>clamcleat-4-8-mm-cl253-lega-leggera-strozzascotte</ParentID>
   </Offer>
   <Offer>
     <Name>Strozzascotte Clamcleats Ø 1&lt;&gt;4 mm. CL263 nylon nero</Name>
