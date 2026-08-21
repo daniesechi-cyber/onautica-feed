@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-21T10:31:26.637Z -->
+<!-- Generato: 2026-08-21T14:31:49.717Z -->
 <!-- Offerte: 5655 -->
 <Products>
   <Offer>
@@ -495,7 +495,7 @@
   <Offer>
     <Name>Coppia staffe multiforo 100x100 mm.</Name>
     <Brand>Osculati</Brand>
-    <Description>Coppia di staffe multiforo da 100x100 mm , progettate per il fissaggio dei rulli sui carrelli per imbarcazioni. La configurazione multiforo garantisce versatilità di montaggio e adattabilità a diverse geometrie di carrello. Rulli abbinabili: 02.029.01 02.</Description>
+    <Description>Coppia di staffe multiforo da 100x100 mm , progettate per il fissaggio dei rulli sui carrelli per imbarcazioni. La configurazione multiforo garantisce versatilità di montaggio e adattabilità a diverse geometrie di carrello. Rulli abbinabili: Misure dispon</Description>
     <OriginalPrice>17.14</OriginalPrice>
     <Price>12.24</Price>
     <Code>02.029.57</Code>
@@ -4289,25 +4289,6 @@
     <ParentID>prese-e-spine-osculati-30a-220v</ParentID>
   </Offer>
   <Offer>
-    <Name>Serie Prese e Spine Impermeabili Banchina 30A – 220/110V Osculati - Cappuccio PVC</Name>
-    <Brand>Osculati</Brand>
-    <Description>La Serie di Prese e Spine Impermeabili da 30A è progettata per gestire carichi elettrici elevati in totale sicurezza, garantendo un collegamento affidabile alla rete di banchina con un voltaggio supportato di 220/110V. Questi componenti sono l&apos;ideale per </Description>
-    <OriginalPrice>16.94</OriginalPrice>
-    <Price>12.10</Price>
-    <Code>14.333.00</Code>
-    <Link>https://www.onautica.com/products/prese-e-spine-osculati-30a-220v?variant=52559365341531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cappuccio_per_spina_Osculati_14.332.00_-_30A_220V_blu.png?v=1773341637</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137011221</EanCode>
-    <Weight>0.15</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Spina_Osculati_30A_220V_blu.png?v=1773341819</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/presaosculati2.png?v=1762771908</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>prese-e-spine-osculati-30a-220v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serie Prese e Spine Impermeabili Banchina 30A – 220/110V Osculati - Presa Impermeabile Tonda</Name>
     <Brand>Osculati</Brand>
     <Description>La Serie di Prese e Spine Impermeabili da 30A è progettata per gestire carichi elettrici elevati in totale sicurezza, garantendo un collegamento affidabile alla rete di banchina con un voltaggio supportato di 220/110V. Questi componenti sono l&apos;ideale per </Description>
@@ -4321,6 +4302,25 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137011832</EanCode>
     <Weight>0.21</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Spina_Osculati_30A_220V_blu.png?v=1773341819</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/presaosculati2.png?v=1762771908</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>prese-e-spine-osculati-30a-220v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serie Prese e Spine Impermeabili Banchina 30A – 220/110V Osculati - Cappuccio PVC</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Serie di Prese e Spine Impermeabili da 30A è progettata per gestire carichi elettrici elevati in totale sicurezza, garantendo un collegamento affidabile alla rete di banchina con un voltaggio supportato di 220/110V. Questi componenti sono l&apos;ideale per </Description>
+    <OriginalPrice>16.94</OriginalPrice>
+    <Price>12.10</Price>
+    <Code>14.333.00</Code>
+    <Link>https://www.onautica.com/products/prese-e-spine-osculati-30a-220v?variant=52559365341531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Cappuccio_per_spina_Osculati_14.332.00_-_30A_220V_blu.png?v=1773341637</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137011221</EanCode>
+    <Weight>0.15</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Spina_Osculati_30A_220V_blu.png?v=1773341819</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/presaosculati2.png?v=1762771908</Image3>
     <Condition>nuovo</Condition>
@@ -9491,6 +9491,23 @@
     <ParentID>anodo-di-poppa-a-flangia-tonda-alta-o-120-mm-in-zinco</ParentID>
   </Offer>
   <Offer>
+    <Name>Anodo di Poppa a Flangia Tonda Alta Ø 135 mm in Zinco - Kit completo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Anodo di Poppa a Flangia Tonda Alta Ø 135 mm in Zinco Anodo sacrificale da poppa a flangia tonda, in zinco , per la protezione dello scafo dalla corrosione galvanica. Flangia tonda alta con Ø 136 mm e foro filettato centrale. Disponibile come anodo di ric</Description>
+    <OriginalPrice>222.38</OriginalPrice>
+    <Price>148.25</Price>
+    <Code>5110223</Code>
+    <Link>https://www.onautica.com/products/anodo-di-poppa-a-flangia-tonda-alta-o-135-mm-in-zinco?variant=53569011712347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110223_1_3240.webp?v=1783706752</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110221_1_3240_af7cb421-ae25-4467-b92f-b91bddf5a722.webp?v=1783706749</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110221_2_3240.webp?v=1783706754</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-di-poppa-a-flangia-tonda-alta-o-135-mm-in-zinco</ParentID>
+  </Offer>
+  <Offer>
     <Name>Anodo di Poppa a Flangia Tonda Alta Ø 135 mm in Zinco - Anodo di ricambio (kit standard)</Name>
     <Brand>Motomarine</Brand>
     <Description>Anodo di Poppa a Flangia Tonda Alta Ø 135 mm in Zinco Anodo sacrificale da poppa a flangia tonda, in zinco , per la protezione dello scafo dalla corrosione galvanica. Flangia tonda alta con Ø 136 mm e foro filettato centrale. Disponibile come anodo di ric</Description>
@@ -9504,23 +9521,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>1957000007531</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110223_1_3240.webp?v=1783706752</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110221_2_3240.webp?v=1783706754</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-di-poppa-a-flangia-tonda-alta-o-135-mm-in-zinco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anodo di Poppa a Flangia Tonda Alta Ø 135 mm in Zinco - Kit completo</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Anodo di Poppa a Flangia Tonda Alta Ø 135 mm in Zinco Anodo sacrificale da poppa a flangia tonda, in zinco , per la protezione dello scafo dalla corrosione galvanica. Flangia tonda alta con Ø 136 mm e foro filettato centrale. Disponibile come anodo di ric</Description>
-    <OriginalPrice>222.38</OriginalPrice>
-    <Price>148.25</Price>
-    <Code>5110223</Code>
-    <Link>https://www.onautica.com/products/anodo-di-poppa-a-flangia-tonda-alta-o-135-mm-in-zinco?variant=53569011712347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110223_1_3240.webp?v=1783706752</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110221_1_3240_af7cb421-ae25-4467-b92f-b91bddf5a722.webp?v=1783706749</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110221_2_3240.webp?v=1783706754</Image3>
     <Condition>nuovo</Condition>
     <ParentID>anodo-di-poppa-a-flangia-tonda-alta-o-135-mm-in-zinco</ParentID>
@@ -24397,7 +24397,7 @@
   <Offer>
     <Name>Staccabatterie da appoggio senza incasso 250A</Name>
     <Brand>Osculati</Brand>
-    <Description>Sicurezza Certificata e Affidabilit�� per Ogni Installazione Questo staccabatteria da appoggio è la scelta ideale per chi cerca un dispositivo robusto, sicuro e conforme alle più importanti normative di settore. Omologato CE (UNI EN ISO 8846) , garantisce</Description>
+    <Description>Sicurezza Certificata e Affidabilità per Ogni Installazione Questo staccabatteria da appoggio è la scelta ideale per chi cerca un dispositivo robusto, sicuro e conforme alle più importanti normative di settore. Omologato CE (UNI EN ISO 8846) , garantisce </Description>
     <OriginalPrice>29.86</OriginalPrice>
     <Price>21.33</Price>
     <Code>14.383.00</Code>
@@ -24430,24 +24430,6 @@
     <ParentID>tagliacorda-elettrico-engel-220v</ParentID>
   </Offer>
   <Offer>
-    <Name>Tagliacorde a Fusione a Batteria Motomarine - Lama di ricambio</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il tagliacorde a fusione Motomarine è un utensile pensato per tagliare corde e trecce sigillandone i bordi con il calore, evitando che si sfilaccino. È utile anche per il taglio di vele, tende, cinghie, nastri e altri tessuti sintetici a bordo. Oltre al t</Description>
-    <OriginalPrice>45.11</OriginalPrice>
-    <Price>34.70</Price>
-    <Code>3190002</Code>
-    <Link>https://www.onautica.com/products/tagliacorde-a-fusione-a-batteria-motomarine?variant=53782904209755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190002.webp?v=1786702548</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.05</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190003.webp?v=1786702550</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190003_366f915a-8785-4259-966f-910d15bc53fd.webp?v=1786702552</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>tagliacorde-a-fusione-a-batteria-motomarine</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tagliacorde a Fusione a Batteria Motomarine - Lama tagliacinghie</Name>
     <Brand>Motomarine</Brand>
     <Description>Il tagliacorde a fusione Motomarine è un utensile pensato per tagliare corde e trecce sigillandone i bordi con il calore, evitando che si sfilaccino. È utile anche per il taglio di vele, tende, cinghie, nastri e altri tessuti sintetici a bordo. Oltre al t</Description>
@@ -24462,6 +24444,24 @@
     <Weight>0.08</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190003.webp?v=1786702550</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190002.webp?v=1786702548</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>tagliacorde-a-fusione-a-batteria-motomarine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tagliacorde a Fusione a Batteria Motomarine - Lama di ricambio</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il tagliacorde a fusione Motomarine è un utensile pensato per tagliare corde e trecce sigillandone i bordi con il calore, evitando che si sfilaccino. È utile anche per il taglio di vele, tende, cinghie, nastri e altri tessuti sintetici a bordo. Oltre al t</Description>
+    <OriginalPrice>45.11</OriginalPrice>
+    <Price>34.70</Price>
+    <Code>3190002</Code>
+    <Link>https://www.onautica.com/products/tagliacorde-a-fusione-a-batteria-motomarine?variant=53782904209755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190002.webp?v=1786702548</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.05</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190003.webp?v=1786702550</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190003_366f915a-8785-4259-966f-910d15bc53fd.webp?v=1786702552</Image3>
     <Condition>nuovo</Condition>
     <ParentID>tagliacorde-a-fusione-a-batteria-motomarine</ParentID>
   </Offer>
@@ -35880,23 +35880,6 @@
     <ParentID>faro-da-crocetta-a-line-soft-still</ParentID>
   </Offer>
   <Offer>
-    <Name>Faro DHR 150 LED Cabin Control - Bulbo LED di ricambio Ø150mm</Name>
-    <Brand>DHR</Brand>
-    <Description>Il faro DHR 150 LED Cabin Control è un proiettore a LED per l&apos;illuminazione a lunga distanza da installare a bordo, con orientamento gestito tramite comando a distanza dalla cabina di pilotaggio. Funziona con alimentazione compresa tra 10 e 32V, adattando</Description>
-    <OriginalPrice>622.05</OriginalPrice>
-    <Price>478.50</Price>
-    <Code>2168045</Code>
-    <Link>https://www.onautica.com/products/faro-dhr-150-led-cabin-control?variant=53843796001115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168045_1.webp?v=1787242189</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_1.webp?v=1787242180</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_2.webp?v=1787242182</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-dhr-150-led-cabin-control</ParentID>
-  </Offer>
-  <Offer>
     <Name>Faro DHR 150 LED Cabin Control - Faro completo 12-32V</Name>
     <Brand>DHR</Brand>
     <Description>Il faro DHR 150 LED Cabin Control è un proiettore a LED per l&apos;illuminazione a lunga distanza da installare a bordo, con orientamento gestito tramite comando a distanza dalla cabina di pilotaggio. Funziona con alimentazione compresa tra 10 e 32V, adattando</Description>
@@ -35910,6 +35893,23 @@
     <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_2.webp?v=1787242182</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_3.webp?v=1787242185</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-dhr-150-led-cabin-control</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro DHR 150 LED Cabin Control - Bulbo LED di ricambio Ø150mm</Name>
+    <Brand>DHR</Brand>
+    <Description>Il faro DHR 150 LED Cabin Control è un proiettore a LED per l&apos;illuminazione a lunga distanza da installare a bordo, con orientamento gestito tramite comando a distanza dalla cabina di pilotaggio. Funziona con alimentazione compresa tra 10 e 32V, adattando</Description>
+    <OriginalPrice>622.05</OriginalPrice>
+    <Price>478.50</Price>
+    <Code>2168045</Code>
+    <Link>https://www.onautica.com/products/faro-dhr-150-led-cabin-control?variant=53843796001115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168045_1.webp?v=1787242189</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_1.webp?v=1787242180</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_2.webp?v=1787242182</Image3>
     <Condition>nuovo</Condition>
     <ParentID>faro-dhr-150-led-cabin-control</ParentID>
   </Offer>
@@ -35931,23 +35931,6 @@
     <ParentID>faro-dhr-180-led-deck-control</ParentID>
   </Offer>
   <Offer>
-    <Name>Faro DHR 210 Cabin Control - Bulbo di ricambio</Name>
-    <Brand>DHR</Brand>
-    <Description>Il faro DHR 210 Cabin Control è un proiettore di ricerca ad alta potenza pensato per l&apos;illuminazione a lunga distanza durante la navigazione. Funziona a 220V e offre una portata luminosa fino a 600 metri, utile per individuare boe, ormeggi o punti di rife</Description>
-    <OriginalPrice>215.41</OriginalPrice>
-    <Price>165.70</Price>
-    <Code>2168022</Code>
-    <Link>https://www.onautica.com/products/faro-dhr-210-cabin-control?variant=53843787153755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168022_1.webp?v=1787242152</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123204_2.webp?v=1787242144</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123204.webp?v=1787242146</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-dhr-210-cabin-control</ParentID>
-  </Offer>
-  <Offer>
     <Name>Faro DHR 210 Cabin Control - Faro completo</Name>
     <Brand>DHR</Brand>
     <Description>Il faro DHR 210 Cabin Control è un proiettore di ricerca ad alta potenza pensato per l&apos;illuminazione a lunga distanza durante la navigazione. Funziona a 220V e offre una portata luminosa fino a 600 metri, utile per individuare boe, ormeggi o punti di rife</Description>
@@ -35961,6 +35944,23 @@
     <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123204.webp?v=1787242146</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123204_3.webp?v=1787242150</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-dhr-210-cabin-control</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro DHR 210 Cabin Control - Bulbo di ricambio</Name>
+    <Brand>DHR</Brand>
+    <Description>Il faro DHR 210 Cabin Control è un proiettore di ricerca ad alta potenza pensato per l&apos;illuminazione a lunga distanza durante la navigazione. Funziona a 220V e offre una portata luminosa fino a 600 metri, utile per individuare boe, ormeggi o punti di rife</Description>
+    <OriginalPrice>215.41</OriginalPrice>
+    <Price>165.70</Price>
+    <Code>2168022</Code>
+    <Link>https://www.onautica.com/products/faro-dhr-210-cabin-control?variant=53843787153755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168022_1.webp?v=1787242152</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123204_2.webp?v=1787242144</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123204.webp?v=1787242146</Image3>
     <Condition>nuovo</Condition>
     <ParentID>faro-dhr-210-cabin-control</ParentID>
   </Offer>
@@ -35999,6 +35999,40 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-profondita-night-eye-led-attacco-misure.png?v=1773341724</Image3>
     <Condition>nuovo</Condition>
     <ParentID>faro-profondita-night-eye-led-attacco-pulpito</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro di Ricerca Ocean Double Eye 12RC - Faro 12V</Name>
+    <Brand>Ocean</Brand>
+    <Description>Il faro Ocean Double Eye 12RC è un proiettore alogeno orientabile pensato per la ricerca e la segnalazione notturna a bordo. Ha una potenza di 130.000 Cp e una portata dichiarata di 300 m, per illuminare a lunga distanza durante la navigazione. È disponib</Description>
+    <OriginalPrice>305.63</OriginalPrice>
+    <Price>235.10</Price>
+    <Code>2123026</Code>
+    <Link>https://www.onautica.com/products/faro-di-ricerca-ocean-double-eye-12rc?variant=53843773620571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_1.webp?v=1787242048</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_3.webp?v=1787242051</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_4.webp?v=1787242053</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-di-ricerca-ocean-double-eye-12rc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro di Ricerca Ocean Double Eye 12RC - Faro 24V</Name>
+    <Brand>Ocean</Brand>
+    <Description>Il faro Ocean Double Eye 12RC è un proiettore alogeno orientabile pensato per la ricerca e la segnalazione notturna a bordo. Ha una potenza di 130.000 Cp e una portata dichiarata di 300 m, per illuminare a lunga distanza durante la navigazione. È disponib</Description>
+    <OriginalPrice>305.63</OriginalPrice>
+    <Price>235.10</Price>
+    <Code>2123027</Code>
+    <Link>https://www.onautica.com/products/faro-di-ricerca-ocean-double-eye-12rc?variant=53843773653339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123027_1.webp?v=1787242060</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_1.webp?v=1787242048</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_3.webp?v=1787242051</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-di-ricerca-ocean-double-eye-12rc</ParentID>
   </Offer>
   <Offer>
     <Name>Faro di Ricerca Ocean Double Eye 12RC - Bulbo doppio 12V</Name>
@@ -36086,38 +36120,19 @@
     <ParentID>faro-di-ricerca-ocean-double-eye-12rc</ParentID>
   </Offer>
   <Offer>
-    <Name>Faro di Ricerca Ocean Double Eye 12RC - Faro 12V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il faro Ocean Double Eye 12RC è un proiettore alogeno orientabile pensato per la ricerca e la segnalazione notturna a bordo. Ha una potenza di 130.000 Cp e una portata dichiarata di 300 m, per illuminare a lunga distanza durante la navigazione. È disponib</Description>
-    <OriginalPrice>305.63</OriginalPrice>
-    <Price>235.10</Price>
-    <Code>2123026</Code>
-    <Link>https://www.onautica.com/products/faro-di-ricerca-ocean-double-eye-12rc?variant=53843773620571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Name>Faro Guest 400 Alogeno in Acciaio Inox con Telecomando - Faro alogeno completo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il faro Guest 400 è un proiettore alogeno orientabile per l&apos;illuminazione a lungo raggio in navigazione notturna. Ha struttura in acciaio inox, resistente alla salsedine, e si comanda a distanza tramite telecomando per orientare il fascio luminoso senza d</Description>
+    <OriginalPrice>1068.99</OriginalPrice>
+    <Price>822.30</Price>
+    <Code>2123136</Code>
+    <Link>https://www.onautica.com/products/faro-guest-400-alogeno-in-acciaio-inox-con-telecomando?variant=53843786727771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_1.webp?v=1787242048</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123136_1.webp?v=1787242140</Image>
     <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_3.webp?v=1787242051</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_4.webp?v=1787242053</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>faro-di-ricerca-ocean-double-eye-12rc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Faro di Ricerca Ocean Double Eye 12RC - Faro 24V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il faro Ocean Double Eye 12RC è un proiettore alogeno orientabile pensato per la ricerca e la segnalazione notturna a bordo. Ha una potenza di 130.000 Cp e una portata dichiarata di 300 m, per illuminare a lunga distanza durante la navigazione. È disponib</Description>
-    <OriginalPrice>305.63</OriginalPrice>
-    <Price>235.10</Price>
-    <Code>2123027</Code>
-    <Link>https://www.onautica.com/products/faro-di-ricerca-ocean-double-eye-12rc?variant=53843773653339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123027_1.webp?v=1787242060</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_1.webp?v=1787242048</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123026_3.webp?v=1787242051</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-di-ricerca-ocean-double-eye-12rc</ParentID>
+    <ParentID>faro-guest-400-alogeno-in-acciaio-inox-con-telecomando</ParentID>
   </Offer>
   <Offer>
     <Name>Faro Guest 400 Alogeno in Acciaio Inox con Telecomando - Bulbo di ricambio Ø 110 mm</Name>
@@ -36131,21 +36146,6 @@
     <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123136_1.webp?v=1787242140</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-guest-400-alogeno-in-acciaio-inox-con-telecomando</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Faro Guest 400 Alogeno in Acciaio Inox con Telecomando - Faro alogeno completo</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il faro Guest 400 è un proiettore alogeno orientabile per l&apos;illuminazione a lungo raggio in navigazione notturna. Ha struttura in acciaio inox, resistente alla salsedine, e si comanda a distanza tramite telecomando per orientare il fascio luminoso senza d</Description>
-    <OriginalPrice>1068.99</OriginalPrice>
-    <Price>822.30</Price>
-    <Code>2123136</Code>
-    <Link>https://www.onautica.com/products/faro-guest-400-alogeno-in-acciaio-inox-con-telecomando?variant=53843786727771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123136_1.webp?v=1787242140</Image>
-    <ShippingCost>0</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>faro-guest-400-alogeno-in-acciaio-inox-con-telecomando</ParentID>
   </Offer>
@@ -36277,6 +36277,40 @@
     <ParentID>faro-led-radiocomandato-1600lm-12-30v</ParentID>
   </Offer>
   <Offer>
+    <Name>Faro Ocean LED 11-RC - 12V</Name>
+    <Brand>Ocean</Brand>
+    <Description>Il faro Ocean LED 11-RC è un proiettore di ricerca orientabile, pensato per individuare boe, ingressi porto e ostacoli in condizioni di scarsa visibilità. Emette un fascio luminoso ad alta intensità con una portata di 320 metri. È disponibile nelle versio</Description>
+    <OriginalPrice>369.20</OriginalPrice>
+    <Price>284.00</Price>
+    <Code>2123040</Code>
+    <Link>https://www.onautica.com/products/faro-ocean-led-11-rc?variant=53843778306395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_1.webp?v=1787242095</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_2.webp?v=1787242098</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_3.webp?v=1787242100</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-ocean-led-11-rc</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro Ocean LED 11-RC - 24V</Name>
+    <Brand>Ocean</Brand>
+    <Description>Il faro Ocean LED 11-RC è un proiettore di ricerca orientabile, pensato per individuare boe, ingressi porto e ostacoli in condizioni di scarsa visibilità. Emette un fascio luminoso ad alta intensità con una portata di 320 metri. È disponibile nelle versio</Description>
+    <OriginalPrice>369.20</OriginalPrice>
+    <Price>284.00</Price>
+    <Code>2123042</Code>
+    <Link>https://www.onautica.com/products/faro-ocean-led-11-rc?variant=53843778339163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123042_1.webp?v=1787242111</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_1.webp?v=1787242095</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_2.webp?v=1787242098</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-ocean-led-11-rc</ParentID>
+  </Offer>
+  <Offer>
     <Name>Faro Ocean LED 11-RC - Bulbo LED ricambio</Name>
     <Brand>Ocean</Brand>
     <Description>Il faro Ocean LED 11-RC è un proiettore di ricerca orientabile, pensato per individuare boe, ingressi porto e ostacoli in condizioni di scarsa visibilità. Emette un fascio luminoso ad alta intensità con una portata di 320 metri. È disponibile nelle versio</Description>
@@ -36324,40 +36358,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_2.webp?v=1787242098</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_3.webp?v=1787242100</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-ocean-led-11-rc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Faro Ocean LED 11-RC - 12V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il faro Ocean LED 11-RC è un proiettore di ricerca orientabile, pensato per individuare boe, ingressi porto e ostacoli in condizioni di scarsa visibilità. Emette un fascio luminoso ad alta intensità con una portata di 320 metri. È disponibile nelle versio</Description>
-    <OriginalPrice>369.20</OriginalPrice>
-    <Price>284.00</Price>
-    <Code>2123040</Code>
-    <Link>https://www.onautica.com/products/faro-ocean-led-11-rc?variant=53843778306395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_1.webp?v=1787242095</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_2.webp?v=1787242098</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_3.webp?v=1787242100</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-ocean-led-11-rc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Faro Ocean LED 11-RC - 24V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il faro Ocean LED 11-RC è un proiettore di ricerca orientabile, pensato per individuare boe, ingressi porto e ostacoli in condizioni di scarsa visibilità. Emette un fascio luminoso ad alta intensità con una portata di 320 metri. È disponibile nelle versio</Description>
-    <OriginalPrice>369.20</OriginalPrice>
-    <Price>284.00</Price>
-    <Code>2123042</Code>
-    <Link>https://www.onautica.com/products/faro-ocean-led-11-rc?variant=53843778339163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123042_1.webp?v=1787242111</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_1.webp?v=1787242095</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123040_2.webp?v=1787242098</Image3>
     <Condition>nuovo</Condition>
     <ParentID>faro-ocean-led-11-rc</ParentID>
   </Offer>
@@ -43995,21 +43995,6 @@
     <ParentID>manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman</ParentID>
   </Offer>
   <Offer>
-    <Name>Manicotti Ricambio per Scambiatori di Calore Bowman - 3419NP Tappo</Name>
-    <Brand>Bowman</Brand>
-    <Description>Manicotti Ricambio per Scambiatori di Calore Bowman Manicotti Ricambio per Scambiatori di Calore Bowman Bowman per la linea di scarico dei motori marini. Disponibile in 8 versioni. A chi è rivolto A chi deve sostituire tappi, o-ring o manicotti dello scam</Description>
-    <OriginalPrice>67.00</OriginalPrice>
-    <Price>55.85</Price>
-    <Code>5020120</Code>
-    <Link>https://www.onautica.com/products/manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman?variant=53617301750107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5020110.webp?v=1784376752</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman</ParentID>
-  </Offer>
-  <Offer>
     <Name>Manicotti Ricambio per Scambiatori di Calore Bowman - 3251NP Dritto 22/32 mm</Name>
     <Brand>Bowman</Brand>
     <Description>Manicotti Ricambio per Scambiatori di Calore Bowman Manicotti Ricambio per Scambiatori di Calore Bowman Bowman per la linea di scarico dei motori marini. Disponibile in 8 versioni. A chi è rivolto A chi deve sostituire tappi, o-ring o manicotti dello scam</Description>
@@ -44077,6 +44062,21 @@
     <Price>78.95</Price>
     <Code>5020117</Code>
     <Link>https://www.onautica.com/products/manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman?variant=53617301913947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5020110.webp?v=1784376752</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manicotti Ricambio per Scambiatori di Calore Bowman - 3419NP Tappo</Name>
+    <Brand>Bowman</Brand>
+    <Description>Manicotti Ricambio per Scambiatori di Calore Bowman Manicotti Ricambio per Scambiatori di Calore Bowman Bowman per la linea di scarico dei motori marini. Disponibile in 8 versioni. A chi è rivolto A chi deve sostituire tappi, o-ring o manicotti dello scam</Description>
+    <OriginalPrice>67.00</OriginalPrice>
+    <Price>55.85</Price>
+    <Code>5020120</Code>
+    <Link>https://www.onautica.com/products/manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman?variant=53617301750107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5020110.webp?v=1784376752</Image>
@@ -56723,23 +56723,6 @@
     <ParentID>filtro-carburante-fuoribordo-mercury</ParentID>
   </Offer>
   <Offer>
-    <Name>Filtro Gasolio Racor Marine MA - Sensore acqua</Name>
-    <Brand>Racor</Brand>
-    <Description>Il filtro gasolio Racor Marine MA rimuove l&apos;acqua e le impurità dal gasolio grazie a un elemento filtrante multistadio AQUABLOC, che separa l&apos;acqua dal carburante con un&apos;efficienza del 99%. Ogni filtro viene fornito di serie con cartuccia da 30 micron e s</Description>
-    <OriginalPrice>262.73</OriginalPrice>
-    <Price>202.10</Price>
-    <Code>4125250</Code>
-    <Link>https://www.onautica.com/products/filtro-gasolio-racor-marine-ma?variant=53836663030107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125250_1.webp?v=1787173370</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125515.webp?v=1787173342</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125519.webp?v=1787173345</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtro-gasolio-racor-marine-ma</ParentID>
-  </Offer>
-  <Offer>
     <Name>Filtro Gasolio Racor Marine MA - 500 MA</Name>
     <Brand>Racor</Brand>
     <Description>Il filtro gasolio Racor Marine MA rimuove l&apos;acqua e le impurità dal gasolio grazie a un elemento filtrante multistadio AQUABLOC, che separa l&apos;acqua dal carburante con un&apos;efficienza del 99%. Ogni filtro viene fornito di serie con cartuccia da 30 micron e s</Description>
@@ -56750,23 +56733,6 @@
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125005_3.webp?v=1787173359</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125515.webp?v=1787173342</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125519.webp?v=1787173345</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>filtro-gasolio-racor-marine-ma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtro Gasolio Racor Marine MA - Allarme acqua 24V</Name>
-    <Brand>Racor</Brand>
-    <Description>Il filtro gasolio Racor Marine MA rimuove l&apos;acqua e le impurità dal gasolio grazie a un elemento filtrante multistadio AQUABLOC, che separa l&apos;acqua dal carburante con un&apos;efficienza del 99%. Ogni filtro viene fornito di serie con cartuccia da 30 micron e s</Description>
-    <OriginalPrice>564.46</OriginalPrice>
-    <Price>434.20</Price>
-    <Code>4125254</Code>
-    <Link>https://www.onautica.com/products/filtro-gasolio-racor-marine-ma?variant=53836663128411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125254_1.webp?v=1787173367</Image>
     <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125515.webp?v=1787173342</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125519.webp?v=1787173345</Image3>
@@ -56801,6 +56767,40 @@
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125010_1.webp?v=1787173363</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125515.webp?v=1787173342</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125519.webp?v=1787173345</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-gasolio-racor-marine-ma</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtro Gasolio Racor Marine MA - Sensore acqua</Name>
+    <Brand>Racor</Brand>
+    <Description>Il filtro gasolio Racor Marine MA rimuove l&apos;acqua e le impurità dal gasolio grazie a un elemento filtrante multistadio AQUABLOC, che separa l&apos;acqua dal carburante con un&apos;efficienza del 99%. Ogni filtro viene fornito di serie con cartuccia da 30 micron e s</Description>
+    <OriginalPrice>262.73</OriginalPrice>
+    <Price>202.10</Price>
+    <Code>4125250</Code>
+    <Link>https://www.onautica.com/products/filtro-gasolio-racor-marine-ma?variant=53836663030107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125250_1.webp?v=1787173370</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125515.webp?v=1787173342</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125519.webp?v=1787173345</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-gasolio-racor-marine-ma</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtro Gasolio Racor Marine MA - Allarme acqua 24V</Name>
+    <Brand>Racor</Brand>
+    <Description>Il filtro gasolio Racor Marine MA rimuove l&apos;acqua e le impurità dal gasolio grazie a un elemento filtrante multistadio AQUABLOC, che separa l&apos;acqua dal carburante con un&apos;efficienza del 99%. Ogni filtro viene fornito di serie con cartuccia da 30 micron e s</Description>
+    <OriginalPrice>564.46</OriginalPrice>
+    <Price>434.20</Price>
+    <Code>4125254</Code>
+    <Link>https://www.onautica.com/products/filtro-gasolio-racor-marine-ma?variant=53836663128411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125254_1.webp?v=1787173367</Image>
     <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125515.webp?v=1787173342</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4125519.webp?v=1787173345</Image3>
@@ -64433,7 +64433,7 @@
   <Offer>
     <Name>Pilette a gomito per lavelli 90° Ø 25 mm. foro 40 mm.</Name>
     <Brand>Motomarine</Brand>
-    <Description>Piletta a gomito di ricambio per lavelli da barca, con uscita a 90° da Ø 25 mm e foro di installazione da 40 mm . Compatibile con i seguenti modelli: 1501040 / 1501023 / 1501028 / 1501037 1501039 / 1501837 / 1501844 / 1501560 1501660 / 1501759 / 1501859 /</Description>
+    <Description>Piletta a gomito di ricambio per lavelli da barca, con uscita a 90° da Ø 25 mm e foro di installazione da 40 mm . Compatibile con i seguenti modelli: 1501660 / 1501759 / 1501859 / 1501949 / 1502049 Misure disponibili Misura 1501040 / 1501023 / 1501028 / 1</Description>
     <OriginalPrice>36.29</OriginalPrice>
     <Price>25.92</Price>
     <Code>1505016</Code>
@@ -64450,7 +64450,7 @@
   <Offer>
     <Name>Pilette dritte ricambio per lavelli Ø 25 mm.</Name>
     <Brand>Motomarine</Brand>
-    <Description>Pilette dritte di ricambio per lavelli, con uscita da Ø 25 mm . Compatibili con i seguenti modelli: 1501040 / 1501023 / 1501028 / 1501037 1501039 / 1501837 / 1501844 / 1501560 1501660 / 1501759 / 1501859 / 1501949 / 1502049 1502280 / 1502380 / 1502510 / 1</Description>
+    <Description>Pilette dritte di ricambio per lavelli, con uscita da Ø 25 mm . Compatibili con i seguenti modelli: 1501660 / 1501759 / 1501859 / 1501949 / 1502049 Misure disponibili Misura 1501040 / 1501023 / 1501028 / 1501037 1501039 / 1501837 / 1501844 / 1501560 15022</Description>
     <OriginalPrice>36.29</OriginalPrice>
     <Price>25.92</Price>
     <Code>1505015</Code>
@@ -77427,25 +77427,6 @@
     <ParentID>serbatoio-acqua-flessibile-plastimo</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio Acqua Flessibile Plastimo - Camera di ricambio per rettangolare 200 L</Name>
-    <Brand>Plastimo</Brand>
-    <Description>Il serbatoio flessibile Plastimo aggiunge riserva d&apos;acqua dove un serbatoio rigido non entrerebbe mai: doppio involucro con camera interna in PVC alimentare e fodera esterna in tela che dà impermeabilità, robustezza e resistenza all&apos;abrasione. Le diverse </Description>
-    <OriginalPrice>106.23</OriginalPrice>
-    <Price>102.90</Price>
-    <Code>P70961</Code>
-    <Link>https://www.onautica.com/products/serbatoio-acqua-flessibile-plastimo?variant=53699518792027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-0.webp?v=1785540497</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>3162420709615</EanCode>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-1.webp?v=1785540500</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-2.webp?v=1785540502</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-acqua-flessibile-plastimo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio Acqua Flessibile Plastimo - Rettangolare 150 L</Name>
     <Brand>Plastimo</Brand>
     <Description>Il serbatoio flessibile Plastimo aggiunge riserva d&apos;acqua dove un serbatoio rigido non entrerebbe mai: doppio involucro con camera interna in PVC alimentare e fodera esterna in tela che dà impermeabilità, robustezza e resistenza all&apos;abrasione. Le diverse </Description>
@@ -77496,6 +77477,25 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-0.webp?v=1785540497</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>3162420709561</EanCode>
+    <Weight>1.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-1.webp?v=1785540500</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-2.webp?v=1785540502</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-acqua-flessibile-plastimo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Acqua Flessibile Plastimo - Camera di ricambio per rettangolare 200 L</Name>
+    <Brand>Plastimo</Brand>
+    <Description>Il serbatoio flessibile Plastimo aggiunge riserva d&apos;acqua dove un serbatoio rigido non entrerebbe mai: doppio involucro con camera interna in PVC alimentare e fodera esterna in tela che dà impermeabilità, robustezza e resistenza all&apos;abrasione. Le diverse </Description>
+    <OriginalPrice>106.23</OriginalPrice>
+    <Price>102.90</Price>
+    <Code>P70961</Code>
+    <Link>https://www.onautica.com/products/serbatoio-acqua-flessibile-plastimo?variant=53699518792027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-0.webp?v=1785540497</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>3162420709615</EanCode>
     <Weight>1.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-1.webp?v=1785540500</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P70963-2.webp?v=1785540502</Image3>
