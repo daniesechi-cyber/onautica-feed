@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-08-31T06:29:50.205Z -->
-<!-- Offerte: 7383 -->
+<!-- Generato: 2026-08-31T10:31:14.585Z -->
+<!-- Offerte: 7408 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -1778,6 +1778,7 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Guanti_Musto_Essent_vela_black_size_XL.png?v=1762781969</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>5057324181859</EanCode>
+    <Weight>0.40</Weight>
     <Condition>nuovo</Condition>
     <ParentID>offerta-guanti-musto-essent-vela-black-size-xl</ParentID>
   </Offer>
@@ -13715,22 +13716,6 @@
     <ParentID>delfiniera-marine-75-in-teak-e-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Delfiniera Marine 75 Roller in Teak e Acciaio Inox 316 - 75x48 cm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La delfiniera Marine 75 Roller è una piattaforma di prua pensata per facilitare le manovre di ancoraggio. La struttura, con tubi e attacchi in Acciaio Inox AISI 316, sostiene un piano di calpestio in Teak dotato di musone per il passaggio della catena e d</Description>
-    <OriginalPrice>353.05</OriginalPrice>
-    <Price>271.57</Price>
-    <Code>1155008</Code>
-    <Link>https://www.onautica.com/products/delfiniera-marine-75-roller-in-teak-e-acciaio-inox-316?variant=53759249252699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1155008_1.webp?v=1786484890</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1155008_2.webp?v=1786484892</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>delfiniera-marine-75-roller-in-teak-e-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Distributore di Catena Chain Boy in Acciaio Inox 316 - Kit completo</Name>
     <Brand>Motomarine</Brand>
     <Description>Il distributore di catena Chain Boy si installa nel gavone ancora e serve a distribuire la catena in modo uniforme e ordinato durante il recupero, evitando che si accumuli in modo disordinato in un unico punto. È realizzato in acciaio inox 316. Viene forn</Description>
@@ -20702,6 +20687,35 @@
     <ParentID>bussola-verticale-riviera-pegasus-4-bp2</ParentID>
   </Offer>
   <Offer>
+    <Name>Campana a Norme R.I.Na. Ø 210 mm in Ottone – Lucida o Cromata - Ottone lucido</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Campana a norme R.I.Na. Ø 210 mm per imbarcazioni da 12 a 20 metri, disponibile in ottone lucidato a specchio o in ottone cromato . Caratteristiche principali Costruita in conformità alle norme R.I.Na. (Registro Italiano Navale), garanzia di qualità e sic</Description>
+    <OriginalPrice>261.24</OriginalPrice>
+    <Price>200.95</Price>
+    <Code>1900021</Code>
+    <Link>https://www.onautica.com/products/campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt?variant=52577421558107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Campana_ottone_lucidato_a_specchio_a_norme_R.I.Na._per_imbarcazioni_da_12_a_20_mt..png?v=1773341635</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Campana a Norme R.I.Na. Ø 210 mm in Ottone – Lucida o Cromata - Ottone cromato</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Campana a norme R.I.Na. Ø 210 mm per imbarcazioni da 12 a 20 metri, disponibile in ottone lucidato a specchio o in ottone cromato . Caratteristiche principali Costruita in conformità alle norme R.I.Na. (Registro Italiano Navale), garanzia di qualità e sic</Description>
+    <Price>265.51</Price>
+    <Code>1900022</Code>
+    <Link>https://www.onautica.com/products/campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt?variant=53927927972187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Campana_ottone_lucidato_a_specchio_a_norme_R.I.Na._per_imbarcazioni_da_12_a_20_mt..png?v=1773341635</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt</ParentID>
+  </Offer>
+  <Offer>
     <Name>Campana Nautica Foresti e Suardi in Ottone Cromato - Ø 150 mm</Name>
     <Brand>Foresti e Suardi</Brand>
     <Description>La campana nautica Foresti e Suardi è realizzata in ottone cromato, il materiale classico impiegato a bordo per segnalazioni acustiche e per l&apos;uso cerimoniale in mare. La forma e la finitura richiamano lo stile tradizionale delle campane da barca. È dispo</Description>
@@ -20751,21 +20765,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1900016_1130fd0b-e480-4427-8d41-25aa4e65ed8e.webp?v=1787902320</Image2>
     <Condition>nuovo</Condition>
     <ParentID>campana-old-navy-in-ottone-lucido</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Campana ottone lucidato a specchio a norme R.I.Na. per imbarcazioni da 12 a 20 mt.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Campana ottone lucidato a specchio a norme R.I.Na. per imbarcazioni da 12 a 20 mt. Caratteristiche principali Costruita in conformità alle norme R.I.Na. (Registro Italiano Navale), garanzia di qualità e sicurezza omologata Finitura in ottone lucidato a sp</Description>
-    <OriginalPrice>261.24</OriginalPrice>
-    <Price>200.95</Price>
-    <Code>1900021</Code>
-    <Link>https://www.onautica.com/products/campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt?variant=52577421558107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Campana_ottone_lucidato_a_specchio_a_norme_R.I.Na._per_imbarcazioni_da_12_a_20_mt..png?v=1773341635</Image>
-    <ShippingCost>0</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt</ParentID>
   </Offer>
   <Offer>
     <Name>Campana R.I.Na. Foresti e Suardi in Ottone Ø300mm - Ottone lucido</Name>
@@ -20873,22 +20872,6 @@
     <ParentID>gavitello-biconico-polietilene-doppio-anello</ParentID>
   </Offer>
   <Offer>
-    <Name>Gran Pavese - codice internazionale 14x20 mm. leggero nylon</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Gran Pavese in versione leggera è la soluzione ideale per adornare l&apos;imbarcazione nelle grandi occasioni. La confezione include 40 bandiere del Codice Internazionale di Segnalazione , nelle misure compatte 14x20 mm , perfette per essere issate in serie</Description>
-    <OriginalPrice>78.33</OriginalPrice>
-    <Price>55.95</Price>
-    <Code>3405014</Code>
-    <Link>https://www.onautica.com/products/gran-pavese-codice-internazionale-14x20-mm-leggero-nylon?variant=52577442890075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gran_Pavese_-_codice_internazionale_14x20_mm._leggero_nylon.png?v=1773341677</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626100825</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>gran-pavese-codice-internazionale-14x20-mm-leggero-nylon</ParentID>
-  </Offer>
-  <Offer>
     <Name>Gran pavese - codice internazionale 20x30 H.D. poliestere</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Gran Pavese in codice internazionale è la soluzione completa per equipaggiare la propria imbarcazione con le bandiere di segnalazione ufficiali. La confezione include 40 bandiere del codice internazionale di segnalazione, nel formato 20x30 cm , realizz</Description>
@@ -20903,6 +20886,36 @@
     <EanCode>8033626101280</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>gran-pavese-codice-internazionale-20x30-h-d-poliestere</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gran Pavese Codice Internazionale – 14x20 e 30x45 cm - 14x20 cm nylon</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Gran Pavese in versione leggera è la soluzione ideale per adornare l&apos;imbarcazione nelle grandi occasioni. La confezione include 40 bandiere del Codice Internazionale di Segnalazione , nelle misure 14x20 cm in nylon leggero oppure 30x45 cm in poliestere</Description>
+    <OriginalPrice>78.33</OriginalPrice>
+    <Price>55.95</Price>
+    <Code>3405014</Code>
+    <Link>https://www.onautica.com/products/gran-pavese-codice-internazionale-14x20-mm-leggero-nylon?variant=52577442890075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gran_Pavese_-_codice_internazionale_14x20_mm._leggero_nylon.png?v=1773341677</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626100825</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>gran-pavese-codice-internazionale-14x20-mm-leggero-nylon</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Gran Pavese Codice Internazionale – 14x20 e 30x45 cm - 30x45 cm poliestere</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Gran Pavese in versione leggera è la soluzione ideale per adornare l&apos;imbarcazione nelle grandi occasioni. La confezione include 40 bandiere del Codice Internazionale di Segnalazione , nelle misure 14x20 cm in nylon leggero oppure 30x45 cm in poliestere</Description>
+    <Price>268.56</Price>
+    <Code>3405530</Code>
+    <Link>https://www.onautica.com/products/gran-pavese-codice-internazionale-14x20-mm-leggero-nylon?variant=53927929512283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bandiere e Adesivi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gran_Pavese_-_codice_internazionale_14x20_mm._leggero_nylon.png?v=1773341677</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>gran-pavese-codice-internazionale-14x20-mm-leggero-nylon</ParentID>
   </Offer>
   <Offer>
     <Name>Grippiale Segna-Ancora WH con Nastro Riflettente Solas - ø 200 x H 507 mm</Name>
@@ -21519,6 +21532,42 @@
     <ParentID>segnalatore-ancora-grippy-con-cima-autoavvolgente</ParentID>
   </Offer>
   <Offer>
+    <Name>Segnalatore Ancora Grippy con Cima Autoavvolgente - Light</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il grippiale Grippy è un segnalatore galleggiante che si collega all&apos;ancora tramite una cima autoavvolgente, permettendo di individuare l&apos;esatta posizione dell&apos;ancora sul fondale. È dotato di nastro catarifrangente che ne aumenta la visibilità e facilita </Description>
+    <OriginalPrice>410.15</OriginalPrice>
+    <Price>315.50</Price>
+    <Code>3822271</Code>
+    <Link>https://www.onautica.com/products/segnalatore-ancora-grippy-con-cima-autoavvolgente?variant=53778023514459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3822271_1.webp?v=1786662257</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>3.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3822270.webp?v=1786662235</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3822270_bdaf5245-9c91-4a56-86b1-7e58923f64fe.webp?v=1786662238</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>segnalatore-ancora-grippy-con-cima-autoavvolgente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Segnalatore Ancora Grippy con Cima Autoavvolgente - Heavy</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il grippiale Grippy è un segnalatore galleggiante che si collega all&apos;ancora tramite una cima autoavvolgente, permettendo di individuare l&apos;esatta posizione dell&apos;ancora sul fondale. È dotato di nastro catarifrangente che ne aumenta la visibilità e facilita </Description>
+    <OriginalPrice>465.53</OriginalPrice>
+    <Price>358.10</Price>
+    <Code>3822272</Code>
+    <Link>https://www.onautica.com/products/segnalatore-ancora-grippy-con-cima-autoavvolgente?variant=53778023547227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Boe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3822272_1.webp?v=1786662264</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3822270.webp?v=1786662235</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3822270_bdaf5245-9c91-4a56-86b1-7e58923f64fe.webp?v=1786662238</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>segnalatore-ancora-grippy-con-cima-autoavvolgente</ParentID>
+  </Offer>
+  <Offer>
     <Name>Telemetro Laser Nikon Coolshot 20 GIII 6x20 - Coolshot 20 GIII</Name>
     <Brand>Nikon</Brand>
     <Description>Il telemetro laser Nikon Coolshot 20 GIII misura con precisione la distanza di uno o più oggetti, anche in contemporanea. È impermeabile, compatto, resistente e leggero, pensato per essere usato in barca o in qualsiasi altra attività all&apos;aperto. Il campo </Description>
@@ -21830,6 +21879,21 @@
     <ParentID>tromba-marco-a-norme-r-i-na-bianca</ParentID>
   </Offer>
   <Offer>
+    <Name>Tromba MARCO CR Doppia - Compatta in Ottone Cromato - 12 Volt</Name>
+    <Brand>Marco</Brand>
+    <Description>Questa tromba elettrica è un accessorio di sicurezza essenziale, progettata per offrire un segnale acustico potente e affidabile in un design compatto a doppia tromba . Caratteristiche Principali: Materiale: Corpo realizzato in Ottone Cromato , garantendo</Description>
+    <OriginalPrice>141.96</OriginalPrice>
+    <Price>99.27</Price>
+    <Code>1901012</Code>
+    <Link>https://www.onautica.com/products/tromba-marco-cr-doppia-ottone-cromato?variant=52513456783707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Tromba_Marco_Dual_Ottone_CR_12-24V.png?v=1773341850</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>tromba-marco-cr-doppia-ottone-cromato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tromba MARCO CR Doppia - Compatta in Ottone Cromato - 24 Volt</Name>
     <Brand>Marco</Brand>
     <Description>Questa tromba elettrica è un accessorio di sicurezza essenziale, progettata per offrire un segnale acustico potente e affidabile in un design compatto a doppia tromba . Caratteristiche Principali: Materiale: Corpo realizzato in Ottone Cromato , garantendo</Description>
@@ -22059,6 +22123,21 @@
     <ParentID>tromba-singola-marco-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
+    <Name>Tromba Singola Marco in Acciaio Inox - 470 mm - 24V</Name>
+    <Brand>Marco</Brand>
+    <Description>La tromba singola Marco in acciaio inox è un segnalatore acustico elettrico per uso nautico. Si installa a bordo per emettere segnali sonori nelle manovre e nelle situazioni che richiedono un avviso acustico, secondo la tensione dell&apos;impianto elettrico de</Description>
+    <OriginalPrice>172.12</OriginalPrice>
+    <Price>132.40</Price>
+    <Code>1901214</Code>
+    <Link>https://www.onautica.com/products/tromba-singola-marco-in-acciaio-inox?variant=53843821789531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901210.webp?v=1787242303</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>tromba-singola-marco-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tromba Singola Marco WH in Ottone Laccato Bianco - 12V</Name>
     <Brand>Marco</Brand>
     <Description>La tromba singola Marco WH è un segnalatore acustico per imbarcazioni, realizzato in ottone laccato bianco. Si installa a bordo per le segnalazioni sonore in navigazione e produce un suono a 114 dB. È disponibile nella versione a 12V e nella versione a 24</Description>
@@ -22066,6 +22145,21 @@
     <Price>123.00</Price>
     <Code>1901206</Code>
     <Link>https://www.onautica.com/products/tromba-singola-marco-wh-in-ottone-laccato-bianco?variant=53843821363547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901206.webp?v=1787242299</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>tromba-singola-marco-wh-in-ottone-laccato-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tromba Singola Marco WH in Ottone Laccato Bianco - 24V</Name>
+    <Brand>Marco</Brand>
+    <Description>La tromba singola Marco WH è un segnalatore acustico per imbarcazioni, realizzato in ottone laccato bianco. Si installa a bordo per le segnalazioni sonore in navigazione e produce un suono a 114 dB. È disponibile nella versione a 12V e nella versione a 24</Description>
+    <OriginalPrice>163.54</OriginalPrice>
+    <Price>125.80</Price>
+    <Code>1901208</Code>
+    <Link>https://www.onautica.com/products/tromba-singola-marco-wh-in-ottone-laccato-bianco?variant=53843821396315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901206.webp?v=1787242299</Image>
@@ -32376,7 +32470,7 @@
   <Offer>
     <Name>Piano Cottura a Gas ENO Masterglass 2 Fuochi in Vetro - Fermapentole dedicato</Name>
     <Brand>ENO</Brand>
-    <Description>Il Masterglass di ENO è il piano cottura a gas in vetro temperato per la cucina di bordo: 2 fuochi da 4.250 W complessivi, alimentazione a butano/propano e termocoppia di sicurezza che chiude il gas se la fiamma si spegne. Dimensioni 47×34×8 cm, peso 5,4 </Description>
+    <Description>Il Masterglass di ENO è il piano cottura a gas in vetro temperato per la cucina di bordo: 2 fuochi da 4.250 W complessivi, alimentazione a butano/propano e termocoppia di sicurezza che chiude il gas se la fiamma si spegne. Dimensioni 47×34×8 cm. Il coperc</Description>
     <OriginalPrice>152.41</OriginalPrice>
     <Price>117.90</Price>
     <Code>2402507</Code>
@@ -32393,9 +32487,9 @@
     <ParentID>piano-cottura-a-gas-eno-masterglass-2-fuochi-in-vetro</ParentID>
   </Offer>
   <Offer>
-    <Name>Piano Cottura a Gas ENO Masterglass 2 Fuochi in Vetro - Kit flangia dedicato</Name>
+    <Name>Piano Cottura a Gas ENO Masterglass 2 Fuochi in Vetro - Kit flangia + coperchio in vetro</Name>
     <Brand>ENO</Brand>
-    <Description>Il Masterglass di ENO è il piano cottura a gas in vetro temperato per la cucina di bordo: 2 fuochi da 4.250 W complessivi, alimentazione a butano/propano e termocoppia di sicurezza che chiude il gas se la fiamma si spegne. Dimensioni 47×34×8 cm, peso 5,4 </Description>
+    <Description>Il Masterglass di ENO è il piano cottura a gas in vetro temperato per la cucina di bordo: 2 fuochi da 4.250 W complessivi, alimentazione a butano/propano e termocoppia di sicurezza che chiude il gas se la fiamma si spegne. Dimensioni 47×34×8 cm. Il coperc</Description>
     <OriginalPrice>281.38</OriginalPrice>
     <Price>205.90</Price>
     <Code>2402504</Code>
@@ -33888,6 +33982,24 @@
     <ParentID>antifurto-mcgard-motor-lock-per-fuoribordo-piede-ed-elica</ParentID>
   </Offer>
   <Offer>
+    <Name>Antifurto McGard Motor Lock per Fuoribordo, Piede ed Elica - Yamaha elica M18x1.5</Name>
+    <Brand>Mcgard</Brand>
+    <Description>L&apos;antifurto McGard Motor Lock protegge il fuoribordo, il piede poppiero o l&apos;elica da furto, sostituendo il bullone di fissaggio originale con un collare/bullone antifurto dedicato. Il collare ruota liberamente su se stesso e impedisce lo smontaggio con ut</Description>
+    <OriginalPrice>146.38</OriginalPrice>
+    <Price>112.60</Price>
+    <Code>0344427</Code>
+    <Link>https://www.onautica.com/products/antifurto-mcgard-motor-lock-per-fuoribordo-piede-ed-elica?variant=53902832959835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0344415_1.webp?v=1787903077</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0344415.webp?v=1787903079</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0344415_4.webp?v=1787903081</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antifurto-mcgard-motor-lock-per-fuoribordo-piede-ed-elica</ParentID>
+  </Offer>
+  <Offer>
     <Name>Antifurto McGard Motor Lock per Fuoribordo, Piede ed Elica - Honda/Tohatsu elica M16x1.5</Name>
     <Brand>Mcgard</Brand>
     <Description>L&apos;antifurto McGard Motor Lock protegge il fuoribordo, il piede poppiero o l&apos;elica da furto, sostituendo il bullone di fissaggio originale con un collare/bullone antifurto dedicato. Il collare ruota liberamente su se stesso e impedisce lo smontaggio con ut</Description>
@@ -34574,7 +34686,7 @@
     <ParentID>cavo-inox-plastificato-per-battagliola</ParentID>
   </Offer>
   <Offer>
-    <Name>Chiusura a Compressione Southco M1-20 Inox – IP65 – Leva Regolabile</Name>
+    <Name>Chiusura a Compressione Southco M1-20 Inox – IP65 – Leva Regolabile - Senza chiave</Name>
     <Brand>Motomarine</Brand>
     <Description>La Chiusura a Compressione Southco M1-20 rappresenta lo standard d&apos;eccellenza per la chiusura di paglioli, boccaporti e sportelli in ambiente marino. Realizzata interamente in Acciaio Inox lucidato a specchio, unisce un design elegante a filo coperta con </Description>
     <OriginalPrice>118.53</OriginalPrice>
@@ -34586,6 +34698,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox.png?v=1773341884</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626017802</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox_misure.png?v=1773341885</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox_utilizzo.png?v=1773341885</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>chiusura-compressione-southco-m1-20-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Chiusura a Compressione Southco M1-20 Inox – IP65 – Leva Regolabile - Con chiavi</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Chiusura a Compressione Southco M1-20 rappresenta lo standard d&apos;eccellenza per la chiusura di paglioli, boccaporti e sportelli in ambiente marino. Realizzata interamente in Acciaio Inox lucidato a specchio, unisce un design elegante a filo coperta con </Description>
+    <Price>92.70</Price>
+    <Code>0341134</Code>
+    <Link>https://www.onautica.com/products/chiusura-compressione-southco-m1-20-inox?variant=53927929610587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox.png?v=1773341884</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox_misure.png?v=1773341885</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/chiusura-compressione-southco-m1-20-inox_utilizzo.png?v=1773341885</Image3>
     <Condition>nuovo</Condition>
@@ -38345,7 +38473,7 @@
   <Offer>
     <Name>Base Tonda 60° in Acciaio Inox AISI 316 da Fusione - Ø 22 mm.</Name>
     <Brand>Motomarine</Brand>
-    <Description>Questa base è un componente di raccorderia strutturale, essenziale per creare fissaggi resistenti e duraturi con un angolo fisso di 60 gradi . Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox AISI 316 da fusione (non stampata), che garant</Description>
+    <Description>Questa base �� un componente di raccorderia strutturale, essenziale per creare fissaggi resistenti e duraturi con un angolo fisso di 60 gradi . Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox AISI 316 da fusione (non stampata), che garan</Description>
     <OriginalPrice>15.63</OriginalPrice>
     <Price>11.16</Price>
     <Code>0630122</Code>
@@ -38362,7 +38490,7 @@
   <Offer>
     <Name>Base Tonda 60° in Acciaio Inox AISI 316 da Fusione - Ø 25 mm.</Name>
     <Brand>Motomarine</Brand>
-    <Description>Questa base è un componente di raccorderia strutturale, essenziale per creare fissaggi resistenti e duraturi con un angolo fisso di 60 gradi . Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox AISI 316 da fusione (non stampata), che garant</Description>
+    <Description>Questa base �� un componente di raccorderia strutturale, essenziale per creare fissaggi resistenti e duraturi con un angolo fisso di 60 gradi . Caratteristiche Principali: Materiale: Realizzata in Acciaio Inox AISI 316 da fusione (non stampata), che garan</Description>
     <OriginalPrice>17.11</OriginalPrice>
     <Price>12.22</Price>
     <Code>0630125</Code>
@@ -42020,7 +42148,7 @@
     <Brand>Bonetto</Brand>
     <Description>Contenitore isotermico 150 lt. melange 254 grigio/blu ATP Caratteristiche principali Capacità generosa da 150 litri, ideale per lunghe permanenze a bordo o grandi equipaggi Certificazione ATP, garanzia di prestazioni isolanti omologate per il mantenimento</Description>
     <OriginalPrice>1209.40</OriginalPrice>
-    <Price>789.90</Price>
+    <Price>930.31</Price>
     <Code>A1500012</Code>
     <Link>https://www.onautica.com/products/contenitore-isotermico-150-lt-melange-254-grigio-blu-atp?variant=49393105928539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -47722,7 +47850,7 @@
     <Brand>Ancor</Brand>
     <Description>La pompa di raffreddamento Ancor ST146 è realizzata in bronzo con girante in Neoprene ed è pensata come ricambio per motori marini diesel. Sostituisce le pompe originali Johnson F7B-9 (cod. 10-24127-1) e Jabsco 23430-1001. È disponibile con bocche da 1&quot;. </Description>
     <OriginalPrice>366.20</OriginalPrice>
-    <Price>238.74</Price>
+    <Price>281.69</Price>
     <Code>1829210</Code>
     <Link>https://www.onautica.com/products/pompa-di-raffreddamento-ancor-st146-in-bronzo?variant=53861210554715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -47776,7 +47904,7 @@
     <Brand>Ancor</Brand>
     <Description>La pompa di raffreddamento Ancor ST151 è realizzata in bronzo con girante in neoprene, pensata per sostituire l&apos;originale Jabsco ref. 29600-1001. Garantisce la circolazione dell&apos;acqua di mare nel circuito di raffreddamento del motore. È disponibile in un&apos;</Description>
     <OriginalPrice>392.73</OriginalPrice>
-    <Price>255.90</Price>
+    <Price>302.10</Price>
     <Code>1829337</Code>
     <Link>https://www.onautica.com/products/pompa-di-raffreddamento-ancor-st151-in-bronzo-con-girante-in-neoprene?variant=53861216584027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -48196,24 +48324,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829257_e28585ee-82e6-4168-9bb8-fece2cde0fea.webp?v=1787385270</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-raffreddamento-ancor-mff57-in-bronzo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Raffreddamento Ancor PM15 attacco 3/8&quot; - PM15</Name>
-    <Brand>Ancor</Brand>
-    <Description>La pompa di raffreddamento Ancor PM15 fa circolare l&apos;acqua nel circuito di raffreddamento del motore, prelevandola dall&apos;esterno tramite la girante interna e spingendola verso il blocco motore. È una pompa ad attacco diretto, pensata come ricambio per impi</Description>
-    <OriginalPrice>210.34</OriginalPrice>
-    <Price>161.80</Price>
-    <Code>1829014</Code>
-    <Link>https://www.onautica.com/products/pompa-raffreddamento-ancor-pm15-attacco-3-8?variant=53861207703899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829014.webp?v=1787385044</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814046_1.webp?v=1787385041</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829014_21b49e0d-9c7a-4743-b360-1924f7de9ed8.webp?v=1787385047</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-raffreddamento-ancor-pm15-attacco-3-8</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Raffreddamento Ancor ST 138 in Bronzo - ø 3/8&quot;</Name>
@@ -50593,23 +50703,6 @@
     <ParentID>fanali-navigazione-dhr-fino-20-metri</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanali di Navigazione R.I.Na. Midi Flat White - fino a 12 metri - Verde</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questa serie di fanali di navigazione compatti e piatti è ideale per imbarcazioni fino a 12 metri di lunghezza. Il loro design a basso profilo e il corpo in Plastica Bianca garantiscono un&apos;estetica pulita e moderna sul tuo scafo. Caratteristiche Principal</Description>
-    <OriginalPrice>15.88</OriginalPrice>
-    <Price>11.34</Price>
-    <Code>2111802</Code>
-    <Link>https://www.onautica.com/products/fanali-navigazione-rina-midi-flat-white-12m?variant=52513459896667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_mini_flash_white_R.I.N.A._tondo_di_via.png?v=1773341654</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626064059</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Fanali_bianca_225_mini_flash_white_R.I.N.A._tondo_di_via.png?v=1773341653</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-navigazione-rina-midi-flat-white-12m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Fanali di Navigazione R.I.Na. Midi Flat White - fino a 12 metri - Rosso</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di fanali di navigazione compatti e piatti è ideale per imbarcazioni fino a 12 metri di lunghezza. Il loro design a basso profilo e il corpo in Plastica Bianca garantiscono un&apos;estetica pulita e moderna sul tuo scafo. Caratteristiche Principal</Description>
@@ -51521,9 +51614,23 @@
     <ParentID>offerta-faro-a-led-inox-da-coperta-6x1w-680-lumen-luce-diffusa</ParentID>
   </Offer>
   <Offer>
-    <Name>Faro comando bulbo 100W 12V portata 100/300 mt.</Name>
+    <Name>Faro Alogeno Ocean Cabin Control 100W – 12V e 24V, portata 100/300 m - 24V</Name>
     <Brand>Motomarine</Brand>
-    <Description>Il Faro Halogen Ocean Cabin è un proiettore di profondità orientabile specificamente progettato per l&apos;installazione in cabina. Realizzato con una robusta cassa in ABS , unisce leggerezza e resistenza alla corrosione marina. Il cuore del sistema è un bulbo</Description>
+    <Description>Il Faro Halogen Ocean Cabin è un proiettore di profondità orientabile specificamente progettato per l&apos;installazione in cabina. Realizzato con una robusta cassa in ABS , unisce leggerezza e resistenza alla corrosione marina. Disponibile nelle versioni a 12</Description>
+    <Price>133.16</Price>
+    <Code>2123004</Code>
+    <Link>https://www.onautica.com/products/faro-orientabile-cabina-ocean-halogen-12v?variant=53927929381211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-cabina-ocean-halogen.png?v=1773341656</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-orientabile-cabina-ocean-halogen-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro Alogeno Ocean Cabin Control 100W – 12V e 24V, portata 100/300 m - 12V</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Faro Halogen Ocean Cabin è un proiettore di profondità orientabile specificamente progettato per l&apos;installazione in cabina. Realizzato con una robusta cassa in ABS , unisce leggerezza e resistenza alla corrosione marina. Disponibile nelle versioni a 12</Description>
     <OriginalPrice>173.64</OriginalPrice>
     <Price>133.57</Price>
     <Code>2123002</Code>
@@ -56933,6 +57040,36 @@
     <ParentID>marmitta-in-plastica-lp50-raccordo-ingresso-girevole</ParentID>
   </Offer>
   <Offer>
+    <Name>Marmitta Vetus WLOCKLP con Raccordo Fisso – Ø 60, 75 e 90 mm - Ø 75 mm</Name>
+    <Brand>Vetus</Brand>
+    <Description>La marmitta Vetus WLOCKLP FIX è progettata per impianti di scarico acqua-gas nei motori marini, con raccordo fisso e trappola integrata per l&apos;acqua di scarico. Ideale per installazioni che richiedono affidabilità e tenuta nel tempo. Diametri raccordo disp</Description>
+    <OriginalPrice>347.70</OriginalPrice>
+    <Price>289.72</Price>
+    <Code>5001075</Code>
+    <Link>https://www.onautica.com/products/marmita-vetus-wlocklp-fix-o-60-mm?variant=53927927021915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Marmita_Vetus_wlocklp_fix_60_mm..png?v=1773341703</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>marmita-vetus-wlocklp-fix-o-60-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Marmitta Vetus WLOCKLP con Raccordo Fisso – Ø 60, 75 e 90 mm - Ø 90 mm</Name>
+    <Brand>Vetus</Brand>
+    <Description>La marmitta Vetus WLOCKLP FIX è progettata per impianti di scarico acqua-gas nei motori marini, con raccordo fisso e trappola integrata per l&apos;acqua di scarico. Ideale per installazioni che richiedono affidabilità e tenuta nel tempo. Diametri raccordo disp</Description>
+    <OriginalPrice>347.70</OriginalPrice>
+    <Price>289.72</Price>
+    <Code>5001090</Code>
+    <Link>https://www.onautica.com/products/marmita-vetus-wlocklp-fix-o-60-mm?variant=53927927054683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Marmita_Vetus_wlocklp_fix_60_mm..png?v=1773341703</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>marmita-vetus-wlocklp-fix-o-60-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Mezzo Marinaio Telescopico EASY - Alluminio Anodizzato (Comodo e Sicuro) - 120 &lt;&gt; 200 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Mezzo Marinaio Telescopico EASY è uno strumento essenziale per tutte le manovre di ormeggio e disormeggio, progettato per offrire massima leggerezza e sicurezza d&apos;uso. Design Robusto e Maneggevole: Materiale: Realizzato in Alluminio Anodizzato , garant</Description>
@@ -61260,6 +61397,22 @@
     <ParentID>raccordo-rapido-lavaggio-coperta-johnson</ParentID>
   </Offer>
   <Offer>
+    <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 180 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
+    <Price>121.02</Price>
+    <Code>0700018</Code>
+    <Link>https://www.onautica.com/products/remi-lahna-seagrade-ergonomici-qualita-superiore?variant=53927929741659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade.png?v=1773341948</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_b.png?v=1773341948</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_c.png?v=1773341949</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>remi-lahna-seagrade-ergonomici-qualita-superiore</ParentID>
+  </Offer>
+  <Offer>
     <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 195 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
@@ -61278,6 +61431,22 @@
     <ParentID>remi-lahna-seagrade-ergonomici-qualita-superiore</ParentID>
   </Offer>
   <Offer>
+    <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 220 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
+    <Price>144.41</Price>
+    <Code>0700022</Code>
+    <Link>https://www.onautica.com/products/remi-lahna-seagrade-ergonomici-qualita-superiore?variant=53927929807195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade.png?v=1773341948</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_b.png?v=1773341948</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_c.png?v=1773341949</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>remi-lahna-seagrade-ergonomici-qualita-superiore</ParentID>
+  </Offer>
+  <Offer>
     <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 240 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
@@ -61290,6 +61459,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade.png?v=1773341948</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>6418288032417</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_b.png?v=1773341948</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_c.png?v=1773341949</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>remi-lahna-seagrade-ergonomici-qualita-superiore</ParentID>
+  </Offer>
+  <Offer>
+    <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 260 cm.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
+    <Price>154.50</Price>
+    <Code>0700026</Code>
+    <Link>https://www.onautica.com/products/remi-lahna-seagrade-ergonomici-qualita-superiore?variant=53927929839963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade.png?v=1773341948</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_b.png?v=1773341948</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_c.png?v=1773341949</Image3>
     <Condition>nuovo</Condition>
@@ -61735,7 +61920,7 @@
     <Brand>Garmin</Brand>
     <Description>Il Sistema di piastre a sgancio rapido GARMIN KRAKEN garantisce un montaggio e smontaggio veloce e sicuro del tuo dispositivo Garmin. Progettato per offrire massima stabilità e resistenza, permette di fissare e rimuovere facilmente il dispositivo senza l’</Description>
     <OriginalPrice>187.67</OriginalPrice>
-    <Price>155.90</Price>
+    <Price>163.19</Price>
     <Code>010-12832-60</Code>
     <Link>https://www.onautica.com/products/sistema-di-piastre-a-sgancio-rapido-garmin-kraken?variant=52577367327067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -63959,7 +64144,7 @@
   <Offer>
     <Name>Girante Jabsco 8840-0006B in Nitrile - Versione</Name>
     <Brand>Jabsco</Brand>
-    <Description>La girante Jabsco 8840-0006B è realizzata in nitrile ed �� un ricambio originale per pompe Jabsco. Il codice originale è 8840-0006B, corrispondente al codice Jabsco Italia 6180884006. A chi è rivolto A chi possiede una pompa Jabsco e deve sostituire la gi</Description>
+    <Description>La girante Jabsco 8840-0006B è realizzata in nitrile ed è un ricambio originale per pompe Jabsco. Il codice originale è 8840-0006B, corrispondente al codice Jabsco Italia 6180884006. A chi è rivolto A chi possiede una pompa Jabsco e deve sostituire la gir</Description>
     <OriginalPrice>307.10</OriginalPrice>
     <Price>297.90</Price>
     <Code>Z8840-0006B</Code>
@@ -65434,23 +65619,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZR3426144D-2.webp?v=1785555998</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-autoclave-flojet-triplex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Autoclave Flojet Triplex - 12V - 25 PSI</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La pompa autoclave Flojet Triplex alimenta l&apos;impianto idrico di bordo, fornendo acqua in pressione a rubinetti, docce e altre utenze. Il funzionamento è automatico: la pompa si avvia quando si apre un&apos;utenza e si ferma al raggiungimento della pressione im</Description>
-    <OriginalPrice>151.06</OriginalPrice>
-    <Price>116.20</Price>
-    <Code>1827112</Code>
-    <Link>https://www.onautica.com/products/pompa-autoclave-flojet-triplex-1?variant=53843730563419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827112_1.webp?v=1787241724</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827106.webp?v=1787241720</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827152_1.webp?v=1787241722</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-autoclave-flojet-triplex-1</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Autoclave Flojet Triplex - 24V - 40 PSI</Name>
@@ -72692,7 +72860,7 @@
     <ParentID>olio-per-teak-star-brite-premium-golden-teak-oil</ParentID>
   </Offer>
   <Offer>
-    <Name>Olio per Teak Star Brite – Protettivo Sigillante UV (Lunga Durata)</Name>
+    <Name>Olio per Teak Star Brite – Protettivo Sigillante UV, 1 L e 3,8 L - 1 L</Name>
     <Brand>Star Brite</Brand>
     <Description>Lo Star Brite Teak Oil è un olio di qualità premium formulato specificamente per sigillare, proteggere e nutrire il teak marino e altri legni pregiati a bordo. La sua formula avanzata è progettata per chi cerca una protezione professionale che duri nel te</Description>
     <OriginalPrice>45.28</OriginalPrice>
@@ -72705,6 +72873,20 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>071247816365</EanCode>
     <Weight>0.95</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>olio-per-teak-star-brite-protettivo-uv</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Olio per Teak Star Brite – Protettivo Sigillante UV, 1 L e 3,8 L - 3,8 L</Name>
+    <Brand>Star Brite</Brand>
+    <Description>Lo Star Brite Teak Oil è un olio di qualità premium formulato specificamente per sigillare, proteggere e nutrire il teak marino e altri legni pregiati a bordo. La sua formula avanzata è progettata per chi cerca una protezione professionale che duri nel te</Description>
+    <Price>90.67</Price>
+    <Code>5735203</Code>
+    <Link>https://www.onautica.com/products/olio-per-teak-star-brite-protettivo-uv?variant=53927930265947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/star-brite-teak-oil-protettivo-uv.webp?v=1773341744</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>olio-per-teak-star-brite-protettivo-uv</ParentID>
   </Offer>
@@ -74806,9 +74988,23 @@
     <ParentID>resina-poliestere-con-catalizzatore</ParentID>
   </Offer>
   <Offer>
-    <Name>Riduttore tensione VRS10 16A Quick switching</Name>
+    <Name>Riduttore di Tensione Quick VRS – 10, 16, 23 e 30A - VRS10 10A</Name>
     <Brand>Quick</Brand>
-    <Description>Riduttori di tensione da 24 a 12V a bassa ondulazione residua in uscita con protezione contro cortocircuito, sovratensione e inversione. 170 x 105 x H35 Caratteristiche principali Conversione rapida da 24V a 12V con tecnologia quick switching per un&apos;eroga</Description>
+    <Description>Riduttori di tensione da 24 a 12V a bassa ondulazione residua in uscita, con protezione contro cortocircuito, sovratensione e inversione di polarità. Quattro modelli: VRS10 (10A) , VRS16 (16A) , VRS25 (23A) e VRS30 (30A) . Caratteristiche principali Conve</Description>
+    <Price>86.76</Price>
+    <Code>2015010</Code>
+    <Link>https://www.onautica.com/products/offerta-riduttore-tensione-vrs10-16a-quick-switching?variant=53927928955227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Riduttore_tensione_VRS10_16A_Quick_switching.png?v=1773341740</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-riduttore-tensione-vrs10-16a-quick-switching</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Riduttore di Tensione Quick VRS – 10, 16, 23 e 30A - VRS16 16A</Name>
+    <Brand>Quick</Brand>
+    <Description>Riduttori di tensione da 24 a 12V a bassa ondulazione residua in uscita, con protezione contro cortocircuito, sovratensione e inversione di polarità. Quattro modelli: VRS10 (10A) , VRS16 (16A) , VRS25 (23A) e VRS30 (30A) . Caratteristiche principali Conve</Description>
     <OriginalPrice>145.57</OriginalPrice>
     <Price>100.39</Price>
     <Code>2015015</Code>
@@ -74822,20 +75018,32 @@
     <ParentID>offerta-riduttore-tensione-vrs10-16a-quick-switching</ParentID>
   </Offer>
   <Offer>
-    <Name>Riduttore tensione VRS25 23A Quick switching</Name>
+    <Name>Riduttore di Tensione Quick VRS – 10, 16, 23 e 30A - VRS25 23A</Name>
     <Brand>Quick</Brand>
-    <Description>Il riduttore di tensione VRS25 23A Quick switching converte la tensione di bordo da 24V a 12V , garantendo un&apos;uscita stabile a bassa ondulazione residua. Ideale per le imbarcazioni con impianto elettrico a 24V che necessitano di alimentare dispositivi e u</Description>
-    <OriginalPrice>153.80</OriginalPrice>
+    <Description>Riduttori di tensione da 24 a 12V a bassa ondulazione residua in uscita, con protezione contro cortocircuito, sovratensione e inversione di polarità. Quattro modelli: VRS10 (10A) , VRS16 (16A) , VRS25 (23A) e VRS30 (30A) . Caratteristiche principali Conve</Description>
     <Price>118.31</Price>
     <Code>2015025</Code>
-    <Link>https://www.onautica.com/products/offerta-riduttore-tensione-vrs25-23a-quick-switching?variant=52577463370075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Link>https://www.onautica.com/products/offerta-riduttore-tensione-vrs10-16a-quick-switching?variant=53927928987995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Riduttore_tensione_VRS25_23A_Quick_switching.png?v=1773341740</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Riduttore_tensione_VRS10_16A_Quick_switching.png?v=1773341740</Image>
     <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626059536</EanCode>
     <Condition>nuovo</Condition>
-    <ParentID>offerta-riduttore-tensione-vrs25-23a-quick-switching</ParentID>
+    <ParentID>offerta-riduttore-tensione-vrs10-16a-quick-switching</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Riduttore di Tensione Quick VRS – 10, 16, 23 e 30A - VRS30 30A</Name>
+    <Brand>Quick</Brand>
+    <Description>Riduttori di tensione da 24 a 12V a bassa ondulazione residua in uscita, con protezione contro cortocircuito, sovratensione e inversione di polarità. Quattro modelli: VRS10 (10A) , VRS16 (16A) , VRS25 (23A) e VRS30 (30A) . Caratteristiche principali Conve</Description>
+    <Price>387.92</Price>
+    <Code>2015030</Code>
+    <Link>https://www.onautica.com/products/offerta-riduttore-tensione-vrs10-16a-quick-switching?variant=53927929020763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Riduttore_tensione_VRS10_16A_Quick_switching.png?v=1773341740</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-riduttore-tensione-vrs10-16a-quick-switching</ParentID>
   </Offer>
   <Offer>
     <Name>Riduzione Maschio Femmina in Acciaio Inox AISI 316 - 1&quot;1/4x1&quot;</Name>
@@ -74952,9 +75160,9 @@
     <ParentID>ripartitore-di-carica-140a-12v-mtm-vsr-sensitive-s</ParentID>
   </Offer>
   <Offer>
-    <Name>Ripartitore di carica 70A 12/24V MTM electronic corrente</Name>
+    <Name>Ripartitore di Carica MTM Electronic 12/24V – 70A e 160A - 70A 2 uscite</Name>
     <Brand>Motomarine</Brand>
-    <Description>Il ripartitore di carica MTM Electronic da 70A è una soluzione professionale per la gestione intelligente delle batterie di bordo, compatibile con impianti a 12V e 24V. Grazie al sistema elettronico sigillato di altissima qualità, garantisce affidabilità </Description>
+    <Description>I ripartitori di carica MTM Electronic sono una soluzione professionale per la gestione intelligente delle batterie di bordo, compatibile con impianti a 12V e 24V. Compatibili con impianti a 12V e 24V e disponibili a 2 o 3 uscite, grazie al sistema elettr</Description>
     <OriginalPrice>58.30</OriginalPrice>
     <Price>41.64</Price>
     <Code>2014001</Code>
@@ -74964,6 +75172,21 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ripartitore_di_carica_70A_12_24V_MTM_electronic_corrente.png?v=1773341801</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626059307</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ripartitore_di_carica_70A_12_24V_MTM_electronic_corrente_7.png?v=1773341802</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>ripartitore-di-carica-70a-12-24v-mtm-electronic-corrente</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ripartitore di Carica MTM Electronic 12/24V – 70A e 160A - 160A 3 uscite</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I ripartitori di carica MTM Electronic sono una soluzione professionale per la gestione intelligente delle batterie di bordo, compatibile con impianti a 12V e 24V. Compatibili con impianti a 12V e 24V e disponibili a 2 o 3 uscite, grazie al sistema elettr</Description>
+    <Price>120.66</Price>
+    <Code>2014009</Code>
+    <Link>https://www.onautica.com/products/ripartitore-di-carica-70a-12-24v-mtm-electronic-corrente?variant=53927928856923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ripartitore_di_carica_70A_12_24V_MTM_electronic_corrente.png?v=1773341801</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ripartitore_di_carica_70A_12_24V_MTM_electronic_corrente_7.png?v=1773341802</Image2>
     <Condition>nuovo</Condition>
     <ParentID>ripartitore-di-carica-70a-12-24v-mtm-electronic-corrente</ParentID>
@@ -75237,9 +75460,9 @@
     <ParentID>scarico-a-mare-ottone-fuso</ParentID>
   </Offer>
   <Offer>
-    <Name>Scarico Lungo in Ottone 1&quot;-1/4 – Scarico Filettato Gas Anticorrosione per Bordo</Name>
+    <Name>Scarico a Mare Lungo Filettato in Bronzo 207 mm – 1&quot;, 1&quot;1/4 e 1&quot;1/2 - 1&quot;1/4</Name>
     <Brand>Motomarine</Brand>
-    <Description>Scarico filettato lungo in Bronzo. Filettatura gas 1 1/4 Caratteristiche principali Costruzione in ottone/bronzo per elevata resistenza alla corrosione in ambiente marino Filettatura gas 1&quot; 1/4 per connessione sicura e standardizzata Versione &quot;lunga&quot; idea</Description>
+    <Description>Scarico a mare filettato lungo in bronzo, lunghezza 207 mm, disponibile con filettatura gas 1&quot; , 1&quot;1/4 e 1&quot;1/2 . Caratteristiche principali Costruzione in bronzo per elevata resistenza alla corrosione in ambiente marino Filettatura gas da 1&quot;, 1&quot;1/4 o 1&quot;1/</Description>
     <OriginalPrice>145.10</OriginalPrice>
     <Price>100.07</Price>
     <Code>1411006</Code>
@@ -75249,6 +75472,20 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scarico_lungo_in_ottone_1_-1_4.png?v=1773341809</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626036919</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>scarico-lungo-in-ottone-1-1-4</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scarico a Mare Lungo Filettato in Bronzo 207 mm – 1&quot;, 1&quot;1/4 e 1&quot;1/2 - 1&quot;1/2</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Scarico a mare filettato lungo in bronzo, lunghezza 207 mm, disponibile con filettatura gas 1&quot; , 1&quot;1/4 e 1&quot;1/2 . Caratteristiche principali Costruzione in bronzo per elevata resistenza alla corrosione in ambiente marino Filettatura gas da 1&quot;, 1&quot;1/4 o 1&quot;1/</Description>
+    <Price>118.63</Price>
+    <Code>1411007</Code>
+    <Link>https://www.onautica.com/products/scarico-lungo-in-ottone-1-1-4?variant=53927927480667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Raccorderia Ottone</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Scarico_lungo_in_ottone_1_-1_4.png?v=1773341809</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>scarico-lungo-in-ottone-1-1-4</ParentID>
   </Offer>
@@ -79846,6 +80083,24 @@
     <ParentID>pompa-travaso-gasolio-marco-up3-up6</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa Travaso Gasolio Marco UP3 - UP6 - UP6 24V - 26 l/min</Name>
+    <Brand>Marco</Brand>
+    <Description>La pompa Marco per travaso gasolio è una pompa elettrica pensata per spostare il gasolio tra taniche e serbatoi a bordo, tramite le bocche di aspirazione e mandata filettate. Si collega all&apos;impianto elettrico dell&apos;imbarcazione e permette di trasferire il </Description>
+    <OriginalPrice>311.09</OriginalPrice>
+    <Price>239.30</Price>
+    <Code>1826329</Code>
+    <Link>https://www.onautica.com/products/pompa-travaso-gasolio-marco-up3-up6?variant=53877344141659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826329.webp?v=1787640940</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826314.webp?v=1787640930</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826314_92e82878-9e0e-40e6-add8-87cc577fb1e2.webp?v=1787640933</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-travaso-gasolio-marco-up3-up6</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa Travaso Gasolio Marco VP45 - 12V</Name>
     <Brand>Marco</Brand>
     <Description>La pompa Marco VP45 serve per il travaso del gasolio a bordo, spostando il carburante da un serbatoio o da una tanica verso un altro punto senza dover ricorrere a secchi o sifoni. Ha bocche da 25 mm e una portata di 45 litri al minuto. È disponibile nella</Description>
@@ -82573,7 +82828,7 @@
     <Price>38.42</Price>
     <Code>30221T</Code>
     <Link>https://www.onautica.com/products/cavo-telecomando-universale-ultraflex-c8?variant=52545436516699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cavo-telecomando-universale-ultraflex-c8.webp?v=1770993407</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -83618,6 +83873,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610103_3.webp?v=1787923608</Image3>
     <Condition>nuovo</Condition>
     <ParentID>comando-motore-ultraflex-b104-bileva-in-lega-cromata</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Comando Motore Ultraflex B301CR / B302CR - B301CR Leva Singola</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il comando Ultraflex B301CR/B302CR gestisce con un&apos;unica leva sia il gas che l&apos;inversione di marcia su motori entrobordo ed entro/fuoribordo, con azionamento a doppia azione. Leva e corpo sono in lega inossidabile cromata, il montaggio è a plancia. Il com</Description>
+    <OriginalPrice>516.10</OriginalPrice>
+    <Price>397.00</Price>
+    <Code>4610111</Code>
+    <Link>https://www.onautica.com/products/comando-motore-ultraflex-b301cr-b302cr?variant=53861166219611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610111_1.webp?v=1787384411</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610114_1_b26ab652-3d86-4275-a4e1-72feada5a1de.webp?v=1787461620</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610111_3.webp?v=1787384413</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>comando-motore-ultraflex-b301cr-b302cr</ParentID>
   </Offer>
   <Offer>
     <Name>Comando Motore Ultraflex B301CR / B302CR - B302CR Leva Doppia</Name>
@@ -84770,9 +85043,39 @@
     <ParentID>nastro-adesivo-solas-riflettente</ParentID>
   </Offer>
   <Offer>
-    <Name>Plancia di Poppa Inox 400x460 mm – Plancetta in Legno Marino e Telaio AISI 316</Name>
+    <Name>Plancetta di Poppa Tinox con Scaletta 3 Gradini – Misure M e L - M 410x450 mm</Name>
     <Brand>Motomarine</Brand>
-    <Description>Plancetta di poppa realizzata con doghe in legno marino e telaio in acciaio inox AISI 316 , per una soluzione elegante e resistente all&apos;ambiente marino. Dimensioni: 400 x 460 mm . Caratteristiche principali Dimensioni compatte 400x460 mm, ideali per insta</Description>
+    <Description>La Plancetta Tinox con scaletta a 3 gradini è disponibile in due misure: M, 410 x 450 mm , e L , più ampia. È progettata per garantire accesso comodo e sicuro all&apos;imbarcazione. Combina doghe in legno marino — resistente all&apos;umidità e all&apos;ambiente marino —</Description>
+    <OriginalPrice>309.27</OriginalPrice>
+    <Price>201.90</Price>
+    <Code>0511401</Code>
+    <Link>https://www.onautica.com/products/offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm?variant=52577462059355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Plancia_Tinox_con_scaletta_3_gradini_410x450_mm..png?v=1773341736</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>70960002</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Plancetta di Poppa Tinox con Scaletta 3 Gradini – Misure M e L - L</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Plancetta Tinox con scaletta a 3 gradini è disponibile in due misure: M, 410 x 450 mm , e L , più ampia. È progettata per garantire accesso comodo e sicuro all&apos;imbarcazione. Combina doghe in legno marino — resistente all&apos;umidità e all&apos;ambiente marino —</Description>
+    <Price>214.27</Price>
+    <Code>0511501</Code>
+    <Link>https://www.onautica.com/products/offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm?variant=53927929676123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Plancia_Tinox_con_scaletta_3_gradini_410x450_mm..png?v=1773341736</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Plancetta di Poppa Tinox in Inox 316 e Legno Doussie – 40x46 e 52x49 cm - M 40x46 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Plancetta di poppa realizzata con doghe in legno marino e telaio in acciaio inox AISI 316 , per una soluzione elegante e resistente all&apos;ambiente marino. Due misure: 40 x 46 cm e 52 x 49 cm . Caratteristiche principali Due misure — 40x46 cm e 52x49 cm — pe</Description>
     <OriginalPrice>199.13</OriginalPrice>
     <Price>153.17</Price>
     <Code>0511403</Code>
@@ -84786,20 +85089,18 @@
     <ParentID>offerta-plancia-tinox-400x460-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Plancia Tinox con scaletta 3 gradini 410x450 mm.</Name>
+    <Name>Plancetta di Poppa Tinox in Inox 316 e Legno Doussie – 40x46 e 52x49 cm - L 52x49 cm</Name>
     <Brand>Motomarine</Brand>
-    <Description>La Plancia Tinox è una plancetta di poppa dalle dimensioni compatte 410 x 450 mm , progettata per garantire accesso comodo e sicuro all&apos;imbarcazione. Combina doghe in legno marino — resistente all&apos;umidità e all&apos;ambiente marino — con un robusto telaio in a</Description>
-    <OriginalPrice>309.27</OriginalPrice>
-    <Price>201.90</Price>
-    <Code>0511401</Code>
-    <Link>https://www.onautica.com/products/offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm?variant=52577462059355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Description>Plancetta di poppa realizzata con doghe in legno marino e telaio in acciaio inox AISI 316 , per una soluzione elegante e resistente all&apos;ambiente marino. Due misure: 40 x 46 cm e 52 x 49 cm . Caratteristiche principali Due misure — 40x46 cm e 52x49 cm — pe</Description>
+    <Price>161.24</Price>
+    <Code>0511503</Code>
+    <Link>https://www.onautica.com/products/offerta-plancia-tinox-400x460-mm?variant=53927929708891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Plancia_Tinox_con_scaletta_3_gradini_410x450_mm..png?v=1773341736</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>70960002</EanCode>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Plancia_Tinox_400x460_mm..png?v=1773341735</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
-    <ParentID>offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm</ParentID>
+    <ParentID>offerta-plancia-tinox-400x460-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Plancia Tinox in Carabottino con Supporto Motore 285x470 mm.</Name>
@@ -86500,22 +86801,6 @@
     <ParentID>serbatoi-acqua-standard-green-line-pump-kit</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio 100 lt. flessibili acqua potabile rettangolari lt. 100</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
-    <OriginalPrice>199.97</OriginalPrice>
-    <Price>137.91</Price>
-    <Code>1522410</Code>
-    <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=52577463730523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_100_lt._flessibili_acqua_potabile_rettangolari_lt._100.png?v=1773341742</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626044082</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio 100 lt. flessibili acqua potabile triangolari lt. 100 con raccordi</Name>
     <Brand>Motomarine</Brand>
     <Description>Serbatoio flessibile per acqua potabile dalla forma triangolare, ideale per ottimizzare gli spazi a bordo nelle zone di prua o in altri angoli difficili da sfruttare. Realizzato in tessuto gommato rinforzato, garantisce robustezza e durata nel tempo, mant</Description>
@@ -88170,6 +88455,50 @@
     <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoio Flessibile Acqua Potabile Rettangolare – da 60 a 120 litri - 75 litri</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
+    <Price>131.88</Price>
+    <Code>1522407</Code>
+    <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=53927927546203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_100_lt._flessibili_acqua_potabile_rettangolari_lt._100.png?v=1773341742</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Flessibile Acqua Potabile Rettangolare – da 60 a 120 litri - 100 litri</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
+    <OriginalPrice>199.97</OriginalPrice>
+    <Price>137.91</Price>
+    <Code>1522410</Code>
+    <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=52577463730523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_100_lt._flessibili_acqua_potabile_rettangolari_lt._100.png?v=1773341742</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626044082</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Flessibile Acqua Potabile Rettangolare – da 60 a 120 litri - 120 litri</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Serbatoi flessibili per acqua potabile, ideali per ottimizzare gli spazi a bordo grazie alla loro struttura adattabile. Realizzati in tessuto gommato rinforzato, garantiscono resistenza e durata nel tempo. Completi di boccaporto con raccordi girevoli per </Description>
+    <Price>142.66</Price>
+    <Code>1522412</Code>
+    <Link>https://www.onautica.com/products/offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100?variant=53927927578971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Serbatoi Acqua</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Serbatoi_100_lt._flessibili_acqua_potabile_rettangolari_lt._100.png?v=1773341742</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-serbatoi-100-lt-flessibili-acqua-potabile-rettangolari-lt-100</ParentID>
+  </Offer>
+  <Offer>
     <Name>Serbatoio Portatile Carburante in Eltex con Pescante – Da 12 a 30 Litri - 12 litri</Name>
     <Brand>Osculati</Brand>
     <Description>La gamma di Serbatoi Portatili per Carburante è realizzata in robusto Eltex (polietilene ad alta densità), materiale che garantisce leggerezza e totale resistenza alla corrosione e agli urti. Progettati secondo la normativa ISO 13591 , offrono sicurezza e</Description>
@@ -88681,7 +89010,7 @@
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
     <OriginalPrice>803.50</OriginalPrice>
-    <Price>670.90</Price>
+    <Price>692.66</Price>
     <Code>02.408.01</Code>
     <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057934171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -88699,7 +89028,7 @@
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
     <OriginalPrice>854.40</OriginalPrice>
-    <Price>676.90</Price>
+    <Price>736.58</Price>
     <Code>02.408.02</Code>
     <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057966939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -88717,7 +89046,7 @@
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
     <OriginalPrice>854.40</OriginalPrice>
-    <Price>671.90</Price>
+    <Price>736.58</Price>
     <Code>02.408.03</Code>
     <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057999707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -88735,7 +89064,7 @@
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
     <OriginalPrice>1632.00</OriginalPrice>
-    <Price>1374.90</Price>
+    <Price>1406.89</Price>
     <Code>02.408.05</Code>
     <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058032475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -88771,7 +89100,7 @@
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
     <OriginalPrice>1715.40</OriginalPrice>
-    <Price>1344.90</Price>
+    <Price>1478.76</Price>
     <Code>02.408.09</Code>
     <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608058098011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -88842,8 +89171,7 @@
     <Name>Verricello Salpancora ITALWINCH Smart-R1 ad Asse Verticale - Ø 6 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Smart-R1 è una soluzione di ancoraggio ad asse verticale compatta e altamente affidabile, progettata specificamente per imbarcazioni con una lunghezza massima fino a 10 metri . La sua architettura ibrida unisce una resis</Description>
-    <OriginalPrice>620.72</OriginalPrice>
-    <Price>586.90</Price>
+    <Price>620.72</Price>
     <Code>02.413.01</Code>
     <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-smart-r1?variant=52607470010715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -89839,42 +90167,6 @@
     <ParentID>comando-remoto-fusion-ms-arx70</ParentID>
   </Offer>
   <Offer>
-    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Pompa UP28F</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
-    <OriginalPrice>713.96</OriginalPrice>
-    <Price>549.20</Price>
-    <Code>4656601</Code>
-    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159600475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4656601_8.webp?v=1787383704</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>5.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - UC128-OBF/1</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
-    <OriginalPrice>796.25</OriginalPrice>
-    <Price>612.50</Price>
-    <Code>4655014</Code>
-    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159633243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>9.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
-  </Offer>
-  <Offer>
     <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Regolatore angolo guida X72</Name>
     <Brand>Ultraflex</Brand>
     <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
@@ -89887,42 +90179,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655530_1.webp?v=1787383711</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>1.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Barra A96 66-73cm M/Y</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
-    <OriginalPrice>879.97</OriginalPrice>
-    <Price>676.90</Price>
-    <Code>4655055</Code>
-    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159895387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655055_2.webp?v=1787383719</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>3.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Barra A96 73-87cm M/Y</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
-    <OriginalPrice>879.97</OriginalPrice>
-    <Price>676.90</Price>
-    <Code>4655057</Code>
-    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159928155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655057_2.webp?v=1787383721</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>3.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
     <Condition>nuovo</Condition>
@@ -89963,6 +90219,78 @@
     <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
   </Offer>
   <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Pompa UP28F</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <OriginalPrice>713.96</OriginalPrice>
+    <Price>549.20</Price>
+    <Code>4656601</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159600475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4656601_8.webp?v=1787383704</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>5.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - UC128-OBF/1</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <OriginalPrice>796.25</OriginalPrice>
+    <Price>612.50</Price>
+    <Code>4655014</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159633243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>9.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Barra A96 66-73cm M/Y</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <OriginalPrice>879.97</OriginalPrice>
+    <Price>676.90</Price>
+    <Code>4655055</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159895387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655055_2.webp?v=1787383719</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>3.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Barra A96 73-87cm M/Y</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <OriginalPrice>879.97</OriginalPrice>
+    <Price>676.90</Price>
+    <Code>4655057</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861159928155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655057_2.webp?v=1787383721</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>3.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
     <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Kit timoneria Nautech1</Name>
     <Brand>Ultraflex</Brand>
     <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
@@ -89974,6 +90302,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>15.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Kit timoneria Nautech2</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <Price>976.90</Price>
+    <Code>4655035</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53927925875035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
     <Condition>nuovo</Condition>
@@ -90151,22 +90495,6 @@
     <Weight>0.45</Weight>
     <Condition>nuovo</Condition>
     <ParentID>coprimozzo-nero-x34-per-timoneria-t71-t72-t73</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Corda traino blu con manico - Sci d&apos;acqua</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Corda da traino per sci d&apos;acqua. L m ø mm 23 8 La corda da traino per sci d&apos;acqua con manico è un accessorio essenziale per chi pratica questo sport sul lago o in mare. Con diametro da 23 mm e lunghezza di 8 metri, offre una presa sicura e resistente dura</Description>
-    <OriginalPrice>36.16</OriginalPrice>
-    <Price>25.82</Price>
-    <Code>3015020</Code>
-    <Link>https://www.onautica.com/products/treccia-traino-blu-con-manico-sci-dacqua?variant=52577497940315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Treccia_traino_blu_con_manico_-_Sci_d_acqua.png?v=1773341849</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626000156</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-traino-blu-con-manico-sci-dacqua</ParentID>
   </Offer>
   <Offer>
     <Name>Corda traino con 8 sezioni diversi colori per accorciamenti eventuali - sci d&apos;acqua</Name>
@@ -95120,21 +95448,6 @@
     <ParentID>eliche-solas-alluminio-per-motori-selva</ParentID>
   </Offer>
   <Offer>
-    <Name>Eliche Solas Alluminio per Motori Selva - 3 pale - 2T 8/9.9(&gt;2008) / 4T 8.5 x 8 - 8.5 x 8</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Selva - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Selva fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>94.40</OriginalPrice>
-    <Price>78.63</Price>
-    <Code>495301108508</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-selva?variant=53389302366555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-selva</ParentID>
-  </Offer>
-  <Offer>
     <Name>Eliche Solas Alluminio per Motori Selva - 3 pale - 2T 25 / 4T 9.90 x 12 - 9.90 x 12</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Selva - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Selva fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
@@ -99611,7 +99924,7 @@
     <ParentID>altoparlanti-nautici-doppio-cono-bianchi</ParentID>
   </Offer>
   <Offer>
-    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 80 Watt</Name>
+    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 80 W bianco</Name>
     <Brand>Riviera</Brand>
     <Description>Gli altoparlanti **RIVIERA ROUND S** sono la scelta ideale per l&apos;impianto audio di bordo. Venduti in coppia, sono progettati specificamente per resistere all&apos;ambiente marino, grazie alla loro costruzione robusta e alle caratteristiche tecniche essenziali.</Description>
     <Price>103.71</Price>
@@ -99627,7 +99940,7 @@
     <ParentID>casse-altoparlanti-stereo-riviera-round-s</ParentID>
   </Offer>
   <Offer>
-    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 120 Watt</Name>
+    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 120 W bianco</Name>
     <Brand>Riviera</Brand>
     <Description>Gli altoparlanti **RIVIERA ROUND S** sono la scelta ideale per l&apos;impianto audio di bordo. Venduti in coppia, sono progettati specificamente per resistere all&apos;ambiente marino, grazie alla loro costruzione robusta e alle caratteristiche tecniche essenziali.</Description>
     <Price>137.61</Price>
@@ -99638,6 +99951,66 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casserivierab.png?v=1773341933</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626057136</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casseriviera.png?v=1773341925</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>casse-altoparlanti-stereo-riviera-round-s</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 80 W carbon</Name>
+    <Brand>Riviera</Brand>
+    <Description>Gli altoparlanti **RIVIERA ROUND S** sono la scelta ideale per l&apos;impianto audio di bordo. Venduti in coppia, sono progettati specificamente per resistere all&apos;ambiente marino, grazie alla loro costruzione robusta e alle caratteristiche tecniche essenziali.</Description>
+    <Price>142.45</Price>
+    <Code>1913553</Code>
+    <Link>https://www.onautica.com/products/casse-altoparlanti-stereo-riviera-round-s?variant=53927928365403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casserivierab.png?v=1773341933</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casseriviera.png?v=1773341925</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>casse-altoparlanti-stereo-riviera-round-s</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 80 W radica</Name>
+    <Brand>Riviera</Brand>
+    <Description>Gli altoparlanti **RIVIERA ROUND S** sono la scelta ideale per l&apos;impianto audio di bordo. Venduti in coppia, sono progettati specificamente per resistere all&apos;ambiente marino, grazie alla loro costruzione robusta e alle caratteristiche tecniche essenziali.</Description>
+    <Price>142.45</Price>
+    <Code>1913555</Code>
+    <Link>https://www.onautica.com/products/casse-altoparlanti-stereo-riviera-round-s?variant=53927928398171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casserivierab.png?v=1773341933</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casseriviera.png?v=1773341925</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>casse-altoparlanti-stereo-riviera-round-s</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 120 W carbon</Name>
+    <Brand>Riviera</Brand>
+    <Description>Gli altoparlanti **RIVIERA ROUND S** sono la scelta ideale per l&apos;impianto audio di bordo. Venduti in coppia, sono progettati specificamente per resistere all&apos;ambiente marino, grazie alla loro costruzione robusta e alle caratteristiche tecniche essenziali.</Description>
+    <Price>175.93</Price>
+    <Code>1913554</Code>
+    <Link>https://www.onautica.com/products/casse-altoparlanti-stereo-riviera-round-s?variant=53927928430939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casserivierab.png?v=1773341933</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casseriviera.png?v=1773341925</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>casse-altoparlanti-stereo-riviera-round-s</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Casse Altoparlanti Stereo RIVIERA Round S - 120 W radica</Name>
+    <Brand>Riviera</Brand>
+    <Description>Gli altoparlanti **RIVIERA ROUND S** sono la scelta ideale per l&apos;impianto audio di bordo. Venduti in coppia, sono progettati specificamente per resistere all&apos;ambiente marino, grazie alla loro costruzione robusta e alle caratteristiche tecniche essenziali.</Description>
+    <Price>175.93</Price>
+    <Code>1913556</Code>
+    <Link>https://www.onautica.com/products/casse-altoparlanti-stereo-riviera-round-s?variant=53927928463707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casserivierab.png?v=1773341933</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/casseriviera.png?v=1773341925</Image2>
     <Condition>nuovo</Condition>
     <ParentID>casse-altoparlanti-stereo-riviera-round-s</ParentID>
@@ -104232,9 +104605,25 @@
     <ParentID>plancetta-di-poppa-in-acciaio-inox-e-legno-marino-6-misure</ParentID>
   </Offer>
   <Offer>
-    <Name>Plancetta di Poppa Tinox S con Scaletta 2 Gradini in Inox e Doussie - 285 × 415 mm · con scaletta 2 gradini</Name>
+    <Name>Plancetta di Poppa Tinox S in Inox e Doussie – con Scaletta o con Supporto Motore - 285 × 415 mm · con supporto motore</Name>
     <Brand>Motomarine</Brand>
-    <Description>Plancetta di poppa compatta, con telaio in acciaio inox AISI 316 e piano in doghe di legno marino Doussie, completa di scaletta pieghevole a 2 gradini. Misura 285 × 415 mm: è la taglia pensata per le barche piccole, dove una plancetta intera non ci sta. R</Description>
+    <Description>Plancetta di poppa compatta, con telaio in acciaio inox AISI 316 e piano in doghe di legno marino Doussie. Misura 285 × 415 mm: è la taglia pensata per le barche piccole, dove una plancetta intera non ci sta. Disponibile in due versioni: con scaletta pieg</Description>
+    <Price>223.55</Price>
+    <Code>0511302</Code>
+    <Link>https://www.onautica.com/products/plancetta-di-poppa-tinox-s-con-scaletta-2-gradini-in-inox-e-doussie?variant=53927929643355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511301-1.webp?v=1787165983</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511301-2.webp?v=1787165986</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511301-3.webp?v=1787165988</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>plancetta-di-poppa-tinox-s-con-scaletta-2-gradini-in-inox-e-doussie</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Plancetta di Poppa Tinox S in Inox e Doussie – con Scaletta o con Supporto Motore - 285 × 415 mm · con scaletta 2 gradini</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Plancetta di poppa compatta, con telaio in acciaio inox AISI 316 e piano in doghe di legno marino Doussie. Misura 285 × 415 mm: è la taglia pensata per le barche piccole, dove una plancetta intera non ci sta. Disponibile in due versioni: con scaletta pieg</Description>
     <OriginalPrice>342.55</OriginalPrice>
     <Price>263.50</Price>
     <Code>0511301</Code>
@@ -104248,24 +104637,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511301-3.webp?v=1787165988</Image3>
     <Condition>nuovo</Condition>
     <ParentID>plancetta-di-poppa-tinox-s-con-scaletta-2-gradini-in-inox-e-doussie</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Plancetta Minox con Scaletta in Acciaio Inox e Legno - S (2 gradini)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La plancetta Minox è una pedana di poppa con scaletta integrata, pensata per facilitare la salita a bordo dall&apos;acqua. È realizzata in acciaio inox con doghe in legno e si fissa allo specchio di poppa tramite tubo di supporto da 25 mm. È disponibile nei mo</Description>
-    <OriginalPrice>242.06</OriginalPrice>
-    <Price>186.20</Price>
-    <Code>0510701</Code>
-    <Link>https://www.onautica.com/products/plancetta-minox-con-scaletta-in-acciaio-inox-e-legno?variant=53885176545627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510701_1.webp?v=1787735252</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>7.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510701_2.webp?v=1787735255</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510701_3.webp?v=1787735257</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>plancetta-minox-con-scaletta-in-acciaio-inox-e-legno</ParentID>
   </Offer>
   <Offer>
     <Name>Plancetta Minox con Scaletta in Acciaio Inox e Legno - L (3 gradini)</Name>
@@ -108058,9 +108429,9 @@
     <ParentID>supporto-motore-standard-inox-compensato-30kg</ParentID>
   </Offer>
   <Offer>
-    <Name>Supporto tavolo alluminio classe 2</Name>
+    <Name>Supporto Tavolo Classe 2 in Alluminio – H62 e H68 cm - H62 cm</Name>
     <Brand>Motomarine</Brand>
-    <Description>Supporto tavolo scomponibile in alluminio anodizzato satinato con base a incasso. Costruzione di alta qualità. Altezza 62 cm. Tubo ø Testa ø Base ø 58 mm. 170 mm. 160 mm. Caratteristiche principali Design scomponibile per un riposto facile e ingombro mini</Description>
+    <Description>Supporto tavolo scomponibile in alluminio anodizzato satinato con base a incasso. Costruzione di alta qualità, nelle altezze 62 e 68 cm . La base è disponibile anche come ricambio. Tubo ø Testa ø Base ø 58 mm. 170 mm. 160 mm. Caratteristiche principali De</Description>
     <OriginalPrice>97.30</OriginalPrice>
     <Price>77.83</Price>
     <Code>0840005</Code>
@@ -108070,6 +108441,21 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0840008.png?v=1773341487</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626026200</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0840008b.png?v=1773341488</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-tavolo-alluminio-classe-2</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Supporto Tavolo Classe 2 in Alluminio – H62 e H68 cm - H68 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Supporto tavolo scomponibile in alluminio anodizzato satinato con base a incasso. Costruzione di alta qualità, nelle altezze 62 e 68 cm . La base è disponibile anche come ricambio. Tubo ø Testa ø Base ø 58 mm. 170 mm. 160 mm. Caratteristiche principali De</Description>
+    <Price>102.53</Price>
+    <Code>0840014</Code>
+    <Link>https://www.onautica.com/products/supporto-tavolo-alluminio-classe-2?variant=53927929872731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0840008.png?v=1773341487</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0840008b.png?v=1773341488</Image2>
     <Condition>nuovo</Condition>
     <ParentID>supporto-tavolo-alluminio-classe-2</ParentID>
@@ -108569,7 +108955,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>450.80</OriginalPrice>
-    <Price>352.90</Price>
+    <Price>360.63</Price>
     <Code>46.171.01</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253582683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108588,7 +108974,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>554.80</OriginalPrice>
-    <Price>397.90</Price>
+    <Price>443.87</Price>
     <Code>46.171.02</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253615451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108607,7 +108993,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>655.70</OriginalPrice>
-    <Price>472.90</Price>
+    <Price>524.55</Price>
     <Code>46.171.03</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253648219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108626,7 +109012,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>698.40</OriginalPrice>
-    <Price>526.90</Price>
+    <Price>558.72</Price>
     <Code>46.171.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52513573175643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108811,7 +109197,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>491.30</OriginalPrice>
-    <Price>333.90</Price>
+    <Price>393.04</Price>
     <Code>46.165.21</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228744539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108847,7 +109233,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>527.70</OriginalPrice>
-    <Price>357.90</Price>
+    <Price>422.16</Price>
     <Code>46.165.23</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228810075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108865,7 +109251,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>545.90</OriginalPrice>
-    <Price>370.90</Price>
+    <Price>436.72</Price>
     <Code>46.165.24</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228842843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108883,7 +109269,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>600.50</OriginalPrice>
-    <Price>407.90</Price>
+    <Price>480.38</Price>
     <Code>46.165.25</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228875611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108901,7 +109287,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>618.70</OriginalPrice>
-    <Price>419.90</Price>
+    <Price>494.95</Price>
     <Code>46.165.26</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228908379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108919,7 +109305,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>636.90</OriginalPrice>
-    <Price>432.90</Price>
+    <Price>509.51</Price>
     <Code>46.165.27</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52513574224219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108937,7 +109323,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>667.20</OriginalPrice>
-    <Price>452.90</Price>
+    <Price>533.77</Price>
     <Code>46.165.28</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228941147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -108955,7 +109341,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>697.50</OriginalPrice>
-    <Price>473.90</Price>
+    <Price>558.01</Price>
     <Code>46.165.29</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228973915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109270,7 +109656,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>305.10</OriginalPrice>
-    <Price>202.90</Price>
+    <Price>244.05</Price>
     <Code>46.165.02</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230088027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109306,7 +109692,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>317.00</OriginalPrice>
-    <Price>239.90</Price>
+    <Price>253.59</Price>
     <Code>46.165.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230153563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109324,7 +109710,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>354.30</OriginalPrice>
-    <Price>266.90</Price>
+    <Price>283.41</Price>
     <Code>46.165.05</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230186331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109342,7 +109728,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>372.90</OriginalPrice>
-    <Price>275.90</Price>
+    <Price>298.33</Price>
     <Code>46.165.06</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230219099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109360,7 +109746,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>413.30</OriginalPrice>
-    <Price>298.90</Price>
+    <Price>330.65</Price>
     <Code>46.165.07</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230251867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109378,7 +109764,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>433.00</OriginalPrice>
-    <Price>315.90</Price>
+    <Price>346.38</Price>
     <Code>46.165.08</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230284635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109396,7 +109782,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>472.40</OriginalPrice>
-    <Price>351.90</Price>
+    <Price>377.89</Price>
     <Code>46.165.09</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230317403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109414,7 +109800,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>492.00</OriginalPrice>
-    <Price>379.90</Price>
+    <Price>393.63</Price>
     <Code>46.165.10</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230350171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109432,7 +109818,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>531.40</OriginalPrice>
-    <Price>381.90</Price>
+    <Price>425.09</Price>
     <Code>46.165.11</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230382939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -109450,7 +109836,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Invernale Ultra Resistente Oceansouth è la scelta definitiva per chi cerca una protezione totale (&quot;da prua a poppa&quot;) contro gli inverni più rigidi. Progettato specificamente per Gommoni a Chiglia Rigida (RIB) , Cruiser e Cabinati di gra</Description>
     <OriginalPrice>570.70</OriginalPrice>
-    <Price>410.90</Price>
+    <Price>456.58</Price>
     <Code>46.165.12</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52513573929307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -110597,9 +110983,9 @@
     <ParentID>tergicristallo-roca-w50-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
-    <Name>Trapunta Leggera Marine Business per Cabine Barca - Bianco - Singola 150×220 cm</Name>
+    <Name>Trapunta Leggera Marine Business per Cabine Barca – Bianco e Blu Navy - Singola 150×220 cm bianco</Name>
     <Brand>Marine Business</Brand>
-    <Description>Trapunta Leggera Marine Business in Microfibra per Cabine Barca La trapunta leggera Marine Business in tessuto microfibra è la soluzione ideale per arredare le cabine della barca con stile e praticità. Realizzata da Marine Business , marchio specializzato</Description>
+    <Description>Trapunta Leggera Marine Business in Microfibra per Cabine Barca La trapunta leggera Marine Business in tessuto microfibra è la soluzione ideale per arredare le cabine della barca con stile e praticità, in bianco o in blu navy. Realizzata da Marine Busines</Description>
     <OriginalPrice>177.77</OriginalPrice>
     <Price>136.75</Price>
     <Code>5801120</Code>
@@ -110615,9 +111001,9 @@
     <ParentID>trapunta-leggera-marine-business-per-cabine-barca-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Trapunta Leggera Marine Business per Cabine Barca - Bianco - Matrimoniale 220×240 cm</Name>
+    <Name>Trapunta Leggera Marine Business per Cabine Barca – Bianco e Blu Navy - Matrimoniale 220×240 cm bianco</Name>
     <Brand>Marine Business</Brand>
-    <Description>Trapunta Leggera Marine Business in Microfibra per Cabine Barca La trapunta leggera Marine Business in tessuto microfibra è la soluzione ideale per arredare le cabine della barca con stile e praticità. Realizzata da Marine Business , marchio specializzato</Description>
+    <Description>Trapunta Leggera Marine Business in Microfibra per Cabine Barca La trapunta leggera Marine Business in tessuto microfibra è la soluzione ideale per arredare le cabine della barca con stile e praticità, in bianco o in blu navy. Realizzata da Marine Busines</Description>
     <OriginalPrice>177.77</OriginalPrice>
     <Price>136.75</Price>
     <Code>5801122</Code>
@@ -110627,6 +111013,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trapunta-leggera-marine-business-singola-bianco.webp?v=1778778160</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trapunta-leggera-marine-business-doppia-bianco.webp?v=1778778163</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trapunta-leggera-marine-business-dettaglio-piumino.webp?v=1778778166</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>trapunta-leggera-marine-business-per-cabine-barca-bianco</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Trapunta Leggera Marine Business per Cabine Barca – Bianco e Blu Navy - Matrimoniale 270×240 cm blu navy</Name>
+    <Brand>Marine Business</Brand>
+    <Description>Trapunta Leggera Marine Business in Microfibra per Cabine Barca La trapunta leggera Marine Business in tessuto microfibra è la soluzione ideale per arredare le cabine della barca con stile e praticità, in bianco o in blu navy. Realizzata da Marine Busines</Description>
+    <Price>202.21</Price>
+    <Code>5801123</Code>
+    <Link>https://www.onautica.com/products/trapunta-leggera-marine-business-per-cabine-barca-bianco?variant=53927929577819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trapunta-leggera-marine-business-singola-bianco.webp?v=1778778160</Image>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trapunta-leggera-marine-business-doppia-bianco.webp?v=1778778163</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/trapunta-leggera-marine-business-dettaglio-piumino.webp?v=1778778166</Image3>
     <Condition>nuovo</Condition>
@@ -112635,24 +113037,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579727352155_0.webp?v=1783533282</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cinghie-di-fissaggio-a-cricchetto-con-aggancio-rapido-recessato-rapid-marine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coppia Gruette On Base Ø 42 mm in Acciaio Inox 316 - Ø 42 mm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La coppia di gruette on base in acciaio inox 316 serve per issare e calare il tender dalla barca. Sono dotate di base di fissaggio integrata, pensata per essere installata sullo scafo o sul pulpito, e permettono di sollevare il gommone in appoggio esterno</Description>
-    <OriginalPrice>643.89</OriginalPrice>
-    <Price>495.30</Price>
-    <Code>0600020</Code>
-    <Link>https://www.onautica.com/products/coppia-gruette-on-base-o-42-mm-in-acciaio-inox-316?variant=53903055815003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Tender e Gommoni;Tender</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0600020.webp?v=1787903503</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>10.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0600020_2.webp?v=1787903505</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0600020_3.webp?v=1787903508</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>coppia-gruette-on-base-o-42-mm-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
     <Name>Coppia Gruette On Deck in Acciaio Inox 316 - Ø 40 mm</Name>
@@ -119903,24 +120287,6 @@
     <ParentID>bozzello-apribile-anti-urto-easysea-olli-block</ParentID>
   </Offer>
   <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia 36mm - Violino girevole con strozza e arricavo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger con puleggia da 36 mm serve per rinviare, deviare o moltiplicare le cime a bordo, riducendo l&apos;attrito durante la manovra. La puleggia da 36 mm è comune a tutte le versioni della gamma. Sono disponibili le versioni singolo, sin</Description>
-    <OriginalPrice>147.55</OriginalPrice>
-    <Price>113.50</Price>
-    <Code>3609009</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-36mm?variant=53883925070171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609009_1.webp?v=1787733168</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609001_1.webp?v=1787733154</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609001.webp?v=1787733156</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-36mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bozzello Hermann Sprenger Puleggia 50mm - Violino girevole con strozzascotte e arricavo</Name>
     <Brand>Hermann Sprenger</Brand>
     <Description>Il bozzello HS con puleggia da 50mm di Hermann Sprenger serve a rinviare e guidare le cime a bordo, riducendo l&apos;attrito grazie alla puleggia rotante. È dimensionato per cime fino a 12mm di diametro e si utilizza per manovre come drizze, scotte e paranchi.</Description>
@@ -121146,9 +121512,9 @@
     <ParentID>maniglia-winch-galleggiante-200mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Manovella Winch Antal Single-Grip 200 mm – Alluminio Nero Forgiato</Name>
+    <Name>Manovella Winch Antal Single-Grip in Alluminio Nero Forgiato – 200 e 250 mm - 200 mm</Name>
     <Brand>Antal</Brand>
-    <Description>La Manovella Antal Single-Grip da 200 mm (8&quot;) rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. Il corpo è realizzato in alluminio forgiato a caldo e presenta una serie di fori </Description>
+    <Description>La Manovella Antal Single-Grip rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. È disponibile nelle lunghezze 200 mm (8&quot;) e 250 mm (10&quot;) . Il corpo è realizzato in alluminio fo</Description>
     <OriginalPrice>126.77</OriginalPrice>
     <Price>93.90</Price>
     <Code>3751201</Code>
@@ -121158,6 +121524,20 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626109590</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>manovella-antal-single-grip-200mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Manovella Winch Antal Single-Grip in Alluminio Nero Forgiato – 200 e 250 mm - 250 mm</Name>
+    <Brand>Antal</Brand>
+    <Description>La Manovella Antal Single-Grip rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. È disponibile nelle lunghezze 200 mm (8&quot;) e 250 mm (10&quot;) . Il corpo è realizzato in alluminio fo</Description>
+    <Price>107.71</Price>
+    <Code>3751251</Code>
+    <Link>https://www.onautica.com/products/manovella-antal-single-grip-200mm?variant=53927929545051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Vela;Winch e Manovre</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>manovella-antal-single-grip-200mm</ParentID>
   </Offer>
@@ -121598,24 +121978,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3707151_d021b1d6-ec9b-464a-8750-f309bd2b5e7c.webp?v=1787733619</Image3>
     <Condition>nuovo</Condition>
     <ParentID>stopper-antal-v-cam-814-singolo-doppio-e-triplo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Stopper Antal V-Grip per Cime - Singolo 8/12 mm</Name>
-    <Brand>Antal</Brand>
-    <Description>Lo stopper Antal V-Grip blocca la cima tramite un meccanismo a camme, impedendole di scorrere quando è in tensione. Il sistema consente di rilasciare la cima in modo controllato anche sotto carico, tramite la leva di comando, ed è pensato per essere posiz</Description>
-    <OriginalPrice>211.51</OriginalPrice>
-    <Price>162.70</Price>
-    <Code>3707111</Code>
-    <Link>https://www.onautica.com/products/stopper-antal-v-grip-per-cime?variant=53884193603931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3707111.webp?v=1787733576</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3707111_fa480ce6-56b7-4b0c-bba4-3fba6f1c6c6a.webp?v=1787733578</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3707111_1.webp?v=1787733580</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>stopper-antal-v-grip-per-cime</ParentID>
   </Offer>
   <Offer>
     <Name>Stopper Antal V-Grip per Cime - Singolo 10/14 mm</Name>
