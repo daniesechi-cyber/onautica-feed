@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-02T10:31:22.924Z -->
-<!-- Offerte: 7347 -->
+<!-- Generato: 2026-09-02T14:31:59.674Z -->
+<!-- Offerte: 7361 -->
 <Products>
   <Offer>
     <Name>Antifurto per Carrello Porta-imbarcazione – Sicurezza Antifurto Rimorchio Barca</Name>
@@ -10780,6 +10780,23 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Ogiva_in_zinco_50_mm._radice_con_innesto_esagonale.png?v=1773341751</Image3>
     <Condition>nuovo</Condition>
     <ParentID>anodo-ogiva-radice-zinco-esagonale</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Anodo Ogiva Guidi a Cono con Innesto Filettato - Ø 30 mm</Name>
+    <Brand>Guidi</Brand>
+    <Description>L&apos;anodo ogiva Guidi ha forma tronco-conica e si avvita direttamente sull&apos;estremità filettata dell&apos;asse portaelica, andando a sostituire il tradizionale dado ogiva. In questo modo protegge dalla corrosione galvanica sia l&apos;asse che l&apos;elica, sacrificandosi a</Description>
+    <OriginalPrice>80.47</OriginalPrice>
+    <Price>61.90</Price>
+    <Code>4906020</Code>
+    <Link>https://www.onautica.com/products/anodo-ogiva-guidi-a-cono-con-innesto-filettato?variant=53908709572955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4906016.webp?v=1787923988</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4906016_1.webp?v=1787923992</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>anodo-ogiva-guidi-a-cono-con-innesto-filettato</ParentID>
   </Offer>
   <Offer>
     <Name>Anodo Ogiva Guidi a Cono con Innesto Filettato - Ø 35/40 mm</Name>
@@ -27392,6 +27409,24 @@
     <ParentID>adesivo-gommoni-sup-tender-bicomponente-per-pvc</ParentID>
   </Offer>
   <Offer>
+    <Name>Adesivo kit riparazione neoprene per gommoni tessuto resistente impermeabile - Bianco</Name>
+    <Brand>Adeco</Brand>
+    <Description>Kit riparazione completo con adesivo specifico per gommoni in neoprene, ideale per intervenire rapidamente su forature, tagli e piccole lacerazioni del tessuto. Perfetto come dotazione di bordo per chi pratica nautica e motonautica e desidera mantenere il</Description>
+    <OriginalPrice>50.85</OriginalPrice>
+    <Price>29.91</Price>
+    <Code>5722803</Code>
+    <Link>https://www.onautica.com/products/kit-riparazione-gommoni-neoprene-adeco-125ml?variant=52577382629723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Manutenzione;Colle e Sigillanti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_grigio.png?v=1773341610</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137170188</EanCode>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Adesivo_kit_riparazione_neoprene_per_gommoni_-_tessuto_neoprene_bianco.png?v=1773341610</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-riparazione-gommoni-neoprene-adeco-125ml</ParentID>
+  </Offer>
+  <Offer>
     <Name>Barbecue a Carbonella Portatile Feuerdesign Mayon e Teide in Acciaio Inox con Ventola - Mayon (Rotondo)</Name>
     <Brand>Feuerdesign</Brand>
     <Description>A chi è rivolto I barbecue a carbonella Feuerdesign sono grill portatili pensati per chi vuole la cottura a carbonella tradizionale senza fumo e senza attesa. Perfetti per l&apos;uso in barca, campeggio e terrazzo , si accendono in pochi minuti grazie alla ven</Description>
@@ -35509,7 +35544,7 @@
     <Price>12.12</Price>
     <Code>3500128</Code>
     <Link>https://www.onautica.com/products/lastrina-giunzione-angolare-hd-acciaio-inox-316?variant=52676577001819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/lastrina-giunzione-angolare-hd-acciaio-inox-316.webp?v=1774698802</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -43057,7 +43092,7 @@
     <ParentID>frigorifero-isotherm-cruise-total-black-indel-webasto</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR100 – 100 L (486×455×746 mm)</Name>
+    <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR100 – 100 L (486×455��746 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
     <OriginalPrice>1260.16</OriginalPrice>
@@ -45435,6 +45470,23 @@
     <ParentID>giranti-ricambio-motori-yanmar</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Entrobordo Yanmar (Serie GM / JH / LH) - 1814025</Name>
+    <Brand>Yanmar</Brand>
+    <Description>Gamma completa di giranti pompa acqua per il sistema di raffreddamento dei motori marini Yanmar . La selezione include sia ricambi compatibili MTM di alta qualità che ricambi Originali Yanmar (dove specificato). Queste giranti coprono la maggior parte dei</Description>
+    <OriginalPrice>16.30</OriginalPrice>
+    <Price>13.60</Price>
+    <Code>1814025</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-yanmar?variant=52513451999579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar.png?v=1767432198</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar1.png?v=1767432198</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-yanmar2.png?v=1767432198</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-yanmar</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Entrobordo Yanmar (Serie GM / JH / LH) - 1814054</Name>
     <Brand>Yanmar</Brand>
     <Description>Gamma completa di giranti pompa acqua per il sistema di raffreddamento dei motori marini Yanmar . La selezione include sia ricambi compatibili MTM di alta qualità che ricambi Originali Yanmar (dove specificato). Queste giranti coprono la maggior parte dei</Description>
@@ -45596,6 +45648,42 @@
     <ParentID>giranti-ricambio-motori-honda</ParentID>
   </Offer>
   <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814465</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>22.80</OriginalPrice>
+    <Price>18.96</Price>
+    <Code>1814465</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740065115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626052100</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814304</Name>
+    <Brand>Honda</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
+    <OriginalPrice>17.90</OriginalPrice>
+    <Price>14.90</Price>
+    <Code>1814304</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-honda?variant=52525740097883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda.png?v=1767377530</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051868</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda10.png?v=1767377530</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Honda (4 Tempi) - 1814466</Name>
     <Brand>Honda</Brand>
     <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Honda Marine . Realizzate per garantire la massima efficienza del sistema di raffreddamento e una lunga durata nel tempo. I ricambi sono specifici per motori a 4 Tempi (4T</Description>
@@ -45630,6 +45718,25 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-honda11.png?v=1767377530</Image3>
     <Condition>nuovo</Condition>
     <ParentID>giranti-ricambio-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814314</Name>
+    <Brand>Evinrude</Brand>
+    <Description>Gamma completa di giranti pompa acqua di ricambio compatibili con motori fuoribordo Johnson ed Evinrude . Progettate per resistere all&apos;usura e garantire il corretto raffreddamento del motore in ambiente marino. L&apos;assortimento copre una vasta gamma di mode</Description>
+    <OriginalPrice>18.00</OriginalPrice>
+    <Price>14.96</Price>
+    <Code>1814314</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-johnson-evinrude?variant=52513453015387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude.png?v=1767378377</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051950</EanCode>
+    <Weight>0.05</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude20.png?v=1767378377</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-johnson-evinrude21.png?v=1767378377</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
     <Name>Giranti di Ricambio per Motori Fuoribordo Johnson / Evinrude (2T / 4T) - 1814301</Name>
@@ -45983,6 +46090,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626051523</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>giranti-ricambio-motori-parsun</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Giranti di Ricambio per Motori Fuoribordo Parsun (4 Tempi) - 20/25 HP</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Gamma di giranti pompa acqua di ricambio compatibili specificamente con i motori fuoribordo Parsun . Componenti essenziali per il sistema di raffreddamento, progettati per garantire prestazioni ottimali e resistenza in ambiente marino. Questi ricambi copr</Description>
+    <OriginalPrice>19.10</OriginalPrice>
+    <Price>15.90</Price>
+    <Code>1814310</Code>
+    <Link>https://www.onautica.com/products/giranti-ricambio-motori-parsun?variant=52525718405467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun.png?v=1767379169</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626051929</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-selva10.png?v=1767379169</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giranti-pompa-acqua-motori-parsun1.png?v=1767379169</Image3>
     <Condition>nuovo</Condition>
@@ -57197,6 +57322,24 @@
     <ParentID>nicchia-portaoggetti-short-incasso</ParentID>
   </Offer>
   <Offer>
+    <Name>Nicchia Standard a Incasso in Plastica Bianca – Porta Estintore / Oggetti - Con Sportello</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Nicchia Standard è un classico accessorio a incasso in plastica bianca, indispensabile per organizzare gli spazi a bordo. Le sue dimensioni sono studiate appositamente per poter alloggiare un estintore da 1 Kg , rendendolo facilmente accessibile ma pro</Description>
+    <OriginalPrice>30.14</OriginalPrice>
+    <Price>21.53</Price>
+    <Code>4010025</Code>
+    <Link>https://www.onautica.com/products/nicchia-standard-incasso-bianca?variant=52513543258459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Tappi d Ispezione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-standard-incasso-bianca-con_portello.png?v=1773341708</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8055965094559</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-standard-incasso-bianca.png?v=1773341708</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/nicchia-standard-incasso-bianca_misura.png?v=1773341709</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>nicchia-standard-incasso-bianca</ParentID>
+  </Offer>
+  <Offer>
     <Name>Nicchia Standard a Incasso in Plastica Bianca – Porta Estintore / Oggetti - Aperta (Senza Sportello)</Name>
     <Brand>Motomarine</Brand>
     <Description>La Nicchia Standard è un classico accessorio a incasso in plastica bianca, indispensabile per organizzare gli spazi a bordo. Le sue dimensioni sono studiate appositamente per poter alloggiare un estintore da 1 Kg , rendendolo facilmente accessibile ma pro</Description>
@@ -57454,6 +57597,43 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5807913_a6d8ca28-aa92-4ea3-8c24-1f854403a1fa.webp?v=1787815087</Image3>
     <Condition>nuovo</Condition>
     <ParentID>orologio-oblo-foresti-e-suardi-in-ottone-e-legno-o-230-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pagaia Divisibile per Kayak 220 cm in Alluminio Anodizzato - Verde</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pagaia divisibile per kayak da 220 cm, con tubo in alluminio anodizzato e pale rinforzate in plastica. Si smonta in due metà: entra nel gavone, in uno zaino o nel bagagliaio dell&apos;auto e si rimonta in pochi secondi, senza attrezzi. A scelta verde o blu. A </Description>
+    <OriginalPrice>40.20</OriginalPrice>
+    <Price>33.48</Price>
+    <Code>0701226</Code>
+    <Link>https://www.onautica.com/products/pagaia-divisibile-per-kayak-220-cm-in-alluminio-anodizzato?variant=53861143314779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0701226.webp?v=1787383296</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626422989</EanCode>
+    <Weight>1.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0701226_1.webp?v=1787383294</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0701227.webp?v=1787383298</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pagaia-divisibile-per-kayak-220-cm-in-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pagaia Divisibile per Kayak 220 cm in Alluminio Anodizzato - Blu</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pagaia divisibile per kayak da 220 cm, con tubo in alluminio anodizzato e pale rinforzate in plastica. Si smonta in due metà: entra nel gavone, in uno zaino o nel bagagliaio dell&apos;auto e si rimonta in pochi secondi, senza attrezzi. A scelta verde o blu. A </Description>
+    <OriginalPrice>40.20</OriginalPrice>
+    <Price>33.48</Price>
+    <Code>0701227</Code>
+    <Link>https://www.onautica.com/products/pagaia-divisibile-per-kayak-220-cm-in-alluminio-anodizzato?variant=53861143347547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0701227.webp?v=1787383298</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0701226_1.webp?v=1787383294</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0701226.webp?v=1787383296</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pagaia-divisibile-per-kayak-220-cm-in-alluminio-anodizzato</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 550xH730 mm.</Name>
@@ -79084,6 +79264,23 @@
     <ParentID>pilette-dritte-ricambio-per-lavelli-o-25-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa a Pedale 9 lt/min – Pompa Manuale in Nylon Rinforzato per Lavelli di Bordo</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa pompa a pedale �� realizzata con materiali resistenti come gomma e nylon rinforzato, garantendo durata e affidabilità nell&apos;uso quotidiano. Progettata specificamente per i lavelli, assicura un flusso fino a 9 litri al minuto, facilitando le operazio</Description>
+    <OriginalPrice>42.04</OriginalPrice>
+    <Price>26.27</Price>
+    <Code>1830000</Code>
+    <Link>https://www.onautica.com/products/pompa-a-pedale-9-lt-min?variant=52577473134939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pompa_a_pedale_9_lt_min..png?v=1773341769</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626055767</EanCode>
+    <Weight>0.31</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-a-pedale-9-lt-min</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa a pedale BI-FOOT 16 lt/min - bocche Ø 14 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>La pompa a pedale BI-FOOT è la soluzione ideale per l&apos;alimentazione dei lavelli di bordo. Con doppia azione, garantisce un flusso continuo e costante sia nella fase di discesa che di risalita del pedale, senza interruzioni. Portata: 16 lt/min Diametro boc</Description>
@@ -84674,6 +84871,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image3>
     <Condition>nuovo</Condition>
     <ParentID>sacca-porta-salvagente-anulare-bianca-680mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sacca Porta Salvagente Anulare Blu Navy in PVC (Ø 680 mm)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La Sacca Porta Salvagente Anulare Blu Navy (Cod. 3008192) è un accessorio fondamentale per mantenere in perfetto ordine le dotazioni di sicurezza a bordo, proteggendole al contempo dall&apos;usura, dalla salsedine e dai raggi UV. Realizzata con un robusto tess</Description>
+    <OriginalPrice>59.70</OriginalPrice>
+    <Price>35.12</Price>
+    <Code>3008192</Code>
+    <Link>https://www.onautica.com/products/sacca-porta-salvagente-anulare-blu-navy-680mm?variant=52577463304539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-blu-navy-680mm.webp?v=1774635336</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmdietro.webp?v=1774634669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-porta-salvagente-anulare-bianca-680mmaperto.webp?v=1774634669</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sacca-porta-salvagente-anulare-blu-navy-680mm</ParentID>
   </Offer>
   <Offer>
     <Name>Sacca Portaoggetti Navishell Small (30cm) – Acrilico con Ventose - Sacca Portacime Navishell S Blu</Name>
@@ -107945,6 +108160,25 @@
     <ParentID>tavolo-pieghevole-marine-business-in-teak-80x60cm</ParentID>
   </Offer>
   <Offer>
+    <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size S</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
+    <OriginalPrice>22.03</OriginalPrice>
+    <Price>15.73</Price>
+    <Code>3270202</Code>
+    <Link>https://www.onautica.com/products/telo-copri-consolle-silver-shield-420d?variant=52513573110107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm..webp?v=1788283939</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626216038</EanCode>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_S_copri_consolle_Shield_Silver_90x65x75x85_cm._9.webp?v=1788283941</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Telo_XL_copri_consolle_shield_silver_140x100x90x90_cm._8.webp?v=1788283944</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copri-consolle-silver-shield-420d</ParentID>
+  </Offer>
+  <Offer>
     <Name>Telo Copri Consolle Silver Shieldconsolle 420D - size L</Name>
     <Brand>Motomarine</Brand>
     <Description>Questa serie di teli copri consolle offre una protezione di ottima qualità per la plancia di comando della tua imbarcazione. Sono progettati per proteggere strumenti, elettronica e volante dall&apos;esposizione agli agenti atmosferici e al sole. Caratteristich</Description>
@@ -111024,6 +111258,23 @@
     <Weight>0.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>base-antenna-morsetto-abs-1un-25mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Base Antenna Regolabile a Pomello in Nylon Rinforzato</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa base è un componente versatile per l&apos;installazione delle antenne di bordo, ideale per chi necessita di poter regolare l&apos;inclinazione o l&apos;angolo di montaggio con facilità. Caratteristiche Principali: Materiale: Realizzata in Nylon Rinforzato , garan</Description>
+    <OriginalPrice>14.36</OriginalPrice>
+    <Price>10.63</Price>
+    <Code>5636500</Code>
+    <Link>https://www.onautica.com/products/base-regolabile-pomello-nylon-47x75?variant=52577501380955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/BASEREGOLABILEAPOMELLOINNYLONRINFORZATO.png?v=1773341861</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137003912</EanCode>
+    <Weight>0.23</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>base-regolabile-pomello-nylon-47x75</ParentID>
   </Offer>
   <Offer>
     <Name>Bozzello Plastinox Viadana 2 Pulegge a Violino con Strozzascotte e Arricavo - 10×45 (Ø cima 10 mm, puleggia 45 mm)</Name>
