@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-07T06:33:33.152Z -->
-<!-- Offerte: 5570 -->
+<!-- Generato: 2026-09-07T10:31:18.111Z -->
+<!-- Offerte: 5521 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -2098,22 +2098,6 @@
     <ParentID>ricambi-tecma-per-toilette-serie-compact</ParentID>
   </Offer>
   <Offer>
-    <Name>Rulli alaggio L1260xØ260 mm. portata 1500 kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo rullo di alaggio gonfiabile è progettato per semplificare le operazioni di varo e sollevamento di imbarcazioni, specialmente quelle con scafi pesanti. Caratteristiche Principali: Materiale: Realizzato in **PVC** di **forte spessore**. Portata: Estr</Description>
-    <OriginalPrice>77.80</OriginalPrice>
-    <Price>67.06</Price>
-    <Code>2920126</Code>
-    <Link>https://www.onautica.com/products/rullo-alaggio-gonfiabile-extra-pvc-1500kg?variant=52577484472667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rullo_di_Alaggio_Gonfiabile_EXTRA_PVC_-_1500_kg.png?v=1773341804</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Rulli_alaggio_L_1200_x_250_mm._portata_400_kg_STD_4.png?v=1773341971</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>rullo-alaggio-gonfiabile-extra-pvc-1500kg</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ruote Alaggio di Poppa Sagomate Motomarine in Acciaio Inox - 150 Kg</Name>
     <Brand>Motomarine</Brand>
     <Description>Le ruote alaggio di poppa Motomarine sono pensate per facilitare lo spostamento del gommone o del natante su spiaggia, senza l&apos;uso di un carrello. Sono pneumatiche e montano supporti sagomati in acciaio inox, che si fissano a poppa dello scafo. Il modello</Description>
@@ -2834,8 +2818,8 @@
     <Name>Verricello elettrico per alaggio Kg. 1360 12V con cavo</Name>
     <Brand>Motomarine</Brand>
     <Description>Verricello elettrico per alaggio imbarcazioni e applicazione su fuoristrada. Alaggio e varo si effettuano elettricamente con pulsantiera cablata. Motore 12V a magneti permanenti da 0,9 kW con frizione per il rilascio manuale e sistema automatico di frenat</Description>
-    <OriginalPrice>291.06</OriginalPrice>
-    <Price>275.90</Price>
+    <OriginalPrice>275.90</OriginalPrice>
+    <Price>241.90</Price>
     <Code>2820506</Code>
     <Link>https://www.onautica.com/products/offerta-verricello-elettrico-per-alaggio-kg-1360-12v-con-cavo?variant=52577466057051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -2850,8 +2834,8 @@
     <Name>Verricello elettrico per alaggio kg. 1810 12V con cavo</Name>
     <Brand>Motomarine</Brand>
     <Description>Verricello elettrico per alaggio imbarcazioni e applicazione su fuoristrada. Alaggio e varo si effettuano elettricamente con pulsantiera cablata. Motore 12V a magneti permanenti da 1,3 kW con frizione per il rilascio manuale e sistema automatico di frenat</Description>
-    <OriginalPrice>354.53</OriginalPrice>
-    <Price>334.90</Price>
+    <OriginalPrice>334.90</OriginalPrice>
+    <Price>279.90</Price>
     <Code>2820508</Code>
     <Link>https://www.onautica.com/products/offerta-verricello-elettrico-per-alaggio-kg-1810-12v-con-cavo?variant=52577466122587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3045,8 +3029,8 @@
     <Name>Ancora Acciaio Zincato Rocna Original - 10 Kg.</Name>
     <Brand>Rocna</Brand>
     <Description>Ancora Rocna Original: Tenuta Rock Solid su Ogni Fondale La Rocna Original è l&apos;ancora di nuova generazione progettata dal navigatore neozelandese Peter Smith, che ha voluto creare un&apos;ancora su cui poter contare per una affidabilità e sicurezza assolute in</Description>
-    <OriginalPrice>415.69</OriginalPrice>
-    <Price>372.90</Price>
+    <OriginalPrice>372.90</OriginalPrice>
+    <Price>324.90</Price>
     <Code>ROCORG010GS</Code>
     <Link>https://www.onautica.com/products/ancora-acciaio-zincato-rocna-original?variant=52513472348507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3063,8 +3047,8 @@
     <Name>Ancora Acciaio Zincato Rocna Original - 15 Kg.</Name>
     <Brand>Rocna</Brand>
     <Description>Ancora Rocna Original: Tenuta Rock Solid su Ogni Fondale La Rocna Original è l&apos;ancora di nuova generazione progettata dal navigatore neozelandese Peter Smith, che ha voluto creare un&apos;ancora su cui poter contare per una affidabilità e sicurezza assolute in</Description>
-    <OriginalPrice>529.97</OriginalPrice>
-    <Price>449.90</Price>
+    <OriginalPrice>449.90</OriginalPrice>
+    <Price>392.90</Price>
     <Code>0101015</Code>
     <Link>https://www.onautica.com/products/ancora-acciaio-zincato-rocna-original?variant=52577377157467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3081,7 +3065,8 @@
     <Name>Ancora Acciaio Zincato Rocna Original - 20 Kg.</Name>
     <Brand>Rocna</Brand>
     <Description>Ancora Rocna Original: Tenuta Rock Solid su Ogni Fondale La Rocna Original è l&apos;ancora di nuova generazione progettata dal navigatore neozelandese Peter Smith, che ha voluto creare un&apos;ancora su cui poter contare per una affidabilità e sicurezza assolute in</Description>
-    <Price>549.96</Price>
+    <OriginalPrice>549.96</OriginalPrice>
+    <Price>407.90</Price>
     <Code>0101020</Code>
     <Link>https://www.onautica.com/products/ancora-acciaio-zincato-rocna-original?variant=52577377190235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -6168,21 +6153,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/anodo_5110221_2_3240.webp?v=1783706754</Image3>
     <Condition>nuovo</Condition>
     <ParentID>anodo-di-poppa-a-flangia-tonda-alta-o-135-mm-in-zinco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Anodo flap 2 con foro 2 Kg. - 180 mm.</Name>
-    <Brand>Martyr</Brand>
-    <Description>Anodo flap 2 con foro 2 Kg. - 180 mm. L&apos;anodo flap 2 con foro da 2 Kg. e diametro 180 mm. è un anodo sacrificale pensato per la protezione dalla corrosione galvanica dei flap di carena delle imbarcazioni. A chi è rivolto Ideale per armatori e diportisti c</Description>
-    <Price>85.40</Price>
-    <Code>5110106</Code>
-    <Link>https://www.onautica.com/products/anodo-flap-2-con-foro-2-kg-180-mm-1?variant=52577415430491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Anodi Flap e Timoni</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Anodo_flap_2_con_foro_2_Kg._-_180_mm..png?v=1773341619</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.04</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>anodo-flap-2-con-foro-2-kg-180-mm-1</ParentID>
   </Offer>
   <Offer>
     <Name>Anodo Ogiva Guidi a Cono con Innesto Filettato - Ø 30 mm</Name>
@@ -10812,25 +10782,6 @@
     <ParentID>antivegetativa-hm-classic-153-matrice-dura</ParentID>
   </Offer>
   <Offer>
-    <Name>Antivegetativa HM Premium 365 Matrice Dura – Barche Veloci (&gt;25 Nodi) - Bianca / 2,5 lt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>L&apos; Antivegetativa HM Premium 365 è la scelta professionale per chi possiede imbarcazioni a motore o a vela che superano i 25 nodi di velocità. Grazie alla sua formula a matrice dura , crea una superficie estremamente liscia e resistente che non si sfalda </Description>
-    <OriginalPrice>119.50</OriginalPrice>
-    <Price>91.70</Price>
-    <Code>10906</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-hm-premium-365-matrice-dura?variant=51855507390811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura_2.5.png?v=1773341467</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137063107</EanCode>
-    <Weight>4.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-hm-premium-365-matrice-dura.png?v=1773341984</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/linea-antivegetativa-osculati.png?v=1773341989</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-hm-premium-365-matrice-dura</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antivegetativa HM Premium 365 Matrice Dura – Barche Veloci (&gt;25 Nodi) - Blu / 2,5 lt.</Name>
     <Brand>Osculati</Brand>
     <Description>L&apos; Antivegetativa HM Premium 365 è la scelta professionale per chi possiede imbarcazioni a motore o a vela che superano i 25 nodi di velocità. Grazie alla sua formula a matrice dura , crea una superficie estremamente liscia e resistente che non si sfalda </Description>
@@ -11215,8 +11166,8 @@
     <Name>Binocolo Professionale Nikon Action EX 7x50 CF - Impermeabile e Anti-appannamento - 7x50</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Nikon Action EX 7x50 CF è un binocolo professionale progettato per offrire prestazioni superiori nelle condizioni marine più impegnative. Grazie alla combinazione di robustezza strutturale e un sistema ottico all&apos;avanguardia, questo strumento è il comp</Description>
-    <OriginalPrice>241.00</OriginalPrice>
-    <Price>233.90</Price>
+    <OriginalPrice>233.90</OriginalPrice>
+    <Price>208.90</Price>
     <Code>2530976</Code>
     <Link>https://www.onautica.com/products/binocolo-nautico-nikon-action-ex-7x50-cf?variant=52577456423259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -11502,30 +11453,11 @@
     <ParentID>bussola-da-rilevamento-riviera-a-prisma</ParentID>
   </Offer>
   <Offer>
-    <Name>Bussola Magnetica Riviera Urania BU1 a Incasso (4&quot;) – Per Barche 10-35 mt. - Rosa 5°</Name>
-    <Brand>Riviera</Brand>
-    <Description>La Bussola Riviera Urania BU1 è uno strumento professionale progettato per l&apos;installazione a incasso su imbarcazioni di dimensioni comprese tra i 10 e i 35 metri . Grazie alla sua robustezza e precisione, è approvata per l&apos;uso su imbarcazioni da diporto e</Description>
-    <OriginalPrice>207.00</OriginalPrice>
-    <Price>177.36</Price>
-    <Code>2504200</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-urania-bu1-incasso?variant=52513491091803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu1-incasso.png?v=1773341964</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626077059</EanCode>
-    <Weight>1.66</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bussola-riviera-urania-bu1-incasso_misura.png?v=1773341965</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/logo_Riviera.png?v=1773341967</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-urania-bu1-incasso</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bussola Magnetica Riviera Urania BU1 a Incasso (4&quot;) – Per Barche 10-35 mt. - Rosa 2° Con collaudo R.I.Na.</Name>
     <Brand>Riviera</Brand>
     <Description>La Bussola Riviera Urania BU1 è uno strumento professionale progettato per l&apos;installazione a incasso su imbarcazioni di dimensioni comprese tra i 10 e i 35 metri . Grazie alla sua robustezza e precisione, è approvata per l&apos;uso su imbarcazioni da diporto e</Description>
-    <OriginalPrice>474.50</OriginalPrice>
-    <Price>368.90</Price>
+    <OriginalPrice>350.90</OriginalPrice>
+    <Price>340.90</Price>
     <Code>25.027.01</Code>
     <Link>https://www.onautica.com/products/bussola-riviera-urania-bu1-incasso?variant=52520256340315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13268,8 +13200,8 @@
     <Name>Bussola Magnetica Riviera Urania BU2 a Chiesuola (4&quot;) – Per Barche 10-35 mt. - Rosa 2° con Collaudo R.I.Na.</Name>
     <Brand>Riviera</Brand>
     <Description>La Bussola Riviera Urania BU2 è uno strumento professionale a chiesuola progettato per imbarcazioni di dimensioni importanti, dai 10 ai 35 metri . La sua costruzione robusta e affidabile la rende idonea sia per imbarcazioni da diporto che da lavoro (appro</Description>
-    <OriginalPrice>441.10</OriginalPrice>
-    <Price>393.90</Price>
+    <OriginalPrice>374.90</OriginalPrice>
+    <Price>363.90</Price>
     <Code>2503914</Code>
     <Link>https://www.onautica.com/products/bussola-riviera-urania-bu2-chiesuola?variant=52520304607579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13443,8 +13375,7 @@
     <Name>Caricabatterie SBC 250 NRG+ low power 12V max 25 A 3 uscite</Name>
     <Brand>Motomarine</Brand>
     <Description>Caricabatterie SBC NRG+ Low Power ad alta efficienza con carica a tre stadi IUoU. Con separatore di carica interno a mosfet e carica differenziata per batterie aperte, sigillate, GEL oppure AGM. Capacità di erogare piena potenza con bassa tensione di alim</Description>
-    <OriginalPrice>305.03</OriginalPrice>
-    <Price>271.90</Price>
+    <Price>265.90</Price>
     <Code>2011220</Code>
     <Link>https://www.onautica.com/products/caricabatterie-sbc-250-nrg-low-power-12v-max-25-a-3-uscite?variant=52577545617755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13461,7 +13392,8 @@
     <Name>Caricabatterie SBC 300 NRG+ low power 12V max 30 A 3 uscite</Name>
     <Brand>Motomarine</Brand>
     <Description>Caricabatterie SBC NRG+ Low Power ad alta efficienza con carica a tre stadi IUoU. Con separatore di carica interno a mosfet e carica differenziata per batterie aperte, sigillate, GEL oppure AGM. Capacità di erogare piena potenza con bassa tensione di alim</Description>
-    <Price>318.38</Price>
+    <OriginalPrice>318.38</OriginalPrice>
+    <Price>277.90</Price>
     <Code>2011230</Code>
     <Link>https://www.onautica.com/products/caricabatterie-sbc-300-nrg-low-power-12v-max-30-a-3-uscite?variant=52577528185179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -13478,8 +13410,8 @@
     <Name>Caricabatterie SBC 500 NRG+ low power 12V max 40A 3 uscite</Name>
     <Brand>Motomarine</Brand>
     <Description>Caricabatterie SBC NRG+ Low Power ad alta efficienza con carica a tre stadi IUoU. Con separatore di carica interno a mosfet e carica differenziata per batterie aperte, sigillate, GEL oppure AGM. Capacità di erogare piena potenza con bassa tensione di alim</Description>
-    <OriginalPrice>473.90</OriginalPrice>
-    <Price>422.90</Price>
+    <OriginalPrice>401.90</OriginalPrice>
+    <Price>400.90</Price>
     <Code>2011440</Code>
     <Link>https://www.onautica.com/products/offerta-caricabatterie-sbc-500-nrg-medium-power?variant=52577516061019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -14472,7 +14404,8 @@
     <Name>Catena Calibrata Zincata a Fuoco 8 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 25 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Catena Calibrata Zincata a Fuoco 8 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 8 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
-    <Price>139.80</Price>
+    <OriginalPrice>139.80</OriginalPrice>
+    <Price>110.90</Price>
     <Code>01.373.08-025</Code>
     <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-8mm-salpa-ancora-windlass?variant=52893089104219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -14490,8 +14423,8 @@
     <Name>Catena Calibrata Zincata a Fuoco 8 mm per Salpa Ancora – OK for Windlass, 4 Lunghezze Disponibili - 50 mt.</Name>
     <Brand>Osculati</Brand>
     <Description>Catena Calibrata Zincata a Fuoco 8 mm – Adatta per Salpa Ancora e Verricelli, Marchiata OSC ogni Metro La catena calibrata zincata a fuoco da 8 mm è la soluzione professionale per l&apos; ancoraggio di imbarcazioni da diporto con salpa ancora e verricello . Ce</Description>
-    <OriginalPrice>260.83</OriginalPrice>
-    <Price>239.90</Price>
+    <OriginalPrice>239.90</OriginalPrice>
+    <Price>206.90</Price>
     <Code>01.373.08-050</Code>
     <Link>https://www.onautica.com/products/catena-calibrata-zincata-fuoco-8mm-salpa-ancora-windlass?variant=52893089202523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -16396,25 +16329,6 @@
     <Weight>14.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cima-e-catena-quick-slim-splice-system</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – 6 Misure Disponibili - Ø 24 mm x 15 mt.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Cima Ormeggio Doppia Treccia Impiombata con Redancia Blu – Poliestere Alta Tenacità con Impiombatura Fatta a Mano La cima da ormeggio in doppia treccia blu impiombata con redancia inox è la scelta professionale per chi cerca massima affidabilità, resisten</Description>
-    <OriginalPrice>123.00</OriginalPrice>
-    <Price>113.90</Price>
-    <Code>06.443.85</Code>
-    <Link>https://www.onautica.com/products/cima-ormeggio-doppia-treccia-impiombata-redancia-blu?variant=52897973076315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure.webp?v=1777538552</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137030321</EanCode>
-    <Weight>6.07</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-blu-6-misure_occhio.webp?v=1777538551</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cima-ormeggio-doppia-treccia-impiombata-redancia-bianca-6-misureconfezione.webp?v=1777538025</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-ormeggio-doppia-treccia-impiombata-redancia-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Cinghia da Ormeggio Antiabrasione Douglas - 125 cm</Name>
@@ -21169,23 +21083,6 @@
     <ParentID>pannello-elettrico-elite-6-interruttori-riarmabili-ip56</ParentID>
   </Offer>
   <Offer>
-    <Name>Pannello Elettrico Ghost 12V con Interruttori Impermeabili - Ghost 6 Posizioni</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Pannello Elettrico Ghost a 12V è la centrale di comando ideale per gestire in totale sicurezza le utenze a bordo della tua imbarcazione. Realizzato con una robusta piastra in alluminio anodizzato nero , offre un design elegante e pulito, garantendo al </Description>
-    <OriginalPrice>75.60</OriginalPrice>
-    <Price>72.33</Price>
-    <Code>2101639</Code>
-    <Link>https://www.onautica.com/products/pannello-elettrico-ghost-12v-interruttori-impermeabili?variant=52513459077467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Quadri e Staccabatterie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-ghost-12v-interruttori-impermeabili_6.png?v=1773341734</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626061249</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannello-elettrico-ghost-12v-interruttori-impermeabili_3.png?v=1773341734</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-elettrico-ghost-12v-interruttori-impermeabili</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pannello Elettrico Motomarine con Interruttori Microswitch - 4 posizioni - 150x90 mm</Name>
     <Brand>Motomarine</Brand>
     <Description>Il pannello elettrico con interruttori microswitch raggruppa in un unico quadro i comandi delle utenze di bordo. Ogni interruttore è di tipo microswitch, azionabile con una leggera pressione, e il pannello si installa sulla plancia o sul cruscotto dell&apos;im</Description>
@@ -22194,7 +22091,7 @@
     <ParentID>treccia-da-ormeggio-in-poliestere-monteisola-bobina</ParentID>
   </Offer>
   <Offer>
-    <Name>Treccia da Ormeggio in Poliestere Monteisola – Bobina - Ø 16 mm – bobina 150 m (rottura 2.500 kg)</Name>
+    <Name>Treccia da Ormeggio in Poliestere Monteisola – Bobina - �� 16 mm – bobina 150 m (rottura 2.500 kg)</Name>
     <Brand>Monteisola</Brand>
     <Description>Treccia in poliestere bianca con segnalino colorato, a 16/24 fusi: media tenacità, affondante, adatta agli usi di bordo in genere e specialmente a ormeggio e ancoraggio. La costruzione a treccia è morbida in mano e scorre bene su bitte e passacavi. In bob</Description>
     <OriginalPrice>261.94</OriginalPrice>
@@ -29604,7 +29501,7 @@
     <ParentID>tubo-acciaio-inox-316-al-metro</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo Termoisolante Flessibile per Climatizzazione Ø 80 mm — Rotolo da 10 m - Ø 80 mm — 10 m</Name>
+    <Name>Tubo Termoisolante Flessibile per Climatizzazione Ø 80 mm — Rotolo da 10 m - Ø 80 mm �� 10 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo flessibile termoisolante è pensato per impianti di condizionamento e ventilazione meccanica, a semplice o doppio flusso. La struttura con spirale interna in acciaio armonico garantisce flessibilità e tenuta, mentre il rivestimento isolante rid</Description>
     <OriginalPrice>277.00</OriginalPrice>
@@ -31190,7 +31087,8 @@
     <Name>Filtro acqua di mare 1&quot; RGL 1162 ottone conforme R.I.N.A. - 1&quot;</Name>
     <Brand>Motomarine</Brand>
     <Description>Filtro per acqua di mare realizzato in ottone e acciaio inox , omologato RINA per l&apos;impiego a bordo di imbarcazioni da diporto e professionali. Progettato per garantire una grande portata , è ideale per la protezione di pompe e circuiti di raffreddamento </Description>
-    <Price>232.10</Price>
+    <OriginalPrice>232.10</OriginalPrice>
+    <Price>203.90</Price>
     <Code>4131618</Code>
     <Link>https://www.onautica.com/products/filtro-acqua-di-mare-1-rgl-1162-ottone-conforme-r-i-n-a?variant=52577435255131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -31237,13 +31135,14 @@
     <Name>Filtro acqua di mare 1&quot; RGM ottone conforme R.I.N.A. - 1&quot;</Name>
     <Brand>Motomarine</Brand>
     <Description>Filtro per acqua di mare in ottone e acciaio inox , omologato R.I.N.A. , ideale per applicazioni a media portata come pompe e sistemi di raffreddamento motori. Materiali: ottone e acciaio inox Omologazione: R.I.N.A. Uscita: Ø 1&quot; Dimensioni: H 140 mm × Ø 1</Description>
-    <Price>204.59</Price>
+    <OriginalPrice>204.59</OriginalPrice>
+    <Price>171.90</Price>
     <Code>4131641</Code>
     <Link>https://www.onautica.com/products/filtro-acqua-di-mare-1-rgm-ottone-conforme-r-i-n-a?variant=52577436533083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Filtri</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_acqua_di_mare_1_RGM_ottone_conforme_R.I.N.A..png?v=1773341656</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>0001164220006</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>filtro-acqua-di-mare-1-rgm-ottone-conforme-r-i-n-a</ParentID>
@@ -32319,8 +32218,8 @@
     <Name>Frigorifero Nautico 50L 12/24V – Pannello Clean Touch Anti-impronta</Name>
     <Brand>Osculati</Brand>
     <Description>Il Frigorifero Frigo° da 50 Litri combina prestazioni di raffreddamento eccellenti con un design moderno e funzionale, studiato specificamente per l&apos;ambiente nautico e i veicoli ricreazionali. La caratteristica distintiva di questa serie è il pannello fro</Description>
-    <OriginalPrice>489.50</OriginalPrice>
-    <Price>457.97</Price>
+    <OriginalPrice>457.97</OriginalPrice>
+    <Price>369.90</Price>
     <Code>50.960.00</Code>
     <Link>https://www.onautica.com/products/frigorifero-nautico-50l-clean-touch?variant=52577545486683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -32376,7 +32275,8 @@
     <Name>Frigorifero Portatile a Compressore Travel Box ITB 32 (32 Litri)</Name>
     <Brand>Osculati</Brand>
     <Description>Il Frigorifero Portatile a Compressore Travel Box ITB 32 offre la massima praticità per la conservazione in viaggio. Con una capacità compatta di 32 litri , è la soluzione ideale per chi cerca prestazioni elevate e affidabilità a bordo della propria imbar</Description>
-    <Price>270.60</Price>
+    <OriginalPrice>270.60</OriginalPrice>
+    <Price>234.90</Price>
     <Code>50.834.32</Code>
     <Link>https://www.onautica.com/products/frigorifero-portatile-compressore-travel-box-itb-32?variant=52646437519707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -33647,7 +33547,8 @@
     <Name>Ghiacciaia Igloo BMX 52 rinforzato 49 lt.</Name>
     <Brand>Igloo</Brand>
     <Description>La ghiacciaia Igloo BMX 52 ha una capacità di 49 lt. Questa ghiacciaia è il nuovo modello rinforzato da barca della Igloo, leader mondiale dal 1947 nella produzione di ghiacciaie nautiche e da campeggio. Costruzione resistente in plastica soffiata ad alta</Description>
-    <Price>229.87</Price>
+    <OriginalPrice>229.87</OriginalPrice>
+    <Price>208.90</Price>
     <Code>50.558.41</Code>
     <Link>https://www.onautica.com/products/offerta-ghiacciaia-igloo-bmx-52-49lt-blu-5-giorni?variant=52577458913627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -36700,14 +36601,14 @@
     <Name>Faro Orientabile Ocean Halogen 11-RC 12/24V con Pannello di Controllo – Doppia Luce - 12 Volt</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Faro Ocean Halogen 11-RC è una soluzione professionale per l&apos;illuminazione di profondità marina, progettata per garantire visibilità e resistenza in condizioni difficili. Dotato di una cassa in polimero antiurto resistente ai raggi UV e alla corrosione</Description>
-    <OriginalPrice>219.50</OriginalPrice>
-    <Price>191.38</Price>
+    <OriginalPrice>191.38</OriginalPrice>
+    <Price>164.90</Price>
     <Code>2123012</Code>
     <Link>https://www.onautica.com/products/faro-orientabile-ocean-halogen-11-rc-12-24v?variant=52513463763291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-ocean-halogen-11-rc-pannello-controllo.png?v=1773341722</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>8051588000175</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-ocean-halogen-11-rc-pannello-controllo_faro.png?v=1773341723</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-ocean-halogen-11-rc-pannello-controllo_pannello.png?v=1773341723</Image3>
@@ -36718,14 +36619,14 @@
     <Name>Faro Orientabile Ocean Halogen 11-RC 12/24V con Pannello di Controllo – Doppia Luce - 24 Volt</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Faro Ocean Halogen 11-RC è una soluzione professionale per l&apos;illuminazione di profondità marina, progettata per garantire visibilità e resistenza in condizioni difficili. Dotato di una cassa in polimero antiurto resistente ai raggi UV e alla corrosione</Description>
-    <OriginalPrice>215.35</OriginalPrice>
-    <Price>194.90</Price>
+    <OriginalPrice>194.90</OriginalPrice>
+    <Price>169.90</Price>
     <Code>2123024</Code>
     <Link>https://www.onautica.com/products/faro-orientabile-ocean-halogen-11-rc-12-24v?variant=52525779616091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-ocean-halogen-11-rc-pannello-controllo.png?v=1773341722</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>8051588004487</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-ocean-halogen-11-rc-pannello-controllo_faro.png?v=1773341723</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-orientabile-ocean-halogen-11-rc-pannello-controllo_pannello.png?v=1773341723</Image3>
@@ -37601,7 +37502,8 @@
     <Name>Gonfiatore Elettrico Bravo Turbo Max 12V – Pompa Gonfia e Sgonfia per Gommoni</Name>
     <Brand>Bravo</Brand>
     <Description>Il Gonfiatore elettrico Bravo Turbo Max è uno strumento avanzato progettato per offrire prestazioni elevate nel gonfiaggio e nello sgonfiaggio di gommoni e altri gonfiabili. Grazie alla sua doppia funzione di gonfia e sgonfia, garantisce una versatilità o</Description>
-    <Price>282.61</Price>
+    <OriginalPrice>282.61</OriginalPrice>
+    <Price>247.90</Price>
     <Code>66.447.00</Code>
     <Link>https://www.onautica.com/products/gonfiatore-bravo-turbo-max-12v?variant=52577528447323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -38842,37 +38744,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814032_1_47ec672d-847c-428a-bef6-bc9abea5a9b7.webp?v=1787385169</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-raffreddamento-ancor-st147-in-bronzo-3-4</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Salvagente Autogonfiabile Premium 300N EN ISO 12402-2 con Sistema Idrostatico HAMMAR e Imbracatura ISO 12401</Name>
-    <Brand>Viridex</Brand>
-    <Description>Salvagente Autogonfiabile Premium 300N – Omologato EN ISO 12402-2 con Sistema Idrostatico HAMMAR e Imbracatura ISO 12401 Il salvagente autogonfiabile Premium 300N rappresenta il vertice della sicurezza nautica, un Dispositivo di Protezione Individuale (DP</Description>
-    <OriginalPrice>219.50</OriginalPrice>
-    <Price>173.44</Price>
-    <Code>22.393.00</Code>
-    <Link>https://www.onautica.com/products/salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar?variant=52590347977051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar-imbracatura.webp?v=1776355325</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.44</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-autogonfiabile-premium-300n-iso-12402-2-hammar</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Salvagente Autogonfiabile Professionale 180N EN ISO 12402-3 con Imbracatura ISO 12401 e Finestra di Ispezione</Name>
-    <Brand>Viridex</Brand>
-    <Description>Salvagente Autogonfiabile Professionale 180N – Omologato EN ISO 12402-3 con Imbracatura ISO 12401 e Finestra di Ispezione Il salvagente autogonfiabile professionale 180N è un Dispositivo di Protezione Individuale (DPI) per adulti, studiato per garantire a</Description>
-    <Price>155.37</Price>
-    <Code>22.397.00</Code>
-    <Link>https://www.onautica.com/products/salvagente-autogonfiabile-professionale-180n-iso-12402-3-imbracatura?variant=52590384939355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Autogonfiabili</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/salvagente-autogonfiabile-professionale-180n-iso-12402-3-imbracatura-ispezione.webp?v=1776349838</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.53</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>salvagente-autogonfiabile-professionale-180n-iso-12402-3-imbracatura</ParentID>
   </Offer>
   <Offer>
     <Name>Tappeto Galleggiante Manta Jobe Autogonfiabile - 150 x 150 cm</Name>
@@ -40254,22 +40125,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>manicotti-ricambio-per-scambiatori-di-calore-bowman-bowman</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Marmitta in plastica LP50 raccordo ingresso girevole</Name>
-    <Brand>Vetus</Brand>
-    <Description>Marmitta in plastica LP50 raccordo ingresso girevole Caratteristiche principali Costruita in plastica resistente alla corrosione marina e al calore dei gas di scarico Raccordo di ingresso girevole per una connessione flessibile e orientabile alle esigenze</Description>
-    <OriginalPrice>237.41</OriginalPrice>
-    <Price>195.90</Price>
-    <Code>WLOCKL50R</Code>
-    <Link>https://www.onautica.com/products/marmitta-in-plastica-lp50-raccordo-ingresso-girevole?variant=49393244209499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Marmitta_in_plastica_LP50_raccordo_ingresso_girevole.jpg?v=1762783010</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8717372225062</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>marmitta-in-plastica-lp50-raccordo-ingresso-girevole</ParentID>
   </Offer>
   <Offer>
     <Name>Mezzomarinaio Telescopico Easysea Jake in Alluminio - 107-193 cm</Name>
@@ -41699,14 +41554,14 @@
     <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 300 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
-    <OriginalPrice>218.00</OriginalPrice>
-    <Price>192.53</Price>
+    <OriginalPrice>192.53</OriginalPrice>
+    <Price>154.90</Price>
     <Code>0700030</Code>
     <Link>https://www.onautica.com/products/remi-lahna-seagrade-ergonomici-qualita-superiore?variant=52513556496731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade.png?v=1773341948</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626024305</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_b.png?v=1773341948</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_c.png?v=1773341949</Image3>
@@ -42415,8 +42270,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 60x70 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>47.00</OriginalPrice>
-    <Price>40.20</Price>
+    <OriginalPrice>40.20</OriginalPrice>
+    <Price>30.90</Price>
     <Code>140356010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986018651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42431,8 +42286,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 80x90 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>62.60</OriginalPrice>
-    <Price>53.55</Price>
+    <OriginalPrice>53.55</OriginalPrice>
+    <Price>41.90</Price>
     <Code>140358010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986084187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42447,8 +42302,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 90x100 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>66.70</OriginalPrice>
-    <Price>57.03</Price>
+    <OriginalPrice>57.03</OriginalPrice>
+    <Price>43.90</Price>
     <Code>140359010</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52513579499867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42463,8 +42318,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 102x115 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>73.10</OriginalPrice>
-    <Price>62.53</Price>
+    <OriginalPrice>62.53</OriginalPrice>
+    <Price>48.90</Price>
     <Code>140360005</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986116955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42479,8 +42334,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 110x122 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>82.40</OriginalPrice>
-    <Price>70.43</Price>
+    <OriginalPrice>70.43</OriginalPrice>
+    <Price>54.90</Price>
     <Code>140361005</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986149723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42495,8 +42350,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 127x139 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>97.40</OriginalPrice>
-    <Price>83.32</Price>
+    <OriginalPrice>83.32</OriginalPrice>
+    <Price>64.90</Price>
     <Code>140361210</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986182491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42511,8 +42366,8 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 152x164 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>114.50</OriginalPrice>
-    <Price>101.64</Price>
+    <OriginalPrice>101.64</OriginalPrice>
+    <Price>78.90</Price>
     <Code>140351505</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986215259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42950,8 +42805,8 @@
     <Name>Orologio GARMIN Quatix® 7 Standard Edition</Name>
     <Brand>Garmin</Brand>
     <Description>Vivi il Mare in Pieno Stile: Il Tuo GPS Nautico e Multisport da Polso Il nuovo smartwatch GPS quatix® 7 è l&apos;orologio dedicato alla nautica con profili multisport, che concentra tutte le funzioni utili dentro e fuori dall&apos;acqua direttamente al polso. L&apos;oro</Description>
-    <OriginalPrice>576.67</OriginalPrice>
-    <Price>566.90</Price>
+    <OriginalPrice>699.99</OriginalPrice>
+    <Price>573.90</Price>
     <Code>010-02540-61</Code>
     <Link>https://www.onautica.com/products/garmin-quatix-7-standard-edition-acciaio-inox?variant=52577380958555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -42969,7 +42824,7 @@
     <Brand>Garmin</Brand>
     <Description>Vivi il Mare in Pieno Stile: Controllo e Autonomia Senza Precedenti Il nuovo smartwatch GPS quatix® 7X – Solar Edition è l&apos;orologio multisport di punta, progettato per il marinaio che esige il massimo dell&apos;autonomia e dell&apos;integrazione di bordo. Con un de</Description>
     <OriginalPrice>1199.00</OriginalPrice>
-    <Price>970.90</Price>
+    <Price>815.90</Price>
     <Code>010-02541-61</Code>
     <Link>https://www.onautica.com/products/garmin-quatix-7x-solar-edition-titanio?variant=52577381417307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -43001,78 +42856,11 @@
     <ParentID>orologio-oblo-foresti-e-suardi-in-ottone-e-legno-o-230-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 650xH880 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
-    <OriginalPrice>94.50</OriginalPrice>
-    <Price>84.74</Price>
-    <Code>3802105</Code>
-    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52513545781595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802105_3.webp?v=1786746333</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi a Pera Majoni Serie A Heavy Duty – Bianco e Rosso, 5 Misure Disponibili - Ø 850xH1050 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi a Pera Majoni Serie A Heavy Duty – Foro Rinforzato, Colore Bianco e Rosso per Protezione Scafo e Segnalazione Ormeggio I parabordi a pera Majoni serie A Heavy Duty rappresentano la scelta professionale per chi necessita di una protezione superio</Description>
-    <OriginalPrice>131.00</OriginalPrice>
-    <Price>117.43</Price>
-    <Code>3802106</Code>
-    <Link>https://www.onautica.com/products/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso?variant=52549799575899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802106_3.webp?v=1786746340</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misure.webp?v=1776247701</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso-5-misuremontaggio.webp?v=1776247701</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-pera-majoni-serie-a-heavy-duty-bianco-rosso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – 7 Misure Disponibili - Ø 350x1100 mm.</Name>
-    <Brand>Majoni</Brand>
-    <Description>Parabordi Cilindrici Majoni Serie SF Star Fender Blu – Doppio Occhio per Ormeggio Verticale e Orizzontale I parabordi cilindrici Majoni serie SF Star Fender sono la scelta classica e affidabile per la protezione delle fiancate di qualsiasi imbarcazione du</Description>
-    <OriginalPrice>84.40</OriginalPrice>
-    <Price>77.31</Price>
-    <Code>3801106</Code>
-    <Link>https://www.onautica.com/products/parabordi-cilindrici-majoni-sf-star-fender-blu?variant=52549795742043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/testaparabordi-cilindrici-majoni-sf-star-fender-blu-7-misure.webp?v=1776247359</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-cilindrici-majoni-sf-star-fender-blu-7-misuremontaggio.webp?v=1776247359</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-cilindrici-majoni-sf-star-fender-blu</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF7 - 37x100 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <Price>94.54</Price>
-    <Code>33.212.14</Code>
-    <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459165531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure.webp?v=1776246599</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137219863</EanCode>
-    <Weight>5.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
-  </Offer>
-  <Offer>
     <Name>Parabordi Serie Heavy Duty in PVC Corpo Bianco Testa Blu – 9 Misure Disponibili - OF8 - 37x144 cm.</Name>
     <Brand>Osculati</Brand>
     <Description>Parabordi Serie Heavy Duty in PVC Morbido – Corpo Bianco Testa Blu per Imbarcazioni da Diporto e Uso Commerciale I parabordi serie Heavy Duty in PVC morbido di alta qualità sono la soluzione professionale per chi cerca una protezione superiore dello scafo</Description>
-    <Price>152.97</Price>
+    <OriginalPrice>152.97</OriginalPrice>
+    <Price>127.90</Price>
     <Code>33.212.15</Code>
     <Link>https://www.onautica.com/products/parabordi-heavy-duty-pvc-bianco-testa-blu?variant=52517459198299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -43084,44 +42872,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordi-serie-heavy-duty-pvc-bianco-testa-blu-9-misure_schema.webp?v=1776246599</Image2>
     <Condition>nuovo</Condition>
     <ParentID>parabordi-heavy-duty-pvc-bianco-testa-blu</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordo di Prua in EVA per Scafi a Vela con Prua Diritta e Affilata - 630 mm. Bianco</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Parabordo di Prua in EVA è la protezione specifica per le imbarcazioni a vela moderne caratterizzate da prua diritta e affilata . Grazie al suo design anatomico, avvolge perfettamente il profilo dello scafo, garantendo una difesa efficace contro gli ur</Description>
-    <OriginalPrice>109.50</OriginalPrice>
-    <Price>87.39</Price>
-    <Code>33.502.00</Code>
-    <Link>https://www.onautica.com/products/parabordo-prua-diritta-eva-vela?variant=52779140940123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-prua-diritta-eva-morbido-vela.webp?v=1775662405</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137038525</EanCode>
-    <Weight>0.96</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-prua-diritta-eva-morbido-velamontato.webp?v=1775662406</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-prua-diritta-eva-morbido-velamisura.webp?v=1775662403</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-prua-diritta-eva-vela</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordo di Prua in EVA per Scafi a Vela con Prua Diritta e Affilata - 630 mm. Blu</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Parabordo di Prua in EVA è la protezione specifica per le imbarcazioni a vela moderne caratterizzate da prua diritta e affilata . Grazie al suo design anatomico, avvolge perfettamente il profilo dello scafo, garantendo una difesa efficace contro gli ur</Description>
-    <OriginalPrice>109.50</OriginalPrice>
-    <Price>87.39</Price>
-    <Code>33.502.02</Code>
-    <Link>https://www.onautica.com/products/parabordo-prua-diritta-eva-vela?variant=52779140972891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-prua-diritta-eva-morbido-vela.webp?v=1775662405</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137039669</EanCode>
-    <Weight>0.95</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-prua-diritta-eva-morbido-velamontato.webp?v=1775662406</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-prua-diritta-eva-morbido-velamisura.webp?v=1775662403</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-prua-diritta-eva-vela</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordo e Boa POLYFORM Serie A Osculati - A2 · Bianco con testata blu</Name>
@@ -43364,25 +43114,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-eva-morbido-prua-poppa-610mm.webp?v=1775661626</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137047435</EanCode>
-    <Weight>1.03</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-eva-morbido-prua-poppa-610mm_montaggio.webp?v=1775661850</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-eva-morbido-prua-poppa-610mm_misure.webp?v=1775661848</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-eva-morbido-prua-poppa-610mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordo in EVA Morbido per Prua e Plancette di Poppa - 610 mm - Blu</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Parabordo in morbido EVA è una protezione nautica versatile, specificamente progettata per adattarsi alle linee delle prua di scafi a vela classici e alla protezione delle plancette di poppa . Grazie alla sua forma ergonomica e alla flessibilità del ma</Description>
-    <OriginalPrice>119.50</OriginalPrice>
-    <Price>96.97</Price>
-    <Code>33.502.11</Code>
-    <Link>https://www.onautica.com/products/parabordo-eva-morbido-prua-poppa-610mm?variant=52779069964635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-eva-morbido-prua-poppa-610mm.webp?v=1775661626</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137120602</EanCode>
     <Weight>1.03</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-eva-morbido-prua-poppa-610mm_montaggio.webp?v=1775661850</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-eva-morbido-prua-poppa-610mm_misure.webp?v=1775661848</Image3>
@@ -43954,25 +43685,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0021_EN_33_507_03-05_jpg.webp?v=1784570911</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-polyform-serie-nf-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordo Sferico Heavy Duty in PVC Corpo Bianco Testa Blu – 4 Misure Disponibili - OA4 - Ø 49 cm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Parabordo Sferico Heavy Duty in PVC – Corpo Bianco Testa Blu per Protezione Fiancate e Boa da Ormeggio Il parabordo sferico Heavy Duty in PVC morbido di alta qualità è la soluzione di protezione superiore per chi non scende a compromessi sulla sicurezza d</Description>
-    <OriginalPrice>85.90</OriginalPrice>
-    <Price>68.71</Price>
-    <Code>33.300.78</Code>
-    <Link>https://www.onautica.com/products/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu?variant=52549713035611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misure.webp?v=1776246779</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137219887</EanCode>
-    <Weight>4.13</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-pvc-bianco-testa-blu-4-misuremontare.webp?v=1776246779</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/parabordo-sferico-heavy-duty-scena-barca-ia.webp?v=1785520803</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-sferico-heavy-duty-pvc-bianco-testa-blu</ParentID>
   </Offer>
   <Offer>
     <Name>Parafiancata Adattabile Fender Design Blu/Nero - 50x32x4 cm</Name>
@@ -46539,28 +46251,11 @@
     <ParentID>pompa-travaso-duplex-ii-flojet-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Travaso Olio/Gasolio 12V 8 lt/min – Pompa Elettrica con Portagomma 14 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Pompa elettrica 12V ideale per il travaso di olio e gasolio a bordo. L&apos;aspirazione avviene direttamente attraverso il foro dell&apos;asta di livello, rendendo l&apos;operazione semplice e senza sprechi. Completa di portagomma da 14 mm. Tensione: 12V Portata: 8 lt/m</Description>
-    <OriginalPrice>104.50</OriginalPrice>
-    <Price>85.26</Price>
-    <Code>16.170.12</Code>
-    <Link>https://www.onautica.com/products/offerta-pompa-olio-gasolio-12v-8-lt-min?variant=52577462944091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pompa_olio_gasolio_12V_8_lt_min..png?v=1773341738</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137050862</EanCode>
-    <Weight>0.83</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-pompa-olio-gasolio-12v-8-lt-min</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompe Autoclave Jabsco Par-Max HD - Par-Max HD4 40PSI - 15 lt/min.</Name>
     <Brand>Jabsco</Brand>
     <Description>Affidati a un leader del settore con la serie di pompe autoclavi Jabsco Par-Max HD , la soluzione robusta e ad alte prestazioni per l&apos;impianto idrico di bordo. Progettate per servire da 2 a 4 utenze (come lavelli e doccette), queste pompe garantiscono aff</Description>
-    <OriginalPrice>246.50</OriginalPrice>
-    <Price>241.25</Price>
+    <OriginalPrice>241.25</OriginalPrice>
+    <Price>213.90</Price>
     <Code>10578</Code>
     <Link>https://www.onautica.com/products/pompe-autoclave-jabsco-par-max-hd?variant=52559320449371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -47920,38 +47615,6 @@
     <ParentID>batteria-agm-bosch-60ah-680a-12v</ParentID>
   </Offer>
   <Offer>
-    <Name>Batteria Servizi AGM Bosch S5 A11 12V 80Ah</Name>
-    <Brand>Bosch</Brand>
-    <Description>La Bosch S5 A11 è una batteria AGM da 12 V con 80 Ah di capacità, adatta ad alimentare i servizi di bordo : frigo, luci, strumentazione, VHF e pompe, cioè tutto quello che continua a lavorare a motore fermo. L&apos;acido non è libero ma completamente assorbito</Description>
-    <OriginalPrice>232.22</OriginalPrice>
-    <Price>195.90</Price>
-    <Code>BOS0092S5A110</Code>
-    <Link>https://www.onautica.com/products/batteria-agm-bosch-80ah-800a-12v?variant=52577399865691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bosch-s5a11-80ah-1.webp?v=1785253419</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>4047025244350</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>batteria-agm-bosch-80ah-800a-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Batteria Servizi AGM Bosch S5 A15 12V 105Ah</Name>
-    <Brand>Bosch</Brand>
-    <Description>La Bosch S5 A15 è una batteria AGM da 12 V con 105 Ah di capacità, adatta ad alimentare i servizi di bordo : frigo, luci, strumentazione, VHF e pompe, cioè tutto quello che continua a lavorare a motore fermo. L&apos;acido non è libero ma completamente assorbit</Description>
-    <OriginalPrice>322.48</OriginalPrice>
-    <Price>267.90</Price>
-    <Code>BOS0092S5A150</Code>
-    <Link>https://www.onautica.com/products/batteria-agm-bosch-105ah-950a-12v?variant=52577399505243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bosch-s5a15-105ah-1.webp?v=1785253423</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>4047025244374</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>batteria-agm-bosch-105ah-950a-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Batterie Serie Excell 12V ad Alta Affidabilità (44Ah - 100Ah) - 44 Ah</Name>
     <Brand>ADR</Brand>
     <Description>Le Batterie della serie Excell rappresentano una soluzione versatile e collaudata per chi cerca un accumulatore affidabile con un ottimo rapporto qualità-prezzo. Caratterizzate dalla consolidata tecnologia Flooded (acido libero) , queste batterie sono pro</Description>
@@ -48232,8 +47895,8 @@
     <Name>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm - Profilo 16 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm Bottazzo (profilo parabordo) a T in PVC nero , tipo T2, altezza 45 mm, per proteggere la fiancata dello scafo dagli urti in ormeggio e in banchina. Il profilo si monta su un apposito supporto (bar</Description>
-    <OriginalPrice>251.21</OriginalPrice>
-    <Price>223.90</Price>
+    <OriginalPrice>212.90</OriginalPrice>
+    <Price>208.90</Price>
     <Code>383004516</Code>
     <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-a-t-tipo-t2-in-pvc-nero-h-45-mm?variant=53576482488667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -50264,22 +49927,6 @@
     <ParentID>olio-teak-star-brite-tropical-teak-oil-natural</ParentID>
   </Offer>
   <Offer>
-    <Name>Ossigenatore pompa Rule Livewell-Baitwell 800GHP 12V - 3028LPH</Name>
-    <Brand>Rule</Brand>
-    <Description>Pompe di ossigenazione Rule per vasche del pescato con porta doppia per connessione opzionale di lavaggio. Corpo girevole per agevolare le connessioni e cartuccia estraibile per una semplice pulizia. Porta di ossigenazione filettata 3/4&quot; con portagomma dr</Description>
-    <OriginalPrice>104.50</OriginalPrice>
-    <Price>87.29</Price>
-    <Code>1821640</Code>
-    <Link>https://www.onautica.com/products/offerta-ossigenatore-pompa-rule-livewell-baitwell-800ghp-12v-3028lph?variant=52577366868315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821640.png?v=1773341485</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>042237115744</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-ossigenatore-pompa-rule-livewell-baitwell-800ghp-12v-3028lph</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pannelli Solari Flessibili Osculati – Celle Aerospaziali Mono 23% - 75Wp (739x731 mm.)</Name>
     <Brand>Osculati</Brand>
     <Description>I Pannelli Solari Flessibili Osculati sono il punto di riferimento per l&apos;energia solare in ambito nautico e outdoor. Fabbricati con celle solari aerospaziali ad alta performance, questi moduli di ultima generazione combinano un&apos;altissima efficienza a una </Description>
@@ -50980,24 +50627,6 @@
     <ParentID>pompa-di-sentina-automatica-rule-mate</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa di Sentina Automatica Rule Mate 12V – Sensore Eco-Friendly - RM500B - 35 lt/min.</Name>
-    <Brand>Rule</Brand>
-    <Description>La Pompa di Sentina RULE Mate ad immersione è la soluzione &quot;All-in-One&quot; definitiva per mantenere la sentina asciutta in totale autonomia. Questo modello completamente automatico è dotato di un avanzato sistema di rilevamento elettronico, racchiuso in un c</Description>
-    <Price>127.84</Price>
-    <Code>0506050092</Code>
-    <Link>https://www.onautica.com/products/pompa-rule-mate-automatica-immersione?variant=52513549779291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-mate-automatica-ecofriendly.png?v=1773341738</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>042237111067</EanCode>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-mate-automatica-ecofriendly_dietro.png?v=1773341750</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-mate-automatica-ecofriendly_schema.png?v=1773341739</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-rule-mate-automatica-immersione</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa di Sentina Automatica Rule Mate Compatta - 500 GPH – 24 V</Name>
     <Brand>Rule</Brand>
     <Description>La Rule Mate compatta porta l&apos;automatismo completo sulle barche piccole e medie: sensore di livello integrato con funzione di backup che impedisce il funzionamento a secco — e se il sensore è sporco, passa alla modalità a cicli di 2,5 minuti. Design salva</Description>
@@ -51375,29 +51004,11 @@
     <ParentID>pompa-di-sentina-rule-500-automatica</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 12V / 2000GHP</Name>
-    <Brand>Rule</Brand>
-    <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
-    <OriginalPrice>216.49</OriginalPrice>
-    <Price>176.90</Price>
-    <Code>1821520</Code>
-    <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989823323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-standard-2000.png?v=1773341737</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>042237083326</EanCode>
-    <Weight>1.36</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-standard-1500.png?v=1773341738</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-sentina-rule-standard-1500-2000</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 12V / 1500GHP</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
-    <OriginalPrice>181.50</OriginalPrice>
-    <Price>175.41</Price>
+    <OriginalPrice>175.41</OriginalPrice>
+    <Price>146.90</Price>
     <Code>1821515</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989856091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -51410,27 +51021,11 @@
     <ParentID>pompa-sentina-rule-standard-1500-2000</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 24V / 2000GHP</Name>
-    <Brand>Rule</Brand>
-    <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
-    <OriginalPrice>231.00</OriginalPrice>
-    <Price>200.90</Price>
-    <Code>1821524</Code>
-    <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989757787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-standard-2000.png?v=1773341737</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033626000040</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pompa-rule-standard-1500.png?v=1773341738</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-sentina-rule-standard-1500-2000</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa di Sentina RULE Standard Ad Immersione (Modelli 1500 e 2000) - 24V / 1500GHP</Name>
     <Brand>Rule</Brand>
     <Description>Le Pompe RULE ad immersione standard (Modelli 1500 e 2000) sono soluzioni affidabili per l&apos;aspirazione dell&apos;acqua di sentina. Questi modelli robusti sono progettati per operare manualmente o, se collegati a un interruttore esterno, in modalità automatica.</Description>
-    <Price>156.85</Price>
+    <OriginalPrice>156.85</OriginalPrice>
+    <Price>130.90</Price>
     <Code>1821516</Code>
     <Link>https://www.onautica.com/products/pompa-sentina-rule-standard-1500-2000?variant=51904989790555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -60566,8 +60161,8 @@
     <Name>Bileva comando B102 g.i. nera Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>La Bileva comando B102 g.i. nera Ultraflex è un componente essenziale per il controllo preciso dei sistemi nautici. Progettata con materiali di alta qualità, garantisce affidabilità e durata anche in condizioni marine difficili. Il design compatto e la fi</Description>
-    <OriginalPrice>427.33</OriginalPrice>
-    <Price>362.90</Price>
+    <OriginalPrice>362.90</OriginalPrice>
+    <Price>320.90</Price>
     <Code>36899G</Code>
     <Link>https://www.onautica.com/products/offerta-bileva-comando-b102-g-i-nera-ultraflex?variant=52577456259419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -60582,7 +60177,8 @@
     <Name>Bileva comando B46 g.i. bileva inclinate cromata Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il Bileva comando B46 g.i. con bileva inclinate cromata Ultraflex rappresenta una soluzione di precisione per il controllo delle imbarcazioni, offrendo affidabilità e resistenza grazie alla finitura cromata. Progettato per garantire una gestione fluida e </Description>
-    <Price>285.19</Price>
+    <OriginalPrice>285.19</OriginalPrice>
+    <Price>240.90</Price>
     <Code>34461P</Code>
     <Link>https://www.onautica.com/products/offerta-bileva-comando-b46-g-i-bileva-inclinate-cromata-ultraflex?variant=52577456292187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -60598,7 +60194,8 @@
     <Name>Bileva comando B58L SX leve inclinate cromate blocco Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il comando Bileva B58L SX con leve inclinate cromate è progettato per garantire un controllo preciso e affidabile nella gestione dei comandi di barca. Dotato di blocco Ultraflex, assicura una sicurezza ottimale durante la navigazione, combinando robustezz</Description>
-    <Price>285.19</Price>
+    <OriginalPrice>285.19</OriginalPrice>
+    <Price>240.90</Price>
     <Code>34716T</Code>
     <Link>https://www.onautica.com/products/offerta-bileva-comando-b58l-sx-leve-inclinate-cromate-blocco-ultraflex?variant=52577456750939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -60614,7 +60211,8 @@
     <Name>Bileva comando top chrome leva doppia 2 cavi</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo comando a due leve è progettato per il controllo indipendente del gas (acceleratore) e delle marce (invertitore), offrendo precisione e una finitura elegante in plancia. Caratteristiche Principali: Materiale: Realizzato in Ottone Cromato , garanten</Description>
-    <Price>278.34</Price>
+    <OriginalPrice>278.34</OriginalPrice>
+    <Price>232.90</Price>
     <Code>4605062</Code>
     <Link>https://www.onautica.com/products/comando-2-leve-top-chrome-ottone-cromato?variant=52577456849243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -64391,7 +63989,8 @@
     <Name>Leva comando Top Chrome leva singola 1 cavo</Name>
     <Brand>Motomarine</Brand>
     <Description>La leva comando Top Chrome a singolo cavo è una soluzione di controllo gas e marce in ottone cromato , progettata per il montaggio su plancia. Grazie alla finitura cromata, garantisce resistenza alla corrosione e un aspetto curato anche negli ambienti mar</Description>
-    <Price>221.13</Price>
+    <OriginalPrice>221.13</OriginalPrice>
+    <Price>185.90</Price>
     <Code>4605061</Code>
     <Link>https://www.onautica.com/products/leva-comando-top-chrome-leva-singola-1-cavo?variant=52577448821083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -64407,8 +64006,8 @@
     <Name>Leva comando Top Mount B103 - Leva Singola Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>La Leva comando Top Mount B103 rappresenta una soluzione professionale per il controllo preciso del motore e delle marce nelle imbarcazioni. Progettata per essere installata con facilità nella posizione top mount, questa leva singola Ultraflex offre una m</Description>
-    <OriginalPrice>354.89</OriginalPrice>
-    <Price>293.90</Price>
+    <OriginalPrice>279.90</OriginalPrice>
+    <Price>275.90</Price>
     <Code>4610103</Code>
     <Link>https://www.onautica.com/products/offerta-leva-comando-top-mount-b103-leva-singola-ultraflex?variant=52577504395611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -64424,8 +64023,8 @@
     <Name>Monoleva B501BT monomotore con trim Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>Monoleva B501BT monomotore con trim Ultraflex La monoleva B501BT è una scatola di comando monomotore con funzione trim firmata Ultraflex, progettata per garantire un controllo preciso e intuitivo della propulsione direttamente dal posto di guida. A chi è </Description>
-    <OriginalPrice>409.85</OriginalPrice>
-    <Price>347.90</Price>
+    <OriginalPrice>347.90</OriginalPrice>
+    <Price>308.90</Price>
     <Code>43032G</Code>
     <Link>https://www.onautica.com/products/monoleva-b501bt-monomotore-con-trim-ultraflex?variant=52577451704667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -64457,7 +64056,8 @@
     <Name>Monoleva comando B400 inox Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>La monoleva comando B400 in acciaio inox firmata Ultraflex rappresenta la soluzione ideale per gestire con precisione e affidabilità il controllo della trasmissione nelle imbarcazioni. Progettata per garantire durata e resistenza anche in ambienti marini </Description>
-    <Price>375.53</Price>
+    <OriginalPrice>375.53</OriginalPrice>
+    <Price>282.90</Price>
     <Code>42076Y</Code>
     <Link>https://www.onautica.com/products/offerta-monoleva-comando-b400-inox-ultraflex?variant=52577460781403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -64473,13 +64073,14 @@
     <Name>Monoleva comando B89 avorio con blocco blocco Ultraflex</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il monoleva comando B89 nero con blocco Ultraflex è progettato per offrire un controllo preciso e affidabile nelle applicazioni nautiche. Realizzato con materiali resistenti, garantisce durata e performance elevate anche nelle condizioni più impegnative. </Description>
-    <Price>199.72</Price>
+    <OriginalPrice>199.72</OriginalPrice>
+    <Price>169.90</Price>
     <Code>36151G</Code>
     <Link>https://www.onautica.com/products/offerta-monoleva-comando-b89-avorio-con-blocco-blocco-ultraflex?variant=52577460584795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Comandi e Manette</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Monoleva_comando_B89_avorio_con_blocco_blocco_Ultraflex.png?v=1773341730</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Monoleva_comando_B89_avorio_con_blocco_blocco_Ultraflex3.png?v=1773341730</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Monoleva_comando_B89_avorio_con_blocco_blocco_Ultraflex_6.png?v=1773341731</Image3>
     <Condition>nuovo</Condition>
@@ -64553,22 +64154,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4636402_1_8ddbd13e-a879-4ae9-8dce-574238765816.webp?v=1788554747</Image3>
     <Condition>nuovo</Condition>
     <ParentID>passaparatia-per-timonerie-idrauliche-ultraflex</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Plancetta di Poppa Tinox con Scaletta 3 Gradini – Misure M e L - M 410x450 mm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La Plancetta Tinox con scaletta a 3 gradini è disponibile in due misure: M, 410 x 450 mm , e L , più ampia. È progettata per garantire accesso comodo e sicuro all&apos;imbarcazione. Combina doghe in legno marino — resistente all&apos;umidità e all&apos;ambiente marino —</Description>
-    <OriginalPrice>237.90</OriginalPrice>
-    <Price>212.90</Price>
-    <Code>0511401</Code>
-    <Link>https://www.onautica.com/products/offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm?variant=52577462059355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Scalette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Plancia_Tinox_con_scaletta_3_gradini_410x450_mm..png?v=1773341736</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>70960002</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>offerta-plancia-tinox-con-scaletta-3-gradini-410x450-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Plancetta di Poppa Tinox con Scaletta 3 Gradini – Misure M e L - L</Name>
@@ -66768,8 +66353,8 @@
     <Name>Serbatoio Carburante Fisso Can SB in Polietilene Reticolato - 128 L</Name>
     <Brand>Can SB</Brand>
     <Description>Il serbatoio carburante Can SB è realizzato in polietilene reticolato ed è pensato per primi impianti OEM su imbarcazioni. Ha forma rettangolare e raccordi prestampati che semplificano il collegamento all&apos;impianto carburante. È dotato di boccaporto con sf</Description>
-    <OriginalPrice>388.90</OriginalPrice>
-    <Price>346.90</Price>
+    <OriginalPrice>329.90</OriginalPrice>
+    <Price>328.90</Price>
     <Code>4030631</Code>
     <Link>https://www.onautica.com/products/serbatoio-carburante-fisso-can-sb-in-polietilene-reticolato?variant=53843844596059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -66976,87 +66561,11 @@
     <ParentID>serbatoio-carburante-verticale-motomarine-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 42 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>129.50</OriginalPrice>
-    <Price>105.23</Price>
-    <Code>52.033.01</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627493211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.01.png?v=1767117332</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965095525</EanCode>
-    <Weight>5.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 55 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>149.50</OriginalPrice>
-    <Price>118.08</Price>
-    <Code>52.033.02</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627525979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.02.png?v=1767117331</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137156809</EanCode>
-    <Weight>5.95</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 70 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>169.50</OriginalPrice>
-    <Price>128.14</Price>
-    <Code>52.033.03</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627558747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.02.png?v=1767117331</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8055965095563</EanCode>
-    <Weight>7.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 43 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>149.50</OriginalPrice>
-    <Price>118.08</Price>
-    <Code>52.033.05</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627624283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.05.png?v=1767117331</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137156823</EanCode>
-    <Weight>5.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
     <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 53 litri</Name>
     <Brand>Osculati</Brand>
     <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>169.50</OriginalPrice>
-    <Price>131.08</Price>
+    <OriginalPrice>131.08</OriginalPrice>
+    <Price>107.90</Price>
     <Code>52.033.06</Code>
     <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627657051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -67065,44 +66574,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137156830</EanCode>
     <Weight>5.85</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 102 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>213.75</OriginalPrice>
-    <Price>174.90</Price>
-    <Code>52.033.24</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627886427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.24-25-26.png?v=1767117331</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137156854</EanCode>
-    <Weight>10.23</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-fisso-carburante-eltex-arancione-ce</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Fisso Carburante in Eltex Arancione Omologato CE – Benzina e Diesel - 120 litri</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Serbatoi Fissi in Eltex Arancione rappresentano la scelta sicura e certificata per lo stoccaggio del carburante a bordo. Realizzati in polietilene ad alta densità (HDPE), sono idonei sia per Benzina che per Diesel e rispettano le normative di sicurezza </Description>
-    <OriginalPrice>226.44</OriginalPrice>
-    <Price>185.90</Price>
-    <Code>52.033.25</Code>
-    <Link>https://www.onautica.com/products/serbatoio-fisso-carburante-eltex-arancione-ce?variant=52524627919195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.24-25-26.png?v=1767117331</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137156861</EanCode>
-    <Weight>12.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.21-22-23.png?v=1767117331</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/serbatoio-fisso-eltex-arancione-carburante-ce.52.033.10.png?v=1767117331</Image3>
     <Condition>nuovo</Condition>
@@ -70676,90 +70147,6 @@
     <ParentID>elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta</ParentID>
   </Offer>
   <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 9.9A/15A/8D/10D/15D/20D / 4T 9.25 x 9 - 9.25 x 9</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <Price>93.11</Price>
-    <Code>495311109309</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389304922459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375036507</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 9.9A/15A/8D/10D/15D/20D / 4T 9.25 x 10 - 9.25 x 10</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
-    <Code>495311109310</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389304955227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375006852</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 9.9A/15A/8D/10D/15D/20D / 4T 9.25 x 11 - 9.25 x 11</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
-    <Code>495311109311</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389304987995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375006869</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 9 - 9.90 x 9</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>114.50</OriginalPrice>
-    <Price>105.86</Price>
-    <Code>495521109909</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305086299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626229953</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 10 - 9.90 x 10</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>114.50</OriginalPrice>
-    <Price>105.86</Price>
-    <Code>495521109910</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305119067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375008498</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 11 - 9.90 x 11</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
@@ -70811,7 +70198,8 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50 / 4T 11.40 x 12 - 11.40 x 12</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <Price>143.18</Price>
+    <OriginalPrice>143.18</OriginalPrice>
+    <Price>116.90</Price>
     <Code>495331111412</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305315675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -70860,7 +70248,8 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50 / 4T 11 x 15 - 11 x 15</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <Price>143.18</Price>
+    <OriginalPrice>143.18</OriginalPrice>
+    <Price>116.90</Price>
     <Code>495331111015</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305413979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -70893,8 +70282,8 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50/60 / 4T 11.60 x 12 (Plus) - 11.60 x 12 (Plus)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>155.50</OriginalPrice>
-    <Price>146.26</Price>
+    <OriginalPrice>146.26</OriginalPrice>
+    <Price>118.90</Price>
     <Code>495331111612</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305577819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -70975,14 +70364,14 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 75/90/115(&lt;2009)/130 / 4T 13.25 x 17 - 13.25 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>210.00</OriginalPrice>
-    <Price>187.80</Price>
+    <OriginalPrice>187.80</OriginalPrice>
+    <Price>157.90</Price>
     <Code>495341113317</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305741659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>3411-133-17</EanCode>
     <Weight>2.60</Weight>
     <Condition>nuovo</Condition>
@@ -71056,8 +70445,8 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 115(&gt;2011)/135/150/175/200/225/250 / 4T 14.30 x 21 - 14.30 x 21</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>245.52</OriginalPrice>
-    <Price>207.90</Price>
+    <OriginalPrice>207.90</OriginalPrice>
+    <Price>180.90</Price>
     <Code>495351114321</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389306102107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71067,40 +70456,6 @@
     <Weight>3.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 6/7.5/8 / 4T 8.50 x 9 - 8.50 x 9</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>82.10</OriginalPrice>
-    <Price>76.60</Price>
-    <Code>495201108509</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296238939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375028007</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 9.9/15 / 4T 9.25 x 8 - 9.25 x 8</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
-    <Code>495211109308</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296402779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375006142</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 9.9-15 (&gt;2002)(&lt;2007) / 4T 9.25 x 8 - 9.25 x 8</Name>
@@ -71131,23 +70486,6 @@
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
     <ShippingCost>5.90</ShippingCost>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 20/25/30/35 / 4T 10.50 x 11 - 10.50 x 11</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>114.50</OriginalPrice>
-    <Price>108.49</Price>
-    <Code>495221110511</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296992603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>824375006272</EanCode>
     <Weight>1.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
@@ -71203,8 +70541,8 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225/250 / 4T 15.50 x 17 - 15.50 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>254.31</OriginalPrice>
-    <Price>215.90</Price>
+    <OriginalPrice>215.90</OriginalPrice>
+    <Price>187.90</Price>
     <Code>495351115517</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298073947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71349,14 +70687,14 @@
     <Name>Eliche Solas Alluminio per Motori Mercury / Mercruiser - 3 pale - Motore 40(Big Foot)/75/80/90/100/115/125 - 13.75 x 13</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Mercury e Mercruiser - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Mercury / Mercruiser fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra prod</Description>
-    <OriginalPrice>210.00</OriginalPrice>
-    <Price>187.80</Price>
+    <OriginalPrice>187.80</OriginalPrice>
+    <Price>157.90</Price>
     <Code>495341113813</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-mercury-mercruiser?variant=53389294960987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-mercury-mercruiser-1.webp?v=1781620265</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <EanCode>824375036859</EanCode>
     <Weight>2.90</Weight>
     <Condition>nuovo</Condition>
@@ -72397,21 +71735,6 @@
     <ParentID>seascooter-brabus-x-jobe-shadow-package</ParentID>
   </Offer>
   <Offer>
-    <Name>Selettore L23 per Doppia Stazione – Comando Monoleva Acceleratore/Invertitore</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Meccanismo progettato per l’applicazione delle monoleve su installazioni con doppia stazione. \n \nQuesto selettore permette di manovrare acceleratore ed invertitore indipendentemente, ora dal ponte superiore, ora dalla cabina. \n \n ATTENZIONE : quando s</Description>
-    <Price>92.45</Price>
-    <Code>31649B</Code>
-    <Link>https://www.onautica.com/products/selettore-l23?variant=52577486569819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Selettore_L23.png?v=1773341813</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164316494</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>selettore-l23</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sensore Angolo di Barra VDO - 1 stazione</Name>
     <Brand>VDO</Brand>
     <Description>Il sensore angolo di barra VDO rileva la posizione angolare del timone e invia il segnale all&apos;indicatore di bordo, permettendo di monitorare in tempo reale l&apos;orientamento del timone durante la navigazione e le manovre. È disponibile in versione a 1 stazio</Description>
@@ -73361,24 +72684,6 @@
     <ParentID>sportello-in-abs-can-sb-con-box-bt-large-458x513-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Sportello Stagno in ABS con Box Portaoggetti – Doppia Apertura (373x373 mm) - Sportello</Name>
-    <Brand>CAN</Brand>
-    <Description>Lo Sportello in ABS con Box BT/Medium è un accessorio versatile e intelligente che combina un portello d&apos;ispezione robusto con un pratico contenitore portaoggetti integrato (profondità 250 mm). Realizzato in ABS ASA di alta qualità, è resistente ai raggi </Description>
-    <OriginalPrice>90.90</OriginalPrice>
-    <Price>77.48</Price>
-    <Code>4000442</Code>
-    <Link>https://www.onautica.com/products/sportello-abs-con-box-bt-medium?variant=52513566949723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Sportelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium.png?v=1773341782</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626278623</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_misura.png?v=1773341782</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sportello-abs-box-bt-medium_attacco.png?v=1773341782</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>sportello-abs-con-box-bt-medium</ParentID>
-  </Offer>
-  <Offer>
     <Name>Staffa di Poppa a Snodo S39 Ultraflex – Supporto Snodato per Timoneria a Poppa</Name>
     <Brand>Ultraflex</Brand>
     <Description>La staffa di poppa a snodo S39 Ultraflex è un accessorio dedicato ai sistemi di timoneria, progettato per il fissaggio e il supporto dei comandi a poppa. Grazie al suo meccanismo snodato, garantisce mobilità e adattabilità durante l&apos;installazione, facilit</Description>
@@ -73394,24 +72699,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/S39_staffa_di_poppa_a_snodo_6.png?v=1773341810</Image3>
     <Condition>nuovo</Condition>
     <ParentID>s39-staffa-di-poppa-a-snodo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Stand Up Paddle JOBE Mira 10.0 Package SUP</Name>
-    <Brand>JOBE</Brand>
-    <Description>Superficie antiscivolo per una maggiore stabilità. Duttile, leggero, ma robusto. Può sostenere un peso raccomandato fino a 120 kg. Resistente struttura in pvc, drop stichting ad elevata resistenza (pressione 15 psi). Completo di pagaia, gonfiatore manuale</Description>
-    <OriginalPrice>398.05</OriginalPrice>
-    <Price>337.90</Price>
-    <Code>64.944.01</Code>
-    <Link>https://www.onautica.com/products/stand-up-paddle-jobe-mira-10-0-package-1?variant=52577522876763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sport Acquatici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe300.png?v=1773341917</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>12.11</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe.png?v=1773341918</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Jobe300b.png?v=1773341919</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>stand-up-paddle-jobe-mira-10-0-package-1</ParentID>
   </Offer>
   <Offer>
     <Name>Stereo da Cruscotto Boss Marine MGR 350B Bluetooth per Barca - MGR 350B senza CD</Name>
@@ -76027,24 +75314,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3007004_1.webp?v=1788379566</Image3>
     <Condition>nuovo</Condition>
     <ParentID>wakeboard-jobe-logo-138cm-package-completo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Braccio telescopico a pantografo ROCA SLIM 324&lt;&gt;462 mm. inox brunito</Name>
-    <Brand>Roca</Brand>
-    <Description>B racci telescopici Roca a pantografo in acciaio inox brunito con attacco J-Hook. Per tergicristalli W10/W12 e per qualsiasi tergicristallo con perno 13,8 mm. Campo di azione a bordi paralleli tipo P. Caratteristiche principali Lunghezza regolabile da 324</Description>
-    <OriginalPrice>117.50</OriginalPrice>
-    <Price>94.84</Price>
-    <Code>10862</Code>
-    <Link>https://www.onautica.com/products/braccio-telescopico-a-pantografo-roca-slim-324-462-mm-inox-brunito?variant=52577522123099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/195648X_5a29d544-ba4e-491f-9600-8202c75d5c87.png?v=1773341917</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>7320395283189</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/195648Xb_890abb8d-0f02-4978-9ed4-dc63c6229ee6.png?v=1773341918</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/195648Xc_17a7cf82-d0eb-4257-b4cc-6531266d7034.png?v=1773341919</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>braccio-telescopico-a-pantografo-roca-slim-324-462-mm-inox-brunito</ParentID>
   </Offer>
   <Offer>
     <Name>Braccio telescopico a pantografo ROCA SLIM 462&lt;&gt;600 mm. inox brunito</Name>
@@ -80959,7 +80228,8 @@
     <Name>T-Top in Lega Leggera Anodizzata Ø 32 mm Altezza 2050 mm – Telo ATLAS Blu 310 g/m² - 1700 x 1400 mm</Name>
     <Brand>Osculati</Brand>
     <Description>T-Top in lega leggera 2050 mm Questo T-Top in lega leggera è fabbricato in tubo anodizzato Ø 32 mm ed è universale : gli attacchi possono essere regolati a piacere, quindi si adatta a consolle di larghezza diversa senza modifiche. Il tessuto del &quot;Top&quot; è i</Description>
-    <Price>364.51</Price>
+    <OriginalPrice>364.51</OriginalPrice>
+    <Price>295.90</Price>
     <Code>48.194.02</Code>
     <Link>https://www.onautica.com/products/t-top-in-lega-leggera-alluminio-1700x1400x2050-mm?variant=49393516740955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -82896,24 +82166,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5802630_1.webp?v=1787924173</Image3>
     <Condition>nuovo</Condition>
     <ParentID>vassoio-silwy-in-pelle-nera-con-funzione-magnetica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antenna CB Marina Glomex RA127 in Vetroresina (1,50 mt.)</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos; Antenna CB RA127 di Glomex è progettata specificamente per le comunicazioni in banda cittadina (Citizen Band) in ambiente marino. Grazie al suo stilo realizzato in vetroresina di alta qualità con finitura poliuretanica, garantisce un&apos;eccellente resiste</Description>
-    <OriginalPrice>126.50</OriginalPrice>
-    <Price>102.89</Price>
-    <Code>5636415</Code>
-    <Link>https://www.onautica.com/products/antenna-cb-glomex-ra127?variant=52577378992475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antenna-cb-glomex-ra127_a216f354-956c-443a-89a9-7023e51f8be4.png?v=1773341526</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8051566301140</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/prolunga-antenna-cb-glomex.png?v=1773341529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/spina-prolunga-antenna-cb-glomex.png?v=1773341529</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-cb-glomex-ra127</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna Glomex 5G Multi-band PRA485A - PRA485A</Name>
@@ -85256,22 +84508,6 @@
     <ParentID>manovella-pieghevole-flipper-easysea-in-alluminio-e-abs</ParentID>
   </Offer>
   <Offer>
-    <Name>Manovella Winch Antal Single-Grip in Alluminio Nero Forgiato – 200 e 250 mm - 200 mm</Name>
-    <Brand>Antal</Brand>
-    <Description>La Manovella Antal Single-Grip rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. È disponibile nelle lunghezze 200 mm (8&quot;) e 250 mm (10&quot;) . Il corpo è realizzato in alluminio fo</Description>
-    <OriginalPrice>111.50</OriginalPrice>
-    <Price>93.90</Price>
-    <Code>3751201</Code>
-    <Link>https://www.onautica.com/products/manovella-antal-single-grip-200mm?variant=52577515405659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/manovella-antal-single-grip-200mm.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626109590</EanCode>
-    <Condition>nuovo</Condition>
-    <ParentID>manovella-antal-single-grip-200mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Manovella Winch Antal Single-Grip in Alluminio Nero Forgiato – 200 e 250 mm - 250 mm</Name>
     <Brand>Antal</Brand>
     <Description>La Manovella Antal Single-Grip rappresenta l&apos;eccellenza nella ferramenta di coperta, combinando un design ultraleggero con una resistenza meccanica superiore. È disponibile nelle lunghezze 200 mm (8&quot;) e 250 mm (10&quot;) . Il corpo è realizzato in alluminio fo</Description>
@@ -85808,28 +85044,11 @@
     <ParentID>stopper-antal-cam-611-doppio</ParentID>
   </Offer>
   <Offer>
-    <Name>Stopper Antal Cam 611 Singolo – Per Cime 6-11 mm</Name>
-    <Brand>Antal</Brand>
-    <Description>Lo Stopper Antal Cam 611 (Modello Singolo) è un blocca-scotte di alta qualità progettato per gestire carichi di lavoro medi su imbarcazioni a vela, garantendo fluidità e sicurezza nella gestione delle manovre correnti. La caratteristica distintiva di ques</Description>
-    <OriginalPrice>113.00</OriginalPrice>
-    <Price>90.18</Price>
-    <Code>3703010</Code>
-    <Link>https://www.onautica.com/products/stopper-antal-cam-611-singolo?variant=52577515602267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-singolo.png?v=1773341896</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033626107923</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/stopper-antal-cam-611-misura.png?v=1773341988</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>stopper-antal-cam-611-singolo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Stopper Antal Cam 611 Triplo – Per Cime 6-11 mm</Name>
     <Brand>Antal</Brand>
     <Description>Lo Stopper Antal Cam 611 Triplo è la soluzione compatta e definitiva per centralizzare le manovre sulla tuga, consentendo la gestione ordinata di tre linee separate (es. drizza randa, drizza fiocco e amantiglio o borosa) in un unico corpo. Questo modello </Description>
-    <OriginalPrice>255.89</OriginalPrice>
-    <Price>246.90</Price>
+    <OriginalPrice>246.90</OriginalPrice>
+    <Price>214.90</Price>
     <Code>3703030</Code>
     <Link>https://www.onautica.com/products/stopper-antal-cam-611-triplo?variant=52577537294683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -86255,8 +85474,8 @@
     <Name>Toilette Marina Elettrica Jabsco 37010 - 12V Compact</Name>
     <Brand>Jabsco</Brand>
     <Description>La Toilette Marina Elettrica JABSCO Serie 37010 è la soluzione professionale per imbarcazioni dove lo spazio è un fattore critico. Grazie al suo design con ciotola compatta e il funzionamento intuitivo tramite un singolo pulsante, offre il massimo comfort</Description>
-    <OriginalPrice>503.00</OriginalPrice>
-    <Price>452.39</Price>
+    <OriginalPrice>452.39</OriginalPrice>
+    <Price>390.90</Price>
     <Code>50.225.12</Code>
     <Link>https://www.onautica.com/products/toilette-marina-elettrica-jabsco-37010-compact-12v?variant=52577455767899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -87163,7 +86382,7 @@
     <ParentID>tubo-hoses-technology-per-scaldacqua-e-acqua-calda-in-gomma-bobine-da-10-20-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo Hoses Technology per Scaldacqua e Acqua Calda in Gomma – Bobine da 10/20 m - Ø 13 mm — 20 m</Name>
+    <Name>Tubo Hoses Technology per Scaldacqua e Acqua Calda in Gomma – Bobine da 10/20 m - Ø 13 mm �� 20 m</Name>
     <Brand>Hoses Technology</Brand>
     <Description>Questo prodotto si vende a bobina intera, nelle lunghezze da 10 m o 20 m: non è possibile acquistarlo a metro. Il tubo Hoses Technology è realizzato in gomma resistente al calore, pensato per il collegamento del boiler e per qualsiasi condotta dell&apos;acqua </Description>
     <OriginalPrice>280.00</OriginalPrice>
@@ -88773,23 +87992,6 @@
     <ParentID>wc-elettrico-ocean-ultra-slim-silent-bevelled</ParentID>
   </Offer>
   <Offer>
-    <Name>WC Elettrico Silent Compact 12V Osculati</Name>
-    <Brand>Osculati</Brand>
-    <Description>Questo WC elettrico, parte della serie Evolution, è la scelta ideale per chi cerca l&apos;efficienza di un sistema elettrico unita al massimo comfort acustico. Il modello Compact è perfetto per le installazioni dove lo spazio è ridotto. Caratteristiche Esclusi</Description>
-    <Price>334.95</Price>
-    <Code>50.246.12</Code>
-    <Link>https://www.onautica.com/products/wc-elettrico-silent-compact-12v-maceratore-basso-rumore?variant=52577380663643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/WCelettricoSilentCompact12VOsculati.png?v=1773341534</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137057601</EanCode>
-    <Weight>11.47</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/WCelettricoSilentCompact12VOsculatib.png?v=1773341536</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-elettrico-silent-compact-12v-maceratore-basso-rumore</ParentID>
-  </Offer>
-  <Offer>
     <Name>WC Elettrico Tecma Compass Short - 12V - Pannello Eco</Name>
     <Brand>Tecma</Brand>
     <Description>Il WC Tecma Compass Short è un toilet elettrico nautico dal design compatto, pensato per bagni di piccole dimensioni a bordo. Il ciclo di scarico è gestito da un pannello di comando elettronico dedicato. È disponibile nelle versioni 12V e 24V, abbinate al</Description>
@@ -88914,21 +88116,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2424844-1.webp?v=1785659059</Image2>
     <Condition>nuovo</Condition>
     <ParentID>wc-elettrico-tmc-large-24v-in-porcellana</ParentID>
-  </Offer>
-  <Offer>
-    <Name>WC Manuale Compact JABSCO con Sistema Twist &apos;n&apos; Lock</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La Toilette Manuale Jabsco Compact è progettata per offrire la massima sicurezza, igiene e facilità d&apos;uso a bordo. Questo modello è lo standard di riferimento per l&apos;installazione su barche a vela o a motore, risultando idoneo sia sopra che sotto la linea </Description>
-    <Price>219.42</Price>
-    <Code>1322001</Code>
-    <Link>https://www.onautica.com/products/toilette-manuale-jabsco-compact-twist-lock-wc-nautico?variant=52577456324955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock.png?v=1773341715</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock_misure.png?v=1773341715</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>toilette-manuale-jabsco-compact-twist-lock-wc-nautico</ParentID>
   </Offer>
   <Offer>
     <Name>WC Manuale Jabsco Compact Twist n Lock - Compact – 455×425×330 mm</Name>
@@ -91045,23 +90232,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4730210_41653e9c-4096-497f-8b17-5eb67fead8dd.webp?v=1787814666</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pannelli-joystick-vetus-v-can-per-elica-di-manovra-proporzionale</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello autoestinguente 30 mm. 100x150 cm. fono assorbente</Name>
-    <Brand>Osculati</Brand>
-    <Description>Pannello autoestinguente 30 mm. 100x150 cm. fono assorbente Caratteristiche principali Proprietà autoestinguenti per maggiore sicurezza a bordo Elevata capacità fonoassorbente per ridurre il rumore del motore Formato generoso 100x150 cm, facile da tagliar</Description>
-    <OriginalPrice>144.50</OriginalPrice>
-    <Price>109.83</Price>
-    <Code>65.100.00</Code>
-    <Link>https://www.onautica.com/products/pannello-autoestinguente-30-mm-100x150-cm-fono-assorbente?variant=52577467105627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Manutenzione;Isolanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Pannello_autoestinguente_30_mm._100x150_cm._fono_assorbente.png?v=1773341754</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137168376</EanCode>
-    <Weight>7.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-autoestinguente-30-mm-100x150-cm-fono-assorbente</ParentID>
   </Offer>
   <Offer>
     <Name>Pannello di Comando Elica di Manovra Vetus - BPSE2 - flat 85x85 mm</Name>
