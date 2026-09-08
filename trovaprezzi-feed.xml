@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-07T18:11:27.433Z -->
-<!-- Offerte: 5566 -->
+<!-- Generato: 2026-09-08T06:32:09.653Z -->
+<!-- Offerte: 5565 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -9868,7 +9868,7 @@
     <ParentID>pompa-maceratrice-jabsco-46-l-min</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Maceratrice Whale Gulper - 12 V ��� 18 l/min</Name>
+    <Name>Pompa Maceratrice Whale Gulper - 12 V – 18 l/min</Name>
     <Brand>Whale</Brand>
     <Description>La Gulper di Whale è la pompa maceratrice in nylon e fibra di vetro per WC e serbatoi delle acque nere: funziona con WC dotati o privi di pompa maceratrice propria. La serie di valvole di non ritorno in linea garantisce il funzionamento; può girare a secc</Description>
     <OriginalPrice>365.03</OriginalPrice>
@@ -65957,24 +65957,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4630071_3.webp?v=1787642163</Image3>
     <Condition>nuovo</Condition>
     <ParentID>timoneria-rotativa-ultraflex-t71fc-t73nrfc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Timoneria Rotativa Ultraflex T85 per Entrofuoribordo fino a 150 HP - Bianco</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Questa timoneria è una scatola comando monocavo: per completare l&apos;installazione servono un cavo timoneria Ultraflex, da scegliere a parte in base alla lunghezza dell&apos;imbarcazione, e un volante, non inclusi nella confezione. Il sistema di guida T85 di Ultr</Description>
-    <Price>85.42</Price>
-    <Code>39213M</Code>
-    <Link>https://www.onautica.com/products/timoneria-rotativa-ultraflex-t85-per-entrofuoribordo-fino-a-150-hp?variant=53877351940443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4630086_1.webp?v=1787641470</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164392139</EanCode>
-    <Weight>2.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4630085.webp?v=1787641462</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4630085_1.webp?v=1787641456</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>timoneria-rotativa-ultraflex-t85-per-entrofuoribordo-fino-a-150-hp</ParentID>
   </Offer>
   <Offer>
     <Name>Timoneria Rotativa Ultraflex T85 per Entrofuoribordo fino a 150 HP - Nero</Name>
