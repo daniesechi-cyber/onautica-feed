@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-09T14:32:24.249Z -->
-<!-- Offerte: 5410 -->
+<!-- Generato: 2026-09-09T18:11:28.922Z -->
+<!-- Offerte: 5413 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -15122,7 +15122,7 @@
     <ParentID>catena-lunga-genovese-zincata-g30-bobina-da-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Lunga Genovese Zincata G30 - Bobina da 50 m - �� 16 mm — 50 m</Name>
+    <Name>Catena Lunga Genovese Zincata G30 - Bobina da 50 m - Ø 16 mm — 50 m</Name>
     <Brand>Motomarine</Brand>
     <Description>È catena a maglia lunga (genovese), non calibrata: non va usata con il salpa ancora. Il passo della maglia non corrisponde a quello del barbotin dei verricelli, quindi la catena non ingrana. Per il salpa ancora serve una catena calibrata (DIN 766 o ISO 45</Description>
     <OriginalPrice>820.00</OriginalPrice>
@@ -15890,7 +15890,7 @@
     <ParentID>cavo-elettrico-marino-unipolare-1x2-5-mm-in-rame-stagnato-ri-na-bobina-100-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Cavo Elettrico Marino Unipolare 1x25 mm² Giallo/Verde in Rame Stagnato RI.Na. – Bobina 50 m</Name>
+    <Name>Cavo Elettrico Marino Unipolare 1x25 mm�� Giallo/Verde in Rame Stagnato RI.Na. – Bobina 50 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Il cavo elettrico marino unipolare è pensato per gli impianti elettrici di bordo, dove il contatto con l&apos;umidità e la salsedine mette a dura prova i collegamenti. L&apos;anima è in rame stagnato di classe 5 IEC60228, che protegge dalla corrosione e dall&apos;elettr</Description>
     <OriginalPrice>665.00</OriginalPrice>
@@ -29010,6 +29010,21 @@
     <ParentID>alimentatore-vitrifrigo-24v-300w-per-frigoriferi</ParentID>
   </Offer>
   <Offer>
+    <Name>Alimentatore Vitrifrigo Power Pack 220V-300W - 300W</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>L&apos;alimentatore Power Pack di Vitrifrigo converte la tensione di rete in una tensione stabile a 24Vdc, pensata per alimentare i frigoriferi Vitrifrigo a corrente continua. In caso di mancanza di rete elettrica, la commutazione da corrente alternata a corre</Description>
+    <Price>138.21</Price>
+    <Code>1555236</Code>
+    <Link>https://www.onautica.com/products/alimentatore-vitrifrigo-power-pack-220v-300w?variant=54001471455579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1555236.webp?v=1788878033</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>alimentatore-vitrifrigo-power-pack-220v-300w</ParentID>
+  </Offer>
+  <Offer>
     <Name>Attuatore Elettrico Lineare Uflex Ulysses per Portelloni e Boccaporti (Max 65 Kg) - 515 mm. - 24V</Name>
     <Brand>Uflex</Brand>
     <Description>L&apos; Attuatore Elettrico Lineare Uflex Ulysses è la soluzione ideale per l&apos;automazione di portelloni, vani motore e boccaporti su imbarcazioni da diporto. Progettato per l&apos;installazione singola, combina leggerezza e robustezza, permettendo l&apos;apertura e la c</Description>
@@ -29591,7 +29606,7 @@
   <Offer>
     <Name>Evaporatore Ovale Vitrifrigo con Giunti Rapidi - S3 – vani 150 L</Name>
     <Brand>Vitrifrigo</Brand>
-    <Description>L&apos;evaporatore ovale Vitrifrigo dà flessibilità all&apos;installazione: si monta sia in orizzontale che in verticale, adattandosi allo spazio disponibile nel vano da refrigerare. Con giunti rapidi per il collegamento all&apos;unità refrigerante senza saldature. Due </Description>
+    <Description>L&apos;evaporatore ovale Vitrifrigo dà flessibilità all&apos;installazione: si monta sia in orizzontale che in verticale, adattandosi allo spazio disponibile nel vano da refrigerare. Con giunti rapidi per il collegamento all&apos;unit�� refrigerante senza saldature. Due</Description>
     <OriginalPrice>292.81</OriginalPrice>
     <Price>283.90</Price>
     <Code>2435115</Code>
@@ -57348,6 +57363,42 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505403_49efd1f9-2616-4196-b3dc-71530a6d191d.webp?v=1787735123</Image3>
     <Condition>nuovo</Condition>
     <ParentID>scaletta-telescopica-ribaltabile-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scaletta Telescopica Ribaltabile in Carbonio per Plancette - 3 gradini</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa scaletta telescopica ribaltabile è realizzata in fibra di carbonio, con supporti in acciaio inox verniciati nero opaco. La struttura in carbonio unisce resistenza alle sollecitazioni e alla corrosione a un peso molto contenuto, mentre i gradini riv</Description>
+    <OriginalPrice>217.50</OriginalPrice>
+    <Price>195.14</Price>
+    <Code>0505483</Code>
+    <Link>https://www.onautica.com/products/scaletta-telescopica-ribaltabile-in-carbonio-per-plancette?variant=54001481580891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505483.webp?v=1788878038</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>3.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505483_8e66548b-6268-45cc-ad10-398f4b7d3765.webp?v=1788878040</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505483_2.webp?v=1788878042</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-telescopica-ribaltabile-in-carbonio-per-plancette</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Scaletta Telescopica Ribaltabile in Carbonio per Plancette - 4 gradini</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Questa scaletta telescopica ribaltabile è realizzata in fibra di carbonio, con supporti in acciaio inox verniciati nero opaco. La struttura in carbonio unisce resistenza alle sollecitazioni e alla corrosione a un peso molto contenuto, mentre i gradini riv</Description>
+    <OriginalPrice>291.50</OriginalPrice>
+    <Price>242.39</Price>
+    <Code>0505484</Code>
+    <Link>https://www.onautica.com/products/scaletta-telescopica-ribaltabile-in-carbonio-per-plancette?variant=54001481613659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Scalette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505484.webp?v=1788878052</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505483_8e66548b-6268-45cc-ad10-398f4b7d3765.webp?v=1788878040</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0505483.webp?v=1788878038</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scaletta-telescopica-ribaltabile-in-carbonio-per-plancette</ParentID>
   </Offer>
   <Offer>
     <Name>Scaletta Telescopica Slim per Plancetta in Acciaio Inox - 4 gradini</Name>
