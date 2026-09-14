@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-14T14:32:08.817Z -->
-<!-- Offerte: 5355 -->
+<!-- Generato: 2026-09-14T18:11:39.269Z -->
+<!-- Offerte: 5356 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -21467,7 +21467,7 @@
     <ParentID>treccia-galleggiante-in-polietilene-o-16-mm-bobina-100-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Treccia Galleggiante in Polietilene Ø 18 mm ��� Bobina 100 m - Arancione</Name>
+    <Name>Treccia Galleggiante in Polietilene Ø 18 mm – Bobina 100 m - Arancione</Name>
     <Brand>Motomarine</Brand>
     <Description>La treccia galleggiante in polietilene è una cima multifilo composta da 3 fusi, pensata per usi vari a bordo come tientibene, salvagenti e ormeggio temporaneo. È morbida, leggera, galleggia sull&apos;acqua e non assorbe umidità. È disponibile in due colori, Ar</Description>
     <Price>206.80</Price>
@@ -21483,7 +21483,7 @@
     <ParentID>treccia-galleggiante-in-polietilene-o-18-mm-bobina-100-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Treccia Galleggiante in Polietilene Ø 18 mm ��� Bobina 100 m - Nera</Name>
+    <Name>Treccia Galleggiante in Polietilene Ø 18 mm – Bobina 100 m - Nera</Name>
     <Brand>Motomarine</Brand>
     <Description>La treccia galleggiante in polietilene è una cima multifilo composta da 3 fusi, pensata per usi vari a bordo come tientibene, salvagenti e ormeggio temporaneo. È morbida, leggera, galleggia sull&apos;acqua e non assorbe umidità. È disponibile in due colori, Ar</Description>
     <Price>267.40</Price>
@@ -83300,6 +83300,22 @@
     <ParentID>wc-elettrico-tmc-large-24v-in-porcellana</ParentID>
   </Offer>
   <Offer>
+    <Name>WC Manuale Compact JABSCO con Sistema Twist &apos;n&apos; Lock</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La Toilette Manuale Jabsco Compact è progettata per offrire la massima sicurezza, igiene e facilità d&apos;uso a bordo. Questo modello è lo standard di riferimento per l&apos;installazione su barche a vela o a motore, risultando idoneo sia sopra che sotto la linea </Description>
+    <OriginalPrice>265.00</OriginalPrice>
+    <Price>217.90</Price>
+    <Code>1322001</Code>
+    <Link>https://www.onautica.com/products/toilette-manuale-jabsco-compact-twist-lock-wc-nautico?variant=52577456324955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock.png?v=1773341715</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/toilette-manuale-jabsco-compact-twist-lock_misure.png?v=1773341715</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>toilette-manuale-jabsco-compact-twist-lock-wc-nautico</ParentID>
+  </Offer>
+  <Offer>
     <Name>WC Manuale Jabsco Compact Twist n Lock - Compact – 455×425×330 mm</Name>
     <Brand>Jabsco</Brand>
     <Description>Il Compact è il WC manuale Jabsco con la maniglia di sicurezza Twist n&apos; Lock: una rotazione di 90° blocca la valvola di scarico chiusa, proteggendo dal riflusso delle acque reflue — riportandola in posizione naturale, il blocco si riapre. Il montaggio rev</Description>
@@ -88268,7 +88284,7 @@
     <Price>68.13</Price>
     <Code>16.235.00</Code>
     <Link>https://www.onautica.com/products/pompa-elettrica-a-batteria-seaflo-per-travaso-liquidi-12-l-min-con-ricarica-usb?variant=53726562681179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Giranti e Pompe</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_16.235.00.webp?v=1786027720</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -89538,7 +89554,7 @@
     <ParentID>sedile-compatto-imbottito-con-flip-up-h51-osculati</ParentID>
   </Offer>
   <Offer>
-    <Name>Sedile compatto imbottito con flip up H51 Osculati - Rivestito in morbido vinile · Bianco RAL 9010</Name>
+    <Name>Sedile compatto imbottito con flip up H51 Osculati - Rivestito in morbido vinile �� Bianco RAL 9010</Name>
     <Brand>Osculati</Brand>
     <Description>Sedile compatto imbottito con flip up H51 Osculati Il sedile compatto con flip-up H51 Osculati ha anima in plastica e alluminio con imbottitura in schiuma espansa ad alta densità; è molto compatto, quindi utilizzabile in spazi ristretti e ideale per l&apos;int</Description>
     <OriginalPrice>389.50</OriginalPrice>
