@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-15T14:31:49.293Z -->
-<!-- Offerte: 5256 -->
+<!-- Generato: 2026-09-15T18:11:16.124Z -->
+<!-- Offerte: 5255 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -13885,7 +13885,7 @@
     <ParentID>catena-lunga-genovese-zincata-g30-bobina-da-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Lunga Genovese Zincata G30 - Bobina da 50 m - Ø 18 mm ��� 50 m</Name>
+    <Name>Catena Lunga Genovese Zincata G30 - Bobina da 50 m - Ø 18 mm — 50 m</Name>
     <Brand>Motomarine</Brand>
     <Description>È catena a maglia lunga (genovese), non calibrata: non va usata con il salpa ancora. Il passo della maglia non corrisponde a quello del barbotin dei verricelli, quindi la catena non ingrana. Per il salpa ancora serve una catena calibrata (DIN 766 o ISO 45</Description>
     <OriginalPrice>1335.00</OriginalPrice>
@@ -25094,7 +25094,7 @@
   <Offer>
     <Name>Piano Cottura a Induzione Dometic ad Incasso - 1 fuoco</Name>
     <Brand>Dometic</Brand>
-    <Description>Il piano cottura a induzione Dometic è pensato per l&apos;incasso a bordo, su piani di lavoro in barca o camper. Si posiziona a filo del piano cucina sfruttando il foro di taglio dedicato, per un&apos;installazione ordinata e senza ingombri sporgenti. È disponibile</Description>
+    <Description>Il piano cottura a induzione Dometic è pensato per l&apos;incasso a bordo, su piani di lavoro in barca o camper. Si posiziona a filo del piano cucina sfruttando il foro di taglio dedicato, per un&apos;installazione ordinata e senza ingombri sporgenti. �� disponibil</Description>
     <OriginalPrice>416.50</OriginalPrice>
     <Price>352.10</Price>
     <Code>1505810</Code>
@@ -25112,7 +25112,7 @@
   <Offer>
     <Name>Piano Cottura a Induzione Dometic ad Incasso - 2 fuochi</Name>
     <Brand>Dometic</Brand>
-    <Description>Il piano cottura a induzione Dometic è pensato per l&apos;incasso a bordo, su piani di lavoro in barca o camper. Si posiziona a filo del piano cucina sfruttando il foro di taglio dedicato, per un&apos;installazione ordinata e senza ingombri sporgenti. È disponibile</Description>
+    <Description>Il piano cottura a induzione Dometic è pensato per l&apos;incasso a bordo, su piani di lavoro in barca o camper. Si posiziona a filo del piano cucina sfruttando il foro di taglio dedicato, per un&apos;installazione ordinata e senza ingombri sporgenti. �� disponibil</Description>
     <OriginalPrice>865.50</OriginalPrice>
     <Price>706.60</Price>
     <Code>1505820</Code>
@@ -26128,22 +26128,6 @@
     <ParentID>tubo-aria-corrugato-fitt-lightflex-per-ventilazione-bobine-da-30-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo in Acciaio Inox AISI 316 Lucidato a Specchio – Barre - Ø 20 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Tubo in Acciaio Inox AISI 316 Lucidato a Specchio è la soluzione ideale per realizzare bimini, cappottine, tientibene e strutture personalizzate a bordo. Realizzato in lega Marine Grade (AISI 316) , garantisce resistenza totale alla corrosione e una fi</Description>
-    <Price>22.41</Price>
-    <Code>41.616.01</Code>
-    <Link>https://www.onautica.com/products/tubo-acciaio-inox-316-al-metro?variant=52513578975579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-acciaio-inox-316-lucidato.png?v=1770055623</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137036392</EanCode>
-    <Weight>1.35</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-acciaio-inox-316-al-metro</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tubo in Acciaio Inox AISI 316 Lucidato a Specchio – Barre - Ø 22 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Tubo in Acciaio Inox AISI 316 Lucidato a Specchio è la soluzione ideale per realizzare bimini, cappottine, tientibene e strutture personalizzate a bordo. Realizzato in lega Marine Grade (AISI 316) , garantisce resistenza totale alla corrosione e una fi</Description>
@@ -26166,7 +26150,7 @@
     <Price>17.12</Price>
     <Code>41.618.01</Code>
     <Link>https://www.onautica.com/products/tubo-acciaio-inox-316-al-metro?variant=52516622860635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/tubo-acciaio-inox-316-lucidato.png?v=1770055623</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -36800,23 +36784,9 @@
     <ParentID>offerta-faro-a-led-inox-da-coperta-6x1w-680-lumen-luce-diffusa</ParentID>
   </Offer>
   <Offer>
-    <Name>Faro Alogeno Ocean Cabin Control 100W – 12V e 24V, portata 100/300 m - 24V</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Faro Halogen Ocean Cabin è un proiettore di profondità orientabile specificamente progettato per l&apos;installazione in cabina. Realizzato con una robusta cassa in ABS , unisce leggerezza e resistenza alla corrosione marina. Disponibile nelle versioni a 12</Description>
-    <Price>133.16</Price>
-    <Code>2123004</Code>
-    <Link>https://www.onautica.com/products/faro-orientabile-cabina-ocean-halogen-12v?variant=53927929381211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-ocean-cabin-control-100w.webp?v=1788589010</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-orientabile-cabina-ocean-halogen-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Faro Alogeno Ocean Cabin Control 100W – 12V e 24V, portata 100/300 m - 12V</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Faro Halogen Ocean Cabin è un proiettore di profondità orientabile specificamente progettato per l&apos;installazione in cabina. Realizzato con una robusta cassa in ABS , unisce leggerezza e resistenza alla corrosione marina. Disponibile nelle versioni a 12</Description>
+    <Name>Faro Alogeno Ocean Cabin Control – Orientabile da Cabina, 12V e 24V, portata 250 m - 12V</Name>
+    <Brand>Ocean</Brand>
+    <Description>Il faro alogeno Ocean Cabin Control è un faro di ricerca orientabile da cabina : si monta all&apos;interno e si punta senza uscire in coperta. Ha la cassa in ABS , leggera e resistente alla salsedine, e un bulbo alogeno stagno Ø 140 mm sostituibile. Proietta d</Description>
     <OriginalPrice>156.50</OriginalPrice>
     <Price>140.03</Price>
     <Code>2123002</Code>
@@ -36826,6 +36796,21 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-ocean-cabin-control-100w.webp?v=1788589010</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8051588000731</EanCode>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-orientabile-cabina-ocean-halogen-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro Alogeno Ocean Cabin Control – Orientabile da Cabina, 12V e 24V, portata 250 m - 24V</Name>
+    <Brand>Ocean</Brand>
+    <Description>Il faro alogeno Ocean Cabin Control è un faro di ricerca orientabile da cabina : si monta all&apos;interno e si punta senza uscire in coperta. Ha la cassa in ABS , leggera e resistente alla salsedine, e un bulbo alogeno stagno Ø 140 mm sostituibile. Proietta d</Description>
+    <OriginalPrice>156.50</OriginalPrice>
+    <Price>140.03</Price>
+    <Code>2123004</Code>
+    <Link>https://www.onautica.com/products/faro-orientabile-cabina-ocean-halogen-12v?variant=53927929381211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/faro-ocean-cabin-control-100w.webp?v=1788589010</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>faro-orientabile-cabina-ocean-halogen-12v</ParentID>
   </Offer>
@@ -87830,7 +87815,7 @@
     <ParentID>sedile-compatto-imbottito-con-flip-up-h51-osculati</ParentID>
   </Offer>
   <Offer>
-    <Name>Sedile compatto imbottito con flip up H51 Osculati - Rivestito in morbido vinile �� Bianco RAL 9010</Name>
+    <Name>Sedile compatto imbottito con flip up H51 Osculati - Rivestito in morbido vinile · Bianco RAL 9010</Name>
     <Brand>Osculati</Brand>
     <Description>Sedile compatto imbottito con flip up H51 Osculati Il sedile compatto con flip-up H51 Osculati ha anima in plastica e alluminio con imbottitura in schiuma espansa ad alta densità; è molto compatto, quindi utilizzabile in spazi ristretti e ideale per l&apos;int</Description>
     <OriginalPrice>389.50</OriginalPrice>
