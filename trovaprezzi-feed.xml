@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-15T06:32:25.413Z -->
-<!-- Offerte: 5356 -->
+<!-- Generato: 2026-09-15T10:31:35.252Z -->
+<!-- Offerte: 5256 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -1677,24 +1677,6 @@
     <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
   </Offer>
   <Offer>
-    <Name>Ricambi Originali Tecma per Toilette Serie Flexi e Design - Pompa macerator MAC11 24V</Name>
-    <Brand>Tecma</Brand>
-    <Description>Questa è la gamma di ricambi originali Tecma per le toilette elettriche della serie Flexi e Design (inclusi i modelli Compact, Breeze ed Evolution). Ogni codice corrisponde a un componente specifico del sistema di scarico e alimentazione della toilette, p</Description>
-    <OriginalPrice>286.50</OriginalPrice>
-    <Price>233.40</Price>
-    <Code>1326130</Code>
-    <Link>https://www.onautica.com/products/ricambi-originali-tecma-per-toilette-serie-flexi-e-design?variant=53877358461275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326130_1.webp?v=1787641659</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ricambi Originali Tecma per Toilette Serie Flexi e Design - Pompa macerator MAC11 230V</Name>
     <Brand>Tecma</Brand>
     <Description>Questa è la gamma di ricambi originali Tecma per le toilette elettriche della serie Flexi e Design (inclusi i modelli Compact, Breeze ed Evolution). Ogni codice corrisponde a un componente specifico del sistema di scarico e alimentazione della toilette, p</Description>
@@ -2194,6 +2176,41 @@
     <Weight>0.38</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-ricarica-salvagente-60g-valvola-hammar</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spina Marinco per Collegamento a Banchina 220V - Spina 32A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La spina Marinco è un connettore elettrico stagno pensato per il collegamento dell&apos;impianto di bordo alla rete elettrica di banchina o a un generatore esterno. La tenuta stagna protegge il contatto elettrico dall&apos;umidità e dagli spruzzi, garantendo un col</Description>
+    <Price>153.50</Price>
+    <Code>2106050</Code>
+    <Link>https://www.onautica.com/products/spina-marinco-per-collegamento-a-banchina-220v?variant=53902665482587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106050_1.webp?v=1787902748</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106034_1.webp?v=1787902735</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106035_1.webp?v=1787902737</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-marinco-per-collegamento-a-banchina-220v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Spina Marinco per Collegamento a Banchina 220V - Spina 63A</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La spina Marinco è un connettore elettrico stagno pensato per il collegamento dell&apos;impianto di bordo alla rete elettrica di banchina o a un generatore esterno. La tenuta stagna protegge il contatto elettrico dall&apos;umidità e dagli spruzzi, garantendo un col</Description>
+    <OriginalPrice>183.00</OriginalPrice>
+    <Price>182.90</Price>
+    <Code>2106063</Code>
+    <Link>https://www.onautica.com/products/spina-marinco-per-collegamento-a-banchina-220v?variant=53902665515355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106063_1.webp?v=1787902753</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>1.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106034_1.webp?v=1787902735</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106035_1.webp?v=1787902737</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>spina-marinco-per-collegamento-a-banchina-220v</ParentID>
   </Offer>
   <Offer>
     <Name>Staffa Rullo Laterale Rialzato a 4 Rulli inclusi per Carrelli</Name>
@@ -5208,24 +5225,6 @@
     <ParentID>ancora-ultra-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Ancora Ultra in Acciaio Inox 316 - 21 Kg.</Name>
-    <Brand>Ultramarine</Brand>
-    <Description>L&apos;ancora Ultra Ultramarine è realizzata in acciaio inox 316 e progettata per garantire una presa rapida e una tenuta stabile sul fondo. La distribuzione dei pesi la fa posizionare sempre con l&apos;angolo di penetrazione corretto, mentre la superficie concava </Description>
-    <OriginalPrice>2362.00</OriginalPrice>
-    <Price>2239.10</Price>
-    <Code>0101621</Code>
-    <Link>https://www.onautica.com/products/ancora-ultra-in-acciaio-inox-316?variant=53756861350235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0101612.webp?v=1786460204</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>21.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0101612_25028fa4-3979-4576-ac06-c5b42c032004.webp?v=1786460206</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0101612_1.webp?v=1786460208</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-ultra-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ancora Ultra in Acciaio Inox 316 - 27 Kg.</Name>
     <Brand>Ultramarine</Brand>
     <Description>L&apos;ancora Ultra Ultramarine è realizzata in acciaio inox 316 e progettata per garantire una presa rapida e una tenuta stabile sul fondo. La distribuzione dei pesi la fa posizionare sempre con l&apos;angolo di penetrazione corretto, mentre la superficie concava </Description>
@@ -6594,78 +6593,6 @@
     <ParentID>bottoni-a-pressione-o-15-mm-in-acciaio-inox-confezione-1000-pz</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 10 mm Passo 28 in Acciaio Inox 316 G40 - 30 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata Ø10mm passo 28 è realizzata in acciaio inox AISI 316L secondo lo standard DIN766, pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G40 garantisce un elevato carico di rottura, pari a circa 4 volte il caric</Description>
-    <OriginalPrice>1062.00</OriginalPrice>
-    <Price>842.20</Price>
-    <Code>011501030</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40?variant=53774693204315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_f281aaf8-e15d-47c6-a649-7a214363ae65.webp?v=1786611154</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>70.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_9443294c-0a26-4399-96dd-0337ec0af431.webp?v=1786611157</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_ed5cc342-292a-4046-a761-1bca56a2ecc4.webp?v=1786611159</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 10 mm Passo 28 in Acciaio Inox 316 G40 - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata Ø10mm passo 28 è realizzata in acciaio inox AISI 316L secondo lo standard DIN766, pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G40 garantisce un elevato carico di rottura, pari a circa 4 volte il caric</Description>
-    <OriginalPrice>1683.00</OriginalPrice>
-    <Price>1334.60</Price>
-    <Code>011501050</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40?variant=53774693237083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_f281aaf8-e15d-47c6-a649-7a214363ae65.webp?v=1786611154</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>117.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_9443294c-0a26-4399-96dd-0337ec0af431.webp?v=1786611157</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_ed5cc342-292a-4046-a761-1bca56a2ecc4.webp?v=1786611159</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 10 mm Passo 28 in Acciaio Inox 316 G40 - 75 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata Ø10mm passo 28 è realizzata in acciaio inox AISI 316L secondo lo standard DIN766, pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G40 garantisce un elevato carico di rottura, pari a circa 4 volte il caric</Description>
-    <OriginalPrice>2520.00</OriginalPrice>
-    <Price>1998.40</Price>
-    <Code>011501075</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40?variant=53774693269851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_f281aaf8-e15d-47c6-a649-7a214363ae65.webp?v=1786611154</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>175.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_9443294c-0a26-4399-96dd-0337ec0af431.webp?v=1786611157</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_ed5cc342-292a-4046-a761-1bca56a2ecc4.webp?v=1786611159</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 10 mm Passo 28 in Acciaio Inox 316 G40 - 100 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata Ø10mm passo 28 è realizzata in acciaio inox AISI 316L secondo lo standard DIN766, pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G40 garantisce un elevato carico di rottura, pari a circa 4 volte il caric</Description>
-    <OriginalPrice>3366.00</OriginalPrice>
-    <Price>2669.20</Price>
-    <Code>0115010100</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40?variant=53774693302619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_f281aaf8-e15d-47c6-a649-7a214363ae65.webp?v=1786611154</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>234.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_9443294c-0a26-4399-96dd-0337ec0af431.webp?v=1786611157</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_ed5cc342-292a-4046-a761-1bca56a2ecc4.webp?v=1786611159</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o10mm-passo-28-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catena Calibrata Salpa Ancora DIN766 Ø 10 mm Passo 28 in Acciaio Zincato G43 - 30 m</Name>
     <Brand>Motomarine</Brand>
     <Description>La catena calibrata DIN766 in acciaio zincato a caldo è pensata per essere utilizzata con i verricelli salpa ancora. La produzione è a Grado G43, con controlli che garantiscono un elevato carico di rottura; il carico di lavoro corrisponde a un quarto del </Description>
@@ -6756,40 +6683,22 @@
     <ParentID>catena-calibrata-salpa-ancora-o-10-mm-g70-in-acciaio-zincato</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 13 mm in Acciaio Inox 316 G40 - 50 m</Name>
+    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 10 mm Passo 28 in Acciaio Zincato G70 - 75 m</Name>
     <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G40 garantisce un elevato carico di rottura, pari a circa 4 volte il carico di lavoro previsto. È disponibile nelle matas</Description>
-    <OriginalPrice>3150.00</OriginalPrice>
-    <Price>2498.00</Price>
-    <Code>011501350</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-13-mm-in-acciaio-inox-316-g40?variant=53774695498075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Description>La catena calibrata DIN766 in acciaio zincato a caldo è pensata per l&apos;uso con verricelli salpa ancora. Le maglie sono calibrate con dimensioni precise, in modo da accoppiarsi correttamente al barbotin del verricello e scorrere senza slittare. Il grado G70</Description>
+    <OriginalPrice>891.00</OriginalPrice>
+    <Price>706.60</Price>
+    <Code>011071075</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-10-mm-g70-in-acciaio-zincato?variant=53774712799579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_0b0346a6-847a-4264-a492-ec81da69d487.webp?v=1786611181</Image>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011070830_5_972cade5-bbbe-428b-a3d9-b7d79f0b624b.webp?v=1786611353</Image>
     <ShippingCost>0</ShippingCost>
-    <Weight>201.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_6874d0ca-bba5-4126-ac0a-9a550ec9a447.webp?v=1786611183</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_23ca1a06-bb0d-4956-adb1-75f66af997c4.webp?v=1786611185</Image3>
+    <Weight>175.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011070830_6_bfeab4f6-eaf2-4938-be22-7fa9439c2d36.webp?v=1786611356</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011070830_3_308ee4fa-abd4-4788-bf92-c56ab1dd09ef.webp?v=1786611358</Image3>
     <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-13-mm-in-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 13 mm in Acciaio Inox 316 G40 - 100 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G40 garantisce un elevato carico di rottura, pari a circa 4 volte il carico di lavoro previsto. È disponibile nelle matas</Description>
-    <OriginalPrice>6210.00</OriginalPrice>
-    <Price>4924.50</Price>
-    <Code>0115013100</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-13-mm-in-acciaio-inox-316-g40?variant=53774695530843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_0b0346a6-847a-4264-a492-ec81da69d487.webp?v=1786611181</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>402.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_6874d0ca-bba5-4126-ac0a-9a550ec9a447.webp?v=1786611183</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_23ca1a06-bb0d-4956-adb1-75f66af997c4.webp?v=1786611185</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-13-mm-in-acciaio-inox-316-g40</ParentID>
+    <ParentID>catena-calibrata-salpa-ancora-o-10-mm-g70-in-acciaio-zincato</ParentID>
   </Offer>
   <Offer>
     <Name>Catena Calibrata Salpa Ancora DIN766 Ø 13 mm in Acciaio Zincato G43 - 100 m</Name>
@@ -6864,78 +6773,6 @@
     <ParentID>catena-calibrata-din766-o-16-mm-in-acciaio-zincato-g43</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 6 mm in Acciaio Inox 316 G40 - 15 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora. La produzione è a Grado G40, con un elevato carico di rottura: il carico di rottura è pari a 4 volte il carico di lavoro. È disponibile nelle lunghezze 1</Description>
-    <OriginalPrice>189.00</OriginalPrice>
-    <Price>180.50</Price>
-    <Code>011500615</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm?variant=53774689534299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615.webp?v=1786611101</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>12.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4.webp?v=1786611103</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_c8c652a6-0ad4-4368-9b8a-86851bc39d76.webp?v=1786611105</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 6 mm in Acciaio Inox 316 G40 - 30 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora. La produzione è a Grado G40, con un elevato carico di rottura: il carico di rottura è pari a 4 volte il carico di lavoro. È disponibile nelle lunghezze 1</Description>
-    <OriginalPrice>378.00</OriginalPrice>
-    <Price>302.80</Price>
-    <Code>011500630</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm?variant=53774689567067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615.webp?v=1786611101</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>24.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4.webp?v=1786611103</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_c8c652a6-0ad4-4368-9b8a-86851bc39d76.webp?v=1786611105</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 6 mm in Acciaio Inox 316 G40 - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora. La produzione è a Grado G40, con un elevato carico di rottura: il carico di rottura è pari a 4 volte il carico di lavoro. È disponibile nelle lunghezze 1</Description>
-    <OriginalPrice>594.00</OriginalPrice>
-    <Price>471.20</Price>
-    <Code>011500650</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm?variant=53774689599835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615.webp?v=1786611101</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>40.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4.webp?v=1786611103</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_c8c652a6-0ad4-4368-9b8a-86851bc39d76.webp?v=1786611105</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 6 mm in Acciaio Inox 316 G40 - 75 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora. La produzione è a Grado G40, con un elevato carico di rottura: il carico di rottura è pari a 4 volte il carico di lavoro. È disponibile nelle lunghezze 1</Description>
-    <OriginalPrice>882.00</OriginalPrice>
-    <Price>699.40</Price>
-    <Code>011500675</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm?variant=53774689632603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615.webp?v=1786611101</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>60.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4.webp?v=1786611103</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_c8c652a6-0ad4-4368-9b8a-86851bc39d76.webp?v=1786611105</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-6-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catena Calibrata Salpa Ancora DIN766 Ø 6 mm in Acciaio Zincato G43 - 30 m</Name>
     <Brand>Motomarine</Brand>
     <Description>La catena calibrata DIN766 in acciaio zincato a caldo è pensata per l&apos;uso con verricelli salpa ancora. La produzione controllata Grado G43 garantisce un elevato carico di rottura, pari a circa 4 volte il carico di lavoro previsto, per un ancoraggio sicuro</Description>
@@ -7005,24 +6842,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630.webp?v=1786611211</Image3>
     <Condition>nuovo</Condition>
     <ParentID>catena-calibrata-salpa-ancora-o-6-mm-in-acciaio-zincato-g43</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 7 mm in Acciaio Inox 316 G40 - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 è realizzata in acciaio inox AISI 316L e serve per il salpaggio dell&apos;ancora con verricelli elettrici o manuali dotati di puleggia calibrata. La produzione è controllata secondo il grado G40, che garantisce un elevato carico di r</Description>
-    <OriginalPrice>882.00</OriginalPrice>
-    <Price>699.40</Price>
-    <Code>011500750</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-7-mm?variant=53774690910555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_df153417-9620-4bd2-845c-158a0a662ccf.webp?v=1786611114</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>53.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_a1e2ba54-9cca-4a65-93ed-27c6db438ec0.webp?v=1786611117</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_ecdea655-5edd-4a8c-8bff-9dba02ad8cf9.webp?v=1786611119</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-in-acciaio-inox-316-g40-o-7-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Catena Calibrata Salpa Ancora DIN766 Ø 7 mm in Acciaio Zincato G43 - 30 m</Name>
@@ -7097,60 +6916,6 @@
     <ParentID>catena-calibrata-salpa-ancora-o-7-mm-in-acciaio-zincato-g43</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 8 mm in Acciaio Inox 316 G40 - 30 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 è pensata per l&apos;uso con verricelli salpa ancora e garantisce un accoppiamento preciso con la barbotin. È realizzata in acciaio inox AISI 316L con produzione controllata Grado G40, per un elevato carico di rottura e una buona res</Description>
-    <OriginalPrice>675.00</OriginalPrice>
-    <Price>535.30</Price>
-    <Code>011500830</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-din766-o8mm-in-acciaio-inox-316?variant=53774691008859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_b82b0daf-6d2f-418f-b622-17ade269effe.webp?v=1786611128</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>42.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_18e5cde9-6d0d-4d1e-a5e6-3cddb8912d7a.webp?v=1786611130</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_0eb67bb6-6b61-48a7-8dff-adcf8d8a8f6e.webp?v=1786611132</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-din766-o8mm-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 8 mm in Acciaio Inox 316 G40 - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 è pensata per l&apos;uso con verricelli salpa ancora e garantisce un accoppiamento preciso con la barbotin. È realizzata in acciaio inox AISI 316L con produzione controllata Grado G40, per un elevato carico di rottura e una buona res</Description>
-    <OriginalPrice>1053.00</OriginalPrice>
-    <Price>835.00</Price>
-    <Code>011500850</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-din766-o8mm-in-acciaio-inox-316?variant=53774691041627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_b82b0daf-6d2f-418f-b622-17ade269effe.webp?v=1786611128</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>70.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_18e5cde9-6d0d-4d1e-a5e6-3cddb8912d7a.webp?v=1786611130</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_0eb67bb6-6b61-48a7-8dff-adcf8d8a8f6e.webp?v=1786611132</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-din766-o8mm-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 8 mm in Acciaio Inox 316 G40 - 100 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata DIN766 è pensata per l&apos;uso con verricelli salpa ancora e garantisce un accoppiamento preciso con la barbotin. È realizzata in acciaio inox AISI 316L con produzione controllata Grado G40, per un elevato carico di rottura e una buona res</Description>
-    <OriginalPrice>2106.00</OriginalPrice>
-    <Price>1670.10</Price>
-    <Code>0115008100</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-din766-o8mm-in-acciaio-inox-316?variant=53774691107163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_b82b0daf-6d2f-418f-b622-17ade269effe.webp?v=1786611128</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>141.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_18e5cde9-6d0d-4d1e-a5e6-3cddb8912d7a.webp?v=1786611130</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_0eb67bb6-6b61-48a7-8dff-adcf8d8a8f6e.webp?v=1786611132</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-din766-o8mm-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catena Calibrata Salpa Ancora DIN766 Ø 8 mm in Acciaio Zincato G43 - 30 m</Name>
     <Brand>Motomarine</Brand>
     <Description>La catena calibrata DIN766 in acciaio zincato a caldo è pensata per l&apos;uso con verricelli salpa ancora. La produzione è a Grado G43, con controlli che garantiscono un elevato carico di rottura rispetto al carico di lavoro previsto: il rapporto tra i due va</Description>
@@ -7205,6 +6970,24 @@
     <ParentID>catena-calibrata-salpa-ancora-in-acciaio-zincato-g43-o-8-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Catena Calibrata Salpa Ancora DIN766 Ø 8 mm in Acciaio Zincato G43 - 100 m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La catena calibrata DIN766 in acciaio zincato a caldo è pensata per l&apos;uso con verricelli salpa ancora. La produzione è a Grado G43, con controlli che garantiscono un elevato carico di rottura rispetto al carico di lavoro previsto: il rapporto tra i due va</Description>
+    <OriginalPrice>539.50</OriginalPrice>
+    <Price>428.50</Price>
+    <Code>0110008100</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-in-acciaio-zincato-g43-o-8-mm?variant=53774699135323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630_8_1429bbff-9caa-430c-a8b5-64d83a84a1b8.webp?v=1786611234</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>141.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630_7_9574a645-a593-4dc6-a66b-d19f71b6444e.webp?v=1786611236</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630_6ac860f4-e9ce-4178-91f0-973f978ac191.webp?v=1786611238</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-salpa-ancora-in-acciaio-zincato-g43-o-8-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Catena Calibrata Salpa Ancora DIN766 Ø 8 mm in Acciaio Zincato G70 - 75 m</Name>
     <Brand>Motomarine</Brand>
     <Description>La catena calibrata DIN766 in acciaio zincato a caldo è pensata per l&apos;uso con verricelli salpa ancora. Il grado G70 e la produzione controllata garantiscono un carico di rottura elevato, mantenendo maglie di dimensioni uniformi adatte al passaggio nel bar</Description>
@@ -7221,96 +7004,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011070830_3.webp?v=1786611332</Image3>
     <Condition>nuovo</Condition>
     <ParentID>catena-calibrata-salpa-ancora-g70-in-acciaio-zincato-o-8-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Inox 316 G40 - 15 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata ISO Ø10 mm in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora, dove serve una calibratura precisa per scorrere correttamente nel barbotin. La produzione è controllata in Grado G40, con un elevato carico di rottur</Description>
-    <OriginalPrice>531.00</OriginalPrice>
-    <Price>422.20</Price>
-    <Code>011501115</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40?variant=53774692876635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_435a03e5-2c12-4c63-b7c9-031ae2c94756.webp?v=1786611141</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>35.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_31da3e47-3a17-4c99-b515-8fecd6cdc4c6.webp?v=1786611143</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_36a27039-e4e0-49a8-ada1-45feac03eb50.webp?v=1786611145</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Inox 316 G40 - 30 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata ISO Ø10 mm in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora, dove serve una calibratura precisa per scorrere correttamente nel barbotin. La produzione è controllata in Grado G40, con un elevato carico di rottur</Description>
-    <OriginalPrice>1062.00</OriginalPrice>
-    <Price>842.20</Price>
-    <Code>011501130</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40?variant=53774692909403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_435a03e5-2c12-4c63-b7c9-031ae2c94756.webp?v=1786611141</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>70.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_31da3e47-3a17-4c99-b515-8fecd6cdc4c6.webp?v=1786611143</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_36a27039-e4e0-49a8-ada1-45feac03eb50.webp?v=1786611145</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Inox 316 G40 - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata ISO Ø10 mm in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora, dove serve una calibratura precisa per scorrere correttamente nel barbotin. La produzione è controllata in Grado G40, con un elevato carico di rottur</Description>
-    <OriginalPrice>1683.00</OriginalPrice>
-    <Price>1334.60</Price>
-    <Code>011501150</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40?variant=53774692942171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_435a03e5-2c12-4c63-b7c9-031ae2c94756.webp?v=1786611141</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>117.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_31da3e47-3a17-4c99-b515-8fecd6cdc4c6.webp?v=1786611143</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_36a27039-e4e0-49a8-ada1-45feac03eb50.webp?v=1786611145</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Inox 316 G40 - 75 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata ISO Ø10 mm in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora, dove serve una calibratura precisa per scorrere correttamente nel barbotin. La produzione è controllata in Grado G40, con un elevato carico di rottur</Description>
-    <OriginalPrice>2520.00</OriginalPrice>
-    <Price>1998.40</Price>
-    <Code>011501175</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40?variant=53774692974939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_435a03e5-2c12-4c63-b7c9-031ae2c94756.webp?v=1786611141</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>175.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_31da3e47-3a17-4c99-b515-8fecd6cdc4c6.webp?v=1786611143</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_36a27039-e4e0-49a8-ada1-45feac03eb50.webp?v=1786611145</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Inox 316 G40 - 100 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La catena calibrata ISO Ø10 mm in acciaio inox AISI 316L è pensata per l&apos;uso con verricelli salpa ancora, dove serve una calibratura precisa per scorrere correttamente nel barbotin. La produzione è controllata in Grado G40, con un elevato carico di rottur</Description>
-    <OriginalPrice>3366.00</OriginalPrice>
-    <Price>2669.20</Price>
-    <Code>0115011100</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40?variant=53774693007707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_435a03e5-2c12-4c63-b7c9-031ae2c94756.webp?v=1786611141</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>234.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_4_31da3e47-3a17-4c99-b515-8fecd6cdc4c6.webp?v=1786611143</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011500615_36a27039-e4e0-49a8-ada1-45feac03eb50.webp?v=1786611145</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40</ParentID>
   </Offer>
   <Offer>
     <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Zincato G43 - 30 m</Name>
@@ -8928,6 +8621,42 @@
     <EanCode>671880587914</EanCode>
     <Condition>nuovo</Condition>
     <ParentID>pompa-manuale-originale-jabsco-twist-n-lock</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Raddrizza Ancora Douglas Marine in Inox AISI 316 - Catena Ø 6-8 mm (ancore 7-17 kg)</Name>
+    <Brand>Douglas Marine</Brand>
+    <Description>Il raddrizza ancora Douglas Marine orienta automaticamente l&apos;ancora nella posizione corretta quando l&apos;attacco raggiunge la puleggia del musone: fine delle manovre col mezzo marinaio per girare l&apos;ancora storta. In acciaio inox AISI 316, si collega direttam</Description>
+    <OriginalPrice>107.42</OriginalPrice>
+    <Price>103.90</Price>
+    <Code>0202462</Code>
+    <Link>https://www.onautica.com/products/raddrizza-ancora-douglas-marine-in-inox-aisi-316?variant=53698962751835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202462-0.webp?v=1785529610</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8056138270091</EanCode>
+    <Weight>1.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202462-1.webp?v=1785529611</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>raddrizza-ancora-douglas-marine-in-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Raddrizza Ancora Douglas Marine in Inox AISI 316 - Catena Ø 10-12 mm (ancore 20-30 kg)</Name>
+    <Brand>Douglas Marine</Brand>
+    <Description>Il raddrizza ancora Douglas Marine orienta automaticamente l&apos;ancora nella posizione corretta quando l&apos;attacco raggiunge la puleggia del musone: fine delle manovre col mezzo marinaio per girare l&apos;ancora storta. In acciaio inox AISI 316, si collega direttam</Description>
+    <OriginalPrice>250.78</OriginalPrice>
+    <Price>242.90</Price>
+    <Code>0202463</Code>
+    <Link>https://www.onautica.com/products/raddrizza-ancora-douglas-marine-in-inox-aisi-316?variant=53698962784603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202462-0.webp?v=1785529610</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8056138270114</EanCode>
+    <Weight>1.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202462-1.webp?v=1785529611</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>raddrizza-ancora-douglas-marine-in-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
     <Name>Raddrizza Ancora Douglas Marine in Inox AISI 316 - Catena Ø 12 mm (ancore 30-50 kg)</Name>
@@ -10703,6 +10432,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2521020_2.webp?v=1787814448</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bussola-riviera-pegasus-3-bp1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Riviera Urania BU4 - Normale</Name>
+    <Brand>Riviera</Brand>
+    <Description>La bussola Riviera Urania BU4 è uno strumento di orientamento per la navigazione a bordo, con rosa graduata ogni 5° e corpo di colore nero. Indica la direzione della barca rispetto al nord magnetico, per la guida e il controllo della rotta. È disponibile </Description>
+    <OriginalPrice>232.00</OriginalPrice>
+    <Price>211.50</Price>
+    <Code>2504500</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-urania-bu4?variant=53892818436443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2504500_1.webp?v=1787814079</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>1.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2504500_2.webp?v=1787814081</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2504500.webp?v=1787814083</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-urania-bu4</ParentID>
   </Offer>
   <Offer>
     <Name>Bussola Riviera White Star B6W3 Nera - Normale 2° R.I.Na.</Name>
@@ -16007,312 +15754,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2156010_da79e120-0683-4c57-b618-84b74ad41063.webp?v=1787903876</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pinza-crimpstar-capicorda-e-giunti-motomarine-0-25-6mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Seastar Color in Poliestere Ø 10 mm – Bobina 200 m - Rossa</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Seastar Color è una cima in poliestere a basso allungamento (inferiore al 6%), morbida, flessibile e con un ottimo grip in mano. L&apos;anima è in treccia di poliestere, la calza in poliestere pettinato termofissato: la lavorazione la rende ada</Description>
-    <OriginalPrice>560.00</OriginalPrice>
-    <Price>488.50</Price>
-    <Code>3132010200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-seastar-color-in-poliestere-o-10-mm-bobina-200-m?variant=53981453549915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132010200_1.webp?v=1788628257</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132210200_1.webp?v=1788628260</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132310200_1.webp?v=1788628262</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-seastar-color-in-poliestere-o-10-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Seastar Color in Poliestere Ø 12 mm – Bobina 200 m - Rossa</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Seastar Color è una cima a basso allungamento (&lt;6%), morbida e flessibile, con un grip molto buono in mano. È costruita con anima in treccia di poliestere e calza in poliestere pettinato, termofissata per mantenere stabili le prestazioni n</Description>
-    <OriginalPrice>680.00</OriginalPrice>
-    <Price>590.00</Price>
-    <Code>3132012200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-seastar-color-in-poliestere-o-12-mm-bobina-200-m?variant=53981454074203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132012200_1.webp?v=1788628268</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>24.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132212200_1.webp?v=1788628271</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132312200_1.webp?v=1788628273</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-seastar-color-in-poliestere-o-12-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Seastar Color in Poliestere Ø 12 mm – Bobina 200 m - Canapa</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Seastar Color è una cima a basso allungamento (&lt;6%), morbida e flessibile, con un grip molto buono in mano. È costruita con anima in treccia di poliestere e calza in poliestere pettinato, termofissata per mantenere stabili le prestazioni n</Description>
-    <OriginalPrice>680.00</OriginalPrice>
-    <Price>590.00</Price>
-    <Code>3132312200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-seastar-color-in-poliestere-o-12-mm-bobina-200-m?variant=53981454139739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132312200_1.webp?v=1788628273</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>24.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132012200_1.webp?v=1788628268</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132212200_1.webp?v=1788628271</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-seastar-color-in-poliestere-o-12-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Seastar Color in Poliestere Ø 14 mm – Bobina 150 m - Blu navy</Name>
-    <Brand>Liros</Brand>
-    <Description>La Scotta Liros Seastar Color è una cima &quot;pelosa&quot; a basso allungamento (meno del 6%), morbida, flessibile e con un buon grip in mano. L&apos;anima è in treccia di poliestere, la calza in poliestere pettinato termofissato, e la colorazione piena su tutta la sez</Description>
-    <OriginalPrice>690.00</OriginalPrice>
-    <Price>601.90</Price>
-    <Code>3132214150</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-seastar-color-in-poliestere-o-14-mm-bobina-150-m?variant=53981455253851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132214150_1.webp?v=1788628281</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132014150_1.webp?v=1788628279</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3132314150_1.webp?v=1788628284</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-seastar-color-in-poliestere-o-14-mm-bobina-150-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 10 mm – Bobina 200 m - Spia rossa</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Top-Cruising di Liros è una cima classica a basso allungamento (meno del 5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e si impiomba con facilità; l&apos;ani</Description>
-    <OriginalPrice>460.00</OriginalPrice>
-    <Price>391.90</Price>
-    <Code>3133010200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-10-mm-bobina-200-m?variant=53981460693339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133010200_1.webp?v=1788628328</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133110200_1.webp?v=1788628331</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133210200_1.webp?v=1788628333</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-10-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 10 mm – Bobina 200 m - Spia blu</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Top-Cruising di Liros è una cima classica a basso allungamento (meno del 5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e si impiomba con facilità; l&apos;ani</Description>
-    <OriginalPrice>460.00</OriginalPrice>
-    <Price>391.90</Price>
-    <Code>3133110200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-10-mm-bobina-200-m?variant=53981460726107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133110200_1.webp?v=1788628331</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133010200_1.webp?v=1788628328</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133210200_1.webp?v=1788628333</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-10-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 10 mm – Bobina 200 m - Spia gialla</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Top-Cruising di Liros è una cima classica a basso allungamento (meno del 5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e si impiomba con facilità; l&apos;ani</Description>
-    <OriginalPrice>460.00</OriginalPrice>
-    <Price>391.90</Price>
-    <Code>3133210200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-10-mm-bobina-200-m?variant=53981460758875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133210200_1.webp?v=1788628333</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133010200_1.webp?v=1788628328</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133110200_1.webp?v=1788628331</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-10-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 12 mm – Bobina 200 m - Spia rossa</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida, flessibile e resistente, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e risulta facile da impiombare. </Description>
-    <OriginalPrice>600.00</OriginalPrice>
-    <Price>526.60</Price>
-    <Code>3133012200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-12-mm-bobina-200-m?variant=53981460824411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133012200_1.webp?v=1788628341</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>24.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133112200_1.webp?v=1788628344</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133212200_1.webp?v=1788628346</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-12-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 12 mm – Bobina 200 m - Spia blu</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida, flessibile e resistente, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e risulta facile da impiombare. </Description>
-    <OriginalPrice>600.00</OriginalPrice>
-    <Price>526.60</Price>
-    <Code>3133112200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-12-mm-bobina-200-m?variant=53981460857179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133112200_1.webp?v=1788628344</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>24.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133012200_1.webp?v=1788628341</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133212200_1.webp?v=1788628346</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-12-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 12 mm – Bobina 200 m - Spia nera</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida, flessibile e resistente, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e risulta facile da impiombare. </Description>
-    <OriginalPrice>600.00</OriginalPrice>
-    <Price>526.60</Price>
-    <Code>3133312200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-12-mm-bobina-200-m?variant=53981460922715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133312200_1.webp?v=1788628348</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>24.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133012200_1.webp?v=1788628341</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133112200_1.webp?v=1788628344</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-12-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 14 mm – Bobina 150 m - Spia blu</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida e flessibile ma resistente, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e si impiomba con facilità: l&apos;</Description>
-    <OriginalPrice>600.00</OriginalPrice>
-    <Price>518.60</Price>
-    <Code>3133114150</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-14-mm-bobina-150-m?variant=53981463380315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133114150_1.webp?v=1788628356</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>25.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133014150_1.webp?v=1788628354</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133214150_1.webp?v=1788628358</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-14-mm-bobina-150-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 6 mm – Bobina 200 m - Spia blu</Name>
-    <Brand>Liros</Brand>
-    <Description>Si vende a bobina intera da 200 m, non è possibile acquistarla a metro. La scotta Liros Top-Cruising è una cima classica a basso allungamento (inferiore al 5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogn</Description>
-    <OriginalPrice>190.00</OriginalPrice>
-    <Price>187.80</Price>
-    <Code>3133106200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-6-mm-bobina-200-m?variant=53981456826715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133106200_1.webp?v=1788628292</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>6.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133006200_1.webp?v=1788628290</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133206200_1.webp?v=1788628294</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-6-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 7 mm – Bobina 200 m - Spia blu</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una scotta classica a basso allungamento (&lt;5%), morbida, flessibile e resistente, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È termofissata, non torce e risulta facile da impiombare</Description>
-    <OriginalPrice>260.00</OriginalPrice>
-    <Price>232.10</Price>
-    <Code>3133107200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-7-mm-bobina-200-m?variant=53981457645915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133107200_1.webp?v=1788628304</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>8.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133007200_1.webp?v=1788628302</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133207200_1.webp?v=1788628307</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-7-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 8 mm – Bobina 200 m - Spia rossa</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È composta da un&apos;anima in treccia di poliestere ad alta tenacità e da </Description>
-    <OriginalPrice>320.00</OriginalPrice>
-    <Price>271.50</Price>
-    <Code>3133008200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m?variant=53981459251547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133008200_1.webp?v=1788628316</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>10.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133108200_1.webp?v=1788628318</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133208200_1.webp?v=1788628320</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 8 mm – Bobina 200 m - Spia blu</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È composta da un&apos;anima in treccia di poliestere ad alta tenacità e da </Description>
-    <OriginalPrice>320.00</OriginalPrice>
-    <Price>271.50</Price>
-    <Code>3133108200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m?variant=53981459284315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133108200_1.webp?v=1788628318</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>10.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133008200_1.webp?v=1788628316</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133208200_1.webp?v=1788628320</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 8 mm – Bobina 200 m - Spia gialla</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È composta da un&apos;anima in treccia di poliestere ad alta tenacità e da </Description>
-    <OriginalPrice>320.00</OriginalPrice>
-    <Price>271.50</Price>
-    <Code>3133208200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m?variant=53981459317083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133208200_1.webp?v=1788628320</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>10.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133008200_1.webp?v=1788628316</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133108200_1.webp?v=1788628318</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scotta Liros Top-Cruising Bianca con Spia in Poliestere Ø 8 mm – Bobina 200 m - Spia nera</Name>
-    <Brand>Liros</Brand>
-    <Description>La scotta Liros Top-Cruising è una cima classica a basso allungamento (&lt;5%), morbida e flessibile, pensata per randa, fiocco e spinnaker su imbarcazioni da crociera di ogni dimensione. È composta da un&apos;anima in treccia di poliestere ad alta tenacità e da </Description>
-    <OriginalPrice>320.00</OriginalPrice>
-    <Price>271.50</Price>
-    <Code>3133308200</Code>
-    <Link>https://www.onautica.com/products/scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m?variant=53981459349851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133308200_1.webp?v=1788628322</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>10.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133008200_1.webp?v=1788628316</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3133108200_1.webp?v=1788628318</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scotta-liros-top-cruising-bianca-con-spia-in-poliestere-o-8-mm-bobina-200-m</ParentID>
   </Offer>
   <Offer>
     <Name>Treccia con Catena Zincata DIN766 Motomarine per Salpa Ancora – Bobine da 40/50 m - Ø12,6mm 40m + Ø6mm 10m</Name>
@@ -27001,23 +26442,6 @@
     <ParentID>aspiratore-ocean-flow-in-line</ParentID>
   </Offer>
   <Offer>
-    <Name>Aspiratore Ocean Flow In Line - Flow 750 - 24V</Name>
-    <Brand>Ocean</Brand>
-    <Description>L&apos;aspiratore Ocean Flow è un estrattore d&apos;aria da installare in linea sul condotto di ventilazione, per aspirare aria, fumi o vapori da vano motore, sentina o altri locali interni della barca. Si collega direttamente al tubo di aerazione e funziona tramit</Description>
-    <OriginalPrice>157.00</OriginalPrice>
-    <Price>153.90</Price>
-    <Code>1710084</Code>
-    <Link>https://www.onautica.com/products/aspiratore-ocean-flow-in-line?variant=53865290367323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1710083.webp?v=1787459564</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1710083_03b1a1c3-3a19-4217-bc4d-bbe071cef2df.webp?v=1787459566</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>aspiratore-ocean-flow-in-line</ParentID>
-  </Offer>
-  <Offer>
     <Name>Aspiratore Ocean Flow In Line - Flow HD 1000 - 24V</Name>
     <Brand>Ocean</Brand>
     <Description>L&apos;aspiratore Ocean Flow è un estrattore d&apos;aria da installare in linea sul condotto di ventilazione, per aspirare aria, fumi o vapori da vano motore, sentina o altri locali interni della barca. Si collega direttamente al tubo di aerazione e funziona tramit</Description>
@@ -28658,6 +28082,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2424756-1.webp?v=1785563724</Image2>
     <Condition>nuovo</Condition>
     <ParentID>evaporatore-isotherm-con-giunti-rapidi</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Evaporatore Ovale Vitrifrigo con Giunti Rapidi - S7 – vani 210 L</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>L&apos;evaporatore ovale Vitrifrigo dà flessibilità all&apos;installazione: si monta sia in orizzontale che in verticale, adattandosi allo spazio disponibile nel vano da refrigerare. Con giunti rapidi per il collegamento all&apos;unità refrigerante senza saldature. Due </Description>
+    <OriginalPrice>284.27</OriginalPrice>
+    <Price>274.90</Price>
+    <Code>2435116</Code>
+    <Link>https://www.onautica.com/products/evaporatore-ovale-vitrifrigo-con-giunti-rapidi?variant=53699675423067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435115-0.webp?v=1785552685</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670651609</EanCode>
+    <Weight>2.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>evaporatore-ovale-vitrifrigo-con-giunti-rapidi</ParentID>
   </Offer>
   <Offer>
     <Name>Evaporatore Ovale Vitrifrigo con Giunti Rapidi - S3 – vani 150 L</Name>
@@ -30511,6 +29952,25 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>8053670655591</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-chromelock-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C130L – 130 L, motore esterno remotabile</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
+    <OriginalPrice>1260.27</OriginalPrice>
+    <Price>1161.90</Price>
+    <Code>2435069</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-chromelock-con-apertura-a-porta?variant=53699516367195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-0.webp?v=1785540408</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8053670655607</EanCode>
     <Weight>25.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-1.webp?v=1785540410</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435060-2.webp?v=1785540412</Image3>
@@ -32599,24 +32059,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829522_1.webp?v=1787641966</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-raffreddamento-motore-johnson-f5b-10</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Raffreddamento Motore Johnson F5B-9 - Pompa completa</Name>
-    <Brand>Johnson</Brand>
-    <Description>La pompa Johnson F5B-9 è una pompa a girante per il raffreddamento motore ad acqua di mare. Aspira l&apos;acqua tramite la girante in gomma e la spinge verso il circuito di raffreddamento del motore, garantendo il ricambio costante necessario a mantenere la te</Description>
-    <OriginalPrice>511.50</OriginalPrice>
-    <Price>421.90</Price>
-    <Code>1829526</Code>
-    <Link>https://www.onautica.com/products/pompa-raffreddamento-motore-johnson-f5b-11?variant=53877366980955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829526.webp?v=1787641976</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>4.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829526_1.webp?v=1787641979</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1816034_1.webp?v=1787641981</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-raffreddamento-motore-johnson-f5b-11</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Raffreddamento Motore Nautic F con Puleggia e Frizione - Ø 30 mm</Name>
@@ -40547,22 +39989,6 @@
     <ParentID>parabordo-a-pera-polyform-tipo-a</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordo a Pera Rinforzato Castro Serie HD - A2 Bianco - h49cm Ø34cm</Name>
-    <Brand>Castro</Brand>
-    <Description>Il parabordo a pera Castro serie HD protegge lo scafo dagli urti contro banchina o altre imbarcazioni. La forma a pera distribuisce il contatto su una superficie ampia e la struttura rinforzata resiste a un uso intensivo, anche su imbarcazioni di dimensio</Description>
-    <Price>58.91</Price>
-    <Code>3802902</Code>
-    <Link>https://www.onautica.com/products/parabordo-a-pera-rinforzato-castro-serie-hd?variant=53764173726043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802902_3.webp?v=1786530666</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_1.webp?v=1786530649</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_2.webp?v=1786530651</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-a-pera-rinforzato-castro-serie-hd</ParentID>
-  </Offer>
-  <Offer>
     <Name>Parabordo a Pera Rinforzato Castro Serie HD - A2 Rosso - h49cm Ø34cm</Name>
     <Brand>Castro</Brand>
     <Description>Il parabordo a pera Castro serie HD protegge lo scafo dagli urti contro banchina o altre imbarcazioni. La forma a pera distribuisce il contatto su una superficie ampia e la struttura rinforzata resiste a un uso intensivo, anche su imbarcazioni di dimensio</Description>
@@ -43251,20 +42677,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z42630-3512-3C-1.webp?v=1785658985</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-autoclave-jabsco-par-max-1-12v-35-psi</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Autoclave Jabsco Par-Max HD - HD4 - 16 L/min 12V</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La pompa autoclave Jabsco Par-Max HD alimenta l&apos;impianto idrico di bordo fornendo acqua in pressione a rubinetti, doccia e altre utenze. Funziona con un pressostato integrato che avvia la pompa automaticamente quando si apre un&apos;utenza e la ferma al raggiu</Description>
-    <Price>230.60</Price>
-    <Code>1827002</Code>
-    <Link>https://www.onautica.com/products/pompa-autoclave-jabsco-par-max-hd?variant=53843729252699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827002_1.webp?v=1787241693</Image>
-    <ShippingCost>0</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-autoclave-jabsco-par-max-hd</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Autoclave Jabsco Par-Max HD - HD6 - 23 L/min 12V</Name>
@@ -52920,6 +52332,23 @@
     <ParentID>barbotin-per-verricelli-salpancora-quick</ParentID>
   </Offer>
   <Offer>
+    <Name>Barbotin per Verricelli Salpancora Quick - Ø 10 mm - 3/8&quot; (Aries, Flair, Rider, Eagle R3 700/1000/1400)</Name>
+    <Brand>Quick</Brand>
+    <Description>Barbotin di ricambio originali Quick per verricelli salpancora: la corona che aggancia la catena calibrata e la accompagna nel recupero. Quando le impronte si consumano la catena inizia a saltare o scivolare sotto carico: sostituire il barbotin restituisc</Description>
+    <OriginalPrice>351.27</OriginalPrice>
+    <Price>259.90</Price>
+    <Code>0307907</Code>
+    <Link>https://www.onautica.com/products/barbotin-per-verricelli-salpancora-quick?variant=53698771190107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307901-0.webp?v=1785523103</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8057090080964</EanCode>
+    <Weight>1.80</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>barbotin-per-verricelli-salpancora-quick</ParentID>
+  </Offer>
+  <Offer>
     <Name>Barbotin per Verricelli Salpancora Quick - Ø 10 mm - 3/8&quot; (Hector)</Name>
     <Brand>Quick</Brand>
     <Description>Barbotin di ricambio originali Quick per verricelli salpancora: la corona che aggancia la catena calibrata e la accompagna nel recupero. Quando le impronte si consumano la catena inizia a saltare o scivolare sotto carico: sostituire il barbotin restituisc</Description>
@@ -53371,6 +52800,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400616-1.webp?v=1785550515</Image2>
     <Condition>nuovo</Condition>
     <ParentID>boiler-nautico-quick-bx-16-compatto</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boiler Nautico Quick BX in Acciaio Inox - 20 litri (Ø 300 × 500 mm)</Name>
+    <Brand>Quick</Brand>
+    <Description>Il Quick BX è il boiler nautico tutto inox: contenitore esterno in acciaio AISI 304 e serbatoio in AISI 316 con scambiatore di calore, per scaldare l&apos;acqua sia con la resistenza elettrica da 1200 W (220 V) sia col circuito motore in navigazione. Selle e f</Description>
+    <OriginalPrice>986.07</OriginalPrice>
+    <Price>655.90</Price>
+    <Code>2400820</Code>
+    <Link>https://www.onautica.com/products/boiler-nautico-quick-bx-in-acciaio-inox?variant=53699517579611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400820-0.webp?v=1785540458</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8057090051346</EanCode>
+    <Weight>12.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>boiler-nautico-quick-bx-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Boiler Nautico Quick BX in Acciaio Inox - 25 litri (Ø 300 × 605 mm)</Name>
@@ -56253,6 +55699,23 @@
     <ParentID>ricevitore-quick-per-radiocomandi</ParentID>
   </Offer>
   <Offer>
+    <Name>Riduttore per Verricelli Salpancora Quick - TG40 – verricelli 500 W</Name>
+    <Brand>Quick</Brand>
+    <Description>Riduttore di ricambio originale Quick: il gruppo meccanico che trasforma i giri del motore elettrico nella forza di tiro del barbotin. Se il verricello gira a vuoto, perde potenza o è rumoroso in modo anomalo, spesso la causa è il riduttore usurato — e so</Description>
+    <OriginalPrice>388.48</OriginalPrice>
+    <Price>282.90</Price>
+    <Code>0307930</Code>
+    <Link>https://www.onautica.com/products/riduttore-per-verricelli-salpancora-quick?variant=53698771550555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307930-0.webp?v=1785523111</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8057090082425</EanCode>
+    <Weight>3.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>riduttore-per-verricelli-salpancora-quick</ParentID>
+  </Offer>
+  <Offer>
     <Name>Riduttore per Verricelli Salpancora Quick - TG70 – verricelli 1500 W</Name>
     <Brand>Quick</Brand>
     <Description>Riduttore di ricambio originale Quick: il gruppo meccanico che trasforma i giri del motore elettrico nella forza di tiro del barbotin. Se il verricello gira a vuoto, perde potenza o è rumoroso in modo anomalo, spesso la causa è il riduttore usurato — e so</Description>
@@ -56420,23 +55883,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxr-singolo-piccolo-inox.webp?v=1778946026</Image3>
     <Condition>nuovo</Condition>
     <ParentID>scalda-acqua-quick-nautic-boiler-bxr-in-acciaio-inox-aisi-316-1200w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scalda Acqua Quick Nautic Boiler BXS 25/40 Litri 1200W Compatto in Acciaio Inox AISI 316 - BXS 25 Litri</Name>
-    <Brand>Quick</Brand>
-    <Description>A chi è rivolto Lo scaldabagno Quick Nautic Boiler BXS è il modello compatto quadrato della gamma Quick, progettato per barche a vela e motore dove lo spazio è un fattore critico. La forma cubica permette di sfruttare al meglio vani tecnici e gavoni di di</Description>
-    <Price>627.31</Price>
-    <Code>1500525</Code>
-    <Link>https://www.onautica.com/products/scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316?variant=52995048505691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-frontale-inox.webp?v=1778946174</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>13.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-laterale.webp?v=1778946174</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/premiscelatore-quick-nautic-boiler-kit-bxs.webp?v=1778946174</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
     <Name>Scalda Acqua Quick Nautic Boiler BXS 25/40 Litri 1200W Compatto in Acciaio Inox AISI 316 - BXS 40 Litri</Name>
@@ -56883,24 +56329,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1203755_aedec877-0a3b-49ad-999b-8efe381ac392.webp?v=1786647427</Image3>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpa-ancora-quick-dylan-h-1500-1700w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpa Ancora Quick Genius GP2 250W - Manuale</Name>
-    <Brand>Quick</Brand>
-    <Description>Il verricello salpa ancora Quick Genius GP2 250W è un modello On-Deck che gestisce cima e catena su un unico barbotin. Base e carter sono in alluminio anodizzato, mentre gli elementi di trazione sono in bronzo e acciaio inox. Il motore è stagno con grado </Description>
-    <OriginalPrice>923.50</OriginalPrice>
-    <Price>920.50</Price>
-    <Code>1238106</Code>
-    <Link>https://www.onautica.com/products/verricello-salpa-ancora-quick-genius-gp2-250w?variant=53776303030619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1238106.webp?v=1786635910</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>9.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1238106_443959a7-1123-450e-8654-b0672c9dd6fc.webp?v=1786635912</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1238106_1.webp?v=1786635915</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpa-ancora-quick-genius-gp2-250w</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpa Ancora Quick Prince DP1 500W (Acciaio Inox) - Prince DP1 (Solo Barbotin)</Name>
@@ -58165,22 +57593,6 @@
     <ParentID>cavo-telecomando-ultraflex-c8-o8-5-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Cavo Telecomando Ultraflex C8 Ø8,5 mm - 40 piedi</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il cavo telecomando Ultraflex C8 ha un diametro di Ø8,5 mm e una corsa di 87 mm. Si adatta a motori entrobordo, entrofuoribordo e gruppi poppieri tramite gli accessori della serie &quot;L&quot;. Si utilizza al posto del cavo C2 quando la lunghezza del cavo e gli sf</Description>
-    <Price>133.90</Price>
-    <Code>4242740</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-c8-o8-5-mm?variant=53763265823067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4242706-0.webp?v=1786521153</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164302459</EanCode>
-    <Weight>2.05</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-c8-o8-5-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cavo Telecomando Ultraflex Mach36 Ø8 mm - 16 piedi</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il cavo telecomando Ultraflex Mach36 è un cavo ad alta efficienza e flessibilità, equivalente al modello C36, con diametro Ø8 mm e corsa di 85 mm. È utilizzabile su motori Mercury, Mercruiser e sulle scatole di comando Mercury serie Generation 2. È dispon</Description>
@@ -58194,23 +57606,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164403101</EanCode>
     <Weight>1.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-telecomando-ultraflex-mach36-o8-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Telecomando Ultraflex Mach36 Ø8 mm - 18 piedi</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il cavo telecomando Ultraflex Mach36 è un cavo ad alta efficienza e flessibilità, equivalente al modello C36, con diametro Ø8 mm e corsa di 85 mm. È utilizzabile su motori Mercury, Mercruiser e sulle scatole di comando Mercury serie Generation 2. È dispon</Description>
-    <OriginalPrice>147.87</OriginalPrice>
-    <Price>133.90</Price>
-    <Code>4202618</Code>
-    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-mach36-o8-mm?variant=53763265888603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4202616-0.webp?v=1786521157</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8031164403125</EanCode>
-    <Weight>1.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-mach36-o8-mm</ParentID>
   </Offer>
@@ -58563,23 +57958,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610073_1.webp?v=1787384344</Image3>
     <Condition>nuovo</Condition>
     <ParentID>comando-motore-top-mount-ultraflex-b73-b74-b77-b79</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Comando Motore Ultraflex B104 Bileva in Lega Cromata - Pomolo cromato X55</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il comando Ultraflex B104 è un comando a doppia azione per il controllo di gas e marce su motori entrobordo ed entro/fuoribordo. Leva e corpo sono in lega inossidabile cromata e il montaggio avviene su plancia. È compatibile con i cavi C2, C8, C33 e MachZ</Description>
-    <Price>105.10</Price>
-    <Code>4610175</Code>
-    <Link>https://www.onautica.com/products/comando-motore-ultraflex-b104-bileva-in-lega-cromata?variant=53908683063643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610175_1.webp?v=1787923620</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610103.webp?v=1787923606</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4610103_3.webp?v=1787923608</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>comando-motore-ultraflex-b104-bileva-in-lega-cromata</ParentID>
   </Offer>
   <Offer>
     <Name>Comando Motore Ultraflex B301CR / B302CR - B302CR Leva Doppia</Name>
@@ -69056,22 +68434,6 @@
     <ParentID>stereo-da-cruscotto-gme-gr350bt</ParentID>
   </Offer>
   <Offer>
-    <Name>Stereo Marino Clarion CMM-10GR USB Bluetooth - CMM-10GR</Name>
-    <Brand>Clarion</Brand>
-    <Description>Lo stereo marino Clarion CMM-10GR riproduce musica da USB e da dispositivi Bluetooth, pensato per l&apos;installazione a bordo al posto di un&apos;autoradio tradizionale. Il foro di incasso è quello standard da 76 mm, comune a molte plance nautiche. È disponibile n</Description>
-    <Price>193.50</Price>
-    <Code>5640800</Code>
-    <Link>https://www.onautica.com/products/stereo-marino-clarion-cmm-10gr-usb-bluetooth?variant=53893098471771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640800.webp?v=1787814977</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640800_a3444a69-01b8-4edb-a5be-a71abad480e9.webp?v=1787814979</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>stereo-marino-clarion-cmm-10gr-usb-bluetooth</ParentID>
-  </Offer>
-  <Offer>
     <Name>Stereo Marino Clarion CMM-20 Bluetooth USB - Stereo CMM-20</Name>
     <Brand>Clarion</Brand>
     <Description>Lo stereo marino Clarion CMM-20 ha un display LCD di grandi dimensioni, da 3,5 pollici, e un&apos;interfaccia utente intuitiva con icone grandi e facili da leggere. È compatibile con la tecnologia Bluetooth, per riprodurre in streaming la musica dal proprio di</Description>
@@ -69122,23 +68484,6 @@
     <Weight>1.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>stereo-marino-fusion-ms-ra210-bluetooth-dsp-dab</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Stereo Marino Fusion MS-RA60 Bluetooth e DAB - Stereo MS-RA60</Name>
-    <Brand>Fusion</Brand>
-    <Description>Lo stereo Fusion MS-RA60 è progettato specificamente per l&apos;intrattenimento audio a bordo: integra un amplificatore in classe D e una connettività avanzata per gestire la musica in barca in modo semplice. Le due zone audio indipendenti permettono di person</Description>
-    <OriginalPrice>306.00</OriginalPrice>
-    <Price>295.90</Price>
-    <Code>5602801</Code>
-    <Link>https://www.onautica.com/products/stereo-marino-fusion-ms-ra60-bluetooth-e-dab?variant=53733617074523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5602801-0.webp?v=1786128960</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>753759250300</EanCode>
-    <Weight>1.80</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>stereo-marino-fusion-ms-ra60-bluetooth-e-dab</ParentID>
   </Offer>
   <Offer>
     <Name>Stereo Marino Fusion MS-RA670 con Bluetooth e Wi-Fi - Stereo MS-RA670</Name>
@@ -74290,6 +73635,22 @@
     <ParentID>sensore-carburante-tubolare-universale-vdo</ParentID>
   </Offer>
   <Offer>
+    <Name>Sensore Carburante Tubolare Universale VDO - 800 mm</Name>
+    <Brand>VDO</Brand>
+    <Description>Il sensore carburante tubolare universale VDO rileva il livello del carburante nel serbatoio e invia il segnale allo strumento di bordo. È composto da un tubo con galleggiante scorrevole, pensato per adattarsi a serbatoi di diversa profondità. È disponibi</Description>
+    <Price>161.50</Price>
+    <Code>2301425</Code>
+    <Link>https://www.onautica.com/products/sensore-carburante-tubolare-universale-vdo?variant=53892785504603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301407.webp?v=1787813427</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301407_1.webp?v=1787813430</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sensore-carburante-tubolare-universale-vdo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sensore Carburante Tubolare Universale VDO - 900 mm</Name>
     <Brand>VDO</Brand>
     <Description>Il sensore carburante tubolare universale VDO rileva il livello del carburante nel serbatoio e invia il segnale allo strumento di bordo. È composto da un tubo con galleggiante scorrevole, pensato per adattarsi a serbatoi di diversa profondità. È disponibi</Description>
@@ -74472,6 +73833,22 @@
     <Price>149.60</Price>
     <Code>2301331</Code>
     <Link>https://www.onautica.com/products/sensore-carburante-vdo-tube?variant=53892784816475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Strumenti Motore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301301.webp?v=1787813416</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301301_1.webp?v=1787813419</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>sensore-carburante-vdo-tube</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sensore Carburante VDO Tube - 750 mm</Name>
+    <Brand>VDO</Brand>
+    <Description>Il sensore carburante VDO Tube è un trasmettitore di livello a immersione, pensato per essere inserito direttamente nel serbatoio del carburante e misurarne il livello in continuo. Il segnale generato viene inviato allo strumento di bordo compatibile, per</Description>
+    <Price>156.10</Price>
+    <Code>2301332</Code>
+    <Link>https://www.onautica.com/products/sensore-carburante-vdo-tube?variant=53892784849243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Strumenti Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301301.webp?v=1787813416</Image>
@@ -77108,25 +76485,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137145766</EanCode>
     <Weight>5.35</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-gommoni-atlas_borsa.webp?v=1788283891</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-gommoni-atlas_accessori_fb00a3b2-9ed6-4ccd-9c8f-03173b9d2de2.webp?v=1788283894</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>telo-copribarca-per-lance-oceansouth</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Telo Copribarca per Lance e Barche Open – Oceansouth (Rimorchiabile) - 430/450 cm.</Name>
-    <Brand>Oceansouth</Brand>
-    <Description>Il Telo Copribarca Oceansouth per Barche Open e &quot;Tinny&quot; (lance e piccoli scafi in alluminio) è progettato per offrire una protezione professionale a imbarcazioni che, tipicamente, non presentano parabrezza o sovrastrutture elevate. Realizzato nel tessuto </Description>
-    <OriginalPrice>149.50</OriginalPrice>
-    <Price>125.18</Price>
-    <Code>46.203.51</Code>
-    <Link>https://www.onautica.com/products/telo-copribarca-per-lance-oceansouth?variant=52522256204123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/46.203.XXe.webp?v=1788283887</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>9337568002360</EanCode>
-    <Weight>4.72</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-gommoni-atlas_borsa.webp?v=1788283891</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-gommoni-atlas_accessori_fb00a3b2-9ed6-4ccd-9c8f-03173b9d2de2.webp?v=1788283894</Image3>
     <Condition>nuovo</Condition>
@@ -79975,68 +79333,6 @@
     <ParentID>ricambio-antenna-vhf-glomex-ra1206-motor</ParentID>
   </Offer>
   <Offer>
-    <Name>Rinvio da Ponte Master Hercules High Load Tersma - 2 pulegge</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il rinvio da ponte Master Hercules High Load convoglia più cime verso il winch o gli stopper, mantenendole in linea e riducendo gli attriti durante la manovra. Le pulegge multiple permettono di gestire in contemporanea drizze, scotte e cime di manovra con</Description>
-    <Price>153.80</Price>
-    <Code>3723212</Code>
-    <Link>https://www.onautica.com/products/rinvio-da-ponte-master-hercules-high-load-tersma?variant=53902893973851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723212.webp?v=1787903193</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.60</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rinvio-da-ponte-master-hercules-high-load-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rinvio da Ponte Master Hercules High Load Tersma - 3 pulegge</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il rinvio da ponte Master Hercules High Load convoglia più cime verso il winch o gli stopper, mantenendole in linea e riducendo gli attriti durante la manovra. Le pulegge multiple permettono di gestire in contemporanea drizze, scotte e cime di manovra con</Description>
-    <Price>166.60</Price>
-    <Code>3723213</Code>
-    <Link>https://www.onautica.com/products/rinvio-da-ponte-master-hercules-high-load-tersma?variant=53902894006619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723212.webp?v=1787903193</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.70</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rinvio-da-ponte-master-hercules-high-load-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rinvio da Ponte Master Hercules High Load Tersma - 4 pulegge</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il rinvio da ponte Master Hercules High Load convoglia più cime verso il winch o gli stopper, mantenendole in linea e riducendo gli attriti durante la manovra. Le pulegge multiple permettono di gestire in contemporanea drizze, scotte e cime di manovra con</Description>
-    <OriginalPrice>199.50</OriginalPrice>
-    <Price>187.80</Price>
-    <Code>3723214</Code>
-    <Link>https://www.onautica.com/products/rinvio-da-ponte-master-hercules-high-load-tersma?variant=53902894039387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723212.webp?v=1787903193</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rinvio-da-ponte-master-hercules-high-load-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rinvio da Ponte Master Hercules High Load Tersma - 5 pulegge</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il rinvio da ponte Master Hercules High Load convoglia più cime verso il winch o gli stopper, mantenendole in linea e riducendo gli attriti durante la manovra. Le pulegge multiple permettono di gestire in contemporanea drizze, scotte e cime di manovra con</Description>
-    <OriginalPrice>252.50</OriginalPrice>
-    <Price>221.80</Price>
-    <Code>3723215</Code>
-    <Link>https://www.onautica.com/products/rinvio-da-ponte-master-hercules-high-load-tersma?variant=53902894072155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723212.webp?v=1787903193</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.40</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>rinvio-da-ponte-master-hercules-high-load-tersma</ParentID>
-  </Offer>
-  <Offer>
     <Name>Roll-Bar con Cappottina Pieghevole in Acciaio Inox Ø 40 mm – Telo Blu UV Resistente - 155 cm</Name>
     <Brand>Osculati</Brand>
     <Description>Roll-Bar con cappottina pieghevole Questo Roll-Bar con cappottina pieghevole unisce in un unico pezzo la struttura di poppa e la copertura parasole. Il telaio del Roll-Bar è in acciaio inox Ø 40 mm , mentre il telaio della cappottina è in acciaio inox Ø 2</Description>
@@ -80130,75 +79426,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_46.916.03b.webp?v=1786029589</Image3>
     <Condition>nuovo</Condition>
     <ParentID>roll-bar-con-cappottina-pieghevole-in-acciaio-inox-o-40-mm-telo-blu-uv-resistente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rulliera Antal V-814 per Cime - 3 pulegge</Name>
-    <Brand>Antal</Brand>
-    <Description>La rulliera Antal V-814 è un sistema a più pulegge pensato per organizzare il passaggio delle cime a bordo, riducendo l&apos;attrito e facilitando il rinvio verso il pozzetto. Le pulegge scorrono libere e permettono di gestire più manovre in un unico punto, ma</Description>
-    <Price>107.80</Price>
-    <Code>3723013</Code>
-    <Link>https://www.onautica.com/products/rulliera-antal-v-814-per-cime?variant=53902887059803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013.webp?v=1787903178</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013_1.webp?v=1787903181</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013_29f88bf7-e30f-404d-abb4-2bfade65c553.webp?v=1787903183</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rulliera-antal-v-814-per-cime</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rulliera Antal V-814 per Cime - 4 pulegge</Name>
-    <Brand>Antal</Brand>
-    <Description>La rulliera Antal V-814 è un sistema a più pulegge pensato per organizzare il passaggio delle cime a bordo, riducendo l&apos;attrito e facilitando il rinvio verso il pozzetto. Le pulegge scorrono libere e permettono di gestire più manovre in un unico punto, ma</Description>
-    <Price>125.90</Price>
-    <Code>3723014</Code>
-    <Link>https://www.onautica.com/products/rulliera-antal-v-814-per-cime?variant=53902887092571&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723014.webp?v=1787903185</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013.webp?v=1787903178</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013_1.webp?v=1787903181</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rulliera-antal-v-814-per-cime</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rulliera Antal V-814 per Cime - 5 pulegge</Name>
-    <Brand>Antal</Brand>
-    <Description>La rulliera Antal V-814 è un sistema a più pulegge pensato per organizzare il passaggio delle cime a bordo, riducendo l&apos;attrito e facilitando il rinvio verso il pozzetto. Le pulegge scorrono libere e permettono di gestire più manovre in un unico punto, ma</Description>
-    <Price>132.00</Price>
-    <Code>3723015</Code>
-    <Link>https://www.onautica.com/products/rulliera-antal-v-814-per-cime?variant=53902887125339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723015.webp?v=1787903187</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013.webp?v=1787903178</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013_1.webp?v=1787903181</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rulliera-antal-v-814-per-cime</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rulliera Antal V-814 per Cime - 6 pulegge</Name>
-    <Brand>Antal</Brand>
-    <Description>La rulliera Antal V-814 è un sistema a più pulegge pensato per organizzare il passaggio delle cime a bordo, riducendo l&apos;attrito e facilitando il rinvio verso il pozzetto. Le pulegge scorrono libere e permettono di gestire più manovre in un unico punto, ma</Description>
-    <OriginalPrice>151.00</OriginalPrice>
-    <Price>147.20</Price>
-    <Code>3723016</Code>
-    <Link>https://www.onautica.com/products/rulliera-antal-v-814-per-cime?variant=53902887158107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723016.webp?v=1787903189</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013.webp?v=1787903178</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723013_1.webp?v=1787903181</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rulliera-antal-v-814-per-cime</ParentID>
   </Offer>
   <Offer>
     <Name>Sensore Pneumatico Livello Serbatoio Tecma T-PF.P07 - Singolo</Name>
@@ -81384,23 +80611,6 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>8052461675695</EanCode>
     <Weight>5.20</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-carburante-diesel-e-benzina-thor-rotolo-intero</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tubo Carburante Diesel e Benzina Thor – Rotolo Intero - Ø 40 mm – rotolo 10 m</Name>
-    <Brand>Thor</Brand>
-    <Description>Il tubo carburante Thor è in gomma per diesel e benzina verde, indicato per imbarcazioni da diporto fino a 24 metri. Ha una temperatura d&apos;impiego da -30°C a +100°C, pressione di esercizio 10 bar e tolleranza dimensionale di ± 3%. È conforme alle normative</Description>
-    <OriginalPrice>474.71</OriginalPrice>
-    <Price>340.90</Price>
-    <Code>2222379</Code>
-    <Link>https://www.onautica.com/products/tubo-carburante-diesel-e-benzina-thor-rotolo-intero?variant=53757779935579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2222371-0.webp?v=1786474179</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052461675169</EanCode>
-    <Weight>3.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tubo-carburante-diesel-e-benzina-thor-rotolo-intero</ParentID>
   </Offer>
@@ -82868,24 +82078,6 @@
     <ParentID>wc-elettrico-ocean-evolution</ParentID>
   </Offer>
   <Offer>
-    <Name>WC Elettrico Ocean Evolution - Comfort 12V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il WC elettrico Ocean Evolution è un toilet nautico con scarico elettrico, pensato per l&apos;installazione a bordo di imbarcazioni. Lo scarico è azionato elettricamente tramite pompa, senza bisogno di pompare manualmente. È disponibile nelle versioni Compact </Description>
-    <OriginalPrice>382.50</OriginalPrice>
-    <Price>324.00</Price>
-    <Code>1320046</Code>
-    <Link>https://www.onautica.com/products/wc-elettrico-ocean-evolution?variant=53861183914331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320042_1.webp?v=1787384623</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320042.webp?v=1787384625</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320031_1_1b9377fd-4bd9-46fc-ac11-371e797d84db.webp?v=1787384617</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-elettrico-ocean-evolution</ParentID>
-  </Offer>
-  <Offer>
     <Name>WC Elettrico Ocean Evolution - Comfort 24V</Name>
     <Brand>Ocean</Brand>
     <Description>Il WC elettrico Ocean Evolution è un toilet nautico con scarico elettrico, pensato per l&apos;installazione a bordo di imbarcazioni. Lo scarico è azionato elettricamente tramite pompa, senza bisogno di pompare manualmente. È disponibile nelle versioni Compact </Description>
@@ -84280,217 +83472,6 @@
     <ParentID>bozzelli-antal-puleggia-70-mm-in-alluminio</ParentID>
   </Offer>
   <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Singolo</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <Price>109.80</Price>
-    <Code>3617510</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156379483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510.webp?v=1787733533</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Singolo con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <Price>112.60</Price>
-    <Code>3617511</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156412251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617511_1.webp?v=1787733556</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Doppio</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <OriginalPrice>172.00</OriginalPrice>
-    <Price>168.80</Price>
-    <Code>3617520</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156445019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617520_1.webp?v=1787733561</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Doppio con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <OriginalPrice>179.50</OriginalPrice>
-    <Price>173.80</Price>
-    <Code>3617521</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156477787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617521_1.webp?v=1787733563</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Singolo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <OriginalPrice>237.50</OriginalPrice>
-    <Price>203.20</Price>
-    <Code>3617512</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156510555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617512_1.webp?v=1787733559</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Triplo</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <OriginalPrice>266.50</OriginalPrice>
-    <Price>221.50</Price>
-    <Code>3617530</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156543323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617530_1.webp?v=1787733565</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Composite 75mm su Sfere Tersma - Triplo con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma hanno la puleggia montata su cuscinetti a sfere, per un passaggio della cima più scorrevole e un attrito ridotto rispetto ai bozzelli tradizionali. Il diametro della puleggia è 75mm, adatto a manovre con carichi medio-alti come</Description>
-    <OriginalPrice>268.50</OriginalPrice>
-    <Price>222.60</Price>
-    <Code>3617531</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-composite-75mm-su-sfere-tersma?variant=53884156576091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617531_1.webp?v=1787733568</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_1.webp?v=1787733529</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3617510_10.webp?v=1787733531</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-composite-75mm-su-sfere-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Tersma Puleggia 72mm - Doppio</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il rinvio delle cime a bordo. Monta una puleggia da 72 mm con boccola a strisciamento (plain bearing), una soluzione semplice e robusta che non richiede cuscinetti a sfere. È disponibile in diverse configurazioni</Description>
-    <Price>136.50</Price>
-    <Code>3610720</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-tersma-puleggia-72mm?variant=53884007317851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610720_1.webp?v=1787733363</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610710_1.webp?v=1787733333</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610710_9.webp?v=1787733335</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-tersma-puleggia-72mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Tersma Puleggia 72mm - Doppio con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il rinvio delle cime a bordo. Monta una puleggia da 72 mm con boccola a strisciamento (plain bearing), una soluzione semplice e robusta che non richiede cuscinetti a sfere. È disponibile in diverse configurazioni</Description>
-    <Price>139.60</Price>
-    <Code>3610721</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-tersma-puleggia-72mm?variant=53884007350619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610721_1.webp?v=1787733365</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610710_1.webp?v=1787733333</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610710_9.webp?v=1787733335</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-tersma-puleggia-72mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Master Tersma Puleggia 72mm - Violino strozzascotte con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il rinvio delle cime a bordo. Monta una puleggia da 72 mm con boccola a strisciamento (plain bearing), una soluzione semplice e robusta che non richiede cuscinetti a sfere. È disponibile in diverse configurazioni</Description>
-    <OriginalPrice>176.50</OriginalPrice>
-    <Price>171.90</Price>
-    <Code>3610714</Code>
-    <Link>https://www.onautica.com/products/bozzelli-master-tersma-puleggia-72mm?variant=53884007383387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610714_1.webp?v=1787733361</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610710_1.webp?v=1787733333</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610710_9.webp?v=1787733335</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-master-tersma-puleggia-72mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Tersma Master Puleggia 50mm a Boccola Liscia - Singolo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma con puleggia da 50 mm sono pensati per rinviare e gestire cime, scotte e drizze a bordo. Montano una boccola liscia (plain bearing) al posto dei cuscinetti a sfera, una soluzione robusta, semplice e con manutenzione ridotta, ad</Description>
-    <Price>115.10</Price>
-    <Code>3610515</Code>
-    <Link>https://www.onautica.com/products/bozzelli-tersma-master-puleggia-50mm-a-boccola-liscia?variant=53883959116123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610515_1.webp?v=1787733286</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610510_1.webp?v=1787733246</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610510_24.webp?v=1787733248</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-tersma-master-puleggia-50mm-a-boccola-liscia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzelli Tersma Master Puleggia 50mm a Boccola Liscia - Triplo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>I bozzelli Master di Tersma con puleggia da 50 mm sono pensati per rinviare e gestire cime, scotte e drizze a bordo. Montano una boccola liscia (plain bearing) al posto dei cuscinetti a sfera, una soluzione robusta, semplice e con manutenzione ridotta, ad</Description>
-    <OriginalPrice>176.50</OriginalPrice>
-    <Price>171.90</Price>
-    <Code>3610532</Code>
-    <Link>https://www.onautica.com/products/bozzelli-tersma-master-puleggia-50mm-a-boccola-liscia?variant=53883959148891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610532_1.webp?v=1787733296</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610510_1.webp?v=1787733246</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610510_24.webp?v=1787733248</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzelli-tersma-master-puleggia-50mm-a-boccola-liscia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bozzello Apribile Antal a Testa Fissa - Ø 40 mm</Name>
     <Brand>Antal</Brand>
     <Description>Il bozzello apribile Antal a testa fissa permette di inserire la cima senza doverla infilare da un&apos;estremità, aprendo il corpo del bozzello e richiudendolo attorno alla puleggia. È pensato per deviare il carico di cime su barche a vela e motore in punti d</Description>
@@ -84571,576 +83552,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601182_1.webp?v=1787242578</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bozzello-apribile-anti-urto-easysea-olli-block</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia 50mm - Violino girevole con strozzascotte e arricavo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello HS con puleggia da 50mm di Hermann Sprenger serve a rinviare e guidare le cime a bordo, riducendo l&apos;attrito grazie alla puleggia rotante. È dimensionato per cime fino a 12mm di diametro e si utilizza per manovre come drizze, scotte e paranchi.</Description>
-    <Price>137.90</Price>
-    <Code>3609107</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-50mm?variant=53883935523163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609107_1.webp?v=1787733211</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609100_1.webp?v=1787733200</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609100.webp?v=1787733202</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-50mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia D70mm per Cima 14mm - Doppio</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger con puleggia da 70mm è pensato per il rinvio e la gestione delle manovre correnti a bordo, con cime fino a 14mm di diametro. La puleggia di grande diametro riduce l&apos;attrito e rende più fluido lo scorrimento della cima anche so</Description>
-    <Price>107.30</Price>
-    <Code>3601260</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-d70mm-per-cima-14mm?variant=53883892957531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601260_1.webp?v=1787733078</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601256_1.webp?v=1787733065</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601256.webp?v=1787733068</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-d70mm-per-cima-14mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia D70mm per Cima 14mm - Doppio con arricavo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger con puleggia da 70mm è pensato per il rinvio e la gestione delle manovre correnti a bordo, con cime fino a 14mm di diametro. La puleggia di grande diametro riduce l&apos;attrito e rende più fluido lo scorrimento della cima anche so</Description>
-    <Price>117.30</Price>
-    <Code>3601261</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-d70mm-per-cima-14mm?variant=53883892990299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601261_1.webp?v=1787733080</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601256_1.webp?v=1787733065</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601256.webp?v=1787733068</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-d70mm-per-cima-14mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia D70mm per Cima 14mm - Violino girevole</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger con puleggia da 70mm è pensato per il rinvio e la gestione delle manovre correnti a bordo, con cime fino a 14mm di diametro. La puleggia di grande diametro riduce l&apos;attrito e rende più fluido lo scorrimento della cima anche so</Description>
-    <Price>132.80</Price>
-    <Code>3601263</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-d70mm-per-cima-14mm?variant=53883893023067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601263_1.webp?v=1787733074</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601256_1.webp?v=1787733065</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601256.webp?v=1787733068</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-d70mm-per-cima-14mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia su Sfere 8mm D28mm - Girevole con arricavo e strozzascotte</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger con puleggia su cuscinetto a sfere ha un diametro di 28 mm ed è pensato per cime fino a 8 mm di diametro. Il cuscinetto a sfere riduce l&apos;attrito nella puleggia, rendendo più scorrevole la manovra anche sotto carico, per rinvii</Description>
-    <Price>123.70</Price>
-    <Code>3608959</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-su-sfere-8mm-d28mm?variant=53883913994587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3608959_1.webp?v=1787733140</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3608965_1.webp?v=1787733122</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3608965.webp?v=1787733125</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-su-sfere-8mm-d28mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Hermann Sprenger Puleggia su Sfere 8mm D28mm - Triplo girevole con arricavo e strozzascotte</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger con puleggia su cuscinetto a sfere ha un diametro di 28 mm ed è pensato per cime fino a 8 mm di diametro. Il cuscinetto a sfere riduce l&apos;attrito nella puleggia, rendendo più scorrevole la manovra anche sotto carico, per rinvii</Description>
-    <Price>147.90</Price>
-    <Code>3608966</Code>
-    <Link>https://www.onautica.com/products/bozzello-hermann-sprenger-puleggia-su-sfere-8mm-d28mm?variant=53883914027355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3608966_1.webp?v=1787733149</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3608965_1.webp?v=1787733122</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3608965.webp?v=1787733125</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hermann-sprenger-puleggia-su-sfere-8mm-d28mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello HS Micro XS Ø19mm in Acciaio Inox - Triplo con strozzascotte e arricavo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello HS Micro XS di Hermann Sprenger è pensato per il rinvio di cime sottili, fino a 4 mm di diametro. Il corpo è in acciaio inox e la puleggia, con diametro di 19 mm, scorre su cuscinetti a sfere per garantire uno scorrimento fluido anche sotto ca</Description>
-    <Price>130.30</Price>
-    <Code>3601364</Code>
-    <Link>https://www.onautica.com/products/bozzello-hs-micro-xs-o19mm-in-acciaio-inox?variant=53883901247835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601364_1.webp?v=1787733108</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601350_1.webp?v=1787733085</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3601350.webp?v=1787733087</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hs-micro-xs-o19mm-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello HS Puleggia su Sfere D36mm Ø10mm - Singolo girevole con strozza e arricavo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger monta una puleggia su cuscinetti a sfere da 36 mm di diametro, pensata per cavi da 10 mm. Lo scorrimento su sfere riduce l&apos;attrito e rende la manovra più fluida anche sotto carico. È disponibile nelle versioni Singolo girevole</Description>
-    <Price>134.50</Price>
-    <Code>3609061</Code>
-    <Link>https://www.onautica.com/products/bozzello-hs-puleggia-su-sfere-d36mm-o10mm?variant=53883930411355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609061_1.webp?v=1787733187</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609053_1.webp?v=1787733178</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609053.webp?v=1787733180</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hs-puleggia-su-sfere-d36mm-o10mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello HS Puleggia su Sfere D36mm Ø10mm - Violino girevole con strozza e arricavo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello Hermann Sprenger monta una puleggia su cuscinetti a sfere da 36 mm di diametro, pensata per cavi da 10 mm. Lo scorrimento su sfere riduce l&apos;attrito e rende la manovra più fluida anche sotto carico. È disponibile nelle versioni Singolo girevole</Description>
-    <Price>138.20</Price>
-    <Code>3609059</Code>
-    <Link>https://www.onautica.com/products/bozzello-hs-puleggia-su-sfere-d36mm-o10mm?variant=53883930444123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609059_1.webp?v=1787733189</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609053_1.webp?v=1787733178</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609053.webp?v=1787733180</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hs-puleggia-su-sfere-d36mm-o10mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello HS Puleggia su Sfere Ø50mm - Hermann Sprenger - Triplo</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello HS di Hermann Sprenger utilizza una puleggia su cuscinetti a sfere per ridurre l&apos;attrito durante il passaggio della cima, rendendo più leggere le manovre sotto carico. È pensato per cime con diametro fino a 12mm ed è disponibile in diverse con</Description>
-    <Price>108.50</Price>
-    <Code>3609161</Code>
-    <Link>https://www.onautica.com/products/bozzello-hs-puleggia-su-sfere-o50mm-hermann-sprenger?variant=53883946500443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609161_1.webp?v=1787733242</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609151_1.webp?v=1787733223</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609151.webp?v=1787733226</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hs-puleggia-su-sfere-o50mm-hermann-sprenger</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello HS Puleggia su Sfere Ø50mm - Hermann Sprenger - Singolo girevole con arricavo e strozzascotte</Name>
-    <Brand>Hermann Sprenger</Brand>
-    <Description>Il bozzello HS di Hermann Sprenger utilizza una puleggia su cuscinetti a sfere per ridurre l&apos;attrito durante il passaggio della cima, rendendo più leggere le manovre sotto carico. È pensato per cime con diametro fino a 12mm ed è disponibile in diverse con</Description>
-    <Price>152.20</Price>
-    <Code>3609155</Code>
-    <Link>https://www.onautica.com/products/bozzello-hs-puleggia-su-sfere-o50mm-hermann-sprenger?variant=53883946533211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609155_1.webp?v=1787733234</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609151_1.webp?v=1787733223</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3609151.webp?v=1787733226</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-hs-puleggia-su-sfere-o50mm-hermann-sprenger</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Composite Puleggia su Sfere D40mm Tersma - Singolo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Tersma ha la puleggia in composito che scorre su cuscinetti a sfere, pensato per ridurre l&apos;attrito e rendere più leggera la manovra delle cime a bordo. Il diametro della puleggia è di 40 mm. È disponibile nelle versioni Singolo, Violino</Description>
-    <Price>139.60</Price>
-    <Code>3614012</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-composite-puleggia-su-sfere-d40mm-tersma?variant=53884062302555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614012_1.webp?v=1787733451</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_1.webp?v=1787733415</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_24.webp?v=1787733417</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-composite-puleggia-su-sfere-d40mm-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Composite Puleggia su Sfere D40mm Tersma - Triplo con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Tersma ha la puleggia in composito che scorre su cuscinetti a sfere, pensato per ridurre l&apos;attrito e rendere più leggera la manovra delle cime a bordo. Il diametro della puleggia è di 40 mm. È disponibile nelle versioni Singolo, Violino</Description>
-    <Price>139.60</Price>
-    <Code>3614031</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-composite-puleggia-su-sfere-d40mm-tersma?variant=53884062335323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614031_1.webp?v=1787733467</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_1.webp?v=1787733415</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_24.webp?v=1787733417</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-composite-puleggia-su-sfere-d40mm-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Composite Puleggia su Sfere D40mm Tersma - Triplo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Tersma ha la puleggia in composito che scorre su cuscinetti a sfere, pensato per ridurre l&apos;attrito e rendere più leggera la manovra delle cime a bordo. Il diametro della puleggia è di 40 mm. È disponibile nelle versioni Singolo, Violino</Description>
-    <Price>150.50</Price>
-    <Code>3614030</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-composite-puleggia-su-sfere-d40mm-tersma?variant=53884062368091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614030_1.webp?v=1787733465</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_1.webp?v=1787733415</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_24.webp?v=1787733417</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-composite-puleggia-su-sfere-d40mm-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Composite Puleggia su Sfere D40mm Tersma - Violino con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Tersma ha la puleggia in composito che scorre su cuscinetti a sfere, pensato per ridurre l&apos;attrito e rendere più leggera la manovra delle cime a bordo. Il diametro della puleggia è di 40 mm. È disponibile nelle versioni Singolo, Violino</Description>
-    <Price>154.80</Price>
-    <Code>3614015</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-composite-puleggia-su-sfere-d40mm-tersma?variant=53884062400859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614015_1.webp?v=1787733457</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_1.webp?v=1787733415</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_24.webp?v=1787733417</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-composite-puleggia-su-sfere-d40mm-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Composite Puleggia su Sfere D40mm Tersma - Triplo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Tersma ha la puleggia in composito che scorre su cuscinetti a sfere, pensato per ridurre l&apos;attrito e rendere più leggera la manovra delle cime a bordo. Il diametro della puleggia è di 40 mm. È disponibile nelle versioni Singolo, Violino</Description>
-    <OriginalPrice>236.50</OriginalPrice>
-    <Price>202.70</Price>
-    <Code>3614032</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-composite-puleggia-su-sfere-d40mm-tersma?variant=53884062433627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614032_1.webp?v=1787733469</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_1.webp?v=1787733415</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3614010_24.webp?v=1787733417</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-composite-puleggia-su-sfere-d40mm-tersma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Hercules Tersma in Alluminio su Sfere - Singolo Ø57mm</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Hercules di Tersma è un rinvio in alluminio con puleggia su cuscinetti a sfere, pensato per il passaggio di cime, scotte e drizze con il minimo attrito. La struttura in alluminio lo rende leggero senza rinunciare alla resistenza ai cari</Description>
-    <Price>147.60</Price>
-    <Code>3611510</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-hercules-tersma-in-alluminio-su-sfere?variant=53884045164891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_1.webp?v=1787733392</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510.webp?v=1787733394</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_c01665f3-a8af-46df-870c-ab983bf8beb8.webp?v=1787733396</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-hercules-tersma-in-alluminio-su-sfere</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Hercules Tersma in Alluminio su Sfere - Piede albero Ø75mm</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Hercules di Tersma è un rinvio in alluminio con puleggia su cuscinetti a sfere, pensato per il passaggio di cime, scotte e drizze con il minimo attrito. La struttura in alluminio lo rende leggero senza rinunciare alla resistenza ai cari</Description>
-    <Price>147.90</Price>
-    <Code>3611712</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-hercules-tersma-in-alluminio-su-sfere?variant=53884045197659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611712_1.webp?v=1787733410</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_1.webp?v=1787733392</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510.webp?v=1787733394</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-hercules-tersma-in-alluminio-su-sfere</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Hercules Tersma in Alluminio su Sfere - Singolo Ø75mm</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Hercules di Tersma è un rinvio in alluminio con puleggia su cuscinetti a sfere, pensato per il passaggio di cime, scotte e drizze con il minimo attrito. La struttura in alluminio lo rende leggero senza rinunciare alla resistenza ai cari</Description>
-    <OriginalPrice>169.50</OriginalPrice>
-    <Price>166.90</Price>
-    <Code>3611710</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-hercules-tersma-in-alluminio-su-sfere?variant=53884045230427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611710_1.webp?v=1787733402</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_1.webp?v=1787733392</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510.webp?v=1787733394</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-hercules-tersma-in-alluminio-su-sfere</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Hercules Tersma in Alluminio su Sfere - Con arricavo Ø57mm</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Hercules di Tersma è un rinvio in alluminio con puleggia su cuscinetti a sfere, pensato per il passaggio di cime, scotte e drizze con il minimo attrito. La struttura in alluminio lo rende leggero senza rinunciare alla resistenza ai cari</Description>
-    <OriginalPrice>176.50</OriginalPrice>
-    <Price>171.90</Price>
-    <Code>3611511</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-hercules-tersma-in-alluminio-su-sfere?variant=53884045263195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611511_1.webp?v=1787733404</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_1.webp?v=1787733392</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510.webp?v=1787733394</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-hercules-tersma-in-alluminio-su-sfere</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Hercules Tersma in Alluminio su Sfere - Con arricavo Ø75mm</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Hercules di Tersma è un rinvio in alluminio con puleggia su cuscinetti a sfere, pensato per il passaggio di cime, scotte e drizze con il minimo attrito. La struttura in alluminio lo rende leggero senza rinunciare alla resistenza ai cari</Description>
-    <OriginalPrice>212.50</OriginalPrice>
-    <Price>187.80</Price>
-    <Code>3611711</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-hercules-tersma-in-alluminio-su-sfere?variant=53884045295963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_1.webp?v=1787733392</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510.webp?v=1787733394</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3611510_c01665f3-a8af-46df-870c-ab983bf8beb8.webp?v=1787733396</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-hercules-tersma-in-alluminio-su-sfere</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Doppio</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <Price>115.10</Price>
-    <Code>3615720</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115779931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615720_1.webp?v=1787733515</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Doppio con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <Price>122.60</Price>
-    <Code>3615721</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115812699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615721_1.webp?v=1787733517</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Singolo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <Price>152.80</Price>
-    <Code>3615712</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115845467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615712_1.webp?v=1787733506</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Triplo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <Price>152.80</Price>
-    <Code>3615730</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115878235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615730_1.webp?v=1787733519</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Violino con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <OriginalPrice>171.00</OriginalPrice>
-    <Price>167.80</Price>
-    <Code>3615715</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115911003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615715_1.webp?v=1787733513</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Triplo con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <OriginalPrice>179.50</OriginalPrice>
-    <Price>173.80</Price>
-    <Code>3615731</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115943771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615731_1.webp?v=1787733522</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Master Tersma Puleggia su Sfere 57mm - Triplo con arricavo e strozzascotte</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è dotato di puleggia da 57 mm montata su cuscinetti a sfere, pensato per rinviare scotte, drizze e cime di manovra riducendo l&apos;attrito anche sotto carico. Il corpo in materiale composito garantisce leggerezza e resistenza alla</Description>
-    <OriginalPrice>253.50</OriginalPrice>
-    <Price>213.40</Price>
-    <Code>3615732</Code>
-    <Link>https://www.onautica.com/products/bozzello-master-tersma-puleggia-su-sfere-57mm?variant=53884115976539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615732_1.webp?v=1787733524</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_1.webp?v=1787733476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3615710_11.webp?v=1787733477</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-master-tersma-puleggia-su-sfere-57mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Tersma Master Puleggia 60mm - Violino strozzascotte con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master Tersma con puleggia da 60mm è pensato per il rinvio di cime a bordo, con bronzine a scorrimento (plain bearing) che garantiscono un movimento fluido della puleggia sotto carico. La struttura è pensata per un uso continuativo nelle manov</Description>
-    <Price>140.20</Price>
-    <Code>3610614</Code>
-    <Link>https://www.onautica.com/products/bozzello-tersma-master-puleggia-60mm?variant=53883990114651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610614_1.webp?v=1787733326</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610610_1.webp?v=1787733303</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610610_12.webp?v=1787733305</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-tersma-master-puleggia-60mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Tersma Master Puleggia 90mm Plain Bearing - Singolo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il passaggio e il rinvio delle cime a bordo. Monta una puleggia da 90 mm su cuscinetto plain bearing (a strisciamento), pensato per lavorare sotto carico senza bisogno di manutenzione frequente. È disponibile in </Description>
-    <Price>146.20</Price>
-    <Code>3610910</Code>
-    <Link>https://www.onautica.com/products/bozzello-tersma-master-puleggia-90mm-plain-bearing?variant=53884025241947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_1.webp?v=1787733372</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_4.webp?v=1787733374</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910.webp?v=1787733376</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-tersma-master-puleggia-90mm-plain-bearing</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Tersma Master Puleggia 90mm Plain Bearing - Singolo con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il passaggio e il rinvio delle cime a bordo. Monta una puleggia da 90 mm su cuscinetto plain bearing (a strisciamento), pensato per lavorare sotto carico senza bisogno di manutenzione frequente. È disponibile in </Description>
-    <Price>159.30</Price>
-    <Code>3610911</Code>
-    <Link>https://www.onautica.com/products/bozzello-tersma-master-puleggia-90mm-plain-bearing?variant=53884025274715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610911_1.webp?v=1787733384</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_1.webp?v=1787733372</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_4.webp?v=1787733374</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-tersma-master-puleggia-90mm-plain-bearing</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Tersma Master Puleggia 90mm Plain Bearing - Violino</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il passaggio e il rinvio delle cime a bordo. Monta una puleggia da 90 mm su cuscinetto plain bearing (a strisciamento), pensato per lavorare sotto carico senza bisogno di manutenzione frequente. È disponibile in </Description>
-    <OriginalPrice>179.50</OriginalPrice>
-    <Price>173.80</Price>
-    <Code>3610912</Code>
-    <Link>https://www.onautica.com/products/bozzello-tersma-master-puleggia-90mm-plain-bearing?variant=53884025307483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610912_1.webp?v=1787733386</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_1.webp?v=1787733372</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_4.webp?v=1787733374</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-tersma-master-puleggia-90mm-plain-bearing</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bozzello Tersma Master Puleggia 90mm Plain Bearing - Violino con arricavo</Name>
-    <Brand>Tersma</Brand>
-    <Description>Il bozzello Master di Tersma è pensato per il passaggio e il rinvio delle cime a bordo. Monta una puleggia da 90 mm su cuscinetto plain bearing (a strisciamento), pensato per lavorare sotto carico senza bisogno di manutenzione frequente. È disponibile in </Description>
-    <OriginalPrice>199.00</OriginalPrice>
-    <Price>187.10</Price>
-    <Code>3610913</Code>
-    <Link>https://www.onautica.com/products/bozzello-tersma-master-puleggia-90mm-plain-bearing?variant=53884025340251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610913_1.webp?v=1787733388</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_1.webp?v=1787733372</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3610910_4.webp?v=1787733374</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bozzello-tersma-master-puleggia-90mm-plain-bearing</ParentID>
   </Offer>
   <Offer>
     <Name>Carrello e Rotaia Genoa Antal 40x8 mm - Carrello</Name>
@@ -85461,141 +83872,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>manovella-antal-single-grip-200mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 2 pulegge Ø40mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <Price>128.00</Price>
-    <Code>3723512</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368257371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 2 pulegge Ø50mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>153.50</OriginalPrice>
-    <Price>148.50</Price>
-    <Code>3723502</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368290139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 3 pulegge Ø40mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>154.00</OriginalPrice>
-    <Price>148.80</Price>
-    <Code>3723513</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368322907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 4 pulegge Ø40mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>196.50</OriginalPrice>
-    <Price>177.00</Price>
-    <Code>3723514</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368355675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 5 pulegge Ø40mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>239.00</OriginalPrice>
-    <Price>194.70</Price>
-    <Code>3723515</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368421211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 4 pulegge Ø50mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>271.00</OriginalPrice>
-    <Price>213.50</Price>
-    <Code>3723504</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368453979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 6 pulegge Ø40mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>285.00</OriginalPrice>
-    <Price>221.90</Price>
-    <Code>3723516</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368486747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Organizer Antal Multipuleggia D40/D50 - 6 pulegge Ø50mm</Name>
-    <Brand>Antal</Brand>
-    <Description>L&apos;organizer Antal è un accessorio da coperta con pulegge multiple in linea, pensato per deviare e raggruppare più cime in un unico punto, riducendo l&apos;attrito e mantenendo il ponte in ordine. Si fissa direttamente sulla base d&apos;appoggio con le viti previste</Description>
-    <OriginalPrice>406.50</OriginalPrice>
-    <Price>305.20</Price>
-    <Code>3723506</Code>
-    <Link>https://www.onautica.com/products/organizer-antal-multipuleggia-d40-d50?variant=53884368552283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Vela;Winch e Manovre</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512.webp?v=1787733840</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3723512_1.webp?v=1787733842</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>organizer-antal-multipuleggia-d40-d50</ParentID>
   </Offer>
   <Offer>
     <Name>Pavimento Nautico in PVC Lario - Colore 290 Azzurro</Name>
@@ -88882,7 +87158,7 @@
     <ParentID>scarico-a-mare-in-ottone-lucido-guidi</ParentID>
   </Offer>
   <Offer>
-    <Name>Scarico a Mare in Ottone Lucido Guidi - Ø 3&quot;</Name>
+    <Name>Scarico a Mare in Ottone Lucido Guidi - �� 3&quot;</Name>
     <Brand>Guidi</Brand>
     <Description>Lo scarico a mare Guidi in ottone lucido è pensato per l&apos;installazione di scarichi e prese a mare sullo scafo. È disponibile nei diametri Ø 2&quot;1/2 e Ø 3&quot;. A chi è rivolto A chi deve installare o sostituire uno scarico a mare in ottone e cerca un prodotto G</Description>
     <OriginalPrice>181.86</OriginalPrice>
@@ -91217,23 +89493,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0380760-1.webp?v=1785536530</Image2>
     <Condition>nuovo</Condition>
     <ParentID>tunnel-di-poppa-max-power-serie-ct</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tunnel di Prua in Vetroresina Quick BTQ - Ø 125 × 750 mm (BTQ-125)</Name>
-    <Brand>Quick</Brand>
-    <Description>Tunnel di prua in vetroresina Quick: il condotto che alloggia l&apos;elica di manovra e attraversa lo scafo, laminabile direttamente nella vetroresina della barca durante l&apos;installazione del bow thruster. Disponibile nei diametri per le eliche Quick BTQ-125 (Ø</Description>
-    <OriginalPrice>201.69</OriginalPrice>
-    <Price>167.90</Price>
-    <Code>0390430</Code>
-    <Link>https://www.onautica.com/products/tunnel-di-prua-in-vetroresina-quick-btq?variant=53698842624347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Eliche di Manovra</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0390401-0.webp?v=1785525385</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057090117691</EanCode>
-    <Weight>3.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tunnel-di-prua-in-vetroresina-quick-btq</ParentID>
   </Offer>
   <Offer>
     <Name>Tunnel di Prua in Vetroresina Quick BTQ - Ø 125 × 1000 mm (BTQ-125)</Name>
