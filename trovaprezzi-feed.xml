@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-17T14:36:46.710Z -->
-<!-- Offerte: 5257 -->
+<!-- Generato: 2026-09-17T18:11:17.352Z -->
+<!-- Offerte: 5258 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -30069,7 +30069,7 @@
     <ParentID>frigorifero-vitrifrigo-dw-inox-con-apertura-a-cassetto</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Vitrifrigo DW con Apertura a Cassetto - DW90i ��� 90 L + freezer, motore interno</Name>
+    <Name>Frigorifero Vitrifrigo DW con Apertura a Cassetto - DW90i – 90 L + freezer, motore interno</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>La serie DW di Vitrifrigo unisce l&apos;acciaio inox all&apos;apertura a cassetto: il contenuto scorre verso di te su guide, con la maniglia Steelock che integra la funzione vent position — porta socchiusa nei periodi di inattività contro muffe e odori. Completi di</Description>
     <Price>1601.80</Price>
@@ -31152,6 +31152,25 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ghiacciaia-igloo-marine-ultra-nautica.png?v=1773341726</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ghiacciaia-igloo-marine-ultra</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ghiacciaia Igloo Polar 120 QT - 114l t.</Name>
+    <Brand>Igloo</Brand>
+    <Description>Questa ghiacciaia Igloo è construita con isolamento Ultratherm® nel corpo e nel coperchio trattiene il ghiaccio fino a 5 giorni. Maniglie rinforzate ribaltabili con funzione di anello di fissaggio per un trasporto e un carico versatili. Le doppie chiusure</Description>
+    <OriginalPrice>229.50</OriginalPrice>
+    <Price>197.04</Price>
+    <Code>1540122</Code>
+    <Link>https://www.onautica.com/products/offerta-ghiacciaia-igloo-120-polar-114lt-bianca?variant=52577460158811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.18.png?v=1773341724</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>034223445775</EanCode>
+    <Weight>9.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.18b.png?v=1773341725</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/50.558.18c.png?v=1773341726</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-ghiacciaia-igloo-120-polar-114lt-bianca</ParentID>
   </Offer>
   <Offer>
     <Name>Ghiacciaia Pieghevole Coleman Snap&apos;N Go - 35 QT – 33 litri</Name>
@@ -64746,7 +64765,7 @@
   <Offer>
     <Name>Elica Alice per Mercruiser Bravo III e Yanmar in Acciaio Inox - 3 pale 14 1/4 x 22</Name>
     <Brand>Elica Alice</Brand>
-    <Description>⚠�� L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Bra</Description>
+    <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Brav</Description>
     <OriginalPrice>793.00</OriginalPrice>
     <Price>566.00</Price>
     <Code>4983703</Code>
@@ -64763,7 +64782,7 @@
   <Offer>
     <Name>Elica Alice per Mercruiser Bravo III e Yanmar in Acciaio Inox - 4 pale 15 3/4 x 22</Name>
     <Brand>Elica Alice</Brand>
-    <Description>⚠�� L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Bra</Description>
+    <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Brav</Description>
     <OriginalPrice>793.00</OriginalPrice>
     <Price>566.00</Price>
     <Code>4984612</Code>
@@ -64780,7 +64799,7 @@
   <Offer>
     <Name>Elica Alice per Mercruiser Bravo III e Yanmar in Acciaio Inox - Kit parastrappi Bravo III / Yanmar Drive</Name>
     <Brand>Elica Alice</Brand>
-    <Description>⚠�� L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Bra</Description>
+    <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Brav</Description>
     <Price>125.10</Price>
     <Code>4960032</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-mercruiser-bravo-iii-e-yanmar-in-acciaio-inox?variant=53851416822107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -88265,7 +88284,7 @@
     <ParentID>serbatoio-acque-nere-can-sb-new-line</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio Acque Nere e Grigie Can SB con Pompa Jabsco - 41 litri (650��390×200 mm)</Name>
+    <Name>Serbatoio Acque Nere e Grigie Can SB con Pompa Jabsco - 41 litri (650×390×200 mm)</Name>
     <Brand>Can Sb</Brand>
     <Description>Il serbatoio acque nere e grigie Can SB arriva già completo dell&apos;impianto di svuotamento: pompa autoadescante Jabsco 12 V da 19 litri/minuto e sensore di livello (240-33 Ohm) montati, con portagomma in/out da 38 mm. In plastica, tre capacità: 41, 63 e 83 </Description>
     <OriginalPrice>867.71</OriginalPrice>
