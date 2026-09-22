@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-22T06:32:07.551Z -->
-<!-- Offerte: 5832 -->
+<!-- Generato: 2026-09-22T10:31:21.514Z -->
+<!-- Offerte: 5819 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -1191,13 +1191,13 @@
     <Brand>Ocean</Brand>
     <Description>La pompa Ocean Waste 32 serve per lo scarico delle acque nere dal serbatoio di bordo. Ha un funzionamento elettrico e una portata di 32 litri al minuto, con bocche di aspirazione e mandata da 38 mm (1&quot;1/2). È disponibile nelle versioni 12V e 24V, per adat</Description>
     <OriginalPrice>188.00</OriginalPrice>
-    <Price>181.70</Price>
+    <Price>175.40</Price>
     <Code>1826020</Code>
     <Link>https://www.onautica.com/products/pompa-acque-nere-ocean-waste-32?variant=53877343617371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826018.webp?v=1787640885</Image>
-    <ShippingCost>0</ShippingCost>
+    <ShippingCost>5.90</ShippingCost>
     <Weight>2.10</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompa-acque-nere-ocean-waste-32</ParentID>
@@ -1623,23 +1623,6 @@
     <Weight>0.80</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ricambi Originali Tecma per Toilette Serie Flexi e Design - Kit manicotti e valvola</Name>
-    <Brand>Tecma</Brand>
-    <Description>Questa è la gamma di ricambi originali Tecma per le toilette elettriche della serie Flexi e Design (inclusi i modelli Compact, Breeze ed Evolution). Ogni codice corrisponde a un componente specifico del sistema di scarico e alimentazione della toilette, p</Description>
-    <Price>152.20</Price>
-    <Code>1326154</Code>
-    <Link>https://www.onautica.com/products/ricambi-originali-tecma-per-toilette-serie-flexi-e-design?variant=53877358395739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326130_1.webp?v=1787641659</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
   </Offer>
@@ -8171,23 +8154,6 @@
     <Weight>0.86</Weight>
     <Condition>nuovo</Condition>
     <ParentID>gruppo-base-jabsco-di-ricambio-per-wc</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Gruppo Motore Jabsco per WC Quiet Flush - 12 V</Name>
-    <Brand>Jabsco</Brand>
-    <Description>Il gruppo motore di ricambio per i WC Jabsco Quiet Flush: quando la pompa del WC elettrico si esaurisce, la sostituzione del gruppo riporta lo scarico alla potenza originale senza cambiare la toilette. Compatibile con le serie Quiet Flush 37045, 37245, 37</Description>
-    <OriginalPrice>411.46</OriginalPrice>
-    <Price>398.90</Price>
-    <Code>Z37072-0092</Code>
-    <Link>https://www.onautica.com/products/gruppo-motore-jabsco-per-wc-quiet-flush?variant=53699655237979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z37072-0092-0.webp?v=1785550473</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>671880522939</EanCode>
-    <Weight>2.17</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>gruppo-motore-jabsco-per-wc-quiet-flush</ParentID>
   </Offer>
   <Offer>
     <Name>Gruppo Motore Jabsco per WC Quiet Flush - 24 V</Name>
@@ -16973,24 +16939,6 @@
     <ParentID>cima-da-ormeggio-ritorta-bianca-alta-tenacita-plam-bobina</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima da Ormeggio Ritorta Bianca in Poliestere – Bobina - Ø 12 mm – bobina 100 m (rottura 2.050 kg)</Name>
-    <Brand>Monteisola</Brand>
-    <Description>Cima da ormeggio ritorta a 3 legnoli in poliestere lucido di media tenacità, lavorazione gherlino (triplo ritorto): l&apos;affondante tuttofare per ormeggio, ancoraggio, fissaggio dei parabordi, utilizzi di bordo e legature in generale, su supporto rigido in p</Description>
-    <OriginalPrice>122.98</OriginalPrice>
-    <Price>109.90</Price>
-    <Code>9005012</Code>
-    <Link>https://www.onautica.com/products/cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina?variant=53698845770075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-0.webp?v=1785525439</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033389780180</EanCode>
-    <Weight>22.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-1.webp?v=1785525441</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cima da Ormeggio Ritorta Bianca in Poliestere – Bobina - Ø 8 mm – bobina 200 m (rottura 900 kg)</Name>
     <Brand>Monteisola</Brand>
     <Description>Cima da ormeggio ritorta a 3 legnoli in poliestere lucido di media tenacità, lavorazione gherlino (triplo ritorto): l&apos;affondante tuttofare per ormeggio, ancoraggio, fissaggio dei parabordi, utilizzi di bordo e legature in generale, su supporto rigido in p</Description>
@@ -17022,24 +16970,6 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033389780166</EanCode>
     <Weight>14.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-1.webp?v=1785525441</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima da Ormeggio Ritorta Bianca in Poliestere – Bobina - Ø 16 mm – bobina 100 m (rottura 3.580 kg)</Name>
-    <Brand>Monteisola</Brand>
-    <Description>Cima da ormeggio ritorta a 3 legnoli in poliestere lucido di media tenacità, lavorazione gherlino (triplo ritorto): l&apos;affondante tuttofare per ormeggio, ancoraggio, fissaggio dei parabordi, utilizzi di bordo e legature in generale, su supporto rigido in p</Description>
-    <OriginalPrice>220.70</OriginalPrice>
-    <Price>173.90</Price>
-    <Code>9005016</Code>
-    <Link>https://www.onautica.com/products/cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina?variant=53698845868379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-0.webp?v=1785525439</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033389780227</EanCode>
-    <Weight>20.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-1.webp?v=1785525441</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina</ParentID>
@@ -19765,23 +19695,6 @@
     <ParentID>cima-ormeggio-squareline-in-poliestere-o-12-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima Ormeggio Squareline in Poliestere Ø 16 mm – Bobina 100 m - Bianca</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La cima Squareline è una treccia da ormeggio e ancoraggio morbida e tenace, pensata per calare senza torcersi. È realizzata con lavorazione in doppia torsione a 12 fusi in poliestere ad alta tenacità e non galleggia. È disponibile nei colori Bianca e Blu </Description>
-    <Price>190.10</Price>
-    <Code>3100716100</Code>
-    <Link>https://www.onautica.com/products/cima-ormeggio-squareline-in-poliestere-o-16-mm?variant=53774757167451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100712200_821e3de3-8aaa-43a4-a9da-a247fe28f26e.webp?v=1786611902</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>19.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102712200_9402c1a7-b59f-4351-820b-400644e8fdef.webp?v=1786611904</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100712200_ba8ed10b-b0b4-4c3c-acfc-cc570f86cef0.webp?v=1786747826</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-ormeggio-squareline-in-poliestere-o-16-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cima Ormeggio Squareline in Poliestere Ø 16 mm – Bobina 100 m - Blu Navy</Name>
     <Brand>Motomarine</Brand>
     <Description>La cima Squareline è una treccia da ormeggio e ancoraggio morbida e tenace, pensata per calare senza torcersi. È realizzata con lavorazione in doppia torsione a 12 fusi in poliestere ad alta tenacità e non galleggia. È disponibile nei colori Bianca e Blu </Description>
@@ -20023,22 +19936,6 @@
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105732100_2.webp?v=1786544273</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_1.webp?v=1786544224</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_2.webp?v=1786544227</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-piatta-per-parabordi-in-poliestere-motomarine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima Piatta per Parabordi in Poliestere Motomarine - Ø 14 mm - Bianco</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La cima piatta per parabordi è pensata per il fissaggio dei parabordi in barca. Il poliestere la rende robusta ma leggera, e resistente ai raggi UV, così mantiene le sue caratteristiche anche dopo un&apos;esposizione prolungata al sole. È venduta in bobina da </Description>
-    <Price>129.83</Price>
-    <Code>3105714100</Code>
-    <Link>https://www.onautica.com/products/cima-piatta-per-parabordi-in-poliestere-motomarine?variant=53767177044315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105714100_2.webp?v=1786544241</Image>
     <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_1.webp?v=1786544224</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_2.webp?v=1786544227</Image3>
@@ -22652,23 +22549,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100308200_1_09c2f72f-0a5e-4e58-84c4-7b39548635c5.webp?v=1786611969</Image3>
     <Condition>nuovo</Condition>
     <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-14-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 16 mm – Bobina 100 m - Bianca</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La treccia da ormeggio Motomarine è realizzata con lavorazione a 16 fusi in poliestere ad alta tenacità. È morbida, resistente e facile da impiombare, caratteristiche che la rendono adatta sia per l&apos;ormeggio che per l&apos;ancoraggio. Non galleggia. È disponib</Description>
-    <Price>235.00</Price>
-    <Code>3100456100</Code>
-    <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-16-mm?variant=53774761001307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200_599a5c57-4bab-4934-aec8-943baa36bd03.webp?v=1786611980</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>21.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100450200_80a0989c-f36e-4f74-ae16-8880ada09358.webp?v=1786611982</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100308200_1_6b3727a1-f3e3-4d9d-bcf0-424c600e1d46.webp?v=1786611984</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-16-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 16 mm – Bobina 100 m - Bianca e Nera</Name>
@@ -29493,8 +29373,7 @@
     <Name>Alimentatore Power Pack Indel AC/DC 12/24V - 100/240V - Alimentatore Power Pack</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>L&apos;alimentatore Power Pack Indel permette di alimentare in modo universale i frigoriferi e le unità Isotherm, con tensione DC 12/24V oppure AC 100/240V. A chi è rivolto Indicato per chi ha un frigorifero o un&apos;unità Isotherm e vuole poterla alimentare sia i</Description>
-    <OriginalPrice>225.47</OriginalPrice>
-    <Price>217.90</Price>
+    <Price>225.50</Price>
     <Code>2424719</Code>
     <Link>https://www.onautica.com/products/alimentatore-power-pack-indel-ac-dc-12-24v-100-240v?variant=53703709720923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -29677,29 +29556,11 @@
     <ParentID>compressore-dometic-serie-50-per-frigoriferi-di-bordo-12-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Compressore Dometic Serie 50 per Frigoriferi di Bordo 12/24V - Verticale</Name>
-    <Brand>Dometic</Brand>
-    <Description>Il compressore Dometic serie 50 è l&apos;unità refrigerante che alimenta frigoriferi e celle frigo di bordo, funzionando a 12/24V. Si installa nel vano tecnico dedicato e costituisce il cuore dell&apos;impianto di refrigerazione. È disponibile nella versione CU54, </Description>
-    <OriginalPrice>823.50</OriginalPrice>
-    <Price>699.40</Price>
-    <Code>1555115</Code>
-    <Link>https://www.onautica.com/products/compressore-dometic-serie-50-per-frigoriferi-di-bordo-12-24v?variant=53902567407963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1555115_1.webp?v=1787902194</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>16.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1555114_1.webp?v=1787902187</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1555114.webp?v=1787902189</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>compressore-dometic-serie-50-per-frigoriferi-di-bordo-12-24v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Compressore Secop BD35 Indel Webasto per Unità Compact - BD35 – 12/24 V</Name>
     <Brand>Indel Webasto</Brand>
     <Description>Il compressore Secop BD35 è il cuore di ricambio per le unità refrigeranti Compact con giunti piccoli: sigillato ermeticamente, notevolmente efficiente, lavora con miscela di olio e gas refrigerante ecologico R134. Il controllo automatico elettronico speg</Description>
-    <OriginalPrice>626.50</OriginalPrice>
-    <Price>599.90</Price>
+    <OriginalPrice>626.49</OriginalPrice>
+    <Price>618.10</Price>
     <Code>2424738</Code>
     <Link>https://www.onautica.com/products/compressore-secop-bd35-indel-webasto-per-unita-compact?variant=53699874160987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30141,8 +30002,8 @@
     <Name>Evaporatore Indel Webasto Isotherm per Unità VE150 - Versione</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>L&apos;evaporatore Isotherm è compatibile con l&apos;unità VE150 (art. 2424760). Le dimensioni sono 275x220x58 mm. Il codice produttore è SBH00108XA. A chi è rivolto A chi ha un&apos;unità refrigerante VE150 (art. 2424760) e deve sostituire l&apos;evaporatore. Quando e perch</Description>
-    <OriginalPrice>373.04</OriginalPrice>
-    <Price>360.90</Price>
+    <OriginalPrice>373.03</OriginalPrice>
+    <Price>371.70</Price>
     <Code>2424755</Code>
     <Link>https://www.onautica.com/products/evaporatore-indel-webasto-isotherm-per-unita-ve150?variant=53726065131867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30158,8 +30019,8 @@
     <Name>Evaporatore Isotherm con Giunti Rapidi - Piano 350×250 mm – fino a 80 L</Name>
     <Brand>Indel Webasto</Brand>
     <Description>L&apos;evaporatore Isotherm è l&apos;elemento freddo da installare nel vano frigo: completo di giunti rapidi PICCOLI di collegamento, caricato con gas ecologico R134 e provvisto di termostato, con tubi da 2 metri. Tre formati: piano 350×250 mm (frigo fino a 80 litr</Description>
-    <OriginalPrice>298.91</OriginalPrice>
-    <Price>289.90</Price>
+    <OriginalPrice>298.90</OriginalPrice>
+    <Price>298.10</Price>
     <Code>2424756</Code>
     <Link>https://www.onautica.com/products/evaporatore-isotherm-con-giunti-rapidi?variant=53699786146139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30176,8 +30037,8 @@
     <Name>Evaporatore Isotherm con Giunti Rapidi - Ovale 240×210×85 mm – fino a 125 L</Name>
     <Brand>Indel Webasto</Brand>
     <Description>L&apos;evaporatore Isotherm è l&apos;elemento freddo da installare nel vano frigo: completo di giunti rapidi PICCOLI di collegamento, caricato con gas ecologico R134 e provvisto di termostato, con tubi da 2 metri. Tre formati: piano 350×250 mm (frigo fino a 80 litr</Description>
-    <OriginalPrice>320.43</OriginalPrice>
-    <Price>309.90</Price>
+    <OriginalPrice>320.42</OriginalPrice>
+    <Price>319.60</Price>
     <Code>2424758</Code>
     <Link>https://www.onautica.com/products/evaporatore-isotherm-con-giunti-rapidi?variant=53699786178907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -30356,25 +30217,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/evaporatori-scatolati-per-frigo-1425-s8-1555301-2.webp?v=1781115644</Image2>
     <Condition>nuovo</Condition>
     <ParentID>evaporatori-scatolati-per-frigo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Fabbricatore di Ghiaccio Raritan Icer-Ette - 220 V (88B515-2)</Name>
-    <Brand>Raritan</Brand>
-    <Description>L&apos;Icer-Ette di Raritan è il fabbricatore di ghiaccio disegnato specificamente per le applicazioni marine: affidabile, sicuro e completamente automatico, con installazione semplice sia a incasso che esterna. Non richiede alcuno scarico: si collega al serba</Description>
-    <OriginalPrice>2504.22</OriginalPrice>
-    <Price>2293.90</Price>
-    <Code>2410526</Code>
-    <Link>https://www.onautica.com/products/fabbricatore-di-ghiaccio-raritan-icer-ette?variant=53699674767707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2410516-0.webp?v=1785552660</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>085462044281</EanCode>
-    <Weight>28.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2410516-1.webp?v=1785552662</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2410516-2.webp?v=1785552664</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fabbricatore-di-ghiaccio-raritan-icer-ette</ParentID>
   </Offer>
   <Offer>
     <Name>Fabbricatore di Ghiaccio Raritan Icer-Ette - 120 V (88B515-1)</Name>
@@ -31133,8 +30975,7 @@
     <Name>Flangia Indel Webasto Isotherm per Frigo Cruise Elegance - CR85</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>La flangia (telaio) Isotherm è un ricambio per il frigo Cruise Elegance, disponibile per i modelli CR85 e CR130. A chi è rivolto A chi ha un frigo Isotherm Cruise Elegance CR85 o CR130 e deve sostituire la flangia. Quando e perché sceglierlo Quando la fla</Description>
-    <OriginalPrice>107.61</OriginalPrice>
-    <Price>103.90</Price>
+    <Price>114.00</Price>
     <Code>2424617</Code>
     <Link>https://www.onautica.com/products/flangia-indel-webasto-isotherm-per-frigo-cruise-elegance?variant=53726065885531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31150,8 +30991,7 @@
     <Name>Flangia Indel Webasto Isotherm per Frigo Cruise Elegance - CR130</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>La flangia (telaio) Isotherm è un ricambio per il frigo Cruise Elegance, disponibile per i modelli CR85 e CR130. A chi è rivolto A chi ha un frigo Isotherm Cruise Elegance CR85 o CR130 e deve sostituire la flangia. Quando e perché sceglierlo Quando la fla</Description>
-    <OriginalPrice>112.40</OriginalPrice>
-    <Price>108.90</Price>
+    <Price>119.60</Price>
     <Code>2424618</Code>
     <Link>https://www.onautica.com/products/flangia-indel-webasto-isotherm-per-frigo-cruise-elegance?variant=53726065918299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31167,8 +31007,8 @@
     <Name>Freezer Isotherm Cruise Total Black Indel Webasto - CR65 Freezer – 65 L (525×540×610 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>Il congelatore della linea Cruise Total Black: freezer verticale a 12/24 V pensato per affiancarsi ai frigoriferi CR della stessa famiglia — il CR63 ha le stesse dimensioni esterne del frigo CR85, per la batteria fianco a fianco perfetta. Dotato di due ri</Description>
-    <OriginalPrice>1413.21</OriginalPrice>
-    <Price>1300.90</Price>
+    <OriginalPrice>1413.20</OriginalPrice>
+    <Price>1340.00</Price>
     <Code>2400151</Code>
     <Link>https://www.onautica.com/products/freezer-isotherm-cruise-total-black-indel-webasto?variant=53699707765083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31184,8 +31024,8 @@
     <Name>Freezer Isotherm Cruise Total Black Indel Webasto - CR63 Freezer – 63 L (475×513×620 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>Il congelatore della linea Cruise Total Black: freezer verticale a 12/24 V pensato per affiancarsi ai frigoriferi CR della stessa famiglia — il CR63 ha le stesse dimensioni esterne del frigo CR85, per la batteria fianco a fianco perfetta. Dotato di due ri</Description>
-    <OriginalPrice>1494.51</OriginalPrice>
-    <Price>1374.90</Price>
+    <OriginalPrice>1494.50</OriginalPrice>
+    <Price>1416.10</Price>
     <Code>2400150</Code>
     <Link>https://www.onautica.com/products/freezer-isotherm-cruise-total-black-indel-webasto?variant=53699707830619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31373,8 +31213,8 @@
     <Name>Frigorifero a Cassetto Isotherm Drawer Inox Indel Webasto - DR30 – 30 L orizzontale (260×440×700 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Drawer di Indel Webasto sono il cassetto in acciaio inox che scorre su guide: salvaspazio per costruzione, con compartimento congelatore integrato. A 25 °C di temperatura esterna raffreddano fino a un massimo di 5 °C. Sei modelli da</Description>
-    <OriginalPrice>1107.14</OriginalPrice>
-    <Price>1022.90</Price>
+    <OriginalPrice>1107.13</OriginalPrice>
+    <Price>1053.60</Price>
     <Code>2424698</Code>
     <Link>https://www.onautica.com/products/frigorifero-a-cassetto-isotherm-drawer-inox-indel-webasto?variant=53699615883611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31392,8 +31232,8 @@
     <Name>Frigorifero a Cassetto Isotherm Drawer Inox Indel Webasto - DR42 – 42 L (538×437×511 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Drawer di Indel Webasto sono il cassetto in acciaio inox che scorre su guide: salvaspazio per costruzione, con compartimento congelatore integrato. A 25 °C di temperatura esterna raffreddano fino a un massimo di 5 °C. Sei modelli da</Description>
-    <OriginalPrice>1681.02</OriginalPrice>
-    <Price>1544.90</Price>
+    <OriginalPrice>1681.01</OriginalPrice>
+    <Price>1591.20</Price>
     <Code>2424697</Code>
     <Link>https://www.onautica.com/products/frigorifero-a-cassetto-isotherm-drawer-inox-indel-webasto?variant=53699615916379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31411,8 +31251,8 @@
     <Name>Frigorifero a Cassetto Isotherm Drawer Inox Indel Webasto - DR49 – 49 L (520×400×510 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Drawer di Indel Webasto sono il cassetto in acciaio inox che scorre su guide: salvaspazio per costruzione, con compartimento congelatore integrato. A 25 °C di temperatura esterna raffreddano fino a un massimo di 5 °C. Sei modelli da</Description>
-    <OriginalPrice>1757.54</OriginalPrice>
-    <Price>1614.90</Price>
+    <OriginalPrice>1757.53</OriginalPrice>
+    <Price>1663.30</Price>
     <Code>2424699</Code>
     <Link>https://www.onautica.com/products/frigorifero-a-cassetto-isotherm-drawer-inox-indel-webasto?variant=53699615949147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31430,8 +31270,8 @@
     <Name>Frigorifero a Cassetto Isotherm Drawer Inox Indel Webasto - DR85 – 85 L (625×495×545 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Drawer di Indel Webasto sono il cassetto in acciaio inox che scorre su guide: salvaspazio per costruzione, con compartimento congelatore integrato. A 25 °C di temperatura esterna raffreddano fino a un massimo di 5 °C. Sei modelli da</Description>
-    <OriginalPrice>1924.55</OriginalPrice>
-    <Price>1766.90</Price>
+    <OriginalPrice>1924.54</OriginalPrice>
+    <Price>1819.90</Price>
     <Code>2424704</Code>
     <Link>https://www.onautica.com/products/frigorifero-a-cassetto-isotherm-drawer-inox-indel-webasto?variant=53699616014683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31449,8 +31289,8 @@
     <Name>Frigorifero a Cassetto Isotherm Drawer Inox Indel Webasto - DR105 – 105 L (515×515×600 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Drawer di Indel Webasto sono il cassetto in acciaio inox che scorre su guide: salvaspazio per costruzione, con compartimento congelatore integrato. A 25 °C di temperatura esterna raffreddano fino a un massimo di 5 °C. Sei modelli da</Description>
-    <OriginalPrice>2202.31</OriginalPrice>
-    <Price>2019.90</Price>
+    <OriginalPrice>2202.30</OriginalPrice>
+    <Price>2080.50</Price>
     <Code>2424705</Code>
     <Link>https://www.onautica.com/products/frigorifero-a-cassetto-isotherm-drawer-inox-indel-webasto?variant=53699616047451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31487,8 +31327,8 @@
     <Name>Frigorifero a pozzetto Indel Webasto BI40 - Frigorifero a pozzetto BI40</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>Il frigorifero a pozzetto Indel Webasto BI40 ha rivestimento interno in acciaio inox e fondo in plastica, con capacità di 40 litri. Il compressore ventilato è installato nella parte inferiore del lato corto e può essere posizionato a distanza, fino a 1,5 </Description>
-    <OriginalPrice>1064.09</OriginalPrice>
-    <Price>983.90</Price>
+    <OriginalPrice>1064.08</OriginalPrice>
+    <Price>889.10</Price>
     <Code>2424648</Code>
     <Link>https://www.onautica.com/products/frigorifero-a-pozzetto-indel-webasto-bi40?variant=53703680786779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31649,8 +31489,8 @@
     <Name>Frigorifero Isotherm Cruise Elegance Indel Webasto - CR65 – 65 L (528×450×470 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I Cruise Elegance di Indel Webasto montano il compressore ermetico Danfoss BD35F elettronico — il riferimento mondiale per affidabilità, consumi e silenziosità — con adattamento automatico a 12 o 24 V. La ventilazione forzata incorporata nel mobile elimin</Description>
-    <OriginalPrice>1009.10</OriginalPrice>
-    <Price>933.90</Price>
+    <OriginalPrice>1009.09</OriginalPrice>
+    <Price>961.90</Price>
     <Code>2424611</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-elegance-indel-webasto?variant=53699615555931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31668,8 +31508,8 @@
     <Name>Frigorifero Isotherm Cruise Elegance Indel Webasto - CR130 – 130 L (750×525×505 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I Cruise Elegance di Indel Webasto montano il compressore ermetico Danfoss BD35F elettronico — il riferimento mondiale per affidabilità, consumi e silenziosità — con adattamento automatico a 12 o 24 V. La ventilazione forzata incorporata nel mobile elimin</Description>
-    <OriginalPrice>1207.57</OriginalPrice>
-    <Price>1113.90</Price>
+    <OriginalPrice>1207.56</OriginalPrice>
+    <Price>1147.30</Price>
     <Code>2424613</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-elegance-indel-webasto?variant=53699615588699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31687,8 +31527,8 @@
     <Name>Frigorifero Isotherm Cruise Inox Indel Webasto - CR42 – 42 L (520×400×515 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Cruise Inox di Indel Webasto montano il compressore ermetico Danfoss BD35F elettronico — il sistema di raffreddamento più affidabile al mondo, a risparmio energetico e bassa rumorosità — che si adatta automaticamente all&apos;alimentazio</Description>
-    <OriginalPrice>1233.87</OriginalPrice>
-    <Price>1137.90</Price>
+    <OriginalPrice>1233.86</OriginalPrice>
+    <Price>1172.10</Price>
     <Code>2424742</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-inox-indel-webasto?variant=53699519054171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31706,8 +31546,8 @@
     <Name>Frigorifero Isotherm Cruise Inox Indel Webasto - CR49 – 49 L (520×400×510 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Cruise Inox di Indel Webasto montano il compressore ermetico Danfoss BD35F elettronico — il sistema di raffreddamento più affidabile al mondo, a risparmio energetico e bassa rumorosità — che si adatta automaticamente all&apos;alimentazio</Description>
-    <OriginalPrice>1327.13</OriginalPrice>
-    <Price>1222.90</Price>
+    <OriginalPrice>1327.12</OriginalPrice>
+    <Price>1259.60</Price>
     <Code>2424749</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-inox-indel-webasto?variant=53699519086939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31725,8 +31565,8 @@
     <Name>Frigorifero Isotherm Cruise Inox Indel Webasto - CR65 – 65 L (528×470×520 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Cruise Inox di Indel Webasto montano il compressore ermetico Danfoss BD35F elettronico — il sistema di raffreddamento più affidabile al mondo, a risparmio energetico e bassa rumorosità — che si adatta automaticamente all&apos;alimentazio</Description>
-    <OriginalPrice>1398.86</OriginalPrice>
-    <Price>1287.90</Price>
+    <OriginalPrice>1398.85</OriginalPrice>
+    <Price>1326.60</Price>
     <Code>2424765</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-inox-indel-webasto?variant=53699519119707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31744,8 +31584,8 @@
     <Name>Frigorifero Isotherm Cruise Inox Indel Webasto - CR36 – 36 L orizzontale (250×453×715 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I frigoriferi Isotherm Cruise Inox di Indel Webasto montano il compressore ermetico Danfoss BD35F elettronico — il sistema di raffreddamento più affidabile al mondo, a risparmio energetico e bassa rumorosità — che si adatta automaticamente all&apos;alimentazio</Description>
-    <OriginalPrice>1465.82</OriginalPrice>
-    <Price>1348.90</Price>
+    <OriginalPrice>1465.81</OriginalPrice>
+    <Price>1389.30</Price>
     <Code>2424736</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-inox-indel-webasto?variant=53699519152475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31763,8 +31603,8 @@
     <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR42 – 42 L (380×455×525 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>872.80</OriginalPrice>
-    <Price>809.90</Price>
+    <OriginalPrice>872.79</OriginalPrice>
+    <Price>834.20</Price>
     <Code>2400130</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53754889765211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31782,8 +31622,8 @@
     <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR49 – 49 L (380×452×525 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>954.10</OriginalPrice>
-    <Price>883.90</Price>
+    <OriginalPrice>954.09</OriginalPrice>
+    <Price>910.40</Price>
     <Code>2400131</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53699616080219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31801,8 +31641,8 @@
     <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR65 – 65 L (450×473×530 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>1056.92</OriginalPrice>
-    <Price>976.90</Price>
+    <OriginalPrice>1056.91</OriginalPrice>
+    <Price>960.70</Price>
     <Code>2400132</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53699616112987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31817,30 +31657,11 @@
     <ParentID>frigorifero-isotherm-cruise-total-black-indel-webasto</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR130 Elegance – 130 L (525×510×750 mm)</Name>
-    <Brand>Indel Webasto</Brand>
-    <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>1207.57</OriginalPrice>
-    <Price>1113.90</Price>
-    <Code>2400138</Code>
-    <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53699616145755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400130-0.webp?v=1785548076</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057507157081</EanCode>
-    <Weight>18.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400130-1.webp?v=1785548078</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400130-2.webp?v=1785548080</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-isotherm-cruise-total-black-indel-webasto</ParentID>
-  </Offer>
-  <Offer>
     <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR100 – 100 L (486×455×746 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>1260.17</OriginalPrice>
-    <Price>1161.90</Price>
+    <OriginalPrice>1260.16</OriginalPrice>
+    <Price>1196.80</Price>
     <Code>2400137</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53699616178523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31858,8 +31679,8 @@
     <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR86 – 86 L (380×495×850 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>1305.61</OriginalPrice>
-    <Price>1203.90</Price>
+    <OriginalPrice>1305.60</OriginalPrice>
+    <Price>1240.00</Price>
     <Code>2400136</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53699616211291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31877,8 +31698,8 @@
     <Name>Frigorifero Isotherm Cruise Total Black Indel Webasto - CR226 frigo/freezer – 226 L (595×522×1452 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>La linea Cruise Total Black di Indel Webasto veste di nero totale i frigoriferi di bordo: eleganti, robusti e ad alte prestazioni, con freezer integrato, illuminazione led interna e porta con serratura magnetica. Compressore Secop 12/24 V a basso consumo,</Description>
-    <OriginalPrice>2345.78</OriginalPrice>
-    <Price>2149.90</Price>
+    <OriginalPrice>2345.77</OriginalPrice>
+    <Price>2214.40</Price>
     <Code>2400141</Code>
     <Link>https://www.onautica.com/products/frigorifero-isotherm-cruise-total-black-indel-webasto?variant=53699616244059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -31934,8 +31755,8 @@
     <Name>Frigorifero o congelatore CR40 Cubic Indel Webasto - CR40 Cubic</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>Il CR40 Cubic di Indel Webasto Marine - Isotherm è un prodotto versatile che può essere utilizzato sia come frigorifero sia come congelatore, con alimentazione 12/24V. Può essere installato con apertura dall&apos;alto (a pozzetto, built-in box) o con apertura </Description>
-    <OriginalPrice>1076.05</OriginalPrice>
-    <Price>994.90</Price>
+    <OriginalPrice>1076.04</OriginalPrice>
+    <Price>1024.70</Price>
     <Code>2424773</Code>
     <Link>https://www.onautica.com/products/frigorifero-o-congelatore-cr40-cubic-indel-webasto?variant=53703680721243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -33924,8 +33745,8 @@
     <Name>Unità Refrigerante Isotherm Compact GE 80 - GE 80 – fino a 80 L</Name>
     <Brand>Indel Webasto</Brand>
     <Description>L&apos;unità Compact GE 80 trasforma un gavone ben isolato in un frigorifero: gruppo refrigerante ad aria con compressore ermetico Secop BD35F (ex Danfoss) elettronico, regolato da termostato specifico, che raffredda l&apos;evaporatore flat installato dentro il van</Description>
-    <OriginalPrice>549.99</OriginalPrice>
-    <Price>529.90</Price>
+    <OriginalPrice>549.98</OriginalPrice>
+    <Price>545.80</Price>
     <Code>2424741</Code>
     <Link>https://www.onautica.com/products/unita-refrigerante-isotherm-compact-ge-80?variant=53699762520411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -33941,8 +33762,8 @@
     <Name>Unità Refrigerante Isotherm VE150 Completa - Unità refrigerante VE150</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>L&apos;unità refrigerante Isotherm VE150 è un&apos;unità compatta ad aria completa di evaporatore ad alette, pensata per impianti frigo di maggiore capacità. Monta un compressore Secop (ex Danfoss) BD35F con controllo automatico elettronico, che spegne il compresso</Description>
-    <OriginalPrice>934.97</OriginalPrice>
-    <Price>880.90</Price>
+    <OriginalPrice>934.96</OriginalPrice>
+    <Price>906.50</Price>
     <Code>2424760</Code>
     <Link>https://www.onautica.com/products/unita-refrigerante-isotherm-ve150-completa?variant=53703709655387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -34094,21 +33915,6 @@
     <Price>148.50</Price>
     <Code>2168108</Code>
     <Link>https://www.onautica.com/products/bulbi-e-lampadine-di-ricambio-per-fari-di-ricerca?variant=53977672057179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168022_1_1096520b-d75b-4b00-9d26-c6f274909559.webp?v=1788588769</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168045_1_b07f975e-daa4-4e06-9d1d-8e0ed6e38b54.webp?v=1788588773</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>bulbi-e-lampadine-di-ricambio-per-fari-di-ricerca</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bulbi e Lampadine di Ricambio per Fari di Ricerca - Guest 400 · bulbo Ø 110 mm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>I bulbi e le lampadine di ricambio per i fari di ricerca: DHR 150 LED e 210, Ocean Cabin Control, LED 11-RC e Double Eye, Guest 400 e Marinco Beamer 600 . Ogni modello ha il suo, nelle tensioni 12V e 24V dove previsto. A chi è rivolto A chi ha un faro di </Description>
-    <Price>146.20</Price>
-    <Code>2168116</Code>
-    <Link>https://www.onautica.com/products/bulbi-e-lampadine-di-ricambio-per-fari-di-ricerca?variant=53977672089947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2168022_1_1096520b-d75b-4b00-9d26-c6f274909559.webp?v=1788588769</Image>
@@ -35224,7 +35030,7 @@
     <Price>78.36</Price>
     <Code>3010102-6PZ</Code>
     <Link>https://www.onautica.com/products/giubbotto-di-salvataggio-100n-entro-6-miglia-oltre-40-kg-pacco-6-pezzi?variant=53483111907675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
+    <Stock>limitata</Stock>
     <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/giub-conf-6pz-3240.webp?v=1782927003</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -44026,23 +43832,6 @@
     <ParentID>olio-motore-4-tempi-quicksilver-25w40-synthetic-blend</ParentID>
   </Offer>
   <Offer>
-    <Name>Olio Motore 4 Tempi Quicksilver 5W30 Diesel TDI Synthetic - Cartone 6 x 1 L</Name>
-    <Brand>Quicksilver</Brand>
-    <Description>L&apos;olio Quicksilver 5W30 Diesel TDI Synthetic è un lubrificante sintetico per motori diesel TDI a 4 tempi. Garantisce protezione e scorrevolezza del motore grazie alla formulazione sintetica, mantenendo le caratteristiche lubrificanti stabili nelle diverse</Description>
-    <Price>180.50</Price>
-    <Code>5701520</Code>
-    <Link>https://www.onautica.com/products/olio-motore-4-tempi-quicksilver-5w30-diesel-tdi-synthetic?variant=53986757149019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Oli e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5701520_1.webp?v=1788699295</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>6.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5701520.webp?v=1788699297</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5701520_100a1d82-299f-491a-b0fa-a4aa94cf4cb4.webp?v=1788699299</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>olio-motore-4-tempi-quicksilver-5w30-diesel-tdi-synthetic</ParentID>
-  </Offer>
-  <Offer>
     <Name>Olio Motore 4 Tempi Quicksilver 5W30 Diesel TDI Synthetic - Cartone 3 x 4 L</Name>
     <Brand>Quicksilver</Brand>
     <Description>L&apos;olio Quicksilver 5W30 Diesel TDI Synthetic è un lubrificante sintetico per motori diesel TDI a 4 tempi. Garantisce protezione e scorrevolezza del motore grazie alla formulazione sintetica, mantenendo le caratteristiche lubrificanti stabili nelle diverse</Description>
@@ -46545,6 +46334,25 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1829507_5b1b92be-fffa-42f0-953f-fc85de177214.webp?v=1787241806</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-acqua-raffreddamento-spx-johnson-f7b-9-in-bronzo-1</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa autoadescante 32 lt/min. corpo bronzo 12V Ocean Deck</Name>
+    <Brand>Matromarine</Brand>
+    <Description>Questa pompa versatile di Matromarine Products è la soluzione ideale per una varietà di applicazioni marine, tra cui il lavaggio del ponte, il pompaggio della sentina e l&apos;utilizzo in sistemi di acqua pressurizzata. Caratteristiche Principali: Autoadescant</Description>
+    <OriginalPrice>138.00</OriginalPrice>
+    <Price>106.07</Price>
+    <Code>1825500</Code>
+    <Link>https://www.onautica.com/products/offerta-pompa-autoadescante-30-lt-min-corpo-bronzo-12v?variant=52577535426907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825500.png?v=1773341967</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626053602</EanCode>
+    <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/OFFERTA_-_Pompa_autoadescante_30_lt_min._corpo_bronzo_12V.png?v=1773341968</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825500b_b121e52d-1813-496f-baa0-9d73625988cb.png?v=1773341969</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>offerta-pompa-autoadescante-30-lt-min-corpo-bronzo-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Autoadescante Ocean Grey Drain 20L - Angolata 12V</Name>
@@ -52042,7 +51850,7 @@
     <Name>Pompa di Sentina Automatica BW 2000 GPH - 12V</Name>
     <Brand>Motomarine</Brand>
     <Description>La pompa di sentina Motomarine BW è un dispositivo automatico pensato per lo svuotamento dell&apos;acqua che si accumula in sentina. Il funzionamento automatico consente alla pompa di intervenire senza bisogno di azionamento manuale, mantenendo asciutto il van</Description>
-    <Price>119.10</Price>
+    <Price>106.80</Price>
     <Code>1821122</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-automatica-bw-2000-gph?variant=53843742884187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -52058,7 +51866,7 @@
     <Name>Pompa di Sentina Automatica BW 2000 GPH - 24V</Name>
     <Brand>Motomarine</Brand>
     <Description>La pompa di sentina Motomarine BW è un dispositivo automatico pensato per lo svuotamento dell&apos;acqua che si accumula in sentina. Il funzionamento automatico consente alla pompa di intervenire senza bisogno di azionamento manuale, mantenendo asciutto il van</Description>
-    <Price>119.10</Price>
+    <Price>106.80</Price>
     <Code>1821124</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-automatica-bw-2000-gph?variant=53843742916955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -52091,7 +51899,7 @@
     <Brand>SPX Flow</Brand>
     <Description>La pompa di sentina Johnson Aqua Void Combo è una pompa sommergibile automatica con interruttore elettronico integrato, senza galleggiante meccanico. Il sensore rileva la presenza di acqua e avvia il funzionamento in autonomia, senza bisogno di parti mobi</Description>
     <OriginalPrice>149.00</OriginalPrice>
-    <Price>141.60</Price>
+    <Price>130.90</Price>
     <Code>1822442</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-automatica-johnson-aqua-void-combo?variant=53877342863707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -52142,7 +51950,7 @@
     <Brand>SPX Flow</Brand>
     <Description>La pompa di sentina Johnson Ultima è un modello automatico pensato per lo svuotamento dell&apos;acqua imbarcata in coperta o in sentina. Funziona a 12V e si attiva da sola quando rileva la presenza di acqua, senza bisogno di un galleggiante meccanico separato.</Description>
     <OriginalPrice>196.50</OriginalPrice>
-    <Price>172.20</Price>
+    <Price>161.30</Price>
     <Code>1822422</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-automatica-johnson-ultima-12v?variant=53877342798171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -52881,23 +52689,6 @@
     <Weight>2.08</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-rule-2000-automatica-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di Sentina Rule 3700 a Immersione - Modello 16A – 24 V (7 A)</Name>
-    <Brand>Rule</Brand>
-    <Description>La Rule 3700 è la pompa a immersione per barche medie e grandi: 14.000 litri/ora con flusso regolare e silenzioso, uscita da 38 mm (1-1/2&quot;). Si aziona con interruttore galleggiante oppure manualmente a distanza con un pannello interruttore Rule. Funzionam</Description>
-    <OriginalPrice>293.06</OriginalPrice>
-    <Price>283.90</Price>
-    <Code>Z16A</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-rule-3700-a-immersione?variant=53699785687387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z14A-0.webp?v=1785563694</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>042237083517</EanCode>
-    <Weight>2.78</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-rule-3700-a-immersione</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di Sentina Rule 3700 a Immersione - Modello 14A – 12 V (20 A)</Name>
@@ -54915,6 +54706,23 @@
     <ParentID>gomito-m-f-guidi-in-bronzo</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit 2 Tubi R7 5/16 Raccordati Ultraflex per Timonerie Idrauliche - 4,5 metri</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il kit comprende 2 tubi R7 5/16 flessibili ad alta resistenza, raccordati con dado girevole e manicotto di rinforzo già montato sull&apos;estremità del tubo. È pensato per le timonerie idrauliche. È disponibile in diverse lunghezze, da 4 a 9 metri. A chi è riv</Description>
+    <OriginalPrice>179.68</OriginalPrice>
+    <Price>153.90</Price>
+    <Code>4344445</Code>
+    <Link>https://www.onautica.com/products/kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche?variant=53763266085211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Raccordi Oleoidinamici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4344440-0.webp?v=1786521161</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164407536</EanCode>
+    <Weight>1.25</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit 2 Tubi R7 5/16 Raccordati Ultraflex per Timonerie Idrauliche - 5 metri</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il kit comprende 2 tubi R7 5/16 flessibili ad alta resistenza, raccordati con dado girevole e manicotto di rinforzo già montato sull&apos;estremità del tubo. È pensato per le timonerie idrauliche. È disponibile in diverse lunghezze, da 4 a 9 metri. A chi è riv</Description>
@@ -54966,6 +54774,23 @@
     <ParentID>kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit 2 Tubi R7 5/16 Raccordati Ultraflex per Timonerie Idrauliche - 6,5 metri</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il kit comprende 2 tubi R7 5/16 flessibili ad alta resistenza, raccordati con dado girevole e manicotto di rinforzo già montato sull&apos;estremità del tubo. È pensato per le timonerie idrauliche. È disponibile in diverse lunghezze, da 4 a 9 metri. A chi è riv</Description>
+    <OriginalPrice>236.65</OriginalPrice>
+    <Price>198.90</Price>
+    <Code>4344465</Code>
+    <Link>https://www.onautica.com/products/kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche?variant=53763266216283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Raccordi Oleoidinamici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4344440-0.webp?v=1786521161</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164406485</EanCode>
+    <Weight>1.70</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit 2 Tubi R7 5/16 Raccordati Ultraflex per Timonerie Idrauliche - 7,5 metri</Name>
     <Brand>Ultraflex</Brand>
     <Description>Il kit comprende 2 tubi R7 5/16 flessibili ad alta resistenza, raccordati con dado girevole e manicotto di rinforzo già montato sull&apos;estremità del tubo. È pensato per le timonerie idrauliche. È disponibile in diverse lunghezze, da 4 a 9 metri. A chi è riv</Description>
@@ -54979,6 +54804,23 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>8031164408540</EanCode>
     <Weight>1.90</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit 2 Tubi R7 5/16 Raccordati Ultraflex per Timonerie Idrauliche - 8,5 metri</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il kit comprende 2 tubi R7 5/16 flessibili ad alta resistenza, raccordati con dado girevole e manicotto di rinforzo già montato sull&apos;estremità del tubo. È pensato per le timonerie idrauliche. È disponibile in diverse lunghezze, da 4 a 9 metri. A chi è riv</Description>
+    <OriginalPrice>293.52</OriginalPrice>
+    <Price>230.90</Price>
+    <Code>4344485</Code>
+    <Link>https://www.onautica.com/products/kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche?variant=53763266281819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Raccordi Oleoidinamici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4344440-0.webp?v=1786521161</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164408564</EanCode>
+    <Weight>2.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-2-tubi-r7-5-16-raccordati-ultraflex-per-timonerie-idrauliche</ParentID>
   </Offer>
@@ -57326,8 +57168,8 @@
     <Name>Boiler Isotemp Indel Webasto Marine 15-40 litri - Boiler 20 litri</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>Il boiler Isotemp è realizzato con serbatoio interno in acciaio inox AISI 316, involucro esterno in polipropilene grigio e staffe di fissaggio in acciaio inox AISI 304 non magnetico, con isolamento in poliuretano espanso iniettato privo di CFC. La serpent</Description>
-    <OriginalPrice>533.25</OriginalPrice>
-    <Price>514.90</Price>
+    <OriginalPrice>533.24</OriginalPrice>
+    <Price>487.90</Price>
     <Code>2400520</Code>
     <Link>https://www.onautica.com/products/boiler-isotemp-15-litri-indel-webasto-marine?variant=53754889863515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -57343,8 +57185,8 @@
     <Name>Boiler Isotemp Indel Webasto Marine 15-40 litri - Boiler 30 litri</Name>
     <Brand>Indel Webasto Marine - Isotherm</Brand>
     <Description>Il boiler Isotemp è realizzato con serbatoio interno in acciaio inox AISI 316, involucro esterno in polipropilene grigio e staffe di fissaggio in acciaio inox AISI 304 non magnetico, con isolamento in poliuretano espanso iniettato privo di CFC. La serpent</Description>
-    <OriginalPrice>564.33</OriginalPrice>
-    <Price>528.90</Price>
+    <OriginalPrice>564.32</OriginalPrice>
+    <Price>501.20</Price>
     <Code>2400530</Code>
     <Link>https://www.onautica.com/products/boiler-isotemp-15-litri-indel-webasto-marine?variant=53754889929051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -57360,8 +57202,8 @@
     <Name>Boiler Nautico Isotemp Slim e Basic Indel Webasto - Slim 15 – 15 L (Ø 295×520 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I boiler Isotemp di Indel Webasto sono costruiti con materiali selezionati: serbatoio, tubi e parti a contatto con l&apos;acqua in acciaio inox AISI 316 saldato con gas protettivo — per eliminare qualsiasi rischio di corrosione — e rivestimento con piedini in </Description>
-    <OriginalPrice>681.50</OriginalPrice>
-    <Price>635.90</Price>
+    <OriginalPrice>681.49</OriginalPrice>
+    <Price>602.60</Price>
     <Code>2400215</Code>
     <Link>https://www.onautica.com/products/boiler-nautico-isotemp-slim-e-basic-indel-webasto?variant=53699616276827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -57378,8 +57220,8 @@
     <Name>Boiler Nautico Isotemp Slim e Basic Indel Webasto - Basic 24 – 24 L (Ø 395×470 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I boiler Isotemp di Indel Webasto sono costruiti con materiali selezionati: serbatoio, tubi e parti a contatto con l&apos;acqua in acciaio inox AISI 316 saldato con gas protettivo — per eliminare qualsiasi rischio di corrosione — e rivestimento con piedini in </Description>
-    <OriginalPrice>719.76</OriginalPrice>
-    <Price>669.90</Price>
+    <OriginalPrice>719.75</OriginalPrice>
+    <Price>634.80</Price>
     <Code>2400224</Code>
     <Link>https://www.onautica.com/products/boiler-nautico-isotemp-slim-e-basic-indel-webasto?variant=53699616309595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -57396,8 +57238,8 @@
     <Name>Boiler Nautico Isotemp Slim e Basic Indel Webasto - Basic 40 – 40 L (Ø 395×640 mm)</Name>
     <Brand>Indel Webasto</Brand>
     <Description>I boiler Isotemp di Indel Webasto sono costruiti con materiali selezionati: serbatoio, tubi e parti a contatto con l&apos;acqua in acciaio inox AISI 316 saldato con gas protettivo — per eliminare qualsiasi rischio di corrosione — e rivestimento con piedini in </Description>
-    <OriginalPrice>803.45</OriginalPrice>
-    <Price>746.90</Price>
+    <OriginalPrice>803.44</OriginalPrice>
+    <Price>707.80</Price>
     <Code>2400240</Code>
     <Link>https://www.onautica.com/products/boiler-nautico-isotemp-slim-e-basic-indel-webasto?variant=53699616342363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -58342,7 +58184,7 @@
     <Name>Filtro Diesel Centrifugo Sacs 2K - 5 L/min</Name>
     <Brand>Sacs</Brand>
     <Description>Il filtro diesel centrifugo Sacs 2K separa acqua e impurità dal gasolio prima che raggiungano il motore, sfruttando la forza centrifuga generata dal flusso di carburante in ingresso. Si inserisce sulla linea di alimentazione tra il serbatoio e la pompa di</Description>
-    <Price>117.40</Price>
+    <Price>105.70</Price>
     <Code>4124105</Code>
     <Link>https://www.onautica.com/products/filtro-diesel-centrifugo-sacs-2k?variant=53861225464155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -58359,7 +58201,7 @@
     <Name>Filtro Diesel Centrifugo Sacs 2K - 10 L/min</Name>
     <Brand>Sacs</Brand>
     <Description>Il filtro diesel centrifugo Sacs 2K separa acqua e impurità dal gasolio prima che raggiungano il motore, sfruttando la forza centrifuga generata dal flusso di carburante in ingresso. Si inserisce sulla linea di alimentazione tra il serbatoio e la pompa di</Description>
-    <Price>127.40</Price>
+    <Price>114.70</Price>
     <Code>4124110</Code>
     <Link>https://www.onautica.com/products/filtro-diesel-centrifugo-sacs-2k?variant=53861225496923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -59230,24 +59072,6 @@
     <ParentID>motore-elettrico-quick-per-verricelli-salpa-ancora</ParentID>
   </Offer>
   <Offer>
-    <Name>Motore Elettrico Quick per Verricelli Salpa Ancora - Riduttore 1000W</Name>
-    <Brand>Quick</Brand>
-    <Description>Il motore elettrico Quick è il ricambio originale per i verricelli salpa ancora Quick, pensato per sostituire il motore esistente in caso di guasto o usura. È un motore a corrente continua che si abbina al verricello di riferimento, mantenendo le stesse c</Description>
-    <OriginalPrice>377.00</OriginalPrice>
-    <Price>322.90</Price>
-    <Code>1213500</Code>
-    <Link>https://www.onautica.com/products/motore-elettrico-quick-per-verricelli-salpa-ancora?variant=53782413738331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213500_2.webp?v=1786696407</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213003_1.webp?v=1786696374</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213003.webp?v=1786696376</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>motore-elettrico-quick-per-verricelli-salpa-ancora</ParentID>
-  </Offer>
-  <Offer>
     <Name>Motore Elettrico Quick per Verricelli Salpa Ancora - Motore 700W 12V</Name>
     <Brand>Quick</Brand>
     <Description>Il motore elettrico Quick è il ricambio originale per i verricelli salpa ancora Quick, pensato per sostituire il motore esistente in caso di guasto o usura. È un motore a corrente continua che si abbina al verricello di riferimento, mantenendo le stesse c</Description>
@@ -59278,24 +59102,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213415_1.webp?v=1786696399</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>9.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213003_1.webp?v=1786696374</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213003.webp?v=1786696376</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>motore-elettrico-quick-per-verricelli-salpa-ancora</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Motore Elettrico Quick per Verricelli Salpa Ancora - Motore 1700W 12V</Name>
-    <Brand>Quick</Brand>
-    <Description>Il motore elettrico Quick è il ricambio originale per i verricelli salpa ancora Quick, pensato per sostituire il motore esistente in caso di guasto o usura. È un motore a corrente continua che si abbina al verricello di riferimento, mantenendo le stesse c</Description>
-    <OriginalPrice>446.50</OriginalPrice>
-    <Price>381.20</Price>
-    <Code>1213017</Code>
-    <Link>https://www.onautica.com/products/motore-elettrico-quick-per-verricelli-salpa-ancora?variant=53782413967707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213017_1.webp?v=1786696392</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>9.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213003_1.webp?v=1786696374</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1213003.webp?v=1786696376</Image3>
     <Condition>nuovo</Condition>
@@ -62008,6 +61814,23 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8031164403163</EanCode>
     <Weight>1.40</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-telecomando-ultraflex-mach36-o8-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Telecomando Ultraflex Mach36 Ø8 mm - 24 piedi</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Il cavo telecomando Ultraflex Mach36 è un cavo ad alta efficienza e flessibilità, equivalente al modello C36, con diametro Ø8 mm e corsa di 85 mm. È utilizzabile su motori Mercury, Mercruiser e sulle scatole di comando Mercury serie Generation 2. È dispon</Description>
+    <OriginalPrice>173.98</OriginalPrice>
+    <Price>150.90</Price>
+    <Code>4202624</Code>
+    <Link>https://www.onautica.com/products/cavo-telecomando-ultraflex-mach36-o8-mm?variant=53763265986907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Comandi e Manette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4202616-0.webp?v=1786521157</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164403187</EanCode>
+    <Weight>1.45</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cavo-telecomando-ultraflex-mach36-o8-mm</ParentID>
   </Offer>
@@ -71266,23 +71089,6 @@
     <ParentID>elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta</ParentID>
   </Offer>
   <Offer>
-    <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C3 posteriore</Name>
-    <Brand>Solas</Brand>
-    <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
-    <OriginalPrice>961.49</OriginalPrice>
-    <Price>654.90</Price>
-    <Code>2740239</Code>
-    <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta?variant=53757775216987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2740236-0.webp?v=1786474084</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>824375052002</EanCode>
-    <Weight>6.06</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta</ParentID>
-  </Offer>
-  <Offer>
     <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C4 posteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
@@ -71313,23 +71119,6 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>824375051968</EanCode>
     <Weight>5.47</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C3 anteriore</Name>
-    <Brand>Solas</Brand>
-    <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
-    <OriginalPrice>1045.45</OriginalPrice>
-    <Price>708.90</Price>
-    <Code>2740236</Code>
-    <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta?variant=53757775315291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2740236-0.webp?v=1786474084</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>824375041716</EanCode>
-    <Weight>8.40</Weight>
     <Condition>nuovo</Condition>
     <ParentID>elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta</ParentID>
   </Offer>
@@ -75707,23 +75496,6 @@
     <ParentID>amplificatore-marino-fusion-signature-sg-da51600-5-canali</ParentID>
   </Offer>
   <Offer>
-    <Name>Autoradio Marine Fusion MS-RA70N Bluetooth USB - Comando remoto MS-NRX300</Name>
-    <Brand>Fusion</Brand>
-    <Description>Lo stereo marino Fusion MS-RA70N è un&apos;autoradio pensata per l&apos;installazione in barca, con Bluetooth e ingresso USB integrati per ascoltare musica in streaming o da chiavetta. Eroga una potenza di 4 x 50 W a 12V ed è compatto, con un ingombro di 188 x 60 x</Description>
-    <Price>247.50</Price>
-    <Code>5640692</Code>
-    <Link>https://www.onautica.com/products/autoradio-marine-fusion-ms-ra70n-bluetooth-usb?variant=53861170151771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640692_1.webp?v=1787384504</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640602.webp?v=1787384489</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640602_3.webp?v=1787384478</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>autoradio-marine-fusion-ms-ra70n-bluetooth-usb</ParentID>
-  </Offer>
-  <Offer>
     <Name>Autoradio Marine Fusion MS-RA70N Bluetooth USB - Stereo MS-RA70N</Name>
     <Brand>Fusion</Brand>
     <Description>Lo stereo marino Fusion MS-RA70N è un&apos;autoradio pensata per l&apos;installazione in barca, con Bluetooth e ingresso USB integrati per ascoltare musica in streaming o da chiavetta. Eroga una potenza di 4 x 50 W a 12V ed è compatto, con un ingombro di 188 x 60 x</Description>
@@ -77236,6 +77008,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0851250_a6342a5e-ec4a-45d7-8cbe-cca7f985f886.webp?v=1787735856</Image2>
     <Condition>nuovo</Condition>
     <ParentID>poltroncina-gonfiabile-tiki-60x40-cm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Radio Stereo Marino Boss MR632UAB Bluetooth / USB / SD – Frontalino Estraibile</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il Boss Marine MR632UAB è uno stereo marino affidabile e funzionale, progettato per chi desidera un sistema audio completo senza l&apos;ingombro del lettore CD (meccanica &quot;deckless&quot;). Questo design permette una profondità ridotta (solo 97 mm), facilitando l&apos;in</Description>
+    <Price>119.59</Price>
+    <Code>10793</Code>
+    <Link>https://www.onautica.com/products/radio-stereo-boss-mr632uab-bluetooth?variant=52577521008987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/radio-stereo-boss-mr632uab-bluetooth.png?v=1773341912</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>791489124300</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/radio-stereo-boss-mr632uab-bluetooth_frontalino.png?v=1773341913</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/radio-stereo-boss-mr632uab-bluetooth_telecomando.png?v=1773341914</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>radio-stereo-boss-mr632uab-bluetooth</ParentID>
   </Offer>
   <Offer>
     <Name>Rivestimento Adesivo Gatorskinz Motomarine - 305 x 610 mm (12x24&quot;)</Name>
@@ -81780,7 +81569,7 @@
     <Name>Antenna Glomex Talitha V9125AGCU/DAB20 TV FM DAB - Bianco</Name>
     <Brand>Glomex</Brand>
     <Description>Questa antenna non si fissa da sola: serve una base dedicata, disponibile nei modelli V9124 (compatibile con Avior, Talitha, Altair, Polaris, Webboat) o V9123 (compatibile con Avior, Talitha). L&apos;antenna Glomex Talitha V9125AGCU/DAB20 riceve il segnale TV,</Description>
-    <Price>199.10</Price>
+    <Price>189.70</Price>
     <Code>5637002</Code>
     <Link>https://www.onautica.com/products/antenna-glomex-talitha-v9125agcu-dab20-tv-fm-dab?variant=53893087822171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -82043,7 +81832,7 @@
     <Name>Base a Morsetto Glomex V9171 in Acciaio Inox per Tubi Ø 80 mm - Ø 25/80 mm</Name>
     <Brand>Glomex</Brand>
     <Description>La base a morsetto Glomex V9171 permette di installare un&apos;antenna su un tubo, ad esempio un pulpito o una battagliola, senza dover forare lo scafo. Il morsetto è in acciaio inox e si fissa direttamente sul tubo, offrendo un punto di ancoraggio solido per </Description>
-    <Price>131.90</Price>
+    <Price>124.80</Price>
     <Code>5636707</Code>
     <Link>https://www.onautica.com/products/base-a-morsetto-glomex-v9171-in-acciaio-inox-per-tubi-o-80-mm?variant=53908676346203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -89301,7 +89090,7 @@
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna GSM/4G/LTE Glomex PRA480A consente di ricevere il segnale telefonico e la connessione dati mobile a bordo dell&apos;imbarcazione, garantendo una copertura stabile durante la navigazione. È disponibile nel modello PRA480A, identificato dal codice rica</Description>
     <OriginalPrice>180.00</OriginalPrice>
-    <Price>160.20</Price>
+    <Price>144.10</Price>
     <Code>5636440</Code>
     <Link>https://www.onautica.com/products/antenna-gsm-4g-lte-glomex-pra480a?variant=53843816022363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -89421,7 +89210,7 @@
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna VHF Glomex RA106 RIB è pensata per l&apos;installazione su gommoni e RIB, dove è richiesta un&apos;antenna compatta e robusta per le comunicazioni radio di bordo. È disponibile in due versioni, che si distinguono per il materiale: RA106GRP in VTR e RA106S</Description>
     <OriginalPrice>124.00</OriginalPrice>
-    <Price>122.90</Price>
+    <Price>115.40</Price>
     <Code>5636219</Code>
     <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra106-rib?variant=53843804258651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -89438,7 +89227,7 @@
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna VHF Glomex RA106 RIB è pensata per l&apos;installazione su gommoni e RIB, dove è richiesta un&apos;antenna compatta e robusta per le comunicazioni radio di bordo. È disponibile in due versioni, che si distinguono per il materiale: RA106GRP in VTR e RA106S</Description>
     <OriginalPrice>129.50</OriginalPrice>
-    <Price>126.80</Price>
+    <Price>119.40</Price>
     <Code>5636220</Code>
     <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra106-rib?variant=53843804291419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -89469,7 +89258,7 @@
     <Name>Antenna VHF Glomex RA1225HP Motor - RA1225HP Motor</Name>
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna VHF Glomex RA1225HP Motor è un ricambio originale pensato per chi possiede già un&apos;antenna Glomex RA1225HP Motor a bordo e deve sostituirne un componente. Si tratta di un pezzo specifico, destinato a mantenere la piena funzionalità dell&apos;impianto </Description>
-    <Price>192.20</Price>
+    <Price>183.40</Price>
     <Code>5636228</Code>
     <Link>https://www.onautica.com/products/antenna-vhf-glomex-ra1225hp-motor?variant=53843814515035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -89500,7 +89289,7 @@
     <Name>Antenna VHF Glomex Supergain Black Swan SGV80SBWIBK - SGV80SBWIBK</Name>
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna Supergain Black Swan VHF di Glomex è un&apos;antenna per impianti VHF di bordo, proposta in colore nero. Fa parte della linea Supergain, pensata per l&apos;installazione su imbarcazioni. È disponibile nel modello SGV80SBWIBK, identificato dal codice 56363</Description>
-    <Price>128.20</Price>
+    <Price>108.30</Price>
     <Code>5636320</Code>
     <Link>https://www.onautica.com/products/antenna-vhf-glomex-supergain-black-swan-sgv80sbwibk?variant=53865254781275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -91607,7 +91396,7 @@
     <Brand>Glomex</Brand>
     <Description>Il ricambio Glomex per l&apos;antenna VHF RA1206 Motor permette di sostituire il componente originale quando risulta usurato o danneggiato, senza dover cambiare l&apos;intera antenna. È pensato per chi ha già installato questo modello a bordo e vuole ripristinarne </Description>
     <OriginalPrice>124.00</OriginalPrice>
-    <Price>121.90</Price>
+    <Price>117.70</Price>
     <Code>5636227</Code>
     <Link>https://www.onautica.com/products/ricambio-antenna-vhf-glomex-ra1206-motor?variant=53843813302619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94254,7 +94043,7 @@
     <Name>Climatizzatore Marino Vitrifrigo Monoblocco 7000-16000 BTU - 7000 BTU/h – 230 V</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>Il sistema di climatizzazione Vitrifrigo è il monoblocco marino completo — compressore, condensatore, evaporatore e ventilatore in un&apos;unica unità — adatto al condizionamento di un ambiente singolo o di due ambienti adiacenti. Disponibile in tre taglie, da</Description>
-    <Price>2222.10</Price>
+    <Price>1868.90</Price>
     <Code>2460060</Code>
     <Link>https://www.onautica.com/products/climatizzatore-marino-vitrifrigo-monoblocco-16000-btu?variant=53754890486107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -95334,7 +95123,7 @@
     <Brand>Quick</Brand>
     <Description>Questi pannelli e accessori servono a comandare un&apos;elica di manovra di prua o di poppa già installata a bordo, prodotta da Quick; non sono eliche di manovra autonome. I comandi remoti della serie TCD permettono di pilotare il propulsore tramite un&apos;interfa</Description>
     <OriginalPrice>475.50</OriginalPrice>
-    <Price>460.70</Price>
+    <Price>442.10</Price>
     <Code>4735005</Code>
     <Link>https://www.onautica.com/products/pannelli-di-comando-elica-di-manovra-quick-serie-tcd?variant=53892960452955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -96035,24 +95824,6 @@
     <ParentID>pompa-a-ingranaggi-marco-up9-oil-per-travaso-olio</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa a Ingranaggi Marco UP9/OIL per Travaso Olio - Pompa 24V</Name>
-    <Brand>Marco</Brand>
-    <Description>La pompa Marco UP9/OIL è un&apos;elettropompa ad ingranaggi elicoidali in bronzo, con corpo in ottone nichelato e albero in acciaio inossidabile, pensata per il travaso di oli lubrificanti o di liquidi viscosi. È particolarmente indicata per lo svuotamento dei</Description>
-    <OriginalPrice>388.04</OriginalPrice>
-    <Price>282.90</Price>
-    <Code>1600029</Code>
-    <Link>https://www.onautica.com/products/pompa-a-ingranaggi-marco-up9-oil-per-travaso-olio?variant=53703710081371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600028-0.webp?v=1785661114</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8022278603389</EanCode>
-    <Weight>3.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1600028-1.webp?v=1785661116</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-a-ingranaggi-marco-up9-oil-per-travaso-olio</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa a Palette Marco VP45 Travaso Gasolio 45 l/min con Carter e Pinze 12V/24V - 12 V – 8 A</Name>
     <Brand>Marco</Brand>
     <Description>La Marco VP45 è un&apos;elettropompa a palette autoadescante per il trasferimento e il rifornimento di diesel e acqua, con portata di 45 l/min. L&apos;interruttore stagno ON/OFF è integrato nel motore. Il corpo è in alluminio, con doppia possibilità di connessione </Description>
@@ -96625,7 +96396,7 @@
     <Name>Prolunghe per Pannelli Comando Elica di Manovra Quick TCD - 24 metri</Name>
     <Brand>Quick</Brand>
     <Description>Le prolunghe Quick per i pannelli di comando dell&apos;elica di manovra della serie TCD , nelle lunghezze da 6, 12, 18 e 24 metri . A chi è rivolto A chi monta un pannello TCD lontano dalla centralina dell&apos;elica, o ne aggiunge un secondo in un altro punto di m</Description>
-    <Price>159.00</Price>
+    <Price>153.10</Price>
     <Code>4735024</Code>
     <Link>https://www.onautica.com/products/prolunghe-per-pannelli-comando-elica-di-manovra-quick-tcd?variant=53974090613083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
