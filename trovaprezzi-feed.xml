@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-22T18:11:32.881Z -->
+<!-- Generato: 2026-09-23T06:32:07.312Z -->
 <!-- Offerte: 5818 -->
 <Products>
   <Offer>
@@ -26883,7 +26883,7 @@
     <Price>102.02</Price>
     <Code>KIT6PS</Code>
     <Link>https://www.onautica.com/products/sacca-segnali-soccorso-pesca-professionale-6-miglia-dm-2024?variant=52577367523675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
+    <Stock>disponibile</Stock>
     <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sacca-segnali-soccorso-pesca-professionale-6-miglia.webp?v=1774695023</Image>
     <ShippingCost>5.90</ShippingCost>
@@ -96702,7 +96702,7 @@
     <ParentID>scocca-osculati</ParentID>
   </Offer>
   <Offer>
-    <Name>Scocca Osculati - P×A×L 520×480��480 mm</Name>
+    <Name>Scocca Osculati - P×A×L 520×480×480 mm</Name>
     <Brand>Osculati</Brand>
     <Description>Scocca Osculati La scocca sedile Osculati è in polietilene rotazionale bianco con cuscini smontabili, ideale per le barche scoperte perché non si deteriora con le intemperie. È un modello estremamente compatto ma molto comodo, predisposto per il fissaggio</Description>
     <OriginalPrice>129.50</OriginalPrice>
