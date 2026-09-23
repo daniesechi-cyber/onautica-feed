@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-23T06:32:07.312Z -->
-<!-- Offerte: 5818 -->
+<!-- Generato: 2026-09-23T10:31:23.391Z -->
+<!-- Offerte: 5817 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -1203,23 +1203,6 @@
     <ParentID>pompa-acque-nere-ocean-waste-32</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Jabsco Par Max 2.9 12V per WC Nautici - 12V</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La pompa Jabsco Par Max 2.9 è compatibile con i bagni nautici Jabsco delle serie 37245, 37255, 58XX0 e 58550. Ha una portata di erogazione massima di 11 litri al minuto (2,9 GPM) ed è autoadescante fino a un&apos;altezza di 1,8 metri. Funziona a 12V con un ass</Description>
-    <OriginalPrice>235.13</OriginalPrice>
-    <Price>227.90</Price>
-    <Code>Z31331-0092</Code>
-    <Link>https://www.onautica.com/products/pompa-jabsco-par-max-2-9-12v-per-wc-nautici?variant=53725952409947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z31331-0092-0.webp?v=1786013477</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>671880583060</EanCode>
-    <Weight>1.80</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-jabsco-par-max-2-9-12v-per-wc-nautici</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Johnson SPX Viking Vacuum 24L - 12V</Name>
     <Brand>SPX Flow</Brand>
     <Description>La pompa Johnson SPX Viking Vacuum è pensata per i sistemi di scarico a vuoto (vacuum) dei WC nautici. Aspira l&apos;acqua dalle toilette e la convoglia verso il serbatoio delle acque nere, garantendo un funzionamento silenzioso e continuo del sistema. È dispo</Description>
@@ -1523,24 +1506,6 @@
     <ParentID>prolunga-elettrica-ce-ip67-230v-motomarine</ParentID>
   </Offer>
   <Offer>
-    <Name>Pulsantiera Up-Down 2 Pulsanti 12/24V – Comando Stagno per Salpa-Ancore con Cavo 4,2 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Pulsantiera Up-Down comando salpa-ancore con cavo estensibile da 4,2 metri. Impermeabile, completa di connettore stagno e staffa di supporto. Tensione universale 12/24V. Disponibile con o senza torcia LED integrata. Pulsanti Torcia LED 2 NO Caratteristich</Description>
-    <OriginalPrice>96.20</OriginalPrice>
-    <Price>88.01</Price>
-    <Code>1215300</Code>
-    <Link>https://www.onautica.com/products/pulsantiera-up-down-2-pulsanti?variant=52577528414555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1215300_1.webp?v=1786747166</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8057090054767</EanCode>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1215300.png?v=1773341944</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1215300b.png?v=1773341945</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pulsantiera-up-down-2-pulsanti</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ricambi e Accessori per Toilet Johnson SPX - Seduta Comfort Soft Close</Name>
     <Brand>SPX Flow</Brand>
     <Description>Prima di ordinare verifica sempre il modello di toilet nautico installato a bordo (Manuale, Silent Electric, Compact o Comfort): i componenti di questa gamma SPX Johnson non sono intercambiabili tra le diverse versioni. Questa è una raccolta di ricambi e </Description>
@@ -1621,6 +1586,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326135.webp?v=1787641697</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>0.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ricambi Originali Tecma per Toilette Serie Flexi e Design - Pompa macerator MAC11 24V</Name>
+    <Brand>Tecma</Brand>
+    <Description>Questa è la gamma di ricambi originali Tecma per le toilette elettriche della serie Flexi e Design (inclusi i modelli Compact, Breeze ed Evolution). Ogni codice corrisponde a un componente specifico del sistema di scarico e alimentazione della toilette, p</Description>
+    <OriginalPrice>286.50</OriginalPrice>
+    <Price>233.40</Price>
+    <Code>1326130</Code>
+    <Link>https://www.onautica.com/products/ricambi-originali-tecma-per-toilette-serie-flexi-e-design?variant=53877358461275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326130_1.webp?v=1787641659</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.80</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image3>
     <Condition>nuovo</Condition>
@@ -3706,25 +3689,6 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>647124120377</EanCode>
     <Weight>9.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-2.webp?v=1785496079</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-3.webp?v=1785496082</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-fortress-in-lega-di-alluminio-e-magnesio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Ancora Fortress in Lega di Alluminio e Magnesio - FX-55 (14,5 kg – barche 16-18 m)</Name>
-    <Brand>Fortress</Brand>
-    <Description>L&apos;ancora Fortress in lega di alluminio e magnesio è l&apos;ancora leggera più rinomata, dalle prestazioni unanimemente riconosciute. Completamente smontabile, è facilissima da maneggiare per tutto l&apos;equipaggio: a parità di misura pesa una frazione di un&apos;ancora</Description>
-    <OriginalPrice>1907.73</OriginalPrice>
-    <Price>1849.90</Price>
-    <Code>P006075</Code>
-    <Link>https://www.onautica.com/products/ancora-fortress-in-lega-di-alluminio-e-magnesio?variant=53696589332827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-0.webp?v=1785496077</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>647124120551</EanCode>
-    <Weight>14.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-2.webp?v=1785496079</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-3.webp?v=1785496082</Image3>
     <Condition>nuovo</Condition>
@@ -7673,6 +7637,22 @@
     <ParentID>delfiniera-marine-75-in-teak-e-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
+    <Name>Delfiniera Marine 75 Roller in Teak e Acciaio Inox 316 - 75x48 cm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La delfiniera Marine 75 Roller è una piattaforma di prua pensata per facilitare le manovre di ancoraggio. La struttura, con tubi e attacchi in Acciaio Inox AISI 316, sostiene un piano di calpestio in Teak dotato di musone per il passaggio della catena e d</Description>
+    <OriginalPrice>316.50</OriginalPrice>
+    <Price>271.57</Price>
+    <Code>1155008</Code>
+    <Link>https://www.onautica.com/products/delfiniera-marine-75-roller-in-teak-e-acciaio-inox-316?variant=53759249252699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1155008_1.webp?v=1786484890</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1155008_2.webp?v=1786484892</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>delfiniera-marine-75-roller-in-teak-e-acciaio-inox-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Distributore di Catena Chain Boy in Acciaio Inox 316 - Kit completo</Name>
     <Brand>Motomarine</Brand>
     <Description>Il distributore di catena Chain Boy si installa nel gavone ancora e serve a distribuire la catena in modo uniforme e ordinato durante il recupero, evitando che si accumuli in modo disordinato in un unico punto. È realizzato in acciaio inox 316. Viene forn</Description>
@@ -10134,24 +10114,6 @@
     <ParentID>avvisatore-a-fischio-marco-a-norme-r-i-na</ParentID>
   </Offer>
   <Offer>
-    <Name>Avvisatore Elettronico Marco EMH 12V - Senza microfono</Name>
-    <Brand>Marco</Brand>
-    <Description>L&apos;avvisatore elettronico Marco EMH è una tromba a 12V pensata per la segnalazione acustica a bordo. Funziona in modo elettronico, senza parti meccaniche a vibrazione, ed emette un segnale sonoro di 112 dB. È disponibile nella versione EMH, senza microfono</Description>
-    <OriginalPrice>258.00</OriginalPrice>
-    <Price>229.00</Price>
-    <Code>1901810</Code>
-    <Link>https://www.onautica.com/products/avvisatore-elettronico-marco-emh-12v?variant=53902582481243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901810_1.webp?v=1787902368</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>3.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901810_4.webp?v=1787902370</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901810.webp?v=1787902372</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>avvisatore-elettronico-marco-emh-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Avvisatore Elettronico Marco EMH 12V - Con microfono</Name>
     <Brand>Marco</Brand>
     <Description>L&apos;avvisatore elettronico Marco EMH è una tromba a 12V pensata per la segnalazione acustica a bordo. Funziona in modo elettronico, senza parti meccaniche a vibrazione, ed emette un segnale sonoro di 112 dB. È disponibile nella versione EMH, senza microfono</Description>
@@ -11166,6 +11128,21 @@
     <ParentID>bussola-verticale-riviera-pegasus-4-bp2</ParentID>
   </Offer>
   <Offer>
+    <Name>Campana a Norme R.I.Na. Ø 210 mm in Ottone – Lucida o Cromata - Ottone lucido</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Campana a norme R.I.Na. Ø 210 mm per imbarcazioni da 12 a 20 metri, disponibile in ottone lucidato a specchio o in ottone cromato . Caratteristiche principali Costruita in conformità alle norme R.I.Na. (Registro Italiano Navale), garanzia di qualità e sic</Description>
+    <OriginalPrice>212.50</OriginalPrice>
+    <Price>200.95</Price>
+    <Code>1900021</Code>
+    <Link>https://www.onautica.com/products/campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt?variant=52577421558107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Campana_ottone_lucidato_a_specchio_a_norme_R.I.Na._per_imbarcazioni_da_12_a_20_mt..png?v=1773341635</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt</ParentID>
+  </Offer>
+  <Offer>
     <Name>Campana a Norme R.I.Na. Ø 210 mm in Ottone – Lucida o Cromata - Ottone cromato</Name>
     <Brand>Motomarine</Brand>
     <Description>Campana a norme R.I.Na. Ø 210 mm per imbarcazioni da 12 a 20 metri, disponibile in ottone lucidato a specchio o in ottone cromato . Caratteristiche principali Costruita in conformità alle norme R.I.Na. (Registro Italiano Navale), garanzia di qualità e sic</Description>
@@ -11507,6 +11484,25 @@
     <Weight>2.29</Weight>
     <Condition>nuovo</Condition>
     <ParentID>ogiva-in-zinco-o-50-mm-radice-con-innesto-esagonale-con-ghiera-asse</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passacavi in Coppia DX e SX in Ottone Cromato – 5 Misure da 110 a 300 mm - 250 mm · cima max Ø 24 mm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Passacavi in ottone cromato , venduti in coppia con elemento destro e sinistro, per guidare e proteggere le cime lungo le fiancate dell&apos;imbarcazione. La base ha 2 fori di fissaggio . Sono disponibili in cinque misure , da 110 a 300 mm, per cime fino a Ø 3</Description>
+    <OriginalPrice>95.40</OriginalPrice>
+    <Price>85.55</Price>
+    <Code>1130025</Code>
+    <Link>https://www.onautica.com/products/passacavi-ottone-cromato-in-coppia?variant=53795449274715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Bitte e Passacavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Passacavi_250_mm._ottone_cromato_437b51f4-f775-404f-9dbe-a5e74a75a186.webp?v=1786814917</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626029140</EanCode>
+    <Weight>1.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1130011.webp?v=1786747229</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1130011_1.webp?v=1786747231</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passacavi-ottone-cromato-in-coppia</ParentID>
   </Offer>
   <Offer>
     <Name>Passacavi in Coppia DX e SX in Ottone Cromato – 5 Misure da 110 a 300 mm - 300 mm · cima max Ø 30 mm</Name>
@@ -24416,22 +24412,6 @@
     <ParentID>offerta-borsa-dotazioni-entro-6-miglia-per-6-persone</ParentID>
   </Offer>
   <Offer>
-    <Name>Borsa Dotazioni di Sicurezza Motomarine - 4 persone - entro 6 miglia</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La borsa dotazioni di sicurezza Motomarine raccoglie in un&apos;unica borsa l&apos;equipaggiamento di sicurezza da tenere a bordo, già composto in base al numero di persone imbarcate e alla distanza dalla costa entro cui si naviga. Contiene i giubbotti salvagente e</Description>
-    <OriginalPrice>180.00</OriginalPrice>
-    <Price>174.10</Price>
-    <Code>3030611</Code>
-    <Link>https://www.onautica.com/products/borsa-dotazioni-di-sicurezza-motomarine?variant=53903125021019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Dotazioni di Bordo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3030611.webp?v=1787903847</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>borsa-dotazioni-di-sicurezza-motomarine</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cassetta Pronto Soccorso PVS New Tab A - New Tab A</Name>
     <Brand>PVS</Brand>
     <Description>La cassetta PVS New Tab A è un contenitore rigido pensato per tenere a bordo la dotazione di pronto soccorso richiesta dalla Tabella A per le unità da diporto. Si tiene fissa in un vano dedicato o riposta in uno stivaggio facilmente accessibile. È disponi</Description>
@@ -25005,23 +24985,6 @@
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3813547DG_1.webp?v=1786544539</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3813500_1.webp?v=1786544436</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3813502_1.webp?v=1786544438</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>copriparabordo-fendress-per-mega-fender-in-tessuto-felpato</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Copriparabordo Fendress per Mega Fender in Tessuto Felpato - 150x125 cm Blu</Name>
-    <Brand>Fendress</Brand>
-    <Description>Il copriparabordo Fendress è realizzato in tessuto felpato a doppio strato, pensato per rivestire i parabordi Mega Fender. Protegge il parabordo dall&apos;usura, dalla sporcizia e dai cigolii contro lo scafo, mantenendo intatte le fiancate della barca grazie a</Description>
-    <OriginalPrice>419.50</OriginalPrice>
-    <Price>372.11</Price>
-    <Code>3813545</Code>
-    <Link>https://www.onautica.com/products/copriparabordo-fendress-per-mega-fender-in-tessuto-felpato?variant=53767198015835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Copriparabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3813545_1.webp?v=1786544465</Image>
     <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3813500_1.webp?v=1786544436</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3813502_1.webp?v=1786544438</Image3>
@@ -27642,22 +27605,6 @@
     <ParentID>aspiratore-radiale-spx-flow-airv-4-flex-mount</ParentID>
   </Offer>
   <Offer>
-    <Name>Cassaforte Vitrifrigo VSafe 1340-TOP da Cassetto - 350x400x130 mm</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>La cassaforte Vitrifrigo VSafe 1340-TOP si installa in un cassetto e si apre dall&apos;alto. È dotata di tastiera con password utente, display LED per la gestione delle funzioni e luce interna a LED per vedere il contenuto anche in condizioni di scarsa illumin</Description>
-    <OriginalPrice>193.50</OriginalPrice>
-    <Price>183.50</Price>
-    <Code>0344004</Code>
-    <Link>https://www.onautica.com/products/cassaforte-vitrifrigo-vsafe-1340-top-da-cassetto?variant=53903029371227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0344004.webp?v=1787903429</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>12.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>cassaforte-vitrifrigo-vsafe-1340-top-da-cassetto</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cassaforte Vitrifrigo VSafe 200 con Tastiera a Password - 310x200x200 mm</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>La cassaforte Vitrifrigo VSafe 200 si apre con una tastiera a codice personale, senza bisogno di chiavi. All&apos;interno ha una luce a LED che si accende in automatico, utile per vedere subito cosa c&apos;è dentro anche in spazi bui o poco illuminati come un vano </Description>
@@ -27901,22 +27848,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z34739-0010EU-0.webp?v=1786474089</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>671880566988</EanCode>
-    <Weight>1.76</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>estrattore-daria-jabsco-a-flangia-per-ventilazione-motore-e-sentina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Estrattore d&apos;aria Jabsco a flangia per ventilazione motore e sentina - 24V – 7,1 m³/min</Name>
-    <Brand>Jabsco</Brand>
-    <Description>Gli estrattori d&apos;aria Jabsco a montaggio a flangia assicurano il ricambio dell&apos;aria in sentine, vani motore, cucine e ponti. Il corpo è realizzato in materiali resistenti alla corrosione, con rotore in Delrin dimensionalmente stabile e silenzioso e allogg</Description>
-    <Price>366.90</Price>
-    <Code>Z35400-0010EU</Code>
-    <Link>https://www.onautica.com/products/estrattore-daria-jabsco-a-flangia-per-ventilazione-motore-e-sentina?variant=53757775511899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z34739-0010EU-0.webp?v=1786474089</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>671880567022</EanCode>
     <Weight>1.76</Weight>
     <Condition>nuovo</Condition>
     <ParentID>estrattore-daria-jabsco-a-flangia-per-ventilazione-motore-e-sentina</ParentID>
@@ -33085,22 +33016,6 @@
     <ParentID>offerta-ghiacciaia-igloo-bmx-52-49lt-blu-5-giorni</ParentID>
   </Offer>
   <Offer>
-    <Name>Ghiacciaia Igloo Marine Ultra in ABS - 66 L</Name>
-    <Brand>Ultra</Brand>
-    <Description>La ghiacciaia Igloo Marine Ultra è pensata per l&apos;uso in barca, per conservare alimenti e bevande o per tenere il pescato e le esche vive. La cassa è in ABS resistente ai raggi UV, l&apos;isolamento è realizzato in espanso THERMECOOL e l&apos;interno è in polimero i</Description>
-    <Price>169.60</Price>
-    <Code>1540068</Code>
-    <Link>https://www.onautica.com/products/ghiacciaia-igloo-marine-ultra-in-abs?variant=53836644024667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1540068.webp?v=1787173070</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1540034_6.webp?v=1787173057</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1540034.webp?v=1787173058</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ghiacciaia-igloo-marine-ultra-in-abs</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ghiacciaia Igloo Marine Ultra in ABS - 94 L</Name>
     <Brand>Ultra</Brand>
     <Description>La ghiacciaia Igloo Marine Ultra è pensata per l&apos;uso in barca, per conservare alimenti e bevande o per tenere il pescato e le esche vive. La cassa è in ABS resistente ai raggi UV, l&apos;isolamento è realizzato in espanso THERMECOOL e l&apos;interno è in polimero i</Description>
@@ -35074,23 +34989,6 @@
     <ParentID>giubbotto-di-salvataggio-gonfiabile-vsg-skipper-150n-evo-blu</ParentID>
   </Offer>
   <Offer>
-    <Name>Gonfiatore Elettrico Bravo Turbo Max 12V – Pompa Gonfia e Sgonfia per Gommoni</Name>
-    <Brand>Bravo</Brand>
-    <Description>Il Gonfiatore elettrico Bravo Turbo Max è uno strumento avanzato progettato per offrire prestazioni elevate nel gonfiaggio e nello sgonfiaggio di gommoni e altri gonfiabili. Grazie alla sua doppia funzione di gonfia e sgonfia, garantisce una versatilità o</Description>
-    <OriginalPrice>282.61</OriginalPrice>
-    <Price>247.90</Price>
-    <Code>66.447.00</Code>
-    <Link>https://www.onautica.com/products/gonfiatore-bravo-turbo-max-12v?variant=52577528447323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Tender e Gommoni;Gonfiatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Gemini_Generated_Image_qhwewiqhwewiqhwe.png?v=1773341946</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137170515</EanCode>
-    <Weight>4.31</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>gonfiatore-bravo-turbo-max-12v</ParentID>
-  </Offer>
-  <Offer>
     <Name>Gonfiatore elettrico GE BP-1 12V Bravo</Name>
     <Brand>Bravo</Brand>
     <Description>Dotato di un sistema di controllo che garantisce l’arresto automatico alla pressione selezionata. Con una portata di 160 l/min è in grado di gonfiare ad un pressione massima di 1200 mbar (18 psi). Il sistema di aggancio tubo-gonfiatore del tipo &quot;a vite&quot; l</Description>
@@ -35811,23 +35709,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>kit-sicurezza-offshore-150n-cintura-salvagente-luce-led-oltre-12-miglia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Lubrificante CRC 6-66 Marine Multiuso - Latta 5 L</Name>
-    <Brand>CRC</Brand>
-    <Description>Il lubrificante CRC 6-66 Marine protegge le parti metalliche a bordo dall&apos;azione corrosiva dell&apos;ambiente salino. Sblocca le parti bloccate dal sale, deterge e lubrifica in un unico prodotto, con azione idroespellente e idrorepellente. Non altera la conduc</Description>
-    <Price>157.00</Price>
-    <Code>5706105</Code>
-    <Link>https://www.onautica.com/products/lubrificante-crc-6-66-marine-multiuso?variant=53908809548123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Grassi e Lubrificanti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5706105_2.webp?v=1787924291</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>5.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5706014_1.webp?v=1787924280</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5706014_2.webp?v=1787924283</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>lubrificante-crc-6-66-marine-multiuso</ParentID>
   </Offer>
   <Offer>
     <Name>Nastro Richiudibile 3M Dual Lock Tape 25mm - 25 mm x 5 m</Name>
@@ -39408,6 +39289,21 @@
     <ParentID>lampada-tartaruga-ovale-foresti-e-suardi-in-ottone</ParentID>
   </Offer>
   <Offer>
+    <Name>Lampada Tartaruga Ovale Foresti e Suardi in Ottone - 262 mm</Name>
+    <Brand>Foresti e Suardi</Brand>
+    <Description>La lampada tartaruga ovale Foresti e Suardi è un apparecchio da interno in ottone, con forma ovale bombata tipica delle plafoniere tartaruga. Si installa a parete o a soffitto e ospita una lampadina con attacco standard, alimentata a 220V. È disponibile i</Description>
+    <Price>131.70</Price>
+    <Code>2147208</Code>
+    <Link>https://www.onautica.com/products/lampada-tartaruga-ovale-foresti-e-suardi-in-ottone?variant=53902745796955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Interna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2147205.webp?v=1787902887</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>lampada-tartaruga-ovale-foresti-e-suardi-in-ottone</ParentID>
+  </Offer>
+  <Offer>
     <Name>Lampada Tartaruga Ovale in Ottone Cromato - 175 mm</Name>
     <Brand>Foresti e Suardi</Brand>
     <Description>La lampada tartaruga ovale è un punto luce per l&apos;interno della barca, con corpo in ottone cromato e forma ovale a scafo tradizionale. Si monta a parete o a soffitto e ospita una lampadina a incandescenza fino alla potenza massima indicata per ogni modello</Description>
@@ -41991,21 +41887,6 @@
     <ParentID>silenziatore-di-scarico-mf-vetus</ParentID>
   </Offer>
   <Offer>
-    <Name>Silenziatore di Scarico MF Vetus - Ø125mm</Name>
-    <Brand>Vetus</Brand>
-    <Description>Silenziatore di Scarico MF Vetus Silenziatore di Scarico MF Vetus per la linea di scarico dei motori marini. Disponibile in 4 versioni. A chi è rivolto A chi vuole ridurre la rumorosità della linea di scarico del proprio motore entrobordo. Quando e perché</Description>
-    <OriginalPrice>789.50</OriginalPrice>
-    <Price>671.60</Price>
-    <Code>5012125</Code>
-    <Link>https://www.onautica.com/products/silenziatore-di-scarico-mf-vetus?variant=53617269309787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5012090.webp?v=1784375459</Image>
-    <ShippingCost>0</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>silenziatore-di-scarico-mf-vetus</ParentID>
-  </Offer>
-  <Offer>
     <Name>Silenziatore di Scarico MF Vetus - Ø150mm</Name>
     <Brand>Vetus</Brand>
     <Description>Silenziatore di Scarico MF Vetus Silenziatore di Scarico MF Vetus per la linea di scarico dei motori marini. Disponibile in 4 versioni. A chi è rivolto A chi vuole ridurre la rumorosità della linea di scarico del proprio motore entrobordo. Quando e perché</Description>
@@ -42275,22 +42156,6 @@
     <Price>141.60</Price>
     <Code>4810124</Code>
     <Link>https://www.onautica.com/products/supporto-antivibrante-vetus-hy?variant=53908704461147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4810124_1.webp?v=1787923926</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4810124.webp?v=1787923928</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>supporto-antivibrante-vetus-hy</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Supporto Antivibrante Vetus HY - 50 SH - 150 Kg</Name>
-    <Brand>Vetus</Brand>
-    <Description>Il supporto antivibrante Vetus HY è pensato per l&apos;installazione di motori diesel di bassa e media potenza a bordo. Assorbe le vibrazioni trasmesse dal motore allo scafo grazie a un perno M16 x 100 mm, garantendo un fissaggio stabile e duraturo nel tempo. </Description>
-    <Price>141.60</Price>
-    <Code>4810125</Code>
-    <Link>https://www.onautica.com/products/supporto-antivibrante-vetus-hy?variant=53908704493915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4810124_1.webp?v=1787923926</Image>
@@ -45003,23 +44868,6 @@
     <ParentID>parabordo-fendress-megafender-con-anelli-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
-    <Name>Parabordo Fendress Megafender con Anelli in Acciaio Inox - 150x125 cm</Name>
-    <Brand>Fendress</Brand>
-    <Description>Il parabordo Fendress Megafender è pensato per grandi imbarcazioni e mega yacht, dove serve una protezione robusta ma facile da gestire a bordo. È leggero e maneggevole nonostante le dimensioni, grazie a una valvola dedicata che permette di sgonfiarlo rap</Description>
-    <OriginalPrice>937.00</OriginalPrice>
-    <Price>777.20</Price>
-    <Code>3803545</Code>
-    <Link>https://www.onautica.com/products/parabordo-fendress-megafender-con-anelli-in-acciaio-inox?variant=53759282643291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803500.webp?v=1786486388</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803500_3.webp?v=1786486391</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803500_1.webp?v=1786486393</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-fendress-megafender-con-anelli-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
     <Name>Parabordo in EVA Morbido per Prua e Plancette di Poppa - 610 mm - Bianco</Name>
     <Brand>Osculati</Brand>
     <Description>Il Parabordo in morbido EVA è una protezione nautica versatile, specificamente progettata per adattarsi alle linee delle prua di scafi a vela classici e alla protezione delle plancette di poppa . Grazie alla sua forma ergonomica e alla flessibilità del ma</Description>
@@ -46649,21 +46497,6 @@
     <ShippingCost>0</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>pompa-autoclave-jabsco-par-max-hd</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Autoclave Johnson Aqua Jet 5.0 Flow Master - 12V</Name>
-    <Brand>SPX Flow</Brand>
-    <Description>La pompa autoclave Johnson Aqua Jet 5.0 Flow Master alimenta l&apos;impianto idrico di bordo con acqua a pressione costante, avviandosi e fermandosi automaticamente in base al consumo. È pensata per l&apos;installazione fissa sui circuiti idraulici della barca. È d</Description>
-    <OriginalPrice>463.00</OriginalPrice>
-    <Price>377.40</Price>
-    <Code>1827222</Code>
-    <Link>https://www.onautica.com/products/pompa-autoclave-johnson-aqua-jet-5-0-flow-master?variant=53843733315931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827222.webp?v=1787241754</Image>
-    <ShippingCost>0</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-autoclave-johnson-aqua-jet-5-0-flow-master</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Autoclave Johnson Aqua Jet 5.0 Flow Master - 24V</Name>
@@ -50420,21 +50253,6 @@
     <ParentID>victron-cerbo-gx-mk2-centro-comunicazione</ParentID>
   </Offer>
   <Offer>
-    <Name>Disincrostante per Motori Star Brite Descaling Engine Flush 3,8 L - 3,8 L</Name>
-    <Brand>Star Brite</Brand>
-    <Description>Il disincrostante Star Brite Descaling Engine Flush elimina le incrostazioni di calcare e sedimenti dai circuiti di raffreddamento dei motori marini. Il trattamento aiuta il motore a lavorare a una temperatura più bassa e con maggiore efficacia, senza dan</Description>
-    <Price>117.60</Price>
-    <Code>5704600</Code>
-    <Link>https://www.onautica.com/products/disincrostante-per-motori-star-brite-descaling-engine-flush-3-8-l?variant=53908712718683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Detergenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5704600.webp?v=1787924029</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.30</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>disincrostante-per-motori-star-brite-descaling-engine-flush-3-8-l</ParentID>
-  </Offer>
-  <Offer>
     <Name>Elettropompa Gianneschi ACB Autoadescante in Bronzo - 24 V (15 A)</Name>
     <Brand>Gianneschi</Brand>
     <Description>L&apos;elettropompa ACB di Gianneschi è la multiuso professionale autoadescante: corpo pompa in bronzo e girante in lega di ottone, con tenuta meccanica di alta qualità in ceramica, grafite e inox. Idonea per lavaggio catene, antincendio, travaso gasolio e svu</Description>
@@ -52513,22 +52331,6 @@
     <Price>159.90</Price>
     <Code>1834130</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-manuale-johnson-viking-38-mm?variant=53843749208411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1834125.webp?v=1787241873</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1834125_1.webp?v=1787241875</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-manuale-johnson-viking-38-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di Sentina Manuale Johnson Viking 38 mm - Thrudeck</Name>
-    <Brand>SPX Flow</Brand>
-    <Description>La pompa di sentina manuale Johnson Viking è pensata per svuotare l&apos;acqua di sentina senza dipendere dall&apos;impianto elettrico di bordo. Il funzionamento è a leva: basta azionare manualmente il pistone per far circolare l&apos;acqua verso l&apos;esterno attraverso la</Description>
-    <OriginalPrice>179.50</OriginalPrice>
-    <Price>173.80</Price>
-    <Code>1834125</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-manuale-johnson-viking-38-mm?variant=53843749241179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1834125.webp?v=1787241873</Image>
@@ -57576,24 +57378,6 @@
     <ParentID>boiler-nautico-quick-sigmar-termoinox</ParentID>
   </Offer>
   <Offer>
-    <Name>Boiler Quick B3 in Acciaio Inox AISI 316 - 15 litri</Name>
-    <Brand>Quick</Brand>
-    <Description>Il boiler B3 di Quick è realizzato in materiale composito con serbatoio in acciaio inox AISI 316 e scambiatore di calore. Selle e fasce di fissaggio in acciaio inox sono incluse di serie, e la raccorderia in uscita è da 1/2&quot;. È disponibile nelle capacità </Description>
-    <OriginalPrice>737.50</OriginalPrice>
-    <Price>508.90</Price>
-    <Code>2400715</Code>
-    <Link>https://www.onautica.com/products/boiler-quick-b3-in-acciaio-inox-aisi-316?variant=53724247785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400715-0_9315f1ec-a929-4107-b797-03d7a98f5f6d.webp?v=1785970515</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057090049794</EanCode>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400715-1_a61bbcd8-9211-4f31-a093-80457bb27d8a.webp?v=1785970517</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>boiler-quick-b3-in-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boiler Quick B3 in Acciaio Inox AISI 316 - 40 litri</Name>
     <Brand>Quick</Brand>
     <Description>Il boiler B3 di Quick è realizzato in materiale composito con serbatoio in acciaio inox AISI 316 e scambiatore di calore. Selle e fasce di fissaggio in acciaio inox sono incluse di serie, e la raccorderia in uscita è da 1/2&quot;. È disponibile nelle capacità </Description>
@@ -60502,23 +60286,6 @@
     <ParentID>scalda-acqua-quick-nautic-boiler-bx-16-litri-1200w-compatto-in-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Scalda Acqua Quick Nautic Boiler BXR in Acciaio Inox AISI 316 — 1200W - BXR 50 Litri</Name>
-    <Brand>Quick</Brand>
-    <Description>A chi è rivolto Lo scaldabagno Quick Nautic Boiler BXR è la versione premium della gamma Quick, progettato per yacht e imbarcazioni di grandi dimensioni . Lo scambiatore di calore maggiorato assicura efficienza superiore e tempi di riscaldamento ridotti d</Description>
-    <Price>807.49</Price>
-    <Code>1500650</Code>
-    <Link>https://www.onautica.com/products/scalda-acqua-quick-nautic-boiler-bxr-in-acciaio-inox-aisi-316-1200w?variant=52995039691099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxr-panoramica-due-modelli-inox.webp?v=1778946026</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxr-singolo-grande-inox.webp?v=1778946026</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxr-singolo-piccolo-inox.webp?v=1778946026</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scalda-acqua-quick-nautic-boiler-bxr-in-acciaio-inox-aisi-316-1200w</ParentID>
-  </Offer>
-  <Offer>
     <Name>Scalda Acqua Quick Nautic Boiler BXR in Acciaio Inox AISI 316 — 1200W - BXR 60 Litri</Name>
     <Brand>Quick</Brand>
     <Description>A chi è rivolto Lo scaldabagno Quick Nautic Boiler BXR è la versione premium della gamma Quick, progettato per yacht e imbarcazioni di grandi dimensioni . Lo scambiatore di calore maggiorato assicura efficienza superiore e tempi di riscaldamento ridotti d</Description>
@@ -60534,23 +60301,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxr-singolo-piccolo-inox.webp?v=1778946026</Image3>
     <Condition>nuovo</Condition>
     <ParentID>scalda-acqua-quick-nautic-boiler-bxr-in-acciaio-inox-aisi-316-1200w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scalda Acqua Quick Nautic Boiler BXS 25/40 Litri 1200W Compatto in Acciaio Inox AISI 316 - BXS 40 Litri</Name>
-    <Brand>Quick</Brand>
-    <Description>A chi è rivolto Lo scaldabagno Quick Nautic Boiler BXS è il modello compatto quadrato della gamma Quick, progettato per barche a vela e motore dove lo spazio è un fattore critico. La forma cubica permette di sfruttare al meglio vani tecnici e gavoni di di</Description>
-    <Price>724.75</Price>
-    <Code>1500540</Code>
-    <Link>https://www.onautica.com/products/scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316?variant=52995048538459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-frontale-inox.webp?v=1778946174</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-laterale.webp?v=1778946174</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/premiscelatore-quick-nautic-boiler-kit-bxs.webp?v=1778946174</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
     <Name>Scaldabagno Quick Nautic Boiler B3 - 15 L</Name>
@@ -60941,24 +60691,6 @@
     <Price>1009.10</Price>
     <Code>1202606</Code>
     <Link>https://www.onautica.com/products/verricello-salpa-ancora-quick-prince-dp2-700-1000w?variant=53776682811739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1202606.webp?v=1786647431</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1202606_35bd8ed1-ba99-4008-92fd-6b6f2e8840fc.webp?v=1786647434</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1202606_2.webp?v=1786647436</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpa-ancora-quick-prince-dp2-700-1000w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpa Ancora Quick Prince DP2 700/1000W - 1000W Drum - Catena Ø8mm</Name>
-    <Brand>Quick</Brand>
-    <Description>Il verricello salpa ancora Quick Prince DP2 gestisce cima e catena con organi di trazione in bronzo e acciaio inox. Testa e base sono realizzate in acciaio inox con struttura interna composita (Inner Composite Structure), mentre il motore è stagno con gra</Description>
-    <OriginalPrice>1167.00</OriginalPrice>
-    <Price>1163.30</Price>
-    <Code>1203206</Code>
-    <Link>https://www.onautica.com/products/verricello-salpa-ancora-quick-prince-dp2-700-1000w?variant=53776682910043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1202606.webp?v=1786647431</Image>
@@ -62043,24 +61775,6 @@
     <Weight>0.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4601303.webp?v=1787384223</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4601303_1.webp?v=1787384219</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>comando-monoleva-ultraflex-b110-trim-per-paratia</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Comando Monoleva Ultraflex B110-Trim per Paratia - Nero</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il comando monoleva Ultraflex B110-Trim è un comando a doppia azione per montaggio a paratia, pensato per gestire con un&apos;unica leva sia il cambio marcia sia l&apos;acceleratore, con in più il comando del trim. È dotato di un dispositivo di blocco della leva in</Description>
-    <OriginalPrice>529.50</OriginalPrice>
-    <Price>424.00</Price>
-    <Code>4601303</Code>
-    <Link>https://www.onautica.com/products/comando-monoleva-ultraflex-b110-trim-per-paratia?variant=53861164974427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Comandi e Manette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4601303_1.webp?v=1787384219</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4601303.webp?v=1787384223</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4601303_2.webp?v=1787384221</Image3>
     <Condition>nuovo</Condition>
     <ParentID>comando-monoleva-ultraflex-b110-trim-per-paratia</ParentID>
   </Offer>
@@ -67072,6 +66786,24 @@
     <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
   </Offer>
   <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Cilindro UC81-OBF</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <Price>372.41</Price>
+    <Code>4655007</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861723144539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8031164426544</EanCode>
+    <Weight>6.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
     <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Cilindro UC95-OBF/1</Name>
     <Brand>Ultraflex</Brand>
     <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
@@ -67211,7 +66943,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493421411</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420459355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67228,7 +66960,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493421511</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420492123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67245,7 +66977,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493421611</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420524891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67262,7 +66994,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493421613</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420557659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67278,8 +67010,7 @@
     <Name>Elica Alice 2 Pale per Sail Drive - 14 x 9&quot; (356 x 229 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
-    <OriginalPrice>380.00</OriginalPrice>
-    <Price>325.40</Price>
+    <Price>414.41</Price>
     <Code>493421409</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420590427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67295,8 +67026,7 @@
     <Name>Elica Alice 2 Pale per Sail Drive - 15 x 10&quot; (381 x 254 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
-    <OriginalPrice>406.00</OriginalPrice>
-    <Price>346.50</Price>
+    <Price>441.91</Price>
     <Code>493421510</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420623195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67312,8 +67042,7 @@
     <Name>Elica Alice 2 Pale per Sail Drive - 16 x 14&quot; (406 x 356 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
-    <OriginalPrice>419.50</OriginalPrice>
-    <Price>357.00</Price>
+    <Price>455.67</Price>
     <Code>493421614</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420655963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67329,8 +67058,7 @@
     <Name>Elica Alice 2 Pale per Sail Drive - 17 x 12&quot; (432 x 305 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
-    <OriginalPrice>445.50</OriginalPrice>
-    <Price>378.50</Price>
+    <Price>483.64</Price>
     <Code>493421712</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420688731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67346,8 +67074,7 @@
     <Name>Elica Alice 2 Pale per Sail Drive - 17 x 14&quot; (432 x 356 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 2 pale per sail drive è un&apos;elica a passo fisso pensata per imbarcazioni a vela con trasmissione sail drive. Garantisce una spinta regolare e un funzionamento stabile, sia in marcia avanti che in retromarcia. È disponibile in diverse combin</Description>
-    <OriginalPrice>445.50</OriginalPrice>
-    <Price>378.50</Price>
+    <Price>483.64</Price>
     <Code>493421714</Code>
     <Link>https://www.onautica.com/products/elica-alice-2-pale-per-sail-drive?variant=53851420721499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67364,7 +67091,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431411</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422163291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67381,7 +67108,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431412</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422196059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67398,7 +67125,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431512</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422228827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67415,7 +67142,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431513</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422261595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67432,7 +67159,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>472.00</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431611</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422294363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67449,7 +67176,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431613</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422327131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67466,7 +67193,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>293.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431614</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422359899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67483,7 +67210,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431712</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422392667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67500,7 +67227,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431713</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422425435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67517,7 +67244,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431714</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422458203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67534,7 +67261,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431715</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422490971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67551,7 +67278,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431716</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422523739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67568,7 +67295,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>293.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431814</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422556507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67585,7 +67312,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431815</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422589275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67602,7 +67329,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
     <OriginalPrice>296.50</OriginalPrice>
-    <Price>234.00</Price>
+    <Price>292.47</Price>
     <Code>493431816</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422622043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67618,8 +67345,7 @@
     <Name>Elica Alice 3 Pale per Saildrive - 15 x 11 (381 x 279 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
-    <OriginalPrice>458.50</OriginalPrice>
-    <Price>388.90</Price>
+    <Price>497.39</Price>
     <Code>493431511</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422654811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67635,8 +67361,7 @@
     <Name>Elica Alice 3 Pale per Saildrive - 16 x 12 (406 x 305 mm)</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice a 3 pale è pensata per trasmissioni saildrive e sostituisce l&apos;elica originale mantenendo le stesse caratteristiche di montaggio. Le pale lavorano in modo efficiente sia in marcia avanti che in retromarcia, garantendo una spinta regolare all&apos;</Description>
-    <OriginalPrice>472.00</OriginalPrice>
-    <Price>399.50</Price>
+    <Price>511.14</Price>
     <Code>493431612</Code>
     <Link>https://www.onautica.com/products/elica-alice-3-pale-per-saildrive?variant=53851422687579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70942,8 +70667,8 @@
     <Name>Elica Inox Solas Rubex HD3-13 1/4x17 - Rubex HD3-13 1/4x17</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Solas Rubex HD3-13 1/4x17 è realizzata in acciaio inox a 3 pale, con rotazione destrorsa. Il diametro è di 13 1/4 pollici e il passo di 17. A chi è rivolto A chi deve sostituire l&apos;elica con un modello in acciaio inox Solas Rubex, dopo aver verific</Description>
-    <OriginalPrice>744.82</OriginalPrice>
-    <Price>513.90</Price>
+    <OriginalPrice>744.81</OriginalPrice>
+    <Price>621.92</Price>
     <Code>2740143</Code>
     <Link>https://www.onautica.com/products/elica-inox-solas-rubex-hd3-13-1-4x17?variant=53763266347355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70959,8 +70684,8 @@
     <Name>Elica Inox Solas Rubex NS E3-14x19 - Rubex NS E3-14x19</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Solas Rubex NS E3-14x19 è realizzata in acciaio inox a 3 pale, con rotazione destrorsa. Il diametro è di 14 pollici e il passo di 19. A chi è rivolto A chi deve sostituire l&apos;elica con un modello in acciaio inox Solas Rubex, dopo aver verificato ch</Description>
-    <OriginalPrice>937.12</OriginalPrice>
-    <Price>638.90</Price>
+    <OriginalPrice>937.11</OriginalPrice>
+    <Price>782.48</Price>
     <Code>2740155</Code>
     <Link>https://www.onautica.com/products/elica-inox-solas-rubex-ns-e3-14x19?variant=53763266380123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70976,8 +70701,8 @@
     <Name>Elica Solas Duoprop serie A/B in alluminio per Volvo Penta - Elica Duoprop A3-A4-B3 anteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie A/B di Solas è realizzata in alluminio e fa parte del sistema Duoprop a due eliche coassiali (anteriore e posteriore) per le trasmissioni Duoprop Volvo Penta. Sono unità molto sottili, pensate per una velocità massima di 35 nodi. La </Description>
-    <OriginalPrice>383.25</OriginalPrice>
-    <Price>278.90</Price>
+    <OriginalPrice>383.24</OriginalPrice>
+    <Price>320.01</Price>
     <Code>2740230</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta?variant=53757775741275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70993,8 +70718,8 @@
     <Name>Elica Solas Duoprop serie A/B in alluminio per Volvo Penta - Elica Duoprop A5-A6-B4-B5 anteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie A/B di Solas è realizzata in alluminio e fa parte del sistema Duoprop a due eliche coassiali (anteriore e posteriore) per le trasmissioni Duoprop Volvo Penta. Sono unità molto sottili, pensate per una velocità massima di 35 nodi. La </Description>
-    <OriginalPrice>383.25</OriginalPrice>
-    <Price>278.90</Price>
+    <OriginalPrice>383.24</OriginalPrice>
+    <Price>320.01</Price>
     <Code>2740231</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta?variant=53757775774043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71010,8 +70735,8 @@
     <Name>Elica Solas Duoprop serie A/B in alluminio per Volvo Penta - Elica Duoprop A7-B6 anteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie A/B di Solas è realizzata in alluminio e fa parte del sistema Duoprop a due eliche coassiali (anteriore e posteriore) per le trasmissioni Duoprop Volvo Penta. Sono unità molto sottili, pensate per una velocità massima di 35 nodi. La </Description>
-    <OriginalPrice>383.25</OriginalPrice>
-    <Price>278.90</Price>
+    <OriginalPrice>383.24</OriginalPrice>
+    <Price>320.01</Price>
     <Code>2740232</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta?variant=53757775806811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71027,8 +70752,8 @@
     <Name>Elica Solas Duoprop serie A/B in alluminio per Volvo Penta - Elica Duoprop A3-B3 posteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie A/B di Solas è realizzata in alluminio e fa parte del sistema Duoprop a due eliche coassiali (anteriore e posteriore) per le trasmissioni Duoprop Volvo Penta. Sono unità molto sottili, pensate per una velocità massima di 35 nodi. La </Description>
-    <OriginalPrice>433.35</OriginalPrice>
-    <Price>312.90</Price>
+    <OriginalPrice>433.34</OriginalPrice>
+    <Price>361.84</Price>
     <Code>2740233</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta?variant=53757775839579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71044,8 +70769,8 @@
     <Name>Elica Solas Duoprop serie A/B in alluminio per Volvo Penta - Elica Duoprop A6-A7-B5-B6 posteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie A/B di Solas è realizzata in alluminio e fa parte del sistema Duoprop a due eliche coassiali (anteriore e posteriore) per le trasmissioni Duoprop Volvo Penta. Sono unità molto sottili, pensate per una velocità massima di 35 nodi. La </Description>
-    <OriginalPrice>433.35</OriginalPrice>
-    <Price>312.90</Price>
+    <OriginalPrice>433.34</OriginalPrice>
+    <Price>361.84</Price>
     <Code>2740235</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta?variant=53757775872347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71061,8 +70786,8 @@
     <Name>Elica Solas Duoprop serie A/B in alluminio per Volvo Penta - Elica Duoprop A4-A5-B4 posteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie A/B di Solas è realizzata in alluminio e fa parte del sistema Duoprop a due eliche coassiali (anteriore e posteriore) per le trasmissioni Duoprop Volvo Penta. Sono unità molto sottili, pensate per una velocità massima di 35 nodi. La </Description>
-    <OriginalPrice>433.35</OriginalPrice>
-    <Price>312.90</Price>
+    <OriginalPrice>433.34</OriginalPrice>
+    <Price>361.84</Price>
     <Code>2740234</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-a-b-in-alluminio-per-volvo-penta?variant=53757775905115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71078,8 +70803,8 @@
     <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C4 posteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
-    <OriginalPrice>961.49</OriginalPrice>
-    <Price>654.90</Price>
+    <OriginalPrice>961.48</OriginalPrice>
+    <Price>802.84</Price>
     <Code>2740240</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta?variant=53757775249755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71095,8 +70820,8 @@
     <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C5-C6 posteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
-    <OriginalPrice>961.49</OriginalPrice>
-    <Price>654.90</Price>
+    <OriginalPrice>961.48</OriginalPrice>
+    <Price>802.84</Price>
     <Code>2740241</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta?variant=53757775282523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71112,8 +70837,8 @@
     <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C4-C5 anteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
-    <OriginalPrice>1045.45</OriginalPrice>
-    <Price>708.90</Price>
+    <OriginalPrice>1045.44</OriginalPrice>
+    <Price>872.94</Price>
     <Code>2740237</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta?variant=53757775348059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71129,8 +70854,8 @@
     <Name>Elica Solas Duoprop serie C in acciaio inox per Volvo Penta - Elica Duoprop C6 anteriore</Name>
     <Brand>Solas</Brand>
     <Description>L&apos;elica Duoprop serie C di Solas è realizzata in acciaio inox e fa parte del sistema Duoprop Volvo Penta, con due eliche coassiali (una anteriore e una posteriore) che lavorano in coppia. Il design con pale sottili è pensato per dare la massima spinta e v</Description>
-    <OriginalPrice>1045.45</OriginalPrice>
-    <Price>708.90</Price>
+    <OriginalPrice>1045.44</OriginalPrice>
+    <Price>872.94</Price>
     <Code>2740238</Code>
     <Link>https://www.onautica.com/products/elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta?variant=53757775380827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71141,6 +70866,54 @@
     <Weight>8.25</Weight>
     <Condition>nuovo</Condition>
     <ParentID>elica-solas-duoprop-serie-c-in-acciaio-inox-per-volvo-penta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 9.9A/15A/8D/10D/15D/20D / 4T 9.25 x 9 - 9.25 x 9</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
+    <Price>97.18</Price>
+    <Code>495311109309</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389304922459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375036507</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 9.9A/15A/8D/10D/15D/20D / 4T 9.25 x 10 - 9.25 x 10</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
+    <Price>97.18</Price>
+    <Code>495311109310</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389304955227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375006852</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 9.9A/15A/8D/10D/15D/20D / 4T 9.25 x 11 - 9.25 x 11</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
+    <Price>97.18</Price>
+    <Code>495311109311</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389304987995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375006869</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
   </Offer>
   <Offer>
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 12 - 9.90 x 12</Name>
@@ -71163,7 +70936,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>151.00</OriginalPrice>
-    <Price>143.18</Price>
+    <Price>149.44</Price>
     <Code>495331111611</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305282907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71178,8 +70951,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50 / 4T 11.40 x 12 - 11.40 x 12</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>143.18</OriginalPrice>
-    <Price>116.90</Price>
+    <Price>149.44</Price>
     <Code>495331111412</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305315675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71196,7 +70968,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>151.00</OriginalPrice>
-    <Price>143.18</Price>
+    <Price>149.44</Price>
     <Code>495331111113</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305348443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71213,7 +70985,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>151.00</OriginalPrice>
-    <Price>143.18</Price>
+    <Price>149.44</Price>
     <Code>495331111114</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305381211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71228,8 +71000,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50 / 4T 11 x 15 - 11 x 15</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>143.18</OriginalPrice>
-    <Price>116.90</Price>
+    <Price>149.44</Price>
     <Code>495331111015</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305413979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71246,7 +71017,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>155.50</OriginalPrice>
-    <Price>146.26</Price>
+    <Price>152.66</Price>
     <Code>495331111811</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305545051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71262,8 +71033,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50/60 / 4T 11.60 x 12 (Plus) - 11.60 x 12 (Plus)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>146.26</OriginalPrice>
-    <Price>118.90</Price>
+    <Price>152.66</Price>
     <Code>495331111612</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305577819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71280,7 +71050,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>155.50</OriginalPrice>
-    <Price>146.26</Price>
+    <Price>152.66</Price>
     <Code>495331111613</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305610587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71296,7 +71066,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>155.50</OriginalPrice>
-    <Price>146.26</Price>
+    <Price>152.66</Price>
     <Code>495331111614</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305643355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71312,8 +71082,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 75/90/115(&lt;2009)/130 / 4T 14 x 11 - 14 x 11</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>210.00</OriginalPrice>
-    <Price>205.55</Price>
+    <Price>214.54</Price>
     <Code>495341114011</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305676123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71328,8 +71097,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 75/90/115(&lt;2009)/130 / 4T 13.5 x 15 - 13.5 x 15</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>210.00</OriginalPrice>
-    <Price>187.80</Price>
+    <Price>211.79</Price>
     <Code>495341113515</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305708891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71344,14 +71112,13 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 75/90/115(&lt;2009)/130 / 4T 13.25 x 17 - 13.25 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>187.80</OriginalPrice>
-    <Price>157.90</Price>
+    <Price>211.79</Price>
     <Code>495341113317</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305741659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <EanCode>3411-133-17</EanCode>
     <Weight>2.60</Weight>
     <Condition>nuovo</Condition>
@@ -71361,8 +71128,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 75/90/115(&lt;2009)/130 / 4T 13.25 x 17 (L) - 13.25 x 17 (L)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>210.00</OriginalPrice>
-    <Price>205.55</Price>
+    <Price>214.54</Price>
     <Code>495341213317</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305774427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71377,8 +71143,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 75/90/115(&lt;2009)/130 / 4T 13 x 21 - 13 x 21</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>210.00</OriginalPrice>
-    <Price>187.80</Price>
+    <Price>211.79</Price>
     <Code>495341113021</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305839963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71393,8 +71158,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 115(&gt;2011)/135/150/175/200/225/250 / 4T 14.80 x 17 - 14.80 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>255.50</OriginalPrice>
-    <Price>245.52</Price>
+    <Price>256.26</Price>
     <Code>495351114817</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305971035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71409,8 +71173,7 @@
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 115(&gt;2011)/135/150/175/200/225/250 / 4T 14.30 x 21 - 14.30 x 21</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>207.90</OriginalPrice>
-    <Price>180.90</Price>
+    <Price>256.26</Price>
     <Code>495351114321</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389306102107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71420,6 +71183,38 @@
     <Weight>3.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 6/7.5/8 / 4T 8.50 x 9 - 8.50 x 9</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
+    <Price>79.95</Price>
+    <Code>495201108509</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296238939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375028007</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 9.9/15 / 4T 9.25 x 8 - 9.25 x 8</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
+    <Price>97.18</Price>
+    <Code>495211109308</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296402779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375006142</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 9.9-15 (&gt;2002)(&lt;2007) / 4T 9.25 x 8 - 9.25 x 8</Name>
@@ -71455,11 +71250,27 @@
     <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
   </Offer>
   <Offer>
+    <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 20/25/30/35 / 4T 10.50 x 11 - 10.50 x 11</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
+    <Price>113.24</Price>
+    <Code>495221110511</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296992603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-johnson-evinrude-1.webp?v=1781620269</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375006272</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-johnson-evinrude</ParentID>
+  </Offer>
+  <Offer>
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 20/25/30/35 / 4T 10 x 14 - 10 x 14</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
     <OriginalPrice>114.50</OriginalPrice>
-    <Price>108.49</Price>
+    <Price>113.24</Price>
     <Code>495221110014</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389297090907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71474,7 +71285,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 70/100/120/140/40-50-60-75-90-115(E-Tec) / 4T 60-70(Old) - 13.50 x 15</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <Price>187.80</Price>
+    <Price>211.79</Price>
     <Code>495241113515</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389297746267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71490,7 +71301,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 70(New)/80/90/100/115/140 / 4T 13.875 x 19 - 13.875 x 19</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <Price>205.55</Price>
+    <Price>214.54</Price>
     <Code>495341113919</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389297910107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71522,8 +71333,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225/250 / 4T 15.30 x 19 - 15.30 x 19</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>254.31</OriginalPrice>
-    <Price>215.90</Price>
+    <Price>265.43</Price>
     <Code>495351115319</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298139483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71554,7 +71364,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225/250 / 4T 15.30 x 21 - 15.30 x 21</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <Price>254.31</Price>
+    <Price>265.43</Price>
     <Code>495351115321</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298205019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71584,8 +71394,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 130/150/175/200/225/250/275/300 / 4T 15 x 15 - 15 x 15</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>245.52</OriginalPrice>
-    <Price>207.90</Price>
+    <Price>256.26</Price>
     <Code>495251115015</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298303323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71601,7 +71410,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Mercury e Mercruiser - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Mercury / Mercruiser fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra prod</Description>
     <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
+    <Price>97.18</Price>
     <Code>495111109307</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-mercury-mercruiser?variant=53389293977947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71618,7 +71427,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Mercury e Mercruiser - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Mercury / Mercruiser fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra prod</Description>
     <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
+    <Price>97.18</Price>
     <Code>495111109310</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-mercury-mercruiser?variant=53389294076251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71635,7 +71444,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Mercury e Mercruiser - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Mercury / Mercruiser fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra prod</Description>
     <OriginalPrice>114.50</OriginalPrice>
-    <Price>108.49</Price>
+    <Price>113.24</Price>
     <Code>495121110511</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-mercury-mercruiser?variant=53389294141787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71651,14 +71460,13 @@
     <Name>Eliche Solas Alluminio per Motori Mercury / Mercruiser - 3 pale - Motore 40(Big Foot)/75/80/90/100/115/125 - 13.75 x 13</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Mercury e Mercruiser - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Mercury / Mercruiser fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra prod</Description>
-    <OriginalPrice>187.80</OriginalPrice>
-    <Price>157.90</Price>
+    <Price>211.79</Price>
     <Code>495341113813</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-mercury-mercruiser?variant=53389294960987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-mercury-mercruiser-1.webp?v=1781620265</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <EanCode>824375036859</EanCode>
     <Weight>2.90</Weight>
     <Condition>nuovo</Condition>
@@ -71669,7 +71477,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Selva - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Selva fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>82.10</OriginalPrice>
-    <Price>78.63</Price>
+    <Price>82.07</Price>
     <Code>495301108507</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-selva?variant=53389302333787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71684,7 +71492,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Selva - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Selva fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>114.50</OriginalPrice>
-    <Price>108.49</Price>
+    <Price>113.24</Price>
     <Code>495321109912</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-selva?variant=53389302694235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71699,7 +71507,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Selva - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Selva fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>114.50</OriginalPrice>
-    <Price>108.49</Price>
+    <Price>113.24</Price>
     <Code>495321109913</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-selva?variant=53389302727003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71793,7 +71601,7 @@
     <Name>Eliche Solas Alluminio per Motori Volvo Penta Duo Prop - A3 - A4 - B3 Anteriore - 15.5 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta Duo-Prop - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta Duo Prop fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma moto</Description>
-    <Price>274.51</Price>
+    <Price>286.52</Price>
     <Code>4936010</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta-duo-prop?variant=53389327499611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71805,10 +71613,25 @@
     <ParentID>eliche-solas-alluminio-per-motori-volvo-penta-duo-prop</ParentID>
   </Offer>
   <Offer>
+    <Name>Eliche Solas Alluminio per Motori Volvo Penta Duo Prop - A5 - A6 - B4 - B5 Anteriore - 15.3 x 19</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Volvo Penta Duo-Prop - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta Duo Prop fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma moto</Description>
+    <Price>286.52</Price>
+    <Code>4936011</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta-duo-prop?variant=53389327532379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-volvo-penta-duo-prop-1.webp?v=1781620334</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-volvo-penta-duo-prop</ParentID>
+  </Offer>
+  <Offer>
     <Name>Eliche Solas Alluminio per Motori Volvo Penta Duo Prop - A7 - B6 Anteriore - 15.3 x 21</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta Duo-Prop - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta Duo Prop fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma moto</Description>
-    <Price>274.51</Price>
+    <Price>286.52</Price>
     <Code>4936012</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta-duo-prop?variant=53389327565147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71823,7 +71646,7 @@
     <Name>Eliche Solas Alluminio per Motori Volvo Penta Duo Prop - A3 - B3 Posteriore - 13.8 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta Duo-Prop - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta Duo Prop fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma moto</Description>
-    <Price>310.52</Price>
+    <Price>324.11</Price>
     <Code>4936013</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta-duo-prop?variant=53389327597915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71838,9 +71661,24 @@
     <Name>Eliche Solas Alluminio per Motori Volvo Penta Duo Prop - A4 - A5 - B4 Posteriore - 13.8 x 19</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta Duo-Prop - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta Duo Prop fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma moto</Description>
-    <Price>310.52</Price>
+    <Price>324.11</Price>
     <Code>4936014</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta-duo-prop?variant=53389327630683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-volvo-penta-duo-prop-1.webp?v=1781620334</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.90</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-volvo-penta-duo-prop</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Volvo Penta Duo Prop - A6 - A7 - B5 - B6 Posteriore - 13.8 x 21</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Volvo Penta Duo-Prop - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta Duo Prop fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma moto</Description>
+    <Price>324.11</Price>
+    <Code>4936016</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta-duo-prop?variant=53389327663451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-volvo-penta-duo-prop-1.webp?v=1781620334</Image>
@@ -71854,7 +71692,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Yamaha - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Yamaha fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allu</Description>
     <OriginalPrice>82.10</OriginalPrice>
-    <Price>78.63</Price>
+    <Price>82.07</Price>
     <Code>495301107305</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-yamaha?variant=53389291553115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -72047,6 +71885,24 @@
     <Weight>1.60</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-2-tubi-ultraflex-r7-5-16-raccordati-a-unestremita</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Timoneria Idraulica Servoassistita Ultraflex MasterDrive - Cilindro UC130-SVS/1</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Per installazioni con doppio o triplo motore fuoribordo, il kit MasterDrive va completato con i cilindri UC130-SVS o UC130P-SVS e con la barra di accoppiamento adatta alla marca del motore (Suzuki/Honda o Mercury/Yamaha) e all&apos;interasse tra i motori. Il k</Description>
+    <OriginalPrice>1082.00</OriginalPrice>
+    <Price>972.50</Price>
+    <Code>4655511</Code>
+    <Link>https://www.onautica.com/products/kit-timoneria-idraulica-servoassistita-ultraflex-masterdrive?variant=53861161599323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655511_1_702c0358-c306-47c8-aac0-eeaab69343f0.webp?v=1787383801</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>13.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655132_1.webp?v=1787383790</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655132_5.webp?v=1787383792</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-timoneria-idraulica-servoassistita-ultraflex-masterdrive</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Timoneria Idraulica Servoassistita Ultraflex MasterDrive - Cilindro UC130-SVS/2</Name>
@@ -75125,6 +74981,23 @@
     <ParentID>altoparlanti-clarion-cms-651-classic</ParentID>
   </Offer>
   <Offer>
+    <Name>Altoparlanti Clarion CMSP-651 RGB Sport Premium - Ø 175 mm</Name>
+    <Brand>Clarion</Brand>
+    <Description>Gli altoparlanti Clarion CMSP-651 RGB Sport Premium sono una coppia di diffusori con illuminazione RGB integrata, pensati per l&apos;impianto audio di bordo. Riproducono un ampio range di frequenze con un&apos;impedenza di 4 Ohm, garantendo un suono pieno anche ad </Description>
+    <Price>208.80</Price>
+    <Code>5640816</Code>
+    <Link>https://www.onautica.com/products/altoparlanti-clarion-cmsp-651-rgb-sport-premium?variant=53865341845851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640816_1.webp?v=1787460048</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640816.webp?v=1787460057</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640816_3.webp?v=1787460051</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>altoparlanti-clarion-cmsp-651-rgb-sport-premium</ParentID>
+  </Offer>
+  <Offer>
     <Name>Altoparlanti da Barca Boss Marine MR50 - Bianche max 150 W</Name>
     <Brand>Boss Marine</Brand>
     <Description>Gli altoparlanti Boss Marine MR50 sono casse coassiali a 2 vie pensate per l&apos;installazione su qualsiasi tipo di imbarcazione. Il materiale ABS resiste alla corrosione della salsedine e mantiene il colore invariato nel tempo, senza alterazioni dovute agli </Description>
@@ -75480,6 +75353,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5602825-0.webp?v=1786128866</Image2>
     <Condition>nuovo</Condition>
     <ParentID>amplificatore-marino-fusion-signature-sg-da51600-5-canali</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Autoradio Marine Clarion CMM-10I USB/Bluetooth - CMM-10I</Name>
+    <Brand>Clarion</Brand>
+    <Description>Lo stereo marino Clarion CMM-10I è un&apos;autoradio compatta pensata per l&apos;installazione a bordo, con ingresso USB e connessione Bluetooth per l&apos;ascolto della musica da smartphone o altri dispositivi. Ha un funzionamento semplice, adatto a chi cerca un impian</Description>
+    <Price>216.80</Price>
+    <Code>5640801</Code>
+    <Link>https://www.onautica.com/products/autoradio-marine-clarion-cmm-10i-usb-bluetooth?variant=53893098668379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640801.webp?v=1787814984</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640801_5cb87beb-22cd-40a8-a31a-25d4af778553.webp?v=1787814986</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoradio-marine-clarion-cmm-10i-usb-bluetooth</ParentID>
   </Offer>
   <Offer>
     <Name>Autoradio Marine Fusion MS-RA70N Bluetooth USB - Stereo MS-RA70N</Name>
@@ -76646,6 +76535,41 @@
     <ParentID>piastra-fuoribordo-mini-jacker-mj-1-dp-35hp</ParentID>
   </Offer>
   <Offer>
+    <Name>Plancetta con Scaletta 3 Gradini in Acciaio Inox e Polimero - 355 x 450 mm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La plancetta con scaletta è pensata per l&apos;accesso e la risalita dall&apos;acqua a poppa. Il piano è in polimero resistente, mentre la scaletta di risalita a 3 gradini è realizzata in acciaio inox, completata da due passamano che offrono un appoggio sicuro dura</Description>
+    <OriginalPrice>205.50</OriginalPrice>
+    <Price>187.80</Price>
+    <Code>0510801</Code>
+    <Link>https://www.onautica.com/products/plancetta-con-scaletta-3-gradini-in-acciaio-inox-e-polimero?variant=53885195288923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510801_4.webp?v=1787735289</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>7.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510801_2.webp?v=1787735291</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510801.webp?v=1787735294</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>plancetta-con-scaletta-3-gradini-in-acciaio-inox-e-polimero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Plancetta di Poppa con Scaletta 3 Gradini in Acciaio Inox - 355 x 450 mm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La plancetta di poppa è realizzata in polimero resistente e integra una scaletta a 3 gradini in acciaio inox, completa di passamano dello stesso materiale. Si fissa a poppa e offre un punto d&apos;appoggio stabile per risalire a bordo dall&apos;acqua. È disponibile</Description>
+    <OriginalPrice>202.00</OriginalPrice>
+    <Price>187.80</Price>
+    <Code>0510800</Code>
+    <Link>https://www.onautica.com/products/plancetta-di-poppa-con-scaletta-3-gradini-in-acciaio-inox?variant=53885189947739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510800.webp?v=1787735279</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>7.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0510800_9beccab4-6a09-4a2f-a356-af05b1003f50.webp?v=1787735281</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>plancetta-di-poppa-con-scaletta-3-gradini-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
     <Name>Plancetta di Poppa in Acciaio Inox e Legno Marino, 6 Misure - 27 × 39 cm</Name>
     <Brand>FNI</Brand>
     <Description>Plancetta di poppa con telaio in tubo di acciaio inox Ø 25 mm e piano in doghe di legno marino. Si fissa allo specchio di poppa con attacchi a U, ed è disponibile in sei misure, dalla 27 × 39 cm delle barche piccole alla 200 × 55 cm. È il modo per dare un</Description>
@@ -76939,6 +76863,23 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511404.webp?v=1787735298</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>6.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511404_f476793d-d125-432c-b5ba-b0da8fef143c.webp?v=1787735300</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>plancetta-tkc-in-acciaio-inox-e-teak</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Plancetta TKC in Acciaio Inox e Teak - 390x450 mm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La plancetta TKC è pensata per l&apos;imbarco e lo sbarco dall&apos;acqua, con struttura in acciaio inox e superficie calpestabile in teak. Il teak offre una buona presa anche da bagnato, mentre l&apos;acciaio inox garantisce resistenza alla corrosione in ambiente marin</Description>
+    <OriginalPrice>197.00</OriginalPrice>
+    <Price>185.60</Price>
+    <Code>0511404</Code>
+    <Link>https://www.onautica.com/products/plancetta-tkc-in-acciaio-inox-e-teak?variant=53885201809755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511404.webp?v=1787735298</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>7.10</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511404_f476793d-d125-432c-b5ba-b0da8fef143c.webp?v=1787735300</Image2>
     <Condition>nuovo</Condition>
     <ParentID>plancetta-tkc-in-acciaio-inox-e-teak</ParentID>
@@ -78715,6 +78656,22 @@
     <ParentID>stereo-marino-boss-mgr250b-bluetooth</ParentID>
   </Offer>
   <Offer>
+    <Name>Stereo Marino Clarion CMM-10GR USB Bluetooth - CMM-10GR</Name>
+    <Brand>Clarion</Brand>
+    <Description>Lo stereo marino Clarion CMM-10GR riproduce musica da USB e da dispositivi Bluetooth, pensato per l&apos;installazione a bordo al posto di un&apos;autoradio tradizionale. Il foro di incasso è quello standard da 76 mm, comune a molte plance nautiche. È disponibile n</Description>
+    <Price>193.50</Price>
+    <Code>5640800</Code>
+    <Link>https://www.onautica.com/products/stereo-marino-clarion-cmm-10gr-usb-bluetooth?variant=53893098471771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640800.webp?v=1787814977</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>1.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640800_a3444a69-01b8-4edb-a5be-a71abad480e9.webp?v=1787814979</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>stereo-marino-clarion-cmm-10gr-usb-bluetooth</ParentID>
+  </Offer>
+  <Offer>
     <Name>Stereo Marino Clarion CMM-20 Bluetooth USB - Stereo CMM-20</Name>
     <Brand>Clarion</Brand>
     <Description>Lo stereo marino Clarion CMM-20 ha un display LCD di grandi dimensioni, da 3,5 pollici, e un&apos;interfaccia utente intuitiva con icone grandi e facili da leggere. È compatibile con la tecnologia Bluetooth, per riprodurre in streaming la musica dal proprio di</Description>
@@ -78765,6 +78722,21 @@
     <Weight>1.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>stereo-marino-fusion-ms-ra210-bluetooth-dsp-dab</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Stereo Marino Fusion MS-RA60 Bluetooth e DAB - Kit retrofit RA210/RA670</Name>
+    <Brand>Fusion</Brand>
+    <Description>Lo stereo Fusion MS-RA60 è progettato specificamente per l&apos;intrattenimento audio a bordo: integra un amplificatore in classe D e una connettività avanzata per gestire la musica in barca in modo semplice. Le due zone audio indipendenti permettono di person</Description>
+    <Price>54.80</Price>
+    <Code>5640691</Code>
+    <Link>https://www.onautica.com/products/stereo-marino-fusion-ms-ra60-bluetooth-e-dab?variant=53893940969819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5602801-0.webp?v=1786128960</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.60</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>stereo-marino-fusion-ms-ra60-bluetooth-e-dab</ParentID>
   </Offer>
   <Offer>
     <Name>Stereo Marino Fusion MS-RA60 Bluetooth e DAB - Stereo MS-RA60</Name>
@@ -82907,6 +82879,24 @@
     <Weight>2.20</Weight>
     <Condition>nuovo</Condition>
     <ParentID>coppia-aste-di-supporto-pole-per-capottine-tessilmare</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coppia Gruette On Base Ø 42 mm in Acciaio Inox 316 - Ø 42 mm</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La coppia di gruette on base in acciaio inox 316 serve per issare e calare il tender dalla barca. Sono dotate di base di fissaggio integrata, pensata per essere installata sullo scafo o sul pulpito, e permettono di sollevare il gommone in appoggio esterno</Description>
+    <OriginalPrice>590.00</OriginalPrice>
+    <Price>495.30</Price>
+    <Code>0600020</Code>
+    <Link>https://www.onautica.com/products/coppia-gruette-on-base-o-42-mm-in-acciaio-inox-316?variant=53903055815003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Tender e Gommoni;Tender</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0600020.webp?v=1787903503</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>10.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0600020_2.webp?v=1787903505</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0600020_3.webp?v=1787903508</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>coppia-gruette-on-base-o-42-mm-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
     <Name>Coppia Gruette On Deck in Acciaio Inox 316 - Ø 40 mm</Name>
@@ -88897,23 +88887,6 @@
     <ParentID>tubo-spirale-pvc-alimentare-rotolo-30-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Tubo Spirale PVC Alimentare – Rotolo 30 m - Ø interno 45 mm – rotolo 30 m</Name>
-    <Brand>Hoses Technology</Brand>
-    <Description>Tubo in PVC plastificato trasparente atossico con spirale di rinforzo in acciaio incorporata: molto flessibile, robusto e resistente all&apos;abrasione, per aspirazione e mandata di liquidi alimentari secondo le direttive CE. Temperatura d&apos;impiego da -10 a +60</Description>
-    <OriginalPrice>395.59</OriginalPrice>
-    <Price>272.90</Price>
-    <Code>2221545</Code>
-    <Link>https://www.onautica.com/products/tubo-spirale-pvc-alimentare-rotolo-30-m?variant=53699657072987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2221512-0.webp?v=1785550509</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8054806410183</EanCode>
-    <Weight>32.40</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-spirale-pvc-alimentare-rotolo-30-m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tubo Spirale PVC Alimentare – Rotolo 30 m - Ø interno 60 mm – rotolo 30 m</Name>
     <Brand>Hoses Technology</Brand>
     <Description>Tubo in PVC plastificato trasparente atossico con spirale di rinforzo in acciaio incorporata: molto flessibile, robusto e resistente all&apos;abrasione, per aspirazione e mandata di liquidi alimentari secondo le direttive CE. Temperatura d&apos;impiego da -10 a +60</Description>
@@ -91238,24 +91211,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326220_1.webp?v=1787812741</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>1.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326219_1.webp?v=1787812716</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326219_2.webp?v=1787812718</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pannello-controllo-toilet-tecma-serie-sft</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannello Controllo Toilet Tecma Serie SFT - Multiframe 2 pulsanti</Name>
-    <Brand>Tecma</Brand>
-    <Description>Questo pannello è un ricambio specifico per i WC elettrici Tecma della serie SFT: prima di ordinare verifica che il codice originale corrisponda a quello montato sul tuo toilet, perché i pannelli non sono intercambiabili tra modelli diversi di WC Tecma. I</Description>
-    <OriginalPrice>372.50</OriginalPrice>
-    <Price>298.30</Price>
-    <Code>1326221</Code>
-    <Link>https://www.onautica.com/products/pannello-controllo-toilet-tecma-serie-sft?variant=53892727669083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326221_1.webp?v=1787812747</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.80</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326219_1.webp?v=1787812716</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326219_2.webp?v=1787812718</Image3>
     <Condition>nuovo</Condition>
@@ -94347,8 +94302,7 @@
     <Name>Elica di Manovra Max Power CT 100 - 12 V (barche 12-18 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 100 porta la formula CT sulle barche da 12 a 18 metri: bow thruster a doppia elica con piede di spinta in materiale composito lubrificato a vita, che non richiede alcuna manutenzione. Cuscinetti a sfera a tenuta stagna, ingranaggi spirocon</Description>
-    <OriginalPrice>3182.62</OriginalPrice>
-    <Price>2911.90</Price>
+    <Price>3720.48</Price>
     <Code>0380100</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-100?variant=53699023438171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94366,8 +94320,7 @@
     <Name>Elica di Manovra Max Power CT 125 - 24 V (barche 14-20 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 125 estende la formula CT alle barche da 14 a 20 metri: bow thruster a doppia elica con piede di spinta in composito lubrificato a vita, cuscinetti a sfera stagni e ingranaggi spiroconici, senza alcuna manutenzione programmata. Le rondelle</Description>
-    <OriginalPrice>3319.36</OriginalPrice>
-    <Price>3035.90</Price>
+    <Price>3880.33</Price>
     <Code>0380125</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-125?variant=53699116204379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94385,8 +94338,7 @@
     <Name>Elica di Manovra Max Power CT 225 - 24 V (barche 15-24 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 225 è il vertice della gamma CT elettrica: bow thruster a doppia elica per barche da 15 a 24 metri, con piede di spinta in composito lubrificato a vita che non necessita di alcuna manutenzione. Cuscinetti a sfera a tenuta stagna, ingranagg</Description>
-    <OriginalPrice>4624.71</OriginalPrice>
-    <Price>4223.90</Price>
+    <Price>5406.28</Price>
     <Code>0380225</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-225?variant=53699118104923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94404,8 +94356,7 @@
     <Name>Elica di Manovra Max Power CT 35 - 12 V (barche 6-8 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 35 è l&apos;ingresso in gamma CT: bow thruster monoelica per barche da 6 a 8 metri, con il piede di spinta in composito lubrificato a vita che non richiede alcuna manutenzione. Cuscinetti a sfera a tenuta stagna, ingranaggi spiroconici, rondell</Description>
-    <OriginalPrice>1354.14</OriginalPrice>
-    <Price>1247.90</Price>
+    <Price>1582.98</Price>
     <Code>0380035</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-35?variant=53699119382875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94423,8 +94374,7 @@
     <Name>Elica di Manovra Max Power CT 45 - 12 V (barche 6-9 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 45 è l&apos;ingresso nel mondo della manovra di prua per le barche da 6 a 9 metri: bow thruster a doppia elica con piede di spinta in composito lubrificato a vita, senza alcuna manutenzione richiesta. Cuscinetti a sfera a tenuta stagna, ingrana</Description>
-    <OriginalPrice>1516.13</OriginalPrice>
-    <Price>1394.90</Price>
+    <Price>1772.33</Price>
     <Code>0380045</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-45?variant=53699023470939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94442,8 +94392,7 @@
     <Name>Elica di Manovra Max Power CT 80 - 12 V (barche 8-12 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 80 è la soluzione ideale per la maggior parte delle imbarcazioni da diporto a vela o a motore: bow thruster a doppia elica con piede di spinta in materiale composito lubrificato a vita, che non richiede alcuna manutenzione. I cuscinetti a </Description>
-    <OriginalPrice>1851.49</OriginalPrice>
-    <Price>1699.90</Price>
+    <Price>2164.39</Price>
     <Code>0380082</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-80?variant=53698965537115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94461,8 +94410,7 @@
     <Name>Elica di Manovra Max Power CT 80 - 24 V (barche 8-13 m)</Name>
     <Brand>Max Power</Brand>
     <Description>Il Max Power CT 80 è la soluzione ideale per la maggior parte delle imbarcazioni da diporto a vela o a motore: bow thruster a doppia elica con piede di spinta in materiale composito lubrificato a vita, che non richiede alcuna manutenzione. I cuscinetti a </Description>
-    <OriginalPrice>1851.49</OriginalPrice>
-    <Price>1699.90</Price>
+    <Price>2164.39</Price>
     <Code>0380084</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-80?variant=53698965569883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94480,8 +94428,8 @@
     <Name>Elica di Manovra Quick BTQ 185-55 - BTQ 185-55 kg – 12 V (3 kW)</Name>
     <Brand>Quick</Brand>
     <Description>Il Quick BTQ 185-55 è il bow thruster da 55 kg di spinta per barche da 8 a 11 metri, con tunnel da 185 mm: materiali di ultima generazione e nessun componente elettronico sul motore — tutte le protezioni sono gestite dal microprocessore nei pannelli di co</Description>
-    <OriginalPrice>2984.37</OriginalPrice>
-    <Price>1954.90</Price>
+    <OriginalPrice>2984.36</OriginalPrice>
+    <Price>2491.94</Price>
     <Code>0390055</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-quick-btq-185-55?variant=53699418685787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94498,8 +94446,8 @@
     <Name>Elica di Manovra Quick BTQ 185-65 Doppia Elica - BTQ 185-65 kg – 12 V (3,3 kW)</Name>
     <Brand>Quick</Brand>
     <Description>Il Quick BTQ 185-65 è il bow thruster a doppia elica da 65 kg di spinta per barche da 8 a 12 metri, con tunnel da 185 mm. Materiali di ultima generazione e un&apos;architettura pulita: nessun componente elettronico sul motore, tutte le protezioni gestite dal m</Description>
-    <OriginalPrice>3591.30</OriginalPrice>
-    <Price>2349.90</Price>
+    <OriginalPrice>3591.29</OriginalPrice>
+    <Price>2998.73</Price>
     <Code>0390105</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-quick-btq-185-65-doppia-elica?variant=53698962555227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94518,7 +94466,7 @@
     <Brand>Quick</Brand>
     <Description>Il Quick BTQ 185-75 è la taglia forte della famiglia BTQ 185: 75 kg di spinta per barche da 10 a 13 metri, con motore da 4 kW a 12 V e lo stesso tunnel da 185 mm delle sorelle minori. Nessun componente elettronico sul motore: le protezioni — inversione co</Description>
     <OriginalPrice>3371.41</OriginalPrice>
-    <Price>2206.90</Price>
+    <Price>2815.14</Price>
     <Code>0390075</Code>
     <Link>https://www.onautica.com/products/elica-di-manovra-quick-btq-185-75?variant=53699418915163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94535,8 +94483,8 @@
     <Name>Elica di Ricambio Quick per Eliche di Manovra BTQ - BTQ-250 – rotazione sinistra (4 pale)</Name>
     <Brand>Quick</Brand>
     <Description>Elica di ricambio originale Quick a 4 pale per le eliche di manovra serie BTQ, completa di pin e dado: il ricambio da tenere a bordo o da montare quando l&apos;elica del bow thruster si danneggia con detriti o cime. Per i gruppi BTQ-250 (Ø 250 mm) e BTQ-300 (Ø</Description>
-    <OriginalPrice>177.13</OriginalPrice>
-    <Price>152.90</Price>
+    <OriginalPrice>177.12</OriginalPrice>
+    <Price>147.90</Price>
     <Code>0390605</Code>
     <Link>https://www.onautica.com/products/elica-di-ricambio-quick-per-eliche-di-manovra-btq?variant=53698890498395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94553,8 +94501,8 @@
     <Name>Elica di Ricambio Quick per Eliche di Manovra BTQ - BTQ-250 – rotazione destra (4 pale)</Name>
     <Brand>Quick</Brand>
     <Description>Elica di ricambio originale Quick a 4 pale per le eliche di manovra serie BTQ, completa di pin e dado: il ricambio da tenere a bordo o da montare quando l&apos;elica del bow thruster si danneggia con detriti o cime. Per i gruppi BTQ-250 (Ø 250 mm) e BTQ-300 (Ø</Description>
-    <OriginalPrice>177.13</OriginalPrice>
-    <Price>152.90</Price>
+    <OriginalPrice>177.12</OriginalPrice>
+    <Price>147.90</Price>
     <Code>0390606</Code>
     <Link>https://www.onautica.com/products/elica-di-ricambio-quick-per-eliche-di-manovra-btq?variant=53698890531163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94571,8 +94519,8 @@
     <Name>Elica di Ricambio Quick per Eliche di Manovra BTQ - BTQ-300 – rotazione sinistra (4 pale)</Name>
     <Brand>Quick</Brand>
     <Description>Elica di ricambio originale Quick a 4 pale per le eliche di manovra serie BTQ, completa di pin e dado: il ricambio da tenere a bordo o da montare quando l&apos;elica del bow thruster si danneggia con detriti o cime. Per i gruppi BTQ-250 (Ø 250 mm) e BTQ-300 (Ø</Description>
-    <OriginalPrice>200.20</OriginalPrice>
-    <Price>166.90</Price>
+    <OriginalPrice>200.19</OriginalPrice>
+    <Price>167.17</Price>
     <Code>0390607</Code>
     <Link>https://www.onautica.com/products/elica-di-ricambio-quick-per-eliche-di-manovra-btq?variant=53698890563931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -94589,8 +94537,8 @@
     <Name>Elica di Ricambio Quick per Eliche di Manovra BTQ - BTQ-300 – rotazione destra (4 pale)</Name>
     <Brand>Quick</Brand>
     <Description>Elica di ricambio originale Quick a 4 pale per le eliche di manovra serie BTQ, completa di pin e dado: il ricambio da tenere a bordo o da montare quando l&apos;elica del bow thruster si danneggia con detriti o cime. Per i gruppi BTQ-250 (Ø 250 mm) e BTQ-300 (Ø</Description>
-    <OriginalPrice>200.20</OriginalPrice>
-    <Price>166.90</Price>
+    <OriginalPrice>200.19</OriginalPrice>
+    <Price>167.17</Price>
     <Code>0390608</Code>
     <Link>https://www.onautica.com/products/elica-di-ricambio-quick-per-eliche-di-manovra-btq?variant=53698890596699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -99562,7 +99510,7 @@
     <ParentID>zattera-di-salvataggio-eurovinil-compactdry-plus</ParentID>
   </Offer>
   <Offer>
-    <Name>Zattera di Salvataggio Eurovinil OceanDry 9650 Italia - 10 persone — Container ABS</Name>
+    <Name>Zattera di Salvataggio Eurovinil OceanDry 9650 Italia - 10 persone ��� Container ABS</Name>
     <Brand>Eurovinil</Brand>
     <Description>La zattera OceanDry 9650 Italia è un&apos;autogonfiabile certificata ISO9650 Oceanic-Italia, pensata per la navigazione da diporto oltre le 12 miglia dalla costa. È riservata alle imbarcazioni battenti bandiera italiana ed è realizzata interamente in Italia, c</Description>
     <OriginalPrice>2686.00</OriginalPrice>
