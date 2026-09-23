@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-23T10:31:23.391Z -->
-<!-- Offerte: 5817 -->
+<!-- Generato: 2026-09-23T14:32:06.456Z -->
+<!-- Offerte: 5819 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -54930,59 +54930,6 @@
     <ParentID>pompa-elettronica-estrazione-olio-marco-up8-re</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Estrazione Olio Marco UP3/UP9 - UP3 12V</Name>
-    <Brand>Marco</Brand>
-    <Description>Le pompe UP3 e UP9 non includono i tubi di aspirazione e mandata: per l&apos;installazione serve il kit tubi Ø 6/8 mm dedicato, disponibile tra le versioni di questo prodotto. La pompa di estrazione olio Marco UP3/UP9 serve per aspirare l&apos;olio motore dal basam</Description>
-    <Price>187.10</Price>
-    <Code>1826214</Code>
-    <Link>https://www.onautica.com/products/pompa-estrazione-olio-marco-up3-up9?variant=53877343813979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214.webp?v=1787640898</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_1.webp?v=1787640901</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_2.webp?v=1787640903</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-estrazione-olio-marco-up3-up9</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Estrazione Olio Marco UP3/UP9 - UP9 12V</Name>
-    <Brand>Marco</Brand>
-    <Description>Le pompe UP3 e UP9 non includono i tubi di aspirazione e mandata: per l&apos;installazione serve il kit tubi Ø 6/8 mm dedicato, disponibile tra le versioni di questo prodotto. La pompa di estrazione olio Marco UP3/UP9 serve per aspirare l&apos;olio motore dal basam</Description>
-    <OriginalPrice>254.00</OriginalPrice>
-    <Price>230.70</Price>
-    <Code>1826228</Code>
-    <Link>https://www.onautica.com/products/pompa-estrazione-olio-marco-up3-up9?variant=53877343846747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826228.webp?v=1787640907</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_1.webp?v=1787640901</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214.webp?v=1787640898</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-estrazione-olio-marco-up3-up9</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Estrazione Olio Marco UP3/UP9 - UP9 24V</Name>
-    <Brand>Marco</Brand>
-    <Description>Le pompe UP3 e UP9 non includono i tubi di aspirazione e mandata: per l&apos;installazione serve il kit tubi Ø 6/8 mm dedicato, disponibile tra le versioni di questo prodotto. La pompa di estrazione olio Marco UP3/UP9 serve per aspirare l&apos;olio motore dal basam</Description>
-    <OriginalPrice>254.00</OriginalPrice>
-    <Price>230.70</Price>
-    <Code>1826229</Code>
-    <Link>https://www.onautica.com/products/pompa-estrazione-olio-marco-up3-up9?variant=53877343879515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826229.webp?v=1787640910</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_1.webp?v=1787640901</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214.webp?v=1787640898</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-estrazione-olio-marco-up3-up9</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Travaso Gasolio Marco UP3 - UP6 - UP3 12V - 15 l/min</Name>
     <Brand>Marco</Brand>
     <Description>La pompa Marco per travaso gasolio è una pompa elettrica pensata per spostare il gasolio tra taniche e serbatoi a bordo, tramite le bocche di aspirazione e mandata filettate. Si collega all&apos;impianto elettrico dell&apos;imbarcazione e permette di trasferire il </Description>
@@ -59559,6 +59506,59 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1205513_2.webp?v=1786696496</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pannello-touch-contacatena-up-down-mz</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Estrazione Olio Marco UP3/UP9 - UP3 12V</Name>
+    <Brand>Marco</Brand>
+    <Description>Le pompe UP3 e UP9 non includono i tubi di aspirazione e mandata: per l&apos;installazione serve il kit tubi Ø 6/8 mm dedicato, disponibile tra le versioni di questo prodotto. La pompa di estrazione olio Marco UP3/UP9 serve per aspirare l&apos;olio motore dal basam</Description>
+    <Price>187.10</Price>
+    <Code>1826214</Code>
+    <Link>https://www.onautica.com/products/pompa-estrazione-olio-marco-up3-up9?variant=53877343813979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214.webp?v=1787640898</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>1.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_1.webp?v=1787640901</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_2.webp?v=1787640903</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-estrazione-olio-marco-up3-up9</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Estrazione Olio Marco UP3/UP9 - UP9 12V</Name>
+    <Brand>Marco</Brand>
+    <Description>Le pompe UP3 e UP9 non includono i tubi di aspirazione e mandata: per l&apos;installazione serve il kit tubi Ø 6/8 mm dedicato, disponibile tra le versioni di questo prodotto. La pompa di estrazione olio Marco UP3/UP9 serve per aspirare l&apos;olio motore dal basam</Description>
+    <OriginalPrice>254.00</OriginalPrice>
+    <Price>230.70</Price>
+    <Code>1826228</Code>
+    <Link>https://www.onautica.com/products/pompa-estrazione-olio-marco-up3-up9?variant=53877343846747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826228.webp?v=1787640907</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_1.webp?v=1787640901</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214.webp?v=1787640898</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-estrazione-olio-marco-up3-up9</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Estrazione Olio Marco UP3/UP9 - UP9 24V</Name>
+    <Brand>Marco</Brand>
+    <Description>Le pompe UP3 e UP9 non includono i tubi di aspirazione e mandata: per l&apos;installazione serve il kit tubi Ø 6/8 mm dedicato, disponibile tra le versioni di questo prodotto. La pompa di estrazione olio Marco UP3/UP9 serve per aspirare l&apos;olio motore dal basam</Description>
+    <OriginalPrice>254.00</OriginalPrice>
+    <Price>230.70</Price>
+    <Code>1826229</Code>
+    <Link>https://www.onautica.com/products/pompa-estrazione-olio-marco-up3-up9?variant=53877343879515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826229.webp?v=1787640910</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214_1.webp?v=1787640901</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1826214.webp?v=1787640898</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-estrazione-olio-marco-up3-up9</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Travaso Olio Johnson F3B-19 - 12V</Name>
@@ -67377,8 +67377,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 25-60HP - 11 5/8 x 12</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>216.00</OriginalPrice>
-    <Price>189.30</Price>
+    <Price>219.59</Price>
     <Code>4983512</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-25-60hp?variant=53851487797595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67394,8 +67393,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 25-60HP - 11 1/2 x 13</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>216.00</OriginalPrice>
-    <Price>189.30</Price>
+    <Price>219.59</Price>
     <Code>4983513</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-25-60hp?variant=53851487830363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67411,8 +67409,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 25-60HP - 11 3/8 x 14</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>216.00</OriginalPrice>
-    <Price>189.30</Price>
+    <Price>219.59</Price>
     <Code>4983514</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-25-60hp?variant=53851487863131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67428,8 +67425,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/2 x 13 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983371</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494744411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67445,8 +67441,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/2 x 14 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983372</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494777179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67462,8 +67457,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/2 x 15 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983373</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494809947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67479,8 +67473,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/2 x 15 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983374</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494842715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67496,8 +67489,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/4 x 17 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983378</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494908251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67513,8 +67505,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/4 x 17 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983379</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494941019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67530,8 +67521,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 1/4 x 18 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983380</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851494973787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67547,8 +67537,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 x 19 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983361</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495006555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67564,8 +67553,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 x 19 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983362</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495039323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67581,8 +67569,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 x 21 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983363</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495072091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67598,8 +67585,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 14 x 21 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983364</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495104859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67615,8 +67601,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 x 15 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>418.50</OriginalPrice>
-    <Price>334.20</Price>
+    <Price>425.88</Price>
     <Code>4983434</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495137627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67632,8 +67617,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 1/2 x 17 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983210</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495203163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67649,8 +67633,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 1/2 x 17 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983211</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495235931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67666,8 +67649,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 3/8 x 18 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983213</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495301467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67683,8 +67665,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 1/4 x 19 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983214</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495334235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67700,8 +67681,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 1/4 x 19 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983215</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495367003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67717,8 +67697,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 1/8 x 20 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983216</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495399771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67734,8 +67713,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 1/8 x 20 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983217</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495432539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67751,8 +67729,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 x 21 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983218</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495465307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67768,8 +67745,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 x 21 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983219</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495498075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67785,8 +67761,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 16 x 17 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983259</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495661915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67802,8 +67777,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 16 x 18 1/2 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983261</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495727451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67819,8 +67793,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 16 x 20 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983263</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495792987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67836,8 +67809,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 16 x 21 1/2 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983267</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495858523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67853,8 +67825,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 16 x 23 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983269</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495924059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67870,8 +67841,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 16 x 23 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>485.50</OriginalPrice>
-    <Price>386.50</Price>
+    <Price>494.17</Price>
     <Code>4983270</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851495956827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67888,7 +67858,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>420.80</Price>
+    <Price>539.10</Price>
     <Code>4984459</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496120667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67905,7 +67875,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>420.80</Price>
+    <Price>539.10</Price>
     <Code>4984460</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496153435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67922,7 +67892,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>420.80</Price>
+    <Price>539.10</Price>
     <Code>4984463</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496251739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67939,7 +67909,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>420.80</Price>
+    <Price>539.10</Price>
     <Code>4984464</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496284507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67955,8 +67925,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 3/4 x 15 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>540.00</OriginalPrice>
-    <Price>428.90</Price>
+    <Price>549.65</Price>
     <Code>4983383</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496448347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67972,8 +67941,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 3/4 x 15 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>540.00</OriginalPrice>
-    <Price>428.90</Price>
+    <Price>549.65</Price>
     <Code>4983384</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496481115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -67989,8 +67957,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 5/8 x 16 - RH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>540.00</OriginalPrice>
-    <Price>428.90</Price>
+    <Price>549.65</Price>
     <Code>4983385</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496513883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68006,8 +67973,7 @@
     <Name>Elica Alice in Acciaio Inox per Fuoribordo 90-300HP - 15 5/8 x 16 - LH - 3 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <OriginalPrice>540.00</OriginalPrice>
-    <Price>428.90</Price>
+    <Price>549.65</Price>
     <Code>4983386</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496546651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68024,7 +67990,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>456.80</Price>
+    <Price>586.32</Price>
     <Code>4984288</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496579419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68041,7 +68007,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>456.80</Price>
+    <Price>586.32</Price>
     <Code>4984289</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496612187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68058,7 +68024,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>456.80</Price>
+    <Price>586.32</Price>
     <Code>4984291</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496677723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68075,7 +68041,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>456.80</Price>
+    <Price>586.32</Price>
     <Code>4984292</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496710491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68092,7 +68058,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>588.00</OriginalPrice>
-    <Price>456.80</Price>
+    <Price>586.32</Price>
     <Code>4984293</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-fuoribordo-90-300hp?variant=53851496743259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68108,8 +68074,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 3/4 x 13 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983135</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474297179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68125,8 +68090,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 1/2 x 14 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983136</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474329947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68142,8 +68106,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 1/2 x 15 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983137</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474362715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68159,8 +68122,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 1/2 x 15 - 3 pale - LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983138</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474395483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68176,8 +68138,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 1/4 x 17 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983139</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474428251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68193,8 +68154,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 1/4 x 17 - 3 pale - LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983140</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474461019&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68210,8 +68170,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 x 19 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983141</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474493787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68227,8 +68186,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø13 x 21 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>386.50</OriginalPrice>
-    <Price>309.20</Price>
+    <Price>393.32</Price>
     <Code>4983143</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474559323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68244,8 +68202,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø14 x 15 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>407.00</OriginalPrice>
-    <Price>325.40</Price>
+    <Price>414.41</Price>
     <Code>4983152</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474592091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68261,8 +68218,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø14 x 17 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>407.00</OriginalPrice>
-    <Price>325.40</Price>
+    <Price>414.41</Price>
     <Code>4983153</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474624859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68278,8 +68234,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø14 x 19 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>407.00</OriginalPrice>
-    <Price>325.40</Price>
+    <Price>414.41</Price>
     <Code>4983155</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474690395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68295,8 +68250,7 @@
     <Name>Elica Alice in Acciaio Inox per Motori Fuoribordo - Ø14 x 21 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
-    <OriginalPrice>407.00</OriginalPrice>
-    <Price>325.40</Price>
+    <Price>414.41</Price>
     <Code>4983157</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474821467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68313,7 +68267,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984101</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474952539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68330,7 +68284,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984102</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851474985307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68347,7 +68301,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984103</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851475018075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68364,7 +68318,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984104</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851475050843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68381,7 +68335,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984105</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851475083611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68398,7 +68352,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984106</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851475116379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68415,7 +68369,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984107</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851475149147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68432,7 +68386,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>493.00</OriginalPrice>
-    <Price>354.20</Price>
+    <Price>452.00</Price>
     <Code>4984108</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-motori-fuoribordo?variant=53851475181915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68449,7 +68403,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in acciaio inox è pensata per le trasmissioni Volvo Penta SX con asse a 19 denti. Il materiale inox garantisce resistenza alla corrosione e robustezza nell&apos;uso prolungato in acqua salata e dolce. È disponibile in versione a 3 pale (diametro </Description>
     <OriginalPrice>516.50</OriginalPrice>
-    <Price>370.70</Price>
+    <Price>473.55</Price>
     <Code>4983604</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-volvo-penta-sx?variant=53851414036827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68466,7 +68420,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in acciaio inox è pensata per le trasmissioni Volvo Penta SX con asse a 19 denti. Il materiale inox garantisce resistenza alla corrosione e robustezza nell&apos;uso prolungato in acqua salata e dolce. È disponibile in versione a 3 pale (diametro </Description>
     <OriginalPrice>516.50</OriginalPrice>
-    <Price>370.70</Price>
+    <Price>473.55</Price>
     <Code>4983608</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-volvo-penta-sx?variant=53851414102363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68483,7 +68437,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in acciaio inox è pensata per le trasmissioni Volvo Penta SX con asse a 19 denti. Il materiale inox garantisce resistenza alla corrosione e robustezza nell&apos;uso prolungato in acqua salata e dolce. È disponibile in versione a 3 pale (diametro </Description>
     <OriginalPrice>516.50</OriginalPrice>
-    <Price>370.70</Price>
+    <Price>473.55</Price>
     <Code>4983612</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-volvo-penta-sx?variant=53851414167899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68500,7 +68454,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in acciaio inox è pensata per le trasmissioni Volvo Penta SX con asse a 19 denti. Il materiale inox garantisce resistenza alla corrosione e robustezza nell&apos;uso prolungato in acqua salata e dolce. È disponibile in versione a 3 pale (diametro </Description>
     <OriginalPrice>516.50</OriginalPrice>
-    <Price>370.70</Price>
+    <Price>473.55</Price>
     <Code>4983613</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-acciaio-inox-per-volvo-penta-sx?variant=53851414200667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68517,7 +68471,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973455</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409482075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68534,7 +68488,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973456</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409514843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68551,7 +68505,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973457</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409547611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68568,7 +68522,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973458</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409580379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68585,7 +68539,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973459</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409613147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68602,7 +68556,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973460</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409645915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68619,7 +68573,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973461</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409678683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68636,7 +68590,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973462</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409711451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68653,7 +68607,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>154.00</OriginalPrice>
-    <Price>144.90</Price>
+    <Price>151.38</Price>
     <Code>4974465</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409744219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68670,7 +68624,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>154.00</OriginalPrice>
-    <Price>144.90</Price>
+    <Price>151.38</Price>
     <Code>4974466</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409776987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68687,7 +68641,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>154.00</OriginalPrice>
-    <Price>144.90</Price>
+    <Price>151.38</Price>
     <Code>4974467</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-40-125-hp?variant=53851409809755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68704,7 +68658,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973471</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-90-300hp?variant=53851410432347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68721,7 +68675,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973472</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-90-300hp?variant=53851410465115&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68738,7 +68692,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973475</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-90-300hp?variant=53851410497883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68755,7 +68709,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973477</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-mercury-90-300hp?variant=53851410530651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68771,7 +68725,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 15 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973680</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851470496091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68787,7 +68741,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 14 1/4 x 19 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973682</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851600290139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68804,7 +68758,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 14 1/4 x 21 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973683</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851600683355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68821,7 +68775,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 14 x 23 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973684</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851600781659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68838,7 +68792,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 x 17 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973681</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851601109339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68855,7 +68809,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 19 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973689</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602125147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68872,7 +68826,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 19 - 3 pale LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973690</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602485595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68889,7 +68843,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 20 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973691</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602583899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68906,7 +68860,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 20 - 3 pale LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973692</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602649435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68923,7 +68877,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 21 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973693</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602714971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68940,7 +68894,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 21 - 3 pale LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973694</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602747739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68957,7 +68911,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 23 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973695</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602846043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68974,7 +68928,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 1/4 x 23 - 3 pale LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973696</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851602944347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -68991,7 +68945,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 16 x 11 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973555</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851603009883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69008,7 +68962,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 16 x 13 - 3 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973556</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851603075419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69025,7 +68979,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 14 1/2 x 17 - 4 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4974357</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851603140955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69042,7 +68996,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 14 x 21 - 4 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4974359</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851603304795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69059,7 +69013,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 x 13 - 4 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4974355</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851603698011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69076,7 +69030,7 @@
     <Name>Elica Alice in Alluminio per Motori Honda 115-250 HP - 15 x 15 - 4 pale RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4974356</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-250-hp?variant=53851603796315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69094,7 +69048,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973557</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-260-hp?variant=53851411906907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69111,7 +69065,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973559</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-260-hp?variant=53851411939675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69128,7 +69082,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>170.00</OriginalPrice>
-    <Price>155.40</Price>
+    <Price>166.05</Price>
     <Code>4973560</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-115-260-hp?variant=53851411972443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69145,7 +69099,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973534</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851410891099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69162,7 +69116,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973535</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851410923867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69179,7 +69133,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973536</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851410956635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69196,7 +69150,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973538</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851411022171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69213,7 +69167,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973539</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851411054939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69230,7 +69184,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973540</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851411087707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69247,7 +69201,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Hond</Description>
     <OriginalPrice>146.00</OriginalPrice>
-    <Price>139.60</Price>
+    <Price>144.04</Price>
     <Code>4973541</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-honda-60-130-hp?variant=53851411120475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69263,7 +69217,7 @@
     <Name>Elica Alice in Alluminio per Motori Mercury 90-300 HP - 14 1/2 x 13 RH 4 pale</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Merc</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4974480</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-mercury-90-300-hp?variant=53851471348059&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69280,7 +69234,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973205</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325530459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69296,7 +69250,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973206</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325563227&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69312,7 +69266,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973204</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325595995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69328,7 +69282,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973216</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325628763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69344,7 +69298,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973217</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325661531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69360,7 +69314,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973219</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325694299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69376,7 +69330,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973220</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325727067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69392,7 +69346,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973221</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325759835&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69408,7 +69362,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973222</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325792603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69424,7 +69378,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973223</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp?variant=53851325825371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69439,7 +69393,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 17 LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973227</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457454427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69455,7 +69409,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 18 1/2 RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973228</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457487195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69471,7 +69425,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 18 1/2 LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973229</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457519963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69487,7 +69441,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 20 LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973231</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457585499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69503,7 +69457,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 21 1/2 RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973232</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457618267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69519,7 +69473,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 21 1/2 LH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973233</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457651035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69535,7 +69489,7 @@
     <Name>Elica Alice in Alluminio per Motori Suzuki 150-300 HP - 16 x 23 RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è progettata per fuoribordo Suzuki nella fascia di potenza 150-300 HP. Il mozzo è predisposto per asse a 15 denti e la pala è a 3 pale, pensata per un uso versatile in navigazione da diporto e pesca. È disponibile in numerose co</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973234</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-150-300-hp-1?variant=53851457683803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69552,7 +69506,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973167</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323203931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69569,7 +69523,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973168</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323236699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69586,7 +69540,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973169</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323269467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69603,7 +69557,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973180</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323302235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69620,7 +69574,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973181</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323335003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69637,7 +69591,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973182</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323367771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69654,7 +69608,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973179</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323433307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69671,7 +69625,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973184</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323466075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69688,7 +69642,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973185</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323498843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69705,7 +69659,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973186</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323531611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69722,7 +69676,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973187</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323564379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69739,7 +69693,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>149.50</OriginalPrice>
-    <Price>141.90</Price>
+    <Price>147.26</Price>
     <Code>4974189</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323597147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69756,7 +69710,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>149.50</OriginalPrice>
-    <Price>141.90</Price>
+    <Price>147.26</Price>
     <Code>4974190</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-40-140-hp?variant=53851323629915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69773,7 +69727,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973149</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851318845787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69790,7 +69744,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973150</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851318878555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69807,7 +69761,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973151</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851318911323&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69824,7 +69778,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973152</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851318944091&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69841,7 +69795,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973153</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851318976859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69858,7 +69812,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973154</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851319009627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69875,7 +69829,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Suzu</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973155</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-suzuki-60-140hp?variant=53851319042395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69892,7 +69846,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973655</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412136283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69909,7 +69863,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973656</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412169051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69926,7 +69880,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973657</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412201819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69943,7 +69897,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973658</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412234587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69960,7 +69914,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973659</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412267355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69977,7 +69931,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973660</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412300123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -69994,7 +69948,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Toha</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973661</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-tohatsu-60-140hp?variant=53851412332891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70010,7 +69964,7 @@
     <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 13 3/4 x 21 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973382</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300-hp?variant=53851463811419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70026,7 +69980,7 @@
     <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 14 1/2 x 15 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973383</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300-hp?variant=53851463844187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70042,7 +69996,7 @@
     <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 14 1/2 x 17 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973380</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300-hp?variant=53851463876955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70058,7 +70012,7 @@
     <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 14 x 19 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973381</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300-hp?variant=53851463909723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70074,7 +70028,7 @@
     <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 15 1/4 x 15 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
-    <Price>124.40</Price>
+    <Price>123.87</Price>
     <Code>4973379</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300-hp?variant=53851463975259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70091,7 +70045,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973376</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300hp?variant=53851407057243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70108,7 +70062,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>176.50</OriginalPrice>
-    <Price>159.60</Price>
+    <Price>172.02</Price>
     <Code>4973377</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300hp?variant=53851407090011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70125,7 +70079,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973354</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-60-130-hp?variant=53851405975899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70142,7 +70096,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973357</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-60-130-hp?variant=53851406106971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70159,7 +70113,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973358</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-60-130-hp?variant=53851406139739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70176,7 +70130,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973359</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-60-130-hp?variant=53851406172507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70193,7 +70147,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
     <OriginalPrice>139.00</OriginalPrice>
-    <Price>134.80</Price>
+    <Price>137.63</Price>
     <Code>4973360</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-60-130-hp?variant=53851406205275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70210,13 +70164,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973705</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413184859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973706_1.webp?v=1787299370</Image3>
     <Condition>nuovo</Condition>
@@ -70227,13 +70181,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973706</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413217627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973706_1.webp?v=1787299370</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70244,13 +70198,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973709</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413250395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973709_1.webp?v=1787299372</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70261,13 +70215,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973710</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413283163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973710_1.webp?v=1787299375</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70278,13 +70232,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973711</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413315931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973711_1.webp?v=1787299377</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70295,13 +70249,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973712</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413348699&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973712_1.webp?v=1787299379</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70312,13 +70266,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973713</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413381467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973713_1.webp?v=1787299382</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70329,13 +70283,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973714</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413414235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973714_1.webp?v=1787299384</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70346,13 +70300,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973717</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413447003&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973717_1.webp?v=1787299386</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70363,13 +70317,13 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per trasmissioni Volvo Penta SX con asse a 19 denti. Ha 3 pale e viene proposta in diverse combinazioni di diametro, passo e senso di rotazione, per adattarsi alle diverse esigenze di propulsione dell&apos;imbarcazione. Son</Description>
     <OriginalPrice>199.50</OriginalPrice>
-    <Price>174.10</Price>
+    <Price>193.10</Price>
     <Code>4973718</Code>
     <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-volvo-penta-sx?variant=53851413479771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Sistemi di Guida</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973718_1.webp?v=1787299389</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705.webp?v=1787299368</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973705_1.webp?v=1787299366</Image3>
     <Condition>nuovo</Condition>
@@ -70380,7 +70334,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Brav</Description>
     <OriginalPrice>793.00</OriginalPrice>
-    <Price>566.00</Price>
+    <Price>727.05</Price>
     <Code>4983703</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-mercruiser-bravo-iii-e-yanmar-in-acciaio-inox?variant=53851416559963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70397,7 +70351,7 @@
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Brav</Description>
     <OriginalPrice>793.00</OriginalPrice>
-    <Price>566.00</Price>
+    <Price>727.05</Price>
     <Code>4984612</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-mercruiser-bravo-iii-e-yanmar-in-acciaio-inox?variant=53851416723803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70430,7 +70384,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983804</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851417870683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70447,7 +70401,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983805</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851417903451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70464,7 +70418,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983806</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851417936219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70481,7 +70435,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983807</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851417968987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70498,7 +70452,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4984804</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418034523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70515,7 +70469,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4984805</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418067291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70532,7 +70486,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4984807</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418132827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70549,7 +70503,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983813</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418165595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70566,7 +70520,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983814</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418198363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70583,7 +70537,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983816</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418263899&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70600,7 +70554,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983823</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418296667&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70617,7 +70571,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983824</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418329435&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70634,7 +70588,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983825</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418362203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70651,7 +70605,7 @@
     <Brand>Elica Alice</Brand>
     <Description>L&apos;elica Alice in alluminio è pensata per i sistemi di propulsione Volvo Penta Duo Prop, che utilizzano una coppia di eliche controrotanti montate sullo stesso asse. Ogni coppia è composta da un&apos;elica anteriore (Front) e una posteriore (Rear), abbinate tra</Description>
     <OriginalPrice>348.50</OriginalPrice>
-    <Price>233.10</Price>
+    <Price>291.10</Price>
     <Code>4983826</Code>
     <Link>https://www.onautica.com/products/elica-alice-per-volvo-penta-duo-prop-in-alluminio?variant=53851418394971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -70916,11 +70870,43 @@
     <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
   </Offer>
   <Offer>
+    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 9 - 9.90 x 9</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
+    <Price>110.49</Price>
+    <Code>495521109909</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305086299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626229953</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 10 - 9.90 x 10</Name>
+    <Brand>Solas</Brand>
+    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
+    <Price>110.49</Price>
+    <Code>495521109910</Code>
+    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305119067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>824375008498</EanCode>
+    <Weight>1.50</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
+  </Offer>
+  <Offer>
     <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 25/30 / 4T 9.90 x 12 - 9.90 x 12</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
     <OriginalPrice>114.50</OriginalPrice>
-    <Price>105.86</Price>
+    <Price>110.49</Price>
     <Code>495521109912</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305184603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71221,7 +71207,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
     <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
+    <Price>97.18</Price>
     <Code>495411109308</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296566619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71238,7 +71224,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
     <OriginalPrice>97.70</OriginalPrice>
-    <Price>93.11</Price>
+    <Price>97.18</Price>
     <Code>495511109311</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389296795995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71316,8 +71302,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225/250 / 4T 15.50 x 17 - 15.50 x 17</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <OriginalPrice>215.90</OriginalPrice>
-    <Price>187.90</Price>
+    <Price>265.43</Price>
     <Code>495351115517</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298073947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -71349,7 +71334,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225/250 / 4T 15.30 x 19 (L) - 15.30 x 19 (L)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <Price>254.31</Price>
+    <Price>265.43</Price>
     <Code>495351215319</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298172251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71379,7 +71364,7 @@
     <Name>Eliche Solas Alluminio per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225/250 / 4T 15.30 x 21 (L) - 15.30 x 21 (L)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Johnson/Evinrude - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. </Description>
-    <Price>254.31</Price>
+    <Price>265.43</Price>
     <Code>495351215321</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-johnson-evinrude?variant=53389298237787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71522,7 +71507,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Suzuki - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Suzuki fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allu</Description>
     <OriginalPrice>82.10</OriginalPrice>
-    <Price>76.60</Price>
+    <Price>79.95</Price>
     <Code>495401107907</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-suzuki?variant=53389300466011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71537,8 +71522,7 @@
     <Name>Eliche Solas Alluminio per Motori Volvo Penta - 3 pale - 2T 270-280-290(Single Prop) / 4T 16 x 13 (Plus) - 16 x 13 (Plus)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produ</Description>
-    <OriginalPrice>252.00</OriginalPrice>
-    <Price>241.56</Price>
+    <Price>252.13</Price>
     <Code>495881116013</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta?variant=53389326614875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71553,8 +71537,7 @@
     <Name>Eliche Solas Alluminio per Motori Volvo Penta - 3 pale - 2T 270-280-290(Single Prop) / 4T 15.30 x 19 (Plus) - 15.30 x 19 (Plus)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produ</Description>
-    <OriginalPrice>252.00</OriginalPrice>
-    <Price>241.56</Price>
+    <Price>252.13</Price>
     <Code>495881115319</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta?variant=53389326778715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71570,7 +71553,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produ</Description>
     <OriginalPrice>249.00</OriginalPrice>
-    <Price>237.62</Price>
+    <Price>248.01</Price>
     <Code>495861214321</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta?variant=53389327139163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71586,7 +71569,7 @@
     <Brand>Solas</Brand>
     <Description>Eliche Solas per Motori Volvo Penta - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Volvo Penta fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produ</Description>
     <OriginalPrice>249.00</OriginalPrice>
-    <Price>237.62</Price>
+    <Price>248.01</Price>
     <Code>495861114223</Code>
     <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-volvo-penta?variant=53389327171931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71707,7 +71690,7 @@
     <Name>Eliche Solas Inox per Motori Honda - 3 pale - 2T 40/50/60(no kit parastrappi) / 4T 11 1/8 x 14 - 11 1/8 x 14</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Honda - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Sola</Description>
-    <Price>388.70</Price>
+    <Price>405.71</Price>
     <Code>498333111114</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-honda?variant=53389324026203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71723,8 +71706,7 @@
     <Name>Eliche Solas Inox per Motori Honda - 2T 115(&gt;2011)/135/150/175/200/225/250 / 4T 39,50/pz -</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Honda - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Sola</Description>
-    <OriginalPrice>71.10</OriginalPrice>
-    <Price>69.39</Price>
+    <Price>72.43</Price>
     <Code>4960017</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-honda?variant=53389324878171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71740,7 +71722,7 @@
     <Name>Eliche Solas Inox per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225 / 4T 15 1/4 x 19 - 15 1/4 x 19</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Johnson/Evinrude - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra p</Description>
-    <Price>673.73</Price>
+    <Price>703.21</Price>
     <Code>498957115319</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-johnson-evinrude?variant=53389314326875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71756,7 +71738,7 @@
     <Name>Eliche Solas Inox per Motori Johnson Evinrude - 3 pale - 2T 150/175/200/225 / 4T 15 1/4 x 21 - 15 1/4 x 21</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Johnson/Evinrude - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra p</Description>
-    <Price>673.73</Price>
+    <Price>703.21</Price>
     <Code>498957115021</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-johnson-evinrude?variant=53389314392411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71772,7 +71754,7 @@
     <Name>Eliche Solas Inox per Motori Johnson Evinrude - 3 pale - 2T 200/225 / 4T 15 3/4 x 21 (Plus) - 15 3/4 x 21 (Plus)</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Johnson/Evinrude - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra p</Description>
-    <Price>687.36</Price>
+    <Price>717.43</Price>
     <Code>498957115821</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-johnson-evinrude?variant=53389314785627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71788,8 +71770,7 @@
     <Name>Eliche Solas Inox per Motori Johnson Evinrude - 2T 150/175/200/225 / 4T 39,50/pz -</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Johnson/Evinrude - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Johnson Evinrude fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra p</Description>
-    <OriginalPrice>71.10</OriginalPrice>
-    <Price>69.39</Price>
+    <Price>72.43</Price>
     <Code>4960014</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-johnson-evinrude?variant=53389314949467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71805,8 +71786,7 @@
     <Name>Eliche Solas Inox per Motori Mercury / Mercruiser - Motore 40Big Foot/75/80/90/100/115/125 -</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Mercury e Mercruiser - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Mercury / Mercruiser fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di </Description>
-    <OriginalPrice>71.10</OriginalPrice>
-    <Price>69.39</Price>
+    <Price>72.43</Price>
     <Code>4960012</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-mercury-mercruiser?variant=53389310984539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71822,8 +71802,7 @@
     <Name>Eliche Solas Inox per Motori Tohatsu - 2T 70(&gt;1999)/75/90/115/120/140(&lt;2002) / 4T 39,50/pz -</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Tohatsu - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Tohatsu fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche </Description>
-    <OriginalPrice>71.10</OriginalPrice>
-    <Price>69.39</Price>
+    <Price>72.43</Price>
     <Code>4960019</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-tohatsu?variant=53389317112155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -71839,8 +71818,7 @@
     <Name>Eliche Solas Inox per Motori Volvo Penta - 2T SX / 4T 39,50/pz -</Name>
     <Brand>Solas</Brand>
     <Description>Eliche Solas Inox per Motori Volvo Penta - Acciaio Inox Eliche Solas in acciaio inox di alta qualità compatibili con i motori Volvo Penta fuoribordo / piedi poppieri. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di n</Description>
-    <OriginalPrice>71.10</OriginalPrice>
-    <Price>69.39</Price>
+    <Price>72.43</Price>
     <Code>4960015</Code>
     <Link>https://www.onautica.com/products/eliche-solas-inox-per-motori-volvo-penta?variant=53389327466843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -99510,7 +99488,7 @@
     <ParentID>zattera-di-salvataggio-eurovinil-compactdry-plus</ParentID>
   </Offer>
   <Offer>
-    <Name>Zattera di Salvataggio Eurovinil OceanDry 9650 Italia - 10 persone ��� Container ABS</Name>
+    <Name>Zattera di Salvataggio Eurovinil OceanDry 9650 Italia - 10 persone — Container ABS</Name>
     <Brand>Eurovinil</Brand>
     <Description>La zattera OceanDry 9650 Italia è un&apos;autogonfiabile certificata ISO9650 Oceanic-Italia, pensata per la navigazione da diporto oltre le 12 miglia dalla costa. È riservata alle imbarcazioni battenti bandiera italiana ed è realizzata interamente in Italia, c</Description>
     <OriginalPrice>2686.00</OriginalPrice>
