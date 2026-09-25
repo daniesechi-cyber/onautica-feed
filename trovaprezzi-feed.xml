@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-25T06:33:07.076Z -->
-<!-- Offerte: 5787 -->
+<!-- Generato: 2026-09-25T10:31:15.590Z -->
+<!-- Offerte: 5801 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -35,6 +35,60 @@
     <Weight>7.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>avvolgifiocco-bamar-serie-c-kit-tamburo-e-profili</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Banchina Motomarine con Presa Marinco e Spina CE IP67 - 16A - 10 m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il cavo banchina Motomarine collega l&apos;impianto elettrico di bordo alla colonnina del porto. Da un lato ha la presa Marinco, dall&apos;altro la spina CE con protezione IP67 contro acqua e polvere, pensata per l&apos;uso in ambiente marino. È disponibile in versione </Description>
+    <OriginalPrice>196.00</OriginalPrice>
+    <Price>171.90</Price>
+    <Code>2106600</Code>
+    <Link>https://www.onautica.com/products/cavo-banchina-motomarine-con-presa-marinco-e-spina-ce-ip67?variant=53902684881243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600_1.webp?v=1787902774</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>4.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600_2.webp?v=1787902776</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600.webp?v=1787902779</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-banchina-motomarine-con-presa-marinco-e-spina-ce-ip67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Banchina Motomarine con Presa Marinco e Spina CE IP67 - 16A - 15 m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il cavo banchina Motomarine collega l&apos;impianto elettrico di bordo alla colonnina del porto. Da un lato ha la presa Marinco, dall&apos;altro la spina CE con protezione IP67 contro acqua e polvere, pensata per l&apos;uso in ambiente marino. È disponibile in versione </Description>
+    <OriginalPrice>228.00</OriginalPrice>
+    <Price>187.80</Price>
+    <Code>2106601</Code>
+    <Link>https://www.onautica.com/products/cavo-banchina-motomarine-con-presa-marinco-e-spina-ce-ip67?variant=53902684914011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106601_1.webp?v=1787902787</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>6.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600_1.webp?v=1787902774</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600_2.webp?v=1787902776</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-banchina-motomarine-con-presa-marinco-e-spina-ce-ip67</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Banchina Motomarine con Presa Marinco e Spina CE IP67 - 16A - 20 m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il cavo banchina Motomarine collega l&apos;impianto elettrico di bordo alla colonnina del porto. Da un lato ha la presa Marinco, dall&apos;altro la spina CE con protezione IP67 contro acqua e polvere, pensata per l&apos;uso in ambiente marino. È disponibile in versione </Description>
+    <OriginalPrice>248.00</OriginalPrice>
+    <Price>194.30</Price>
+    <Code>2106602</Code>
+    <Link>https://www.onautica.com/products/cavo-banchina-motomarine-con-presa-marinco-e-spina-ce-ip67?variant=53902684946779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106602_1.webp?v=1787902792</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>8.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600_1.webp?v=1787902774</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106600_2.webp?v=1787902776</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-banchina-motomarine-con-presa-marinco-e-spina-ce-ip67</ParentID>
   </Offer>
   <Offer>
     <Name>Cavo Banchina Motomarine con Presa Marinco e Spina CE IP67 - 32A - 10 m</Name>
@@ -1439,6 +1493,24 @@
     <ParentID>prolunga-elettrica-ce-ip67-230v-motomarine</ParentID>
   </Offer>
   <Offer>
+    <Name>Pulsantiera Up-Down 2 Pulsanti 12/24V – Comando Stagno per Salpa-Ancore con Cavo 4,2 m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Pulsantiera Up-Down comando salpa-ancore con cavo estensibile da 4,2 metri. Impermeabile, completa di connettore stagno e staffa di supporto. Tensione universale 12/24V. Disponibile con o senza torcia LED integrata. Pulsanti Torcia LED 2 NO Caratteristich</Description>
+    <OriginalPrice>96.20</OriginalPrice>
+    <Price>88.01</Price>
+    <Code>1215300</Code>
+    <Link>https://www.onautica.com/products/pulsantiera-up-down-2-pulsanti?variant=52577528414555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Carrelli;Accessori Carrelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1215300_1.webp?v=1786747166</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8057090054767</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1215300.png?v=1773341944</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1215300b.png?v=1773341945</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pulsantiera-up-down-2-pulsanti</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ricambi e Accessori per Toilet Johnson SPX - Seduta Comfort Soft Close</Name>
     <Brand>SPX Flow</Brand>
     <Description>Prima di ordinare verifica sempre il modello di toilet nautico installato a bordo (Manuale, Silent Electric, Compact o Comfort): i componenti di questa gamma SPX Johnson non sono intercambiabili tra le diverse versioni. Questa è una raccolta di ricambi e </Description>
@@ -1504,6 +1576,24 @@
     <Weight>0.80</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ricambi Originali Tecma per Toilette Serie Flexi e Design - Pompa macerator MAC11 12V</Name>
+    <Brand>Tecma</Brand>
+    <Description>Questa è la gamma di ricambi originali Tecma per le toilette elettriche della serie Flexi e Design (inclusi i modelli Compact, Breeze ed Evolution). Ogni codice corrisponde a un componente specifico del sistema di scarico e alimentazione della toilette, p</Description>
+    <OriginalPrice>286.50</OriginalPrice>
+    <Price>233.40</Price>
+    <Code>1326129</Code>
+    <Link>https://www.onautica.com/products/ricambi-originali-tecma-per-toilette-serie-flexi-e-design?variant=53877358428507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326129_1.webp?v=1787641657</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326128_23.webp?v=1787641668</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326130_1.webp?v=1787641659</Image3>
     <Condition>nuovo</Condition>
     <ParentID>ricambi-originali-tecma-per-toilette-serie-flexi-e-design</ParentID>
   </Offer>
@@ -4446,24 +4536,6 @@
     <ParentID>ancora-pool-hhp-tw-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Ancora Pool HHP-TW in Acciaio Inox 316 - 40 Kg.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>L&apos;ancora Pool HHP-TW (High Holding Power) è realizzata in acciaio inox 316 lucidato a specchio. È bilanciata per mantenere sempre le marre in posizione verticale, una caratteristica pensata per le imbarcazioni con linea di prua di nuova concezione e allog</Description>
-    <OriginalPrice>1628.00</OriginalPrice>
-    <Price>1335.30</Price>
-    <Code>0104940</Code>
-    <Link>https://www.onautica.com/products/ancora-pool-hhp-tw-in-acciaio-inox-316?variant=53757264593243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920.webp?v=1786468672</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>40.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920_e9fb7627-280d-4de3-9713-40c1682a150d.webp?v=1786468674</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920_1.webp?v=1786468676</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-pool-hhp-tw-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ancora Spade Smontabile in Acciaio Zincato a Caldo - S60 — 9,5 Kg.</Name>
     <Brand>Spade</Brand>
     <Description>L&apos;ancora Spade è un&apos;ancora concava in acciaio zincato a caldo, pensata per resistere a carichi elevati e trovare in autonomia la posizione corretta sul fondale. Il baricentro basso riduce gli sbandamenti in ogni condizione di mare, mentre il peso concentr</Description>
@@ -4852,6 +4924,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_4.webp?v=1786468702</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704.webp?v=1786468704</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_00637f40-9945-4f13-934a-844a47b884a6.webp?v=1786747399</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-toro-in-acciaio-zincato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Toro in Acciaio Zincato - 32 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;ancora Toro è realizzata in acciaio zincato a caldo ed è pensata per fondali morbidi come sabbia, fango e melma. Il peso è distribuito verso la punta, così l&apos;ancora trova subito l&apos;angolo di penetrazione corretto e garantisce una tenuta stabile una volta</Description>
+    <OriginalPrice>409.50</OriginalPrice>
+    <Price>343.02</Price>
+    <Code>0108732</Code>
+    <Link>https://www.onautica.com/products/ancora-toro-in-acciaio-zincato?variant=53757265707355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_4.webp?v=1786468702</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>32.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704.webp?v=1786468704</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_00637f40-9945-4f13-934a-844a47b884a6.webp?v=1786747399</Image3>
     <Condition>nuovo</Condition>
@@ -14185,6 +14275,23 @@
     <ParentID>catena-calibrata-zincata-din-766-mazza-da-50-m</ParentID>
   </Offer>
   <Offer>
+    <Name>Catena Calibrata Zincata DIN 766 – Mazza da 50 m - Ø 10 mm (2,30 kg/m – rottura 5.100 kg)</Name>
+    <Brand>FNI</Brand>
+    <Description>Catena calibrata zincata a caldo grado 40 per verricelli salpancora: la maglia calibrata DIN 766 (ISO 4565 nei diametri maggiori) è lavorata a tolleranze precise per ingranare perfettamente sulle impronte del barbotin, senza saltare. Venduta in mazze da 5</Description>
+    <OriginalPrice>982.57</OriginalPrice>
+    <Price>653.90</Price>
+    <Code>0202585</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-zincata-din-766-mazza-da-50-m?variant=53698776236379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202582-0.webp?v=1785523135</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>115.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202582-1.webp?v=1785523137</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-zincata-din-766-mazza-da-50-m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Catena Calibrata Zincata DIN 766 – Mazza da 50 m - Ø 12 mm (3,36 kg/m – rottura 7.200 kg)</Name>
     <Brand>FNI</Brand>
     <Description>Catena calibrata zincata a caldo grado 40 per verricelli salpancora: la maglia calibrata DIN 766 (ISO 4565 nei diametri maggiori) è lavorata a tolleranze precise per ingranare perfettamente sulle impronte del barbotin, senza saltare. Venduta in mazze da 5</Description>
@@ -16666,6 +16773,24 @@
     <ParentID>cima-ancoraggio-liros-handy-anchor-con-anima-in-piombo-bobina-40-m</ParentID>
   </Offer>
   <Offer>
+    <Name>Cima con Catena Zincata DIN766 per Salpa Ancora – Bobine da 40/50 m - Ø12 40m / Ø6 10m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il sistema cima/catena Motomarine è pronto per l&apos;uso e permette di armare l&apos;ancora senza dover assemblare o impiombare i componenti separatamente. L&apos;impiombatura è realizzata a sagoma perfetta, la catena è calibrata DIN766-G40 in acciaio zincato e la cima</Description>
+    <OriginalPrice>159.50</OriginalPrice>
+    <Price>148.60</Price>
+    <Code>3104174</Code>
+    <Link>https://www.onautica.com/products/cima-con-catena-zincata-din766-per-salpa-ancora-bobine-da-40-50-m?variant=53782907584859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3104174_4.webp?v=1786702601</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>140.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3104174_5.webp?v=1786702604</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3104174_3.webp?v=1786702606</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-con-catena-zincata-din766-per-salpa-ancora-bobine-da-40-50-m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cima con Catena Zincata DIN766 per Salpa Ancora – Bobine da 40/50 m - Ø14 50m / Ø8 7,5m</Name>
     <Brand>Motomarine</Brand>
     <Description>Il sistema cima/catena Motomarine è pronto per l&apos;uso e permette di armare l&apos;ancora senza dover assemblare o impiombare i componenti separatamente. L&apos;impiombatura è realizzata a sagoma perfetta, la catena è calibrata DIN766-G40 in acciaio zincato e la cima</Description>
@@ -16684,7 +16809,7 @@
     <ParentID>cima-con-catena-zincata-din766-per-salpa-ancora-bobine-da-40-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima da Ormeggio Ritorta Bianca Alta Tenacità PLAM – Bobina - Ø 8 mm ��� bobina 200 m (rottura 1.020 kg)</Name>
+    <Name>Cima da Ormeggio Ritorta Bianca Alta Tenacità PLAM – Bobina - Ø 8 mm – bobina 200 m (rottura 1.020 kg)</Name>
     <Brand>PLAM</Brand>
     <Description>Cima da ormeggio a 3 legnoli in fibra di poliestere Alta Tenacità con lavorazione gherlino, nel classico colore bianco: affondante, resistente ai raggi UV, con ottima resistenza alla rottura e allungamento ridottissimo. Per ancoraggio nautico, ormeggio pe</Description>
     <OriginalPrice>147.57</OriginalPrice>
@@ -17904,6 +18029,23 @@
     <ParentID>cima-ormeggio-3-fusi-in-poliestere-ht-o-14-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Cima Ormeggio 3 Fusi in Poliestere HT Ø 14 mm – Bobina 150 m - Blu Navy</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La cima da ormeggio e ancoraggio a 3 fusi è realizzata in poliestere ad alta tenacità con lavorazione a doppia torsione. Questo tipo di costruzione la rende resistente all&apos;abrasione e agli sforzi di trazione, mantenendo comunque una buona flessibilità per</Description>
+    <Price>284.50</Price>
+    <Code>3102014150</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-3-fusi-in-poliestere-ht-o-14-mm?variant=53774746779995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100610200_402b7b8a-5b99-49f4-8fa3-77f35db2bb7c.webp?v=1786611704</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>22.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102010200_fa2a3257-37ed-403e-8312-efe98154ef63.webp?v=1786611706</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102310200_a73c3a63-16a5-4388-80d1-6062113fdc64.webp?v=1786611708</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-3-fusi-in-poliestere-ht-o-14-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cima Ormeggio 3 Fusi in Poliestere HT Ø 14 mm – Bobina 150 m - Classica</Name>
     <Brand>Motomarine</Brand>
     <Description>La cima da ormeggio e ancoraggio a 3 fusi è realizzata in poliestere ad alta tenacità con lavorazione a doppia torsione. Questo tipo di costruzione la rende resistente all&apos;abrasione e agli sforzi di trazione, mantenendo comunque una buona flessibilità per</Description>
@@ -17948,6 +18090,23 @@
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100610200_6a401f8d-a53e-4885-9ede-100d1b51c660.webp?v=1786611712</Image>
     <ShippingCost>5.90</ShippingCost>
+    <Weight>19.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102010200_001f4e16-0d73-4468-956e-fbca8ae902bb.webp?v=1786611714</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102310200_cdab5187-73c1-484b-9502-a669fce2f67d.webp?v=1786611716</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-3-fusi-in-poliestere-ht-o-16-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima Ormeggio 3 Fusi in Poliestere HT Ø 16 mm – Bobina 100 m - Blu Navy</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La cima da ormeggio e ancoraggio a 3 fusi è realizzata in poliestere ad alta tenacità, con lavorazione a doppia torsione. Questo tipo di costruzione le dà robustezza ed elasticità, mantenendo un buon comportamento sotto carico. Non è una cima galleggiante</Description>
+    <Price>243.10</Price>
+    <Code>3102016100</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-3-fusi-in-poliestere-ht-o-16-mm?variant=53774747173211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100610200_6a401f8d-a53e-4885-9ede-100d1b51c660.webp?v=1786611712</Image>
+    <ShippingCost>0</ShippingCost>
     <Weight>19.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102010200_001f4e16-0d73-4468-956e-fbca8ae902bb.webp?v=1786611714</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102310200_cdab5187-73c1-484b-9502-a669fce2f67d.webp?v=1786611716</Image3>
@@ -18690,6 +18849,23 @@
     <Price>329.60</Price>
     <Code>3100028100</Code>
     <Link>https://www.onautica.com/products/cima-ormeggio-3-fusi-in-poliestere-o-28-mm?variant=53774754316635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100008200_1_10f81386-370d-42c9-abba-8fd0090905f2.webp?v=1786611858</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>58.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100108200_2_a911ea58-f4ef-4483-a3eb-18c2566e470b.webp?v=1786611860</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100008200_1_5c76031d-d110-449c-a3f9-808821d24aea.webp?v=1786747674</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-ormeggio-3-fusi-in-poliestere-o-28-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima Ormeggio 3 Fusi in Poliestere Ø 28 mm – Bobina 100 m - Nera</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La cima da ormeggio e ancoraggio Motomarine è lavorata a 3 fusi in poliestere a media tenacità. Non galleggia, quindi resta sotto la superficie durante le manovre senza intralciare elica o altre imbarcazioni ormeggiate vicino. È disponibile in due colori,</Description>
+    <Price>329.60</Price>
+    <Code>3100128100</Code>
+    <Link>https://www.onautica.com/products/cima-ormeggio-3-fusi-in-poliestere-o-28-mm?variant=53774754349403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100008200_1_10f81386-370d-42c9-abba-8fd0090905f2.webp?v=1786611858</Image>
@@ -19767,6 +19943,23 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_2.webp?v=1786544227</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cima-piatta-per-parabordi-in-poliestere-motomarine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima Squareline in Poliestere Ø 14 mm – Bobina 150 m - Bianca</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La cima Squareline è una treccia da ormeggio e ancoraggio morbida e tenace, pensata per calare senza torcersi. È realizzata con lavorazione a doppia torsione a 12 fusi in poliestere ad alta tenacità e non galleggia. È disponibile nei colori Bianca e Blu N</Description>
+    <Price>243.50</Price>
+    <Code>3100714150</Code>
+    <Link>https://www.onautica.com/products/cima-squareline-in-poliestere-o-14-mm?variant=53774756774235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100712200_0214532e-8e0d-4904-8f02-a77d42b158fb.webp?v=1786611896</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>22.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102712200_e0b51f5a-a8b9-4189-b224-2ff7f66bca76.webp?v=1786611898</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100712200_6a77ca28-3008-47b8-8923-1eb47de83f83.webp?v=1786747824</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-squareline-in-poliestere-o-14-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Cima Squareline in Poliestere Ø 14 mm – Bobina 150 m - Blu Navy</Name>
@@ -22144,6 +22337,40 @@
     <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-12-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 12 mm – Bobina 200 m - Beige</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La treccia da ormeggio e ancoraggio Motomarine è realizzata con lavorazione a 16 fusi in poliestere ad alta tenacità. È morbida al tatto, facile da impiombare e resistente alle sollecitazioni tipiche dell&apos;ormeggio. Non galleggia. È disponibile in sei colo</Description>
+    <Price>329.60</Price>
+    <Code>3100352200</Code>
+    <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-12-mm?variant=53774759395675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200.webp?v=1786611949</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>24.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100450200_d994a7e5-ee1c-46c4-bac7-bb3e26bb790e.webp?v=1786611951</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100308200_1_683c8b2e-be0d-4e9e-88e9-8e2226b89077.webp?v=1786611953</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-12-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 12 mm – Bobina 200 m - Grigia</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La treccia da ormeggio e ancoraggio Motomarine è realizzata con lavorazione a 16 fusi in poliestere ad alta tenacità. È morbida al tatto, facile da impiombare e resistente alle sollecitazioni tipiche dell&apos;ormeggio. Non galleggia. È disponibile in sei colo</Description>
+    <Price>329.60</Price>
+    <Code>3100332200</Code>
+    <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-12-mm?variant=53774759428443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200.webp?v=1786611949</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>24.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100450200_d994a7e5-ee1c-46c4-bac7-bb3e26bb790e.webp?v=1786611951</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100308200_1_683c8b2e-be0d-4e9e-88e9-8e2226b89077.webp?v=1786611953</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-12-mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 14 mm – Bobina 150 m - Bianca</Name>
     <Brand>Motomarine</Brand>
     <Description>La treccia da ormeggio e ancoraggio a 16 fusi è realizzata in poliestere ad alta tenacità, con una lavorazione che la rende resistente e allo stesso tempo morbida e facile da impiombare. Non galleggia, quindi resta in tensione sott&apos;acqua senza creare ingo</Description>
@@ -22184,6 +22411,23 @@
     <Price>282.00</Price>
     <Code>3100414150</Code>
     <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-14-mm?variant=53774760018267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200_c63c53a9-d553-4b7c-b43b-fa90763c3938.webp?v=1786611964</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100450200_8fa31eaf-d419-4ab2-b056-a4694c438690.webp?v=1786611966</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100308200_1_09c2f72f-0a5e-4e58-84c4-7b39548635c5.webp?v=1786611969</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-14-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 14 mm – Bobina 150 m - Blu Navy</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La treccia da ormeggio e ancoraggio a 16 fusi è realizzata in poliestere ad alta tenacità, con una lavorazione che la rende resistente e allo stesso tempo morbida e facile da impiombare. Non galleggia, quindi resta in tensione sott&apos;acqua senza creare ingo</Description>
+    <Price>326.10</Price>
+    <Code>3100434150</Code>
+    <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-14-mm?variant=53774760051035&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200_c63c53a9-d553-4b7c-b43b-fa90763c3938.webp?v=1786611964</Image>
@@ -22320,6 +22564,23 @@
     <Price>300.40</Price>
     <Code>3100418100</Code>
     <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-18-mm?variant=53774761722203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200_8d786eeb-8cad-4571-b4eb-7af5818ff2ec.webp?v=1786611995</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>27.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100450200_8e05c2e5-c212-4866-aa57-ed021e169684.webp?v=1786611997</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100308200_1_c12e71b6-e9c9-404d-b071-802038909887.webp?v=1786611999</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-ormeggio-16-fusi-in-poliestere-o-18-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Treccia Ormeggio 16 Fusi in Poliestere Ø 18 mm – Bobina 100 m - Blu Navy</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La treccia da ormeggio a 16 fusi è realizzata in poliestere ad alta tenacità, pensata per l&apos;ormeggio e l&apos;ancoraggio in barca. La lavorazione a 16 fusi la rende morbida e facile da impiombare, mantenendo una buona resistenza alla trazione. Non galleggia. È</Description>
+    <Price>344.40</Price>
+    <Code>3100438100</Code>
+    <Link>https://www.onautica.com/products/treccia-ormeggio-16-fusi-in-poliestere-o-18-mm?variant=53774761754971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100352200_8d786eeb-8cad-4571-b4eb-7af5818ff2ec.webp?v=1786611995</Image>
@@ -23150,6 +23411,24 @@
     <Price>223.10</Price>
     <Code>3101738</Code>
     <Link>https://www.onautica.com/products/treccia-ormeggio-custom-in-poliestere-ht-con-redancia-inox-o-28-mm?variant=53775660679515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3101730_aff53180-7255-4aa0-9dfb-5a5523ca631c.webp?v=1786624169</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>13.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3101730_114a81a6-bbe6-4640-93fe-af932d030eb9.webp?v=1786624172</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3101730_1_e5dd3e06-5670-49ec-a898-66ebcb107e4d.webp?v=1786624174</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>treccia-ormeggio-custom-in-poliestere-ht-con-redancia-inox-o-28-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Treccia Ormeggio Custom in Poliestere HT con Redancia Inox Ø 28 mm - Blue Navy · 20 m</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La treccia da ormeggio è pronta all&apos;uso, con redancia in acciaio inox impiombata e rifinita a mano per proteggere l&apos;occhiello dall&apos;usura. Anche il terminale è cucito e rifinito a mano, per evitare imperfezioni nel punto di aggancio. La lavorazione a 16 fu</Description>
+    <OriginalPrice>263.50</OriginalPrice>
+    <Price>223.10</Price>
+    <Code>3101762</Code>
+    <Link>https://www.onautica.com/products/treccia-ormeggio-custom-in-poliestere-ht-con-redancia-inox-o-28-mm?variant=53775660712283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3101730_aff53180-7255-4aa0-9dfb-5a5523ca631c.webp?v=1786624169</Image>
@@ -30235,6 +30514,24 @@
     <ParentID>filtro-acqua-di-mare-guidi-rgxl-1162</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro Acqua di Mare Guidi RGXL-1162 - Filtro 2&quot;1/2</Name>
+    <Brand>Guidi</Brand>
+    <Description>Il filtro acqua di mare Guidi RGXL-1162 si installa sulla presa a mare e trattiene alghe, detriti e impurità prima che raggiungano pompe, scambiatori e circuiti di raffreddamento del motore. Il corpo è dotato di un vetro trasparente che permette di contro</Description>
+    <OriginalPrice>831.00</OriginalPrice>
+    <Price>702.60</Price>
+    <Code>4131622</Code>
+    <Link>https://www.onautica.com/products/filtro-acqua-di-mare-guidi-rgxl-1162?variant=53877369766235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Filtri</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4131622_1.webp?v=1787642102</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>5.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4131621_1.webp?v=1787642097</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4131621.webp?v=1787642100</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-acqua-di-mare-guidi-rgxl-1162</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro Acqua di Mare Guidi RGXL-1162 - Filtro 3&quot;</Name>
     <Brand>Guidi</Brand>
     <Description>Il filtro acqua di mare Guidi RGXL-1162 si installa sulla presa a mare e trattiene alghe, detriti e impurità prima che raggiungano pompe, scambiatori e circuiti di raffreddamento del motore. Il corpo è dotato di un vetro trasparente che permette di contro</Description>
@@ -30383,6 +30680,23 @@
     <ParentID>filtro-acqua-guidi-ionio-in-bronzo-nichelato</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro Acqua Guidi Ionio in Bronzo Nichelato - 1&quot;1/2</Name>
+    <Brand>Guidi</Brand>
+    <Description>Il filtro di depurazione acqua Ionio di Guidi è costruito per durare: corpo in bronzo nichelato, coperchio in policarbonato trasparente per l&apos;ispezione a vista, elemento filtrante e viteria in acciaio inox AISI 316L. Omologato R.I.Na. (certificato n. MAC/</Description>
+    <OriginalPrice>413.49</OriginalPrice>
+    <Price>299.90</Price>
+    <Code>1919026</Code>
+    <Link>https://www.onautica.com/products/filtro-acqua-guidi-ionio-in-bronzo-nichelato?variant=53699761570139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Filtri</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919023-0.webp?v=1785561517</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919023-1.webp?v=1785561519</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-acqua-guidi-ionio-in-bronzo-nichelato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro Acqua Mare Guidi Mediterraneo in Bronzo - 1/2&quot;</Name>
     <Brand>Guidi</Brand>
     <Description>Il filtro &quot;Mediterraneo&quot; di Guidi protegge motore e impianti dall&apos;acqua di mare sporca: corpo in bronzo nichelato, coperchio in policarbonato trasparente per l&apos;ispezione a vista ed elemento filtrante con viteria in acciaio inox AISI 316L. Omologato R.I.Na</Description>
@@ -30471,6 +30785,24 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>8057741265924</EanCode>
     <Weight>4.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919031-1.webp?v=1785540524</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919031-2.webp?v=1785540527</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-acqua-mare-guidi-mediterraneo-in-bronzo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtro Acqua Mare Guidi Mediterraneo in Bronzo - 1&quot; 1/2</Name>
+    <Brand>Guidi</Brand>
+    <Description>Il filtro &quot;Mediterraneo&quot; di Guidi protegge motore e impianti dall&apos;acqua di mare sporca: corpo in bronzo nichelato, coperchio in policarbonato trasparente per l&apos;ispezione a vista ed elemento filtrante con viteria in acciaio inox AISI 316L. Omologato R.I.Na</Description>
+    <OriginalPrice>531.99</OriginalPrice>
+    <Price>377.90</Price>
+    <Code>1919036</Code>
+    <Link>https://www.onautica.com/products/filtro-acqua-mare-guidi-mediterraneo-in-bronzo?variant=53699519480155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Filtri</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919031-0.webp?v=1785540522</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>5.80</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919031-1.webp?v=1785540524</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1919031-2.webp?v=1785540527</Image3>
     <Condition>nuovo</Condition>
@@ -33497,23 +33829,6 @@
     <ParentID>cintura-salvagente-150n-oltre-50-kg-pacco-6-pezzi</ParentID>
   </Offer>
   <Offer>
-    <Name>Cintura Salvagente 150N (Oltre 40 Kg) – Pacco 8 pezzi</Name>
-    <Brand>Osculati</Brand>
-    <Description>Confezione da 8 cinture salvagente 150N omologate EN ISO 12402-3 , taglia oltre 40 kg , per la navigazione da diporto entro e oltre 6, 12 e 50 miglia dalla costa. Una sola fornitura per equipaggiare charter, noleggi, scuole vela e imbarcazioni con più per</Description>
-    <Price>127.20</Price>
-    <Code>3010202-8PZ</Code>
-    <Link>https://www.onautica.com/products/cintura-salvagente-150n-oltre-50-kg-pacco-8-pezzi?variant=53483112890715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Sicurezza;Giubbotti Salvagente</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cint-conf-8pz-3240.webp?v=1782927039</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.96</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cint-singolo-3240_2b0ac119-a467-4f70-810a-bd51a0a5100f.webp?v=1782927042</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cint-marino-3240_738d33db-ef15-45e7-ab25-322da63c6bae.webp?v=1782927045</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cintura-salvagente-150n-oltre-50-kg-pacco-8-pezzi</ParentID>
-  </Offer>
-  <Offer>
     <Name>Estrattore giranti Jabsco per pompe di raffreddamento - Estrattore giranti 40-65 mm</Name>
     <Brand>Jabsco</Brand>
     <Description>L&apos;estrattore giranti Jabsco è un attrezzo che serve a rimuovere la girante dalla pompa di raffreddamento del motore, per facilitarne la sostituzione. Non è una girante di ricambio, ma lo strumento che serve per estrarla. È disponibile in tre versioni, cia</Description>
@@ -34234,21 +34549,6 @@
     <Weight>0.25</Weight>
     <Condition>nuovo</Condition>
     <ParentID>girante-jabsco-95mm-b12-in-neoprene</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Girante Jabsco B10 Ø 65 mm - Nitrile</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La girante Jabsco B10 è il ricambio per pompe ad acqua che garantisce il corretto funzionamento del circuito di raffreddamento a bordo. Ruotando all&apos;interno della pompa, spinge l&apos;acqua in circolo grazie alle sue palette flessibili, che si deformano e si r</Description>
-    <Price>113.00</Price>
-    <Code>1815129</Code>
-    <Link>https://www.onautica.com/products/girante-jabsco-b10-o-65-mm?variant=53877362852187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1815029.webp?v=1787641811</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.30</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>girante-jabsco-b10-o-65-mm</ParentID>
   </Offer>
   <Offer>
     <Name>Girante Jabsco B10 Ø 65 mm - Neoprene</Name>
@@ -49845,24 +50145,6 @@
     <ParentID>generatore-paguro-4-my-3-5-kw</ParentID>
   </Offer>
   <Offer>
-    <Name>Generatore Paguro 4SY 3,5 kW Volpi Tecno Energia - 3,5 kW</Name>
-    <Brand>Volpi Tecno Energia</Brand>
-    <Description>Il generatore Paguro 4SY di Volpi Tecno Energia produce energia elettrica a bordo grazie a un motore diesel Yanmar monocilindrico, pensato per alimentare le utenze elettriche dell&apos;imbarcazione senza dipendere dalla rete di terra. Il modello 4SY eroga una </Description>
-    <OriginalPrice>10346.00</OriginalPrice>
-    <Price>9024.50</Price>
-    <Code>2002040</Code>
-    <Link>https://www.onautica.com/products/generatore-paguro-4sy-3-5-kw-volpi-tecno-energia?variant=53902583267675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2002040_3.webp?v=1787902395</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>90.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2002040_2.webp?v=1787902398</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2002040_4.webp?v=1787902400</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>generatore-paguro-4sy-3-5-kw-volpi-tecno-energia</ParentID>
-  </Offer>
-  <Offer>
     <Name>Generatore Paguro 6000 5kW Volpi Tecno Energia - Paguro 6000 5 kW</Name>
     <Brand>Volpi Tecno Energia</Brand>
     <Description>Il generatore Paguro 6000 di Volpi Tecno Energia produce energia elettrica a bordo grazie a un motore Lombardini a 2 cilindri. È pensato per alimentare le utenze di bordo in autonomia, senza dipendere dalla banchina o dalle batterie di servizio. È disponi</Description>
@@ -51300,23 +51582,6 @@
     <Weight>1.70</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-automatica-johnson-ultima-combo-1250-gph</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di sentina automatica Rule 1100 12V - Pompa sentina automatica 12V</Name>
-    <Brand>Rule</Brand>
-    <Description>La pompa di sentina automatica Rule 1100 controlla la presenza di acqua ogni 2 minuti e mezzo, mantenendo il livello in sentina sempre basso: si attiva a 5/8&quot; (1,6 cm) e pompa l&apos;acqua fino a 1/4&quot; (0,6 cm), evitando che raggiunga i 5 cm tipici di una pompa</Description>
-    <OriginalPrice>178.56</OriginalPrice>
-    <Price>172.90</Price>
-    <Code>Z27SA</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-automatica-rule-1100-12v?variant=53703755399515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z27SA-0.webp?v=1785662795</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>042237104809</EanCode>
-    <Weight>0.43</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-automatica-rule-1100-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di Sentina Automatica Rule LP900S 12V 900 GPH - 12V</Name>
@@ -56265,21 +56530,6 @@
     <ParentID>barbotin-per-verricelli-salpancora-quick</ParentID>
   </Offer>
   <Offer>
-    <Name>Barbotin Quick per Verricelli Salpa Ancora - Ø6mm - 300/500W</Name>
-    <Brand>Quick</Brand>
-    <Description>Il barbotin è la ruota dentata del verricello salpa ancora che aggancia gli anelli della catena e la traina durante la salpata e la calata. Quando è usurato o non fa più presa correttamente, va sostituito con un ricambio dello stesso modello e diametro ca</Description>
-    <Price>139.60</Price>
-    <Code>1210606</Code>
-    <Link>https://www.onautica.com/products/barbotin-quick-per-verricelli-salpa-ancora?variant=53782410953051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1210606.webp?v=1786696333</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.20</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>barbotin-quick-per-verricelli-salpa-ancora</ParentID>
-  </Offer>
-  <Offer>
     <Name>Barbotin Quick per Verricelli Salpa Ancora - Ø7mm - 300/500W</Name>
     <Brand>Quick</Brand>
     <Description>Il barbotin è la ruota dentata del verricello salpa ancora che aggancia gli anelli della catena e la traina durante la salpata e la calata. Quando è usurato o non fa più presa correttamente, va sostituito con un ricambio dello stesso modello e diametro ca</Description>
@@ -56471,24 +56721,6 @@
     <Weight>12.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>boiler-isotemp-15-litri-indel-webasto-marine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Boiler Nautico Isotemp Slim e Basic Indel Webasto - Slim 15 – 15 L (Ø 295×520 mm)</Name>
-    <Brand>Indel Webasto</Brand>
-    <Description>I boiler Isotemp di Indel Webasto sono costruiti con materiali selezionati: serbatoio, tubi e parti a contatto con l&apos;acqua in acciaio inox AISI 316 saldato con gas protettivo — per eliminare qualsiasi rischio di corrosione — e rivestimento con piedini in </Description>
-    <OriginalPrice>681.49</OriginalPrice>
-    <Price>602.60</Price>
-    <Code>2400215</Code>
-    <Link>https://www.onautica.com/products/boiler-nautico-isotemp-slim-e-basic-indel-webasto?variant=53699616276827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400224-0.webp?v=1785548093</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8053670381230</EanCode>
-    <Weight>14.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400224-1.webp?v=1785548096</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>boiler-nautico-isotemp-slim-e-basic-indel-webasto</ParentID>
   </Offer>
   <Offer>
     <Name>Boiler Nautico Isotemp Slim e Basic Indel Webasto - Basic 24 – 24 L (Ø 395×470 mm)</Name>
@@ -59825,6 +60057,23 @@
     <ParentID>scalda-acqua-quick-nautic-boiler-bxr-in-acciaio-inox-aisi-316-1200w</ParentID>
   </Offer>
   <Offer>
+    <Name>Scalda Acqua Quick Nautic Boiler BXS 25/40 Litri 1200W Compatto in Acciaio Inox AISI 316 - BXS 25 Litri</Name>
+    <Brand>Quick</Brand>
+    <Description>A chi è rivolto Lo scaldabagno Quick Nautic Boiler BXS è il modello compatto quadrato della gamma Quick, progettato per barche a vela e motore dove lo spazio è un fattore critico. La forma cubica permette di sfruttare al meglio vani tecnici e gavoni di di</Description>
+    <Price>627.31</Price>
+    <Code>1500525</Code>
+    <Link>https://www.onautica.com/products/scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316?variant=52995048505691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-frontale-inox.webp?v=1778946174</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>13.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-laterale.webp?v=1778946174</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/premiscelatore-quick-nautic-boiler-kit-bxs.webp?v=1778946174</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Scaldabagno Quick Nautic Boiler B3 - 15 L</Name>
     <Brand>Quick</Brand>
     <Description>Lo scaldabagno Quick Nautic Boiler B3 riscalda l&apos;acqua a bordo grazie a una resistenza elettrica da 1200W, garantendo acqua calda per doccia e lavello anche in navigazione o all&apos;ormeggio. Il corpo cilindrico è pensato per un&apos;installazione compatta in dine</Description>
@@ -60206,6 +60455,24 @@
     <ParentID>verricello-salpa-ancora-quick-prince-dp2-700-1000w</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricello Salpa Ancora Quick Prince DP2E 500/800W in Acciaio Inox - 800W - Catena Ø8mm</Name>
+    <Brand>Quick</Brand>
+    <Description>Il verricello salpa ancora Quick Prince DP2E recupera cima e catena grazie a organi di trazione in bronzo e acciaio inox, garantendo scorrevolezza e resistenza nel tempo. È dotato di sensore contametri per conoscere sempre la lunghezza di catena filata e </Description>
+    <OriginalPrice>1060.00</OriginalPrice>
+    <Price>1056.50</Price>
+    <Code>1201818</Code>
+    <Link>https://www.onautica.com/products/verricello-salpa-ancora-quick-prince-dp2e-500-800w-in-acciaio-inox?variant=53776304832859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1201818_c3ffaa0c-f060-4bc1-8bf8-b61f2d6461bd.webp?v=1786635975</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>16.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1201815.webp?v=1786635964</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1201815_4a50a36c-5f8f-4bb6-b55b-1f34cdea493a.webp?v=1786635967</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpa-ancora-quick-prince-dp2e-500-800w-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello Salpa Ancora Quick Prince DP2E 500/800W in Acciaio Inox - 500W Drum - Catena Ø6mm</Name>
     <Brand>Quick</Brand>
     <Description>Il verricello salpa ancora Quick Prince DP2E recupera cima e catena grazie a organi di trazione in bronzo e acciaio inox, garantendo scorrevolezza e resistenza nel tempo. È dotato di sensore contametri per conoscere sempre la lunghezza di catena filata e </Description>
@@ -60222,24 +60489,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1201815_4a50a36c-5f8f-4bb6-b55b-1f34cdea493a.webp?v=1786635967</Image3>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpa-ancora-quick-prince-dp2e-500-800w-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpa Ancora Quick Rider R3 1000W - Con campana Drum</Name>
-    <Brand>Quick</Brand>
-    <Description>Il verricello salpa ancora Quick Rider R3 1000W recupera la catena tramite organi di trazione in bronzo e acciaio inox, con motore stagno IP67. Non ha vincoli di caduta catena e può essere montato in qualsiasi posizione, verticale o orizzontale, anche dir</Description>
-    <OriginalPrice>1272.00</OriginalPrice>
-    <Price>1267.30</Price>
-    <Code>1203520</Code>
-    <Link>https://www.onautica.com/products/verricello-salpa-ancora-quick-rider-r3-1000w?variant=53785832194395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1203507.webp?v=1786725214</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>19.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1203507_182e9ecf-9951-4f29-8b2e-eff979116b41.webp?v=1786725216</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1203507_2.webp?v=1786725218</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpa-ancora-quick-rider-r3-1000w</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpancora Lofrans Dorado - 500 W 12 V – barbotin Ø 6 mm (cima Ø 12 mm)</Name>
@@ -61530,23 +61779,6 @@
     <Weight>4.30</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3008193.webp?v=1787903729</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3008193_a7c2fbfb-0c52-4154-92f9-9f2653aec089.webp?v=1787903731</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>contenitore-open-can-sb-per-salvagente-anulare-in-abs</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Contenitore Open Can SB per Salvagente Anulare in ABS - Supporto H150 cm</Name>
-    <Brand>Can SB</Brand>
-    <Description>Il supporto va sempre abbinato al contenitore aperto Can SB per salvagenti anulari (rif. 3008193): l&apos;uno non funziona senza l&apos;altro, quindi verifica di avere entrambi i pezzi prima di completare l&apos;installazione. Il contenitore Can SB è un porta-salvagente</Description>
-    <Price>178.10</Price>
-    <Code>3008197</Code>
-    <Link>https://www.onautica.com/products/contenitore-open-can-sb-per-salvagente-anulare-in-abs?variant=53903113552219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Salvagenti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3008197_1.webp?v=1787903735</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>5.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3008193_1.webp?v=1787903727</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3008193.webp?v=1787903729</Image3>
     <Condition>nuovo</Condition>
     <ParentID>contenitore-open-can-sb-per-salvagente-anulare-in-abs</ParentID>
   </Offer>
@@ -85018,24 +85250,6 @@
     <ParentID>set-3-asciugamani-santorini-marine-business-in-microfibra-per-barca</ParentID>
   </Offer>
   <Offer>
-    <Name>Set 3 Asciugamani Santorini Marine Business in Microfibra per Barca - Blu Navy</Name>
-    <Brand>Marine Business</Brand>
-    <Description>Set 3 Asciugamani Santorini Marine Business in Microfibra Il set asciugamani Santorini di Marine Business è composto da 3 pezzi coordinati (asciugamano viso, ospite e telo doccia) in microfibra ad asciugatura rapida , decorati con il classico motivo ancor</Description>
-    <OriginalPrice>81.70</OriginalPrice>
-    <Price>81.33</Price>
-    <Code>5801159</Code>
-    <Link>https://www.onautica.com/products/set-3-asciugamani-santorini-marine-business-in-microfibra-per-barca?variant=52983321395547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/set-asciugamani-santorini-marine-business-acqua-piegati.webp?v=1778778193</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/set-asciugamani-santorini-marine-business-blu-3-pezzi.webp?v=1778778197</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/set-asciugamani-santorini-marine-business-colori-acqua-blu.webp?v=1778778201</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>set-3-asciugamani-santorini-marine-business-in-microfibra-per-barca</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sistema Basculante Motomarine per Sollevamento Gonfiabili - Coppia cerniere basculanti</Name>
     <Brand>Motomarine</Brand>
     <Description>Il sistema basculante Motomarine è un meccanismo a inclinazione pensato per il sollevamento dei gonfiabili a bordo. Il braccio basculante accompagna il tender durante le fasi di recupero e di stivaggio, facilitando il passaggio dall&apos;acqua alla coperta. È </Description>
@@ -87568,6 +87782,23 @@
     <ParentID>tubo-carburante-diesel-e-benzina-thor-rotolo-intero</ParentID>
   </Offer>
   <Offer>
+    <Name>Tubo Carburante Diesel e Benzina Thor – Rotolo Intero - Ø 40 mm – rotolo 10 m</Name>
+    <Brand>Thor</Brand>
+    <Description>Il tubo carburante Thor è in gomma per diesel e benzina verde, indicato per imbarcazioni da diporto fino a 24 metri. Ha una temperatura d&apos;impiego da -30°C a +100°C, pressione di esercizio 10 bar e tolleranza dimensionale di ± 3%. È conforme alle normative</Description>
+    <OriginalPrice>474.71</OriginalPrice>
+    <Price>340.90</Price>
+    <Code>2222379</Code>
+    <Link>https://www.onautica.com/products/tubo-carburante-diesel-e-benzina-thor-rotolo-intero?variant=53757779935579&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2222371-0.webp?v=1786474179</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052461675169</EanCode>
+    <Weight>3.20</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-carburante-diesel-e-benzina-thor-rotolo-intero</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tubo Carburante Diesel e Benzina Thor – Rotolo Intero - Ø 25 mm – rotolo 20 m</Name>
     <Brand>Thor</Brand>
     <Description>Il tubo carburante Thor è in gomma per diesel e benzina verde, indicato per imbarcazioni da diporto fino a 24 metri. Ha una temperatura d&apos;impiego da -30°C a +100°C, pressione di esercizio 10 bar e tolleranza dimensionale di ± 3%. È conforme alle normative</Description>
@@ -87964,6 +88195,23 @@
     <ParentID>tubo-scarico-gas-motore-spiralato-thor-rotolo-intero</ParentID>
   </Offer>
   <Offer>
+    <Name>Tubo Scarico Gas Motore Spiralato Thor – Rotolo Intero - Ø 35 mm – rotolo 10 m</Name>
+    <Brand>Thor</Brand>
+    <Description>Il tubo scarico gas motore Thor è realizzato in gomma spiralata ondulata SCAMO/SP, pensato per lo scarico dei gas combusti e per il raffreddamento degli scambiatori di calore dei motori marini. È omologato 0474 R.I.Na. e Lloyd&apos;s Register, con temperatura </Description>
+    <OriginalPrice>399.74</OriginalPrice>
+    <Price>290.90</Price>
+    <Code>2222581</Code>
+    <Link>https://www.onautica.com/products/tubo-scarico-gas-motore-spiralato-thor-rotolo-intero?variant=53757778755931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2222580-0.webp?v=1786474149</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052461675213</EanCode>
+    <Weight>8.60</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-scarico-gas-motore-spiralato-thor-rotolo-intero</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tubo Scarico Gas Motore Spiralato Thor – Rotolo Intero - Ø 60 mm – rotolo 10 m</Name>
     <Brand>Thor</Brand>
     <Description>Il tubo scarico gas motore Thor è realizzato in gomma spiralata ondulata SCAMO/SP, pensato per lo scarico dei gas combusti e per il raffreddamento degli scambiatori di calore dei motori marini. È omologato 0474 R.I.Na. e Lloyd&apos;s Register, con temperatura </Description>
@@ -87977,6 +88225,40 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>8052461675251</EanCode>
     <Weight>14.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-scarico-gas-motore-spiralato-thor-rotolo-intero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Scarico Gas Motore Spiralato Thor – Rotolo Intero - Ø 76 mm – rotolo 10 m</Name>
+    <Brand>Thor</Brand>
+    <Description>Il tubo scarico gas motore Thor è realizzato in gomma spiralata ondulata SCAMO/SP, pensato per lo scarico dei gas combusti e per il raffreddamento degli scambiatori di calore dei motori marini. È omologato 0474 R.I.Na. e Lloyd&apos;s Register, con temperatura </Description>
+    <OriginalPrice>511.86</OriginalPrice>
+    <Price>350.90</Price>
+    <Code>2222587</Code>
+    <Link>https://www.onautica.com/products/tubo-scarico-gas-motore-spiralato-thor-rotolo-intero?variant=53757778821467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2222580-0.webp?v=1786474149</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052461675275</EanCode>
+    <Weight>21.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-scarico-gas-motore-spiralato-thor-rotolo-intero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Scarico Gas Motore Spiralato Thor – Rotolo Intero - Ø 80 mm – rotolo 10 m</Name>
+    <Brand>Thor</Brand>
+    <Description>Il tubo scarico gas motore Thor è realizzato in gomma spiralata ondulata SCAMO/SP, pensato per lo scarico dei gas combusti e per il raffreddamento degli scambiatori di calore dei motori marini. È omologato 0474 R.I.Na. e Lloyd&apos;s Register, con temperatura </Description>
+    <OriginalPrice>544.47</OriginalPrice>
+    <Price>371.90</Price>
+    <Code>2222588</Code>
+    <Link>https://www.onautica.com/products/tubo-scarico-gas-motore-spiralato-thor-rotolo-intero?variant=53757778854235&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2222580-0.webp?v=1786474149</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052461675282</EanCode>
+    <Weight>22.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tubo-scarico-gas-motore-spiralato-thor-rotolo-intero</ParentID>
   </Offer>
@@ -88336,22 +88618,6 @@
     <Weight>51.99</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tubo-spirale-pvc-alimentare-rotolo-30-m</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Tubo Trasparente in PVC con Spirale in Acciaio Hoses Technology — Rotolo 30 m - Ø 28 mm — 30 m</Name>
-    <Brand>Hoses Technology</Brand>
-    <Description>Il tubo Hoses Technology è realizzato in PVC trasparente armato con spirale in acciaio, pensato per la mandata e l&apos;aspirazione dell&apos;acqua a bordo. La spirale metallica mantiene la sezione stabile anche in aspirazione, evitando che il tubo si schiacci o co</Description>
-    <OriginalPrice>213.00</OriginalPrice>
-    <Price>169.70</Price>
-    <Code>140002830</Code>
-    <Link>https://www.onautica.com/products/tubo-trasparente-in-pvc-con-spirale-in-acciaio-hoses-technology-rotolo-30-m?variant=53977640534363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Idraulica;Tubi e Fascette</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/140001030.webp?v=1788588372</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>17.90</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>tubo-trasparente-in-pvc-con-spirale-in-acciaio-hoses-technology-rotolo-30-m</ParentID>
   </Offer>
   <Offer>
     <Name>VHF Cobra BlueBond 150E Portatile Galleggiante IPx7 - BlueBond 150E</Name>
@@ -92769,24 +93035,6 @@
     <ParentID>wc-tecma-elegance-2g-serie-flexi-con-pannello-all-in-one-sft</ParentID>
   </Offer>
   <Offer>
-    <Name>WC Tecma Elegance 2G Serie Flexi con Pannello All-in-One SFT - Poliestere soft closing</Name>
-    <Brand>Tecma</Brand>
-    <Description>Il WC Tecma Elegance 2G Serie Flexi è un toilet elettrico per barca con pannello di controllo All-in-One SFT integrato, che gestisce lo scarico tramite comandi touch senza bisogno di interruttori separati. È pensato per l&apos;installazione fissa a bordo, con </Description>
-    <OriginalPrice>241.00</OriginalPrice>
-    <Price>205.50</Price>
-    <Code>1326170</Code>
-    <Link>https://www.onautica.com/products/wc-tecma-elegance-2g-serie-flexi-con-pannello-all-in-one-sft?variant=53861206393179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326170_1.webp?v=1787384968</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>3.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326040_cf758a9a-9058-42ac-9822-cf721df47620.webp?v=1787461624</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326030.webp?v=1787384924</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-tecma-elegance-2g-serie-flexi-con-pannello-all-in-one-sft</ParentID>
-  </Offer>
-  <Offer>
     <Name>WC Tecma Elegance 2G Serie Flexi con Pannello All-in-One SFT - Standard 12V</Name>
     <Brand>Tecma</Brand>
     <Description>Il WC Tecma Elegance 2G Serie Flexi è un toilet elettrico per barca con pannello di controllo All-in-One SFT integrato, che gestisce lo scarico tramite comandi touch senza bisogno di interruttori separati. È pensato per l&apos;installazione fissa a bordo, con </Description>
@@ -95013,7 +95261,7 @@
   <Offer>
     <Name>Poltroncina Ocean 52 Flip-Up in Polietilene - Grigio/Nero</Name>
     <Brand>Ocean</Brand>
-    <Description>La poltroncina Ocean 52 Flip-Up è un sedile imbottito con scocca in Polietilene, rivestito in Vinile marino resistente all&apos;uso in ambiente nautico. La seduta può essere sollevata per favorire il pilotaggio in piedi, offrendo un appoggio lombare di support</Description>
+    <Description>La poltroncina Ocean 52 Flip-Up è un sedile imbottito con scocca in Polietilene, rivestito in Vinile marino resistente all&apos;uso in ambiente nautico. La seduta pu�� essere sollevata per favorire il pilotaggio in piedi, offrendo un appoggio lombare di suppor</Description>
     <OriginalPrice>423.50</OriginalPrice>
     <Price>349.70</Price>
     <Code>0857007</Code>
