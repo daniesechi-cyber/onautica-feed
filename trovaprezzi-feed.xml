@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-24T18:12:03.544Z -->
-<!-- Offerte: 5790 -->
+<!-- Generato: 2026-09-25T06:33:07.076Z -->
+<!-- Offerte: 5787 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -16684,7 +16684,7 @@
     <ParentID>cima-con-catena-zincata-din766-per-salpa-ancora-bobine-da-40-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima da Ormeggio Ritorta Bianca Alta Tenacità PLAM – Bobina - Ø 8 mm – bobina 200 m (rottura 1.020 kg)</Name>
+    <Name>Cima da Ormeggio Ritorta Bianca Alta Tenacità PLAM – Bobina - Ø 8 mm ��� bobina 200 m (rottura 1.020 kg)</Name>
     <Brand>PLAM</Brand>
     <Description>Cima da ormeggio a 3 legnoli in fibra di poliestere Alta Tenacità con lavorazione gherlino, nel classico colore bianco: affondante, resistente ai raggi UV, con ottima resistenza alla rottura e allungamento ridottissimo. Per ancoraggio nautico, ormeggio pe</Description>
     <OriginalPrice>147.57</OriginalPrice>
@@ -50070,43 +50070,6 @@
     <Weight>2.69</Weight>
     <Condition>nuovo</Condition>
     <ParentID>maxi-pompa-di-sentina-a-immersione-rule-3700-e-4000</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannelli Solari Flessibili Osculati – Celle Aerospaziali Mono 23% - 45Wp (604x536 mm.)</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Pannelli Solari Flessibili Osculati sono il punto di riferimento per l&apos;energia solare in ambito nautico e outdoor. Fabbricati con celle solari aerospaziali ad alta performance, questi moduli di ultima generazione combinano un&apos;altissima efficienza a una </Description>
-    <OriginalPrice>111.37</OriginalPrice>
-    <Price>77.00</Price>
-    <Code>12.034.22</Code>
-    <Link>https://www.onautica.com/products/pannelli-solari-flessibili-osculati-celle-aerospaziali?variant=52525919764827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannelli-solari-flessibili-osculati-mppt100W1231x536x2_5mm.png?v=1766479548</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <EanCode>8033137228544</EanCode>
-    <Weight>2.14</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannelli-solari-flessibili-osculati-mppt90W977x546x2_5mm.png?v=1766479547</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannelli-solari-flessibili-osculati-mppt75W739x731x2_5mm.png?v=1766479548</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pannelli-solari-flessibili-osculati-celle-aerospaziali</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pannelli Solari Flessibili Osculati – Celle Aerospaziali Mono 23% - 45Wp (1120x282 mm.)</Name>
-    <Brand>Osculati</Brand>
-    <Description>I Pannelli Solari Flessibili Osculati sono il punto di riferimento per l&apos;energia solare in ambito nautico e outdoor. Fabbricati con celle solari aerospaziali ad alta performance, questi moduli di ultima generazione combinano un&apos;altissima efficienza a una </Description>
-    <OriginalPrice>111.37</OriginalPrice>
-    <Price>77.00</Price>
-    <Code>12.034.23</Code>
-    <Link>https://www.onautica.com/products/pannelli-solari-flessibili-osculati-celle-aerospaziali?variant=52525919797595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannelli-solari-flessibili-osculati-mppt100W1231x536x2_5mm.png?v=1766479548</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>2.14</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannelli-solari-flessibili-osculati-mppt90W977x546x2_5mm.png?v=1766479547</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/pannelli-solari-flessibili-osculati-mppt75W739x731x2_5mm.png?v=1766479548</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pannelli-solari-flessibili-osculati-celle-aerospaziali</ParentID>
   </Offer>
   <Offer>
     <Name>Pannelli Solari Flessibili Osculati – Celle Aerospaziali Mono 23% - 75Wp (739x731 mm.)</Name>
@@ -84020,21 +83983,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-yamaha-ventilato-navigazione-grigio.webp?v=1778685430</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>0.89</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>coprimotore-sartoriale-ventilato-oceansouth-per-motori-yamaha-navigazione</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Coprimotore Sartoriale Ventilato Oceansouth per Motori Yamaha – Navigazione - 4 cil. 4T 996cc F50/60/70 - (2010&gt;) - Piede 20&quot; - Bianco</Name>
-    <Brand>Oceansouth</Brand>
-    <Description>Coprimotore Sartoriale Ventilato Oceansouth per Motori Yamaha – Da Usare in Navigazione Coprimotore ventilato di qualità premium per motori fuoribordo Yamaha , dalla potente serie XTO V8 450 HP fino al piccolo F2. Realizzato da Oceansouth (Australia), è l</Description>
-    <Price>59.71</Price>
-    <Code>46.541.25</Code>
-    <Link>https://www.onautica.com/products/coprimotore-sartoriale-ventilato-oceansouth-per-motori-yamaha-navigazione?variant=52976114860379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-yamaha-ventilato-navigazione-grigio.webp?v=1778685430</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.67</Weight>
     <Condition>nuovo</Condition>
     <ParentID>coprimotore-sartoriale-ventilato-oceansouth-per-motori-yamaha-navigazione</ParentID>
   </Offer>
