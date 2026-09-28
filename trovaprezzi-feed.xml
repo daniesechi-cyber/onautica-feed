@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-28T10:31:26.012Z -->
-<!-- Offerte: 5799 -->
+<!-- Generato: 2026-09-28T14:32:08.748Z -->
+<!-- Offerte: 5794 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -1528,24 +1528,6 @@
     <ParentID>ricambi-e-accessori-per-toilet-johnson-spx</ParentID>
   </Offer>
   <Offer>
-    <Name>Ricambi e Accessori per Toilet Johnson SPX - Kit macerarore Silent Electric 12V</Name>
-    <Brand>SPX Flow</Brand>
-    <Description>Prima di ordinare verifica sempre il modello di toilet nautico installato a bordo (Manuale, Silent Electric, Compact o Comfort): i componenti di questa gamma SPX Johnson non sono intercambiabili tra le diverse versioni. Questa è una raccolta di ricambi e </Description>
-    <OriginalPrice>357.00</OriginalPrice>
-    <Price>274.20</Price>
-    <Code>1320364</Code>
-    <Link>https://www.onautica.com/products/ricambi-e-accessori-per-toilet-johnson-spx?variant=53902550368603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320321.webp?v=1787901791</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>6.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320321_bff46e99-7e9f-4828-8be8-313c51745fd6.webp?v=1787901793</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320321_1.webp?v=1787901795</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ricambi-e-accessori-per-toilet-johnson-spx</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ricambi e Accessori per Toilet Johnson SPX - Pompa manuale completa</Name>
     <Brand>SPX Flow</Brand>
     <Description>Prima di ordinare verifica sempre il modello di toilet nautico installato a bordo (Manuale, Silent Electric, Compact o Comfort): i componenti di questa gamma SPX Johnson non sono intercambiabili tra le diverse versioni. Questa è una raccolta di ricambi e </Description>
@@ -2113,24 +2095,6 @@
     <Weight>0.38</Weight>
     <Condition>nuovo</Condition>
     <ParentID>kit-ricarica-salvagente-60g-valvola-hammar</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Spina Marinco per Collegamento a Banchina 220V - Spina 63A</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La spina Marinco è un connettore elettrico stagno pensato per il collegamento dell&apos;impianto di bordo alla rete elettrica di banchina o a un generatore esterno. La tenuta stagna protegge il contatto elettrico dall&apos;umidità e dagli spruzzi, garantendo un col</Description>
-    <OriginalPrice>183.00</OriginalPrice>
-    <Price>182.90</Price>
-    <Code>2106063</Code>
-    <Link>https://www.onautica.com/products/spina-marinco-per-collegamento-a-banchina-220v?variant=53902665515355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Accessori Ormeggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106063_1.webp?v=1787902753</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106034_1.webp?v=1787902735</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2106035_1.webp?v=1787902737</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>spina-marinco-per-collegamento-a-banchina-220v</ParentID>
   </Offer>
   <Offer>
     <Name>Staffa Rullo Laterale Rialzato a 4 Rulli inclusi per Carrelli</Name>
@@ -3651,7 +3615,7 @@
     <ParentID>ancora-fortress-in-lega-di-alluminio-e-magnesio</ParentID>
   </Offer>
   <Offer>
-    <Name>Ancora Fortress in Lega di Alluminio e Magnesio - FX-85 (21,3 kg �� barche 18-21 m)</Name>
+    <Name>Ancora Fortress in Lega di Alluminio e Magnesio - FX-85 (21,3 kg – barche 18-21 m)</Name>
     <Brand>Fortress</Brand>
     <Description>L&apos;ancora Fortress in lega di alluminio e magnesio è l&apos;ancora leggera più rinomata, dalle prestazioni unanimemente riconosciute. Completamente smontabile, è facilissima da maneggiare per tutto l&apos;equipaggio: a parità di misura pesa una frazione di un&apos;ancora</Description>
     <OriginalPrice>3032.75</OriginalPrice>
@@ -4807,6 +4771,24 @@
     <ParentID>ancora-toro-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
+    <Name>Ancora Toro in Acciaio Inox 316 - 25 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;ancora Toro in Acciaio Inox 316 è pensata per fondali morbidi come sabbia, fango e melma. La distribuzione del peso sulla punta le permette di trovare da subito l&apos;angolo di penetrazione corretto, garantendo una tenuta stabile sul fondo. È disponibile in</Description>
+    <OriginalPrice>1161.00</OriginalPrice>
+    <Price>920.70</Price>
+    <Code>0108825</Code>
+    <Link>https://www.onautica.com/products/ancora-toro-in-acciaio-inox-316?variant=53757265248603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_6.webp?v=1786468694</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_5.webp?v=1786468696</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_1.webp?v=1786468698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-toro-in-acciaio-inox-316</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ancora Toro in Acciaio Inox 316 - 32 Kg.</Name>
     <Brand>Motomarine</Brand>
     <Description>L&apos;ancora Toro in Acciaio Inox 316 è pensata per fondali morbidi come sabbia, fango e melma. La distribuzione del peso sulla punta le permette di trovare da subito l&apos;angolo di penetrazione corretto, garantendo una tenuta stabile sul fondo. È disponibile in</Description>
@@ -4819,6 +4801,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_6.webp?v=1786468694</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>32.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_5.webp?v=1786468696</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_1.webp?v=1786468698</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-toro-in-acciaio-inox-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Toro in Acciaio Inox 316 - 40 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;ancora Toro in Acciaio Inox 316 è pensata per fondali morbidi come sabbia, fango e melma. La distribuzione del peso sulla punta le permette di trovare da subito l&apos;angolo di penetrazione corretto, garantendo una tenuta stabile sul fondo. È disponibile in</Description>
+    <OriginalPrice>1791.00</OriginalPrice>
+    <Price>1420.30</Price>
+    <Code>0108840</Code>
+    <Link>https://www.onautica.com/products/ancora-toro-in-acciaio-inox-316?variant=53757265314139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_6.webp?v=1786468694</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>40.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_5.webp?v=1786468696</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108804_1.webp?v=1786468698</Image3>
     <Condition>nuovo</Condition>
@@ -4889,6 +4889,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_4.webp?v=1786468702</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>6.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704.webp?v=1786468704</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_00637f40-9945-4f13-934a-844a47b884a6.webp?v=1786747399</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-toro-in-acciaio-zincato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Toro in Acciaio Zincato - 10 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;ancora Toro è realizzata in acciaio zincato a caldo ed è pensata per fondali morbidi come sabbia, fango e melma. Il peso è distribuito verso la punta, così l&apos;ancora trova subito l&apos;angolo di penetrazione corretto e garantisce una tenuta stabile una volta</Description>
+    <OriginalPrice>130.50</OriginalPrice>
+    <Price>124.98</Price>
+    <Code>0108710</Code>
+    <Link>https://www.onautica.com/products/ancora-toro-in-acciaio-zincato?variant=53757265576283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_4.webp?v=1786468702</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>10.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704.webp?v=1786468704</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0108704_00637f40-9945-4f13-934a-844a47b884a6.webp?v=1786747399</Image3>
     <Condition>nuovo</Condition>
@@ -13196,24 +13214,6 @@
     <ParentID>caricabatterie-victron-skylla-tg-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Acciaio Inox AISI 316 Ø 10 mm DIN766 - Osculati - Bobina 50 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Catena Calibrata in Acciaio Inox AISI 316 — Ø 10 mm DIN766 — Osculati Catena calibrata in acciaio inox AISI 316 diametro Ø 10 mm , norma DIN766 . Idonea al passaggio sul barbotin del salpa-ancore grazie alla calibratura di precisione: la maglia ha pitch P</Description>
-    <OriginalPrice>2034.00</OriginalPrice>
-    <Price>1516.11</Price>
-    <Code>01.375.11-050</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-acciaio-inox-aisi-316-o-10-mm-din766-osculati?variant=53353986064731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-acciaio-inox-aisi-316-osculati_8b1fc546-1648-4381-8e62-be6d9ae42ca6.webp?v=1781086949</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>122.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-aisi-316-maglia-dettaglio_a8799f74-9789-4648-8255-68b1972e36a5.webp?v=1781086952</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-aisi-316-disegno-tecnico-misure-p-b_b1283d5f-e073-4da4-bf45-3ed990057889.webp?v=1781086954</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-acciaio-inox-aisi-316-o-10-mm-din766-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catena Calibrata Acciaio Inox AISI 316 Ø 10 mm DIN766 - Osculati - Bobina 100 m</Name>
     <Brand>Osculati</Brand>
     <Description>Catena Calibrata in Acciaio Inox AISI 316 — Ø 10 mm DIN766 — Osculati Catena calibrata in acciaio inox AISI 316 diametro Ø 10 mm , norma DIN766 . Idonea al passaggio sul barbotin del salpa-ancore grazie alla calibratura di precisione: la maglia ha pitch P</Description>
@@ -15035,24 +15035,6 @@
     <ParentID>cavo-batteria-marino-ce-1x50-mm-bobina-intera-da-25-o-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Cavo Batteria Marino CE 1x50 mm² — Bobina Intera da 25 o 50 m - 50 m — Rosso</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il cavo batteria marino CE 1x50 mm² è pensato per i collegamenti di potenza a bordo, dove servono sezioni generose per correnti elevate: banchi batterie, verricelli, avviamenti di motori di grossa cilindrata. L&apos;anima è in rame rosso stagnato classe 5 seco</Description>
-    <OriginalPrice>1325.00</OriginalPrice>
-    <Price>942.80</Price>
-    <Code>202003650</Code>
-    <Link>https://www.onautica.com/products/cavo-batteria-marino-ce-1x50-mm-bobina-intera-da-25-o-50-m?variant=53968575889755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202003650_2_3bc432de-e958-48f9-8fc2-eab6d60b25a1.webp?v=1788502362</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>29.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202003525_2_cd9786d7-62d0-40de-8569-bcb7e6ac5313.webp?v=1788502347</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202003525_1.webp?v=1788502350</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-batteria-marino-ce-1x50-mm-bobina-intera-da-25-o-50-m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cavo Batteria Marino CE 1x70 mm² - Bobina 25 m - Nero - Bobina 25 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Il cavo batteria marino è un cablaggio elettrico certificato CE pensato per collegamenti a corrente elevata a bordo, come il collegamento tra banco batterie, motore e inverter. Ha anima in rame rosso stagnato conforme a IEC60228 classe 5, isolata in PVC, </Description>
@@ -15912,23 +15894,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Weight>5.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_3_5393362a-b135-42b5-8bb1-5cd17b715022.webp?v=1788502505</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_5_82fe1192-6f4f-447e-a8c2-6587d2f86a91.webp?v=1788502508</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-shore-power-3x2-5-mm-16a-a-bobina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cavo Shore Power 3x2,5 mm² 16A a Bobina - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il cavo Shore Power 3x2,5 mm² collega la barca alla presa di banchina per l&apos;alimentazione elettrica a terra. Il conduttore è in rame rosso stagnato, a norma IEC60228 classe 5, isolato in PVC e protetto da una guaina in composto Nitril-Gomma PVC resistente</Description>
-    <Price>195.40</Price>
-    <Code>210603650</Code>
-    <Link>https://www.onautica.com/products/cavo-shore-power-3x2-5-mm-16a-a-bobina?variant=53968577036635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_3_5393362a-b135-42b5-8bb1-5cd17b715022.webp?v=1788502505</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>10.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_4_ea962af9-e601-4870-82e9-310216c9fcc1.webp?v=1788502503</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_5_82fe1192-6f4f-447e-a8c2-6587d2f86a91.webp?v=1788502508</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cavo-shore-power-3x2-5-mm-16a-a-bobina</ParentID>
@@ -19894,6 +19859,22 @@
     <Stock>disponibile</Stock>
     <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105730100_2.webp?v=1786544269</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_1.webp?v=1786544224</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_2.webp?v=1786544227</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cima-piatta-per-parabordi-in-poliestere-motomarine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cima Piatta per Parabordi in Poliestere Motomarine - Ø 12 mm - Nero</Name>
+    <Brand>Motomarine</Brand>
+    <Description>La cima piatta per parabordi è pensata per il fissaggio dei parabordi in barca. Il poliestere la rende robusta ma leggera, e resistente ai raggi UV, così mantiene le sue caratteristiche anche dopo un&apos;esposizione prolungata al sole. È venduta in bobina da </Description>
+    <Price>109.56</Price>
+    <Code>3105722100</Code>
+    <Link>https://www.onautica.com/products/cima-piatta-per-parabordi-in-poliestere-motomarine?variant=53767176978779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105722100_2.webp?v=1786544255</Image>
     <ShippingCost>5.90</ShippingCost>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_1.webp?v=1786544224</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3105708100_2.webp?v=1786544227</Image3>
@@ -26832,23 +26813,6 @@
     <ParentID>supporto-portacanne-doppio-snodo-con-morsetto-foresti-e-suardi-o-40-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Supporto Portacanne Foresti e Suardi con Morsetto in Ottone Cromato - Ø 40 mm</Name>
-    <Brand>Foresti e Suardi</Brand>
-    <Description>Il supporto portacanne con morsetto Foresti e Suardi permette di fissare la canna da pesca a bordo in modo rapido, senza bisogno di forare la barca. Il morsetto stringe su bordi, mancorrenti o strutture tubolari, mentre il tubo in ottone cromato accoglie </Description>
-    <Price>116.90</Price>
-    <Code>0800050</Code>
-    <Link>https://www.onautica.com/products/supporto-portacanne-foresti-e-suardi-con-morsetto-in-ottone-cromato?variant=53903080489307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0800050.webp?v=1787903631</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0800131_1.webp?v=1787903629</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0800050_1.webp?v=1787903633</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>supporto-portacanne-foresti-e-suardi-con-morsetto-in-ottone-cromato</ParentID>
-  </Offer>
-  <Offer>
     <Name>Tubo Aria Corrugato Fitt Lightflex per Ventilazione – Bobine da 30/50 m - Ø 25 mm — bobina 50 m</Name>
     <Brand>Fitt</Brand>
     <Description>Il tubo aria corrugato Fitt Lightflex è un tubo in PVC con spirale di rinforzo in polimero rigido anti-urto. L&apos;assenza della spirale metallica lo rende leggero e facile da tagliare a misura con un semplice cutter. È flessibile e resistente, adatto per imp</Description>
@@ -29057,6 +29021,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Supporto_portacanne_4_posti_PLS_2.png?v=1773341829</Image2>
     <Condition>nuovo</Condition>
     <ParentID>offerta-supporto-portacanne-inox-da-riposo-3-posti</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Supporto Portacanne Foresti e Suardi con Morsetto in Ottone Cromato - Ø 40 mm</Name>
+    <Brand>Foresti e Suardi</Brand>
+    <Description>Il supporto portacanne con morsetto Foresti e Suardi permette di fissare la canna da pesca a bordo in modo rapido, senza bisogno di forare la barca. Il morsetto stringe su bordi, mancorrenti o strutture tubolari, mentre il tubo in ottone cromato accoglie </Description>
+    <Price>116.90</Price>
+    <Code>0800050</Code>
+    <Link>https://www.onautica.com/products/supporto-portacanne-foresti-e-suardi-con-morsetto-in-ottone-cromato?variant=53903080489307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0800050.webp?v=1787903631</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0800131_1.webp?v=1787903629</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0800050_1.webp?v=1787903633</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-portacanne-foresti-e-suardi-con-morsetto-in-ottone-cromato</ParentID>
   </Offer>
   <Offer>
     <Name>Supporto Portacanne Orientabile Cromato a Click Motomarine - Base 80x50 mm - H 300 mm</Name>
@@ -32481,24 +32462,6 @@
     <ParentID>frigorifero-vitrifrigo-serie-c-compressore-interno</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero Vitrifrigo Serie C Compressore Interno - 150L Grigio</Name>
-    <Brand>Vitrifrigo</Brand>
-    <Description>Il frigorifero Vitrifrigo a compressore interno è pensato per l&apos;installazione a bordo di imbarcazioni, con il gruppo refrigerante integrato nel mobile e non separato come nei modelli a compressore remoto. Funziona a 12/24V ed è adatto sia all&apos;uso come fri</Description>
-    <OriginalPrice>1861.00</OriginalPrice>
-    <Price>1562.30</Price>
-    <Code>1545150</Code>
-    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-serie-c-compressore-interno?variant=53865265037659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1545150_1.webp?v=1787458894</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>60.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1546139_12.webp?v=1787458726</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1546139_1.webp?v=1787458720</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>frigorifero-vitrifrigo-serie-c-compressore-interno</ParentID>
-  </Offer>
-  <Offer>
     <Name>Frigorifero Vitrifrigo Steelock Inox con Apertura a Porta - C42LX – 42 L, motore esterno remotabile</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>La gamma Vitrifrigo in acciaio inox (serie OCX2): frigoriferi con porta reversibile e maniglia Steelock con funzione &quot;vent position&quot; integrata — porta socchiusa nei periodi di non utilizzo, per evitare muffe e odori. Completi di luce led e termostato mecc</Description>
@@ -34146,24 +34109,6 @@
     <Weight>3.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123124.webp?v=1787902865</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123124_5.webp?v=1787902867</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>faro-marinco-beamer-600-alogeno-12-24v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Faro Marinco Beamer 600 Alogeno 12/24V - Nero</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il faro Marinco Beamer 600 è un proiettore alogeno orientabile per uso nautico, con potenza 210.000 candele e portata luminosa fino a 600 metri. Funziona a 12/24V e può essere gestito tramite pannello di comando o telecomando dedicato. Il corpo del faro è</Description>
-    <OriginalPrice>478.50</OriginalPrice>
-    <Price>366.90</Price>
-    <Code>2123126</Code>
-    <Link>https://www.onautica.com/products/faro-marinco-beamer-600-alogeno-12-24v?variant=53902730297691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123126_5.webp?v=1787902871</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>3.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123124_1.webp?v=1787902863</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123124.webp?v=1787902865</Image3>
     <Condition>nuovo</Condition>
     <ParentID>faro-marinco-beamer-600-alogeno-12-24v</ParentID>
   </Offer>
@@ -38392,24 +38337,6 @@
     <ParentID>fanali-di-via-dhr-160x222mm-per-imbarcazioni-fino-a-50m</ParentID>
   </Offer>
   <Offer>
-    <Name>Fanali di Via DHR 160x222mm per Imbarcazioni fino a 50m - Via 135° Giallo Rimorchio</Name>
-    <Brand>DHR</Brand>
-    <Description>I fanali di via DHR sono dispositivi di segnalazione luminosa per la navigazione notturna, pensati per imbarcazioni fino a 50 metri di lunghezza. Hanno un corpo di dimensioni 160x222mm e coprono le diverse posizioni previste a bordo: laterali, di poppa, d</Description>
-    <OriginalPrice>164.50</OriginalPrice>
-    <Price>160.40</Price>
-    <Code>2112507</Code>
-    <Link>https://www.onautica.com/products/fanali-di-via-dhr-160x222mm-per-imbarcazioni-fino-a-50m?variant=53865345286491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Luci di Navigazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112507_1.webp?v=1787460128</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2112500_10.webp?v=1787460078</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2163262_1.webp?v=1787460072</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>fanali-di-via-dhr-160x222mm-per-imbarcazioni-fino-a-50m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Faro a led inox da coperta 6x1W - 680 lumen luce diffusa</Name>
     <Brand>Motomarine</Brand>
     <Description>Faro da coperta a LED ideale per illuminare il pozzetto e le zone di lavoro a bordo, con luce diffusa da 680 lumen garantita da 6 LED da 1W . La struttura è realizzata in lega di alluminio laccato resistente alla corrosione, mentre la staffa e la base sno</Description>
@@ -38455,6 +38382,23 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>faro-orientabile-cabina-ocean-halogen-12v</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro DHR 150 LED Cabin Control</Name>
+    <Brand>DHR</Brand>
+    <Description>Il faro DHR 150 LED Cabin Control è un proiettore a LED per l&apos;illuminazione a lunga distanza da installare a bordo, con orientamento gestito tramite comando a distanza dalla cabina di pilotaggio. Funziona con alimentazione compresa tra 10 e 32V, adattando</Description>
+    <OriginalPrice>777.00</OriginalPrice>
+    <Price>660.90</Price>
+    <Code>2123345</Code>
+    <Link>https://www.onautica.com/products/faro-dhr-150-led-cabin-control?variant=53843796033883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_1.webp?v=1787242180</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345.webp?v=1787242187</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123345_3.webp?v=1787242185</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-dhr-150-led-cabin-control</ParentID>
   </Offer>
   <Offer>
     <Name>Faro DHR 180 LED Deck Control - Bulbo LED di ricambio</Name>
@@ -38621,6 +38565,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123120_5297f152-5146-4bdc-8b5e-8dc384a3df76.webp?v=1787242135</Image2>
     <Condition>nuovo</Condition>
     <ParentID>faro-guest-wireless-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Faro LED DHR 180 Cabin Control - Faro completo 20W</Name>
+    <Brand>DHR</Brand>
+    <Description>Il faro LED DHR 180 Cabin Control è un proiettore di ricerca a LED pensato per l&apos;illuminazione a lunga distanza durante la navigazione notturna. Ha una potenza di 20W e una portata luminosa fino a 600 metri, con alimentazione 10-32V compatibile sia con im</Description>
+    <OriginalPrice>1262.00</OriginalPrice>
+    <Price>1067.00</Price>
+    <Code>2123348</Code>
+    <Link>https://www.onautica.com/products/faro-led-dhr-180-cabin-control?variant=53843797279067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Illuminazione Esterna</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123348_1.webp?v=1787242194</Image>
+    <ShippingCost>0</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123348.webp?v=1787242201</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2123348_3.webp?v=1787242199</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>faro-led-dhr-180-cabin-control</ParentID>
   </Offer>
   <Offer>
     <Name>Faro LED Orientabile Radiocomandato Motomarine - Base fissa con radiocomando</Name>
@@ -40826,25 +40787,6 @@
     <ParentID>passerella-motomarine-in-carbonio-composito</ParentID>
   </Offer>
   <Offer>
-    <Name>Passerella pieghevole con carabottino Osculati</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella pieghevole con carabottino Osculati La passerella pieghevole con carabottino Osculati unisce il pregio del vero teak alla praticità della piega: è in alluminio anodizzato, pieghevole in due, con piano in carabottino di teak originale del Siam. </Description>
-    <OriginalPrice>1279.00</OriginalPrice>
-    <Price>1165.50</Price>
-    <Code>42.667.20</Code>
-    <Link>https://www.onautica.com/products/passerella-pieghevole-con-carabottino-osculati?variant=53626455753051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20_New2022_jpg.webp?v=1784570039</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137013959</EanCode>
-    <Weight>16.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20A_New2022_jpg.webp?v=1784570031</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20B_New2022_jpg.webp?v=1784570034</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-pieghevole-con-carabottino-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Passerella pieghevole in carbonio Carbonbridge Osculati</Name>
     <Brand>Osculati</Brand>
     <Description>Passerella pieghevole in carbonio Carbonbridge Osculati La passerella Carbonbridge Osculati è una monoscocca high-tech in fibra di carbonio preimpregnata con resine epossidiche, con cerniere in alluminio ad alta resistenza fresate dal pieno e anodizzate n</Description>
@@ -41442,21 +41384,6 @@
     <ParentID>scambiatori-di-calore-bowman-bowman</ParentID>
   </Offer>
   <Offer>
-    <Name>Sifone di Scarico Goose 180° MTM - Sifone di Scarico Goose 180</Name>
-    <Brand>MTM</Brand>
-    <Description>Sifone di Scarico Goose 180° MTM Sifone di Scarico Goose 180° MTM per la linea di scarico dei motori marini. Disponibile in 1 versione. A chi è rivolto A chi deve realizzare il collo d&apos;oca (sifone) sulla linea di scarico per impedire il ritorno d&apos;acqua in</Description>
-    <OriginalPrice>98.20</OriginalPrice>
-    <Price>84.64</Price>
-    <Code>5003452</Code>
-    <Link>https://www.onautica.com/products/sifone-di-scarico-goose-180-mtm?variant=53617255186779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5003452.webp?v=1784374237</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>sifone-di-scarico-goose-180-mtm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sifone di Scarico Goose 45° MTM - Sifone di Scarico Goose 45</Name>
     <Brand>MTM</Brand>
     <Description>Sifone di Scarico Goose 45° MTM Sifone di Scarico Goose 45° MTM per la linea di scarico dei motori marini. Disponibile in 1 versione. A chi è rivolto A chi deve realizzare il collo d&apos;oca (sifone) sulla linea di scarico per impedire il ritorno d&apos;acqua in m</Description>
@@ -41817,6 +41744,22 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2144080_2.webp?v=1787460334</Image3>
     <Condition>nuovo</Condition>
     <ParentID>spot-led-jacob-quick-ip40-in-alluminio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Supporto Antivibrante DNV Large per Motori Diesel - 45SH - 350 Kg</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il supporto antivibrante DNV Large riduce le vibrazioni trasmesse dai motori Diesel di grande potenza allo scafo, migliorando comfort e silenziosità di navigazione. È certificato Det Norske Veritas (DNV) e utilizza un perno M20 x 130 mm per il fissaggio. </Description>
+    <Price>186.20</Price>
+    <Code>4810044</Code>
+    <Link>https://www.onautica.com/products/supporto-antivibrante-dnv-large-per-motori-diesel?variant=53836656443739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4810044.webp?v=1787173124</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>350.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4810044_72524f75-d447-4f1e-91dc-045d0ee08c9e.webp?v=1787173126</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-antivibrante-dnv-large-per-motori-diesel</ParentID>
   </Offer>
   <Offer>
     <Name>Supporto Antivibrante DNV Large per Motori Diesel - 55SH - 525 Kg</Name>
@@ -42680,7 +42623,7 @@
     <ParentID>barometro-foresti-e-suardi-in-acciaio-inox-o-127-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Barometro Foresti e Suardi in Acciaio Inox �� 97 mm - Versione unica</Name>
+    <Name>Barometro Foresti e Suardi in Acciaio Inox Ø 97 mm - Versione unica</Name>
     <Brand>Foresti e Suardi</Brand>
     <Description>Il barometro Foresti e Suardi, diametro 97 mm, è uno strumento di bordo in acciaio inox, pensato per la lettura della pressione atmosferica a bordo. A chi è rivolto È rivolto a chi vuole un barometro classico in acciaio inox da tenere a bordo o in timoner</Description>
     <OriginalPrice>128.94</OriginalPrice>
@@ -51928,42 +51871,6 @@
     <ParentID>pompa-di-sentina-johnson-ultima-heavy-duty-combo</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa di Sentina Johnson Ultima Heavy Duty Combo - 2200 - 12V</Name>
-    <Brand>Johnson</Brand>
-    <Description>La pompa di sentina Johnson Ultima Heavy Duty Combo è una pompa automatica che si aziona da sola quando rileva la presenza di acqua in sentina, senza bisogno di un interruttore a galleggiante separato. È pensata per lo svuotamento continuo del vano sentin</Description>
-    <OriginalPrice>252.00</OriginalPrice>
-    <Price>212.30</Price>
-    <Code>1822028</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-johnson-ultima-heavy-duty-combo?variant=53877342601563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1822028_1.webp?v=1787640832</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1822019.webp?v=1787640826</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1822019_1.webp?v=1787640823</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-johnson-ultima-heavy-duty-combo</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di Sentina Johnson Ultima Heavy Duty Combo - 2200 - 24V</Name>
-    <Brand>Johnson</Brand>
-    <Description>La pompa di sentina Johnson Ultima Heavy Duty Combo è una pompa automatica che si aziona da sola quando rileva la presenza di acqua in sentina, senza bisogno di un interruttore a galleggiante separato. È pensata per lo svuotamento continuo del vano sentin</Description>
-    <OriginalPrice>257.50</OriginalPrice>
-    <Price>215.90</Price>
-    <Code>1822030</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-johnson-ultima-heavy-duty-combo?variant=53877342634331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1822030_1.webp?v=1787640835</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.20</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1822019.webp?v=1787640826</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1822019_1.webp?v=1787640823</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-johnson-ultima-heavy-duty-combo</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa di Sentina Manuale a Membrana Ocean L2000 - L2000</Name>
     <Brand>Ocean</Brand>
     <Description>La pompa di sentina Ocean L2000 è una pompa manuale a membrana pensata per svuotare l&apos;acqua di sentina a bordo senza bisogno di alimentazione elettrica. Il funzionamento è semplice: azionando la leva a mano, la membrana aspira l&apos;acqua e la spinge verso l&apos;</Description>
@@ -52052,6 +51959,22 @@
     <Price>159.90</Price>
     <Code>1834130</Code>
     <Link>https://www.onautica.com/products/pompa-di-sentina-manuale-johnson-viking-38-mm?variant=53843749208411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1834125.webp?v=1787241873</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1834125_1.webp?v=1787241875</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-di-sentina-manuale-johnson-viking-38-mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa di Sentina Manuale Johnson Viking 38 mm - Thrudeck</Name>
+    <Brand>SPX Flow</Brand>
+    <Description>La pompa di sentina manuale Johnson Viking è pensata per svuotare l&apos;acqua di sentina senza dipendere dall&apos;impianto elettrico di bordo. Il funzionamento è a leva: basta azionare manualmente il pistone per far circolare l&apos;acqua verso l&apos;esterno attraverso la</Description>
+    <OriginalPrice>179.50</OriginalPrice>
+    <Price>173.80</Price>
+    <Code>1834125</Code>
+    <Link>https://www.onautica.com/products/pompa-di-sentina-manuale-johnson-viking-38-mm?variant=53843749241179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1834125.webp?v=1787241873</Image>
@@ -53704,23 +53627,6 @@
     <ParentID>bottazzo-profilo-parabordo-qbe-tessilmare-nero-bobine-da-2-12-24-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Bottazzo Profilo Parabordo T1 Bianco (36mm) – Sistema Componibile in PVC - T1 Bianco 12 metri</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bottazzo Profilo Parabordo T1 Bianco è la soluzione ideale per chi cerca una protezione efficace e un&apos;estetica pulita e luminosa per la propria imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza resiste all&apos;ingialliment</Description>
-    <OriginalPrice>168.50</OriginalPrice>
-    <Price>133.88</Price>
-    <Code>383013512</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-bianco?variant=52513488961883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383013512.webp?v=1786813618</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcbianco.webp?v=1770722821</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-t1-bianco</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bottazzo Profilo Parabordo T1 Bianco (36mm) – Sistema Componibile in PVC - T1 Bianco 16 metri</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Bottazzo Profilo Parabordo T1 Bianco è la soluzione ideale per chi cerca una protezione efficace e un&apos;estetica pulita e luminosa per la propria imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza resiste all&apos;ingialliment</Description>
@@ -53755,40 +53661,6 @@
     <ParentID>bottazzo-profilo-parabordo-t1-bianco</ParentID>
   </Offer>
   <Offer>
-    <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - T1 Nero 12 metri</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bottazzo Profilo Parabordo T1 Nero è la soluzione elegante e funzionale per proteggere la fiancata dell&apos;imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza offre un&apos;ottima resistenza agli urti e all&apos;ambiente marino. Come</Description>
-    <OriginalPrice>168.50</OriginalPrice>
-    <Price>133.88</Price>
-    <Code>383003512</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-nero?variant=52577532903771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383003512_6.webp?v=1786813185</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcnero_474d6f6e-3342-4c00-b17a-627e54532b7d.webp?v=1773341955</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-t1-nero</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - T1 Nero 16 metri</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bottazzo Profilo Parabordo T1 Nero è la soluzione elegante e funzionale per proteggere la fiancata dell&apos;imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza offre un&apos;ottima resistenza agli urti e all&apos;ambiente marino. Come</Description>
-    <OriginalPrice>225.00</OriginalPrice>
-    <Price>178.26</Price>
-    <Code>383003516</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t1-nero?variant=52577532936539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383003516.webp?v=1786813187</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcnero_474d6f6e-3342-4c00-b17a-627e54532b7d.webp?v=1773341955</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-t1-nero</ParentID>
-  </Offer>
-  <Offer>
     <Name>Bottazzo Profilo Parabordo T1 Nero (36mm) – Sistema Componibile in PVC - T1 Nero 24 metri</Name>
     <Brand>Motomarine</Brand>
     <Description>Il Bottazzo Profilo Parabordo T1 Nero è la soluzione elegante e funzionale per proteggere la fiancata dell&apos;imbarcazione. Realizzato in PVC di alta qualità, questo profilo da 36 mm di altezza offre un&apos;ottima resistenza agli urti e all&apos;ambiente marino. Come</Description>
@@ -53804,57 +53676,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bottazzo-profilo-parabordo-t1-nero</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bottazzo Profilo Parabordo T2 Bianco (45mm) – Sistema Componibile in PVC - T2 Bianco 12 metri</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bottazzo Profilo Parabordo T2 Bianco è la soluzione perfetta per chi desidera una protezione robusta senza rinunciare all&apos;estetica pulita della coperta. Con i suoi 45 mm di altezza , questo profilo in PVC offre una superficie di protezione maggiorata r</Description>
-    <OriginalPrice>240.50</OriginalPrice>
-    <Price>191.04</Price>
-    <Code>383014512</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t2-bianco?variant=52513489289563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383014512.webp?v=1786813633</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcbianco.webp?v=1770722821</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-t2-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bottazzo Profilo Parabordo T2 Bianco (45mm) – Sistema Componibile in PVC - T2 Bianco 16 metri</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bottazzo Profilo Parabordo T2 Bianco è la soluzione perfetta per chi desidera una protezione robusta senza rinunciare all&apos;estetica pulita della coperta. Con i suoi 45 mm di altezza , questo profilo in PVC offre una superficie di protezione maggiorata r</Description>
-    <OriginalPrice>321.00</OriginalPrice>
-    <Price>254.60</Price>
-    <Code>383014516</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t2-bianco?variant=52514384675163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383014516.webp?v=1786813636</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcbianco.webp?v=1770722821</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-t2-bianco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bottazzo Profilo Parabordo T2 Bianco (45mm) – Sistema Componibile in PVC - T2 Bianco 24 metri</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il Bottazzo Profilo Parabordo T2 Bianco è la soluzione perfetta per chi desidera una protezione robusta senza rinunciare all&apos;estetica pulita della coperta. Con i suoi 45 mm di altezza , questo profilo in PVC offre una superficie di protezione maggiorata r</Description>
-    <OriginalPrice>465.00</OriginalPrice>
-    <Price>381.71</Price>
-    <Code>383014524</Code>
-    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-t2-bianco?variant=52514384707931&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383014524.webp?v=1786813638</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvcbianco.webp?v=1770722821</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/bottazzo-profilo-parabordo-t-pvc.webp?v=1773341955</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bottazzo-profilo-parabordo-t2-bianco</ParentID>
   </Offer>
   <Offer>
     <Name>Bottazzo Profilo Parabordo U2 Bianco (35mm) – Sistema per Fiancate Piane - U2 Bianco 12 metri</Name>
@@ -54431,23 +54252,6 @@
     <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>nipples-maschio-maschio-in-ottone-1</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Olio per Teak Star Brite Premium Golden Teak Oil - 3,8 Lt</Name>
-    <Brand>Star Brite</Brand>
-    <Description>L&apos;olio Star Brite Premium Golden Teak Oil è un trattamento protettivo per il teak che dona al legno un colore dorato naturale e lo protegge dai raggi ultravioletti. Si applica facilmente e asciuga rapidamente, grazie a una formula avanzata a base di polim</Description>
-    <Price>139.30</Price>
-    <Code>5735206</Code>
-    <Link>https://www.onautica.com/products/olio-per-teak-star-brite-premium-golden-teak-oil?variant=53908836417883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Pulizia e Lucidatura</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5735206_4.webp?v=1787924367</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>4.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5735204_2.webp?v=1787924357</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5735204_3.webp?v=1787924361</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>olio-per-teak-star-brite-premium-golden-teak-oil</ParentID>
   </Offer>
   <Offer>
     <Name>Olio per Teak Star Brite – Protettivo Sigillante UV, 1 L e 3,8 L - 3,8 L</Name>
@@ -55796,6 +55600,22 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4036008.webp?v=1788588313</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>5.30</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>tubo-carburante-riviera-fuel-greyflex-iso-8469-b1-bobina-25-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tubo Carburante Riviera Fuel Greyflex ISO 8469 B1 — Bobina 25 m - Ø 10 mm — bobina 25 m</Name>
+    <Brand>Riviera</Brand>
+    <Description>Il tubo Fuel Greyflex è pensato per l&apos;impianto carburante di bordo, certificato secondo la norma UNI EN ISO 8469 B1. Si vende a bobina intera da 25 metri, non a taglio. È disponibile nei diametri interni da 8 mm e da 10 mm, per adattarsi ai diversi impian</Description>
+    <OriginalPrice>217.50</OriginalPrice>
+    <Price>184.40</Price>
+    <Code>4036010</Code>
+    <Link>https://www.onautica.com/products/tubo-carburante-riviera-fuel-greyflex-iso-8469-b1-bobina-25-m?variant=53977629524315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4036008.webp?v=1788588313</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>6.31</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tubo-carburante-riviera-fuel-greyflex-iso-8469-b1-bobina-25-m</ParentID>
   </Offer>
@@ -69682,22 +69502,6 @@
     <ParentID>elica-alice-in-alluminio-per-motori-yamaha-150-300-hp</ParentID>
   </Offer>
   <Offer>
-    <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 14 1/2 x 17 - 3 pale - RH</Name>
-    <Brand>Elica Alice</Brand>
-    <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
-    <Price>123.87</Price>
-    <Code>4973380</Code>
-    <Link>https://www.onautica.com/products/elica-alice-in-alluminio-per-motori-yamaha-150-300-hp?variant=53851463876955&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973380_1.webp?v=1787300016</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973382_2.webp?v=1787300007</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4973382_1.webp?v=1787300006</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>elica-alice-in-alluminio-per-motori-yamaha-150-300-hp</ParentID>
-  </Offer>
-  <Offer>
     <Name>Elica Alice in Alluminio per Motori Yamaha 150-300 HP - 14 x 19 - 3 pale - RH</Name>
     <Brand>Elica Alice</Brand>
     <Description>⚠️ L&apos;elica da sola non si monta. Il mozzo non è incluso: serve anche il kit parastrappi della marca del tuo motore , che assorbe gli urti e trasmette la spinta. Lo trovi in questa stessa pagina, fra le opzioni. Marca del motore Attacco Codice del kit Yama</Description>
@@ -70651,22 +70455,6 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033626229274</EanCode>
-    <Weight>1.50</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Eliche Solas Alluminio per Motori Honda - 3 pale - 2T 40/50 / 4T 11.10 x 14 - 11.10 x 14</Name>
-    <Brand>Solas</Brand>
-    <Description>Eliche Solas per Motori Honda - Alluminio Eliche Solas in alluminio di alta qualità compatibili con i motori Honda fuoribordo. Disponibili in tutti i diametri × passo necessari per coprire l&apos;intera gamma motore di nostra produzione. Eliche Solas in Allumi</Description>
-    <OriginalPrice>151.00</OriginalPrice>
-    <Price>149.44</Price>
-    <Code>495331111114</Code>
-    <Link>https://www.onautica.com/products/eliche-solas-alluminio-per-motori-honda?variant=53389305381211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/eliche-solas-alluminio-honda-1.webp?v=1781620283</Image>
-    <ShippingCost>5.90</ShippingCost>
     <Weight>1.50</Weight>
     <Condition>nuovo</Condition>
     <ParentID>eliche-solas-alluminio-per-motori-honda</ParentID>
@@ -73511,6 +73299,21 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2910311_7e21fc55-1857-408a-afc1-302103b678bb.webp?v=1788379288</Image2>
     <Condition>nuovo</Condition>
     <ParentID>sup-gonfiabile-jobe-aero-yarra-10-6-package</ParentID>
+  </Offer>
+  <Offer>
+    <Name>SUP Jobe Aero Rasa Compact 10.6 Package - 10.6&quot;</Name>
+    <Brand>Jobe</Brand>
+    <Description>Il SUP Aero Rasa Compact 10.6 è una tavola gonfiabile con costruzione dropstitch a singolo strato verticale, pensata per essere leggera, rigida e facile da trasportare. Il deckpad in EVA da 3 mm offre grip e comfort durante la pagaiata, mentre la pinna ce</Description>
+    <OriginalPrice>578.00</OriginalPrice>
+    <Price>486.70</Price>
+    <Code>2910328</Code>
+    <Link>https://www.onautica.com/products/sup-jobe-aero-rasa-compact-10-6-package?variant=53959680655707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sport Acquatici</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2910328.webp?v=1788379312</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>sup-jobe-aero-rasa-compact-10-6-package</ParentID>
   </Offer>
   <Offer>
     <Name>Tavola Galleggiante Jobe Flux Kickboard a Propulsione Elettrica - 50x41x15 cm - 4,2 Kg</Name>
@@ -78291,22 +78094,6 @@
     <ParentID>stereo-marino-boss-mgr250b-bluetooth</ParentID>
   </Offer>
   <Offer>
-    <Name>Stereo Marino Clarion CMM-10GR USB Bluetooth - CMM-10GR</Name>
-    <Brand>Clarion</Brand>
-    <Description>Lo stereo marino Clarion CMM-10GR riproduce musica da USB e da dispositivi Bluetooth, pensato per l&apos;installazione a bordo al posto di un&apos;autoradio tradizionale. Il foro di incasso è quello standard da 76 mm, comune a molte plance nautiche. È disponibile n</Description>
-    <Price>193.50</Price>
-    <Code>5640800</Code>
-    <Link>https://www.onautica.com/products/stereo-marino-clarion-cmm-10gr-usb-bluetooth?variant=53893098471771&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640800.webp?v=1787814977</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>1.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640800_a3444a69-01b8-4edb-a5be-a71abad480e9.webp?v=1787814979</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>stereo-marino-clarion-cmm-10gr-usb-bluetooth</ParentID>
-  </Offer>
-  <Offer>
     <Name>Stereo Marino Clarion CMM-20 Bluetooth USB - Stereo CMM-20</Name>
     <Brand>Clarion</Brand>
     <Description>Lo stereo marino Clarion CMM-20 ha un display LCD di grandi dimensioni, da 3,5 pollici, e un&apos;interfaccia utente intuitiva con icone grandi e facili da leggere. È compatibile con la tecnologia Bluetooth, per riprodurre in streaming la musica dal proprio di</Description>
@@ -82582,6 +82369,24 @@
     <ParentID>coprimotore-completo-suzuki-oceansouth-telo-integrale</ParentID>
   </Offer>
   <Offer>
+    <Name>Coprimotore Completo Suzuki OceanSouth - Telo Integrale Fuoribordo - DF15/20A - 2 cilindri 4T 327cc piede 20&quot;</Name>
+    <Brand>OceanSouth</Brand>
+    <Description>Coprimotore Integrale OceanSouth per Motori Suzuki - Copertura Completa con Gambo Il coprimotore integrale OceanSouth offre la protezione più completa per il tuo motore fuoribordo Suzuki: copre non solo la calandra superiore ma anche il gambo (piede) del </Description>
+    <OriginalPrice>69.90</OriginalPrice>
+    <Price>63.81</Price>
+    <Code>46.552.29</Code>
+    <Link>https://www.onautica.com/products/coprimotore-completo-suzuki-oceansouth-telo-integrale?variant=52967533314395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-completo-suzuki-oceansouth-telo-integrale-nero.webp?v=1778608638</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137215292</EanCode>
+    <Weight>0.75</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3_upscayl_3x_upscayl-lite-4x.webp?v=1778606814</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-completo-suzuki-oceansouth-telo-integrale</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimotore Completo Suzuki OceanSouth - Telo Integrale Fuoribordo - DF40/50/60A - 3 cilindri 4T piede 20&quot;</Name>
     <Brand>OceanSouth</Brand>
     <Description>Coprimotore Integrale OceanSouth per Motori Suzuki - Copertura Completa con Gambo Il coprimotore integrale OceanSouth offre la protezione più completa per il tuo motore fuoribordo Suzuki: copre non solo la calandra superiore ma anche il gambo (piede) del </Description>
@@ -82738,6 +82543,23 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-completo-suzuki-oceansouth-telo-integrale-nero.webp?v=1778608638</Image>
     <ShippingCost>5.90</ShippingCost>
     <Weight>1.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3_upscayl_3x_upscayl-lite-4x.webp?v=1778606814</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-completo-suzuki-oceansouth-telo-integrale</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coprimotore Completo Suzuki OceanSouth - Telo Integrale Fuoribordo - DF115BG/140BG - 4 cilindri 4T 2L piede 25&quot;</Name>
+    <Brand>OceanSouth</Brand>
+    <Description>Coprimotore Integrale OceanSouth per Motori Suzuki - Copertura Completa con Gambo Il coprimotore integrale OceanSouth offre la protezione più completa per il tuo motore fuoribordo Suzuki: copre non solo la calandra superiore ma anche il gambo (piede) del </Description>
+    <OriginalPrice>109.50</OriginalPrice>
+    <Price>98.64</Price>
+    <Code>46.552.15</Code>
+    <Link>https://www.onautica.com/products/coprimotore-completo-suzuki-oceansouth-telo-integrale?variant=52967532986715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-completo-suzuki-oceansouth-telo-integrale-nero.webp?v=1778608638</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3_upscayl_3x_upscayl-lite-4x.webp?v=1778606814</Image2>
     <Condition>nuovo</Condition>
     <ParentID>coprimotore-completo-suzuki-oceansouth-telo-integrale</ParentID>
@@ -83198,6 +83020,23 @@
     <ParentID>coprimotore-sartoriale-oceansouth-per-motori-mercury-motore-completo</ParentID>
   </Offer>
   <Offer>
+    <Name>Coprimotore Sartoriale Oceansouth per Motori Mercury – Motore Completo - 4 cil. 4T 995cc - 40/60 HP (2008&gt;) / 25&quot;</Name>
+    <Brand>Oceansouth</Brand>
+    <Description>Coprimotore Sartoriale Oceansouth per Motori Mercury – Copertura Motore Completo con Piede Coprimotore sartoriale a copertura integrale per motori fuoribordo Mercury , che protegge cofano e piede in un&apos;unica soluzione. Realizzato da Oceansouth (Australia)</Description>
+    <OriginalPrice>74.90</OriginalPrice>
+    <Price>68.42</Price>
+    <Code>46.550.20</Code>
+    <Link>https://www.onautica.com/products/coprimotore-sartoriale-oceansouth-per-motori-mercury-motore-completo?variant=52976113123675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-mercury-motore-completo-nero.webp?v=1778685477</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137214752</EanCode>
+    <Weight>1.19</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-sartoriale-oceansouth-per-motori-mercury-motore-completo</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimotore Sartoriale Oceansouth per Motori Mercury – Motore Completo - 4 cil. 4T 3L - 135/150 HP (2011&gt;) / 20&quot;</Name>
     <Brand>Oceansouth</Brand>
     <Description>Coprimotore Sartoriale Oceansouth per Motori Mercury – Copertura Motore Completo con Piede Coprimotore sartoriale a copertura integrale per motori fuoribordo Mercury , che protegge cofano e piede in un&apos;unica soluzione. Realizzato da Oceansouth (Australia)</Description>
@@ -83279,6 +83118,23 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137214691</EanCode>
     <Weight>1.65</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-sartoriale-oceansouth-per-motori-mercury-motore-completo</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coprimotore Sartoriale Oceansouth per Motori Mercury – Motore Completo - 4 cil. 4T 2.1L - 75/115 HP (2014&gt;) / 25&quot;</Name>
+    <Brand>Oceansouth</Brand>
+    <Description>Coprimotore Sartoriale Oceansouth per Motori Mercury – Copertura Motore Completo con Piede Coprimotore sartoriale a copertura integrale per motori fuoribordo Mercury , che protegge cofano e piede in un&apos;unica soluzione. Realizzato da Oceansouth (Australia)</Description>
+    <OriginalPrice>114.50</OriginalPrice>
+    <Price>102.56</Price>
+    <Code>46.550.16</Code>
+    <Link>https://www.onautica.com/products/coprimotore-sartoriale-oceansouth-per-motori-mercury-motore-completo?variant=52976113058139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-mercury-motore-completo-nero.webp?v=1778685477</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137214738</EanCode>
+    <Weight>1.45</Weight>
     <Condition>nuovo</Condition>
     <ParentID>coprimotore-sartoriale-oceansouth-per-motori-mercury-motore-completo</ParentID>
   </Offer>
@@ -83892,6 +83748,23 @@
     <ParentID>coprimotore-sartoriale-ventilato-oceansouth-per-motori-honda-navigazione</ParentID>
   </Offer>
   <Offer>
+    <Name>Coprimotore Sartoriale Ventilato Oceansouth per Motori Honda – Navigazione - BF175/200/225 V6 3.5L - 175/225 HP (2010&gt;) - Piede 20&quot;</Name>
+    <Brand>Oceansouth</Brand>
+    <Description>Coprimotore Sartoriale Ventilato Oceansouth per Motori Honda – Da Usare in Navigazione Coprimotore ventilato di qualità premium progettato per motori fuoribordo Honda , dalla serie BF2.3 fino alla potente BF350. Realizzato da Oceansouth (Australia), prote</Description>
+    <OriginalPrice>104.50</OriginalPrice>
+    <Price>96.31</Price>
+    <Code>46.544.12</Code>
+    <Link>https://www.onautica.com/products/coprimotore-sartoriale-ventilato-oceansouth-per-motori-honda-navigazione?variant=52976109486427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-honda-ventilato-navigazione-grigio.webp?v=1778685553</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137214523</EanCode>
+    <Weight>0.96</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-sartoriale-ventilato-oceansouth-per-motori-honda-navigazione</ParentID>
+  </Offer>
+  <Offer>
     <Name>Coprimotore Sartoriale Ventilato Oceansouth per Motori Honda – Navigazione - BF175/200/225/250 V6 3.6L - 175/250 HP (2009&gt;) - Piede 20&quot;</Name>
     <Brand>Oceansouth</Brand>
     <Description>Coprimotore Sartoriale Ventilato Oceansouth per Motori Honda – Da Usare in Navigazione Coprimotore ventilato di qualità premium progettato per motori fuoribordo Honda , dalla serie BF2.3 fino alla potente BF350. Realizzato da Oceansouth (Australia), prote</Description>
@@ -83905,6 +83778,21 @@
     <ShippingCost>5.90</ShippingCost>
     <EanCode>8033137214516</EanCode>
     <Weight>1.07</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>coprimotore-sartoriale-ventilato-oceansouth-per-motori-honda-navigazione</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Coprimotore Sartoriale Ventilato Oceansouth per Motori Honda – Navigazione - BF175/200/225/250 V6 3.6L - 175/250 HP (2009&gt;) - Bianco</Name>
+    <Brand>Oceansouth</Brand>
+    <Description>Coprimotore Sartoriale Ventilato Oceansouth per Motori Honda – Da Usare in Navigazione Coprimotore ventilato di qualità premium progettato per motori fuoribordo Honda , dalla serie BF2.3 fino alla potente BF350. Realizzato da Oceansouth (Australia), prote</Description>
+    <OriginalPrice>134.50</OriginalPrice>
+    <Price>119.60</Price>
+    <Code>46.544.33</Code>
+    <Link>https://www.onautica.com/products/coprimotore-sartoriale-ventilato-oceansouth-per-motori-honda-navigazione?variant=52976109879643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/coprimotore-honda-ventilato-navigazione-grigio.webp?v=1778685553</Image>
+    <ShippingCost>5.90</ShippingCost>
     <Condition>nuovo</Condition>
     <ParentID>coprimotore-sartoriale-ventilato-oceansouth-per-motori-honda-navigazione</ParentID>
   </Offer>
@@ -85559,6 +85447,24 @@
     <ParentID>t-top-in-alluminio-retrattile-per-consolle-altezza-riducibile-per-rimessaggio-e-carrello</ParentID>
   </Offer>
   <Offer>
+    <Name>T-Top in Lega Leggera Anodizzata Ø 32 mm Altezza 2010 mm – Telo ATLAS 400 g/m² Blu o Nero - Blu 1700 x 1200 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>T-Top in lega leggera 2010 mm Questo T-Top in lega leggera è fabbricato in tubo anodizzato Ø 32 mm ed è universale : gli attacchi possono essere regolati a piacere, quindi si adatta a consolle di larghezza diversa fino a 1000 mm. Il tessuto del Top è in p</Description>
+    <OriginalPrice>364.50</OriginalPrice>
+    <Price>317.70</Price>
+    <Code>48.194.11</Code>
+    <Link>https://www.onautica.com/products/t-top-in-lega-leggera-anodizzata-o-32-mm-altezza-2010-mm-telo-atlas-400-g-m-blu-o-nero?variant=53726616060251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.11-22.webp?v=1786029616</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>11.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.21-22.webp?v=1786029619</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.11_amb.webp?v=1786029621</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>t-top-in-lega-leggera-anodizzata-o-32-mm-altezza-2010-mm-telo-atlas-400-g-m-blu-o-nero</ParentID>
+  </Offer>
+  <Offer>
     <Name>T-Top in Lega Leggera Anodizzata Ø 32 mm Altezza 2010 mm – Telo ATLAS 400 g/m² Blu o Nero - Nero 1700 x 1200 mm</Name>
     <Brand>Osculati</Brand>
     <Description>T-Top in lega leggera 2010 mm Questo T-Top in lega leggera è fabbricato in tubo anodizzato Ø 32 mm ed è universale : gli attacchi possono essere regolati a piacere, quindi si adatta a consolle di larghezza diversa fino a 1000 mm. Il tessuto del Top è in p</Description>
@@ -85590,6 +85496,25 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.11-22.webp?v=1786029616</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>11.60</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.21-22.webp?v=1786029619</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.11_amb.webp?v=1786029621</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>t-top-in-lega-leggera-anodizzata-o-32-mm-altezza-2010-mm-telo-atlas-400-g-m-blu-o-nero</ParentID>
+  </Offer>
+  <Offer>
+    <Name>T-Top in Lega Leggera Anodizzata Ø 32 mm Altezza 2010 mm – Telo ATLAS 400 g/m² Blu o Nero - Nero 1700 x 1400 mm</Name>
+    <Brand>Osculati</Brand>
+    <Description>T-Top in lega leggera 2010 mm Questo T-Top in lega leggera è fabbricato in tubo anodizzato Ø 32 mm ed è universale : gli attacchi possono essere regolati a piacere, quindi si adatta a consolle di larghezza diversa fino a 1000 mm. Il tessuto del Top è in p</Description>
+    <OriginalPrice>399.50</OriginalPrice>
+    <Price>350.60</Price>
+    <Code>48.194.22</Code>
+    <Link>https://www.onautica.com/products/t-top-in-lega-leggera-anodizzata-o-32-mm-altezza-2010-mm-telo-atlas-400-g-m-blu-o-nero?variant=53726616158555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Tendalini</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.11-22.webp?v=1786029616</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137228841</EanCode>
+    <Weight>11.70</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.21-22.webp?v=1786029619</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_48.194.11_amb.webp?v=1786029621</Image3>
     <Condition>nuovo</Condition>
@@ -97442,22 +97367,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322635_25c8b8a7-d7ef-4b95-8a64-d8496f967f11.webp?v=1787384812</Image2>
     <Condition>nuovo</Condition>
     <ParentID>serbatoio-acque-nere-ocean-con-pompa-integrata</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Acque Nere Ocean ISO 8099 - 53 L</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il serbatoio acque nere Ocean raccoglie e conserva a bordo i reflui provenienti dai servizi igienici, in attesa dello svuotamento in porto o in mare aperto nelle zone consentite. È conforme alla normativa ISO 8099, che regola la realizzazione dei serbatoi</Description>
-    <Price>163.60</Price>
-    <Code>1322625</Code>
-    <Link>https://www.onautica.com/products/serbatoio-acque-nere-ocean-iso-8099?variant=53861200953691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Acque Nere</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322625.webp?v=1787384803</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>7.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322625_43fab062-173d-440b-8db6-3896f67f766a.webp?v=1787384805</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-acque-nere-ocean-iso-8099</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio Acque Nere Ocean ISO 8099 - 73 L</Name>
