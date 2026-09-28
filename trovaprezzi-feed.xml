@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-28T14:32:08.748Z -->
-<!-- Offerte: 5794 -->
+<!-- Generato: 2026-09-28T18:11:30.359Z -->
+<!-- Offerte: 5816 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -2747,7 +2747,7 @@
     <Brand>Bruce</Brand>
     <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
     <OriginalPrice>229.00</OriginalPrice>
-    <Price>184.81</Price>
+    <Price>187.64</Price>
     <Code>0107530</Code>
     <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376960859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -2923,7 +2923,7 @@
     <Name>Ancora Ankerplex Smontabile in Acciaio Zincato - AP11GZ — 11,2 Kg.</Name>
     <Brand>Ankerplex</Brand>
     <Description>L&apos;ancora Ankerplex è un&apos;ancora ad alta tenuta smontabile, realizzata in acciaio zincato a caldo. Si monta e si smonta a mano in pochi secondi, senza bisogno di attrezzi, e grazie agli elementi completamente piatti, una volta smontata occupa uno spazio min</Description>
-    <Price>225.40</Price>
+    <Price>222.82</Price>
     <Code>0108211</Code>
     <Link>https://www.onautica.com/products/ancora-ankerplex-smontabile-in-acciaio-zincato?variant=53757264855387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -20215,6 +20215,40 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1823010.webp?v=1787902301</Image3>
     <Condition>nuovo</Condition>
     <ParentID>interruttore-elettronico-quick</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Lame e Batteria di Ricambio per Tagliacorde Motomarine - Lama di ricambio</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I ricambi dei tagliacorde a fusione Motomarine : la lama di ricambio standard, la lama tagliacinghie per nastri e cinghie, e la batteria di ricambio del modello a batteria. A chi è rivolto A chi usa il tagliacorde in officina o a bordo e ha la lama consum</Description>
+    <Price>34.70</Price>
+    <Code>3190002</Code>
+    <Link>https://www.onautica.com/products/lame-e-batteria-di-ricambio-per-tagliacorde-motomarine?variant=53974141370715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190002_9b6f801a-18d1-4ad2-b445-8edf0b2d3091.webp?v=1788555034</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.05</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190006_e463ac3b-41ef-4ca7-8c7b-321169e7d696.webp?v=1788555038</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190008_85d4b3c8-abfc-4c66-b721-75bde1754b97.webp?v=1788555042</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>lame-e-batteria-di-ricambio-per-tagliacorde-motomarine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Lame e Batteria di Ricambio per Tagliacorde Motomarine - Lama tagliacinghie</Name>
+    <Brand>Motomarine</Brand>
+    <Description>I ricambi dei tagliacorde a fusione Motomarine : la lama di ricambio standard, la lama tagliacinghie per nastri e cinghie, e la batteria di ricambio del modello a batteria. A chi è rivolto A chi usa il tagliacorde in officina o a bordo e ha la lama consum</Description>
+    <Price>44.20</Price>
+    <Code>3190006</Code>
+    <Link>https://www.onautica.com/products/lame-e-batteria-di-ricambio-per-tagliacorde-motomarine?variant=53974141403483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190006_e463ac3b-41ef-4ca7-8c7b-321169e7d696.webp?v=1788555038</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.08</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190002_9b6f801a-18d1-4ad2-b445-8edf0b2d3091.webp?v=1788555034</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3190008_85d4b3c8-abfc-4c66-b721-75bde1754b97.webp?v=1788555042</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>lame-e-batteria-di-ricambio-per-tagliacorde-motomarine</ParentID>
   </Offer>
   <Offer>
     <Name>Lame e Batteria di Ricambio per Tagliacorde Motomarine - Batteria di ricambio</Name>
@@ -42363,8 +42397,7 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 110x122 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>70.43</OriginalPrice>
-    <Price>54.90</Price>
+    <Price>70.43</Price>
     <Code>140361005</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986149723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -42379,8 +42412,7 @@
     <Name>Tubo Scarico Motore R.I.Na. - Corrugato Flessibile, Acciaio/Gomma (SAE J 2006) - Ø 127x139 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Questo tubo di scarico è progettato specificamente per resistere alle condizioni estreme degli scarichi motore raffreddati ad acqua . La sua costruzione flessibile, rinforzata da una spirale interna, garantisce durata e conformità alle normative nautiche </Description>
-    <OriginalPrice>83.32</OriginalPrice>
-    <Price>64.90</Price>
+    <Price>83.32</Price>
     <Code>140361210</Code>
     <Link>https://www.onautica.com/products/tubo-scarico-corrugato-rina-saej2006?variant=52539986182491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -43627,6 +43659,38 @@
     <ParentID>orologio-oblo-foresti-e-suardi-in-ottone-e-legno-o-230-mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordo a Pera Polyform Tipo A - A0 Bianco - h28 Ø23 cm</Name>
+    <Brand>Polyform</Brand>
+    <Description>Il parabordo a pera Polyform Tipo A protegge lo scafo dagli urti contro banchina, pontile o altre imbarcazioni durante l&apos;ormeggio e l&apos;accosto. La forma allungata a pera si adatta bene a diverse angolazioni di contatto e resta stabile anche con il moto ond</Description>
+    <Price>49.67</Price>
+    <Code>3802000</Code>
+    <Link>https://www.onautica.com/products/parabordo-a-pera-polyform-tipo-a?variant=53764273209691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802000_14.webp?v=1786813662</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802000_1.webp?v=1786530745</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802000_2.webp?v=1786530748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-a-pera-polyform-tipo-a</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordo a Pera Polyform Tipo A - A0 Rosso - h28 Ø23 cm</Name>
+    <Brand>Polyform</Brand>
+    <Description>Il parabordo a pera Polyform Tipo A protegge lo scafo dagli urti contro banchina, pontile o altre imbarcazioni durante l&apos;ormeggio e l&apos;accosto. La forma allungata a pera si adatta bene a diverse angolazioni di contatto e resta stabile anche con il moto ond</Description>
+    <Price>49.67</Price>
+    <Code>3802200</Code>
+    <Link>https://www.onautica.com/products/parabordo-a-pera-polyform-tipo-a?variant=53764273242459&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802200_3.webp?v=1786530805</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802000_1.webp?v=1786530745</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802000_2.webp?v=1786530748</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-a-pera-polyform-tipo-a</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordo a Pera Polyform Tipo A - A1 Bianco - h39 Ø31 cm</Name>
     <Brand>Polyform</Brand>
     <Description>Il parabordo a pera Polyform Tipo A protegge lo scafo dagli urti contro banchina, pontile o altre imbarcazioni durante l&apos;ormeggio e l&apos;accosto. La forma allungata a pera si adatta bene a diverse angolazioni di contatto e resta stabile anche con il moto ond</Description>
@@ -43840,6 +43904,38 @@
     <ParentID>parabordo-a-pera-polyform-tipo-a</ParentID>
   </Offer>
   <Offer>
+    <Name>Parabordo a Pera Rinforzato Castro Serie HD - A1 Bianco - h41cm Ø29cm</Name>
+    <Brand>Castro</Brand>
+    <Description>Il parabordo a pera Castro serie HD protegge lo scafo dagli urti contro banchina o altre imbarcazioni. La forma a pera distribuisce il contatto su una superficie ampia e la struttura rinforzata resiste a un uso intensivo, anche su imbarcazioni di dimensio</Description>
+    <Price>47.25</Price>
+    <Code>3802901</Code>
+    <Link>https://www.onautica.com/products/parabordo-a-pera-rinforzato-castro-serie-hd?variant=53764173660507&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802901_3.webp?v=1786530660</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_1.webp?v=1786530649</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_2.webp?v=1786530651</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-a-pera-rinforzato-castro-serie-hd</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordo a Pera Rinforzato Castro Serie HD - A1 Rosso - h41cm Ø29cm</Name>
+    <Brand>Castro</Brand>
+    <Description>Il parabordo a pera Castro serie HD protegge lo scafo dagli urti contro banchina o altre imbarcazioni. La forma a pera distribuisce il contatto su una superficie ampia e la struttura rinforzata resiste a un uso intensivo, anche su imbarcazioni di dimensio</Description>
+    <Price>47.25</Price>
+    <Code>3802911</Code>
+    <Link>https://www.onautica.com/products/parabordo-a-pera-rinforzato-castro-serie-hd?variant=53764173693275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802911_3.webp?v=1786530706</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_1.webp?v=1786530649</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_2.webp?v=1786530651</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-a-pera-rinforzato-castro-serie-hd</ParentID>
+  </Offer>
+  <Offer>
     <Name>Parabordo a Pera Rinforzato Castro Serie HD - A2 Rosso - h49cm Ø34cm</Name>
     <Brand>Castro</Brand>
     <Description>Il parabordo a pera Castro serie HD protegge lo scafo dagli urti contro banchina o altre imbarcazioni. La forma a pera distribuisce il contatto su una superficie ampia e la struttura rinforzata resiste a un uso intensivo, anche su imbarcazioni di dimensio</Description>
@@ -43984,6 +44080,38 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802900_2.webp?v=1786530651</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parabordo-a-pera-rinforzato-castro-serie-hd</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordo Castro F-Type - F1 - Bianco - 61x15 cm</Name>
+    <Brand>Castro</Brand>
+    <Description>Il parabordo Castro F-Type ha una forma cilindrica allungata e si posiziona lungo la fiancata dell&apos;imbarcazione per proteggere lo scafo dagli urti durante l&apos;accostamento in banchina o l&apos;affiancamento ad altre barche. È disponibile in nove misure, dal più </Description>
+    <Price>41.61</Price>
+    <Code>3802871</Code>
+    <Link>https://www.onautica.com/products/parabordo-castro-f-type?variant=53764411261275&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802871_3.webp?v=1786530874</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802870_1.webp?v=1786530864</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802870_2.webp?v=1786530866</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-castro-f-type</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Parabordo Castro F-Type - F2/A - Bianco - 61x18 cm</Name>
+    <Brand>Castro</Brand>
+    <Description>Il parabordo Castro F-Type ha una forma cilindrica allungata e si posiziona lungo la fiancata dell&apos;imbarcazione per proteggere lo scafo dagli urti durante l&apos;accostamento in banchina o l&apos;affiancamento ad altre barche. È disponibile in nove misure, dal più </Description>
+    <Price>48.22</Price>
+    <Code>3802872</Code>
+    <Link>https://www.onautica.com/products/parabordo-castro-f-type?variant=53764411294043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Parabordi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802872_3.webp?v=1786530879</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802870_1.webp?v=1786530864</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3802870_2.webp?v=1786530866</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>parabordo-castro-f-type</ParentID>
   </Offer>
   <Offer>
     <Name>Parabordo Castro F-Type - F2 - Bianco/Blu - 62x22 cm</Name>
@@ -46875,14 +47003,13 @@
     <Name>REMI LAHNA SEAGRADE in Pino Finlandese - 300 cm.</Name>
     <Brand>Motomarine</Brand>
     <Description>I remi LAHNA SEAGRADE sono la scelta ideale per chi cerca un prodotto di qualità superiore , unendo leggerezza e resistenza anche alle dure condizioni del mare. I remi sono venduti in coppia, completi di tutto il necessario per l&apos;utilizzo immediato. Carat</Description>
-    <OriginalPrice>218.00</OriginalPrice>
-    <Price>154.90</Price>
+    <Price>192.53</Price>
     <Code>0700030</Code>
     <Link>https://www.onautica.com/products/remi-lahna-seagrade-ergonomici-qualita-superiore?variant=52513556496731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade.png?v=1773341948</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <EanCode>8033626024305</EanCode>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_b.png?v=1773341948</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Remo_legno_pino_Lahna_Seagrade_c.png?v=1773341949</Image3>
@@ -48819,6 +48946,40 @@
     <ParentID>bottazzo-parabordo-radial-tessilmare-h40mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Bottazzo Parabordo Radial Tessilmare h40mm - Giunto Inox</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il bottazzo Radial di Tessilmare è un profilo parabordo che si applica lungo la fiancata dello scafo per proteggerla da urti e abrasioni contro banchine e altre imbarcazioni. Il profilo, alto 40mm, si fissa con un sistema a incastro che ne rende semplice </Description>
+    <Price>38.00</Price>
+    <Code>3833209</Code>
+    <Link>https://www.onautica.com/products/bottazzo-parabordo-radial-tessilmare-h40mm?variant=53785118343515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833209.webp?v=1786720780</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383230312_20_c4cdf5f1-7c5e-4a7d-9651-6917f7405fa4.webp?v=1786720782</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833203.webp?v=1786720778</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-parabordo-radial-tessilmare-h40mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bottazzo Parabordo Radial Tessilmare h40mm - Terminale Inox</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il bottazzo Radial di Tessilmare è un profilo parabordo che si applica lungo la fiancata dello scafo per proteggerla da urti e abrasioni contro banchine e altre imbarcazioni. Il profilo, alto 40mm, si fissa con un sistema a incastro che ne rende semplice </Description>
+    <Price>38.20</Price>
+    <Code>3833203</Code>
+    <Link>https://www.onautica.com/products/bottazzo-parabordo-radial-tessilmare-h40mm?variant=53785118376283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833203.webp?v=1786720778</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383230312_20_c4cdf5f1-7c5e-4a7d-9651-6917f7405fa4.webp?v=1786720782</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833209.webp?v=1786720780</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-parabordo-radial-tessilmare-h40mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm - Profilo 12 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Bottazzo Profilo Parabordo a T Tipo T2 in PVC Nero H 45 mm Bottazzo (profilo parabordo) a T in PVC nero , tipo T2, altezza 45 mm, per proteggere la fiancata dello scafo dagli urti in ormeggio e in banchina. Il profilo si monta su un apposito supporto (bar</Description>
@@ -49173,6 +49334,24 @@
     <ParentID>bottazzo-profilo-parabordo-radial-tessilmare-h52mm</ParentID>
   </Offer>
   <Offer>
+    <Name>Bottazzo Profilo Parabordo Radial Tessilmare h52mm - Giunto Inox</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il bottazzo Profilo Parabordo Radial di Tessilmare è un profilo di protezione da applicare lungo la falchetta o il bordo dello scafo, con funzione di paraurti continuo contro urti e sfregamenti in banchina o durante le manovre di ormeggio. Il profilo, alt</Description>
+    <Price>44.10</Price>
+    <Code>3833221</Code>
+    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-radial-tessilmare-h52mm?variant=53785122406747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833221.webp?v=1786720811</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626180551</EanCode>
+    <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383230312_20_5defc13b-b02f-44a9-9812-aaad4893a6ca.webp?v=1786720813</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833215.webp?v=1786720809</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-profilo-parabordo-radial-tessilmare-h52mm</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bottazzo Profilo Parabordo Radial Tessilmare h52mm - Terminale Inox</Name>
     <Brand>Tessilmare</Brand>
     <Description>Il bottazzo Profilo Parabordo Radial di Tessilmare è un profilo di protezione da applicare lungo la falchetta o il bordo dello scafo, con funzione di paraurti continuo contro urti e sfregamenti in banchina o durante le manovre di ormeggio. Il profilo, alt</Description>
@@ -49362,6 +49541,23 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383230312_20_8104cffc-e345-40ed-8b3b-b12372e9c7df.webp?v=1786720877</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>44.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833230.webp?v=1786720872</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833235.webp?v=1786720875</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-profilo-parabordo-radial-tessilmare-h85mm</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bottazzo Profilo Parabordo Radial Tessilmare h85mm - Supporto 2 m</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il bottazzo Radial è un profilo parabordo che si applica lungo la fiancata dello scafo per proteggerlo dagli urti contro banchine, pontili o altre imbarcazioni. Il profilo, alto 85 mm, si fissa allo scafo e corre lungo tutta la lunghezza scelta, offrendo </Description>
+    <Price>39.50</Price>
+    <Code>383233802</Code>
+    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-radial-tessilmare-h85mm?variant=53785129288027&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383230312_20_8104cffc-e345-40ed-8b3b-b12372e9c7df.webp?v=1786720877</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833230.webp?v=1786720872</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833235.webp?v=1786720875</Image3>
     <Condition>nuovo</Condition>
@@ -52737,6 +52933,23 @@
     <ParentID>profilo-paracolpi-dock-edge-p-type-in-pvc-marino</ParentID>
   </Offer>
   <Offer>
+    <Name>Profilo Paracolpi Dock Edge P-Type in PVC Marino - Coppia angoli</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il profilo paracolpi Dock Edge P-Type protegge banchine, pontili e scafi dagli urti durante l&apos;ormeggio. È realizzato in PVC marino trattato, resistente al sale, ai raggi UV e ai funghi, e grazie al sistema ad aria a camera chiusa assorbe l&apos;impatto senza m</Description>
+    <Price>35.10</Price>
+    <Code>3800814</Code>
+    <Link>https://www.onautica.com/products/profilo-paracolpi-dock-edge-p-type-in-pvc-marino?variant=53777573085531&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3800814.webp?v=1786660705</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3800811.webp?v=1786660686</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3800811_db137064-4bc6-45c9-a678-6db91cc7293a.webp?v=1786660688</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>profilo-paracolpi-dock-edge-p-type-in-pvc-marino</ParentID>
+  </Offer>
+  <Offer>
     <Name>Profilo Paracolpi Dock Edge P-Type in PVC Marino - Coppia giunti</Name>
     <Brand>Motomarine</Brand>
     <Description>Il profilo paracolpi Dock Edge P-Type protegge banchine, pontili e scafi dagli urti durante l&apos;ormeggio. È realizzato in PVC marino trattato, resistente al sale, ai raggi UV e ai funghi, e grazie al sistema ad aria a camera chiusa assorbe l&apos;impatto senza m</Description>
@@ -53487,6 +53700,40 @@
     <ParentID>bottazzo-parabordo-bino-tessilmare-bobine-da-2-12-24-m</ParentID>
   </Offer>
   <Offer>
+    <Name>Bottazzo Profilo Parabordo Bino Tessilmare in PVC - Terminale h65mm Bianco</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il sistema Bino di Tessilmare è un profilo parabordo (bottazzo) da applicare lungo la fiancata dell&apos;imbarcazione, a protezione dello scafo dagli urti in banchina o contro altre imbarcazioni. Il profilo si completa con terminali di chiusura estetica alle d</Description>
+    <Price>41.30</Price>
+    <Code>3833321</Code>
+    <Link>https://www.onautica.com/products/bottazzo-parabordo-bino-tessilmare-bobine-da-2-12-24-m?variant=53775989473627&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383276512_1.webp?v=1786629088</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383276512_2.webp?v=1786629090</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383276524_1.webp?v=1786629092</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-parabordo-bino-tessilmare-bobine-da-2-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bottazzo Profilo Parabordo Bino Tessilmare in PVC - Terminale h90mm Bianco</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il sistema Bino di Tessilmare è un profilo parabordo (bottazzo) da applicare lungo la fiancata dell&apos;imbarcazione, a protezione dello scafo dagli urti in banchina o contro altre imbarcazioni. Il profilo si completa con terminali di chiusura estetica alle d</Description>
+    <Price>41.30</Price>
+    <Code>3833323</Code>
+    <Link>https://www.onautica.com/products/bottazzo-parabordo-bino-tessilmare-bobine-da-2-12-24-m?variant=53775989506395&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383276512_1.webp?v=1786629088</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383276512_2.webp?v=1786629090</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383276524_1.webp?v=1786629092</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-parabordo-bino-tessilmare-bobine-da-2-12-24-m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Bottazzo Profilo Parabordo Bino Tessilmare in PVC - Barra 2m Acciaio Inox</Name>
     <Brand>Tessilmare</Brand>
     <Description>Il sistema Bino di Tessilmare è un profilo parabordo (bottazzo) da applicare lungo la fiancata dell&apos;imbarcazione, a protezione dello scafo dagli urti in banchina o contro altre imbarcazioni. Il profilo si completa con terminali di chiusura estetica alle d</Description>
@@ -53622,6 +53869,40 @@
     <ShippingCost>0</ShippingCost>
     <Weight>92.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833311.webp?v=1786629129</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383280002_f6db3be1-a30f-46b6-b7f0-9dcc5fee2d19.webp?v=1786629131</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-profilo-parabordo-qbe-tessilmare-nero-bobine-da-2-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bottazzo Profilo Parabordo QBE Tessilmare Nero in PVC - Terminale H65</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il bottazzo QBE di Tessilmare è un profilo parabordo che si applica lungo la fiancata dello scafo per proteggerlo da urti e abrasioni durante l&apos;ormeggio o l&apos;attracco. Il profilo è in materiale nero, disponibile in due altezze, e si completa con terminali </Description>
+    <Price>41.30</Price>
+    <Code>3833310</Code>
+    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-qbe-tessilmare-nero-bobine-da-2-12-24-m?variant=53775990522203&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833310.webp?v=1786629128</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833311.webp?v=1786629129</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383280002_f6db3be1-a30f-46b6-b7f0-9dcc5fee2d19.webp?v=1786629131</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bottazzo-profilo-parabordo-qbe-tessilmare-nero-bobine-da-2-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bottazzo Profilo Parabordo QBE Tessilmare Nero in PVC - Terminale H90</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il bottazzo QBE di Tessilmare è un profilo parabordo che si applica lungo la fiancata dello scafo per proteggerlo da urti e abrasioni durante l&apos;ormeggio o l&apos;attracco. Il profilo è in materiale nero, disponibile in due altezze, e si completa con terminali </Description>
+    <Price>41.30</Price>
+    <Code>3833311</Code>
+    <Link>https://www.onautica.com/products/bottazzo-profilo-parabordo-qbe-tessilmare-nero-bobine-da-2-12-24-m?variant=53775990554971&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833311.webp?v=1786629129</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833310.webp?v=1786629128</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383280002_f6db3be1-a30f-46b6-b7f0-9dcc5fee2d19.webp?v=1786629131</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bottazzo-profilo-parabordo-qbe-tessilmare-nero-bobine-da-2-12-24-m</ParentID>
@@ -54594,7 +54875,7 @@
     <Name>Pompa Travaso Olio e Gasolio Ocean 12V 12 L/min - 12V - 12 l/min</Name>
     <Brand>Ocean</Brand>
     <Description>La pompa di travaso Ocean è pensata per l&apos;estrazione dell&apos;olio motore e il travaso del gasolio a bordo. Funziona a 12V ed eroga una portata di 12 litri al minuto, permettendo di svuotare la coppa dell&apos;olio o spostare carburante da un serbatoio all&apos;altro s</Description>
-    <Price>118.70</Price>
+    <Price>106.80</Price>
     <Code>1826312</Code>
     <Link>https://www.onautica.com/products/pompa-travaso-olio-e-gasolio-ocean-12v-12-l-min?variant=53877344043355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -55053,6 +55334,74 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/383250603.webp?v=1786629200</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>3.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502.webp?v=1786629136</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502_5ba0b4b6-9b4a-41bf-8576-68636360d219.webp?v=1786629138</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Profilo Parabordo Sphaera Tessilmare con Base in Acciaio Inox - Terminale h25mm</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il profilo parabordo Sphaera è un sistema modulare in acciaio inox che protegge la falchetta e lo scafo dagli urti. Il profilo si fissa allo scafo tramite una base dedicata e si completa con terminali e coprigiunti per chiudere le estremità e le giunzioni</Description>
+    <Price>36.10</Price>
+    <Code>3833522</Code>
+    <Link>https://www.onautica.com/products/profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m?variant=53775990849883&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833522_4c7cbb28-f2c5-4489-8fdf-46051b76080e.webp?v=1786629164</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502.webp?v=1786629136</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502_5ba0b4b6-9b4a-41bf-8576-68636360d219.webp?v=1786629138</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Profilo Parabordo Sphaera Tessilmare con Base in Acciaio Inox - Terminale h35mm</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il profilo parabordo Sphaera è un sistema modulare in acciaio inox che protegge la falchetta e lo scafo dagli urti. Il profilo si fissa allo scafo tramite una base dedicata e si completa con terminali e coprigiunti per chiudere le estremità e le giunzioni</Description>
+    <Price>38.40</Price>
+    <Code>3833524</Code>
+    <Link>https://www.onautica.com/products/profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m?variant=53775990882651&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833524_f1ce67c9-0a5b-4097-949d-b5d4bd0a028c.webp?v=1786629168</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502.webp?v=1786629136</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502_5ba0b4b6-9b4a-41bf-8576-68636360d219.webp?v=1786629138</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Profilo Parabordo Sphaera Tessilmare con Base in Acciaio Inox - Coprigiunta h50mm</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il profilo parabordo Sphaera è un sistema modulare in acciaio inox che protegge la falchetta e lo scafo dagli urti. Il profilo si fissa allo scafo tramite una base dedicata e si completa con terminali e coprigiunti per chiudere le estremità e le giunzioni</Description>
+    <Price>42.60</Price>
+    <Code>3833506</Code>
+    <Link>https://www.onautica.com/products/profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m?variant=53775990915419&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833506_b986d075-315d-4a0b-99b5-7d689c2e9969.webp?v=1786629146</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.20</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502.webp?v=1786629136</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502_5ba0b4b6-9b4a-41bf-8576-68636360d219.webp?v=1786629138</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Profilo Parabordo Sphaera Tessilmare con Base in Acciaio Inox - Terminale h50mm</Name>
+    <Brand>Tessilmare</Brand>
+    <Description>Il profilo parabordo Sphaera è un sistema modulare in acciaio inox che protegge la falchetta e lo scafo dagli urti. Il profilo si fissa allo scafo tramite una base dedicata e si completa con terminali e coprigiunti per chiudere le estremità e le giunzioni</Description>
+    <Price>42.60</Price>
+    <Code>3833526</Code>
+    <Link>https://www.onautica.com/products/profilo-parabordo-sphaera-con-base-in-acciaio-inox-bobine-da-3-12-24-m?variant=53775990948187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Bottazzo e Protezione Scafo</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833526_fcc67420-0a09-4a24-89f2-934b5cea0769.webp?v=1786629173</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>0.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502.webp?v=1786629136</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833502_5ba0b4b6-9b4a-41bf-8576-68636360d219.webp?v=1786629138</Image3>
     <Condition>nuovo</Condition>
@@ -61430,7 +61779,7 @@
   <Offer>
     <Name>Comando Motore Ultraflex B301CR / B302CR - B302CR Leva Doppia</Name>
     <Brand>Ultraflex</Brand>
-    <Description>Il comando Ultraflex B301CR/B302CR gestisce con un&apos;unica leva sia il gas che l&apos;inversione di marcia su motori entrobordo ed entro/fuoribordo, con azionamento a doppia azione. Leva e corpo sono in lega inossidabile cromata, il montaggio è a plancia. Il com</Description>
+    <Description>Il comando Ultraflex B301CR/B302CR gestisce con un&apos;unica leva sia il gas che l&apos;inversione di marcia su motori entrobordo ed entro/fuoribordo, con azionamento a doppia azione. Leva e corpo sono in lega inossidabile cromata, il montaggio �� a plancia. Il co</Description>
     <OriginalPrice>810.50</OriginalPrice>
     <Price>662.60</Price>
     <Code>4610112</Code>
@@ -72855,6 +73204,22 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3008005_1.webp?v=1788379607</Image3>
     <Condition>nuovo</Condition>
     <ParentID>seascooter-brabus-x-jobe-shadow-package</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Selettore L23 per Doppia Stazione – Comando Monoleva Acceleratore/Invertitore</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Meccanismo progettato per l’applicazione delle monoleve su installazioni con doppia stazione. \n \nQuesto selettore permette di manovrare acceleratore ed invertitore indipendentemente, ora dal ponte superiore, ora dalla cabina. \n \n ATTENZIONE : quando s</Description>
+    <Price>92.45</Price>
+    <Code>31649B</Code>
+    <Link>https://www.onautica.com/products/selettore-l23?variant=52577486569819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Selettore_L23.png?v=1773341813</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8031164316494</EanCode>
+    <Weight>0.39</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>selettore-l23</ParentID>
   </Offer>
   <Offer>
     <Name>Serbatoio Carburante Fisso Can SB in Eltex - 120 L</Name>
@@ -88313,7 +88678,6 @@
     <Name>Tubo Spiralato Armato per Impianti - Ø 60 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Tubo flessibile in PVC trasparente con spirale in acciaio per un’eccellente resistenza al collasso e alla piega. Estremamente morbido e maneggevole, consente curve fino a una volta il diametro esterno senza schiacciarsi, garantendo installazioni pulite an</Description>
-    <OriginalPrice>554.00</OriginalPrice>
     <Price>16.94</Price>
     <Code>140006015</Code>
     <Link>https://www.onautica.com/products/tubo-armato-rinforzato?variant=52559339684187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
@@ -92522,7 +92886,7 @@
     <Brand>Tecma</Brand>
     <Description>Il WC Tecma Compass Short è un toilet elettrico nautico dal design compatto, pensato per bagni di piccole dimensioni a bordo. Il ciclo di scarico è gestito da un pannello di comando elettronico dedicato. È disponibile nelle versioni 12V e 24V, abbinate al</Description>
     <OriginalPrice>986.00</OriginalPrice>
-    <Price>846.90</Price>
+    <Price>745.30</Price>
     <Code>1326011</Code>
     <Link>https://www.onautica.com/products/wc-elettrico-tecma-compass-short?variant=53861201969499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -92540,7 +92904,7 @@
     <Brand>Tecma</Brand>
     <Description>Il WC Tecma Compass Short è un toilet elettrico nautico dal design compatto, pensato per bagni di piccole dimensioni a bordo. Il ciclo di scarico è gestito da un pannello di comando elettronico dedicato. È disponibile nelle versioni 12V e 24V, abbinate al</Description>
     <OriginalPrice>986.00</OriginalPrice>
-    <Price>846.90</Price>
+    <Price>745.30</Price>
     <Code>1326012</Code>
     <Link>https://www.onautica.com/products/wc-elettrico-tecma-compass-short?variant=53861202002267&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
