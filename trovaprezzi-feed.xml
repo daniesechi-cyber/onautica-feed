@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-29T06:32:11.895Z -->
-<!-- Offerte: 5820 -->
+<!-- Generato: 2026-09-29T10:31:24.064Z -->
+<!-- Offerte: 5812 -->
 <Products>
   <Offer>
     <Name>Asse e Coperchio WC Compact Jabsco - Asse/coperchio WC Compact</Name>
@@ -2762,24 +2762,6 @@
     <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
   </Offer>
   <Offer>
-    <Name>Ancora Acciaio Zincato tipo Bruce - 30</Name>
-    <Brand>Bruce</Brand>
-    <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
-    <OriginalPrice>229.00</OriginalPrice>
-    <Price>187.64</Price>
-    <Code>0107530</Code>
-    <Link>https://www.onautica.com/products/ancora-acciaio-zincato-tipo-bruce?variant=52577376960859&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce1.png?v=1773341520</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>30.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBrucemisure.png?v=1773341520</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/AncoraBruce.png?v=1773341521</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-acciaio-zincato-tipo-bruce</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ancora Acciaio Zincato tipo Bruce - 50</Name>
     <Brand>Bruce</Brand>
     <Description>L&apos;Ancora 3-Wing (o tipo Bruce) è una delle ancore più diffuse e apprezzate nel diporto, nota per la sua stabilità e la sua capacità di far presa rapidamente. Realizzata in robusto acciaio zincato , offre la necessaria resistenza alla corrosione marina e u</Description>
@@ -4532,6 +4514,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920.webp?v=1786468672</Image>
     <ShippingCost>0</ShippingCost>
     <Weight>30.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920_e9fb7627-280d-4de3-9713-40c1682a150d.webp?v=1786468674</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920_1.webp?v=1786468676</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-pool-hhp-tw-in-acciaio-inox-316</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Pool HHP-TW in Acciaio Inox 316 - 40 Kg.</Name>
+    <Brand>Motomarine</Brand>
+    <Description>L&apos;ancora Pool HHP-TW (High Holding Power) è realizzata in acciaio inox 316 lucidato a specchio. È bilanciata per mantenere sempre le marre in posizione verticale, una caratteristica pensata per le imbarcazioni con linea di prua di nuova concezione e allog</Description>
+    <OriginalPrice>1628.00</OriginalPrice>
+    <Price>1335.30</Price>
+    <Code>0104940</Code>
+    <Link>https://www.onautica.com/products/ancora-pool-hhp-tw-in-acciaio-inox-316?variant=53757264593243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920.webp?v=1786468672</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>40.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920_e9fb7627-280d-4de3-9713-40c1682a150d.webp?v=1786468674</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0104920_1.webp?v=1786468676</Image3>
     <Condition>nuovo</Condition>
@@ -8165,6 +8165,23 @@
     <ParentID>gruppo-base-jabsco-di-ricambio-per-wc</ParentID>
   </Offer>
   <Offer>
+    <Name>Gruppo Motore Jabsco per WC Quiet Flush - 12 V</Name>
+    <Brand>Jabsco</Brand>
+    <Description>Il gruppo motore di ricambio per i WC Jabsco Quiet Flush: quando la pompa del WC elettrico si esaurisce, la sostituzione del gruppo riporta lo scarico alla potenza originale senza cambiare la toilette. Compatibile con le serie Quiet Flush 37045, 37245, 37</Description>
+    <OriginalPrice>411.46</OriginalPrice>
+    <Price>398.90</Price>
+    <Code>Z37072-0092</Code>
+    <Link>https://www.onautica.com/products/gruppo-motore-jabsco-per-wc-quiet-flush?variant=53699655237979&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z37072-0092-0.webp?v=1785550473</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>671880522939</EanCode>
+    <Weight>2.17</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>gruppo-motore-jabsco-per-wc-quiet-flush</ParentID>
+  </Offer>
+  <Offer>
     <Name>Gruppo Motore Jabsco per WC Quiet Flush - 24 V</Name>
     <Brand>Jabsco</Brand>
     <Description>Il gruppo motore di ricambio per i WC Jabsco Quiet Flush: quando la pompa del WC elettrico si esaurisce, la sostituzione del gruppo riporta lo scarico alla potenza originale senza cambiare la toilette. Compatibile con le serie Quiet Flush 37045, 37245, 37</Description>
@@ -8893,6 +8910,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z18590-2092-0.webp?v=1785555949</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>671880564380</EanCode>
+    <Weight>2.49</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z18590-2092-1.webp?v=1785555951</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-maceratrice-jabsco-46-l-min</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Maceratrice Jabsco 46 l/min - 12 V (16 A)</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La pompa maceratrice Jabsco svuota il serbatoio delle acque nere triturando: la lama tritatutto potenziata in acciaio inossidabile riduce i solidi mentre la pompa evacua a 46 litri al minuto (28 l/min a 6 metri di prevalenza). Motore completamente stagno </Description>
+    <OriginalPrice>300.68</OriginalPrice>
+    <Price>290.90</Price>
+    <Code>Z18590-2092</Code>
+    <Link>https://www.onautica.com/products/pompa-maceratrice-jabsco-46-l-min?variant=53699706290523&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z18590-2092-0.webp?v=1785555949</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>671880564373</EanCode>
     <Weight>2.49</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z18590-2092-1.webp?v=1785555951</Image2>
     <Condition>nuovo</Condition>
@@ -11160,21 +11195,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2521006_2.webp?v=1787814416</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bussola-verticale-riviera-pegasus-4-bp2</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Campana a Norme R.I.Na. Ø 210 mm in Ottone – Lucida o Cromata - Ottone lucido</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Campana a norme R.I.Na. Ø 210 mm per imbarcazioni da 12 a 20 metri, disponibile in ottone lucidato a specchio o in ottone cromato . Caratteristiche principali Costruita in conformità alle norme R.I.Na. (Registro Italiano Navale), garanzia di qualità e sic</Description>
-    <OriginalPrice>212.50</OriginalPrice>
-    <Price>200.95</Price>
-    <Code>1900021</Code>
-    <Link>https://www.onautica.com/products/campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt?variant=52577421558107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Campana_ottone_lucidato_a_specchio_a_norme_R.I.Na._per_imbarcazioni_da_12_a_20_mt..png?v=1773341635</Image>
-    <ShippingCost>0</ShippingCost>
-    <Condition>nuovo</Condition>
-    <ParentID>campana-ottone-lucidato-a-specchio-a-norme-r-i-na-per-imbarcazioni-da-12-a-20-mt</ParentID>
   </Offer>
   <Offer>
     <Name>Campana a Norme R.I.Na. Ø 210 mm in Ottone – Lucida o Cromata - Ottone cromato</Name>
@@ -15108,24 +15128,6 @@
     <ParentID>cavo-elettrico-marino-2x2-5-mm-rame-stagnato-bobina-50-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Cavo Elettrico Marino 2x4 mm² - Bobina 50 m - 50 m</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Questo cavo elettrico marino è certificato CE per le installazioni nautiche. L&apos;anima è in rame stagnato di classe 5 IEC60228, che protegge dalla corrosione e dall&apos;elettrolisi tipiche dell&apos;ambiente salino. La guaina, in un composto speciale di PVC fiamma-r</Description>
-    <OriginalPrice>330.00</OriginalPrice>
-    <Price>209.50</Price>
-    <Code>215722450</Code>
-    <Link>https://www.onautica.com/products/cavo-elettrico-marino-2x4-mm-bobina-50-m?variant=53965424918875&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/215723150_1f317c2a-ce98-467c-aae0-d6423d39c0be.webp?v=1788457474</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>14.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/215723150_1_ffe05d13-ce34-42a4-9180-275fe740fb7a.webp?v=1788457476</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/215723150_5e364c57-581c-46d9-ab63-cb81b1eb6cd1.webp?v=1788457479</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cavo-elettrico-marino-2x4-mm-bobina-50-m</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cavo Elettrico Marino 2x6 mm² in Rame Stagnato - Bobina 50 m - 50 m</Name>
     <Brand>Motomarine</Brand>
     <Description>Il cavo elettrico marino è certificato CE per le installazioni di bordo. L&apos;anima è in rame stagnato di classe 5 IEC60228, che protegge dalla corrosione e dall&apos;elettrolisi tipiche dell&apos;ambiente salino. La guaina è in PVC fiamma-ritardante e oleo-resistente</Description>
@@ -17898,23 +17900,6 @@
     <ParentID>cima-ormeggio-3-fusi-in-poliestere-ht-o-10-mm</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima Ormeggio 3 Fusi in Poliestere HT Ø 10 mm – Bobina 200 m - Classica</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La cima da ormeggio e ancoraggio 3 Fusi HT è realizzata in poliestere ad alta tenacità con lavorazione a doppia torsione. Non galleggia, caratteristica utile per l&apos;uso in ancoraggio dove serve che il cavo resti sott&apos;acqua. È disponibile nei colori Bianca,</Description>
-    <Price>247.40</Price>
-    <Code>3102310200</Code>
-    <Link>https://www.onautica.com/products/cima-ormeggio-3-fusi-in-poliestere-ht-o-10-mm?variant=53774745862491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102310200.webp?v=1786611690</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>15.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100610200.webp?v=1786611685</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102010200.webp?v=1786611687</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-ormeggio-3-fusi-in-poliestere-ht-o-10-mm</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cima Ormeggio 3 Fusi in Poliestere HT Ø 10 mm – Bobina 200 m - Rosso Vino</Name>
     <Brand>Motomarine</Brand>
     <Description>La cima da ormeggio e ancoraggio 3 Fusi HT è realizzata in poliestere ad alta tenacità con lavorazione a doppia torsione. Non galleggia, caratteristica utile per l&apos;uso in ancoraggio dove serve che il cavo resti sott&apos;acqua. È disponibile nei colori Bianca,</Description>
@@ -19633,22 +19618,6 @@
     <ShippingCost>0</ShippingCost>
     <Weight>21.60</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102712200.webp?v=1786611892</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-ormeggio-squareline-in-poliestere-o-12-mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima Ormeggio Squareline in Poliestere Ø 12 mm – Bobina 200 m - Blu Navy</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La cima Squareline è una treccia da ormeggio e ancoraggio morbida e resistente, realizzata con lavorazione in doppia torsione a 12 fusi di poliestere ad alta tenacità. Cala senza torcersi ed è pensata per un uso frequente in banchina o durante le manovre </Description>
-    <Price>364.00</Price>
-    <Code>3102712200</Code>
-    <Link>https://www.onautica.com/products/cima-ormeggio-squareline-in-poliestere-o-12-mm?variant=53774756413787&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3102712200.webp?v=1786611892</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>21.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3100712200.webp?v=1786611889</Image2>
     <Condition>nuovo</Condition>
     <ParentID>cima-ormeggio-squareline-in-poliestere-o-12-mm</ParentID>
   </Offer>
@@ -28397,22 +28366,6 @@
     <ParentID>moschettone-wichard-l-girevole-sgancio-rapido-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
-    <Name>Moschettone Wichard Sgancio Rapido con Grillo Girevole Inox - 90 mm</Name>
-    <Brand>Wichard</Brand>
-    <Description>Il moschettone Wichard a sgancio rapido con grillo girevole è pensato per l&apos;aggancio e lo sgancio veloce di cime, drizze o attrezzature in manovre che richiedono rapidità e sicurezza. Il grillo integrato ruota liberamente, evitando che il cavo o la cima s</Description>
-    <Price>137.90</Price>
-    <Code>3522790</Code>
-    <Link>https://www.onautica.com/products/moschettone-wichard-sgancio-rapido-con-grillo-girevole-inox?variant=53883716141403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Ferramenta Inox</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3522770.webp?v=1787732650</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3522770_558580dc-8fd3-4079-a693-95bd742af545.webp?v=1787732652</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>moschettone-wichard-sgancio-rapido-con-grillo-girevole-inox</ParentID>
-  </Offer>
-  <Offer>
     <Name>Moschettone Wichard Sgancio Rapido Occhio Girevole Inox - Ø 14 mm</Name>
     <Brand>Wichard</Brand>
     <Description>Il moschettone a sgancio rapido Wichard con occhio girevole permette di liberare il collegamento anche sotto carico, tramite una leva a scomparsa che sblocca l&apos;anello con un solo gesto. L&apos;occhio girevole integrato lascia ruotare liberamente la cima o il c</Description>
@@ -30525,6 +30478,21 @@
     <Price>152.20</Price>
     <Code>4132125</Code>
     <Link>https://www.onautica.com/products/filtro-acqua-di-mare-11-4-vetus-ftr330?variant=53877429633371&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Filtri</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_acqua_di_mare_1_1_4_Vetus_FTR330.png?v=1773341657</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>1.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-acqua-di-mare-11-4-vetus-ftr330</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Filtro acqua di mare 1&quot;1/4 Vetus FTR330 - 1&quot; 1/2</Name>
+    <Brand>Vetus</Brand>
+    <Description>Filtro acqua di mare in Polipropilene per pompe e raffreddamento motori. Uscite mm 31 (1&quot; 1/4) Caratteristiche principali Connessione da 1&quot; 1/4 (31 mm) per una portata generosa e compatibilità con impianti di media-grande dimensione Prodotto Vetus, brand </Description>
+    <Price>152.20</Price>
+    <Code>4132138</Code>
+    <Link>https://www.onautica.com/products/filtro-acqua-di-mare-11-4-vetus-ftr330?variant=53877429666139&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Filtri</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Filtro_acqua_di_mare_1_1_4_Vetus_FTR330.png?v=1773341657</Image>
@@ -41547,6 +41515,20 @@
     <ParentID>sifone-di-scarico-lt-40-60-mm-vetus</ParentID>
   </Offer>
   <Offer>
+    <Name>Sifone di Scarico LT 40-60 mm Vetus - Ø60mm</Name>
+    <Brand>Vetus</Brand>
+    <Description>Sifone di Scarico LT 40-60 mm Vetus Sifone di Scarico LT 40-60 mm Vetus per la linea di scarico dei motori marini. Disponibile in 4 versioni. A chi è rivolto A chi deve realizzare il collo d&apos;oca (sifone) sulla linea di scarico per impedire il ritorno d&apos;ac</Description>
+    <Price>304.70</Price>
+    <Code>5003060</Code>
+    <Link>https://www.onautica.com/products/sifone-di-scarico-lt-40-60-mm-vetus?variant=53617277141339&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Marmitte e Supporti</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5003040.webp?v=1784375570</Image>
+    <ShippingCost>0</ShippingCost>
+    <Condition>nuovo</Condition>
+    <ParentID>sifone-di-scarico-lt-40-60-mm-vetus</ParentID>
+  </Offer>
+  <Offer>
     <Name>Sifone di Scarico LT 75-127 mm Vetus - Ø75mm</Name>
     <Brand>Vetus</Brand>
     <Description>Sifone di Scarico LT 75-127 mm Vetus Sifone di Scarico LT 75-127 mm Vetus per la linea di scarico dei motori marini. Disponibile in 4 versioni. A chi è rivolto A chi deve realizzare il collo d&apos;oca (sifone) sulla linea di scarico per impedire il ritorno d&apos;</Description>
@@ -43611,23 +43593,6 @@
     <ParentID>olio-motore-yanmar-sae-5w40-diesel-synthetic-confezione-4x5-l</ParentID>
   </Offer>
   <Offer>
-    <Name>Orologio Cap Horizon D120mm in Acciaio Inox - D120mm</Name>
-    <Brand>Sea View</Brand>
-    <Description>L&apos;orologio Cap Horizon è uno strumento orario da parete con cassa in acciaio inox, pensato per la timoneria o gli interni della barca. Il quadrante analogico con lancette permette una lettura chiara dell&apos;ora anche a bordo. È disponibile nella versione con</Description>
-    <Price>119.10</Price>
-    <Code>2400232</Code>
-    <Link>https://www.onautica.com/products/orologio-cap-horizon-d120mm-in-acciaio-inox?variant=53892789600603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Orologi e Meteo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400232_1.webp?v=1787813494</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400216_2.webp?v=1787813488</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400216_3.webp?v=1787813490</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>orologio-cap-horizon-d120mm-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
     <Name>Orologio da Bordo Foresti e Suardi con Silenzio Radio - Acciaio inox</Name>
     <Brand>Foresti e Suardi</Brand>
     <Description>L&apos;orologio da bordo Foresti e Suardi, con funzione silenzio radio e diametro di 127 mm, è realizzato in acciaio inox. Fa parte della linea di strumenti di bordo Foresti e Suardi in acciaio inox. A chi è rivolto A chi cerca un orologio da bordo in acciaio </Description>
@@ -45676,23 +45641,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803006_6.webp?v=1786660611</Image3>
     <Condition>nuovo</Condition>
     <ParentID>parapoppa-stern-safe-motomarine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Paraprua/Parapoppa PVM1 in Poliuretano 60x25 cm - 60x25 cm</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il paraprua/parapoppa PVM1 è pensato per barche a vela e catamarani e protegge lo scafo durante le manovre di ancoraggio e ormeggio di prua o di poppa. La massa in poliuretano è resistente e morbida, assorbe gli urti più violenti e non si sgonfia perché n</Description>
-    <Price>166.90</Price>
-    <Code>3803030</Code>
-    <Link>https://www.onautica.com/products/paraprua-parapoppa-pvm1-in-poliuretano-60x25-cm?variant=53777569481051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803030_8e08d400-b303-48b2-a042-4e4a9c49f41d.webp?v=1786747884</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803030_1.webp?v=1786660644</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3803030.webp?v=1786660646</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>paraprua-parapoppa-pvm1-in-poliuretano-60x25-cm</ParentID>
   </Offer>
   <Offer>
     <Name>Pedaliera Watersnake per Motore Elettrico GEO-SPOT Controllo a Mani Libere</Name>
@@ -49849,6 +49797,24 @@
     <ParentID>caricabatterie-dolphin-pro-evo3-multistadio</ParentID>
   </Offer>
   <Offer>
+    <Name>Caricabatterie Dolphin Pro Evo3 Multistadio - 24V 100A</Name>
+    <Brand>Dolphin</Brand>
+    <Description>Il caricabatterie Dolphin Pro Evo3 ricarica le batterie di bordo con una curva multistadio IUUo che si adatta automaticamente a batterie AGM, Gel, Piombo o Litio. Mantiene un&apos;altissima efficienza anche ad alta temperatura, grazie alla cassa in policarbona</Description>
+    <OriginalPrice>2073.00</OriginalPrice>
+    <Price>1803.50</Price>
+    <Code>2010804</Code>
+    <Link>https://www.onautica.com/products/caricabatterie-dolphin-pro-evo3-multistadio?variant=53865294332251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2010804.webp?v=1787459737</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>9.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2010890_2.webp?v=1787459712</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2010890.webp?v=1787459704</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>caricabatterie-dolphin-pro-evo3-multistadio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Caricabatterie Dolphin ProLite 12V in Alluminio Anodizzato - 12V 15A</Name>
     <Brand>Dolphin</Brand>
     <Description>Il caricabatterie Dolphin ProLite carica le batterie di bordo con una curva multistadio IUUo ad alta efficienza, adattabile a batterie AGM, Gel, Piombo o Litio. È privo di ventola, quindi silenzioso, e la cassa in alluminio anodizzato ne permette l&apos;instal</Description>
@@ -51334,6 +51300,24 @@
     <ParentID>pompa-centrifuga-jabsco-cyclone-110-l-min</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa Centrifuga Jabsco Cyclone - 12 V – attacchi BSP</Name>
+    <Brand>Jabsco</Brand>
+    <Description>La Jabsco Cyclone è disponibile in due versioni: bassa pressione, da servizio continuo, con portata fino a 110 litri al minuto; e alta pressione, con portata fino a 80 litri al minuto e pressione massima 1,2 bar (17,4 PSI). Entrambe con robusto corpo pomp</Description>
+    <OriginalPrice>566.54</OriginalPrice>
+    <Price>544.90</Price>
+    <Code>Z50840-2012</Code>
+    <Link>https://www.onautica.com/products/pompa-centrifuga-jabsco-cyclone-110-l-min?variant=53699614867803&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z50840-0012-0.webp?v=1785547969</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>671880579414</EanCode>
+    <Weight>3.14</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z50840-0012-1.webp?v=1785547971</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-centrifuga-jabsco-cyclone-110-l-min</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa centrifuga multiuso Rule 3700 24V - Modello 3700 GPH - 24V</Name>
     <Brand>Rule</Brand>
     <Description>La pompa centrifuga multiuso Rule 3700 è ideale per la circolazione del pozzetto vivo, il movimento dell&apos;acqua di sentina e le attività di lavaggio a bassa pressione, in versione 24V. Ha una portata di 14.002 litri/ora, prevalenza massima di 3 metri e col</Description>
@@ -51581,22 +51565,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1601000-2.webp?v=1785571666</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-attwood-sahara-mk2-automatica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di Sentina Automatica BW 2000 GPH - 12V</Name>
-    <Brand>Motomarine</Brand>
-    <Description>La pompa di sentina Motomarine BW è un dispositivo automatico pensato per lo svuotamento dell&apos;acqua che si accumula in sentina. Il funzionamento automatico consente alla pompa di intervenire senza bisogno di azionamento manuale, mantenendo asciutto il van</Description>
-    <Price>106.80</Price>
-    <Code>1821122</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-automatica-bw-2000-gph?variant=53843742884187&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821122.webp?v=1787241816</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821106.webp?v=1787241812</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821106_754c1005-f747-4462-8e79-bfdeab6d54f2.webp?v=1787241814</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-automatica-bw-2000-gph</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di Sentina Automatica BW 2000 GPH - 24V</Name>
@@ -52504,23 +52472,6 @@
     <Weight>0.43</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompa-di-sentina-rule-500-automatica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa di Sentina Rule Automatic 12V - 500 GPH</Name>
-    <Brand>Rule</Brand>
-    <Description>La pompa di sentina Rule Automatic svuota automaticamente l&apos;acqua che si accumula in sentina, senza bisogno di intervento manuale. Il sistema rileva la presenza di acqua e avvia il pompaggio da solo, fermandosi quando la sentina è asciutta. È disponibile </Description>
-    <Price>154.80</Price>
-    <Code>1821605</Code>
-    <Link>https://www.onautica.com/products/pompa-di-sentina-rule-automatic-12v?variant=53877341815131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821605_1.webp?v=1787640767</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>1.60</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821605.webp?v=1787640769</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1821605_e219e2b6-3dc5-4fc7-87e9-23adccf53eed.webp?v=1787640771</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-di-sentina-rule-automatic-12v</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa di Sentina Rule Automatic 12V - 1100 GPH</Name>
@@ -53533,6 +53484,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z99B-0.webp?v=1785550518</Image>
     <ShippingCost>0</ShippingCost>
     <EanCode>042237106575</EanCode>
+    <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z99B-1.webp?v=1785550521</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>vaschetta-raccolta-acque-grigie-rule-con-pompa-automatica</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Vaschetta Raccolta Acque Grigie Rule con Pompa Automatica - 1100 GPH – 24 V</Name>
+    <Brand>Rule</Brand>
+    <Description>Il sistema Rule per lo scarico della doccia è completamente automatico: la vaschetta raccoglie l&apos;acqua grigia e la pompa integrata (800 o 1100 GPH) la evacua al comando dell&apos;interruttore a galleggiante. Coperchio a scatto sigillato contro gli spruzzi, val</Description>
+    <OriginalPrice>291.58</OriginalPrice>
+    <Price>281.90</Price>
+    <Code>Z99B-24</Code>
+    <Link>https://www.onautica.com/products/vaschetta-raccolta-acque-grigie-rule-con-pompa-automatica?variant=53699657531739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Pompe di Sentina</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z99B-0.webp?v=1785550518</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>042237106582</EanCode>
     <Weight>2.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z99B-1.webp?v=1785550521</Image2>
     <Condition>nuovo</Condition>
@@ -57057,24 +57026,6 @@
     <ParentID>boiler-nautico-quick-b3-in-composito</ParentID>
   </Offer>
   <Offer>
-    <Name>Boiler Nautico Quick B3 in Composito - 60 litri (Ø 400 × 721 mm)</Name>
-    <Brand>Quick</Brand>
-    <Description>Il Quick B3 è il boiler nautico con contenitore in materiale composito e serbatoio in acciaio inox AISI 316 con scambiatore di calore: acqua calda dalla resistenza da 1200 W (220 V) in banchina e dal circuito motore in navigazione. Selle e fasce in acciai</Description>
-    <OriginalPrice>1298.64</OriginalPrice>
-    <Price>859.90</Price>
-    <Code>2400760</Code>
-    <Link>https://www.onautica.com/products/boiler-nautico-quick-b3-in-composito?variant=53699518398811&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400715-0.webp?v=1785540483</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057090050592</EanCode>
-    <Weight>16.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400715-1.webp?v=1785540485</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>boiler-nautico-quick-b3-in-composito</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boiler Nautico Quick BX 16 Compatto - 16 litri</Name>
     <Brand>Quick</Brand>
     <Description>Il boiler Quick BX 16 ha contenitore in materiale termoformato e serbatoio in acciaio inox AISI 316 con scambiatore di calore, in dimensioni ridotte e facile da installare. Resistenza da 1200 W a 220 V, pressione di esercizio 6 bar, raccorderia in uscita </Description>
@@ -57269,24 +57220,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400620-2.webp?v=1785540494</Image3>
     <Condition>nuovo</Condition>
     <ParentID>boiler-nautico-quick-sigmar-compact</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Boiler Nautico Quick Sigmar Termoinox - 40 litri – 800 W (Ø 355 × 670 mm)</Name>
-    <Brand>Quick</Brand>
-    <Description>Il Sigmar Termoinox è il boiler cilindrico della famiglia Sigmar: serbatoio in acciaio inox AISI 316 isolato con poliuretano espanso ad alta densità (spessore 20 mm), scambiatori di calore in AISI 316 e resistenza elettrica in Incoloy 800/1200 W a 220 V. </Description>
-    <OriginalPrice>1129.44</OriginalPrice>
-    <Price>749.90</Price>
-    <Code>2400644</Code>
-    <Link>https://www.onautica.com/products/boiler-nautico-quick-sigmar-termoinox?variant=53699518955867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400641-0.webp?v=1785540505</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057090049176</EanCode>
-    <Weight>13.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400641-1.webp?v=1785540507</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>boiler-nautico-quick-sigmar-termoinox</ParentID>
   </Offer>
   <Offer>
     <Name>Boiler Nautico Quick Sigmar Termoinox - 60 litri – 1200 W (Ø 355 × 890 mm)</Name>
@@ -60268,39 +60201,6 @@
     <ParentID>scalda-acqua-quick-nautic-boiler-bxr-in-acciaio-inox-aisi-316-1200w</ParentID>
   </Offer>
   <Offer>
-    <Name>Scalda Acqua Quick Nautic Boiler BXS 25/40 Litri 1200W Compatto in Acciaio Inox AISI 316 - BXS 25 Litri</Name>
-    <Brand>Quick</Brand>
-    <Description>A chi è rivolto Lo scaldabagno Quick Nautic Boiler BXS è il modello compatto quadrato della gamma Quick, progettato per barche a vela e motore dove lo spazio è un fattore critico. La forma cubica permette di sfruttare al meglio vani tecnici e gavoni di di</Description>
-    <Price>627.31</Price>
-    <Code>1500525</Code>
-    <Link>https://www.onautica.com/products/scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316?variant=52995048505691&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-frontale-inox.webp?v=1778946174</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>13.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/boiler-quick-nautic-bxs-compatto-laterale.webp?v=1778946174</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/premiscelatore-quick-nautic-boiler-kit-bxs.webp?v=1778946174</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scalda-acqua-quick-nautic-boiler-bxs-25-40-litri-1200w-compatto-in-acciaio-inox-aisi-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Scaldabagno Quick Nautic Boiler B3 - 15 L</Name>
-    <Brand>Quick</Brand>
-    <Description>Lo scaldabagno Quick Nautic Boiler B3 riscalda l&apos;acqua a bordo grazie a una resistenza elettrica da 1200W, garantendo acqua calda per doccia e lavello anche in navigazione o all&apos;ormeggio. Il corpo cilindrico è pensato per un&apos;installazione compatta in dine</Description>
-    <Price>406.20</Price>
-    <Code>1500601</Code>
-    <Link>https://www.onautica.com/products/scaldabagno-quick-nautic-boiler-b3?variant=53836641894747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1500601_1.webp?v=1787173020</Image>
-    <ShippingCost>0</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1500601.webp?v=1787173022</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1500604_1.webp?v=1787173011</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>scaldabagno-quick-nautic-boiler-b3</ParentID>
-  </Offer>
-  <Offer>
     <Name>Scaldabagno Quick Nautic Boiler B3 - 20 L</Name>
     <Brand>Quick</Brand>
     <Description>Lo scaldabagno Quick Nautic Boiler B3 riscalda l&apos;acqua a bordo grazie a una resistenza elettrica da 1200W, garantendo acqua calda per doccia e lavello anche in navigazione o all&apos;ormeggio. Il corpo cilindrico è pensato per un&apos;installazione compatta in dine</Description>
@@ -60720,6 +60620,24 @@
     <ParentID>verricello-salpancora-lofrans-dorado</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricello Salpancora Lofrans Dorado - 800 W 12 V – barbotin Ø 6 mm (cima Ø 14 mm)</Name>
+    <Brand>Lofrans</Brand>
+    <Description>Il Lofrans Dorado è il salpancora compatto per barche fino a 8 metri: interamente in lega leggera resistente alla corrosione marina, pesa solo 7 kg nella versione da 500 W ed è progettato per salpare contemporaneamente cima e catena sullo stesso barbotin.</Description>
+    <OriginalPrice>1598.96</OriginalPrice>
+    <Price>1054.90</Price>
+    <Code>0303252</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-dorado?variant=53698779152731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303242-0.webp?v=1785523146</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>5204986000480</EanCode>
+    <Weight>11.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303242-1.webp?v=1785523148</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-lofrans-dorado</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello Salpancora Lofrans Razza in Inox 316L - 500 W 12 V – barbotin Ø 6 mm</Name>
     <Brand>Lofrans</Brand>
     <Description>Il Lofrans Razza è il salpancora interamente in acciaio inox 316L: la costruzione più resistente alla corrosione marina, con l&apos;estetica lucida che veste le barche curate. Il barbotin salpa cima e catena sulla stessa corona. Per barche da 6 a 9 metri: moto</Description>
@@ -60990,24 +60908,6 @@
     <ParentID>verricello-salpancora-quick-dp2-con-campana</ParentID>
   </Offer>
   <Offer>
-    <Name>Verricello Salpancora Quick DP2 con Campana - 1000 W 12 V – barbotin Ø 8 mm (barche 8-13 m)</Name>
-    <Brand>Quick</Brand>
-    <Description>Versione con campana del salpancora verticale Quick DP2: base, campana e coperchio barbotin in acciaio inox AISI 316, interno in materiale composito, cima e catena su un unico barbotin. La campana aggiunge la possibilità di tonneggiare e lavorare le cime </Description>
-    <OriginalPrice>2120.98</OriginalPrice>
-    <Price>1393.90</Price>
-    <Code>0307019</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-quick-dp2-con-campana?variant=53696588382555&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307013-0.webp?v=1785496072</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057090226225</EanCode>
-    <Weight>17.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307013-1.webp?v=1785496074</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-quick-dp2-con-campana</ParentID>
-  </Offer>
-  <Offer>
     <Name>Verricello Salpancora Quick DP2 con Campana - 1000 W 12 V – barbotin Ø 6 mm (barche 8-13 m)</Name>
     <Brand>Quick</Brand>
     <Description>Versione con campana del salpancora verticale Quick DP2: base, campana e coperchio barbotin in acciaio inox AISI 316, interno in materiale composito, cima e catena su un unico barbotin. La campana aggiunge la possibilità di tonneggiare e lavorare le cime </Description>
@@ -61096,24 +60996,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307042-1.webp?v=1785496067</Image2>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-quick-dp3-con-campana</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Quick DP3 senza Campana - 1500 W 12 V – barbotin Ø 10 mm</Name>
-    <Brand>Quick</Brand>
-    <Description>Versione bassa senza campana del salpancora Quick DP3: base e coperchio barbotin in acciaio inox AISI 316, struttura interna in materiale composito, cima e catena su un unico barbotin. Compatto e pulito in coperta, per barche da 12 a 15 metri. Motore stag</Description>
-    <OriginalPrice>2510.20</OriginalPrice>
-    <Price>1646.90</Price>
-    <Code>0307041</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-quick-dp3-senza-campana?variant=53698782658907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307040-0.webp?v=1785523181</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057090065794</EanCode>
-    <Weight>21.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307040-1.webp?v=1785523183</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-quick-dp3-senza-campana</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpancora Quick DP3 senza Campana - 1500 W 24 V – barbotin Ø 8 mm</Name>
@@ -65463,24 +65345,6 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>5204980448349</EanCode>
     <Weight>6.45</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323245-0.webp?v=1789641482</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-sogliola-nuova-rade</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Sogliola Nuova Rade - 73 litri (1100x350x220 mm)</Name>
-    <Brand>Nuova Rade</Brand>
-    <Description>Il serbatoio carburante Sogliola Nuova Rade, in polietilene, è approvato Ri.Na. e certificato CE N° 064596DG/009, completo di portagomma di pescaggio Ø 10 mm e sfiato Ø 16 mm. È predisposto per il montaggio dei galleggianti VDO, VEGLIA o simili. È disponi</Description>
-    <OriginalPrice>323.14</OriginalPrice>
-    <Price>245.90</Price>
-    <Code>2323280</Code>
-    <Link>https://www.onautica.com/products/serbatoio-sogliola-nuova-rade?variant=54100555661659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323245-1.webp?v=1789641479</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>5204980448363</EanCode>
-    <Weight>8.35</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323245-0.webp?v=1789641482</Image2>
     <Condition>nuovo</Condition>
     <ParentID>serbatoio-sogliola-nuova-rade</ParentID>
@@ -72560,22 +72424,6 @@
     <ParentID>ricambi-timonerie-idrauliche-vetus-valvole-rubinetti-tubo-e-flange</ParentID>
   </Offer>
   <Offer>
-    <Name>Ruota Timone Classica in Mogano e Ottone Lucido – Mozzo Conico Standard - Ø 300 mm.</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Arricchisci la tua imbarcazione con lo stile intramontabile della Ruota Timone in Mogano . Realizzata con legno pregiato verniciato per resistere all&apos;ambiente marino, questa ruota a caviglie offre una presa calda e sicura, ideale per barche d&apos;epoca, gozzi</Description>
-    <OriginalPrice>119.50</OriginalPrice>
-    <Price>101.71</Price>
-    <Code>4645030</Code>
-    <Link>https://www.onautica.com/products/ruota-timone-mogano-ottone-lucido?variant=52513559249243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ruota-timone-mogano-ottone-lucidob.png?v=1769324947</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ruota-timone-mogano-ottone-lucido.png?v=1769324948</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>ruota-timone-mogano-ottone-lucido</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ruota Timone Classica in Mogano e Ottone Lucido – Mozzo Conico Standard - Ø 420 mm.</Name>
     <Brand>Motomarine</Brand>
     <Description>Arricchisci la tua imbarcazione con lo stile intramontabile della Ruota Timone in Mogano . Realizzata con legno pregiato verniciato per resistere all&apos;ambiente marino, questa ruota a caviglie offre una presa calda e sicura, ideale per barche d&apos;epoca, gozzi</Description>
@@ -74061,6 +73909,24 @@
     <ParentID>timoneria-idraulica-vetus-mt-mtp</ParentID>
   </Offer>
   <Offer>
+    <Name>Timoneria Idraulica Vetus MTC125 fino a 13 Metri - Cilindro MTC125</Name>
+    <Brand>Vetus</Brand>
+    <Description>Il cilindro non si monta da solo: va abbinato a una pompa timoneria e ai raccordi rapidi per completare l&apos;impianto idraulico. Scegli tra le pompe Vetus HTP3010 o HTP4210 (con o senza valvola di non ritorno) e i raccordi rapidi dritti o curvi. Il cilindro </Description>
+    <OriginalPrice>1073.00</OriginalPrice>
+    <Price>957.80</Price>
+    <Code>4663253</Code>
+    <Link>https://www.onautica.com/products/timoneria-idraulica-vetus-mtc125-fino-a-13-metri?variant=53861164056923&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663253_10.webp?v=1787384114</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>13.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663253_8.webp?v=1787384119</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663253.webp?v=1787384121</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>timoneria-idraulica-vetus-mtc125-fino-a-13-metri</ParentID>
+  </Offer>
+  <Offer>
     <Name>Timoneria Idraulica Vetus MTC175 per Imbarcazioni fino a 15 m - Cilindro MTC175</Name>
     <Brand>Vetus</Brand>
     <Description>I raccordi rapidi dritti e curvi di questa gamma richiedono un cilindro Vetus compatibile, dal modello MTC52 al MTC175: non sono componenti che si montano da soli, ma servono a collegare tubo e cilindro nell&apos;impianto. La timoneria idraulica Vetus MTC175 è</Description>
@@ -74149,6 +74015,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663104_3.webp?v=1787383989</Image3>
     <Condition>nuovo</Condition>
     <ParentID>timoneria-idraulica-vetus-mtc52-per-imbarcazioni-fino-a-9-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Timoneria Idraulica Vetus MTC72 per Imbarcazioni fino a 11 Metri - Cilindro MTC72</Name>
+    <Brand>Vetus</Brand>
+    <Description>La timoneria idraulica Vetus MTC72 comanda il timone su yacht di grandi dimensioni e imbarcazioni da lavoro fino a 11 metri. Il cilindro ha il corpo in ottone, terminale dell&apos;asta zincato e si collega alla pompa al timone tramite tubi e raccordi a compres</Description>
+    <OriginalPrice>745.50</OriginalPrice>
+    <Price>663.00</Price>
+    <Code>4663146</Code>
+    <Link>https://www.onautica.com/products/timoneria-idraulica-vetus-mtc72-per-imbarcazioni-fino-a-11-metri?variant=53861163434331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663146_10.webp?v=1787384031</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>10.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663146_8.webp?v=1787384035</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4663146_9.webp?v=1787384033</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>timoneria-idraulica-vetus-mtc72-per-imbarcazioni-fino-a-11-metri</ParentID>
   </Offer>
   <Offer>
     <Name>Timoneria Idraulica Vetus MTC72 per Imbarcazioni fino a 11 Metri - Pompa HTP4210R</Name>
@@ -77343,22 +77227,6 @@
     <Price>132.10</Price>
     <Code>2301325</Code>
     <Link>https://www.onautica.com/products/sensore-carburante-vdo-tube?variant=53892784718171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Strumenti Motore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301301.webp?v=1787813416</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>0.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301301_1.webp?v=1787813419</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>sensore-carburante-vdo-tube</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sensore Carburante VDO Tube - 600 mm</Name>
-    <Brand>VDO</Brand>
-    <Description>Il sensore carburante VDO Tube è un trasmettitore di livello a immersione, pensato per essere inserito direttamente nel serbatoio del carburante e misurarne il livello in continuo. Il segnale generato viene inviato allo strumento di bordo compatibile, per</Description>
-    <Price>137.90</Price>
-    <Code>2301328</Code>
-    <Link>https://www.onautica.com/products/sensore-carburante-vdo-tube?variant=53892784750939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
     <Categories>Nautica;Motore;Strumenti Motore</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2301301.webp?v=1787813416</Image>
@@ -93979,7 +93847,7 @@
     <Name>Climatizzatore Marino Vitrifrigo Monoblocco 7000-16000 BTU - 7000 BTU/h – 230 V</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>Il sistema di climatizzazione Vitrifrigo è il monoblocco marino completo — compressore, condensatore, evaporatore e ventilatore in un&apos;unica unità — adatto al condizionamento di un ambiente singolo o di due ambienti adiacenti. Disponibile in tre taglie, da</Description>
-    <Price>1868.90</Price>
+    <Price>2222.10</Price>
     <Code>2460060</Code>
     <Link>https://www.onautica.com/products/climatizzatore-marino-vitrifrigo-monoblocco-16000-btu?variant=53754890486107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -95295,6 +95163,22 @@
     <ParentID>piedino-in-composito-max-power-serie-ct</ParentID>
   </Offer>
   <Offer>
+    <Name>Piedino in Composito Max Power Serie CT - CT80/100/125 – fissaggio a dado (2 eliche)</Name>
+    <Brand>Max Power</Brand>
+    <Description>Piedino in composito originale Max Power: il gruppo di trasmissione che porta il moto dal motore alle eliche del thruster, completo di viti, guarnizioni e spinotti per la sostituzione. Quattro versioni: CT35 (1 elica), CT45 (2 eliche), CT80/100/125 con fi</Description>
+    <OriginalPrice>856.66</OriginalPrice>
+    <Price>808.90</Price>
+    <Code>0380030</Code>
+    <Link>https://www.onautica.com/products/piedino-in-composito-max-power-serie-ct?variant=53698961703259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Eliche di Manovra</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/VMP028000-0.webp?v=1785529575</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>1.30</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>piedino-in-composito-max-power-serie-ct</ParentID>
+  </Offer>
+  <Offer>
     <Name>Piedino in Composito Max Power Serie CT - CT165/225 (2 eliche)</Name>
     <Brand>Max Power</Brand>
     <Description>Piedino in composito originale Max Power: il gruppo di trasmissione che porta il moto dal motore alle eliche del thruster, completo di viti, guarnizioni e spinotti per la sostituzione. Quattro versioni: CT35 (1 elica), CT45 (2 eliche), CT80/100/125 con fi</Description>
@@ -95950,24 +95834,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616603-1.webp?v=1785573107</Image2>
     <Condition>nuovo</Condition>
     <ParentID>pompa-gianneschi-mv44-g-per-acque-nere-e-grigie</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa in Bronzo Jabsco F7B-9 per Acqua di Raffreddamento - Pompa F7B-9 in bronzo</Name>
-    <Brand>Jabsco</Brand>
-    <Description>La pompa Jabsco F7B-9 è una pompa autoadescante in bronzo per l&apos;acqua di raffreddamento del motore. È una pompa taglia 80 con attacchi per tubi da 32 mm (1 1/4&quot;), pensata per l&apos;impianto di raffreddamento dell&apos;imbarcazione. A chi è rivolto Indicata per chi</Description>
-    <OriginalPrice>439.08</OriginalPrice>
-    <Price>425.90</Price>
-    <Code>Z23430-1001</Code>
-    <Link>https://www.onautica.com/products/pompa-in-bronzo-jabsco-f7b-9-per-acqua-di-raffreddamento?variant=53703709589851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z23430-1001-0.webp?v=1785661058</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>671880549233</EanCode>
-    <Weight>2.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z23430-1001-1.webp?v=1785661061</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-in-bronzo-jabsco-f7b-9-per-acqua-di-raffreddamento</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa ingranaggi Marco UP6 per travaso gasolio - UP6 12V</Name>
@@ -98433,7 +98299,7 @@
   <Offer>
     <Name>Supporto Sedile Master Regolabile in Alluminio Anodizzato - Alluminio</Name>
     <Brand>Motomarine</Brand>
-    <Description>Il supporto sedile Master permette di regolare l&apos;altezza del sedile a bordo grazie a un sistema di regolazione manuale. La testa �� girevole e dotata di slitta avanti-indietro, per orientare e posizionare il sedile come serve. L&apos;attacco è universale, quin</Description>
+    <Description>Il supporto sedile Master permette di regolare l&apos;altezza del sedile a bordo grazie a un sistema di regolazione manuale. La testa è girevole e dotata di slitta avanti-indietro, per orientare e posizionare il sedile come serve. L&apos;attacco è universale, quind</Description>
     <OriginalPrice>207.00</OriginalPrice>
     <Price>187.80</Price>
     <Code>0846862</Code>
@@ -98451,7 +98317,7 @@
   <Offer>
     <Name>Supporto Sedile Master Regolabile in Alluminio Anodizzato - Nero</Name>
     <Brand>Motomarine</Brand>
-    <Description>Il supporto sedile Master permette di regolare l&apos;altezza del sedile a bordo grazie a un sistema di regolazione manuale. La testa �� girevole e dotata di slitta avanti-indietro, per orientare e posizionare il sedile come serve. L&apos;attacco è universale, quin</Description>
+    <Description>Il supporto sedile Master permette di regolare l&apos;altezza del sedile a bordo grazie a un sistema di regolazione manuale. La testa è girevole e dotata di slitta avanti-indietro, per orientare e posizionare il sedile come serve. L&apos;attacco è universale, quind</Description>
     <OriginalPrice>262.50</OriginalPrice>
     <Price>222.60</Price>
     <Code>0846892</Code>
