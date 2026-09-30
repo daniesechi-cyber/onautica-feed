@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-09-30T14:32:05.116Z -->
+<!-- Generato: 2026-09-30T18:11:21.684Z -->
 <!-- Offerte: 5800 -->
 <Products>
   <Offer>
@@ -76629,41 +76629,6 @@
     <ParentID>radio-stereo-boss-mr632uab-bluetooth</ParentID>
   </Offer>
   <Offer>
-    <Name>Rivestimento Adesivo Gatorskinz Motomarine - 305 x 610 mm (12x24&quot;)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il rivestimento adesivo Gatorskinz di Motomarine è una pellicola autoadesiva pensata per rivestire superfici a bordo, migliorandone la resa al tatto e proteggendole da urti e usura quotidiana. Si applica direttamente sulla superficie pulita e asciutta, st</Description>
-    <Price>132.80</Price>
-    <Code>3328011</Code>
-    <Link>https://www.onautica.com/products/rivestimento-adesivo-gatorskinz-motomarine?variant=53884979085659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011.webp?v=1787734842</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Weight>3.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_46dc887b-fc7d-47cd-a6d5-c1c73f295a34.webp?v=1787734845</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_1.webp?v=1787734847</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rivestimento-adesivo-gatorskinz-motomarine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Rivestimento Adesivo Gatorskinz Motomarine - 610 x 610 mm (24x24&quot;)</Name>
-    <Brand>Motomarine</Brand>
-    <Description>Il rivestimento adesivo Gatorskinz di Motomarine è una pellicola autoadesiva pensata per rivestire superfici a bordo, migliorandone la resa al tatto e proteggendole da urti e usura quotidiana. Si applica direttamente sulla superficie pulita e asciutta, st</Description>
-    <OriginalPrice>227.00</OriginalPrice>
-    <Price>196.60</Price>
-    <Code>3328012</Code>
-    <Link>https://www.onautica.com/products/rivestimento-adesivo-gatorskinz-motomarine?variant=53884979118427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011.webp?v=1787734842</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>3.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_46dc887b-fc7d-47cd-a6d5-c1c73f295a34.webp?v=1787734845</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_1.webp?v=1787734847</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>rivestimento-adesivo-gatorskinz-motomarine</ParentID>
-  </Offer>
-  <Offer>
     <Name>Secchiello Champagne con Portabicchieri Marine Business in Acrilico - Ø 20 x H 24,5 cm</Name>
     <Brand>Marine Business</Brand>
     <Description>Il secchiello per champagne Marine Business è realizzato in acrilico 100% alimentare, pensato per servire in modo pratico a bordo. Le alette laterali fungono da portabicchieri e portasnack, così tutto resta a portata di mano senza occupare altro spazio su</Description>
@@ -81328,22 +81293,6 @@
     <ParentID>antenna-vhf-scout-in-fibra-di-vetro-240-cm</ParentID>
   </Offer>
   <Offer>
-    <Name>Antenna Wi-Fi 4G Glomex WebBoat IT1104ULTRA - IT1104ULTRA</Name>
-    <Brand>Glomex</Brand>
-    <Description>L&apos;antenna Glomex WebBoat IT1104ULTRA combina in un unico corpo la ricezione Wi-Fi e la connessione 4G, per portare internet a bordo senza installare più dispositivi separati. Si fissa in coperta o su un supporto e si collega al router di bordo per distrib</Description>
-    <OriginalPrice>860.50</OriginalPrice>
-    <Price>814.50</Price>
-    <Code>5637059</Code>
-    <Link>https://www.onautica.com/products/antenna-wi-fi-4g-glomex-webboat-it1104ultra?variant=53865256124763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5637059_1.webp?v=1787458495</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.70</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-wi-fi-4g-glomex-webboat-it1104ultra</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antenna Wi-Fi 4G Glomex Webboat Lite Evo IT1104EVO - IT1104EVO</Name>
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna Wi-Fi 4G Glomex Webboat Lite Evo è un dispositivo a montaggio fisso che unisce in un solo corpo la ricezione del segnale Wi-Fi e un modulo dati 4G, per avere internet a bordo sia captando una rete disponibile a terra sia tramite una connessione </Description>
@@ -84984,6 +84933,41 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/03-tre-quarti-sx.webp?v=1788285191</Image3>
     <Condition>nuovo</Condition>
     <ParentID>vhf-portatile-cobra-marine-bluebound-150e</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rivestimento Adesivo Gatorskinz Motomarine - 305 x 610 mm (12x24&quot;)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il rivestimento adesivo Gatorskinz di Motomarine è una pellicola autoadesiva pensata per rivestire superfici a bordo, migliorandone la resa al tatto e proteggendole da urti e usura quotidiana. Si applica direttamente sulla superficie pulita e asciutta, st</Description>
+    <Price>132.80</Price>
+    <Code>3328011</Code>
+    <Link>https://www.onautica.com/products/rivestimento-adesivo-gatorskinz-motomarine?variant=53884979085659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011.webp?v=1787734842</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_46dc887b-fc7d-47cd-a6d5-c1c73f295a34.webp?v=1787734845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_1.webp?v=1787734847</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>rivestimento-adesivo-gatorskinz-motomarine</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Rivestimento Adesivo Gatorskinz Motomarine - 610 x 610 mm (24x24&quot;)</Name>
+    <Brand>Motomarine</Brand>
+    <Description>Il rivestimento adesivo Gatorskinz di Motomarine è una pellicola autoadesiva pensata per rivestire superfici a bordo, migliorandone la resa al tatto e proteggendole da urti e usura quotidiana. Si applica direttamente sulla superficie pulita e asciutta, st</Description>
+    <OriginalPrice>227.00</OriginalPrice>
+    <Price>196.60</Price>
+    <Code>3328012</Code>
+    <Link>https://www.onautica.com/products/rivestimento-adesivo-gatorskinz-motomarine?variant=53884979118427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Tavoli e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011.webp?v=1787734842</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_46dc887b-fc7d-47cd-a6d5-c1c73f295a34.webp?v=1787734845</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3328011_1.webp?v=1787734847</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>rivestimento-adesivo-gatorskinz-motomarine</ParentID>
   </Offer>
   <Offer>
     <Name>Rivestimento EVA Deck 200x100 cm - Fresato Teak - Senza adesivo</Name>
@@ -89079,6 +89063,22 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Logo_Glomex.png?v=1773341964</Image2>
     <Condition>nuovo</Condition>
     <ParentID>kit-antenna-vhf-glomex-ra106-base-ra135</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Antenna Wi-Fi 4G Glomex WebBoat IT1104ULTRA - IT1104ULTRA</Name>
+    <Brand>Glomex</Brand>
+    <Description>L&apos;antenna Glomex WebBoat IT1104ULTRA combina in un unico corpo la ricezione Wi-Fi e la connessione 4G, per portare internet a bordo senza installare più dispositivi separati. Si fissa in coperta o su un supporto e si collega al router di bordo per distrib</Description>
+    <OriginalPrice>860.50</OriginalPrice>
+    <Price>814.50</Price>
+    <Code>5637059</Code>
+    <Link>https://www.onautica.com/products/antenna-wi-fi-4g-glomex-webboat-it1104ultra?variant=53865256124763&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5637059_1.webp?v=1787458495</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.70</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-wi-fi-4g-glomex-webboat-it1104ultra</ParentID>
   </Offer>
   <Offer>
     <Name>Antenna Wi-Fi/5G Glomex Webboat ePlus - 1,20 kg</Name>
@@ -93730,7 +93730,7 @@
     <Name>Climatizzatore Marino Vitrifrigo Monoblocco 7000-16000 BTU - 7000 BTU/h – 230 V</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>Il sistema di climatizzazione Vitrifrigo è il monoblocco marino completo — compressore, condensatore, evaporatore e ventilatore in un&apos;unica unità — adatto al condizionamento di un ambiente singolo o di due ambienti adiacenti. Disponibile in tre taglie, da</Description>
-    <Price>2222.10</Price>
+    <Price>1868.90</Price>
     <Code>2460060</Code>
     <Link>https://www.onautica.com/products/climatizzatore-marino-vitrifrigo-monoblocco-16000-btu?variant=53754890486107&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
