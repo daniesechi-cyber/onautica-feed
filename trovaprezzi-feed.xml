@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-02T14:31:40.387Z -->
+<!-- Generato: 2026-10-02T18:11:54.965Z -->
 <!-- Offerte: 5781 -->
 <Products>
   <Offer>
@@ -2061,23 +2061,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1326118_587ec9de-e679-4d1f-b030-169a5494db49.webp?v=1788551576</Image2>
     <Condition>nuovo</Condition>
     <ParentID>sedute-coperchi-e-cerniere-di-ricambio-tecma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Segnavento Windex - Precisione e Affidabilità per il Vento Apparente - 23&quot; (570 mm)</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il segnavento Windex è lo strumento essenziale per avere informazioni accurate sulla direzione del vento apparente , fondamentale per la regolazione delle vele e la navigazione. Caratteristiche Tecniche e Design: Alta Precisione: Il movimento dell&apos;asta è </Description>
-    <OriginalPrice>185.00</OriginalPrice>
-    <Price>108.34</Price>
-    <Code>2421023</Code>
-    <Link>https://www.onautica.com/products/segnavento-windex-cuscinetti-zaffiro-bolina?variant=52513565475163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>limitata</Stock>
-    <Categories>Nautica;Vela;Accessori Albero</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/windex-1.webp?v=1788188151</Image>
-    <ShippingCost>5.90</ShippingCost>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/windex-2.webp?v=1788188154</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/windex-3.webp?v=1788188156</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>segnavento-windex-cuscinetti-zaffiro-bolina</ParentID>
   </Offer>
   <Offer>
     <Name>Sensore Livello Acque Nere Can SB SO3818 - Filetto 1&quot;1/4</Name>
@@ -48145,11 +48128,26 @@
     <ParentID>batteria-al-litio-nmc-sh-lithium-per-motori-elettrici-12v-24v-36v</ParentID>
   </Offer>
   <Offer>
+    <Name>Batteria di Avviamento Osculati Safe Energy Plus 12V - 65 Ah</Name>
+    <Brand>Osculati</Brand>
+    <Description>La Batteria di Avviamento Osculati Safe Energy Plus è un accumulatore di ultima generazione progettato specificamente per resistere alle sollecitazioni estreme dell&apos;ambiente nautico. Grazie all&apos;impiego della tecnologia con griglie espanse in lega Piombo/C</Description>
+    <Price>114.20</Price>
+    <Code>12.480.02</Code>
+    <Link>https://www.onautica.com/products/batteria-nautica-osculati-safe-energy-plus-12v?variant=52711306953051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Batterie e Pannelli Solari</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/batteria-nautica-osculati-safe-energy-plus-12v.webp?v=1775058855</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033137220159</EanCode>
+    <Weight>15.60</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>batteria-nautica-osculati-safe-energy-plus-12v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Batteria di Avviamento Osculati Safe Energy Plus 12V - 80 Ah</Name>
     <Brand>Osculati</Brand>
     <Description>La Batteria di Avviamento Osculati Safe Energy Plus è un accumulatore di ultima generazione progettato specificamente per resistere alle sollecitazioni estreme dell&apos;ambiente nautico. Grazie all&apos;impiego della tecnologia con griglie espanse in lega Piombo/C</Description>
-    <OriginalPrice>119.50</OriginalPrice>
-    <Price>111.77</Price>
+    <Price>129.38</Price>
     <Code>12.480.03</Code>
     <Link>https://www.onautica.com/products/batteria-nautica-osculati-safe-energy-plus-12v?variant=52711306985819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -48165,8 +48163,7 @@
     <Name>Batteria di Avviamento Osculati Safe Energy Plus 12V - 95 Ah</Name>
     <Brand>Osculati</Brand>
     <Description>La Batteria di Avviamento Osculati Safe Energy Plus è un accumulatore di ultima generazione progettato specificamente per resistere alle sollecitazioni estreme dell&apos;ambiente nautico. Grazie all&apos;impiego della tecnologia con griglie espanse in lega Piombo/C</Description>
-    <OriginalPrice>144.50</OriginalPrice>
-    <Price>136.70</Price>
+    <Price>158.23</Price>
     <Code>12.480.05</Code>
     <Link>https://www.onautica.com/products/batteria-nautica-osculati-safe-energy-plus-12v?variant=52711307018587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -51400,7 +51397,7 @@
   <Offer>
     <Name>Pompa di Sentina Automatica Johnson Ultima Combo 1250 GPH - 24V</Name>
     <Brand>SPX Flow</Brand>
-    <Description>La pompa di sentina Johnson Ultima Combo è un modello automatico con interruttore a galleggiante integrato: si attiva da sola quando l&apos;acqua raggiunge un certo livello e si spegne quando la sentina è asciutta, senza bisogno di un sensore separato. È somme</Description>
+    <Description>La pompa di sentina Johnson Ultima Combo è un modello automatico con interruttore a galleggiante integrato: si attiva da sola quando l&apos;acqua raggiunge un certo livello e si spegne quando la sentina �� asciutta, senza bisogno di un sensore separato. È somm</Description>
     <OriginalPrice>162.50</OriginalPrice>
     <Price>150.50</Price>
     <Code>1822614</Code>
@@ -51416,7 +51413,7 @@
   <Offer>
     <Name>Pompa di Sentina Automatica Johnson Ultima Combo 1250 GPH - 12V</Name>
     <Brand>SPX Flow</Brand>
-    <Description>La pompa di sentina Johnson Ultima Combo è un modello automatico con interruttore a galleggiante integrato: si attiva da sola quando l&apos;acqua raggiunge un certo livello e si spegne quando la sentina è asciutta, senza bisogno di un sensore separato. È somme</Description>
+    <Description>La pompa di sentina Johnson Ultima Combo è un modello automatico con interruttore a galleggiante integrato: si attiva da sola quando l&apos;acqua raggiunge un certo livello e si spegne quando la sentina �� asciutta, senza bisogno di un sensore separato. È somm</Description>
     <OriginalPrice>174.50</OriginalPrice>
     <Price>158.30</Price>
     <Code>1822612</Code>
