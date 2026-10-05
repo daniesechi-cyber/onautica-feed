@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-04T09:22:43.810Z -->
-<!-- Offerte: 242 -->
+<!-- Generato: 2026-10-05T06:32:23.379Z -->
+<!-- Offerte: 244 -->
 <Products>
   <Offer>
     <Name>Telo Copertura MY40 in Rotolo per Rimessaggio Indoor - 8x50 m</Name>
@@ -3406,7 +3406,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>389.50</OriginalPrice>
-    <Price>380.67</Price>
+    <Price>388.44</Price>
     <Code>46.171.01</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253582683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3425,7 +3425,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>454.50</OriginalPrice>
-    <Price>447.71</Price>
+    <Price>447.70</Price>
     <Code>46.171.02</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253615451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3444,7 +3444,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>539.00</OriginalPrice>
-    <Price>524.55</Price>
+    <Price>535.26</Price>
     <Code>46.171.03</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253648219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3463,7 +3463,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
     <OriginalPrice>604.00</OriginalPrice>
-    <Price>589.76</Price>
+    <Price>601.80</Price>
     <Code>46.171.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52513573175643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3478,11 +3478,48 @@
     <ParentID>oceansouth-telo-copribarca-jumbo-marine-grade</ParentID>
   </Offer>
   <Offer>
+    <Name>Telo Copribarca &quot;Silver Shield&quot; Impermeabile e Anti-UV (Poliestere 300D/600D) - 488&lt;&gt;564 cm.</Name>
+    <Brand>Onautica</Brand>
+    <Description>La linea di teli copri barca è progettata per offrire una protezione completa e di alta qualità alla tua imbarcazione durante i periodi di rimessaggio. Realizzati in resistente poliestere con una spalmatura in PA, questi teli garantiscono una perfetta imp</Description>
+    <OriginalPrice>82.50</OriginalPrice>
+    <Price>71.12</Price>
+    <Code>3270004</Code>
+    <Link>https://www.onautica.com/products/telo-copribarca-silver-shield-poliestere-anti-uv?variant=52522251092315&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield.webp?v=1788283854</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626215901</EanCode>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield_borsa.webp?v=1788283856</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield_dettaglio.webp?v=1788283859</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copribarca-silver-shield-poliestere-anti-uv</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Telo Copribarca &quot;Silver Shield&quot; Impermeabile e Anti-UV (Poliestere 300D/600D) - 518&lt;&gt;579 cm.</Name>
+    <Brand>Onautica</Brand>
+    <Description>La linea di teli copri barca è progettata per offrire una protezione completa e di alta qualità alla tua imbarcazione durante i periodi di rimessaggio. Realizzati in resistente poliestere con una spalmatura in PA, questi teli garantiscono una perfetta imp</Description>
+    <OriginalPrice>86.50</OriginalPrice>
+    <Price>74.57</Price>
+    <Code>3270005</Code>
+    <Link>https://www.onautica.com/products/telo-copribarca-silver-shield-poliestere-anti-uv?variant=52522251125083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield.webp?v=1788283854</Image>
+    <ShippingCost>5.90</ShippingCost>
+    <EanCode>8033626215918</EanCode>
+    <Weight>2.65</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield_borsa.webp?v=1788283856</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/telo-copribarca-silver-shield_dettaglio.webp?v=1788283859</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>telo-copribarca-silver-shield-poliestere-anti-uv</ParentID>
+  </Offer>
+  <Offer>
     <Name>Telo Copribarca &quot;Silver Shield&quot; Impermeabile e Anti-UV (Poliestere 300D/600D) - 550&lt;&gt;610 cm.</Name>
     <Brand>Onautica</Brand>
     <Description>La linea di teli copri barca è progettata per offrire una protezione completa e di alta qualità alla tua imbarcazione durante i periodi di rimessaggio. Realizzati in resistente poliestere con una spalmatura in PA, questi teli garantiscono una perfetta imp</Description>
     <OriginalPrice>96.50</OriginalPrice>
-    <Price>77.89</Price>
+    <Price>83.19</Price>
     <Code>3270006</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-silver-shield-poliestere-anti-uv?variant=52522251157851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3501,7 +3538,7 @@
     <Brand>Onautica</Brand>
     <Description>La linea di teli copri barca è progettata per offrire una protezione completa e di alta qualità alla tua imbarcazione durante i periodi di rimessaggio. Realizzati in resistente poliestere con una spalmatura in PA, questi teli garantiscono una perfetta imp</Description>
     <OriginalPrice>157.50</OriginalPrice>
-    <Price>127.12</Price>
+    <Price>135.76</Price>
     <Code>3270007</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-silver-shield-poliestere-anti-uv?variant=52522251190619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3520,7 +3557,7 @@
     <Brand>Onautica</Brand>
     <Description>La linea di teli copri barca è progettata per offrire una protezione completa e di alta qualità alla tua imbarcazione durante i periodi di rimessaggio. Realizzati in resistente poliestere con una spalmatura in PA, questi teli garantiscono una perfetta imp</Description>
     <OriginalPrice>177.50</OriginalPrice>
-    <Price>143.26</Price>
+    <Price>153.00</Price>
     <Code>3270008</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-silver-shield-poliestere-anti-uv?variant=52522251223387&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3538,7 +3575,7 @@
     <Brand>Onautica</Brand>
     <Description>La linea di teli copri barca è progettata per offrire una protezione completa e di alta qualità alla tua imbarcazione durante i periodi di rimessaggio. Realizzati in resistente poliestere con una spalmatura in PA, questi teli garantiscono una perfetta imp</Description>
     <OriginalPrice>174.50</OriginalPrice>
-    <Price>146.66</Price>
+    <Price>156.64</Price>
     <Code>3270009</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-silver-shield-poliestere-anti-uv?variant=52522251256155&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3557,7 +3594,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>494.50</OriginalPrice>
-    <Price>414.87</Price>
+    <Price>443.09</Price>
     <Code>46.165.21</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228744539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3575,7 +3612,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>514.00</OriginalPrice>
-    <Price>430.24</Price>
+    <Price>459.50</Price>
     <Code>46.165.22</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228777307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3593,7 +3630,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>529.00</OriginalPrice>
-    <Price>445.61</Price>
+    <Price>475.92</Price>
     <Code>46.165.23</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228810075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3611,7 +3648,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>549.00</OriginalPrice>
-    <Price>460.98</Price>
+    <Price>492.33</Price>
     <Code>46.165.24</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228842843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3629,7 +3666,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>604.00</OriginalPrice>
-    <Price>507.07</Price>
+    <Price>541.56</Price>
     <Code>46.165.25</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228875611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3647,7 +3684,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>619.00</OriginalPrice>
-    <Price>522.45</Price>
+    <Price>557.99</Price>
     <Code>46.165.26</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228908379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3665,7 +3702,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>639.00</OriginalPrice>
-    <Price>537.82</Price>
+    <Price>574.41</Price>
     <Code>46.165.27</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52513574224219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3683,7 +3720,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>669.00</OriginalPrice>
-    <Price>563.42</Price>
+    <Price>601.74</Price>
     <Code>46.165.28</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228941147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3701,7 +3738,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
     <OriginalPrice>699.00</OriginalPrice>
-    <Price>589.00</Price>
+    <Price>629.08</Price>
     <Code>46.165.29</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228973915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3719,7 +3756,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca per Gommoni Oceansouth è la soluzione definitiva per chi cerca una protezione professionale contro gli elementi, sia durante il rimessaggio invernale che durante il trasporto su strada. Realizzato nel robusto tessuto ATLAS Marine Grade </Description>
     <OriginalPrice>184.50</OriginalPrice>
-    <Price>152.13</Price>
+    <Price>162.48</Price>
     <Code>46.166.06</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-gommoni-atlas-marine?variant=52513574355291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3738,13 +3775,13 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca per Gommoni Oceansouth è la soluzione definitiva per chi cerca una protezione professionale contro gli elementi, sia durante il rimessaggio invernale che durante il trasporto su strada. Realizzato nel robusto tessuto ATLAS Marine Grade </Description>
     <OriginalPrice>204.50</OriginalPrice>
-    <Price>171.59</Price>
+    <Price>183.27</Price>
     <Code>46.166.07</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-gommoni-atlas-marine?variant=52522245292379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
     <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-gommoni-atlas.webp?v=1788283876</Image>
-    <ShippingCost>5.90</ShippingCost>
+    <ShippingCost>0</ShippingCost>
     <EanCode>9337568002704</EanCode>
     <Weight>5.30</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-copribarca-gommoni-atlas_accessori.webp?v=1788283879</Image2>
@@ -3757,7 +3794,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth per Barche Open e &quot;Tinny&quot; (lance e piccoli scafi in alluminio) è progettato per offrire una protezione professionale a imbarcazioni che, tipicamente, non presentano parabrezza o sovrastrutture elevate. Realizzato nel tessuto </Description>
     <OriginalPrice>139.50</OriginalPrice>
-    <Price>114.90</Price>
+    <Price>122.72</Price>
     <Code>46.203.41</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-per-lance-oceansouth?variant=52522256171355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3776,7 +3813,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth per Barche Open e &quot;Tinny&quot; (lance e piccoli scafi in alluminio) è progettato per offrire una protezione professionale a imbarcazioni che, tipicamente, non presentano parabrezza o sovrastrutture elevate. Realizzato nel tessuto </Description>
     <OriginalPrice>149.50</OriginalPrice>
-    <Price>125.18</Price>
+    <Price>133.69</Price>
     <Code>46.203.51</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-per-lance-oceansouth?variant=52522256204123&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3795,7 +3832,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth per Barche Open e &quot;Tinny&quot; (lance e piccoli scafi in alluminio) è progettato per offrire una protezione professionale a imbarcazioni che, tipicamente, non presentano parabrezza o sovrastrutture elevate. Realizzato nel tessuto </Description>
     <OriginalPrice>154.50</OriginalPrice>
-    <Price>129.59</Price>
+    <Price>138.41</Price>
     <Code>46.203.56</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-per-lance-oceansouth?variant=52522256236891&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3814,7 +3851,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth per Barche Open e &quot;Tinny&quot; (lance e piccoli scafi in alluminio) è progettato per offrire una protezione professionale a imbarcazioni che, tipicamente, non presentano parabrezza o sovrastrutture elevate. Realizzato nel tessuto </Description>
     <OriginalPrice>174.50</OriginalPrice>
-    <Price>147.27</Price>
+    <Price>157.29</Price>
     <Code>46.203.61</Code>
     <Link>https://www.onautica.com/products/telo-copribarca-per-lance-oceansouth?variant=52522256269659&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3941,7 +3978,7 @@
     <Brand>Oceansouth</Brand>
     <Description>La Copertura Universale Oceansouth per Rimorchi è la soluzione &quot;All-in-One&quot; per chi cerca versatilità e protezione. Progettata sia per il rimessaggio statico che per il trasporto su strada (Trailerable) , questa copertura protegge la tua imbarcazione dagl</Description>
     <OriginalPrice>159.50</OriginalPrice>
-    <Price>133.86</Price>
+    <Price>142.97</Price>
     <Code>46.169.02</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-universale-rimorchio-atlas-canvas?variant=52513576091995&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3960,7 +3997,7 @@
     <Brand>Oceansouth</Brand>
     <Description>La Copertura Universale Oceansouth per Rimorchi è la soluzione &quot;All-in-One&quot; per chi cerca versatilità e protezione. Progettata sia per il rimessaggio statico che per il trasporto su strada (Trailerable) , questa copertura protegge la tua imbarcazione dagl</Description>
     <OriginalPrice>214.50</OriginalPrice>
-    <Price>182.64</Price>
+    <Price>195.06</Price>
     <Code>46.169.03</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-universale-rimorchio-atlas-canvas?variant=52522243326299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3979,7 +4016,7 @@
     <Brand>Oceansouth</Brand>
     <Description>La Copertura Universale Oceansouth per Rimorchi è la soluzione &quot;All-in-One&quot; per chi cerca versatilità e protezione. Progettata sia per il rimessaggio statico che per il trasporto su strada (Trailerable) , questa copertura protegge la tua imbarcazione dagl</Description>
     <OriginalPrice>264.50</OriginalPrice>
-    <Price>223.12</Price>
+    <Price>238.29</Price>
     <Code>46.169.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-universale-rimorchio-atlas-canvas?variant=52522243359067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -3998,7 +4035,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
     <OriginalPrice>209.50</OriginalPrice>
-    <Price>201.85</Price>
+    <Price>205.97</Price>
     <Code>46.165.01</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230055259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -4070,7 +4107,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
     <OriginalPrice>309.50</OriginalPrice>
-    <Price>299.15</Price>
+    <Price>305.26</Price>
     <Code>46.165.05</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230186331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -4088,7 +4125,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
     <OriginalPrice>324.50</OriginalPrice>
-    <Price>314.91</Price>
+    <Price>314.90</Price>
     <Code>46.165.06</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230219099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -4142,7 +4179,7 @@
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
     <OriginalPrice>389.50</OriginalPrice>
-    <Price>377.89</Price>
+    <Price>385.60</Price>
     <Code>46.165.09</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230317403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
