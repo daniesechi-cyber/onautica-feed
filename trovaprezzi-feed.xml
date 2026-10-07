@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-07T06:31:43.367Z -->
-<!-- Offerte: 1101 -->
+<!-- Generato: 2026-10-07T10:31:23.244Z -->
+<!-- Offerte: 1100 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -6611,6 +6611,24 @@
     <ParentID>frigorifero-vitrifrigo-c60i-chromelock-ad-incasso</ParentID>
   </Offer>
   <Offer>
+    <Name>Frigorifero Vitrifrigo Chromelock a Cassetto C42DW e C90DW - C42DW, 42 litri</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>Il frigorifero Vitrifrigo Chromelock ad apertura a cassetto ha un&apos;anta a spessore maggiorato ma più leggera a parità di ingombro, con profilo laterale liscio da 42 mm e pannello nero opaco con finitura anti impronta e antigraffio effetto soft touch. Il si</Description>
+    <Price>1114.90</Price>
+    <Code>2435080</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-c42dw-chromelock-ad-apertura-a-cassetto?variant=53724248113499&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435080-0_504a9d4a-ec9c-4e43-8595-7086de522ea3.webp?v=1785970535</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>8053670656383</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435080-1_36e7e933-6329-46bd-bf27-fb89a6679db9.webp?v=1785970541</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435080-2_b4cbf731-59b9-4999-b7fe-7f11d799299f.webp?v=1785970543</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-c42dw-chromelock-ad-apertura-a-cassetto</ParentID>
+  </Offer>
+  <Offer>
     <Name>Frigorifero Vitrifrigo Chromelock con Apertura a Porta - C39I – 39 L, motore interno</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>I frigoriferi Vitrifrigo della serie Chromelock uniscono estetica e sostanza: anta reversibile a spessore maggiorato ma più leggera, profilo laterale liscio da 42 mm, pannello nero opaco con finitura soft touch anti-impronta e antigraffio. Il sistema Chro</Description>
@@ -12791,23 +12809,6 @@
     <ParentID>verricello-salpancora-lofrans-dorado</ParentID>
   </Offer>
   <Offer>
-    <Name>Verricello Salpancora Lofrans Dorado - 800 W 12 V – barbotin Ø 6 mm (cima Ø 14 mm)</Name>
-    <Brand>Lofrans</Brand>
-    <Description>Il Lofrans Dorado è il salpancora compatto per barche fino a 8 metri: interamente in lega leggera resistente alla corrosione marina, pesa solo 7 kg nella versione da 500 W ed è progettato per salpare contemporaneamente cima e catena sullo stesso barbotin.</Description>
-    <Price>1054.90</Price>
-    <Code>0303252</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-dorado?variant=53698779152731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303242-0.webp?v=1785523146</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>5204986000480</EanCode>
-    <Weight>11.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303242-1.webp?v=1785523148</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-lofrans-dorado</ParentID>
-  </Offer>
-  <Offer>
     <Name>Verricello Salpancora Lofrans X1 con Campana - 500 W 12 V – barbotin Ø 6 mm</Name>
     <Brand>Lofrans</Brand>
     <Description>Versione con campana del salpancora Lofrans X1: il verricello in bronzo cromato per barche da 6 a 9 metri, con lo speciale dispositivo che mantiene la cima aderente al barbotin per salpare cima e catena con un&apos;unica corona. La campana aggiunge il tonneggi</Description>
@@ -13095,23 +13096,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307042-1.webp?v=1785496067</Image2>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-quick-dp3-con-campana</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Quick DP3 senza Campana - 1500 W 24 V – barbotin Ø 8 mm</Name>
-    <Brand>Quick</Brand>
-    <Description>Versione bassa senza campana del salpancora Quick DP3: base e coperchio barbotin in acciaio inox AISI 316, struttura interna in materiale composito, cima e catena su un unico barbotin. Compatto e pulito in coperta, per barche da 12 a 15 metri. Motore stag</Description>
-    <Price>1711.90</Price>
-    <Code>0307044</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-quick-dp3-senza-campana?variant=53698782691675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307040-0.webp?v=1785523181</Image>
-    <ShippingCost>15.90</ShippingCost>
-    <EanCode>8057090065848</EanCode>
-    <Weight>21.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307040-1.webp?v=1785523183</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-quick-dp3-senza-campana</ParentID>
   </Offer>
   <Offer>
     <Name>Barre di Accoppiamento Ultraflex per Motori Multipli - A96 · 66-73 cm · Mercury-Yamaha</Name>
