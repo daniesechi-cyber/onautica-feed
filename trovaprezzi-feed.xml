@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-09T06:32:40.144Z -->
-<!-- Offerte: 1096 -->
+<!-- Generato: 2026-10-09T10:31:25.584Z -->
+<!-- Offerte: 1097 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -9452,6 +9452,22 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>8056138270527</EanCode>
     <Weight>3.40</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>ammortizzatore-dormeggio-douglas-marine-serie-20</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ammortizzatore d&apos;Ormeggio Douglas Marine Serie 20 - Barche 25/35 t</Name>
+    <Brand>Douglas Marine</Brand>
+    <Description>La Serie 20 di Douglas Marine porta l&apos;ammortizzazione a elastomeri sulle barche importanti: acciaio inox HR 17/4PH con resistenza 120-140 kg/mm², elastomeri speciali da -40 °C a +120 °C con oltre 400.000 cicli di durata, fine corsa e distanziali in nylon </Description>
+    <Price>819.90</Price>
+    <Code>0202821</Code>
+    <Link>https://www.onautica.com/products/ammortizzatore-dormeggio-douglas-marine-serie-20?variant=53698962686299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Molle da Ormeggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0202820-0.webp?v=1785529606</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8056138270534</EanCode>
+    <Weight>3.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>ammortizzatore-dormeggio-douglas-marine-serie-20</ParentID>
   </Offer>
