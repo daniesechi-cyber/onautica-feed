@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-12T10:31:36.788Z -->
-<!-- Offerte: 1099 -->
+<!-- Generato: 2026-10-12T14:32:12.150Z -->
+<!-- Offerte: 1096 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -2114,23 +2114,6 @@
     <ParentID>caricabatterie-victron-skylla-tg-24v</ParentID>
   </Offer>
   <Offer>
-    <Name>Catena Calibrata Acciaio Inox AISI 316 Ø 10 mm DIN766 - Osculati - Bobina 50 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Catena Calibrata in Acciaio Inox AISI 316 — Ø 10 mm DIN766 — Osculati Catena calibrata in acciaio inox AISI 316 diametro Ø 10 mm , norma DIN766 . Idonea al passaggio sul barbotin del salpa-ancore grazie alla calibratura di precisione: la maglia ha pitch P</Description>
-    <Price>1516.11</Price>
-    <Code>01.375.11-050</Code>
-    <Link>https://www.onautica.com/products/catena-calibrata-acciaio-inox-aisi-316-o-10-mm-din766-osculati?variant=53353986064731&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Catene Nautiche</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-acciaio-inox-aisi-316-osculati_8b1fc546-1648-4381-8e62-be6d9ae42ca6.webp?v=1781086949</Image>
-    <ShippingCost>49.00</ShippingCost>
-    <Weight>122.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-calibrata-aisi-316-maglia-dettaglio_a8799f74-9789-4648-8255-68b1972e36a5.webp?v=1781086952</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/catena-aisi-316-disegno-tecnico-misure-p-b_b1283d5f-e073-4da4-bf45-3ed990057889.webp?v=1781086954</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>catena-calibrata-acciaio-inox-aisi-316-o-10-mm-din766-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Catena Calibrata Acciaio Inox AISI 316 Ø 10 mm DIN766 - Osculati - Bobina 100 m</Name>
     <Brand>Osculati</Brand>
     <Description>Catena Calibrata in Acciaio Inox AISI 316 — Ø 10 mm DIN766 — Osculati Catena calibrata in acciaio inox AISI 316 diametro Ø 10 mm , norma DIN766 . Idonea al passaggio sul barbotin del salpa-ancore grazie alla calibratura di precisione: la maglia ha pitch P</Description>
@@ -3264,6 +3247,23 @@
     <ParentID>cavo-batteria-marino-ce-1x50-mm-bobina-intera-da-25-o-50-m</ParentID>
   </Offer>
   <Offer>
+    <Name>Cavo Batteria Marino CE 1x50 mm² — Bobina Intera da 25 o 50 m - 50 m — Rosso</Name>
+    <Brand>MTM</Brand>
+    <Description>Il cavo batteria marino CE 1x50 mm² è pensato per i collegamenti di potenza a bordo, dove servono sezioni generose per correnti elevate: banchi batterie, verricelli, avviamenti di motori di grossa cilindrata. L&apos;anima è in rame rosso stagnato classe 5 seco</Description>
+    <Price>942.80</Price>
+    <Code>202003650</Code>
+    <Link>https://www.onautica.com/products/cavo-batteria-marino-ce-1x50-mm-bobina-intera-da-25-o-50-m?variant=53968575889755&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202003650_2_3bc432de-e958-48f9-8fc2-eab6d60b25a1.webp?v=1788502362</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <Weight>29.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202003525_2_cd9786d7-62d0-40de-8569-bcb7e6ac5313.webp?v=1788502347</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202003525_1.webp?v=1788502350</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-batteria-marino-ce-1x50-mm-bobina-intera-da-25-o-50-m</ParentID>
+  </Offer>
+  <Offer>
     <Name>Cavo Batteria Marino CE 1x70 mm² - Bobina 25 m - Nero - Bobina 25 m</Name>
     <Brand>MTM</Brand>
     <Description>Il cavo batteria marino è un cablaggio elettrico certificato CE pensato per collegamenti a corrente elevata a bordo, come il collegamento tra banco batterie, motore e inverter. Ha anima in rame rosso stagnato conforme a IEC60228 classe 5, isolata in PVC, </Description>
@@ -3296,6 +3296,57 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/202004025_1.webp?v=1788502417</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cavo-batteria-marino-ce-1x70-mm-bobina-25-m</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Shore Power 3x10 mm² in Rame Stagnato - Bobina Intera - 50 m</Name>
+    <Brand>MTM</Brand>
+    <Description>Cavo elettrico marino da banchina, certificato CE, pensato per collegare prese e spine di alimentazione shore power a bordo. Il conduttore è in rame rosso stagnato a norma IEC60228 classe 5, isolato e immerso in PVC per la massima protezione contro corros</Description>
+    <Price>723.70</Price>
+    <Code>210605850</Code>
+    <Link>https://www.onautica.com/products/cavo-shore-power-3x10-mm-in-rame-stagnato-bobina-intera?variant=53968576872795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_3.webp?v=1788502487</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <Weight>30.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_4.webp?v=1788502484</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_5.webp?v=1788502489</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-shore-power-3x10-mm-in-rame-stagnato-bobina-intera</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Shore Power 3x16 mm² 63A in Rame Stagnato - Bobina - 25 m</Name>
+    <Brand>MTM</Brand>
+    <Description>Il cavo elettrico da banchina serve per collegare l&apos;imbarcazione alla presa di terra (shore power), portando l&apos;alimentazione elettrica a bordo in sicurezza. Il conduttore è in rame rosso stagnato, realizzato secondo la norma IEC60228 classe 5, per una buo</Description>
+    <Price>569.20</Price>
+    <Code>210606325</Code>
+    <Link>https://www.onautica.com/products/cavo-shore-power-3x16-mm-63a-in-rame-stagnato-bobina?variant=53968576905563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_3_2a705ffd-886e-44d8-adc0-5778116662f0.webp?v=1788502496</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <Weight>21.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_4_cd29d2e6-a1aa-4d92-9681-a3a6f8bf944c.webp?v=1788502494</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_5_22c81fca-25c0-4450-b023-01368e3f0a90.webp?v=1788502499</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-shore-power-3x16-mm-63a-in-rame-stagnato-bobina</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Cavo Shore Power 3x16 mm² 63A in Rame Stagnato - Bobina - 50 m</Name>
+    <Brand>MTM</Brand>
+    <Description>Il cavo elettrico da banchina serve per collegare l&apos;imbarcazione alla presa di terra (shore power), portando l&apos;alimentazione elettrica a bordo in sicurezza. Il conduttore è in rame rosso stagnato, realizzato secondo la norma IEC60228 classe 5, per una buo</Description>
+    <Price>1138.40</Price>
+    <Code>210606350</Code>
+    <Link>https://www.onautica.com/products/cavo-shore-power-3x16-mm-63a-in-rame-stagnato-bobina?variant=53968576938331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Impianto Elettrico;Cablaggio</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_3_2a705ffd-886e-44d8-adc0-5778116662f0.webp?v=1788502496</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <Weight>42.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_4_cd29d2e6-a1aa-4d92-9681-a3a6f8bf944c.webp?v=1788502494</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/210603625_5_22c81fca-25c0-4450-b023-01368e3f0a90.webp?v=1788502499</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>cavo-shore-power-3x16-mm-63a-in-rame-stagnato-bobina</ParentID>
   </Offer>
   <Offer>
     <Name>Inverter Dometic SinePower DSP 12V/24V 230V - 1500W 24V</Name>
@@ -8045,23 +8096,6 @@
     <ParentID>pompa-raffreddamento-motore-serie-ife-con-frizione-elettromagnetica</ParentID>
   </Offer>
   <Offer>
-    <Name>Pompa Raffreddamento Motore Serie IFM a Puleggia e Frizione - Ø 40 mm</Name>
-    <Brand>MTM</Brand>
-    <Description>La pompa raffreddamento motore serie IFM è dotata di puleggia e frizione e serve a far circolare acqua di mare nel circuito di raffreddamento del motore. La frizione consente di innestare o disinnestare la pompa dal moto trasmesso dalla cinghia, azionando</Description>
-    <Price>517.40</Price>
-    <Code>1828040</Code>
-    <Link>https://www.onautica.com/products/pompa-raffreddamento-motore-serie-ifm-a-puleggia-e-frizione?variant=53877345845595&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Giranti e Pompe</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1828040_1.webp?v=1787641052</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>10.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1828030.webp?v=1787641047</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1828030_1.webp?v=1787641042</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-raffreddamento-motore-serie-ifm-a-puleggia-e-frizione</ParentID>
-  </Offer>
-  <Offer>
     <Name>Pompa Raffreddamento SPX Johnson F8B-5001 a Frizione Magnetica - Pompa completa 1&quot;1/2</Name>
     <Brand>SPX Flow</Brand>
     <Description>Attenzione: la puleggia con frizione elettromagnetica non è inclusa e va acquistata separatamente per poter montare la pompa sul motore. La pompa SPX Johnson F8B-5001 è una pompa di raffreddamento con frizione magnetica a puleggia, adatta sia ad acqua dol</Description>
@@ -9122,6 +9156,24 @@
     <ParentID>passerella-motomarine-in-carbonio-composito</ParentID>
   </Offer>
   <Offer>
+    <Name>Passerella pieghevole con carabottino Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella pieghevole con carabottino Osculati La passerella pieghevole con carabottino Osculati unisce il pregio del vero teak alla praticità della piega: è in alluminio anodizzato, pieghevole in due, con piano in carabottino di teak originale del Siam. </Description>
+    <Price>1165.50</Price>
+    <Code>42.667.20</Code>
+    <Link>https://www.onautica.com/products/passerella-pieghevole-con-carabottino-osculati?variant=53626455753051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20_New2022_jpg.webp?v=1784570039</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137013959</EanCode>
+    <Weight>16.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20A_New2022_jpg.webp?v=1784570031</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20B_New2022_jpg.webp?v=1784570034</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-pieghevole-con-carabottino-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Passerella pieghevole in carbonio Carbonbridge Osculati</Name>
     <Brand>Osculati</Brand>
     <Description>Passerella pieghevole in carbonio Carbonbridge Osculati La passerella Carbonbridge Osculati è una monoscocca high-tech in fibra di carbonio preimpregnata con resine epossidiche, con cerniere in alluminio ad alta resistenza fresate dal pieno e anodizzate n</Description>
@@ -9316,24 +9368,6 @@
     <Weight>11.61</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_643_01_New2022_jpg.webp?v=1784570357</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_643_01_New2022_jpg.webp?v=1784570359</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-pieghevoli-in-acciaio-inox-lucidato-a-specchio-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella pieghevoli in acciaio inox lucidato a specchio Osculati - Pieghevole · 2,2 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella pieghevoli in acciaio inox lucidato a specchio Osculati La passerella pieghevole in acciaio inox lucidato a specchio Osculati ha telaio in tubo ovale per la massima rigidità, cerniere e testata in acciaio AISI 316 microfuso e piano di calpestio</Description>
-    <Price>776.90</Price>
-    <Code>42.643.02</Code>
-    <Link>https://www.onautica.com/products/passerella-pieghevoli-in-acciaio-inox-lucidato-a-specchio-osculati?variant=53626492191067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_643_01_New2022_jpg.webp?v=1784570357</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137135606</EanCode>
-    <Weight>11.61</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_643_01_New2022_jpg.webp?v=1784570359</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_643_01A_New2022_jpg.webp?v=1784570361</Image3>
     <Condition>nuovo</Condition>
     <ParentID>passerella-pieghevoli-in-acciaio-inox-lucidato-a-specchio-osculati</ParentID>
   </Offer>
@@ -9647,24 +9681,6 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>8033137211546</EanCode>
     <Weight>9.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0021_33_600_05_new1_jpg.webp?v=1784570568</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0021_EN_33_600_05_new3_jpg.webp?v=1784570570</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>parabordo-e-boa-polyform-serie-a-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Parabordo e Boa POLYFORM Serie A Osculati - A7 · Bianco con testata blu</Name>
-    <Brand>Polyform</Brand>
-    <Description>Parabordo e Boa POLYFORM Serie A Osculati I parabordi Polyform Serie A proteggono lo scafo durante l&apos;ormeggio in banchina e l&apos;accosto ad altre imbarcazioni. Sono gonfiabili, provvisti di valvola di gonfiaggio e sgonfiaggio e testati singolarmente uno per </Description>
-    <Price>970.68</Price>
-    <Code>33.600.95bi</Code>
-    <Link>https://www.onautica.com/products/parabordo-e-boa-polyform-serie-a-osculati?variant=53626609566043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Parabordi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0021_EN_33_600_05_new1_jpg.webp?v=1784570566</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>743952002561</EanCode>
-    <Weight>25.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0021_33_600_05_new1_jpg.webp?v=1784570568</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0021_EN_33_600_05_new3_jpg.webp?v=1784570570</Image3>
     <Condition>nuovo</Condition>
@@ -12601,6 +12617,23 @@
     <ParentID>sistema-multifunzione-coastkey-avviamento-mob-wireless</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 500W - 12V Barbotin 6 mm.</Name>
+    <Brand>Osculati</Brand>
+    <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
+    <Price>727.90</Price>
+    <Code>02.408.01</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-obi-alluminio?variant=52608057934171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio.webp?v=1773742022</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137071164</EanCode>
+    <Weight>9.15</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-obi-alluminio_misura.webp?v=1773742037</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-italwinch-obi-alluminio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello Salpancora ITALWINCH Serie Obi (Alluminio Anodizzato) - Obi 700W - 12V Barbotin 6 mm.</Name>
     <Brand>Osculati</Brand>
     <Description>Il Verricello Salpancora ITALWINCH Serie Obi rappresenta una soluzione di ancoraggio ad asse verticale estremamente versatile e robusta, studiata per adattarsi a una vasta gamma di imbarcazioni. L&apos;intera linea si distingue per una solida carcassa in allum</Description>
@@ -13232,6 +13265,23 @@
     <ShippingCost>0</ShippingCost>
     <Weight>9.60</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Componenti Timoneria Ultraflex Nautech - Cilindri, Pompa e Accessori - Kit timoneria Nautech1</Name>
+    <Brand>Ultraflex</Brand>
+    <Description>Attenzione: la flangia di incasso, il sistema di regolazione dell&apos;angolo guida, le barre di accoppiamento motore e l&apos;olio idraulico presenti in questa scheda sono ricambi e accessori pensati per essere abbinati a una timoneria idraulica Ultraflex già inst</Description>
+    <Price>976.89</Price>
+    <Code>4655034</Code>
+    <Link>https://www.onautica.com/products/componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori?variant=53861723275611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_11.webp?v=1787383670</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <Weight>15.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_1.webp?v=1787383666</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655014_2.webp?v=1787383668</Image3>
     <Condition>nuovo</Condition>
     <ParentID>componenti-timoneria-ultraflex-nautech-cilindri-pompa-e-accessori</ParentID>
@@ -14338,23 +14388,6 @@
     <Weight>5.20</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640637_1.webp?v=1787923498</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640636_2.webp?v=1787923502</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>amplificatore-fusion-apollo-ms-ap</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Amplificatore Fusion Apollo MS-AP - 8 canali</Name>
-    <Brand>Fusion</Brand>
-    <Description>L&apos;amplificatore Fusion Apollo MS-AP alimenta gli impianti audio di bordo con una potenza di 150 W per canale a 4 Ohm. Il design compatto permette di installarlo anche in spazi ridotti, mantenendo prestazioni stabili su tutti i canali collegati. È disponib</Description>
-    <Price>926.60</Price>
-    <Code>5640638</Code>
-    <Link>https://www.onautica.com/products/amplificatore-fusion-apollo-ms-ap?variant=53908678181211&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Audio e Stereo</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640638_1.webp?v=1787923506</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>7.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640637_1.webp?v=1787923498</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5640636_1.webp?v=1787923500</Image3>
     <Condition>nuovo</Condition>
     <ParentID>amplificatore-fusion-apollo-ms-ap</ParentID>
   </Offer>
@@ -16129,6 +16162,24 @@
     <ParentID>tender-osculati-a-carena-v-in-alluminio</ParentID>
   </Offer>
   <Offer>
+    <Name>Tender Osculati a Carena V in Vetroresina - 2,20 m - 4 CV - 2 posti</Name>
+    <Brand>Osculati</Brand>
+    <Description>Gommone Tender con Carena a V in Vetroresina Gommone tender con scafo (carena) a V in vetroresina e tubolari gonfiabili, da usare come mezzo di servizio per raggiungere la riva o la banchina dalla barca all&apos;ancora. La carena rigida a V in vetroresina dà s</Description>
+    <Price>1421.00</Price>
+    <Code>22.640.22</Code>
+    <Link>https://www.onautica.com/products/tender-osculati-a-carena-v-in-vetroresina?variant=53534821908827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Tender e Gommoni;Tender</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/vtr.webp?v=1783446820</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>8033137208447</EanCode>
+    <Weight>50.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579728761179_0.webp?v=1783533299</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579728761179_1.webp?v=1783533301</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>tender-osculati-a-carena-v-in-vetroresina</ParentID>
+  </Offer>
+  <Offer>
     <Name>Tender Osculati a Carena V in Vetroresina - 2,50 m - 5 CV - 2 posti</Name>
     <Brand>Osculati</Brand>
     <Description>Gommone Tender con Carena a V in Vetroresina Gommone tender con scafo (carena) a V in vetroresina e tubolari gonfiabili, da usare come mezzo di servizio per raggiungere la riva o la banchina dalla barca all&apos;ancora. La carena rigida a V in vetroresina dà s</Description>
@@ -16864,74 +16915,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Z37010-4092-1.webp?v=1785571607</Image2>
     <Condition>nuovo</Condition>
     <ParentID>wc-elettrico-jabsco-regular-con-antiriflusso</ParentID>
-  </Offer>
-  <Offer>
-    <Name>WC Elettrico Ocean Luxury Silent - Bassa 12V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il WC elettrico Ocean Luxury Silent è un toilet marino con scarico elettrico automatico, pensato per bagni di bordo dove si cerca silenziosità di funzionamento e un utilizzo semplice, come su un WC di casa. Lo scarico avviene tramite pompa elettrica, senz</Description>
-    <Price>534.60</Price>
-    <Code>1320072</Code>
-    <Link>https://www.onautica.com/products/wc-elettrico-ocean-luxury-silent?variant=53861184209243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_1.webp?v=1787384641</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072.webp?v=1787384643</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_b9d83ac9-21dc-42be-b515-e5433261b442.webp?v=1787384645</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-elettrico-ocean-luxury-silent</ParentID>
-  </Offer>
-  <Offer>
-    <Name>WC Elettrico Ocean Luxury Silent - Bassa 24V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il WC elettrico Ocean Luxury Silent è un toilet marino con scarico elettrico automatico, pensato per bagni di bordo dove si cerca silenziosità di funzionamento e un utilizzo semplice, come su un WC di casa. Lo scarico avviene tramite pompa elettrica, senz</Description>
-    <Price>534.60</Price>
-    <Code>1320074</Code>
-    <Link>https://www.onautica.com/products/wc-elettrico-ocean-luxury-silent?variant=53861184242011&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_1.webp?v=1787384641</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072.webp?v=1787384643</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_b9d83ac9-21dc-42be-b515-e5433261b442.webp?v=1787384645</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-elettrico-ocean-luxury-silent</ParentID>
-  </Offer>
-  <Offer>
-    <Name>WC Elettrico Ocean Luxury Silent - Standard 12V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il WC elettrico Ocean Luxury Silent è un toilet marino con scarico elettrico automatico, pensato per bagni di bordo dove si cerca silenziosità di funzionamento e un utilizzo semplice, come su un WC di casa. Lo scarico avviene tramite pompa elettrica, senz</Description>
-    <Price>541.70</Price>
-    <Code>1320082</Code>
-    <Link>https://www.onautica.com/products/wc-elettrico-ocean-luxury-silent?variant=53861184274779&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_1.webp?v=1787384641</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072.webp?v=1787384643</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_b9d83ac9-21dc-42be-b515-e5433261b442.webp?v=1787384645</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-elettrico-ocean-luxury-silent</ParentID>
-  </Offer>
-  <Offer>
-    <Name>WC Elettrico Ocean Luxury Silent - Standard 24V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il WC elettrico Ocean Luxury Silent è un toilet marino con scarico elettrico automatico, pensato per bagni di bordo dove si cerca silenziosità di funzionamento e un utilizzo semplice, come su un WC di casa. Lo scarico avviene tramite pompa elettrica, senz</Description>
-    <Price>541.70</Price>
-    <Code>1320084</Code>
-    <Link>https://www.onautica.com/products/wc-elettrico-ocean-luxury-silent?variant=53861184307547&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_1.webp?v=1787384641</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072.webp?v=1787384643</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320072_b9d83ac9-21dc-42be-b515-e5433261b442.webp?v=1787384645</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>wc-elettrico-ocean-luxury-silent</ParentID>
   </Offer>
   <Offer>
     <Name>WC Elettrico Tecma Compass Short - 12V - Pannello Eco</Name>
@@ -18147,40 +18130,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323152-2.webp?v=1785548056</Image3>
     <Condition>nuovo</Condition>
     <ParentID>serbatoio-acque-nere-e-grigie-can-sb-con-pompa-jabsco</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Acque Nere Ocean System Sagomato con Pompa - 98 L - 12V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il serbatoio acque nere Ocean System è sagomato per sfruttare al meglio gli spazi a bordo e integra una pompa di scarico elettrica, così da poter svuotare il serbatoio senza montare una pompa separata. È disponibile nelle capacità da 45, 75 e 98 litri, ci</Description>
-    <Price>499.10</Price>
-    <Code>1322661</Code>
-    <Link>https://www.onautica.com/products/serbatoio-acque-nere-ocean-system-sagomato-con-pompa?variant=53861201510747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Acque Nere</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322653_6.webp?v=1787384840</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>17.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322653_4.webp?v=1787384842</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322653_9.webp?v=1787384844</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-acque-nere-ocean-system-sagomato-con-pompa</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Acque Nere Ocean System Sagomato con Pompa - 98 L - 24V</Name>
-    <Brand>Ocean</Brand>
-    <Description>Il serbatoio acque nere Ocean System è sagomato per sfruttare al meglio gli spazi a bordo e integra una pompa di scarico elettrica, così da poter svuotare il serbatoio senza montare una pompa separata. È disponibile nelle capacità da 45, 75 e 98 litri, ci</Description>
-    <Price>506.10</Price>
-    <Code>1322687</Code>
-    <Link>https://www.onautica.com/products/serbatoio-acque-nere-ocean-system-sagomato-con-pompa?variant=53861201543515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Acque Nere</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322653_6.webp?v=1787384840</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>17.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322653_4.webp?v=1787384842</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1322653_9.webp?v=1787384844</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-acque-nere-ocean-system-sagomato-con-pompa</ParentID>
   </Offer>
   <Offer>
     <Name>Sistema Cambio Olio Elettronico Marco OCS3/E 12/24V per Installazione Fissa - 12/24 V</Name>
