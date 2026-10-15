@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-15T06:32:45.268Z -->
-<!-- Offerte: 1094 -->
+<!-- Generato: 2026-10-15T10:31:41.756Z -->
+<!-- Offerte: 1095 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -7252,6 +7252,24 @@
     <ParentID>frigorifero-vitrifrigo-serie-c-compressore-interno</ParentID>
   </Offer>
   <Offer>
+    <Name>Frigorifero Vitrifrigo Steelock Inox con Apertura a Porta - C42LX – 42 L, motore esterno remotabile</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>La gamma Vitrifrigo in acciaio inox (serie OCX2): frigoriferi con porta reversibile e maniglia Steelock con funzione &quot;vent position&quot; integrata — porta socchiusa nei periodi di non utilizzo, per evitare muffe e odori. Completi di luce led e termostato mecc</Description>
+    <Price>1173.10</Price>
+    <Code>2435010</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-steelock-inox-con-apertura-a-porta?variant=53699516793179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-0.webp?v=1785540431</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>8053670657137</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-1.webp?v=1785540434</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-2.webp?v=1785540436</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-steelock-inox-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
     <Name>Frigorifero Vitrifrigo Steelock Inox con Apertura a Porta - C51iX – 51 L, motore interno</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>La gamma Vitrifrigo in acciaio inox (serie OCX2): frigoriferi con porta reversibile e maniglia Steelock con funzione &quot;vent position&quot; integrata — porta socchiusa nei periodi di non utilizzo, per evitare muffe e odori. Completi di luce led e termostato mecc</Description>
@@ -7263,6 +7281,24 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-0.webp?v=1785540431</Image>
     <ShippingCost>15.90</ShippingCost>
     <EanCode>8053670657144</EanCode>
+    <Weight>25.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-1.webp?v=1785540434</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-2.webp?v=1785540436</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>frigorifero-vitrifrigo-steelock-inox-con-apertura-a-porta</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Frigorifero Vitrifrigo Steelock Inox con Apertura a Porta - C62iX – 62 L, motore interno</Name>
+    <Brand>Vitrifrigo</Brand>
+    <Description>La gamma Vitrifrigo in acciaio inox (serie OCX2): frigoriferi con porta reversibile e maniglia Steelock con funzione &quot;vent position&quot; integrata — porta socchiusa nei periodi di non utilizzo, per evitare muffe e odori. Completi di luce led e termostato mecc</Description>
+    <Price>1240.90</Price>
+    <Code>2435013</Code>
+    <Link>https://www.onautica.com/products/frigorifero-vitrifrigo-steelock-inox-con-apertura-a-porta?variant=53699516858715&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Frigoriferi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-0.webp?v=1785540431</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>8053670657151</EanCode>
     <Weight>25.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-1.webp?v=1785540434</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2435010-2.webp?v=1785540436</Image3>
@@ -12702,24 +12738,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-v-500w-12v_misura2.webp?v=1773736794</Image3>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-italwinch-smart-v-500w-12v</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora ITALWINCH Smart-R1 ad Asse Verticale - Ø 8 mm.</Name>
-    <Brand>Osculati</Brand>
-    <Description>Il Verricello Salpancora ITALWINCH Smart-R1 è una soluzione di ancoraggio ad asse verticale compatta e altamente affidabile, progettata specificamente per imbarcazioni con una lunghezza massima fino a 10 metri . La sua architettura ibrida unisce una resis</Description>
-    <Price>712.90</Price>
-    <Code>02.413.03</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-italwinch-smart-r1?variant=52607470043483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r1.webp?v=1773737583</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8033137071454</EanCode>
-    <Weight>8.99</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r1_misura.webp?v=1773737593</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/verricello-salpancora-italwinch-smart-r1_misura2.webp?v=1773737607</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-italwinch-smart-r1</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpancora ITALWINCH Smart-R3 Inox (1000W 12V)</Name>
