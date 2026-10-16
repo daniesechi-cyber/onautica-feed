@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-15T18:11:31.647Z -->
-<!-- Offerte: 1097 -->
+<!-- Generato: 2026-10-16T06:32:27.083Z -->
+<!-- Offerte: 1096 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -1586,6 +1586,23 @@
     <ParentID>catena-calibrata-salpa-ancora-o-10-mm-in-acciaio-inox-316-g40</ParentID>
   </Offer>
   <Offer>
+    <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Zincato G43 - 50 m</Name>
+    <Brand>MTM</Brand>
+    <Description>La catena calibrata ISO Ø10mm è pensata per l&apos;uso con verricelli salpa ancora e si adatta ai sistemi che richiedono un passo standardizzato. È realizzata in acciaio zincato a caldo, con produzione controllata Grado G43 per garantire un elevato carico di r</Description>
+    <Price>360.00</Price>
+    <Code>011001150</Code>
+    <Link>https://www.onautica.com/products/catena-calibrata-salpa-ancora-o10mm-in-acciaio-zincato-g43-iso?variant=53774700347739&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>limitata</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630_8_e375d526-8cad-48e7-8e8c-b31d71a10275.webp?v=1786611247</Image>
+    <ShippingCost>49.00</ShippingCost>
+    <Weight>117.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630_7_adcc5acf-8894-4360-80cf-eefa769ea00e.webp?v=1786611250</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/011000630_4dfc957a-b1ad-4cc9-9fbc-23bdfd491435.webp?v=1786611252</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>catena-calibrata-salpa-ancora-o10mm-in-acciaio-zincato-g43-iso</ParentID>
+  </Offer>
+  <Offer>
     <Name>Catena Calibrata Salpa Ancora ISO Ø 10 mm Passo 30 in Acciaio Zincato G70 - 75 m</Name>
     <Brand>MTM</Brand>
     <Description>La catena calibrata ISO Ø 10 mm è pensata per l&apos;uso con verricelli salpa ancora, che richiedono un passo e una geometria dei link costanti per agganciarsi correttamente all&apos;ingranaggio. È realizzata in acciaio zincato a caldo, grado G70, con un elevato ca</Description>
@@ -1800,38 +1817,6 @@
     <Weight>1.70</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tessuto-h-145-cm-arancio-per-gommoni-denari-1100</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa a Matrice Dura EuroSprint PRO (Lunga Durata) - Bianco / 10 lt.</Name>
-    <Brand>FNI</Brand>
-    <Description>L&apos; Antivegetativa EuroSprint PRO (Cod. 6427) nei pratici formati da 5 L e 10 L è una pittura sottomarina a matrice dura dalla formula innovativa, studiata per garantire una protezione eccezionale e costante per più stagioni. Grazie alla sua altissima resi</Description>
-    <Price>817.90</Price>
-    <Code>6463106</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-matrice-dura-eurosprint-pro?variant=52619884888411&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-matrice-dura-eurosprint-pro.png?v=1773846580</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8014099723575</EanCode>
-    <Weight>13.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-matrice-dura-eurosprint-pro</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Antivegetativa a Matrice Dura EuroSprint PRO (Lunga Durata) - Nero / 10 lt.</Name>
-    <Brand>FNI</Brand>
-    <Description>L&apos; Antivegetativa EuroSprint PRO (Cod. 6427) nei pratici formati da 5 L e 10 L è una pittura sottomarina a matrice dura dalla formula innovativa, studiata per garantire una protezione eccezionale e costante per più stagioni. Grazie alla sua altissima resi</Description>
-    <Price>817.90</Price>
-    <Code>6463118</Code>
-    <Link>https://www.onautica.com/products/antivegetativa-matrice-dura-eurosprint-pro?variant=52619884921179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Manutenzione;Antivegetativa</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/antivegetativa-matrice-dura-eurosprint-pro.png?v=1773846580</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8014099723698</EanCode>
-    <Weight>13.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>antivegetativa-matrice-dura-eurosprint-pro</ParentID>
   </Offer>
   <Offer>
     <Name>Avvisatore a Fischio Marco a Norme R.I.NA. - 12V</Name>
@@ -10502,6 +10487,23 @@
     <ParentID>pompa-autoclave-marco-up6-e-elettronica</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa Autoclave Triplex Hi Flow Flojet 24V - Pompa autoclave Triplex Hi Flow 24V</Name>
+    <Brand>Flojet</Brand>
+    <Description>La pompa autoclave Triplex Hi Flow di Flojet è una pompa a membrana dal funzionamento silenzioso, progettata per applicazioni con requisiti idrici elevati. Ha una portata di 15 litri al minuto con scarico libero, senza contropressione, e si spegne automat</Description>
+    <Price>882.30</Price>
+    <Code>ZR3521339A</Code>
+    <Link>https://www.onautica.com/products/pompa-autoclave-triplex-hi-flow-flojet-24v?variant=53712503144795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZR3521339A-0.webp?v=1785771917</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>705474214518</EanCode>
+    <Weight>3.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/ZR3521339A-1.webp?v=1785771919</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-autoclave-triplex-hi-flow-flojet-24v</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa Centrifuga Jabsco Cyclone - 12 V – attacchi NPT</Name>
     <Brand>Jabsco</Brand>
     <Description>La Jabsco Cyclone è disponibile in due versioni: bassa pressione, da servizio continuo, con portata fino a 110 litri al minuto; e alta pressione, con portata fino a 80 litri al minuto e pressione massima 1,2 bar (17,4 PSI). Entrambe con robusto corpo pomp</Description>
@@ -11475,23 +11477,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1921500-1.webp?v=1786474142</Image3>
     <Condition>nuovo</Condition>
     <ParentID>filtro-separatore-racor-500-900-1000-ma-con-coppette-di-ricambio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Miscelatore Alto Lavabo Foresti Arena - Con scarico Clic-Clac 1&quot;1/4</Name>
-    <Brand>Foresti e Suardi</Brand>
-    <Description>Il miscelatore alto Arena di Foresti è il rubinetto da lavabo con la boccola di scarico Clic-Clac da 1&quot;1/4 (Ø 50 mm) già inclusa: monoforo alto per i lavabi da appoggio, con attacchi portagomma da 3/8&quot;. Rubinetteria nautica italiana Foresti e Suardi. A ch</Description>
-    <Price>277.90</Price>
-    <Code>2424312</Code>
-    <Link>https://www.onautica.com/products/miscelatore-alto-lavabo-foresti-arena?variant=53699762094427&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2424312-0.webp?v=1785561547</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8000177152115</EanCode>
-    <Weight>1.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2424312-1.webp?v=1785561549</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>miscelatore-alto-lavabo-foresti-arena</ParentID>
   </Offer>
   <Offer>
     <Name>Motore Elettrico Quick per Verricelli Salpa Ancora - Riduttore 1500W</Name>
@@ -15378,7 +15363,7 @@
     <Name>Telo Copribarca &quot;Jumbo&quot; Universale per T-Top e Cabina – Oceansouth - 580/640 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
-    <Price>388.44</Price>
+    <Price>391.79</Price>
     <Code>46.171.01</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253582683&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15414,7 +15399,7 @@
     <Name>Telo Copribarca &quot;Jumbo&quot; Universale per T-Top e Cabina – Oceansouth - 700/760 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
-    <Price>535.26</Price>
+    <Price>539.85</Price>
     <Code>46.171.03</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52522253648219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15432,7 +15417,7 @@
     <Name>Telo Copribarca &quot;Jumbo&quot; Universale per T-Top e Cabina – Oceansouth - 760/820 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Jumbo Oceansouth è la soluzione definitiva per imbarcazioni con profili voluminosi che i teli standard non riescono a coprire. Progettato specificamente per ospitare T-Top, Hard Top, Cuddy Cabins e Console Centrali alte , questo telo of</Description>
-    <Price>601.80</Price>
+    <Price>606.99</Price>
     <Code>46.171.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-jumbo-marine-grade?variant=52513573175643&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15450,7 +15435,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 720/750 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>443.09</Price>
+    <Price>446.92</Price>
     <Code>46.165.21</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228744539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>disponibile</Stock>
@@ -15467,7 +15452,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 760/790 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>459.50</Price>
+    <Price>463.47</Price>
     <Code>46.165.22</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228777307&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15484,7 +15469,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 800/830 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>475.92</Price>
+    <Price>480.04</Price>
     <Code>46.165.23</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228810075&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15501,7 +15486,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 840/870 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>492.33</Price>
+    <Price>496.59</Price>
     <Code>46.165.24</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228842843&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15518,7 +15503,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 880/910 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>541.56</Price>
+    <Price>546.23</Price>
     <Code>46.165.25</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228875611&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15535,7 +15520,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 920/950 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>557.99</Price>
+    <Price>562.80</Price>
     <Code>46.165.26</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228908379&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15552,7 +15537,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 960/990 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>574.41</Price>
+    <Price>579.35</Price>
     <Code>46.165.27</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52513574224219&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15569,7 +15554,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 1000/1050 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>601.74</Price>
+    <Price>606.95</Price>
     <Code>46.165.28</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228941147&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15586,7 +15571,7 @@
     <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 1060/1100 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
-    <Price>629.08</Price>
+    <Price>634.50</Price>
     <Code>46.165.29</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228973915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15705,7 +15690,7 @@
     <Name>Telo Copribarca Universale per Rimorchio e Trasporto – Oceansouth - 540/640 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>La Copertura Universale Oceansouth per Rimorchi è la soluzione &quot;All-in-One&quot; per chi cerca versatilità e protezione. Progettata sia per il rimessaggio statico che per il trasporto su strada (Trailerable) , questa copertura protegge la tua imbarcazione dagl</Description>
-    <Price>238.29</Price>
+    <Price>240.34</Price>
     <Code>46.169.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-universale-rimorchio-atlas-canvas?variant=52522243359067&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15740,7 +15725,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 570/590 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>267.67</Price>
+    <Price>269.98</Price>
     <Code>46.165.04</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230153563&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15757,7 +15742,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 600/630 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>305.26</Price>
+    <Price>307.88</Price>
     <Code>46.165.05</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230186331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15774,7 +15759,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 640/670 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>314.90</Price>
+    <Price>317.63</Price>
     <Code>46.165.06</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230219099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15808,7 +15793,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 720/750 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>346.38</Price>
+    <Price>349.39</Price>
     <Code>46.165.08</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230284635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15825,7 +15810,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 760/790 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>385.60</Price>
+    <Price>388.91</Price>
     <Code>46.165.09</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230317403&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15842,7 +15827,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 800/830 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>393.63</Price>
+    <Price>397.02</Price>
     <Code>46.165.10</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230350171&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
@@ -15859,7 +15844,7 @@
     <Name>Telo Coprigommone Sartoriale per RIB con Roll-Bar – Oceansouth - 840/870 cm.</Name>
     <Brand>Oceansouth</Brand>
     <Description>Il Telo Coprigommone Sartoriale Oceansouth è la copertura da prua a poppa per i gommoni a chiglia rigida (RIB) con console centrale e roll-bar. Il taglio segue la sagoma del gommone: il tessuto appoggia sui tubolari senza tirare e arriva a coprire la zona</Description>
-    <Price>425.09</Price>
+    <Price>428.75</Price>
     <Code>46.165.11</Code>
     <Link>https://www.onautica.com/products/oceansouth-telo-copribarca-invernale-atlas-ultra-resistente?variant=52522230382939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
     <Stock>limitata</Stock>
