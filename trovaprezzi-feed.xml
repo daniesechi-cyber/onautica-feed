@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-16T10:31:40.415Z -->
+<!-- Generato: 2026-10-16T14:33:05.213Z -->
 <!-- Offerte: 1096 -->
 <Products>
   <Offer>
@@ -9538,6 +9538,40 @@
     <ParentID>ammortizzatore-ormeggio-sidermarine-mk75-flex-150-300t</ParentID>
   </Offer>
   <Offer>
+    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 24 V (19 A)</Name>
+    <Brand>Gianneschi</Brand>
+    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
+    <Price>1152.90</Price>
+    <Code>1616696</Code>
+    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674603867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052282028519</EanCode>
+    <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 12 V (35 A)</Name>
+    <Brand>Gianneschi</Brand>
+    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
+    <Price>1293.90</Price>
+    <Code>1616695</Code>
+    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674636635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052282028502</EanCode>
+    <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
+  </Offer>
+  <Offer>
     <Name>Molla di Ormeggio Sidermarine MK55 Ibrido 30-90t - 30-90 t</Name>
     <Brand>Sidermarine</Brand>
     <Description>La molla da ormeggio Sidermarine MK55 Ibrido assorbe gli strappi delle cime di ormeggio grazie a elastomeri cilindrici che aumentano il carico inerziale e la forza progressiva. Il risultato è un ammortizzamento silenzioso che riduce lo stress su cime, bit</Description>
@@ -9916,40 +9950,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1827712_5701155b-3e2a-464c-8b2b-ca0e146e3fe9.webp?v=1787641843</Image3>
     <Condition>nuovo</Condition>
     <ParentID>pompa-autoclave-cem-pb-2x-con-serbatoio-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 24 V (19 A)</Name>
-    <Brand>Gianneschi</Brand>
-    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
-    <Price>1152.90</Price>
-    <Code>1616696</Code>
-    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674603867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052282028519</EanCode>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 12 V (35 A)</Name>
-    <Brand>Gianneschi</Brand>
-    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
-    <Price>1293.90</Price>
-    <Code>1616695</Code>
-    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674636635&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052282028502</EanCode>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
     <Name>Autoclave Gianneschi Idromini ACB con Serbatoio - 24 V (15 A)</Name>
