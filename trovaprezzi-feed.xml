@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-17T06:32:52.354Z -->
-<!-- Offerte: 1096 -->
+<!-- Generato: 2026-10-17T11:47:01.204Z -->
+<!-- Offerte: 1092 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -370,6 +370,24 @@
     <ShippingCost>0</ShippingCost>
     <EanCode>647124120377</EanCode>
     <Weight>9.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-2.webp?v=1785496079</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-3.webp?v=1785496082</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>ancora-fortress-in-lega-di-alluminio-e-magnesio</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Ancora Fortress in Lega di Alluminio e Magnesio - FX-55 (14,5 kg – barche 16-18 m)</Name>
+    <Brand>Fortress</Brand>
+    <Description>L&apos;ancora Fortress in lega di alluminio e magnesio è l&apos;ancora leggera più rinomata, dalle prestazioni unanimemente riconosciute. Completamente smontabile, è facilissima da maneggiare per tutto l&apos;equipaggio: a parità di misura pesa una frazione di un&apos;ancora</Description>
+    <Price>1849.90</Price>
+    <Code>P006075</Code>
+    <Link>https://www.onautica.com/products/ancora-fortress-in-lega-di-alluminio-e-magnesio?variant=53696589332827&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-0.webp?v=1785496077</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>647124120551</EanCode>
+    <Weight>14.50</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-2.webp?v=1785496079</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/P005411-3.webp?v=1785496082</Image3>
     <Condition>nuovo</Condition>
@@ -3580,23 +3598,6 @@
     <ParentID>cima-da-ormeggio-ritorta-bianca-alta-tenacita-plam-bobina</ParentID>
   </Offer>
   <Offer>
-    <Name>Cima da Ormeggio Ritorta Bianca in Poliestere – Bobina - Ø 40 mm – bobina 100 m (rottura 14.000 kg)</Name>
-    <Brand>Monteisola</Brand>
-    <Description>Cima da ormeggio ritorta a 3 legnoli in poliestere lucido di media tenacità, lavorazione gherlino (triplo ritorto): l&apos;affondante tuttofare per ormeggio, ancoraggio, fissaggio dei parabordi, utilizzi di bordo e legature in generale, su supporto rigido in p</Description>
-    <Price>867.90</Price>
-    <Code>9005040</Code>
-    <Link>https://www.onautica.com/products/cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina?variant=53698846064987&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-0.webp?v=1785525439</Image>
-    <ShippingCost>36.90</ShippingCost>
-    <EanCode>8033389779962</EanCode>
-    <Weight>100.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/9005008-1.webp?v=1785525441</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-da-ormeggio-ritorta-bianca-in-poliestere-bobina</ParentID>
-  </Offer>
-  <Offer>
     <Name>Cima da Ormeggio Ritorta Blu Navy Alta Tenacità PLAM – Bobina - Ø 24 mm – bobina 100 m (rottura 9.140 kg)</Name>
     <Brand>PLAM</Brand>
     <Description>Cima da ormeggio a 3 legnoli in fibra di poliestere Alta Tenacità con lavorazione gherlino, nell&apos;elegante blu navy: affondante, resistente ai raggi UV, con ottima resistenza alla rottura e allungamento ridottissimo. Per ancoraggio nautico, ormeggio pesant</Description>
@@ -3643,22 +3644,6 @@
     <Weight>128.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>cima-da-ormeggio-ritorta-nera-alta-tenacita-plam-bobina</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cima Galleggiante in Polipropilene Monteisola – Bobina - Ø 26 mm – bobina 200 m (rottura 8.000 kg)</Name>
-    <Brand>Monteisola</Brand>
-    <Description>Cima galleggiante ritorta Monteisola in polipropilene monofilo arancio a 3 legnoli: resta in superficie, si vede da lontano ed è facile da impiombare. Pensata per ormeggio, ancoraggio e rimorchiatori. In bobina da 200 metri, nei diametri da 20 a 36 mm con</Description>
-    <Price>578.90</Price>
-    <Code>0807726</Code>
-    <Link>https://www.onautica.com/products/cima-galleggiante-in-polipropilene-monteisola-bobina?variant=53698844655963&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Cime e Cordame</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0807720-0.webp?v=1785525423</Image>
-    <ShippingCost>36.90</ShippingCost>
-    <EanCode>8033389777418</EanCode>
-    <Weight>62.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>cima-galleggiante-in-polipropilene-monteisola-bobina</ParentID>
   </Offer>
   <Offer>
     <Name>Cima Galleggiante in Polipropilene Monteisola – Bobina - Ø 30 mm – bobina 200 m (rottura 11.000 kg)</Name>
@@ -7486,7 +7471,7 @@
     <ParentID>frigorifero-freezer-vitrifrigo-chromelock-a-cassetto</ParentID>
   </Offer>
   <Offer>
-    <Name>Frigorifero/Freezer Vitrifrigo Chromelock a Cassetto - C62DW – 62 L, motore interno</Name>
+    <Name>Frigorifero/Freezer Vitrifrigo Chromelock a Cassetto - C62DW ��� 62 L, motore interno</Name>
     <Brand>Vitrifrigo</Brand>
     <Description>La serie Chromelock nella versione ad apertura a cassetto: il contenuto scorre verso di te invece di nascondersi in fondo al vano — l&apos;ergonomia preferita nelle cucine di bordo moderne. Anta a spessore maggiorato, pannello nero opaco soft touch anti-impron</Description>
     <Price>1186.90</Price>
@@ -9521,23 +9506,6 @@
     <ParentID>ammortizzatore-ormeggio-sidermarine-mk75-flex-150-300t</ParentID>
   </Offer>
   <Offer>
-    <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 24 V (19 A)</Name>
-    <Brand>Gianneschi</Brand>
-    <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
-    <Price>1152.90</Price>
-    <Code>1616696</Code>
-    <Link>https://www.onautica.com/products/autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox?variant=53699674603867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-0.webp?v=1785552648</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052282028519</EanCode>
-    <Weight>8.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1616695-1.webp?v=1785552650</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>autoclave-gianneschi-ecoinox-1-c-e-in-acciaio-inox</ParentID>
-  </Offer>
-  <Offer>
     <Name>Autoclave Gianneschi Ecoinox 1 C.E. in Acciaio Inox - 12 V (35 A)</Name>
     <Brand>Gianneschi</Brand>
     <Description>L&apos;Ecoinox 1 C.E. di Gianneschi è l&apos;autoclave professionale in acciaio inox: 45 litri al minuto con controllo elettronico Control Press che riduce gli avviamenti e non richiede serbatoio di accumulo. Circuito di autodiagnosi con allarme a tre led, arresto </Description>
@@ -10975,23 +10943,6 @@
     <ParentID>boiler-nautico-isotemp-slim-e-basic-indel-webasto</ParentID>
   </Offer>
   <Offer>
-    <Name>Boiler Nautico Isotemp Slim e Basic Indel Webasto - Basic 40 – 40 L (Ø 395×640 mm)</Name>
-    <Brand>Indel Webasto</Brand>
-    <Description>I boiler Isotemp di Indel Webasto sono costruiti con materiali selezionati: serbatoio, tubi e parti a contatto con l&apos;acqua in acciaio inox AISI 316 saldato con gas protettivo — per eliminare qualsiasi rischio di corrosione — e rivestimento con piedini in </Description>
-    <Price>707.80</Price>
-    <Code>2400240</Code>
-    <Link>https://www.onautica.com/products/boiler-nautico-isotemp-slim-e-basic-indel-webasto?variant=53699616342363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400224-0.webp?v=1785548093</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8057507158309</EanCode>
-    <Weight>18.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400224-1.webp?v=1785548096</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>boiler-nautico-isotemp-slim-e-basic-indel-webasto</ParentID>
-  </Offer>
-  <Offer>
     <Name>Boiler Nautico Johnson SPX AquaH - 22 L - 500W</Name>
     <Brand>SPX Flow</Brand>
     <Description>Il boiler Johnson SPX AquaH è uno scaldabagno elettrico pensato per produrre acqua calda sanitaria a bordo. Ha un corpo cilindrico con diametro fisso e si collega all&apos;impianto idrico e alla rete elettrica di bordo per scaldare l&apos;acqua tramite resistenza i</Description>
@@ -11290,6 +11241,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400641-1.webp?v=1785540507</Image2>
     <Condition>nuovo</Condition>
     <ParentID>boiler-nautico-quick-sigmar-termoinox</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Boiler Quick B3 in Acciaio Inox AISI 316 - 15 litri</Name>
+    <Brand>Quick</Brand>
+    <Description>Il boiler B3 di Quick è realizzato in materiale composito con serbatoio in acciaio inox AISI 316 e scambiatore di calore. Selle e fasce di fissaggio in acciaio inox sono incluse di serie, e la raccorderia in uscita è da 1/2&quot;. È disponibile nelle capacità </Description>
+    <Price>508.90</Price>
+    <Code>2400715</Code>
+    <Link>https://www.onautica.com/products/boiler-quick-b3-in-acciaio-inox-aisi-316?variant=53724247785819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Rubinetteria e Docce</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400715-0_9315f1ec-a929-4107-b797-03d7a98f5f6d.webp?v=1785970515</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8057090049794</EanCode>
+    <Weight>8.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2400715-1_a61bbcd8-9211-4f31-a093-80457bb27d8a.webp?v=1785970517</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>boiler-quick-b3-in-acciaio-inox-aisi-316</ParentID>
   </Offer>
   <Offer>
     <Name>Boiler Quick B3 in Acciaio Inox AISI 316 - 20 litri</Name>
@@ -13711,24 +13679,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4655030_1.webp?v=1787383594</Image3>
     <Condition>nuovo</Condition>
     <ParentID>kit-timoneria-idraulica-ultraflex-hytech-lt-175hp</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit Timoneria Idraulica Ultraflex per Motori Fuoribordo - Hytech OBF-1, fino a 175 CV</Name>
-    <Brand>Ultraflex</Brand>
-    <Description>Il kit timoneria idraulica Ultraflex, fornito senza tubi, è pensato per motori fuoribordo. Comprende la pompa a montaggio frontale, il cilindro con braccio di rinvio e 2 litri di olio idraulico. I tubi vanno ordinati a parte tra i kit 2 tubi R7 5/16&quot;, sce</Description>
-    <Price>813.90</Price>
-    <Code>4344610</Code>
-    <Link>https://www.onautica.com/products/kit-timoneria-idraulica-ultraflex-per-motori-fuoribordo?variant=54100552188251&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Sistemi di Guida</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4344615-0.webp?v=1789641408</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8031164402401</EanCode>
-    <Weight>12.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4344615-1.webp?v=1789641410</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4344616-0.webp?v=1789641413</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-timoneria-idraulica-ultraflex-per-motori-fuoribordo</ParentID>
   </Offer>
   <Offer>
     <Name>Kit Timoneria Idraulica Ultraflex per Motori Fuoribordo - Nautech 1 OBF-1, fino a 300 CV</Name>
@@ -16628,40 +16578,6 @@
     <ParentID>carrello-randa-lewmar-ntr-su-sfere-in-torlon-con-supporto-verticale-serie-ntr-fino-a-10-o-14-m</ParentID>
   </Offer>
   <Offer>
-    <Name>Toilet Elettrica Johnson SPX Aqua-T Silent - Comfort 12V</Name>
-    <Brand>Johnson</Brand>
-    <Description>La toilet elettrica Johnson SPX Aqua-T Silent è un WC marino con pompa elettrica integrata e ciclo di scarico automatico. Il funzionamento è silenzioso grazie alla pompa insonorizzata, e il sistema gestisce in automatico l&apos;ingresso dell&apos;acqua e lo scarico</Description>
-    <Price>514.90</Price>
-    <Code>1321022</Code>
-    <Link>https://www.onautica.com/products/toilet-elettrica-johnson-spx-aqua-t-silent?variant=53861177721179&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1321022_1.webp?v=1787384594</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320022_4.webp?v=1787384588</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320022_1.webp?v=1787384583</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>toilet-elettrica-johnson-spx-aqua-t-silent</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Toilet Elettrica Johnson SPX Aqua-T Silent - Comfort 24V</Name>
-    <Brand>Johnson</Brand>
-    <Description>La toilet elettrica Johnson SPX Aqua-T Silent è un WC marino con pompa elettrica integrata e ciclo di scarico automatico. Il funzionamento è silenzioso grazie alla pompa insonorizzata, e il sistema gestisce in automatico l&apos;ingresso dell&apos;acqua e lo scarico</Description>
-    <Price>514.90</Price>
-    <Code>1321023</Code>
-    <Link>https://www.onautica.com/products/toilet-elettrica-johnson-spx-aqua-t-silent?variant=53861177753947&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;WC Nautici</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1321023_1.webp?v=1787384599</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320022_4.webp?v=1787384588</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320022_1.webp?v=1787384583</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>toilet-elettrica-johnson-spx-aqua-t-silent</ParentID>
-  </Offer>
-  <Offer>
     <Name>Vang Bamar a Stelo Rigido con Accessori di Montaggio - Vang 300</Name>
     <Brand>Bamar</Brand>
     <Description>Il vang Bamar è uno stelo rigido che sostiene il boma e integra un sistema di paranchi per il controllo della randa, sostituendo il vang tradizionale e il preventore. La regolazione avviene tramite il paranco interno, che permette di gestire l&apos;angolo del </Description>
@@ -17431,6 +17347,24 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0380125-2.webp?v=1785534196</Image3>
     <Condition>nuovo</Condition>
     <ParentID>elica-di-manovra-max-power-ct-125</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Elica di Manovra Max Power CT 165 - 24 V (barche 12-19 m)</Name>
+    <Brand>Max Power</Brand>
+    <Description>Il Max Power CT 165 serve le barche da 12 a 19 metri con la formula CT: bow thruster a doppia elica, piede di spinta in composito lubrificato a vita senza alcuna manutenzione, cuscinetti a sfera stagni e ingranaggi spiroconici. Rondelle protettive contro </Description>
+    <Price>4795.92</Price>
+    <Code>0380165</Code>
+    <Link>https://www.onautica.com/products/elica-di-manovra-max-power-ct-165?variant=53699423011163&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Eliche di Manovra</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0380165-0.webp?v=1785536534</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>5204983175570</EanCode>
+    <Weight>38.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0380165-1.webp?v=1785536536</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0380165-2.webp?v=1785536538</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>elica-di-manovra-max-power-ct-165</ParentID>
   </Offer>
   <Offer>
     <Name>Elica di Manovra Max Power CT 225 - 24 V (barche 15-24 m)</Name>
