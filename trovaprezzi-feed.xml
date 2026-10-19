@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-19T10:31:30.443Z -->
-<!-- Offerte: 1323 -->
+<!-- Generato: 2026-10-19T14:32:47.967Z -->
+<!-- Offerte: 1328 -->
 <Products>
   <Offer>
     <Name>Avvolgifiocco Bamar Serie C - Kit Tamburo e Profili - Tamburo C0T</Name>
@@ -1058,23 +1058,6 @@
     <ParentID>ancora-ultra-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
-    <Name>Ancora Ultra in Acciaio Inox 316 - 16 Kg.</Name>
-    <Brand>Ultramarine</Brand>
-    <Description>L&apos;ancora Ultra Ultramarine è realizzata in acciaio inox 316 e progettata per garantire una presa rapida e una tenuta stabile sul fondo. La distribuzione dei pesi la fa posizionare sempre con l&apos;angolo di penetrazione corretto, mentre la superficie concava </Description>
-    <Price>1667.70</Price>
-    <Code>0101616</Code>
-    <Link>https://www.onautica.com/products/ancora-ultra-in-acciaio-inox-316?variant=53756861317467&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Ancore e Accessori</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0101612.webp?v=1786460204</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>16.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0101612_25028fa4-3979-4576-ac06-c5b42c032004.webp?v=1786460206</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0101612_1.webp?v=1786460208</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>ancora-ultra-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
     <Name>Ancora Ultra in Acciaio Inox 316 - 27 Kg.</Name>
     <Brand>Ultramarine</Brand>
     <Description>L&apos;ancora Ultra Ultramarine è realizzata in acciaio inox 316 e progettata per garantire una presa rapida e una tenuta stabile sul fondo. La distribuzione dei pesi la fa posizionare sempre con l&apos;angolo di penetrazione corretto, mentre la superficie concava </Description>
@@ -2116,6 +2099,40 @@
     <Weight>3.00</Weight>
     <Condition>nuovo</Condition>
     <ParentID>tromba-a-norme-r-i-na-marco-nera-con-compressore</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tromba con Compressore in Ottone Cromato - Regolamentare Fino a 20 Metri - 2 Corni 12V</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di trombe elettropneumatiche è un componente di sicurezza professionale, essenziale per la segnalazione acustica di imbarcazioni fino a 20 metri di lunghezza. Caratteristiche Premium e Certificazioni: Materiale: Realizzata in ottone cromato ,</Description>
+    <Price>368.58</Price>
+    <Code>21.443.12</Code>
+    <Link>https://www.onautica.com/products/tromba-con-compressore-in-ottone-cromato-regolamentare-fino-a-20-metri?variant=52540405252443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Trombacromata1cornob.png?v=1764955066</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137049675</EanCode>
+    <Weight>2.05</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Trombacromata1corno.png?v=1764955065</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tromba-con-compressore-in-ottone-cromato-regolamentare-fino-a-20-metri</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Tromba con Compressore in Ottone Cromato - Regolamentare Fino a 20 Metri - 2 Corni 24V</Name>
+    <Brand>Osculati</Brand>
+    <Description>Questa serie di trombe elettropneumatiche è un componente di sicurezza professionale, essenziale per la segnalazione acustica di imbarcazioni fino a 20 metri di lunghezza. Caratteristiche Premium e Certificazioni: Materiale: Realizzata in ottone cromato ,</Description>
+    <Price>371.86</Price>
+    <Code>21.443.24</Code>
+    <Link>https://www.onautica.com/products/tromba-con-compressore-in-ottone-cromato-regolamentare-fino-a-20-metri?variant=52513578615131&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Sicurezza;Trombe e Avvisatori</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Trombacromata1cornob.png?v=1764955066</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8033137049682</EanCode>
+    <Weight>2.04</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/Trombacromata1corno.png?v=1764955065</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>tromba-con-compressore-in-ottone-cromato-regolamentare-fino-a-20-metri</ParentID>
   </Offer>
   <Offer>
     <Name>Tromba Marco R.I.Na. Cromata - 12V - L 450 mm</Name>
@@ -17098,6 +17115,57 @@
     <ParentID>pinna-elettrica-jobe-flow-e-fin-per-sup-e-kayak</ParentID>
   </Offer>
   <Offer>
+    <Name>Portello Calpestabile AT Long in Alluminio Anodizzato - Bianco</Name>
+    <Brand>Ceredi</Brand>
+    <Description>Il portello calpestabile AT Long è realizzato in alluminio anodizzato ed è pensato per creare un&apos;apertura resistente al calpestio sulla coperta, utile per accedere a vani tecnici, gavoni o passaggi sottocoperta senza rinunciare a una superficie praticabil</Description>
+    <Price>662.30</Price>
+    <Code>4003060</Code>
+    <Link>https://www.onautica.com/products/portello-calpestabile-at-long-in-alluminio-anodizzato?variant=53885010575707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003060.webp?v=1787734917</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>8.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003060_9519c776-1e7d-4630-81a1-7a197a0c3730.webp?v=1787734920</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003061.webp?v=1787734923</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-calpestabile-at-long-in-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello Calpestabile AT Long in Alluminio Anodizzato - Grigio</Name>
+    <Brand>Ceredi</Brand>
+    <Description>Il portello calpestabile AT Long è realizzato in alluminio anodizzato ed è pensato per creare un&apos;apertura resistente al calpestio sulla coperta, utile per accedere a vani tecnici, gavoni o passaggi sottocoperta senza rinunciare a una superficie praticabil</Description>
+    <Price>662.30</Price>
+    <Code>4003061</Code>
+    <Link>https://www.onautica.com/products/portello-calpestabile-at-long-in-alluminio-anodizzato?variant=53885010608475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003061.webp?v=1787734923</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>8.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003060.webp?v=1787734917</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003060_9519c776-1e7d-4630-81a1-7a197a0c3730.webp?v=1787734920</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-calpestabile-at-long-in-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Portello Small Ceredi in Alluminio Anodizzato - Bianco</Name>
+    <Brand>Ceredi</Brand>
+    <Description>Il portello Small Ceredi è uno sportello d&apos;ispezione in alluminio anodizzato, pensato per l&apos;apertura di vani tecnici, gavoni o passaggi in coperta di dimensioni ridotte. La struttura in alluminio anodizzato garantisce leggerezza e resistenza alla corrosio</Description>
+    <Price>490.70</Price>
+    <Code>4003027</Code>
+    <Link>https://www.onautica.com/products/portello-small-ceredi-in-alluminio-anodizzato?variant=53885002350939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003027.webp?v=1787734896</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>6.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003027_caf9a5e2-7798-421e-b955-d62b421096aa.webp?v=1787734899</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003028.webp?v=1787734902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>portello-small-ceredi-in-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
     <Name>Protezione elica VDM Reya Prop Guard per motori fuoribordo - Protezione elica 16&quot; nera</Name>
     <Brand>VDM Reya</Brand>
     <Description>La protezione elica Prop Guard di VDM Reya è realizzata in polipropilene ad alta resistenza e visibilità, pensata per i motori fuoribordo. Si installa facilmente in pochi minuti ed è pensata per offrire sicurezza alle persone che si trovano vicino alla ba</Description>
@@ -17447,6 +17515,23 @@
     <Weight>9.00</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003051_fb0817ac-529b-4519-9d8f-059497aece04.webp?v=1787734910</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003052.webp?v=1787734913</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>sportello-calpestabile-ceredi-at-large-in-alluminio-anodizzato</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Sportello Calpestabile Ceredi At Large in Alluminio Anodizzato - Grigio</Name>
+    <Brand>Ceredi</Brand>
+    <Description>Lo sportello calpestabile Ceredi At Large è realizzato in alluminio anodizzato e permette di chiudere un&apos;apertura in coperta mantenendo una superficie calpestabile, resistente al passaggio e agli agenti atmosferici. Si inserisce a filo del piano di copert</Description>
+    <Price>713.00</Price>
+    <Code>4003052</Code>
+    <Link>https://www.onautica.com/products/sportello-calpestabile-ceredi-at-large-in-alluminio-anodizzato?variant=53885006709083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Sportelli</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003052.webp?v=1787734913</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>9.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003051.webp?v=1787734907</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/4003051_fb0817ac-529b-4519-9d8f-059497aece04.webp?v=1787734910</Image3>
     <Condition>nuovo</Condition>
     <ParentID>sportello-calpestabile-ceredi-at-large-in-alluminio-anodizzato</ParentID>
   </Offer>
@@ -18012,6 +18097,23 @@
     <ParentID>plancia-di-poppa-ceredi-large-in-acciaio-inox-e-doghe-in-legno</ParentID>
   </Offer>
   <Offer>
+    <Name>Plancia di Poppa Ceredi Large in Acciaio Inox e Doghe in Legno - 175x55 cm</Name>
+    <Brand>Ceredi</Brand>
+    <Description>La plancia di poppa Large è una piattaforma fissa in acciaio inox con doghe in legno, pensata per essere installata a poppa dell&apos;imbarcazione. Facilita la discesa in acqua, la risalita a bordo e l&apos;accesso al tender, offrendo un appoggio stabile e antisciv</Description>
+    <Price>529.90</Price>
+    <Code>0511017</Code>
+    <Link>https://www.onautica.com/products/plancia-di-poppa-ceredi-large-in-acciaio-inox-e-doghe-in-legno?variant=53903043592539&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Supporti Motore Ausiliario</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511017.webp?v=1787903479</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <Weight>11.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0506003_1.webp?v=1787903471</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0511015.webp?v=1787903474</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>plancia-di-poppa-ceredi-large-in-acciaio-inox-e-doghe-in-legno</ParentID>
+  </Offer>
+  <Offer>
     <Name>Plancia di Poppa Ceredi Large in Acciaio Inox e Doghe in Legno - 200x55 cm</Name>
     <Brand>Ceredi</Brand>
     <Description>La plancia di poppa Large è una piattaforma fissa in acciaio inox con doghe in legno, pensata per essere installata a poppa dell&apos;imbarcazione. Facilita la discesa in acqua, la risalita a bordo e l&apos;accesso al tender, offrendo un appoggio stabile e antisciv</Description>
@@ -18329,23 +18431,6 @@
     <ShippingCost>0</ShippingCost>
     <Weight>2.31</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghie11.webp?v=1783446816</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579727352155_0.webp?v=1783533282</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>cinghie-di-fissaggio-a-cricchetto-con-aggancio-rapido-recessato-rapid-marine</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Cinghie di Fissaggio a Cricchetto con Aggancio Rapido Recessato Rapid Marine - Kit 3 piastre Low Profile + 3 cinghie a cricchetto grigie 25 mm</Name>
-    <Brand>Osculati</Brand>
-    <Description>Cinghie di Fissaggio a Cricchetto con Aggancio Rapido Recessato Rapid Marine Kit di cinghie a cricchetto Rapid Marine con piastre di aggancio rapido recessate (a incasso, a filo del ponte). Le cinghie da 25 mm reggono fino a 500 kg e si agganciano e sganc</Description>
-    <Price>720.45</Price>
-    <Code>22.505.11</Code>
-    <Link>https://www.onautica.com/products/cinghie-di-fissaggio-a-cricchetto-con-aggancio-rapido-recessato-rapid-marine?variant=53534820303195&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Tender e Gommoni;Tender</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghie11.webp?v=1783446816</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.31</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/cinghie10.webp?v=1783446812</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/10579727352155_0.webp?v=1783533282</Image3>
     <Condition>nuovo</Condition>
     <ParentID>cinghie-di-fissaggio-a-cricchetto-con-aggancio-rapido-recessato-rapid-marine</ParentID>
