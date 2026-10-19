@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-10-19T14:32:47.967Z -->
+<!-- Generato: 2026-10-19T18:11:29.992Z -->
 <!-- Offerte: 1328 -->
 <Products>
   <Offer>
@@ -17,40 +17,6 @@
     <Weight>7.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>avvolgifiocco-bamar-serie-c-kit-tamburo-e-profili</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit Elettrico Jabsco per WC a Pompa Verticale - Kit pompa 12V</Name>
-    <Brand>Jabsco</Brand>
-    <Description>Il kit elettrico Jabsco per WC a pompa verticale è il ricambio originale per il gruppo pompa macerante dei sanitari nautici Jabsco con pompa verticale. Sostituisce la pompa elettrica di scarico, permettendo di ripristinare il corretto funzionamento del WC</Description>
-    <Price>588.50</Price>
-    <Code>1320612</Code>
-    <Link>https://www.onautica.com/products/kit-elettrico-jabsco-per-wc-a-pompa-verticale?variant=53861192139099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320612_1.webp?v=1787384713</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320612.webp?v=1787384715</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814135_1_e1c0fb44-147a-435a-8859-27af16d41352.webp?v=1787384711</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-elettrico-jabsco-per-wc-a-pompa-verticale</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Kit Elettrico Jabsco per WC a Pompa Verticale - Kit pompa 24V</Name>
-    <Brand>Jabsco</Brand>
-    <Description>Il kit elettrico Jabsco per WC a pompa verticale è il ricambio originale per il gruppo pompa macerante dei sanitari nautici Jabsco con pompa verticale. Sostituisce la pompa elettrica di scarico, permettendo di ripristinare il corretto funzionamento del WC</Description>
-    <Price>787.30</Price>
-    <Code>1320624</Code>
-    <Link>https://www.onautica.com/products/kit-elettrico-jabsco-per-wc-a-pompa-verticale?variant=53861192171867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320624_1.webp?v=1787384719</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320612.webp?v=1787384715</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814135_1_e1c0fb44-147a-435a-8859-27af16d41352.webp?v=1787384711</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>kit-elettrico-jabsco-per-wc-a-pompa-verticale</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Tecma Sanisplit NK per Trasferimento Acque Grigie - Pompa completa 230V</Name>
@@ -1808,6 +1774,40 @@
     <ParentID>giunto-ancora-girevole-ultra-in-acciaio-inox-316</ParentID>
   </Offer>
   <Offer>
+    <Name>Kit Elettrico Jabsco per WC a Pompa Verticale - Kit pompa 12V</Name>
+    <Brand>Jabsco</Brand>
+    <Description>Il kit elettrico Jabsco per WC a pompa verticale è il ricambio originale per il gruppo pompa macerante dei sanitari nautici Jabsco con pompa verticale. Sostituisce la pompa elettrica di scarico, permettendo di ripristinare il corretto funzionamento del WC</Description>
+    <Price>588.50</Price>
+    <Code>1320612</Code>
+    <Link>https://www.onautica.com/products/kit-elettrico-jabsco-per-wc-a-pompa-verticale?variant=53861192139099&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320612_1.webp?v=1787384713</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320612.webp?v=1787384715</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814135_1_e1c0fb44-147a-435a-8859-27af16d41352.webp?v=1787384711</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-elettrico-jabsco-per-wc-a-pompa-verticale</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Kit Elettrico Jabsco per WC a Pompa Verticale - Kit pompa 24V</Name>
+    <Brand>Jabsco</Brand>
+    <Description>Il kit elettrico Jabsco per WC a pompa verticale è il ricambio originale per il gruppo pompa macerante dei sanitari nautici Jabsco con pompa verticale. Sostituisce la pompa elettrica di scarico, permettendo di ripristinare il corretto funzionamento del WC</Description>
+    <Price>787.30</Price>
+    <Code>1320624</Code>
+    <Link>https://www.onautica.com/products/kit-elettrico-jabsco-per-wc-a-pompa-verticale?variant=53861192171867&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Accessori WC</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320624_1.webp?v=1787384719</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1320612.webp?v=1787384715</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1814135_1_e1c0fb44-147a-435a-8859-27af16d41352.webp?v=1787384711</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>kit-elettrico-jabsco-per-wc-a-pompa-verticale</ParentID>
+  </Offer>
+  <Offer>
     <Name>Kit Trasformazione Verticale WC Jabsco - 24 V</Name>
     <Brand>Jabsco</Brand>
     <Description>Il kit di trasformazione verticale Jabsco elettrifica il tuo WC manuale: sostituisce la pompa a mano delle toilette Jabsco Compact e Comfort con un gruppo elettrico a trituratore incorporato. Funzionamento tramite interruttore rotativo con due modalità: s</Description>
@@ -2019,23 +2019,6 @@
     <Weight>1.30</Weight>
     <Condition>nuovo</Condition>
     <ParentID>binocolo-steiner-navigator-7x50-galleggiante</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Bussola Riviera White Star B6W3 Nera - Normale 2° R.I.Na.</Name>
-    <Brand>Riviera</Brand>
-    <Description>La bussola Riviera White Star B6W3 è uno strumento di navigazione magnetico per la lettura della rotta a bordo. Ha una rosa nera graduata, pensata per essere letta facilmente anche in condizioni di scarsa illuminazione, e si installa sul cruscotto o sulla</Description>
-    <Price>734.40</Price>
-    <Code>2505074</Code>
-    <Link>https://www.onautica.com/products/bussola-riviera-white-star-b6w3-nera?variant=53892829184347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2505074_1.webp?v=1787814336</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2505061_1.webp?v=1787814319</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2505061_2.webp?v=1787814321</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>bussola-riviera-white-star-b6w3-nera</ParentID>
   </Offer>
   <Offer>
     <Name>Campana R.I.Na. Foresti e Suardi in Ottone Ø300mm - Ottone cromato</Name>
@@ -2267,6 +2250,23 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1901522_1.webp?v=1787242352</Image3>
     <Condition>nuovo</Condition>
     <ParentID>tromba-nautica-marco-a-norme-r-i-na</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Bussola Riviera White Star B6W3 Nera - Normale 2° R.I.Na.</Name>
+    <Brand>Riviera</Brand>
+    <Description>La bussola Riviera White Star B6W3 è uno strumento di navigazione magnetico per la lettura della rotta a bordo. Ha una rosa nera graduata, pensata per essere letta facilmente anche in condizioni di scarsa illuminazione, e si installa sul cruscotto o sulla</Description>
+    <Price>734.40</Price>
+    <Code>2505074</Code>
+    <Link>https://www.onautica.com/products/bussola-riviera-white-star-b6w3-nera?variant=53892829184347&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;Bussole e Ottica</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2505074_1.webp?v=1787814336</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2505061_1.webp?v=1787814319</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2505061_2.webp?v=1787814321</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>bussola-riviera-white-star-b6w3-nera</ParentID>
   </Offer>
   <Offer>
     <Name>Caricabatterie SBC 500 NRG+ low power 12V max 40A 3 uscite</Name>
@@ -9474,24 +9474,6 @@
     <ParentID>marmitta-silenziatore-nlph-vetus</ParentID>
   </Offer>
   <Offer>
-    <Name>Passerella con carabottino Osculati</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella con carabottino Osculati La passerella con carabottino Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, per salire e scendere dalla barca ormeggiata camminando su una superficie solida e antiscivolo. </Description>
-    <Price>972.00</Price>
-    <Code>42.657.00</Code>
-    <Link>https://www.onautica.com/products/passerella-con-carabottino-osculati?variant=53626418954587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_657_00D_New2022_jpg.webp?v=1784569338</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137013942</EanCode>
-    <Weight>13.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_657_00_New2022_jpg.webp?v=1784569333</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_657_00C_New2022_jpg.webp?v=1784569335</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-con-carabottino-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Passerella Gonfiabile Tiki in Tessuto Dropstich - 250 cm</Name>
     <Brand>Tiki Yachting</Brand>
     <Description>La passerella gonfiabile Tiki è leggera, stabile e pratica da usare: non necessita di perni per essere installata, non scivola e non danneggia la poppa della barca. Oltre che come passerella, può essere usata come materasso d&apos;acqua, come parabordo fiancat</Description>
@@ -9577,132 +9559,6 @@
     <ParentID>passerella-idraulica-smeraldo-in-acciaio-inox</ParentID>
   </Offer>
   <Offer>
-    <Name>Passerella in alluminio con montanti maggiorati Osculati - Fissa · 2,1 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
-    <Price>488.50</Price>
-    <Code>42.659.00</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434158939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137015342</EanCode>
-    <Weight>13.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella in alluminio con montanti maggiorati Osculati - Pieghevole · 2,1 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
-    <Price>643.70</Price>
-    <Code>42.660.00</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434191707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137014826</EanCode>
-    <Weight>16.40</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella in alluminio con montanti maggiorati Osculati - Pieghevole · 2,6 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
-    <Price>703.10</Price>
-    <Code>42.660.01</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434224475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137014833</EanCode>
-    <Weight>18.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella in alluminio con montanti maggiorati Osculati - Pieghevole · 3,1 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
-    <Price>767.00</Price>
-    <Code>42.660.02</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434257243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image>
-    <ShippingCost>15.90</ShippingCost>
-    <EanCode>8033137016868</EanCode>
-    <Weight>20.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella in alluminio tipo extra Osculati - Pieghevole · 2,1 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio tipo extra Osculati La passerella tipo Extra Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, una versione di elevata qualità completa di candelieri e corrimano in cima. È pieghevole, per</Description>
-    <Price>1231.10</Price>
-    <Code>42.680.00</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-tipo-extra-osculati?variant=53626438517083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00D_New2022_jpg.webp?v=1784569662</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137016875</EanCode>
-    <Weight>18.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00_New2022_jpg.webp?v=1784569654</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_680_00_New2022_jpg.webp?v=1784569656</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-tipo-extra-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella in alluminio tipo extra Osculati - Pieghevole · 2,6 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio tipo extra Osculati La passerella tipo Extra Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, una versione di elevata qualità completa di candelieri e corrimano in cima. È pieghevole, per</Description>
-    <Price>1497.20</Price>
-    <Code>42.680.01</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-tipo-extra-osculati?variant=53626438549851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00_New2022_jpg.webp?v=1784569654</Image>
-    <ShippingCost>15.90</ShippingCost>
-    <EanCode>8033137016882</EanCode>
-    <Weight>21.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_680_00_New2022_jpg.webp?v=1784569656</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00C_New2022_jpg.webp?v=1784569659</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-tipo-extra-osculati</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella in alluminio tipo extra Osculati - Pieghevole · 3,1 m</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella in alluminio tipo extra Osculati La passerella tipo Extra Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, una versione di elevata qualità completa di candelieri e corrimano in cima. È pieghevole, per</Description>
-    <Price>1792.30</Price>
-    <Code>42.680.02</Code>
-    <Link>https://www.onautica.com/products/passerella-in-alluminio-tipo-extra-osculati?variant=53626438582619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00_New2022_jpg.webp?v=1784569654</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>8033137016899</EanCode>
-    <Weight>25.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_680_00_New2022_jpg.webp?v=1784569656</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00C_New2022_jpg.webp?v=1784569659</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-in-alluminio-tipo-extra-osculati</ParentID>
-  </Offer>
-  <Offer>
     <Name>Passerella in Carbonio MTM - Fissa 200 cm</Name>
     <Brand>MTM</Brand>
     <Description>La passerella in fibra di carbonio MTM è un elemento di collegamento tra barca e banchina, leggero e resistente, pensato per l&apos;uso in ambiente marino. È completa di perno e boccola a incasso, galleggia, non si corrode e resiste ai raggi UV. Il piano di ca</Description>
@@ -9786,24 +9642,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0607876_ce2e9e44-0003-4e90-97ec-46a3f3f7a346.webp?v=1787735409</Image3>
     <Condition>nuovo</Condition>
     <ParentID>passerella-motomarine-in-carbonio-composito</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella pieghevole con carabottino Osculati</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella pieghevole con carabottino Osculati La passerella pieghevole con carabottino Osculati unisce il pregio del vero teak alla praticità della piega: è in alluminio anodizzato, pieghevole in due, con piano in carabottino di teak originale del Siam. </Description>
-    <Price>1165.50</Price>
-    <Code>42.667.20</Code>
-    <Link>https://www.onautica.com/products/passerella-pieghevole-con-carabottino-osculati?variant=53626455753051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20_New2022_jpg.webp?v=1784570039</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137013959</EanCode>
-    <Weight>16.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20A_New2022_jpg.webp?v=1784570031</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20B_New2022_jpg.webp?v=1784570034</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-pieghevole-con-carabottino-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Passerella pieghevole in carbonio Carbonbridge Osculati</Name>
@@ -9966,24 +9804,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0606518_1.webp?v=1787735335</Image3>
     <Condition>nuovo</Condition>
     <ParentID>passerella-pieghevole-motomarine-in-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Passerella pieghevole Osculati</Name>
-    <Brand>Osculati</Brand>
-    <Description>Passerella pieghevole Osculati La passerella pieghevole Osculati è in alluminio anodizzato con ripiano rivestito in materiale antisdrucciolo bianco. Le due parti si separano tramite due spine a scatto in acciaio inox, così da dividerla e ridurne l&apos;ingombr</Description>
-    <Price>535.60</Price>
-    <Code>42.656.00</Code>
-    <Link>https://www.onautica.com/products/passerella-pieghevole-osculati?variant=53626447364443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_656_00C_New2022_jpg.webp?v=1784569907</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8033137015335</EanCode>
-    <Weight>13.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_656_00_New2022_jpg.webp?v=1784569900</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_656_00A_New2022_jpg.webp?v=1784569902</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>passerella-pieghevole-osculati</ParentID>
   </Offer>
   <Offer>
     <Name>Passerella pieghevoli in acciaio inox lucidato a specchio Osculati - Pieghevole · 1,6 m</Name>
@@ -10788,6 +10608,186 @@
     <ParentID>parabordo-polyform-serie-f-osculati</ParentID>
   </Offer>
   <Offer>
+    <Name>Passerella con carabottino Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella con carabottino Osculati La passerella con carabottino Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, per salire e scendere dalla barca ormeggiata camminando su una superficie solida e antiscivolo. </Description>
+    <Price>972.00</Price>
+    <Code>42.657.00</Code>
+    <Link>https://www.onautica.com/products/passerella-con-carabottino-osculati?variant=53626418954587&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_657_00D_New2022_jpg.webp?v=1784569338</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137013942</EanCode>
+    <Weight>13.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_657_00_New2022_jpg.webp?v=1784569333</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_657_00C_New2022_jpg.webp?v=1784569335</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-con-carabottino-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio con montanti maggiorati Osculati - Fissa · 2,1 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
+    <Price>488.50</Price>
+    <Code>42.659.00</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434158939&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137015342</EanCode>
+    <Weight>13.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio con montanti maggiorati Osculati - Pieghevole · 2,1 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
+    <Price>643.70</Price>
+    <Code>42.660.00</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434191707&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137014826</EanCode>
+    <Weight>16.40</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio con montanti maggiorati Osculati - Pieghevole · 2,6 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
+    <Price>703.10</Price>
+    <Code>42.660.01</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434224475&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137014833</EanCode>
+    <Weight>18.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio con montanti maggiorati Osculati - Pieghevole · 3,1 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio con montanti maggiorati Osculati La passerella in alluminio con montanti maggiorati Osculati ha il piano in alluminio rivestito con bande antisdrucciolo ed è completa di candelieri e corrimano in cima, per un imbarco e uno sbarco s</Description>
+    <Price>767.00</Price>
+    <Code>42.660.02</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-con-montanti-maggiorati-osculati?variant=53626434257243&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_660_00_New2022_jpg.webp?v=1784569548</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>8033137016868</EanCode>
+    <Weight>20.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_660_00_New2022_jpg.webp?v=1784569550</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_659_00_New2022_jpg.webp?v=1784569552</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-con-montanti-maggiorati-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio tipo extra Osculati - Pieghevole · 2,1 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio tipo extra Osculati La passerella tipo Extra Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, una versione di elevata qualità completa di candelieri e corrimano in cima. È pieghevole, per</Description>
+    <Price>1231.10</Price>
+    <Code>42.680.00</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-tipo-extra-osculati?variant=53626438517083&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00D_New2022_jpg.webp?v=1784569662</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137016875</EanCode>
+    <Weight>18.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00_New2022_jpg.webp?v=1784569654</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_680_00_New2022_jpg.webp?v=1784569656</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-tipo-extra-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio tipo extra Osculati - Pieghevole · 2,6 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio tipo extra Osculati La passerella tipo Extra Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, una versione di elevata qualità completa di candelieri e corrimano in cima. È pieghevole, per</Description>
+    <Price>1497.20</Price>
+    <Code>42.680.01</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-tipo-extra-osculati?variant=53626438549851&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00_New2022_jpg.webp?v=1784569654</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>8033137016882</EanCode>
+    <Weight>21.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_680_00_New2022_jpg.webp?v=1784569656</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00C_New2022_jpg.webp?v=1784569659</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-tipo-extra-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella in alluminio tipo extra Osculati - Pieghevole · 3,1 m</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella in alluminio tipo extra Osculati La passerella tipo Extra Osculati è in alluminio anodizzato con piano in carabottino di vero teak originale del Siam, una versione di elevata qualità completa di candelieri e corrimano in cima. È pieghevole, per</Description>
+    <Price>1792.30</Price>
+    <Code>42.680.02</Code>
+    <Link>https://www.onautica.com/products/passerella-in-alluminio-tipo-extra-osculati?variant=53626438582619&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00_New2022_jpg.webp?v=1784569654</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>8033137016899</EanCode>
+    <Weight>25.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_42_680_00_New2022_jpg.webp?v=1784569656</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_680_00C_New2022_jpg.webp?v=1784569659</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-in-alluminio-tipo-extra-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella pieghevole con carabottino Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella pieghevole con carabottino Osculati La passerella pieghevole con carabottino Osculati unisce il pregio del vero teak alla praticità della piega: è in alluminio anodizzato, pieghevole in due, con piano in carabottino di teak originale del Siam. </Description>
+    <Price>1165.50</Price>
+    <Code>42.667.20</Code>
+    <Link>https://www.onautica.com/products/passerella-pieghevole-con-carabottino-osculati?variant=53626455753051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20_New2022_jpg.webp?v=1784570039</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137013959</EanCode>
+    <Weight>16.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20A_New2022_jpg.webp?v=1784570031</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_667_20B_New2022_jpg.webp?v=1784570034</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-pieghevole-con-carabottino-osculati</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Passerella pieghevole Osculati</Name>
+    <Brand>Osculati</Brand>
+    <Description>Passerella pieghevole Osculati La passerella pieghevole Osculati è in alluminio anodizzato con ripiano rivestito in materiale antisdrucciolo bianco. Le due parti si separano tramite due spine a scatto in acciaio inox, così da dividerla e ridurne l&apos;ingombr</Description>
+    <Price>535.60</Price>
+    <Code>42.656.00</Code>
+    <Link>https://www.onautica.com/products/passerella-pieghevole-osculati?variant=53626447364443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Accessori;Remi e Pagaie</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_656_00C_New2022_jpg.webp?v=1784569907</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8033137015335</EanCode>
+    <Weight>13.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_656_00_New2022_jpg.webp?v=1784569900</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/SupplyImages_WF-0063_EN_42_656_00A_New2022_jpg.webp?v=1784569902</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>passerella-pieghevole-osculati</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa a Puleggia Nautic M con Frizione Magnetica - 12V</Name>
     <Brand>MTM</Brand>
     <Description>La pompa a puleggia Nautic M è dotata di frizione magnetica che permette l&apos;innesto e il disinnesto del funzionamento senza interventi meccanici diretti sulla trasmissione. Viene azionata tramite puleggia collegata al motore e serve per la movimentazione d</Description>
@@ -10801,56 +10801,6 @@
     <Weight>9.80</Weight>
     <Condition>nuovo</Condition>
     <ParentID>pompa-a-puleggia-nautic-m-con-frizione-magnetica</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Acqua Johnson Ultra Ballast F4B-11 / F4B-12 / F5B-19 - F5B-19 24V</Name>
-    <Brand>SPX Flow</Brand>
-    <Description>La pompa Johnson Ultra Ballast è una pompa ad acqua con girante flessibile, pensata per la gestione dei sistemi di zavorra (ballast) a bordo. Il funzionamento si basa su una girante in gomma che spinge l&apos;acqua attraverso il corpo pompa, garantendo un flus</Description>
-    <Price>962.10</Price>
-    <Code>1825818</Code>
-    <Link>https://www.onautica.com/products/pompa-acqua-johnson-ultra-ballast-f4b-11-f4b-12-f5b-19?variant=53843728007515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825822.webp?v=1787241663</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>7.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825822_b9097bef-f38f-4ce7-8fb5-ba1b3ea93b8a.webp?v=1787241665</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-acqua-johnson-ultra-ballast-f4b-11-f4b-12-f5b-19</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Acqua per Impianti Clima Dometic PML e PMA - PML250C T6/T12</Name>
-    <Brand>Dometic</Brand>
-    <Description>Le pompe Dometic PML e PMA garantiscono il ricircolo dell&apos;acqua di mare nel circuito di raffreddamento dei climatizzatori marini. Il gruppo comprende le pompe di circolazione e i relativi accessori di installazione, come i kit piastra di fissaggio e il re</Description>
-    <Price>670.20</Price>
-    <Code>1561064</Code>
-    <Link>https://www.onautica.com/products/pompa-acqua-per-impianti-clima-dometic-pml-e-pma?variant=53843719913819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064.webp?v=1787241597</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.30</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064_4.webp?v=1787241599</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064_3.webp?v=1787241601</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-acqua-per-impianti-clima-dometic-pml-e-pma</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Pompa Acqua per Impianti Clima Dometic PML e PMA - PMA1000C 24K/BTU</Name>
-    <Brand>Dometic</Brand>
-    <Description>Le pompe Dometic PML e PMA garantiscono il ricircolo dell&apos;acqua di mare nel circuito di raffreddamento dei climatizzatori marini. Il gruppo comprende le pompe di circolazione e i relativi accessori di installazione, come i kit piastra di fissaggio e il re</Description>
-    <Price>962.10</Price>
-    <Code>1561068</Code>
-    <Link>https://www.onautica.com/products/pompa-acqua-per-impianti-clima-dometic-pml-e-pma?variant=53843719979355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561068.webp?v=1787241617</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>4.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064_4.webp?v=1787241599</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064.webp?v=1787241597</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>pompa-acqua-per-impianti-clima-dometic-pml-e-pma</ParentID>
   </Offer>
   <Offer>
     <Name>Pompa Acqua Raffreddamento SPX Johnson F7B-9 in Bronzo - 107 L/min</Name>
@@ -11542,6 +11492,56 @@
     <ParentID>pompa-a-membrana-flojet-versijet-13-l-min-24v</ParentID>
   </Offer>
   <Offer>
+    <Name>Pompa Acqua Johnson Ultra Ballast F4B-11 / F4B-12 / F5B-19 - F5B-19 24V</Name>
+    <Brand>SPX Flow</Brand>
+    <Description>La pompa Johnson Ultra Ballast è una pompa ad acqua con girante flessibile, pensata per la gestione dei sistemi di zavorra (ballast) a bordo. Il funzionamento si basa su una girante in gomma che spinge l&apos;acqua attraverso il corpo pompa, garantendo un flus</Description>
+    <Price>962.10</Price>
+    <Code>1825818</Code>
+    <Link>https://www.onautica.com/products/pompa-acqua-johnson-ultra-ballast-f4b-11-f4b-12-f5b-19?variant=53843728007515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825822.webp?v=1787241663</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>7.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1825822_b9097bef-f38f-4ce7-8fb5-ba1b3ea93b8a.webp?v=1787241665</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-acqua-johnson-ultra-ballast-f4b-11-f4b-12-f5b-19</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Acqua per Impianti Clima Dometic PML e PMA - PML250C T6/T12</Name>
+    <Brand>Dometic</Brand>
+    <Description>Le pompe Dometic PML e PMA garantiscono il ricircolo dell&apos;acqua di mare nel circuito di raffreddamento dei climatizzatori marini. Il gruppo comprende le pompe di circolazione e i relativi accessori di installazione, come i kit piastra di fissaggio e il re</Description>
+    <Price>670.20</Price>
+    <Code>1561064</Code>
+    <Link>https://www.onautica.com/products/pompa-acqua-per-impianti-clima-dometic-pml-e-pma?variant=53843719913819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064.webp?v=1787241597</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.30</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064_4.webp?v=1787241599</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064_3.webp?v=1787241601</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-acqua-per-impianti-clima-dometic-pml-e-pma</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Pompa Acqua per Impianti Clima Dometic PML e PMA - PMA1000C 24K/BTU</Name>
+    <Brand>Dometic</Brand>
+    <Description>Le pompe Dometic PML e PMA garantiscono il ricircolo dell&apos;acqua di mare nel circuito di raffreddamento dei climatizzatori marini. Il gruppo comprende le pompe di circolazione e i relativi accessori di installazione, come i kit piastra di fissaggio e il re</Description>
+    <Price>962.10</Price>
+    <Code>1561068</Code>
+    <Link>https://www.onautica.com/products/pompa-acqua-per-impianti-clima-dometic-pml-e-pma?variant=53843719979355&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Comfort di Bordo;Autoclavi</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561068.webp?v=1787241617</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064_4.webp?v=1787241599</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1561064.webp?v=1787241597</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>pompa-acqua-per-impianti-clima-dometic-pml-e-pma</ParentID>
+  </Offer>
+  <Offer>
     <Name>Pompa Autoadescante Jabsco Utility Puppy 2000 - 24 V (7,5 A)</Name>
     <Brand>Jabsco</Brand>
     <Description>La Utility Puppy 2000 è la pompa tuttofare di Jabsco: autoadescante fino a 1,2 metri, funzionamento continuo e sicura a secco fino a 20 minuti — per acque di sentina, pulizia del ponte, travasi e compiti generali. Portata 38 l/min massima (29,5 l/min a 3 </Description>
@@ -12033,37 +12033,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/3833235.webp?v=1786720875</Image3>
     <Condition>nuovo</Condition>
     <ParentID>bottazzo-profilo-parabordo-radial-tessilmare-h85mm</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Filtro Racor 1000 MAM con Coppa in Alluminio - 1000 MAM, coppa in alluminio</Name>
-    <Brand>In.Co.Fin</Brand>
-    <Description>Il filtro Racor 1000 MAM, con coppa in alluminio, è un filtro separatore acqua/gasolio della serie Turbine: separa le impurità in sospensione presenti nel gasolio come un comune filtro gasolio, ma elimina anche l&apos;acqua che spesso è presente nel gasolio, m</Description>
-    <Price>963.90</Price>
-    <Code>1921006</Code>
-    <Link>https://www.onautica.com/products/filtro-racor-1000-mam-con-coppa-in-alluminio?variant=54100567294299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1921006-0.webp?v=1789641687</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>4.40</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>filtro-racor-1000-mam-con-coppa-in-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Sistema Lavaggio Serbatoio FNI per Gasolio - Sistema completo</Name>
-    <Brand>FNI</Brand>
-    <Description>La condensa che si forma all&apos;interno dei serbatoi causa il proliferare di batteri, che deteriora il gasolio e ossida i serbatoi. Il sistema di lavaggio serbatoio FNI permette di lavare i serbatoi senza doverli sbarcare e di depurare il gasolio. È dotato d</Description>
-    <Price>1565.90</Price>
-    <Code>1950010</Code>
-    <Link>https://www.onautica.com/products/sistema-lavaggio-serbatoio-fni-per-gasolio?variant=54100561199451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1950010-0.webp?v=1789641617</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>8057741269991</EanCode>
-    <Weight>30.00</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>sistema-lavaggio-serbatoio-fni-per-gasolio</ParentID>
   </Offer>
   <Offer>
     <Name>Tubo Flex SAE100 R7 MTM - Ø9,7mm 30 m</Name>
@@ -12602,6 +12571,21 @@
     <ParentID>filtro-gasolio-separ-2000-centrifugo</ParentID>
   </Offer>
   <Offer>
+    <Name>Filtro Racor 1000 MAM con Coppa in Alluminio - 1000 MAM, coppa in alluminio</Name>
+    <Brand>In.Co.Fin</Brand>
+    <Description>Il filtro Racor 1000 MAM, con coppa in alluminio, è un filtro separatore acqua/gasolio della serie Turbine: separa le impurità in sospensione presenti nel gasolio come un comune filtro gasolio, ma elimina anche l&apos;acqua che spesso è presente nel gasolio, m</Description>
+    <Price>963.90</Price>
+    <Code>1921006</Code>
+    <Link>https://www.onautica.com/products/filtro-racor-1000-mam-con-coppa-in-alluminio?variant=54100567294299&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1921006-0.webp?v=1789641687</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>4.40</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>filtro-racor-1000-mam-con-coppa-in-alluminio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Filtro separatore Racor 500/900/1000 MA con coppette di ricambio - Racor 500 MA</Name>
     <Brand>Racor</Brand>
     <Description>I filtri marini Racor serie Turbine separano le impurità in sospensione presenti nel gasolio come un comune filtro carburante, ma eliminano anche l&apos;acqua molto spesso presente nel gasolio: questo migliora il consumo di carburante, riduce i gas di scarico </Description>
@@ -12836,6 +12820,22 @@
     <ParentID>scaldabagno-quick-nautic-boiler-bxr</ParentID>
   </Offer>
   <Offer>
+    <Name>Sistema Lavaggio Serbatoio FNI per Gasolio - Sistema completo</Name>
+    <Brand>FNI</Brand>
+    <Description>La condensa che si forma all&apos;interno dei serbatoi causa il proliferare di batteri, che deteriora il gasolio e ossida i serbatoi. Il sistema di lavaggio serbatoio FNI permette di lavare i serbatoi senza doverli sbarcare e di depurare il gasolio. È dotato d</Description>
+    <Price>1565.90</Price>
+    <Code>1950010</Code>
+    <Link>https://www.onautica.com/products/sistema-lavaggio-serbatoio-fni-per-gasolio?variant=54100561199451&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Ricambi Tagliando</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1950010-0.webp?v=1789641617</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>8057741269991</EanCode>
+    <Weight>30.00</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>sistema-lavaggio-serbatoio-fni-per-gasolio</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello da Tonneggio Quick Tumbler - 1500 W 12 V – campana Ø 142 mm</Name>
     <Brand>Quick</Brand>
     <Description>Il Quick Tumbler è il verricello da tonneggio puro: niente barbotin, solo la campana da 142 mm in acciaio inox AISI 316 per lavorare le cime a motore — ormeggi, spring, tonneggi e manovre di banchina sulle barche da 16 a 22 metri. Motore stagno IP67 da 15</Description>
@@ -12868,40 +12868,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/1203804_2.webp?v=1786635838</Image3>
     <Condition>nuovo</Condition>
     <ParentID>verricello-da-tonneggio-quick-tumbler-in-acciaio-inox-316</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Lofrans X2 in Alluminio 1000W senza Campana - 1000 W 12 V – barbotin Ø 8 mm</Name>
-    <Brand>Lofrans</Brand>
-    <Description>L&apos;X2 in alluminio nella versione 1000 W: il salpancora Lofrans in speciale lega leggera lucidata e anodizzata, per barche da 10 a 13 metri. Cima e catena lavorano su un unico barbotin con lo speciale dispositivo tendicima; il modello è basso, senza campan</Description>
-    <Price>1400.90</Price>
-    <Code>0303823</Code>
-    <Link>https://www.onautica.com/products/verricello-lofrans-x2-in-alluminio-1000w-senza-campana?variant=53698892005723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303823-0.webp?v=1785527248</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>5204984725576</EanCode>
-    <Weight>19.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303823-1.webp?v=1785527250</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-lofrans-x2-in-alluminio-1000w-senza-campana</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Lofrans X2 in Alluminio senza Campana - 1500 W 12 V – barbotin Ø 8 mm</Name>
-    <Brand>Lofrans</Brand>
-    <Description>L&apos;X2 in alluminio è il salpancora Lofrans in speciale lega leggera lucidata e anodizzata, resistente alla corrosione marina: 19 kg di peso, motore da 1500 W e 1200 kg di tiro massimo istantaneo. Per barche da 10 a 13 metri, modello basso senza campana. Ci</Description>
-    <Price>1667.90</Price>
-    <Code>0303851</Code>
-    <Link>https://www.onautica.com/products/verricello-lofrans-x2-in-alluminio-senza-campana?variant=53698846294363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303851-0.webp?v=1785525449</Image>
-    <ShippingCost>15.90</ShippingCost>
-    <EanCode>5204986010533</EanCode>
-    <Weight>23.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303851-1.webp?v=1785525452</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-lofrans-x2-in-alluminio-senza-campana</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpa Ancora Maxwell RC6 in Bronzo e Acciaio Inox - 500W / 12V</Name>
@@ -13040,91 +13006,6 @@
     <ParentID>verricello-salpa-ancora-quick-prince-dp3-1000w</ParentID>
   </Offer>
   <Offer>
-    <Name>Verricello Salpancora Lofrans Razza in Inox 316L - 500 W 12 V – barbotin Ø 6 mm</Name>
-    <Brand>Lofrans</Brand>
-    <Description>Il Lofrans Razza è il salpancora interamente in acciaio inox 316L: la costruzione più resistente alla corrosione marina, con l&apos;estetica lucida che veste le barche curate. Il barbotin salpa cima e catena sulla stessa corona. Per barche da 6 a 9 metri: moto</Description>
-    <Price>1504.90</Price>
-    <Code>0303243</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-razza-in-inox-316l?variant=53698892202331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303243-0.webp?v=1785527258</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>5204986367385</EanCode>
-    <Weight>28.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303243-1.webp?v=1785527260</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-lofrans-razza-in-inox-316l</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Lofrans Tigres 1500W - 1500 W 12 V – barbotin Ø 8 mm (tiro max 1500 kg)</Name>
-    <Brand>Lofrans</Brand>
-    <Description>Il Lofrans Tigres è il salpancora di potenza in lega leggera resistente alla corrosione marina: 1500 W di motore e un tiro massimo istantaneo di 1500 kg (1590 kg nella versione 24 V), per barche fino a 13 metri con linee di ancoraggio importanti. Barbotin</Description>
-    <Price>2040.90</Price>
-    <Code>0303176</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-tigres-1500w?variant=53698842886491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-0.webp?v=1785525391</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>5204984184076</EanCode>
-    <Weight>28.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-1.webp?v=1785525393</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-lofrans-tigres-1500w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Lofrans Tigres 1500W - 1500 W 24 V – barbotin Ø 8 mm (tiro max 1590 kg)</Name>
-    <Brand>Lofrans</Brand>
-    <Description>Il Lofrans Tigres è il salpancora di potenza in lega leggera resistente alla corrosione marina: 1500 W di motore e un tiro massimo istantaneo di 1500 kg (1590 kg nella versione 24 V), per barche fino a 13 metri con linee di ancoraggio importanti. Barbotin</Description>
-    <Price>2040.90</Price>
-    <Code>0303177</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-tigres-1500w?variant=53698842919259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-0.webp?v=1785525391</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>5204984184090</EanCode>
-    <Weight>27.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-1.webp?v=1785525393</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-lofrans-tigres-1500w</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Lofrans X1 in Alluminio - 500 W 12 V – barbotin Ø 6 mm</Name>
-    <Brand>Lofrans</Brand>
-    <Description>La versione in alluminio del salpancora Lofrans X1: stessa meccanica del classico X1 — cima e catena su un unico barbotin, con lo speciale dispositivo che mantiene la cima sempre aderente — in un corpo in alluminio più leggero e dal prezzo più accessibile</Description>
-    <Price>921.90</Price>
-    <Code>0303210</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-x1-in-alluminio?variant=53698844164443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303210-0.webp?v=1785525412</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>5204984095570</EanCode>
-    <Weight>10.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303210-1.webp?v=1785525415</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-lofrans-x1-in-alluminio</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Lofrans X2 senza Campana - 1000 W 12 V – barbotin Ø 8 mm</Name>
-    <Brand>Lofrans</Brand>
-    <Description>Il Lofrans X2 in versione bassa senza campana: il salpancora in bronzo cromato per barche da 8 a 14 metri, con profilo compatto in coperta. Cima e catena lavorano su un unico barbotin, con lo speciale dispositivo che mantiene la cima sempre aderente. Moto</Description>
-    <Price>1613.90</Price>
-    <Code>0303612</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-x2-senza-campana?variant=53698891678043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303612-0.webp?v=1785527227</Image>
-    <ShippingCost>15.90</ShippingCost>
-    <EanCode>5204984732130</EanCode>
-    <Weight>22.70</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303612-1.webp?v=1785527230</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-lofrans-x2-senza-campana</ParentID>
-  </Offer>
-  <Offer>
     <Name>Verricello Salpancora Lofrans X4 con Campana - 2300 W 24 V – barbotin Ø 12 mm</Name>
     <Brand>Lofrans</Brand>
     <Description>Il Lofrans X4 con campana è il salpancora per barche importanti, da 18 a 25 metri: corpo in bronzo cromato resistente alla corrosione marina, motore da 2300 W a 24 V e un tiro massimo istantaneo di 2100 kg per gestire catene da 12 mm e ancore di grande ta</Description>
@@ -13140,23 +13021,6 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303654-1.webp?v=1785529602</Image2>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-lofrans-x4-con-campana</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Verricello Salpancora Quick DP1 con Campana - 500 W 12 V – barbotin Ø 6 mm</Name>
-    <Brand>Quick</Brand>
-    <Description>Il Quick DP1 con campana è il salpancora verticale d&apos;ingresso della famiglia DP: base, campana e coperchio barbotin in acciaio inox AISI 316, interno in materiale composito per unire resistenza e leggerezza — solo 8,8 kg. Sistema manuale di caduta libera </Description>
-    <Price>1009.90</Price>
-    <Code>0307005</Code>
-    <Link>https://www.onautica.com/products/verricello-salpancora-quick-dp1-con-campana?variant=53698961768795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307005-0.webp?v=1785529579</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8057090064933</EanCode>
-    <Weight>9.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307005-1.webp?v=1785529581</Image2>
-    <Condition>nuovo</Condition>
-    <ParentID>verricello-salpancora-quick-dp1-con-campana</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpancora Quick Eagle senza Campana - 500 W 12 V – barbotin Ø 6 mm</Name>
@@ -13543,95 +13407,6 @@
     <ParentID>serbatoio-acqua-potabile-modulare-in-polietilene-170-343-litri</ParentID>
   </Offer>
   <Offer>
-    <Name>Serbatoio Carburante SIC Grandi Capacità - 160 litri (1100x450x400 mm)</Name>
-    <Brand>SIC Divisione Elettronica</Brand>
-    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
-    <Price>595.90</Price>
-    <Code>2323186</Code>
-    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563558747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8057741268758</EanCode>
-    <Weight>12.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Carburante SIC Grandi Capacità - 207 litri (980x580x440 mm)</Name>
-    <Brand>SIC Divisione Elettronica</Brand>
-    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
-    <Price>669.90</Price>
-    <Code>2323187</Code>
-    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563591515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8057741268765</EanCode>
-    <Weight>15.90</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Carburante SIC Grandi Capacità - 191 litri (1500x700x290 mm)</Name>
-    <Brand>SIC Divisione Elettronica</Brand>
-    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
-    <Price>773.90</Price>
-    <Code>2323185</Code>
-    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563624283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <Weight>18.50</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Carburante SIC Grandi Capacità - 271 litri</Name>
-    <Brand>SIC Divisione Elettronica</Brand>
-    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
-    <Price>818.90</Price>
-    <Code>2323189</Code>
-    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563657051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
-    <ShippingCost>13.90</ShippingCost>
-    <EanCode>8057741268789</EanCode>
-    <Weight>18.80</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Serbatoio Carburante SIC Grandi Capacità - 450 litri</Name>
-    <Brand>SIC Divisione Elettronica</Brand>
-    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
-    <Price>1103.90</Price>
-    <Code>2323191</Code>
-    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563689819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
-    <ShippingCost>21.90</ShippingCost>
-    <EanCode>8057741268802</EanCode>
-    <Weight>31.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
-  </Offer>
-  <Offer>
     <Name>Sistema Multifunzione CoastKey: Avviamento Wireless e MOB Kill Switch - Basic - Motori Standard (Singolo) NO Mercury</Name>
     <Brand>Osculati</Brand>
     <Description>Il CoastKey è l&apos;innovativo sistema multifunzione progettato in Norvegia per rivoluzionare la gestione e la sicurezza della tua imbarcazione. Sviluppato da Nordic Wireless Solutions AS per resistere alle condizioni marine più avverse, CoastKey elimina la n</Description>
@@ -13846,6 +13621,40 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/sistema-avviamento-wireless-nautica-coastkey-mob2.webp?v=1775150272</Image3>
     <Condition>nuovo</Condition>
     <ParentID>sistema-multifunzione-coastkey-avviamento-mob-wireless</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Lofrans X2 in Alluminio 1000W senza Campana - 1000 W 12 V – barbotin Ø 8 mm</Name>
+    <Brand>Lofrans</Brand>
+    <Description>L&apos;X2 in alluminio nella versione 1000 W: il salpancora Lofrans in speciale lega leggera lucidata e anodizzata, per barche da 10 a 13 metri. Cima e catena lavorano su un unico barbotin con lo speciale dispositivo tendicima; il modello è basso, senza campan</Description>
+    <Price>1400.90</Price>
+    <Code>0303823</Code>
+    <Link>https://www.onautica.com/products/verricello-lofrans-x2-in-alluminio-1000w-senza-campana?variant=53698892005723&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303823-0.webp?v=1785527248</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>5204984725576</EanCode>
+    <Weight>19.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303823-1.webp?v=1785527250</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-lofrans-x2-in-alluminio-1000w-senza-campana</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Lofrans X2 in Alluminio senza Campana - 1500 W 12 V – barbotin Ø 8 mm</Name>
+    <Brand>Lofrans</Brand>
+    <Description>L&apos;X2 in alluminio è il salpancora Lofrans in speciale lega leggera lucidata e anodizzata, resistente alla corrosione marina: 19 kg di peso, motore da 1500 W e 1200 kg di tiro massimo istantaneo. Per barche da 10 a 13 metri, modello basso senza campana. Ci</Description>
+    <Price>1667.90</Price>
+    <Code>0303851</Code>
+    <Link>https://www.onautica.com/products/verricello-lofrans-x2-in-alluminio-senza-campana?variant=53698846294363&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303851-0.webp?v=1785525449</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>5204986010533</EanCode>
+    <Weight>23.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303851-1.webp?v=1785525452</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-lofrans-x2-in-alluminio-senza-campana</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpa Ancora Quick Custom CL1 500W (Acciaio Inox)</Name>
@@ -14122,6 +13931,57 @@
     <ParentID>verricello-salpancora-lofrans-dorado</ParentID>
   </Offer>
   <Offer>
+    <Name>Verricello Salpancora Lofrans Razza in Inox 316L - 500 W 12 V – barbotin Ø 6 mm</Name>
+    <Brand>Lofrans</Brand>
+    <Description>Il Lofrans Razza è il salpancora interamente in acciaio inox 316L: la costruzione più resistente alla corrosione marina, con l&apos;estetica lucida che veste le barche curate. Il barbotin salpa cima e catena sulla stessa corona. Per barche da 6 a 9 metri: moto</Description>
+    <Price>1504.90</Price>
+    <Code>0303243</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-razza-in-inox-316l?variant=53698892202331&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303243-0.webp?v=1785527258</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>5204986367385</EanCode>
+    <Weight>28.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303243-1.webp?v=1785527260</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-lofrans-razza-in-inox-316l</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora Lofrans Tigres 1500W - 1500 W 12 V – barbotin Ø 8 mm (tiro max 1500 kg)</Name>
+    <Brand>Lofrans</Brand>
+    <Description>Il Lofrans Tigres è il salpancora di potenza in lega leggera resistente alla corrosione marina: 1500 W di motore e un tiro massimo istantaneo di 1500 kg (1590 kg nella versione 24 V), per barche fino a 13 metri con linee di ancoraggio importanti. Barbotin</Description>
+    <Price>2040.90</Price>
+    <Code>0303176</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-tigres-1500w?variant=53698842886491&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-0.webp?v=1785525391</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>5204984184076</EanCode>
+    <Weight>28.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-1.webp?v=1785525393</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-lofrans-tigres-1500w</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora Lofrans Tigres 1500W - 1500 W 24 V – barbotin Ø 8 mm (tiro max 1590 kg)</Name>
+    <Brand>Lofrans</Brand>
+    <Description>Il Lofrans Tigres è il salpancora di potenza in lega leggera resistente alla corrosione marina: 1500 W di motore e un tiro massimo istantaneo di 1500 kg (1590 kg nella versione 24 V), per barche fino a 13 metri con linee di ancoraggio importanti. Barbotin</Description>
+    <Price>2040.90</Price>
+    <Code>0303177</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-tigres-1500w?variant=53698842919259&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-0.webp?v=1785525391</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>5204984184090</EanCode>
+    <Weight>27.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303176-1.webp?v=1785525393</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-lofrans-tigres-1500w</ParentID>
+  </Offer>
+  <Offer>
     <Name>Verricello Salpancora Lofrans X1 con Campana - 500 W 12 V – barbotin Ø 6 mm</Name>
     <Brand>Lofrans</Brand>
     <Description>Versione con campana del salpancora Lofrans X1: il verricello in bronzo cromato per barche da 6 a 9 metri, con lo speciale dispositivo che mantiene la cima aderente al barbotin per salpare cima e catena con un&apos;unica corona. La campana aggiunge il tonneggi</Description>
@@ -14171,6 +14031,23 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303202-1.webp?v=1785523131</Image2>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-lofrans-x1-con-campana</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora Lofrans X1 in Alluminio - 500 W 12 V – barbotin Ø 6 mm</Name>
+    <Brand>Lofrans</Brand>
+    <Description>La versione in alluminio del salpancora Lofrans X1: stessa meccanica del classico X1 — cima e catena su un unico barbotin, con lo speciale dispositivo che mantiene la cima sempre aderente — in un corpo in alluminio più leggero e dal prezzo più accessibile</Description>
+    <Price>921.90</Price>
+    <Code>0303210</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-x1-in-alluminio?variant=53698844164443&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303210-0.webp?v=1785525412</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>5204984095570</EanCode>
+    <Weight>10.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303210-1.webp?v=1785525415</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-lofrans-x1-in-alluminio</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpancora Lofrans X1 senza Campana - 500 W 12 V – barbotin Ø 8 mm</Name>
@@ -14290,6 +14167,40 @@
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303624-1.webp?v=1785523118</Image2>
     <Condition>nuovo</Condition>
     <ParentID>verricello-salpancora-lofrans-x2-con-campana</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora Lofrans X2 senza Campana - 1000 W 12 V – barbotin Ø 8 mm</Name>
+    <Brand>Lofrans</Brand>
+    <Description>Il Lofrans X2 in versione bassa senza campana: il salpancora in bronzo cromato per barche da 8 a 14 metri, con profilo compatto in coperta. Cima e catena lavorano su un unico barbotin, con lo speciale dispositivo che mantiene la cima sempre aderente. Moto</Description>
+    <Price>1613.90</Price>
+    <Code>0303612</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-lofrans-x2-senza-campana?variant=53698891678043&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303612-0.webp?v=1785527227</Image>
+    <ShippingCost>15.90</ShippingCost>
+    <EanCode>5204984732130</EanCode>
+    <Weight>22.70</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0303612-1.webp?v=1785527230</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-lofrans-x2-senza-campana</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Verricello Salpancora Quick DP1 con Campana - 500 W 12 V – barbotin Ø 6 mm</Name>
+    <Brand>Quick</Brand>
+    <Description>Il Quick DP1 con campana è il salpancora verticale d&apos;ingresso della famiglia DP: base, campana e coperchio barbotin in acciaio inox AISI 316, interno in materiale composito per unire resistenza e leggerezza — solo 8,8 kg. Sistema manuale di caduta libera </Description>
+    <Price>1009.90</Price>
+    <Code>0307005</Code>
+    <Link>https://www.onautica.com/products/verricello-salpancora-quick-dp1-con-campana?variant=53698961768795&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Ormeggio;Salpa Ancore</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307005-0.webp?v=1785529579</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8057090064933</EanCode>
+    <Weight>9.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/0307005-1.webp?v=1785529581</Image2>
+    <Condition>nuovo</Condition>
+    <ParentID>verricello-salpancora-quick-dp1-con-campana</ParentID>
   </Offer>
   <Offer>
     <Name>Verricello Salpancora Quick DP2 con Campana - 700 W 12 V – barbotin Ø 6 mm (barche 7-12 m)</Name>
@@ -17469,6 +17380,95 @@
     <ParentID>serbatoio-carburante-fisso-can-sb-oem2-in-polietilene-reticolato</ParentID>
   </Offer>
   <Offer>
+    <Name>Serbatoio Carburante SIC Grandi Capacità - 160 litri (1100x450x400 mm)</Name>
+    <Brand>SIC Divisione Elettronica</Brand>
+    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
+    <Price>595.90</Price>
+    <Code>2323186</Code>
+    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563558747&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8057741268758</EanCode>
+    <Weight>12.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Carburante SIC Grandi Capacità - 207 litri (980x580x440 mm)</Name>
+    <Brand>SIC Divisione Elettronica</Brand>
+    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
+    <Price>669.90</Price>
+    <Code>2323187</Code>
+    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563591515&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8057741268765</EanCode>
+    <Weight>15.90</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Carburante SIC Grandi Capacità - 191 litri (1500x700x290 mm)</Name>
+    <Brand>SIC Divisione Elettronica</Brand>
+    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
+    <Price>773.90</Price>
+    <Code>2323185</Code>
+    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563624283&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <Weight>18.50</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Carburante SIC Grandi Capacità - 271 litri</Name>
+    <Brand>SIC Divisione Elettronica</Brand>
+    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
+    <Price>818.90</Price>
+    <Code>2323189</Code>
+    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563657051&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <EanCode>8057741268789</EanCode>
+    <Weight>18.80</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Serbatoio Carburante SIC Grandi Capacità - 450 litri</Name>
+    <Brand>SIC Divisione Elettronica</Brand>
+    <Description>Il serbatoio carburante SIC, rigido, è costruito in polietilene reticolato di colore neutro, certificato CE in accordo con la direttiva 94/25/CE secondo normativa ISO 10088 e ISO 21487. Ha inserti per l&apos;imbarco, sfiato Ø 16 mm, pescante e ritorno Ø 12 mm.</Description>
+    <Price>1103.90</Price>
+    <Code>2323191</Code>
+    <Link>https://www.onautica.com/products/serbatoio-carburante-sic-grandi-capacita?variant=54100563689819&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Motore;Serbatoi Carburante</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-0.webp?v=1789641667</Image>
+    <ShippingCost>21.90</ShippingCost>
+    <EanCode>8057741268802</EanCode>
+    <Weight>31.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323186-1.webp?v=1789641669</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/2323185-0.webp?v=1789641672</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>serbatoio-carburante-sic-grandi-capacita</ParentID>
+  </Offer>
+  <Offer>
     <Name>Ski Tube Gonfiabile da Traino e Relax JOBE BINAR – PVC 28G, 7 Maniglie, Valvola Boston</Name>
     <Brand>JOBE</Brand>
     <Description>Gonfiabile da traino e da divano relax in resistente PVC 28G ricoperto con camicia protettiva in Nylon 840D. Con anello da traino rinforzato, valvola Boston, 7 maniglie imbottite con protezione in neoprene per le nocche e seduta imbottita con due maniglie</Description>
@@ -18197,24 +18197,6 @@
     <ParentID>supporto-motore-elevatore-manuale-z-lock-motomarine</ParentID>
   </Offer>
   <Offer>
-    <Name>Antenna Wi-Fi 4G Scout Compact Basic per Barca - Bianca</Name>
-    <Brand>Scout</Brand>
-    <Description>L&apos;antenna Wi-Fi 4G Scout Compact Basic è un sistema Internet all-in-one per imbarcazioni, che fornisce connettività 4G fino a un massimo di 150 utenti. Fornisce un segnale Internet sia wireless sia cablato e consente di inserire una o più schede SIM diret</Description>
-    <Price>965.90</Price>
-    <Code>5555176</Code>
-    <Link>https://www.onautica.com/products/antenna-wi-fi-4g-scout-compact-basic-per-barca?variant=54099679707483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555176-0.webp?v=1789633443</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8052990122240</EanCode>
-    <Weight>2.00</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555176-1.webp?v=1789633445</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555176-2.webp?v=1789633447</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>antenna-wi-fi-4g-scout-compact-basic-per-barca</ParentID>
-  </Offer>
-  <Offer>
     <Name>Capottina 3 Archi Inox Bianca per Imbarcazioni - 230 cm</Name>
     <Brand>MTM</Brand>
     <Description>La capottina MTM è un tendalino con struttura a 3 archi in acciaio inox, pensata per riparare il pozzetto dell&apos;imbarcazione da sole e intemperie. La tela è bianca e la struttura in inox garantisce resistenza alla corrosione in ambiente marino. È disponibi</Description>
@@ -18717,22 +18699,6 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/EN_46.916.03b.webp?v=1786029589</Image3>
     <Condition>nuovo</Condition>
     <ParentID>roll-bar-con-cappottina-pieghevole-in-acciaio-inox-o-40-mm-telo-blu-uv-resistente</ParentID>
-  </Offer>
-  <Offer>
-    <Name>Supporto Inox Glomex per Antenna Satellitare, Regolabile 0-5° - Versione unica</Name>
-    <Brand>Glomex</Brand>
-    <Description>Il supporto Glomex in acciaio inox è una base regolabile da 0 a 5°, pensata per il montaggio su piano delle antenne satellitari Glomex. La base ha un diametro di 240 mm. A chi è rivolto È rivolto a chi deve installare un&apos;antenna satellitare Glomex su un p</Description>
-    <Price>583.90</Price>
-    <Code>5509500</Code>
-    <Link>https://www.onautica.com/products/supporto-inox-glomex-per-antenna-satellitare-regolabile-0-5?variant=54096215507291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5509500-0.webp?v=1789578310</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>8051566300181</EanCode>
-    <Weight>3.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>supporto-inox-glomex-per-antenna-satellitare-regolabile-0-5</ParentID>
   </Offer>
   <Offer>
     <Name>T-Top in Acciaio Inox AISI 316 Lucidato Ø 35 mm – Regolabile, con o senza 4 Portacanne - Senza portacanne</Name>
@@ -20032,55 +19998,6 @@
     <ParentID>tubo-scarico-gas-motore-spiralato-thor-rotolo-intero</ParentID>
   </Offer>
   <Offer>
-    <Name>VHF GMDSS Icom IC-GM1600E Portatile - VHF GMDSS IC-GM1600E</Name>
-    <Brand>Icom</Brand>
-    <Description>Il VHF GMDSS Icom IC-GM1600E è un ricetrasmettitore conforme ai requisiti dello standard MED europeo (ETS 300 225 terza ed.) per la massima sicurezza in mare. È a norme GMDSS per imbarcazioni di salvataggio (scialuppe) solo se abbinato alla batteria al li</Description>
-    <Price>587.90</Price>
-    <Code>5555600</Code>
-    <Link>https://www.onautica.com/products/vhf-gmdss-icom-ic-gm1600e-portatile?variant=54099690848603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555600-0.webp?v=1789633483</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>4909723163015</EanCode>
-    <Weight>1.10</Weight>
-    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555600-1.webp?v=1789633486</Image2>
-    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555600-2.webp?v=1789633487</Image3>
-    <Condition>nuovo</Condition>
-    <ParentID>vhf-gmdss-icom-ic-gm1600e-portatile</ParentID>
-  </Offer>
-  <Offer>
-    <Name>VHF Simrad RS40-B con AIS Classe B - Con GPS interno</Name>
-    <Brand>Simrad</Brand>
-    <Description>Il VHF Simrad RS40-B include un ricetrasmettitore AIS di classe B, che non solo riceve i bersagli AIS ma trasmette anche la posizione dell&apos;imbarcazione alle altre unità dotate di AIS, aiutando gli altri marinai a individuare la barca in ogni condizione, d</Description>
-    <Price>1193.90</Price>
-    <Code>5606028</Code>
-    <Link>https://www.onautica.com/products/vhf-simrad-rs40-b-con-ais-classe-b?variant=54099678658907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5606028-0.webp?v=1789633439</Image>
-    <ShippingCost>0</ShippingCost>
-    <EanCode>9420024172506</EanCode>
-    <Weight>2.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vhf-simrad-rs40-b-con-ais-classe-b</ParentID>
-  </Offer>
-  <Offer>
-    <Name>VHF Simrad RS40-B con AIS Classe B - Con antenna GPS esterna</Name>
-    <Brand>Simrad</Brand>
-    <Description>Il VHF Simrad RS40-B include un ricetrasmettitore AIS di classe B, che non solo riceve i bersagli AIS ma trasmette anche la posizione dell&apos;imbarcazione alle altre unità dotate di AIS, aiutando gli altri marinai a individuare la barca in ogni condizione, d</Description>
-    <Price>1310.90</Price>
-    <Code>5606029</Code>
-    <Link>https://www.onautica.com/products/vhf-simrad-rs40-b-con-ais-classe-b?variant=54099678691675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
-    <Stock>disponibile</Stock>
-    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
-    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5606028-0.webp?v=1789633439</Image>
-    <ShippingCost>0</ShippingCost>
-    <Weight>2.10</Weight>
-    <Condition>nuovo</Condition>
-    <ParentID>vhf-simrad-rs40-b-con-ais-classe-b</ParentID>
-  </Offer>
-  <Offer>
     <Name>Antenna TV Satellitare Glomex Pandora V8001N - Antenna</Name>
     <Brand>Glomex</Brand>
     <Description>Per il montaggio è necessaria una base di supporto, non inclusa: la base in acciaio inox Glomex V9500 è pensata per questo modello. L&apos;antenna TV satellitare Glomex Pandora V8001N riceve automaticamente il segnale satellitare mentre la barca è in movimento</Description>
@@ -20232,6 +20149,24 @@
     <ParentID>antenna-wi-fi-4g-glomex-webboat-lite-evo-it1104evo</ParentID>
   </Offer>
   <Offer>
+    <Name>Antenna Wi-Fi 4G Scout Compact Basic per Barca - Bianca</Name>
+    <Brand>Scout</Brand>
+    <Description>L&apos;antenna Wi-Fi 4G Scout Compact Basic è un sistema Internet all-in-one per imbarcazioni, che fornisce connettività 4G fino a un massimo di 150 utenti. Fornisce un segnale Internet sia wireless sia cablato e consente di inserire una o più schede SIM diret</Description>
+    <Price>965.90</Price>
+    <Code>5555176</Code>
+    <Link>https://www.onautica.com/products/antenna-wi-fi-4g-scout-compact-basic-per-barca?variant=54099679707483&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555176-0.webp?v=1789633443</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8052990122240</EanCode>
+    <Weight>2.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555176-1.webp?v=1789633445</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555176-2.webp?v=1789633447</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>antenna-wi-fi-4g-scout-compact-basic-per-barca</ParentID>
+  </Offer>
+  <Offer>
     <Name>Antenna Wi-Fi/5G Glomex Webboat ePlus - 1,20 kg</Name>
     <Brand>Glomex</Brand>
     <Description>L&apos;antenna Wi-Fi/5G Glomex Webboat ePlus consente di captare e distribuire a bordo il segnale Wi-Fi e la rete dati mobile 5G, offrendo la possibilità di restare connessi a internet in barca. È disponibile in un&apos;unica versione, compatta e leggera, pensata p</Description>
@@ -20328,6 +20263,22 @@
     <ParentID>carrello-randa-lewmar-ntr-su-sfere-in-torlon-con-supporto-verticale-serie-ntr-fino-a-10-o-14-m</ParentID>
   </Offer>
   <Offer>
+    <Name>Supporto Inox Glomex per Antenna Satellitare, Regolabile 0-5° - Versione unica</Name>
+    <Brand>Glomex</Brand>
+    <Description>Il supporto Glomex in acciaio inox è una base regolabile da 0 a 5°, pensata per il montaggio su piano delle antenne satellitari Glomex. La base ha un diametro di 240 mm. A chi è rivolto È rivolto a chi deve installare un&apos;antenna satellitare Glomex su un p</Description>
+    <Price>583.90</Price>
+    <Code>5509500</Code>
+    <Link>https://www.onautica.com/products/supporto-inox-glomex-per-antenna-satellitare-regolabile-0-5?variant=54096215507291&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5509500-0.webp?v=1789578310</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>8051566300181</EanCode>
+    <Weight>3.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>supporto-inox-glomex-per-antenna-satellitare-regolabile-0-5</ParentID>
+  </Offer>
+  <Offer>
     <Name>Toilet Elettrica Johnson SPX Aqua-T Silent - Compact 12V</Name>
     <Brand>Johnson</Brand>
     <Description>La toilet elettrica Johnson SPX Aqua-T Silent è un WC marino con pompa elettrica integrata e ciclo di scarico automatico. Il funzionamento è silenzioso grazie alla pompa insonorizzata, e il sistema gestisce in automatico l&apos;ingresso dell&apos;acqua e lo scarico</Description>
@@ -20412,6 +20363,24 @@
     <ParentID>vang-bamar-a-stelo-rigido-con-accessori-di-montaggio</ParentID>
   </Offer>
   <Offer>
+    <Name>VHF GMDSS Icom IC-GM1600E Portatile - VHF GMDSS IC-GM1600E</Name>
+    <Brand>Icom</Brand>
+    <Description>Il VHF GMDSS Icom IC-GM1600E è un ricetrasmettitore conforme ai requisiti dello standard MED europeo (ETS 300 225 terza ed.) per la massima sicurezza in mare. È a norme GMDSS per imbarcazioni di salvataggio (scialuppe) solo se abbinato alla batteria al li</Description>
+    <Price>587.90</Price>
+    <Code>5555600</Code>
+    <Link>https://www.onautica.com/products/vhf-gmdss-icom-ic-gm1600e-portatile?variant=54099690848603&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555600-0.webp?v=1789633483</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>4909723163015</EanCode>
+    <Weight>1.10</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555600-1.webp?v=1789633486</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5555600-2.webp?v=1789633487</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>vhf-gmdss-icom-ic-gm1600e-portatile</ParentID>
+  </Offer>
+  <Offer>
     <Name>VHF Icom IC-M510E - VHF IC-M510E</Name>
     <Brand>Icom</Brand>
     <Description>Il VHF Icom IC-M510E è un apparato per le comunicazioni radio marine a bordo. Il modello può essere abbinato ad accessori dedicati che ne ampliano l&apos;uso, disponibili come articoli separati. Oltre al VHF, sono disponibili il microfono remoto CommandMic HM-</Description>
@@ -20427,6 +20396,37 @@
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5633620_2.webp?v=1787458303</Image3>
     <Condition>nuovo</Condition>
     <ParentID>vhf-icom-ic-m510e</ParentID>
+  </Offer>
+  <Offer>
+    <Name>VHF Simrad RS40-B con AIS Classe B - Con GPS interno</Name>
+    <Brand>Simrad</Brand>
+    <Description>Il VHF Simrad RS40-B include un ricetrasmettitore AIS di classe B, che non solo riceve i bersagli AIS ma trasmette anche la posizione dell&apos;imbarcazione alle altre unità dotate di AIS, aiutando gli altri marinai a individuare la barca in ogni condizione, d</Description>
+    <Price>1193.90</Price>
+    <Code>5606028</Code>
+    <Link>https://www.onautica.com/products/vhf-simrad-rs40-b-con-ais-classe-b?variant=54099678658907&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5606028-0.webp?v=1789633439</Image>
+    <ShippingCost>0</ShippingCost>
+    <EanCode>9420024172506</EanCode>
+    <Weight>2.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vhf-simrad-rs40-b-con-ais-classe-b</ParentID>
+  </Offer>
+  <Offer>
+    <Name>VHF Simrad RS40-B con AIS Classe B - Con antenna GPS esterna</Name>
+    <Brand>Simrad</Brand>
+    <Description>Il VHF Simrad RS40-B include un ricetrasmettitore AIS di classe B, che non solo riceve i bersagli AIS ma trasmette anche la posizione dell&apos;imbarcazione alle altre unità dotate di AIS, aiutando gli altri marinai a individuare la barca in ogni condizione, d</Description>
+    <Price>1310.90</Price>
+    <Code>5606029</Code>
+    <Link>https://www.onautica.com/products/vhf-simrad-rs40-b-con-ais-classe-b?variant=54099678691675&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Elettronica;VHF e Comunicazione</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/5606028-0.webp?v=1789633439</Image>
+    <ShippingCost>0</ShippingCost>
+    <Weight>2.10</Weight>
+    <Condition>nuovo</Condition>
+    <ParentID>vhf-simrad-rs40-b-con-ais-classe-b</ParentID>
   </Offer>
   <Offer>
     <Name>WC Elettrico Jabsco Compact Quiet E2 - 12V</Name>
