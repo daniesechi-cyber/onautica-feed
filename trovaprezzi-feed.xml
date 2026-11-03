@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Feed Trovaprezzi.it — Onautica.com -->
-<!-- Generato: 2026-11-02T19:11:29.048Z -->
-<!-- Offerte: 35 -->
+<!-- Generato: 2026-11-03T07:32:19.525Z -->
+<!-- Offerte: 36 -->
 <Products>
   <Offer>
     <Name>Telo Copertura Termoretraibile MY200 MTM - 12 m</Name>
@@ -328,6 +328,23 @@
     <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-rib-modello-c-t-top.webp?v=1788283868</Image>
     <ShippingCost>13.90</ShippingCost>
     <Weight>17.00</Weight>
+    <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-rib-modello-c-t-top_schema.webp?v=1788283870</Image2>
+    <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/TelonesartorialexgommoneOceanSouthc.webp?v=1788283872</Image3>
+    <Condition>nuovo</Condition>
+    <ParentID>oceansouth-telo-rib-modello-c-t-top</ParentID>
+  </Offer>
+  <Offer>
+    <Name>Telo Copribarca per Gommone RIB con T-Top – Oceansouth Modello C - 1060/1100 cm.</Name>
+    <Brand>Oceansouth</Brand>
+    <Description>Il Telo Copribarca Oceansouth (Modello C) è progettato specificamente per garantire una protezione totale ai Gommoni a Chiglia Rigida (RIB) equipaggiati con Console Centrale e T-Top . Ideale per il rimessaggio invernale e lo stoccaggio a lungo termine, qu</Description>
+    <Price>634.50</Price>
+    <Code>46.165.29</Code>
+    <Link>https://www.onautica.com/products/oceansouth-telo-rib-modello-c-t-top?variant=52522228973915&amp;utm_source=trovaprezzi&amp;utm_medium=cpc&amp;utm_campaign=feed</Link>
+    <Stock>disponibile</Stock>
+    <Categories>Nautica;Teli e Coperture;Copribarca</Categories>
+    <Image>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-rib-modello-c-t-top.webp?v=1788283868</Image>
+    <ShippingCost>13.90</ShippingCost>
+    <Weight>17.40</Weight>
     <Image2>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/oceansouth-telo-rib-modello-c-t-top_schema.webp?v=1788283870</Image2>
     <Image3>https://cdn.shopify.com/s/files/1/0879/3191/2539/files/TelonesartorialexgommoneOceanSouthc.webp?v=1788283872</Image3>
     <Condition>nuovo</Condition>
